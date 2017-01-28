@@ -35,7 +35,7 @@ To build a connected and united Chinese community with respect to their socioeco
 ## Our History
 
 {% for entry in site.about_history %}
-  <a href="{{ entry.url }}"><h3>{{ entry.title }}</h3></a>
+  <a href="{{ entry.url }}">{{ entry.title }}</a>
 {% endfor %}
 
 ## Featured Community Members
