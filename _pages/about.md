@@ -25,7 +25,7 @@ feature_row:
     excerpt: "<p>Alisha, a senior at Portland's Lincoln High, was named one of the nation's 10 top teen volunteers in 2016. She has created and led a large nonprofit, Kids First Project, devoted to helping homeless youth break the generational cycle of poverty.</p><p>For her work, she was appointed by Mayor Hales to be the first high school student in history to serve as City of Portland’s Human Rights Commissioner.</p><p>She also sits in several youth advisory boards in national and global organizations.</p>"
   - image_path: /assets/images/members/Isabelle-Zheng.jpg
     title: "Isabelle Zheng"
-    excerpt: "<p>Isabelle, a junior at Catlin Gabel School, is the co-founder and executive director of 'Project Prelude,' a non-profit organization she started with a fellow musician that provides free after-school group violin lessons to dozens of fourth- through sixth-graders in the Portland area. She is also a dedicated flutist in her youth orchestra, an advocate of youth entrepreneurship, and active club leader at her school.</p><p>Isabelle is the distinguished finalist for 2017 Prudential Spirit of Community Awards</p>"
+    excerpt: "<p>Isabelle, a junior at Catlin Gabel School, is the co-founder and executive director of 'Project Prelude,' a non-profit organization she started with a fellow musician that provides free after-school group violin lessons to dozens of fourth- through sixth-graders in the Portland area. She is also a dedicated flutist in her youth orchestra, an advocate of youth entrepreneurship, and active club leader at her school.</p><p>Isabelle is the distinguished finalist for 2017 Prudential Spirit of Community Awards.</p>"
 ---
 ## Our Mission
 
