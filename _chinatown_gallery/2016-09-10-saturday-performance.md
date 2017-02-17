@@ -81,3 +81,5 @@ main_performance:
 
 
 {% include gallery id="main_performance" %}
+
+<iframe src="{{ site.url }}/assets/pdf/916.pdf" style="width: 100%; height: 600px"></iframe>
