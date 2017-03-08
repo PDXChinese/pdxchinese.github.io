@@ -1,5 +1,5 @@
 ---
-title: "Chinese School"
+title: "Youth Conference"
 permalink: /youthconference/
 ---
 
