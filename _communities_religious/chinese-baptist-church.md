@@ -21,6 +21,7 @@ Over 135 years later, CBC continues to serve the community by Christ’s grace.
 
 1938 southeast ladd avenue
 portland, oregon 97214
+
 p: 503.234.2022
 
 e: cbc.pdx@gmail.com
