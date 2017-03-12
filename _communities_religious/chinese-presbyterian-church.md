@@ -5,7 +5,7 @@ sidebar:
     text: "[chinesepresbyterian.com](http://chinesepresbyterian.com/)"
 ---
 
-![]({{ site.url }}/assets/images/communities/presbyterian-church.jpg)
+![]({{ site.url }}/assets/images/communities/presbyterian-church.JPG)
 
 ## 歡迎
 
