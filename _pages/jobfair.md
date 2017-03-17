@@ -5,11 +5,9 @@ permalink: /jobfair/
 <p><img src="/assets/images/activities/embassysuite.jpg"></p>
 
 ## 时间：
-
-5/14/2017 9:00 am - 3:00 pm
+5/14/2017 10:00 am - 3:30 pm
 
 ## 地点：
-
 Embassy Suites by Hilton Portland - Washington Square
 9000 SW Washington Square Road, Tigard, Oregon 97223
 
@@ -21,21 +19,21 @@ Embassy Suites by Hilton Portland - Washington Square
 
 附录: Technology Sectors
 
-<p>Aerospace</p>
-<p>Audio Technology</p>
-<p>Automotive</p>
-<p>Artificial Intelligence</p>
-<p>Biotechnology</p>
-<p>Bioinformatics</p>
-<p>Computer Engineering</p>
-<p>Electrical and Electronic Engineering</p>
-<p>Information Technology</p>
-<p>Nanotechnology</p>
-<p>Nuclear Physics</p>
-<p>Photonics</p>
-<p>Robotics</p>
-<p>Semiconductors</p>
-<p>Telecommunications</p>
+Aerospace;
+Audio Technology;
+Automotive;
+Artificial Intelligence;
+Biotechnology;
+Bioinformatics;
+Computer Engineering;
+Electrical and Electronic Engineering;
+Information Technology;
+Nanotechnology;
+Nuclear Physics;
+Photonics;
+Robotics;
+Semiconductors;
+Telecommunications
 
 Corporate Invitation Letter
 <iframe src="{{ site.url }}/assets/pdf/2017_CASPA_OCC_Job_Fair_V1.pdf" style="width: 100%; height: 600px"></iframe>
