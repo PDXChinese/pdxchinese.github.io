@@ -3,7 +3,7 @@ title: "2017 Oregon Youth  Conference"
 permalink: /youthconference/
 ---
 
-<p><img src="/assets/images/activities/embassysuite.jpg"></p>
+<p><img src="/assets/images/activities/embassysuite2.jpg"></p>
 
 ## 时间：
 6/24/2017 10:00 am - 3:30 pm
