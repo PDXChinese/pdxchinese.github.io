@@ -1,5 +1,5 @@
 ---
-title: "2017 Oregon Youth  Conference"
+title: "2017 Oregon Chinese Youth  Conference"
 permalink: /youthconference/
 ---
 
