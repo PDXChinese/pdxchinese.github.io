@@ -36,4 +36,7 @@ Semiconductors;
 Telecommunications
 
 Corporate Invitation Letter
-<iframe src="{{ site.url }}/assets/pdf/2017_CASPA_OCC_Job_Fair_V1.pdf" style="width: 100%; height: 600px"></iframe>
+<iframe src="{{ site.url }}/assets/pdf/2017-Portland_CASPA_OCCjobfair+final317.pdf" style="width: 100%; height: 600px"></iframe>
+
+Corporate Signup Sheet
+<iframe src="{{ site.url }}/assets/pdf/2017_Portland_CASPA_Job_Fair_Company_Signup_Sheet+final.pdf" style="width: 100%; height: 600px"></iframe>
