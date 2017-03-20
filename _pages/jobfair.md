@@ -40,3 +40,7 @@ Corporate Invitation Letter
 
 Corporate Signup Sheet
 <iframe src="{{ site.url }}/assets/pdf/2017_Portland_CASPA_Job_Fair_Company_Signup_Sheet+final.pdf" style="width: 100%; height: 600px"></iframe>
+
+Confirmed Companies
+
+<p><img src="/assets/images/activities/huawei.jpg"></p>
