@@ -47,3 +47,5 @@ Corporate Signup Sheet
 ## Confirmed Companies
 
 {% include feature_row %}
+
+## Sponsors
