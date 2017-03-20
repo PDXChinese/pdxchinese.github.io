@@ -4,6 +4,8 @@ permalink: /jobfair/
 feature_row:
   - image_path: /assets/images/activities/huawei.jpg
     title: "Huawei Technologies Co. Ltd."
+  - image_path: /assets/images/activities/tsmc.jpg
+    title: "Taiwan Semiconductor Manufacturing Co. Ltd."
 ---
 <p><img src="/assets/images/activities/embassysuite.jpg"></p>
 
