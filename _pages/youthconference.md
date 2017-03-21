@@ -27,6 +27,6 @@ Exhibitions by local Chinese schools, clubs, NPOs, startups, and sponsoring comp
 
 ## Mae Yih
 <p><img src="/assets/images/activities/mae_yih.jpg"></p>
-A former member of both houses of the legislature of the U.S. state of Oregon. She is the first Chinese American to serve in a state senate in the United States. She is the author of East Meets West (2017).
+Mae Yih serves in both Oregon House and Senate. First Chinese American woman to be elected to the state legislature in the US in 1976.  
 
 会有更多嘉宾，敬请经常回来查询。
