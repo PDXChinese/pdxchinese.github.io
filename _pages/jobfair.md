@@ -9,20 +9,22 @@ feature_row:
 ---
 <p><img src="/assets/images/activities/embassysuite.jpg"></p>
 
-## 时间：
+## Date and Time
 5/14/2017 10:00 am - 3:30 pm
 
-## 地点：
+## Place
 Embassy Suites by Hilton Portland - Washington Square
 9000 SW Washington Square Road, Tigard, Oregon 97223
 
-华美半导体协会(CASPA)将本年度的招聘会（job fair）的一个会场放在波特兰。如此一个好机会，怎么可以错过！我们作为社区定将全力支持CASPA波特兰作为主办方的这次招聘会。与此同时，我们也达成了一个共识，那就是此次招聘会将不仅限于半导体行业，而是要囊括各个科技领域，范围取决于我们能招来多少招聘公司。
+The Portland job fair is co-sponsored by Chinese American Semiconductor Professional Association (CASPA) and Oregon Chinese Coalition (OCC). It is part of annual job fair series by CASPA. Portland is one of the two sites for 2017 CASPA Job Fair, the other one is located Silicon Valley, California.
 
-我们现在已经建立了一个筹备小组，暂由Yanjie Jay Wang (CASPA波特兰分会会长)，石珏(CASPA波特兰分会理事)，凡草和我（西北兆）组成。马上会招兵买马，希望全社区能参与进来，利用一切可以利用的资源，吸引国内的和本土的，甚至是国际上的公司，无论大小，前来参加招聘会。有任何线索的，请与我们任何一位（主要是Jay和石珏）联系即可。我们会制作一个Google文件，帮助Track参加招聘会的公司，也方便社区成员了解相关的工作机会。
+Since 1995, CASPA High-Tech Job Fair has attracted many international and US companies and thousands of job seekers. With a mission to promote technology innovation through extensive networks from our nine chapters worldwide, CASPA is here to serve your company and to help talented high-tech professionals look for new or better opportunities. This noble goal can only be accomplished with your support by taking full advantage of this excellent opportunity to recruit qualified professionals for your business needs.
+Newly formed OCC strives to serve all Chinese in State of Oregon. We will take advantage of our influence and network across the state to achieve an excellent participation by the well qualified job seekers, especially those experienced professions in the corporate world as well as those graduating seniors from universities including OSU, UO and PSU.
 
-我们的想法是此次招聘会欢迎全州各地华人积极参与，不仅仅是在职的，也包括在OSU，UO，PSU。。。的在校应届毕业生们。我们初步的估算是吸引30家公司，300应聘华人。为社区招聘会定下调子。
+We cordially invite technology companies that fall into the following categories to participate in this event. We also appreciate any companies or organizations to be our sponsors.
 
-附录: Technology Sectors
+
+Technology Sectors
 
 Aerospace;
 Audio Technology;
