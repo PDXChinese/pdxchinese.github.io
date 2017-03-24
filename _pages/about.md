@@ -37,13 +37,7 @@ To build a connected and united Chinese community with respect to their socioeco
 
 ## Board of Directors
 
-
-
-## Our History
-
-{% for entry in site.about_history %}
-  <a href="{{ entry.url }}">{{ entry.title }}</a>
-{% endfor %}
+Hui Du, Qusheng Jin, Eric Shi, Jue Shi, Bing Wang, Yan Wang, Ping Wu, Kent Yu, Hongcheng Zhao
 
 ## Featured Community Members
 
