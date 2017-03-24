@@ -39,6 +39,12 @@ To build a connected and united Chinese community with respect to their socioeco
 
 Hui Du, Qusheng Jin, Eric Shi, Jue Shi, Bing Wang, Yan Wang, Ping Wu, Kent Yu, Hongcheng Zhao
 
+## Legal Council
+
+James E. McCandlish
+
+Mr. McCandlish graduated with honors from Harvard College in 1967. After obtaining his bachelor’s degree, he spent two and a half years working in the Peace Corps in central Africa. Returning to his native Oregon, Jim worked his way through law school in Portland at Northwestern School of Law (Lewis & Clark). He served as staff co-counsel for the Senate Judiciary Committee in Salem. He spent two years with the Metro Public Defender's office in Portland gaining valuable and extensive jury trial experience. Jim started his own firm in 1981, and joined forces with Mark Griffin in 1988.
+
 ## Featured Community Members
 
 {% include feature_row %}
