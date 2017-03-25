@@ -6,10 +6,6 @@ feature_row:
     title: "Huawei Technologies Co. Ltd."
   - image_path: /assets/images/activities/tsmc.jpg
     title: "Taiwan Semiconductor Manufacturing Co. Ltd."
-feature2_row:
-  - image_path: /assets/images/activities/beida.jpg
-    title: "Oregon PKU Alumni Association"
-
 ---
 <p><img src="/assets/images/activities/embassysuite.jpg"></p>
 
@@ -57,5 +53,3 @@ Corporate Signup Sheet
 {% include feature_row %}
 
 ## Gold Sponsors
-
-{% include feature2_row %}
