@@ -37,27 +37,27 @@ To build a connected and united Chinese community with respect to their socioeco
 
 ## Board of Directors
 
-Hui Du
+### Hui Du
 
-Qusheng Jin
+### Qusheng Jin
 
 Mr. Jin graduated from Nanjing University with BS degree in 1994 and then received his MS degree from Chinese Academy of Science and Ph.D. from UIUC. He has been a faculty in University of Oregon since 2005. As an Oregonian, biking is his biggest hobby. He and his wife have two sons, one enjoys swimming and the other is big fan of Youtube.
 
-Eric Shi
+### Eric Shi
 
-Jue Shi
+### Jue Shi
 
-Bing Wang
+### Bing Wang
 
-Yan Wang
+### Yan Wang
 
-Peng Wu
+### Peng Wu
 
-Kent Yu
+### Kent Yu
 
 Mr. Yu received MS from Tongji University in 1994 and PhD from UCSD in 1999.  He is an adjunct professor at PSU and OSU. From 2007 to 2015, Kent also served in Oregon Seismic Safety Policy Advisory Commission and was its Chairperson for one term. He has two kids. When he is not accompanying them, he enjoys socializing with friends. He also has hobbies in golfing and fishing.
 
-Hongcheng Zhao
+### Hongcheng Zhao
 
 Mr. Zhao attended Peking University in China. He came to the States as a Visiting Scholar in Harvard University in 1989. He has been working in the healthcare industry for more than twenty years. He and his wife chose Portland to raise their family. They have three children who are all very passionate about community services and social justice.
 
