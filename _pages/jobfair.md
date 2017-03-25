@@ -1,11 +1,14 @@
 ---
 title: "2017 Portland High-Tech Job Fair"
 permalink: /jobfair/
-feature_row:
+feature_row1:
   - image_path: /assets/images/activities/huawei-logo.jpg
     title: "Huawei Technologies Co. Ltd."
   - image_path: /assets/images/activities/tsmc.jpg
     title: "Taiwan Semiconductor Manufacturing Co. Ltd."
+feature_row2:
+  - image_path: /assets/images/activities/beida.jpg
+    title: "Oregon PKU Alumni Association"
 ---
 <p><img src="/assets/images/activities/embassysuite.jpg"></p>
 
@@ -50,6 +53,8 @@ Corporate Signup Sheet
 
 ## Confirmed Companies
 
-{% include feature_row %}
+{% include feature_row id="feature_row1"%}
 
 ## Gold Sponsors
+
+{% include feature_row id="feature_row2"%}
