@@ -47,7 +47,7 @@ Mr. Jin graduated from Nanjing University with BS degree in 1994 and then receiv
 
 ### Jue Shi
 
-### Bing Wang
+### Miaolian Wang
 
 ### Yan Wang
 
