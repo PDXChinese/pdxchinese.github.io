@@ -8,7 +8,7 @@ feature_row1:
     title: "Taiwan Semiconductor Manufacturing Co. Ltd."
 feature_row2:
   - image_path: /assets/images/activities/beida.jpg
-    title: "Oregon PKU Alumni Association"
+    title: "Peking University Alumni Association of Oregon"
 ---
 <p><img src="/assets/images/activities/embassysuite.jpg"></p>
 
