@@ -63,7 +63,7 @@ Mr. Zhao attended Peking University in China. He came to the States as a Visitin
 
 ## Legal Council
 
-# James E. McCandlish
+### James E. McCandlish
 
 Mr. McCandlish graduated with honors from Harvard College in 1967. He then worked in the Peace Corps in central Africa. He received his law degree at Northwestern School of Law (Lewis & Clark). He served as staff co-counsel for the Senate Judiciary Committee in Salem. He spent two years with the Metro Public Defender's office in Portland. He started his own firm in 1981, and joined forces with Mark Griffin in 1988.
 
