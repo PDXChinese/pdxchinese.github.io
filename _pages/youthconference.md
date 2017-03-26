@@ -29,4 +29,9 @@ Exhibitions by local Chinese schools, clubs, NPOs, startups, and sponsoring comp
 <p><img src="/assets/images/activities/mae_yih.jpg"></p>
 Mae Yih serves in both Oregon House and Senate. First Chinese American woman to be elected to the state legislature in the US in 1976.  
 
+## John Iglesias
+<p><img src="/assets/images/activities/iglesias.png"></p>
+John Iglesias, born in the Territory of Guam, served 18 years as Intelligence Officer in US Navy, is now President &
+Chief Executive Officer at Northwest Community Credit Union.
+
 会有更多嘉宾，敬请经常回来查询。
