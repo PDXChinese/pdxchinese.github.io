@@ -45,11 +45,15 @@ Mr. Jin graduated from Nanjing University with BS degree in 1994 and then receiv
 
 ### Eric Shi
 
+Mr. Shi received his B.S. from Shanghai U. of Sci. & Tech. After he came to the U.S. in 1989, he has obtained his M.S. from Oregon State and attended OGI for management courses. He devotes his time to support and promote small/startup companies in product development and market penetration. Making himself a home in Oregon with his wife and two boys, he wishes to make use of his skillset and contribute to the good of the community.
+
 ### Jue Shi
 
 ### Miaolian Wang
 
 ### Yan Wang
+
+Mrs. Wang graduated from Beijing Normal University with BA degree and then received MA degree in History from Peking University and MA degree in East Asian Languages and Cultures from Columbia University in 2009. She is an independent researcher and educator in the fields of Sinology and Asian American Studies. She and her husband live in Corvallis with two daughters. Like traditional Chinese literati, she enjoys Qin, Go, Calligraphy, and Painting with family and friends. 
 
 ### Peng Wu
 
