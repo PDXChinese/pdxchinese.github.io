@@ -16,4 +16,6 @@ permalink: /communityfund/
 
 ## $1,000 and Above
 
-## $500 and Above
+### Tech 4 Kids Club
+
+## $300 ~ $999
