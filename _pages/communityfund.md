@@ -2,5 +2,4 @@
 title: "Community Fund"
 permalink: /communityfund/
 ---
-
-Funds and stuff
+<p><img src="/assets/images/activities/fund-logo2.jpg"></p>
