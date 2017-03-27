@@ -51,6 +51,8 @@ Mr. Shi received his B.S. from Shanghai U. of Sci. & Tech. After he came to the 
 
 ### Jue Shi
 
+Mr. Shi graduated from Peking University with B.S. and M.S. degree, both in electrical engineering field. He was a senior electrical engineer, worked for 17 years in Maxim integrated products,inc. He loves technologies and organizes a tech solon for local engineers with weekly seminars on broad topics. He and his wife live in Portland, OR with two sons.
+
 ### Miaolian Wang
 
 ### Yan Wang
