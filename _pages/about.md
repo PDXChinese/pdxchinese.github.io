@@ -39,6 +39,8 @@ To build a connected and united Chinese community with respect to their socioeco
 
 ### Hui Du
 
+Ms. Du holds a M.S. degree in Statistics from the University of Chicago. She also received a B.S. degree in Computer Science from Tsinghua University in 1996. She is passionate about education and giving back to her community, including working as volunteer Chinese language teacher for 10 years and hosting the first and largest social media group in northwest Portland to support the local Chinese community. She has two kids. Travel is her biggest hobby.
+
 ### Qusheng Jin
 
 Mr. Jin graduated from Nanjing University with BS degree in 1994 and then received his MS degree from Chinese Academy of Science and Ph.D. from UIUC. He has been a faculty in University of Oregon since 2005. As an Oregonian, biking is his biggest hobby. He and his wife have two sons, one enjoys swimming and the other is big fan of Youtube.
@@ -53,7 +55,7 @@ Mr. Shi received his B.S. from Shanghai U. of Sci. & Tech. After he came to the 
 
 ### Yan Wang
 
-Mrs. Wang graduated from Beijing Normal University with BA degree and then received MA degree in History from Peking University and MA degree in East Asian Languages and Cultures from Columbia University in 2009. She is an independent researcher and educator in the fields of Sinology and Asian American Studies. She and her husband live in Corvallis with two daughters. Like traditional Chinese literati, she enjoys Qin, Go, Calligraphy, and Painting with family and friends. 
+Mrs. Wang graduated from Beijing Normal University with BA degree and then received MA degree in History from Peking University and MA degree in East Asian Languages and Cultures from Columbia University in 2009. She is an independent researcher and educator in the fields of Sinology and Asian American Studies. She and her husband live in Corvallis with two daughters. Like traditional Chinese literati, she enjoys Qin, Go, Calligraphy, and Painting with family and friends.
 
 ### Peng Wu
 
