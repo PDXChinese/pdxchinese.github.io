@@ -59,9 +59,9 @@ Mr. Shi graduated from Peking University with B.S. and M.S. degree, both in elec
 
 Mrs. Wang graduated from Beijing Normal University with BA degree and then received MA degree in History from Peking University and MA degree in East Asian Languages and Cultures from Columbia University in 2009. She is an independent researcher and educator in the fields of Sinology and Asian American Studies. She and her husband live in Corvallis with two daughters. Like traditional Chinese literati, she enjoys Qin, Go, Calligraphy, and Painting with family and friends.
 
-### Peng Wu
+### Karen-Peng Wu
 
-Mrs. Wu has a MBA degree with a biotech background. She works as an independent consultant. However, Karen values active community service and serves in a number of non-profit organizations including Oregon Skating Council, Tech 4 Kids Club and USFSA, etc. Karen has been a Portlander for 14 years with her husband and two kids. She enjoys spending time with family and volunteer in skating competitions. 
+Mrs. Wu has a MBA degree with a biotech background. She works as an independent consultant. However, Karen values active community service and serves in a number of non-profit organizations including Oregon Skating Council, Tech 4 Kids Club and USFSA, etc. Karen has been a Portlander for 14 years with her husband and two kids. She enjoys spending time with family and volunteer in skating competitions.
 
 ### Kent Yu
 
