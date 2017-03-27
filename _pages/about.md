@@ -61,6 +61,8 @@ Mrs. Wang graduated from Beijing Normal University with BA degree and then recei
 
 ### Peng Wu
 
+Mrs. Wu has a MBA degree with a biotech background. She works as an independent consultant. However, Karen values active community service and serves in a number of non-profit organizations including Oregon Skating Council, Tech 4 Kids Club and USFSA, etc. Karen has been a Portlander for 14 years with her husband and two kids. She enjoys spending time with family and volunteer in skating competitions. 
+
 ### Kent Yu
 
 Mr. Yu received MS from Tongji University in 1994 and PhD from UCSD in 1999.  He is an adjunct professor at PSU and OSU. From 2007 to 2015, Kent also served in Oregon Seismic Safety Policy Advisory Commission and was its Chairperson for one term. He has two kids. When he is not accompanying them, he enjoys socializing with friends. He also has hobbies in golfing and fishing.
