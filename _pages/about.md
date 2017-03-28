@@ -61,7 +61,7 @@ Mrs. Wang graduated from Beijing Normal University with BA degree and then recei
 
 ### Karen-Peng Wu
 
-Mrs. Wu has a MBA degree with a biotech background. She works as an independent consultant. However, Karen values active community service and serves in a number of non-profit organizations including Oregon Skating Council, Tech 4 Kids Club and USFSA, etc. Karen has been a Portlander for 14 years with her husband and two kids. She enjoys spending time with family and volunteer in skating competitions.
+Mrs. Wu has a BA in Genetics and an MBA. Utilizing her biotech background, she conducted research at Ceres, CalTech and OHSU. She works as an independent consultant last 8 years. Karen currently serves in a number of NPO’s in her community: Oregon Skating Council, Tech 4 Kids Club and USFSA, etc. Karen has been a Portlander for 14 years with her husband and two kids, she enjoys going on long walks and travelling.
 
 ### Kent Yu
 

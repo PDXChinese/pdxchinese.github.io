@@ -21,6 +21,6 @@ permalink: /communityfund/
 
 ## $300 ~ $999
 
-###     Sushi Mioga
+###     Sushi Myoga
 
 ## Under $300
