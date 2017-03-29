@@ -55,6 +55,8 @@ Mr. Shi graduated from Peking University with B.S. and M.S. degree, both in elec
 
 ### Miaolian Wang
 
+Mrs. Wang earned Computer Science degrees from McMaster University (MS) and Central South University (BS).  She has helped at CEC Chinese school as a teaching assistant, served at her children's school as a board member on the parent-teacher committee, and devoted her time in various community services.  She and her husband moved to Oregon 14 years ago.  She lives with her husband and two daughters in Beaverton.  She likes traveling, and socializing with friends.
+
 ### Yan Wang
 
 Mrs. Wang graduated from Beijing Normal University with BA degree and then received MA degree in History from Peking University and MA degree in East Asian Languages and Cultures from Columbia University in 2009. She is an independent researcher and educator in the fields of Sinology and Asian American Studies. She and her husband live in Corvallis with two daughters. Like traditional Chinese literati, she enjoys Qin, Go, Calligraphy, and Painting with family and friends.
