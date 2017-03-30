@@ -73,7 +73,7 @@ Mr. Yu received MS from Tongji University in 1994 and PhD from UCSD in 1999.  He
 
 Mr. Zhao attended Peking University in China. He came to the States as a Visiting Scholar in Harvard University in 1989. He has been working in the healthcare industry for more than twenty years. He and his wife chose Portland to raise their family. They have three children who are all very passionate about community services and social justice.
 
-## Legal Council
+## Legal Counsel 
 
 ### James E. McCandlish
 
