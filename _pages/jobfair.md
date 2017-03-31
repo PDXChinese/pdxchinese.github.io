@@ -45,7 +45,7 @@ Robotics;
 Semiconductors;
 Telecommunications
 
-[Corporate Invitation Letter](src="{{ site.url }}/assets/pdf/2017-Portland_CASPA_OCCjobfair+final317.pdf")
+[Corporate Invitation Letter](/assets/pdf/2017-Portland_CASPA_OCCjobfair+final317.pdf")
 <iframe src="{{ site.url }}/assets/pdf/2017-Portland_CASPA_OCCjobfair+final317.pdf" style="width: 100%; height: 600px"></iframe>
 
 Corporate Signup Sheet
