@@ -46,10 +46,8 @@ Semiconductors;
 Telecommunications
 
 [Corporate Invitation Letter](/assets/pdf/2017-Portland_CASPA_OCCjobfair+final317.pdf)
-<iframe src="{{ site.url }}/assets/pdf/2017-Portland_CASPA_OCCjobfair+final317.pdf" style="width: 100%; height: 600px"></iframe>
 
 [Corporate Signup Sheet](/assets/pdf/2017-Portland_CASPA_Company_Signup.pdf)
-<iframe src="{{ site.url }}/assets/pdf/2017-Portland_CASPA_Company_Signup.pdf" style="width: 100%; height: 600px"></iframe>
 
 [Job Fair Presentation PowerPoint Slide](/assets/pdf/JobFair_PPT_PDX.pdf)
 
