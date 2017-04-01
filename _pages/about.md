@@ -8,6 +8,9 @@ feature_row:
   - image_path: /assets/images/members/Min-Gao1.jpg
     title: "Jiamin Gao"
     excerpt: "<p>Jiamin is often called ‘Tai Chi Goddess’ and ‘Tai Chi Queen’ in sports magazines. From 1989 to 1998, she was awarded numerous titles including ‘World Wushu Championship’. She won a total of 32 gold medals during the period. She is the first grand slam in world series and so far no one has ever gone beyond what she had achieved.</p><p>In 2016, during ‘the Second World Tai Chi Chuan’ in Warsaw, Poland, Jiamin was the United States team coach and deputy leader.</p><p>She is running the U.S. Wushu Center in NW Portland.</p>"
+  - image_path: /assets/images/members/Neil-Lee.jpg
+    title: "Neil Lee"
+    excerpt: "<p>Born and raised in Portland Oregon, Mr. Lee represents the American born Chinese community. An Architect by profession, he owns and operates LEEKA Architecture and Planning. Mr. Lee is also very active in the Chinese Community. He is currently holding the leadership positions in various Chinese organizations including CCBA, Bing Kong Tong Association, and Lee's Association. Mr. Lee is committed to improving and uniting our Chinese community through collaboration and cooperation despite language, political, and geographic barriers.</p>"
   - image_path: /assets/images/members/Ni-Xu3.jpg
     title: "Ni Xu"
     excerpt: "<p>Ni was a graduate from Beijing Film Academy, majoring in film script writing.  He had an extensive experience in the film industry, working as a screenwriter, photographer, documentary and film director.</p><p>In 2012, Ni and his family came to the United States, eventually settled in Portland, hoping to do their part to record the revival of the Chinese community in Portland.</p><p>Ni’s wife, Faye, is a marketing guru, who was directly responsible for directing Portland Chinatown Saturday Performance series.</p>"
@@ -73,7 +76,7 @@ Mr. Yu received MS from Tongji University in 1994 and PhD from UCSD in 1999.  He
 
 Mr. Zhao attended Peking University in China. He came to the States as a Visiting Scholar in Harvard University in 1989. He has been working in the healthcare industry for more than twenty years. He and his wife chose Portland to raise their family. They have three children who are all very passionate about community services and social justice.
 
-## Legal Counsel 
+## Legal Counsel
 
 ### James E. McCandlish
 
