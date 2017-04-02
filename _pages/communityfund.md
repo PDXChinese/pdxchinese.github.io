@@ -17,10 +17,8 @@ permalink: /communityfund/
 
 ## $1,000 and Above
 
-###     Tech 4 Kids Club
+### Tech 4 Kids Club,
 
-## $300 ~ $999
+## Under $1,000
 
-###     Sushi Myoga
-
-## Under $300
+### Sushi Myoga

@@ -62,7 +62,7 @@ Mrs. Wang earned Computer Science degrees from McMaster University (MS) and Cent
 
 ### Yan Wang
 
-Mrs. Wang graduated from Beijing Normal University with BA degree and then received MA degree in History from Peking University and MA degree in East Asian Languages and Cultures from Columbia University in 2009. She is an independent researcher and educator in the fields of Sinology and Asian American Studies. She and her husband live in Corvallis with two daughters. Like traditional Chinese literati, she enjoys Qin, Go, Calligraphy, and Painting with family and friends.
+Ms. Wang graduated from Beijing Normal University with BA degree and then received MA degree in History from Peking University and MA degree in East Asian Languages and Cultures from Columbia University in 2009. She is an independent researcher and educator in the fields of Sinology and Asian American Studies. She and her husband live in Corvallis with two daughters. Like traditional Chinese literati, she enjoys Qin, Go, Calligraphy, and Painting with family and friends.
 
 ### Karen-Peng Wu
 
