@@ -39,7 +39,7 @@ To serve every member in Chinese community with a shared vision and resources.
 
 ## Our Vision
 
-To build a connected and united Chinese community with respect to their socioeconomic status, political beliefs, religious and cultural tradition.
+To build a connected and united Chinese community with respect to their socioeconomic status, political beliefs, religious, and cultural tradition.
 
 ## Board of Directors
 
