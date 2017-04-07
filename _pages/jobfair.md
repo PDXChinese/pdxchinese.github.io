@@ -13,7 +13,7 @@ feature_row2:
 <p><img src="/assets/images/activities/embassysuite.jpg"></p>
 
 ## Date and Time
-5/14/2017 10:00 am - 3:30 pm
+5/12/2017 10:00 am - 3:30 pm
 
 ## Place
 Embassy Suites by Hilton Portland - Washington Square
