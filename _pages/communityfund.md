@@ -12,12 +12,20 @@ Oregon Chinese Coalition is a 501c(3) (status is pending, tax deductible benefit
 
 The committee is responsible for quarterly hearing of OCC’s financial operations, advising the best practice of raising and spending the money, and compliance of any financial regulations for NPO.
 
-Ming Brink,
-Xiaohui Chen,
-Hui Du,
-Ge Liu,
-Guangchao Zhang,
-Liwen Zhang,
+### Committee Members:
+
+Ming Brink
+
+Xiaohui Chen
+
+Hui Du
+
+Ge Liu
+
+Guangchao Zhang
+
+Liwen Zhang
+
 Hongcheng Zhao
 
 # Victoria Ren Scholarship
@@ -42,10 +50,10 @@ Your contribution to OCC is tax-deductible under IRC Section 170.
 # Donors
 ### We respect those who choose to be anonymous donors
 
-## $1,000 and Above
+### $1,000 and Above
 
-### Tech 4 Kids Club,
+Tech 4 Kids Club,
 
-## Under $1,000
+### Under $1,000
 
-### Sushi Myoga
+Sushi Myoga
