@@ -52,7 +52,7 @@ We respect those who choose to be anonymous donors
 
 ### $1,000 and Above
 
-Tech 4 Kids Club,
+Tech 4 Kids Club
 
 ### Under $1,000
 
