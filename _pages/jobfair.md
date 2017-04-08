@@ -2,7 +2,7 @@
 title: "2017 Portland High-Tech Job Fair"
 permalink: /jobfair/
 feature_row1:
-  - image_path: /assets/images/activities/library_logos_alibababv_large.png
+  - image_path: /assets/images/activities/library_logos_alibababv_large2.png
     title: "Alibaba Group"
   - image_path: /assets/images/activities/huawei-logo.jpg
     title: "Huawei Technologies Co. Ltd."
