@@ -30,7 +30,7 @@ Hongcheng Zhao
 
 # Victoria Ren Scholarship
 
-Victoria (Zifan) Ren was a student at Findley Elementary School, Beaverton Oregon. She passed away in 2017 after fighting a rare type of cancer for more than three years. She was remembered by her teachers, classmates, friends and neighbors as a very beautiful, smart, and brave girl. Victoria’s parents decided to set up Victoria Ren Scholarship to let her sweetest smile brighten other children in the community who are undergoing physical, emotional or financial stress.
+Victoria (Zifan) Ren was a student at Findley Elementary School, Beaverton Oregon. She passed away in 2017 after fighting a rare type of cancer for more than three years. She was remembered by her teachers, classmates, friends and neighbors as a very beautiful, talented, and brave girl. Victoria’s parents decided to set up Victoria Ren Scholarship to let her sweetest smile brighten other children in the community who are undergoing physical, emotional or financial stress.
 
 Before the end of each school year, a five hundred dollar scholarship will be awarded to a student of any age in the Chinese community. The selection will be made by the Advisory Committee and Victoria’s parents.
 
