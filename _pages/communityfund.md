@@ -17,7 +17,7 @@ Xiaohui Chen,
 Hui Du,
 Ge Liu,
 Guangchao Zhang,
-Liwen Zhang, 
+Liwen Zhang,
 Hongcheng Zhao
 
 # Victoria Ren Scholarship
@@ -28,7 +28,15 @@ Before the end of each school year, a five hundred dollar scholarship will be aw
 
 # How to Donate
 
-![]({{ site.url }}/assets/images/activities/donation2.jpg)
+Thank you for your generosity. Please make sure to (1) leave your email or other contact information, and (2) specify which fund the donation shall go to:
+
+Community fund
+
+Victoria Ren Scholarship
+
+Please choose the way for your most convenience:
+
+![]({{ site.url }}/assets/images/activities/donation.jpg)
 
 Credit Card will be available soon.
 (This will have 2.9% deduction from the donation by PayPal)
