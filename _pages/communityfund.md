@@ -48,7 +48,7 @@ Credit Card will be available soon.
 Your contribution to OCC is tax-deductible under IRC Section 170.
 
 # Donors
-### We respect those who choose to be anonymous donors
+We respect those who choose to be anonymous donors
 
 ### $1,000 and Above
 
