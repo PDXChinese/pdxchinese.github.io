@@ -12,12 +12,12 @@ Oregon Chinese Coalition is a 501c(3) (status is pending, tax deductible benefit
 
 The committee is responsible for quarterly hearing of OCC’s financial operations, advising the best practice of raising and spending the money, and compliance of any financial regulations for NPO.
 
-Ming Brink
-Xiaohui Chen
-Hui Du
-Ge Liu
-Guangchao Zhang
-Liwen Zhang
+Ming Brink,
+Xiaohui Chen,
+Hui Du,
+Ge Liu,
+Guangchao Zhang,
+Liwen Zhang, 
 Hongcheng Zhao
 
 # Victoria Ren Scholarship
