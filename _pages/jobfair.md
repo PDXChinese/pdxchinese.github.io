@@ -45,11 +45,13 @@ Robotics;
 Semiconductors;
 Telecommunications
 
-[Corporate Invitation Letter](/assets/pdf/2017-Portland_CASPA_OCCjobfair+final317.pdf)
+[Corporate Invitation Letter](/assets/pdf/Jobfair+info+PDX-17F.pdf)
 
-[Corporate Signup Sheet](/assets/pdf/2017-Portland_CASPA_Company_Signup.pdf)
+[Corporate Signup Sheet](/assets/pdf/Company+Signup+PDX-17_5_12_v3.pdf)
 
-[Job Fair Presentation PowerPoint Slide](/assets/pdf/JobFair_PPT_PDX.pdf)
+[Job Fair Presentation PowerPoint Slide](/assets/pdf/JobFair+PPT+PDX-17F.pdf)
+
+[Job Fair Flyer](/assets/pdf/Jobfair+flyer+PDX-17F.pdf)
 
 ## Confirmed Companies
 
