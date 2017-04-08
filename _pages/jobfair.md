@@ -45,13 +45,13 @@ Robotics;
 Semiconductors;
 Telecommunications
 
-[Corporate Invitation Letter](/assets/pdf/jobfair+info+pdx-17f.pdf)
+[Corporate Invitation Letter](/assets/pdf/jobfair_info_pdx_17f.pdf)
 
-[Corporate Signup Sheet](/assets/pdf/company+signup+pdx-17_5_12_v3.pdf)
+[Corporate Signup Sheet](/assets/pdf/company_signup_pdx_17_5_12_v3.pdf)
 
-[Job Fair Presentation PowerPoint Slide](/assets/pdf/jobfair+ppt+pdx-17f.pdf)
+[Job Fair Presentation PowerPoint Slide](/assets/pdf/jobfair_ppt_pdx_17f.pdf)
 
-[Job Fair Flyer](/assets/pdf/jobfair+flyer+pdx-17f.pdf)
+[Job Fair Flyer](/assets/pdf/jobfair_flyer_pdx_17f.pdf)
 
 ## Confirmed Companies
 
