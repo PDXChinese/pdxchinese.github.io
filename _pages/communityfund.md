@@ -28,7 +28,7 @@ Before the end of each school year, a five hundred dollar scholarship will be aw
 
 # How to Donate
 
-![]({{ site.url }}/assets/images/activities/donation.jpg)
+![]({{ site.url }}/assets/images/activities/donation2.jpg)
 
 Credit Card will be available soon.
 (This will have 2.9% deduction from the donation by PayPal)
