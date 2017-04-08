@@ -28,7 +28,7 @@ Before the end of each school year, a five hundred dollar scholarship will be aw
 
 # How to Donate
 
-Thank you for your generosity. Please make sure to (1) leave your name, email or other contact information, and (2) specify which fund the donation shall go to: Community fund or Victoria Ren Scholarship. We will appreciate it if you send us a note to donate@pdxchinese.org. 
+Thank you for your generosity. Please make sure to (1) leave your name, email or other contact information, and (2) specify which fund the donation shall go to: 【Community fund】 or 【Victoria Ren Scholarship】. We will appreciate it if you send us a note to donate@pdxchinese.org after you made the donation.
 
 Please choose the way for your most convenience:
 
