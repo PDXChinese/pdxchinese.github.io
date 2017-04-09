@@ -5,15 +5,15 @@ permalink: /youthconference/
 
 <p><img src="/assets/images/activities/embassysuite2.jpg"></p>
 
-## 时间：
+## 时间 (Date)：
 6/24/2017 10:00 am - 3:30 pm
 
-## 地点：
+## 地点 (Place)：
 Embassy Suites by Hilton Portland - Washington Square
 
 9000 SW Washington Square Road, Tigard, Oregon 97223
 
-## 会议日程：
+## 会议日程 (Proposed Agenda)：
 
 Speeches by the distinguished guests on the topics of civic engagement, mental health, leadership, career path, mentoring...
 
@@ -23,7 +23,7 @@ Workshop on NPO setup, career preparation, EC Boot Camp, college application, pa
 
 Exhibitions by local Chinese schools, clubs, NPOs, startups, and sponsoring companies  
 
-## 演讲嘉宾：
+## 演讲嘉宾 (Confirmed VIP Speakers)：
 
 ## John Iglesias
 <p><img src="/assets/images/activities/iglesias.png"></p>
@@ -39,4 +39,4 @@ Robert Tadjiki is a co-founder and board member of Education for Chinese Orphans
 <p><img src="/assets/images/activities/mae_yih2.jpg"></p>
 Mae Yih serves in both Oregon House and Senate. First Chinese American woman to be elected to the state legislature in the US in 1976.  
 
-会有更多嘉宾，敬请经常回来查询。
+会有更多嘉宾，敬请经常回来查询 (More to come. Please keep checking here for the latest lineup of our speakers)。
