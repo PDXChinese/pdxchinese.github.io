@@ -2,8 +2,6 @@
 title: "Community Fund and Scholarship"
 permalink: /communityfund/
 ---
-# About
-
 Oregon Chinese Coalition is a 501c(3) (status is pending, tax deductible benefit is retroactive to date of registration, which is 3/31/2017) non-profit organization. Its funding entirely comes from donations from community members. Everyone works in this organization as a volunteer. All donations will be used to fund activities related to the community, including Chinatown Saturday Performance, Job Fair, Youth Conference, volunteering activities, mentoring program, discrimination cases, as well as emergency fund for the community members who are going through financial difficulties.
 
 # Advisory Committee
