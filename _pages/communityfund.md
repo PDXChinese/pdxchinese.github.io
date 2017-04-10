@@ -28,7 +28,7 @@ Liwen Zhang
 
 Hongcheng Zhao
 
-<p><img src="/assets/images/activities/victoria-scholarship.jpg"></p>
+<p><img src="/assets/images/activities/victoria_scholarship.jpg"></p>
 
 # Victoria Ren Scholarship
 
