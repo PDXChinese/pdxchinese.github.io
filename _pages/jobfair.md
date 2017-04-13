@@ -6,7 +6,7 @@ feature_row1:
     title: "Alibaba Group"
   - image_path: /assets/images/activities/huawei-logo.jpg
     title: "Huawei Technologies Co. Ltd."
-  - image_path: /assets/images/activities/qorvo.png
+  - image_path: /assets/images/activities/qorvo.jpg
     title: "Qorvo, Inc."
   - image_path: /assets/images/activities/tsmc.jpg
     title: "Taiwan Semiconductor Manufacturing Co. Ltd."
