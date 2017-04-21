@@ -20,8 +20,8 @@ feature_row2:
 5/12/2017 10:00 am - 3:30 pm
 
 ## Place
-Embassy Suites by Hilton Portland - Washington Square
-9000 SW Washington Square Road, Tigard, Oregon 97223
+DoubleTree by Hilton - Portland/Beaverton
+15402 NW Cornell Rd. - Beaverton, OR 97006
 
 The Portland job fair is co-sponsored by Chinese American Semiconductor Professional Association (CASPA) and Oregon Chinese Coalition (OCC). It is part of annual job fair series by CASPA. Portland is one of the two sites for 2017 CASPA Job Fair, the other one is located Silicon Valley, California.
 
