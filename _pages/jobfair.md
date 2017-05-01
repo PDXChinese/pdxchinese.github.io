@@ -15,11 +15,10 @@ feature_row1:
   - image_path: /assets/images/activities/ust.jpg
     title: "UST Global Inc."
 feature_row2:
-  - image_path: /assets/images/activities/beida.jpg
-    title: "Peking University Alumni Association of Oregon"
   - image_path: /assets/images/activities/cfa.jpg
     title: "Chinese Friendship Association of Portland"
----
+  - image_path: /assets/images/activities/beida.jpg
+    title: "Peking University Alumni Association of Oregon"---
 <p><img src="/assets/images/activities/embassysuite.jpg"></p>
 
 ## Date and Time
