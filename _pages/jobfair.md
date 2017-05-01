@@ -10,7 +10,7 @@ feature_row1:
     title: "Semiconductor Manufacturing International Corporation"
   - image_path: /assets/images/activities/hlmc.jpg
     title: "Shanghai Huali Microelectroics Corporation"
-  - image_path: /assets/images/activities/symantec-logo-top.phg
+  - image_path: /assets/images/activities/symantec-logo-top.png
     title: "Symantec Corporation"
   - image_path: /assets/images/activities/ust.png
     title: "UST Global Inc."
