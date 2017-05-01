@@ -2,14 +2,18 @@
 title: "2017 Portland High-Tech Job Fair"
 permalink: /jobfair/
 feature_row1:
-  - image_path: /assets/images/activities/library_logos_alibababv_large2.png
-    title: "Alibaba Group"
+  - image_path: /assets/images/activities/faraday.jpg
+    title: "Faraday Technology Corporation"  
   - image_path: /assets/images/activities/huawei-logo.jpg
     title: "Huawei Technologies Co. Ltd."
-  - image_path: /assets/images/activities/qorvo.jpg
-    title: "Qorvo, Inc."
-  - image_path: /assets/images/activities/tsmc.jpg
-    title: "Taiwan Semiconductor Manufacturing Co. Ltd."
+  - image_path: /assets/images/activities/smic.gif
+    title: "Semiconductor Manufacturing International Corporation"
+  - image_path: /assets/images/activities/hlmc.jpg
+    title: "Shanghai Huali Microelectroics Corporation"
+  - image_path: /assets/images/activities/symantec-logo-top.phg
+    title: "Symantec Corporation"
+  - image_path: /assets/images/activities/ust.png
+    title: "UST Global Inc."
 feature_row2:
   - image_path: /assets/images/activities/beida.jpg
     title: "Peking University Alumni Association of Oregon"
