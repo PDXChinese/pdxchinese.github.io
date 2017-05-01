@@ -6,13 +6,13 @@ feature_row1:
     title: "Faraday Technology Corporation"  
   - image_path: /assets/images/activities/huawei-logo.jpg
     title: "Huawei Technologies Co. Ltd."
-  - image_path: /assets/images/activities/smic.gif
+  - image_path: /assets/images/activities/smic.jpg
     title: "Semiconductor Manufacturing International Corporation"
   - image_path: /assets/images/activities/hlmc.jpg
     title: "Shanghai Huali Microelectroics Corporation"
-  - image_path: /assets/images/activities/symantec-logo-top.png
+  - image_path: /assets/images/activities/symantec.jpg
     title: "Symantec Corporation"
-  - image_path: /assets/images/activities/ust.png
+  - image_path: /assets/images/activities/ust.jpg
     title: "UST Global Inc."
 feature_row2:
   - image_path: /assets/images/activities/beida.jpg
