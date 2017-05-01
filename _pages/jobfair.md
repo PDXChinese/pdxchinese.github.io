@@ -13,6 +13,8 @@ feature_row1:
 feature_row2:
   - image_path: /assets/images/activities/beida.jpg
     title: "Peking University Alumni Association of Oregon"
+  - image_path: /assets/images/activities/cfa.jpg
+    title: "Chinese Friendship Association of Portland"
 ---
 <p><img src="/assets/images/activities/embassysuite.jpg"></p>
 
@@ -61,6 +63,6 @@ Telecommunications
 
 {% include feature_row id="feature_row1"%}
 
-## Gold Sponsors
+## Our Proud Sponsors
 
 {% include feature_row id="feature_row2"%}
