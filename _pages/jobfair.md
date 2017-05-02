@@ -12,7 +12,7 @@ feature_row1:
     title: "Shanghai Huali Microelectroics Corporation"
   - image_path: /assets/images/activities/symantec.jpg
     title: "Symantec Corporation"
-  - image_path: /assets/images/activities/ust.jpg
+  - image_path: /assets/images/activities/ust2.jpg
     title: "UST Global Inc."
 feature_row2:
   - image_path: /assets/images/activities/cfa.jpg
