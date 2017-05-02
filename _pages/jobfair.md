@@ -4,7 +4,7 @@ permalink: /jobfair/
 feature_row1:
   - image_path: /assets/images/activities/faraday.jpg
     title: "Faraday Technology Corporation"  
-  - image_path: /assets/images/activities/huawei-logo.jpg
+  - image_path: /assets/images/activities/huawei.png
     title: "Huawei Technologies Co. Ltd."
   - image_path: /assets/images/activities/smic.jpg
     title: "Semiconductor Manufacturing International Corporation"
