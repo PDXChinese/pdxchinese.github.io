@@ -63,10 +63,6 @@ Telecommunications
 
 [Job Fair Flyer](/assets/pdf/jobfair_flyer_pdx_17f.pdf)
 
-## Companies Confirmed or Likely Intended
+## Participating Companies
 
 {% include feature_row id="feature_row1"%}
-
-## Our Proud Sponsors
-
-{% include feature_row id="feature_row2"%}
