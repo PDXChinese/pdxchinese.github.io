@@ -6,10 +6,14 @@ feature_row1:
     title: "Faraday Technology Corporation"  
   - image_path: /assets/images/activities/huawei.jpg
     title: "Huawei Technologies Co. Ltd."
+  - image_path: /assets/images/activities/kingsemi.jpg
+    title: "KINGSEMI Co., Ltd. (芯源)"
   - image_path: /assets/images/activities/smic.jpg
     title: "Semiconductor Manufacturing International Corporation"
   - image_path: /assets/images/activities/hlmc.jpg
     title: "Shanghai Huali Microelectroics Corporation"
+  - image_path: /assets/images/activities/standard.jpg
+    title: "Standard Insurance"
   - image_path: /assets/images/activities/symantec.jpg
     title: "Symantec Corporation"
   - image_path: /assets/images/activities/ust2.jpg
