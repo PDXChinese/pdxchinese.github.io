@@ -3,21 +3,13 @@ title: "2017 Portland High-Tech Job Fair"
 permalink: /jobfair/
 feature_row1:
   - image_path: /assets/images/activities/faraday.jpg
-    title: "Faraday Technology Corporation"  
   - image_path: /assets/images/activities/huawei.jpg
-    title: "Huawei Technologies Co. Ltd."
   - image_path: /assets/images/activities/kingsemi.jpg
-    title: "KINGSEMI Co., Ltd. (芯源)"
   - image_path: /assets/images/activities/smic.jpg
-    title: "Semiconductor Manufacturing International Corporation"
   - image_path: /assets/images/activities/hlmc.jpg
-    title: "Shanghai Huali Microelectroics Corporation"
   - image_path: /assets/images/activities/symantec.jpg
-    title: "Symantec Corporation"
   - image_path: /assets/images/activities/standard.jpg
-    title: "The Standard"
   - image_path: /assets/images/activities/ust2.jpg
-    title: "UST Global Inc."
 feature_row2:
   - image_path: /assets/images/activities/cfa.jpg
     title: "Chinese Friendship Association of Portland"
