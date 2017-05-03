@@ -47,12 +47,36 @@ Credit Card will be available soon.
 Your contribution to OCC is tax-deductible under IRC Section 170.
 
 # Donors
-We respect those who choose to be anonymous donors
 
-### $1,000 and Above
+### Eric Shi
+$100 (PayPal, 4/2/2017)
 
-Tech 4 Kids Club
+### Anonymous Donor
+$300 (Check, 4/3/2017)
 
-### Under $1,000
+### Ping Qiu
+$50 (PayPal, 4/17/2017)
 
-Sushi Myoga
+### George Wu
+Wooster Realty Group
+$300 (PayPal, 4/19/2017)
+
+### Weishan Xia and Martha Xun
+Northwest Educational LLC
+$100  (PayPal, 4/21/2017)
+
+### Meng Li
+Keller Williams Sunset Corridor
+$600 (PayPal, 4/21/2017)
+
+### Anonymous Donor
+$800 to Community Fund; $200 to Victoria Ren Scholarship (Bank Deposit, 5/2/2017)
+
+### Hope Chinese School
+$200 (Check, 5/2/2017)
+
+### Hongcheng Zhao/Yunlan Wang
+$800 to Community Fund; $200 to Victoria Ren Scholarship (PayPal, 5/2/2017)
+
+### Remaining Balance from 2.20 Rally for Peter Liang
+$150 (PayPal, 5/2/2017)
