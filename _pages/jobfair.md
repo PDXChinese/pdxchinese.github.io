@@ -12,10 +12,10 @@ feature_row1:
     title: "Semiconductor Manufacturing International Corporation"
   - image_path: /assets/images/activities/hlmc.jpg
     title: "Shanghai Huali Microelectroics Corporation"
-  - image_path: /assets/images/activities/standard.jpg
-    title: "Standard Insurance"
   - image_path: /assets/images/activities/symantec.jpg
     title: "Symantec Corporation"
+  - image_path: /assets/images/activities/standard.jpg
+    title: "The Standard"
   - image_path: /assets/images/activities/ust2.jpg
     title: "UST Global Inc."
 feature_row2:
