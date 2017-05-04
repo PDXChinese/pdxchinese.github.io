@@ -46,7 +46,7 @@ Credit Card will be available soon.
 
 Your contribution to OCC is tax-deductible under IRC Section 170.
 
-# Donation Amount $1,000 or above
+## Donors with Amount $1,000 or above
 
 Anonymous Donor (5/2/2017)
 
@@ -54,7 +54,7 @@ Hongcheng Zhao/Yunlan Wang (5/2/2017)
 
 Ge Liu (5/3/2017)
 
-# Donation Amount $250 to $999
+## Donors with Amount $250 to $999
 
 Anonymous Donor (4/3/2017)
 
@@ -66,7 +66,7 @@ Weishan Xia and Martha Xun, Northwest Educational LLC (4/21/2017)
 
 Meng Li, Keller Williams Sunset Corridor (4/21/2017)
 
-# Donation Amount under $250
+## Donors with Amount under $250
 
 Eric Shi (4/2/2017)
 
