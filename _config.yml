@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Oregon Chinese Community"
+title                    : "Oregon Chinese Coalition"
 title_separator          : "-"
-name                     : "Oregon Chinese Community"
+name                     : "Oregon Chinese Coalition"
 description              : "The main hub for everything you need to know about Portland's Chinese Community."
 url                      : "https://pdxchinese.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
