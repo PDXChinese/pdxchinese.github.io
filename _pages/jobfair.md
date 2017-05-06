@@ -16,7 +16,7 @@ feature_row2:
   - image_path: /assets/images/activities/beida.jpg
     title: "Peking University Alumni Association of Oregon"
 ---
-<p><img src="/assets/images/activities/embassysuite.jpg"></p>
+<p><img src="/assets/images/activities/JobFair_Ads.jpg"></p>
 
 ## Date and Time
 5/12/2017 10:00 am - 3:30 pm
@@ -57,7 +57,7 @@ Telecommunications
 
 [Job Fair Presentation PowerPoint Slide](/assets/pdf/jobfair_ppt_pdx_17f.pdf)
 
-[Job Fair Flyer](/assets/pdf/jobfair_flyer_pdx_17f.pdf)
+[Job Listing](https://drive.google.com/drive/folders/0B9-Ix5kqWrsdQVUzTkxyOFQyZUE?usp=sharing)
 
 ## Participating Companies
 
