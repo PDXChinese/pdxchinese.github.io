@@ -35,11 +35,11 @@ feature_row:
 ---
 ## Our Mission
 
-To serve every member in Chinese community with a shared vision and resources.
+To serve Chinese community with a shared vision and resources.
 
 ## Our Vision
 
-To build a connected and united Chinese community with respect to their socioeconomic status, political beliefs, religious, and cultural tradition.
+To build a connected and united Chinese community that embraces diverse socioeconomic backgrounds, political beliefs, and religious and cultural traditions.
 
 ## Board of Directors
 

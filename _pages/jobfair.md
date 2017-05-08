@@ -59,6 +59,6 @@ Telecommunications
 
 [Job Listing](https://drive.google.com/drive/folders/0B9-Ix5kqWrsdQVUzTkxyOFQyZUE?usp=sharing)
 
-## Participating Companies
+## Updated List of Participating Companies
 
 {% include feature_row id="feature_row1"%}
