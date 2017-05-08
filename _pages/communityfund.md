@@ -52,7 +52,7 @@ Anonymous Donor (5/2/2017)
 
 Hongcheng Zhao/Yunlan Wang (5/2/2017)
 
-Ge Liu (5/3/2017)
+Ge Liu (5/8/2017)
 
 ## Donors with Amount $250 to $999
 
@@ -66,6 +66,10 @@ Weishan Xia and Martha Xun, Northwest Educational LLC (4/21/2017)
 
 Meng Li, Keller Williams Sunset Corridor (4/21/2017)
 
+Gang Ren/Ying Yang (5/4/2017)
+
+Charles Liu (5/8/2017)
+
 ## Donors with Amount under $250
 
 Eric Shi (4/2/2017)
@@ -73,3 +77,11 @@ Eric Shi (4/2/2017)
 Hope Chinese School, (5/2/2017)
 
 Remaining Balance from 2.20 Rally for Peter Liang (5/2/2017)
+
+Xudong Fan/Jay Cheng (5/4/2017)
+
+Shuping Chen (5/4/2017)
+
+Yongtian Zhang (5/4/2017)
+
+Ying Wang (5/6/2017)
