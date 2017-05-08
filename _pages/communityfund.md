@@ -74,7 +74,7 @@ Charles Liu (5/8/2017)
 
 Eric Shi (4/2/2017)
 
-Hope Chinese School, (5/2/2017)
+Hope Chinese School (5/2/2017)
 
 Remaining Balance from 2.20 Rally for Peter Liang (5/2/2017)
 
