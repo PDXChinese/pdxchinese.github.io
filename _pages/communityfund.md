@@ -70,6 +70,8 @@ Gang Ren/Ying Yang (5/4/2017)
 
 Charles Liu (5/8/2017)
 
+Peking University Alumni Association of Oregon (5/9/2017)
+
 ## Donors with Amount under $250
 
 Eric Shi (4/2/2017)
@@ -85,3 +87,5 @@ Shuping Chen (5/4/2017)
 Yongtian Zhang (5/4/2017)
 
 Ying Wang (5/6/2017)
+
+Brian Bian/Rebecca Wei (5/8/2017)
