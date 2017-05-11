@@ -33,6 +33,8 @@ feature_row:
     title: "Isabelle Zheng"
     excerpt: "<p>Isabelle, a junior at Catlin Gabel School, is the co-founder and executive director of 'Project Prelude,' a non-profit organization she started with a fellow musician that provides free after-school group violin lessons to dozens of fourth- through sixth-graders in the Portland area. She is also a dedicated flutist in her youth orchestra, an advocate of youth entrepreneurship, and active club leader at her school.</p><p>Isabelle is the distinguished finalist for 2017 Prudential Spirit of Community Awards.</p>"
 ---
+![]({{ site.url }}/assets/images/bbe6f25c77ca030fbcd56311dbff79de.jpg)
+
 ## Our Mission
 
 To serve Chinese community with a shared vision and resources.
