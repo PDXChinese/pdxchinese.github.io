@@ -72,6 +72,8 @@ Charles Liu (5/8/2017)
 
 Peking University Alumni Association of Oregon (5/9/2017)
 
+Bamboo International School （5/10/2017）
+
 ## Donors with Amount under $250
 
 Eric Shi (4/2/2017)
