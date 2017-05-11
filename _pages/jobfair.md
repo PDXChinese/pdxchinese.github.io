@@ -57,7 +57,7 @@ Telecommunications
 
 [Job Fair Presentation PowerPoint Slide](/assets/pdf/jobfair_ppt_pdx_17f.pdf)
 
-[Job Listing](https://drive.google.com/drive/folders/0B9-Ix5kqWrsdQVUzTkxyOFQyZUE?usp=sharing)
+[Job Fair Booklet](/assets/pdf/2017_occ_job_fair_booklet.pdf)
 
 ## Updated List of Participating Companies
 
