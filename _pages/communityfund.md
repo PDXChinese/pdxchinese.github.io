@@ -74,6 +74,8 @@ Peking University Alumni Association of Oregon (5/9/2017)
 
 Bamboo International School （5/10/2017）
 
+Guangchao/Xiaojian Li (5/11/2017)
+
 ## Donors with Amount under $250
 
 Eric Shi (4/2/2017)
@@ -97,3 +99,5 @@ Ruifeng Guo (5/9/2017)
 Sherry Shao (5/10/2017)
 
 Anonymous Donor (5/10/2017)
+
+Ling Wang/Ke Zhang (5/11/2017)
