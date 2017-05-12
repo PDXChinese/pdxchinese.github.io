@@ -25,7 +25,7 @@ feature_row2:
 DoubleTree by Hilton - Portland/Beaverton
 15402 NW Cornell Rd. - Beaverton, OR 97006
 
-The Portland job fair is co-sponsored by Chinese American Semiconductor Professional Association (CASPA) and Oregon Chinese Coalition (OCC). It is part of annual job fair series by CASPA. Portland is one of the two sites for 2017 CASPA Job Fair, the other one is located Silicon Valley, California.
+The Portland job fair is co-sponsored by Chinese American Semiconductor Professional Association (CASPA)，Oregon Chinese Coalition (OCC) and Chinese Friendship Association of Portland (CFAP). It is part of annual job fair series by CASPA. Portland is one of the two sites for 2017 CASPA Job Fair, the other one is located Silicon Valley, California.
 
 Since 1995, CASPA High-Tech Job Fair has attracted many international and US companies and thousands of job seekers. With a mission to promote technology innovation through extensive networks from our nine chapters worldwide, CASPA is here to serve your company and to help talented high-tech professionals look for new or better opportunities. This noble goal can only be accomplished with your support by taking full advantage of this excellent opportunity to recruit qualified professionals for your business needs.
 Newly formed OCC strives to serve all Chinese in State of Oregon. We will take advantage of our influence and network across the state to achieve an excellent participation by the well qualified job seekers, especially those experienced professions in the corporate world as well as those graduating seniors from universities including OSU, UO and PSU.
