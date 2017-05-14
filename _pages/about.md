@@ -14,6 +14,9 @@ feature_row:
   - image_path: /assets/images/members/Tadjiki-Maya.jpg
     title: "Maya Tadjiki"
     excerpt: "<p>Maya was born in Chongqing, China. She was adopted in 2004 and lives with her family in Central Oregon. Maya has been an active board member of Education for Chinese Orphans for two years, including updating social media sites and sending emails to sponsors. She especially loves getting updated information and new photos of the orphans, and passing that on to sponsors. She hopes to go back to China someday to visit, along with her little sister, also born in China. In the meantime, Maya enjoys playing volleyball, movies with friends, and is an avid baker.</p>"
+  - image_path: /assets/images/members/andy-wong.jpg
+    title: "Andy Wong"
+    excerpt: "<p>黄永利，黄上皇饮食集团创办人，国际评委，国际烹饪大师，中华金厨，法国国际厨皇会荣誉主席，中国优秀民营企业家，福建职校烹饪大师客座教授，入选中国名厨星光大道。</p>"
   - image_path: /assets/images/members/Ni-Xu3.jpg
     title: "Ni Xu"
     excerpt: "<p>Ni was a graduate from Beijing Film Academy, majoring in film script writing.  He had an extensive experience in the film industry, working as a screenwriter, photographer, documentary and film director.</p><p>In 2012, Ni and his family came to the United States, eventually settled in Portland, hoping to do their part to record the revival of the Chinese community in Portland.</p><p>Ni’s wife, Faye, is a marketing guru, who was directly responsible for directing Portland Chinatown Saturday Performance series.</p>"
