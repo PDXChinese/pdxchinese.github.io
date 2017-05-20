@@ -1,7 +1,11 @@
 ---
 title: "About Us"
 permalink: /about/
-feature_row:
+feature_row1:
+  - image_path: /assets/images/members/james.jpg
+    title: "James E. McCandlish"
+    excerpt: "<p>Mr. McCandlish graduated with honors from Harvard College in 1967. He then worked in the Peace Corps in central Africa. He received his law degree at Northwestern School of Law (Lewis & Clark). He served as staff co-counsel for the Senate Judiciary Committee in Salem. He spent two years with the Metro Public Defender's office in Portland. He started his own firm in 1981, and joined forces with Mark Griffin in 1988.</p>"
+feature_row2:
   - image_path: /assets/images/members/Brink-Ming1.jpg
     title: "Ming Brink"
     excerpt: "<p>Ming is an Oregon Certified Public Accountant (CPA). She currently works for Precision Castparts Corp, a wholly owned company of Berkshire Hathaway, as a tax manager.</p><p>Ming also serves as the President of NW China Council. She finds joy in serving the community and giving to others. She has volunteered for various charities and traveled overseas to spread the message of Christianity.</p><p>Ming has pursued education in both China and the United States. She holds a B.A. in Accounting and International Business.</p>"
@@ -86,12 +90,8 @@ Mr. Zhao attended Peking University in China. He came to the States as a Visitin
 
 ## Legal Counsel
 
-![]({{ site.url }}/assets/images/members/james.jpg)
-
-### James E. McCandlish
-
-Mr. McCandlish graduated with honors from Harvard College in 1967. He then worked in the Peace Corps in central Africa. He received his law degree at Northwestern School of Law (Lewis & Clark). He served as staff co-counsel for the Senate Judiciary Committee in Salem. He spent two years with the Metro Public Defender's office in Portland. He started his own firm in 1981, and joined forces with Mark Griffin in 1988.
+{% include feature_row id="feature_row1"%}
 
 ## Featured Community Members
 
-{% include feature_row %}
+{% include feature_row id="feature_row2"%}
