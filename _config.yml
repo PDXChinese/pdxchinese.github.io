@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Andrew Zhao"
   avatar           : /assets/images/authors/Zhao-Andrew.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a 4th year CS major at UC Berkeley."
-  location         : "Berkeley, CA"
+  bio              : "I'm a full-stack software engineer."
+  location         : "Irvine, CA"
   email            : "andrewz@berkeley.edu"
   uri              :
   bitbucket        :
