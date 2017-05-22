@@ -78,7 +78,7 @@ Guangchao/Xiaojian Li (5/11/2017)
 
 Anonymous Donor (5/19/2017)
 
-Kent Yu (5/222017)
+Kent Yu，Seft Consulting Group (5/22/2017)
 
 ## Donors with Amount under $250
 
