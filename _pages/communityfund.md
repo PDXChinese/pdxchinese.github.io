@@ -78,6 +78,8 @@ Guangchao/Xiaojian Li (5/11/2017)
 
 Anonymous Donor (5/19/2017)
 
+Kent Yu (5/222017)
+
 ## Donors with Amount under $250
 
 Eric Shi (4/2/2017)
