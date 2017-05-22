@@ -105,3 +105,5 @@ Sherry Shao (5/10/2017)
 Anonymous Donor (5/10/2017)
 
 Anonymous Donor (5/11/2017)
+
+## Total donation: $9,030.
