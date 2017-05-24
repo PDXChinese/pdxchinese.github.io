@@ -17,63 +17,65 @@ Embassy Suites by Hilton Portland - Washington Square
 
 ### All Participants in Auditorium
 
-10:00 am – 12:00 pm Speeches by Distinguished Guests
+  10:00 am – 12:00 pm Speeches by Distinguished Guests
 
-    10:00 am – 10:30 am	Senator Mae Yih on Civic Engagement
+      10:00 am – 10:30 am	Senator Mae Yih on Civic Engagement
 
-    10:30 am – 11:00 am	John Iglesias on Motivation to Succeed
+      10:30 am – 11:00 am	John Iglesias on Motivation to Succeed
 
-    11:00 am – 11:30 am 	Teressa Raiford on Community Service
+      11:00 am – 11:30 am 	Teressa Raiford on Community Service
 
-    11:30 am – 12:00 am	Robert Tadjiki on Charity and Volunteerism
+      11:30 am – 12:00 am	Robert Tadjiki on Charity and Volunteerism
 
-12:00 am – 1:00 pm Lunch, Interaction with Speakers, Visit Booths
+  12:00 am – 1:00 pm Lunch, Interaction with Speakers, Visit Booths
 
 ### Individual Sessions
 
-Session in Auditorium
+  Session in Auditorium
 
-    1:00 pm – 3:00 pm		Successful High School Years by Hongcheng Zhao and Shirley Ma
+      1:00 pm – 3:00 pm		Successful High School Years by Hongcheng Zhao and Shirley Ma
 
 	Session in Room A
 
-	  1:00 pm – 2:00 pm		Put Kids on Driver Seats (space holder)
+	    1:00 pm – 2:00 pm		Put Kids on Driver Seats (space holder)
 
-    2:00 pm – 3:00 pm		Forming and Running NPO (space holder)
+      2:00 pm – 3:00 pm		Forming and Running NPO (space holder)
 
   Session in Room B
 
-	  1:00 pm – 2:00 pm		(space holder)
+	    1:00 pm – 2:00 pm		(space holder)
 
-	  2:00 pm – 3:00 pm		(space holder)
+	    2:00 pm – 3:00 pm		(space holder)
 
 ### Exhibition Booth
 
-	  Lincoln High School Constitutional Team
+	    Lincoln High School Constitutional Team
 
-	  Sunset High School Speech and Debate Team
+	    Sunset High School Speech and Debate Team
 
-	  Westview High School Lego Robotic Team
+	    Westview High School Lego Robotic Team
 
-	  Lake Oswego High School mock Trial Team
+	    Lake Oswego High School mock Trial Team
 
-	  Catlin Gabel School Period NPO
+	    Catlin Gabel School Period NPO
 
-	  PPS Flagship Mandarin Program
+	    PPS Flagship Mandarin Program
 
-	  PSU Confucius Institute
+	    PSU Confucius Institute
 
-	  Lee Association Dragon Team
+	    Lee Association Dragon Team
 
-	  CCBA Dragon Boat Team
+	    CCBA Dragon Boat Team
 
-    ...
+      ...
 
- 	  All Chinese Schools ($100 each)
+ 	    All Chinese Schools ($100 each)
 
-    Organizations (NPO, Churches, NGO...) (free)
+      Organizations (NPO, Churches, NGO...) (free)
 
-	  Sponsoring Companies ($300 each)
+	    Sponsoring Companies ($300 each)
+
+      **** Enrollment form will be available soon.
 
 ## 演讲嘉宾 (Confirmed VIP Speakers)：
 
