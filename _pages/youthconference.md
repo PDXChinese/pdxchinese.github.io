@@ -15,67 +15,67 @@ Embassy Suites by Hilton Portland - Washington Square
 
 ## 会议日程 (Proposed Agenda)：
 
-All Participants in Auditorium
+### All Participants in Auditorium
 
-  10:00 am – 12:00 pm Speeches by Distinguished Guests
+  Speeches by Distinguished Guests
 
-      10:00 am – 10:30 am	Senator Mae Yih on Civic Engagement
+  10:00 am – 10:30 am	Senator Mae Yih on Civic Engagement
 
-      10:30 am – 11:00 am	John Iglesias on Motivation to Succeed
+  10:30 am – 11:00 am	John Iglesias on Motivation to Succeed
 
-      11:00 am – 11:30 am 	Teressa Raiford on Community Service
+  11:00 am – 11:30 am 	Teressa Raiford on Community Service
 
-      11:30 am – 12:00 am	Robert Tadjiki on Charity and Volunteerism
+  11:30 am – 12:00 am	Robert Tadjiki on Charity and Volunteerism
 
   12:00 am – 1:00 pm Lunch, Interaction with Speakers, Visit Booths
 
-Individual Sessions
+### Individual Sessions
 
   Session in Auditorium
 
-      1:00 pm – 3:00 pm		Successful High School Years by Hongcheng Zhao and Shirley Ma
+  1:00 pm – 3:00 pm		Successful High School Years by Hongcheng and Shirley Ma
 
 	Session in Room A
 
-	    1:00 pm – 2:00 pm		Put Kids on Driver Seats (space holder)
+	1:00 pm – 2:00 pm		Put Kids on Driver Seats (space holder)
 
-      2:00 pm – 3:00 pm		Forming and Running NPO (space holder)
+  2:00 pm – 3:00 pm		How to Form and Run a NPO (space holder)
 
   Session in Room B
 
-	    1:00 pm – 2:00 pm		(space holder)
+	1:00 pm – 2:00 pm		(space holder)
 
-	    2:00 pm – 3:00 pm		(space holder)
+	2:00 pm – 3:00 pm		(space holder)
 
-Exhibition Booth
+### Exhibition Booth
 
-	    Lincoln High School Constitutional Team
+	Lincoln High School Constitutional Team
 
-	    Sunset High School Speech and Debate Team
+	Sunset High School Speech and Debate Team
 
-	    Westview High School Lego Robotic Team
+  Westview High School Lego Robotic Team
 
-	    Lake Oswego High School mock Trial Team
+  Lake Oswego High School mock Trial Team
 
-	    Catlin Gabel School Period NPO
+	Catlin Gabel School Period NPO
 
-	    PPS Flagship Mandarin Program
+	PPS Flagship Mandarin Program
 
-	    PSU Confucius Institute
+	PSU Confucius Institute
 
-	    Lee Association Dragon Team
+	Lee Association Dragon Team
 
-	    CCBA Dragon Boat Team
+	CCBA Dragon Boat Team
 
-      ...
+  ...
 
- 	    All Chinese Schools ($100 each)
+ 	All Chinese Schools ($100 each)
 
-      Organizations (NPO, Churches, NGO...) (free)
+  Organizations (NPO, Churches, NGO...) (free)
 
-	    Sponsoring Companies ($300 each)
+	Sponsoring Companies ($300 each)
 
-      **** Enrollment form will be available soon.
+  **** Enrollment form will be available soon.
 
 ## 演讲嘉宾 (Confirmed VIP Speakers)：
 
@@ -96,5 +96,3 @@ Robert Tadjiki is a co-founder and board member of Education for Chinese Orphans
 ## Mae Yih
 <p><img src="/assets/images/activities/mae_yih2.jpg"></p>
 Mae Yih serves in both Oregon House and Senate. First Chinese American woman to be elected to the state legislature in the US in 1976.  
-
-会有更多嘉宾，敬请经常回来查询 (More to come. Please keep checking here for the latest lineup of our speakers)。
