@@ -6,7 +6,7 @@ permalink: /youthconference/
 <p><img src="/assets/images/activities/embassysuite2.jpg"></p>
 
 ## 时间 (Date)：
-6/24/2017 10:00 am - 3:30 pm
+6/24/2017 10:00 am - 4:00 pm
 
 ## 地点 (Place)：
 Embassy Suites by Hilton Portland - Washington Square
@@ -15,13 +15,65 @@ Embassy Suites by Hilton Portland - Washington Square
 
 ## 会议日程 (Proposed Agenda)：
 
-Speeches by the distinguished guests on the topics of civic engagement, mental health, leadership, career path, mentoring...
+### All Participants in Auditorium
 
-Live demos by national and state award  winning Constitution Team, Speech and Debate Team, Mock Trial Team...
+10:00 am – 12:00 pm Speeches by Distinguished Guests
 
-Workshop on NPO setup, career preparation, EC Boot Camp, college application, parenting...
+    10:00 am – 10:30 am	Senator Mae Yih on Civic Engagement
 
-Exhibitions by local Chinese schools, clubs, NPOs, startups, and sponsoring companies  
+    10:30 am – 11:00 am	John Iglesias on Motivation to Succeed
+
+    11:00 am – 11:30 am 	Teressa Raiford on Community Service
+
+    11:30 am – 12:00 am	Robert Tadjiki on Charity and Volunteerism
+
+12:00 am – 1:00 pm Lunch, Interaction with Speakers, Visit Booths
+
+### Individual Sessions
+
+Session in Auditorium
+
+    1:00 pm – 3:00 pm		Successful High School Years by Hongcheng Zhao and Shirley Ma
+
+	Session in Room A
+
+	  1:00 pm – 2:00 pm		Put Kids on Driver Seats (space holder)
+
+    2:00 pm – 3:00 pm		Forming and Running NPO (space holder)
+
+  Session in Room B
+
+	  1:00 pm – 2:00 pm		(space holder)
+
+	  2:00 pm – 3:00 pm		(space holder)
+
+### Exhibition Booth
+
+	  Lincoln High School Constitutional Team
+
+	  Sunset High School Speech and Debate Team
+
+	  Westview High School Lego Robotic Team
+
+	  Lake Oswego High School mock Trial Team
+
+	  Catlin Gabel School Period NPO
+
+	  PPS Flagship Mandarin Program
+
+	  PSU Confucius Institute
+
+	  Lee Association Dragon Team
+
+	  CCBA Dragon Boat Team
+
+    ...
+
+ 	  All Chinese Schools ($100 each)
+
+    Organizations (NPO, Churches, NGO...) (free)
+
+	  Sponsoring Companies ($300 each)
 
 ## 演讲嘉宾 (Confirmed VIP Speakers)：
 
