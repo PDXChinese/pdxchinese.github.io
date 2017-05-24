@@ -30,6 +30,10 @@ Exhibitions by local Chinese schools, clubs, NPOs, startups, and sponsoring comp
 John Iglesias, born in the Territory of Guam, served 18 years as Intelligence Officer in US Navy, is now President &
 Chief Executive Officer at Northwest Community Credit Union.
 
+## Teressa Raiford
+<p><img src="/assets/images/activities/teressa.png"></p>
+Teressa Raiford, a prominent Black Lives Matter protestor and founder of the accountability group Don't Shoot Portland, has been very supportive to our effort of rebuilding our community and standing side by side with us in finding social justice to our community.
+
 ## Robert Tadjiki
 <p><img src="/assets/images/activities/robert2.jpg"></p>
 
