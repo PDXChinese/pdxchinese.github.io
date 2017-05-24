@@ -3,8 +3,6 @@ title: "2017 Oregon Chinese Youth  Conference"
 permalink: /youthconference/
 ---
 
-<p><img src="/assets/images/activities/embassysuite2.jpg"></p>
-
 ## 时间 (Date)：
 6/24/2017 10:00 am - 4:00 pm
 
@@ -21,7 +19,7 @@ Speeches by Distinguished Guests
 
 10:00 am – 10:30 am	Senator Mae Yih on Civic Engagement
 
-10:30 am – 11:00 am	John Iglesias on Motivation to Succeed
+10:30 am – 11:00 am	John Iglesias on Being Motivated to Succeed
 
 11:00 am – 11:30 am 	Teressa Raiford on Community Service
 
