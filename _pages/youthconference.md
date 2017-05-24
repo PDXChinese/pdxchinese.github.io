@@ -8,14 +8,14 @@ permalink: /youthconference/
 ## 时间 (Date)：
 6/24/2017 10:00 am - 4:00 pm
 
-## 地点 (Place)：
+## 地点 (Tentative Place)：
 Embassy Suites by Hilton Portland - Washington Square
 
 9000 SW Washington Square Road, Tigard, Oregon 97223
 
 ## 会议日程 (Proposed Agenda)：
 
-### All Participants in Auditorium
+All Participants in Auditorium
 
   10:00 am – 12:00 pm Speeches by Distinguished Guests
 
@@ -29,7 +29,7 @@ Embassy Suites by Hilton Portland - Washington Square
 
   12:00 am – 1:00 pm Lunch, Interaction with Speakers, Visit Booths
 
-### Individual Sessions
+Individual Sessions
 
   Session in Auditorium
 
@@ -47,7 +47,7 @@ Embassy Suites by Hilton Portland - Washington Square
 
 	    2:00 pm – 3:00 pm		(space holder)
 
-### Exhibition Booth
+Exhibition Booth
 
 	    Lincoln High School Constitutional Team
 
