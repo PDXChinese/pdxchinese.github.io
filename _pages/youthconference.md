@@ -1,20 +1,20 @@
 ---
-title: "2017 Oregon Chinese Youth  Conference"
+title: "2017 Oregon Chinese Youth Conference"
 permalink: /youthconference/
 ---
 ![]({{ site.url }}/assets/images/activities/youth_flyer.jpg)
 
-## 时间 (Date)：
+## Date
 6/24/2017 10:00 am - 4:00 pm
 
-## 地点 (Tentative Place)：
+## Place
 Embassy Suites by Hilton Portland - Washington Square
 
 9000 SW Washington Square Road, Tigard, Oregon 97223
 
-## 会议日程 (Proposed Agenda)：
+## Proposed Agenda
 
-### 嘉宾演讲 (Speeches by Distinguished Guests)
+### Speeches by Distinguished Guests
 
 (Both students and parents)
 
@@ -32,7 +32,7 @@ Embassy Suites by Hilton Portland - Washington Square
 
 ### 1:00 pm - 1:10 pm Victoria Ren Scholarship Award Ceremony
 
-### 专题演讲 (Presentations) -- High School Years and Beyond
+### Presentations -- High School Years and Beyond
 
 (Students have priority in seating)
 
@@ -42,11 +42,11 @@ Embassy Suites by Hilton Portland - Washington Square
 
 2:45 pm – 3:00 pm		Accomplishments in 2016-2017 by Middle and High School Students in the Community
 
-### 专题讨论 (Panel Discussion) -- How and Why Parenting Matters
+### Panel Discussion -- How and Why Parenting Matters
 
 (Parents only session)
 
-### 展台 (Booth)
+## Booth
 
 Organizations (Clubs, NPO, NGO, Office...) (free)
 
@@ -56,7 +56,7 @@ Sponsoring Companies ($300 each, 30% discount for those on community fund donati
 
 **** Enrollment form will be available soon.
 
-## 演讲嘉宾 (Speakers)：
+## Speakers
 
 ## John Iglesias
 <p><img src="/assets/images/activities/iglesias.png"></p>
