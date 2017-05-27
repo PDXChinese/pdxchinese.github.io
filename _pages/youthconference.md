@@ -22,7 +22,7 @@ Embassy Suites by Hilton Portland - Washington Square
 
 10:30 am – 11:00 am	John Iglesias on Being Motivated to Succeed
 
-11:00 am – 11:30 am 	Teressa Raiford on Community Service
+11:00 am – 11:30 am Teressa Raiford on Community Service
 
 11:30 am – 12:00 am	Robert Tadjiki on Charity and Volunteerism
 
@@ -36,15 +36,19 @@ Embassy Suites by Hilton Portland - Washington Square
 
 (Students have priority in seating)
 
-1:15 pm – 2:00 pm		The Road to Your Dream: A Reflection of Last 4 Years, by Hongcheng Zhao
+1:15 pm – 2:00 pm	The Road to Your Dream: A Reflection of Last 4 Years, by Hongcheng Zhao
 
-2:00 pm – 2:45 pm		Discover Your Interests, Activities, and Career from Middle School to High School, by Shirley Ma
+2:00 pm – 2:45 pm	Discover Your Interests, Activities, and Career from Middle School to High School, by Shirley Ma
 
-2:45 pm – 3:00 pm		Accomplishments in 2016-2017 by Middle and High School Students in the Community
+2:45 pm – 3:00 pm	Accomplishments in 2016-2017 by Middle and High School Students in the Community
 
 ### Panel Discussion -- How and Why Parenting Matters
 
 (Parents only session)
+
+3:00 pm - 3:30 pm Panel Discussion
+
+3:30 pm - 4:00 pm Q & A
 
 ## Booth
 
