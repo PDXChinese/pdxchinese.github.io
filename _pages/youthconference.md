@@ -36,7 +36,7 @@ Embassy Suites by Hilton Portland - Washington Square
 
 (Students have priority in seating)
 
-1:00 pm – 2:00 pm		The Road to Your Dream: A Case Study, by Hongcheng Zhao
+1:00 pm – 2:00 pm		The Road to Your Dream: A Reflection of Last 4 Years, by Hongcheng Zhao
 
 2:00 pm – 2:45 pm		Discover Your Interests, Activities, and Career from Middle School to High School, by Shirley Ma
 
