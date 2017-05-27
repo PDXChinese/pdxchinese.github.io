@@ -52,6 +52,10 @@ Embassy Suites by Hilton Portland - Washington Square
 
 ## Booth
 
+8:00 am Setup
+
+9:00 am Open to Conference Attendees
+
 Organizations (Clubs, NPO, NGO, Office...) (free)
 
 Chinese Schools ($200 each, 50% discount for those on community fund donation list)
