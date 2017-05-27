@@ -14,9 +14,9 @@ Embassy Suites by Hilton Portland - Washington Square
 
 ## 会议日程 (Proposed Agenda)：
 
-### All Participants in Auditorium
+### 嘉宾演讲 (Speeches by Distinguished Guests)
 
-Speeches by Distinguished Guests
+(Both students and parents)
 
 10:00 am – 10:30 am	Senator Mae Yih on Civic Engagement
 
@@ -26,57 +26,37 @@ Speeches by Distinguished Guests
 
 11:30 am – 12:00 am	Robert Tadjiki on Charity and Volunteerism
 
-12:00 am – 1:00 pm Lunch, Interaction with Speakers, Visit Booths
+### 12:00 pm – 1:00 pm Lunch, Interaction with Speakers, Visit Booths
 
-### Individual Sessions
+### 12:15 pm – 12:45 pm Performance by Community Youth
 
-Session in Auditorium
+### 1:00 pm - 1:10 pm Victoria Ren Scholarship Award Ceremony
 
-1:00 pm – 3:00 pm		Successful High School Years by Hongcheng and Shirley Ma
+### 专题演讲 (Presentations) -- High School Years and Beyond
 
-Session in Room A
+(Students have priority in seating)
 
-1:00 pm – 2:00 pm		Put Kids on Driver Seats (space holder)
+1:00 pm – 2:00 pm		The Road to Your Dream: A Case Study, by Hongcheng Zhao
 
-2:00 pm – 3:00 pm		How to Form and Run a NPO (space holder)
+2:00 pm – 2:45 pm		Discover Your Interests, Activities, and Career from Middle School to High School, by Shirley Ma
 
-Session in Room B
+2:45 pm – 3:00 pm		Accomplishments in 2016-2017 by Middle and High School Students in the Community
 
-1:00 pm – 2:00 pm		(space holder)
+### 专题讨论 (Panel Discussion) -- How and Why Parenting Matters
 
-2:00 pm – 3:00 pm		(space holder)
+(Parents only session)
 
-### Exhibition Booth
+### 展台 (Booth)
 
-Lincoln High School Constitutional Team
+Organizations (Clubs, NPO, NGO, Office...) (free)
 
-Sunset High School Speech and Debate Team
+Chinese Schools ($200 each, 50% discount for those on community fund donation list)
 
-Westview High School Lego Robotic Team
-
-Lake Oswego High School mock Trial Team
-
-Catlin Gabel School Period NPO
-
-PPS Flagship Mandarin Program
-
-PSU Confucius Institute
-
-Lee Association Dragon Team
-
-CCBA Dragon Boat Team
-
-...
-
-All Chinese Schools ($100 each)
-
-Organizations (NPO, Churches, NGO...) (free)
-
-Sponsoring Companies ($300 each)
+Sponsoring Companies ($300 each, 30% discount for those on community fund donation list)
 
 **** Enrollment form will be available soon.
 
-## 演讲嘉宾 (Confirmed VIP Speakers)：
+## 演讲嘉宾 (Speakers)：
 
 ## John Iglesias
 <p><img src="/assets/images/activities/iglesias.png"></p>
