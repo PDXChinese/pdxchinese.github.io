@@ -18,13 +18,10 @@ Embassy Suites by Hilton Portland - Washington Square
 
 (Both students and parents)
 
-10:00 am – 10:30 am	Senator Mae Yih on Civic Engagement
-
-10:30 am – 11:00 am	John Iglesias on Being Motivated to Succeed
-
-11:00 am – 11:30 am Teressa Raiford on Community Service
-
-11:30 am – 12:00 am	Robert Tadjiki on Charity and Volunteerism
+* 10:00 am – 10:30 am	Senator Mae Yih on Civic Engagement
+* 10:30 am – 11:00 am	John Iglesias on Being Motivated to Succeed
+* 11:00 am – 11:30 am Teressa Raiford on Community Service
+* 11:30 am – 12:00 am	Robert Tadjiki on Charity and Volunteerism
 
 ### 12:00 pm – 1:00 pm Lunch, Interaction with Speakers, Visit Booths
 
