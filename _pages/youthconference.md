@@ -3,6 +3,7 @@ title: "2017 Oregon Chinese Youth Conference"
 permalink: /youthconference/
 ---
 ![]({{ site.url }}/assets/images/activities/youth_flyer.jpg)
+Designed by 西湖明月@Brain Zuo
 
 ## Date
 6/24/2017 10:00 am - 4:00 pm
