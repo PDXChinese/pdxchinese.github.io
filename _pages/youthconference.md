@@ -57,11 +57,11 @@ Embassy Suites by Hilton Portland - Washington Square
 
 9:00 am Open to Conference Attendees
 
-Organizations (Clubs, NPO, NGO, Office...) (free)
+Organizations (Clubs, NPO, NGO, Office...) (free, donation is welcome though)
 
 Chinese Schools ($200 each, 50% discount for those on community fund donation list)
 
-Sponsoring Companies ($300 each, 30% discount for those on community fund donation list)
+Corporate Sponsors ($300 each, 30% discount for those on community fund donation list)
 
 **** Enrollment form will be available soon.
 
