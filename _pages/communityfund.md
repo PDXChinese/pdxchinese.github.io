@@ -113,5 +113,3 @@ Anonymous Donor (5/11/2017)
 Oregon  Artistic School (5/14/2017)
 
 Yi Liu (5/22/2017)
-
-## Total donation: $11,565.

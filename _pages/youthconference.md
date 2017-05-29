@@ -27,7 +27,7 @@ Embassy Suites by Hilton Portland - Washington Square
 
 11:30 am – 12:00 am	Robert Tadjiki on Charity and Volunteerism
 
-### 12:00 pm – 1:00 pm Lunch, Interaction with Speakers, Visit Booths
+### 12:00 pm – 1:00 pm Lunch, Interact with Speakers, Visit Booths
 
 ### 12:15 pm – 12:45 pm Performance by Community Youth
 
@@ -37,7 +37,7 @@ Embassy Suites by Hilton Portland - Washington Square
 
 (Students have priority in seating)
 
-1:15 pm – 2:00 pm	The Road to Your Dream: A Reflection of Last 4 Years, by Hongcheng Zhao
+1:15 pm – 2:00 pm	The Road to Your Dream: A Reflection on Alisha's High School Years, by Hongcheng Zhao
 
 2:00 pm – 2:45 pm	Discover Your Interests, Activities, and Career from Middle School to High School, by Shirley Ma
 
@@ -50,6 +50,8 @@ Embassy Suites by Hilton Portland - Washington Square
 3:00 pm - 3:30 pm Panel Discussion
 
 3:30 pm - 4:00 pm Q & A
+
+**** Please recommend parents as the panelists
 
 ## Booth
 
