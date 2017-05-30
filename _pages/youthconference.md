@@ -43,6 +43,8 @@ Embassy Suites by Hilton Portland - Washington Square
 
 2:45 pm – 3:00 pm	Accomplishments in 2016-2017 by Middle and High School Students in the Community
 
+[Student Application Form](https://docs.google.com/forms/d/e/1FAIpQLScmDS9hJ1pqMToHIpkUH00KiuWrnT0Z2E1cVy0TiPwMDraAmQ/viewform?c=0&w=1)
+
 ### Panel Discussion -- How and Why Parenting Matters
 
 (Parents only session)
@@ -65,7 +67,7 @@ Chinese Schools ($200 each, 50% discount for those on community fund donation li
 
 Corporate Sponsors ($300 each, 30% discount for those on community fund donation list)
 
-[Google Form: Booth Application](https://docs.google.com/forms/d/e/1FAIpQLSfPueoQ8nmH0HjZM3JD5B4_xlfEkNN-w9KWxEyqfQW4Cr6F9w/viewform?c=0&w=1)
+[Booth Application Form](https://docs.google.com/forms/d/e/1FAIpQLSfPueoQ8nmH0HjZM3JD5B4_xlfEkNN-w9KWxEyqfQW4Cr6F9w/viewform?c=0&w=1)
 
 ## Speakers
 
