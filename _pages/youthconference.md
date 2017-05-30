@@ -55,7 +55,7 @@ Embassy Suites by Hilton Portland - Washington Square
 
 3:30 pm - 4:00 pm Q & A
 
-[Recommendation Form for a Parent as Panelist](https://docs.google.com/forms/d/e/1FAIpQLScw69DSGYrq9-jmbSday08LEM8PLUv31VgEnby9TbzreZYgIQ/viewform?c=0&w=1)
+[Recommendation Form for Parents as Panelists](https://docs.google.com/forms/d/e/1FAIpQLScw69DSGYrq9-jmbSday08LEM8PLUv31VgEnby9TbzreZYgIQ/viewform?c=0&w=1)
 
 ## Booth
 
