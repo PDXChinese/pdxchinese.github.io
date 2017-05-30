@@ -90,3 +90,5 @@ Robert Tadjiki is a co-founder and board member of Education for Chinese Orphans
 ## Mae Yih
 <p><img src="/assets/images/activities/mae_yih2.jpg"></p>
 Mae Yih serves in both Oregon House and Senate. First Chinese American woman to be elected to the state legislature in the US in 1976.  
+
+[Please submit your suggestion to 2017 Youth Conference here](https://docs.google.com/forms/d/e/1FAIpQLSdy9DbHbfM3W9Bwmi7z55zI96RQXiJjUZT58lHFCYFDP0X6Hg/viewform?c=0&w=1)
