@@ -65,7 +65,7 @@ Chinese Schools ($200 each, 50% discount for those on community fund donation li
 
 Corporate Sponsors ($300 each, 30% discount for those on community fund donation list)
 
-**** Enrollment form will be available soon.
+[Booth Application](https://docs.google.com/forms/d/e/1FAIpQLSfPueoQ8nmH0HjZM3JD5B4_xlfEkNN-w9KWxEyqfQW4Cr6F9w/viewform?c=0&w=1)
 
 ## Speakers
 
