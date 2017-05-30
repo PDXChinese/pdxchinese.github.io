@@ -43,9 +43,9 @@ Embassy Suites by Hilton Portland - Washington Square
 
 2:45 pm – 3:00 pm	Accomplishments in 2016-2017 by Middle and High School Students in the Community
 
-[Student Participation Application Form](https://docs.google.com/forms/d/e/1FAIpQLScmDS9hJ1pqMToHIpkUH00KiuWrnT0Z2E1cVy0TiPwMDraAmQ/viewform?c=0&w=1)
+[Conference Application Form for Student in 7-12 Grade](https://docs.google.com/forms/d/e/1FAIpQLScmDS9hJ1pqMToHIpkUH00KiuWrnT0Z2E1cVy0TiPwMDraAmQ/viewform?c=0&w=1)
 
-[Recommending Student with Accomplishments Form](https://docs.google.com/forms/d/e/1FAIpQLSdJEfUDbpOCGT6Oe-f8FEUGmRaG3MaXyeGW7spjRHccEujzkQ/viewform?c=0&w=1)
+[Recommendation Form for Student with Accomplishments in 2016-17 School Year](https://docs.google.com/forms/d/e/1FAIpQLSdJEfUDbpOCGT6Oe-f8FEUGmRaG3MaXyeGW7spjRHccEujzkQ/viewform?c=0&w=1)
 
 ### Panel Discussion -- How and Why Parenting Matters
 
@@ -55,7 +55,7 @@ Embassy Suites by Hilton Portland - Washington Square
 
 3:30 pm - 4:00 pm Q & A
 
-[Recommending a Parent as Panelist](https://docs.google.com/forms/d/e/1FAIpQLScw69DSGYrq9-jmbSday08LEM8PLUv31VgEnby9TbzreZYgIQ/viewform?c=0&w=1)
+[Recommendation Form for a Parent as Panelist](https://docs.google.com/forms/d/e/1FAIpQLScw69DSGYrq9-jmbSday08LEM8PLUv31VgEnby9TbzreZYgIQ/viewform?c=0&w=1)
 
 ## Booth
 
@@ -63,13 +63,13 @@ Embassy Suites by Hilton Portland - Washington Square
 
 9:00 am Open to Conference Attendees
 
-Organizations (Clubs, NPO, NGO, Office...) (free, donation is welcome though)
+Organizations (Clubs, NPO, NGO, Office...Youth Education Related) (free, donation is welcome)
 
 Chinese Schools ($200 each, 50% discount for those on community fund donation list)
 
 Corporate Sponsors ($300 each, 30% discount for those on community fund donation list)
 
-[Booth Application Form](https://docs.google.com/forms/d/e/1FAIpQLSfPueoQ8nmH0HjZM3JD5B4_xlfEkNN-w9KWxEyqfQW4Cr6F9w/viewform?c=0&w=1)
+[Application Form for Exhibit Booth](https://docs.google.com/forms/d/e/1FAIpQLSfPueoQ8nmH0HjZM3JD5B4_xlfEkNN-w9KWxEyqfQW4Cr6F9w/viewform?c=0&w=1)
 
 ## Speakers
 
