@@ -54,7 +54,7 @@ Hongcheng Zhao/Yunlan Wang (5/2/2017)
 
 Ge Liu (5/8/2017)
 
-Zhaohong Wang, Kozy Real Estate (5/28/2017)
+Zhaohong Wang, Kozy Real Estate (5/30/2017)
 
 ## Donors with Amount $250 to $999
 
@@ -83,6 +83,8 @@ Anonymous Donor (5/19/2017)
 Kent Yu, Seft Consulting Group (5/22/2017)
 
 SteamOn Academy (5/25/2017)
+
+Baifei Zeng (5/30/2017)
 
 ## Donors with Amount under $250
 
