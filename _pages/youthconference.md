@@ -31,6 +31,10 @@ Embassy Suites by Hilton Portland - Washington Square
 
 ### 12:15 pm – 12:45 pm Performance by Community Youth
 
+Live demo of robotic, two times World Championship
+
+Girls' singing, "Left Hand, Right Hand" 
+
 ### 1:00 pm - 1:10 pm Victoria Ren Scholarship Award Ceremony
 
 ### Presentations -- High School Years and Beyond
