@@ -56,6 +56,8 @@ Ge Liu (5/8/2017)
 
 Zhaohong Wang, Kozy Real Estate (5/30/2017)
 
+Tech For Kids Club (6/9/2017)
+
 ## Donors with Amount $250 to $999
 
 Anonymous Donor (4/3/2017)
@@ -86,6 +88,7 @@ SteamOn Academy (5/25/2017)
 
 Baifei Zeng (5/30/2017)
 
+
 ## Donors with Amount under $250
 
 Eric Shi (4/2/2017)
@@ -115,3 +118,7 @@ Anonymous Donor (5/11/2017)
 Oregon  Artistic School (5/14/2017)
 
 Yi Liu (5/22/2017)
+
+Xiangfei Zeng (6/2/2017)
+
+Anonymous Donor (6/2/2017)
