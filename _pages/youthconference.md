@@ -33,7 +33,7 @@ Embassy Suites by Hilton Portland - Washington Square
 
 Live demo of robotic, two times World Championship
 
-Girls' singing, "Left Hand, Right Hand" 
+Girls' group singing, "Left Hand, Right Hand" 
 
 ### 1:00 pm - 1:10 pm Victoria Ren Scholarship Award Ceremony
 
@@ -106,3 +106,5 @@ Robert Tadjiki is a co-founder and board member of Education for Chinese Orphans
 Mae Yih serves in both Oregon House and Senate. First Chinese American woman to be elected to the state legislature in the US in 1976.  
 
 [Please submit your suggestion to 2017 Youth Conference here](https://docs.google.com/forms/d/e/1FAIpQLSdy9DbHbfM3W9Bwmi7z55zI96RQXiJjUZT58lHFCYFDP0X6Hg/viewform?c=0&w=1)
+
+[Volunteer Signup Sheet](http://www.signupgenius.com/go/20f094eabac28aaf58-2017)
