@@ -15,6 +15,8 @@ Embassy Suites by Hilton Portland - Washington Square
 
 ## Proposed Agenda
 
+Check in starts from 9:00 am
+
 ### Speeches by Distinguished Guests
 
 (Both students and parents)
@@ -33,7 +35,7 @@ Embassy Suites by Hilton Portland - Washington Square
 
 Live demo of robotic, two times World Championship
 
-Girls' group singing, "Left Hand, Right Hand" 
+Girls' group singing, "Left Hand, Right Hand"
 
 ### 1:00 pm - 1:10 pm Victoria Ren Scholarship Award Ceremony
 
