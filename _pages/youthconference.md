@@ -35,7 +35,7 @@ Check in starts from 9:00 am
 
 Live demo of robotic, two times World Championship
 
-Girls' group dancing, 《青春修炼手册》
+Group dancing by the conference participants, 《青春修炼手册》
 
 ### 1:00 pm - 1:10 pm Victoria Ren Scholarship Award Ceremony
 
