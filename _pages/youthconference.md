@@ -31,6 +31,8 @@ Check in starts from 9:00 am
 
 ### 12:00 pm – 1:00 pm Lunch, Interact with Speakers, Visit Booths
 
+12:00 pm - 12:10 pm Taking group photos of participating students and guest speakers
+
 ### 12:15 pm – 12:45 pm Performance by Community Youth
 
 Live demo of robotic, two times World Championship
