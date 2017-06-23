@@ -61,7 +61,7 @@ Panel Discussion -- How and Why Parenting Matters
 
 3:30 pm - 4:00 pm Q & A
 
-Panel Discussion -- What I'd have done differently back in middle school and high school, Perspective from College Students
+Panel Discussion -- What I'd have done differently back in high school, Perspective from College Students
 
 (Students only session)
 
