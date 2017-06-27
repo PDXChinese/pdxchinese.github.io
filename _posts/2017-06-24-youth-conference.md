@@ -104,10 +104,6 @@ Ying  20:38
 
 ![]({{ site.url }}/assets/images/8625d221d35358b54160be66f8d22011.jpg)
 
-西北兆  20:45
-
-![]({{ site.url }}/assets/images/7130bb27a4976e409d070125a3e3c900.jpg)
-
 西北兆  20:46
 
 ![]({{ site.url }}/assets/images/439f0f30b88c6206e128ea6bdae09b0e.jpg)
