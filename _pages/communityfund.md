@@ -33,6 +33,10 @@ Victoria (Zifan) Ren was a student at Findley Elementary School, Beaverton Orego
 
 By the end of each school year, one scholarship will be awarded to a student of any age in the Chinese community. The recipient will receive $500. The selection will be made by the Advisory Committee and Victoria’s parents.
 
+### 2017 Recipients
+
+Dustin Leung, 7th Grade Student at Stoller Elementary School
+
 # How to Donate
 
 Thank you for your generosity. Please make sure to (1) leave your name, email or other contact information, and (2) specify which fund the donation shall go to: 【Community fund】 or 【Victoria Ren Scholarship】. We also appreciate your sending us a note to donate@pdxchinese.org after you made the donation.

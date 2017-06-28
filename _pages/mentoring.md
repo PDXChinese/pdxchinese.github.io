@@ -2,5 +2,4 @@
 title: "Mentoring"
 permalink: /mentoring/
 ---
-# Mentoring
-<p><img src="/assets/images/activities/mentoring.jpg"></p>
+<p><img src="/assets/images/activities/mentoring2.jpg"></p>
