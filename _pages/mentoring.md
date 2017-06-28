@@ -8,7 +8,7 @@ permalink: /mentoring/
 
 As a follow up, we have set up a small WeChat group, which will just open to the students (not the parents at this moment) who have attended the conference. We can talk about school, ECs, volunteering, social issues, politics… We will invite a few parents who are experienced in mentoring students to join us in this group. The group discussion won’t be structured and we will just pick up a subject and have a meaningful discussion among ourselves when the topic comes out.
 
-## Mentoring Walk PDX (annual event organized by high students)
+## Mentoring Walk PDX (annual event organized by high school students)
 
 The Global Mentoring Walk convenes established women leaders and emerging women leaders to walk together in their community. As they walk, they discuss their personal and professional challenges and successes to establish a mentoring relationship, in which the established leader guides, advises and supports an emerging leader. Held on the same day in countries across the world, the Mentoring Walk unifies the Vital Voices Global Leadership Network.
 
