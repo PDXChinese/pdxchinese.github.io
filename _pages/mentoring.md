@@ -6,7 +6,7 @@ permalink: /mentoring/
 
 ## PDX Group Mentoring (一期)
 
-As a follow up, we have set up a small WeChat group, which will just open to the students (not the parents at this moment) who have attended the conference. We can talk about school, ECs, volunteering, social issues, politics… We will invite a few parents who are experienced in mentoring students to join us in this group. The group discussion won’t be structured and we will just pick up a subject and have a meaningful discussion among ourselves when the topic comes out.
+As a follow up to the youth conference, we have set up a small WeChat group, which will just open to the students (not the parents at this moment) who have attended the conference. We can talk about school, ECs, volunteering, social issues, politics… We will invite a few parents who are experienced in mentoring students to join us in this group. The group discussion won’t be structured and we will just pick up a subject and have a meaningful discussion among ourselves when the topic comes out.
 
 ## Mentoring Walk PDX (annual event organized by high school students)
 
