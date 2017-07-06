@@ -64,6 +64,8 @@ Zhaohong Wang, Kozy Real Estate (5/30/2017)
 
 Tech For Kids Club (6/9/2017)
 
+Yanzhuo Zhou (7/3/2017)
+
 ## Donors with Amount $250 to $999
 
 Anonymous Donor (4/3/2017)
@@ -94,6 +96,7 @@ SteamOn Academy (5/25/2017)
 
 Baifei Zeng (5/30/2017)
 
+Peking University Alumni Association of Oregon (6/26/2017)
 
 ## Donors with Amount under $250
 
@@ -128,3 +131,13 @@ Yi Liu (5/22/2017)
 Xiangfei Zeng (6/2/2017)
 
 Anonymous Donor (6/2/2017)
+
+Rebecca Wei (6/21/2017)
+
+Yi Liu (6/22/2017)
+
+Liwen Zhang (6/26/2017)
+
+Max Netter (7/3/2017)
+
+Julie Hu (7/3/2017)
