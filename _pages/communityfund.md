@@ -39,7 +39,9 @@ Dustin Leung, 7th Grade Student at Stoller Elementary School
 
 # How to Donate
 
-Thank you for your generosity. Please make sure to (1) leave your name, email or other contact information, and (2) specify which fund the donation shall go to: 【Community fund】 or 【Victoria Ren Scholarship】. We also appreciate your sending us a note to donate@pdxchinese.org after you made the donation.
+Thank you for your generosity. Please make sure to answer a few questions in the google doc so that we know how to contact you and how to publish your donation here.
+
+[https://goo.gl/forms/lwHNjW3kvOuoRamq2](https://goo.gl/forms/lwHNjW3kvOuoRamq2)
 
 Please choose the way for your most convenience:
 
