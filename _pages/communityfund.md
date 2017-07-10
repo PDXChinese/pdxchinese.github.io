@@ -54,7 +54,7 @@ Your contribution to OCC is tax-deductible under IRC Section 170.
 
 ## Donors with Amount $1,000 or above
 
-Anonymous Donor (5/2/2017)
+Anonymous Donor (JJ 5/2/2017)
 
 Hongcheng Zhao/Yunlan Wang (5/2/2017)
 
@@ -68,7 +68,7 @@ Yanzhuo Zhou (7/3/2017)
 
 ## Donors with Amount $250 to $999
 
-Anonymous Donor (4/3/2017)
+Anonymous Donor (SL 4/3/2017)
 
 Ping Qiu (4/17/2017)
 
@@ -88,13 +88,15 @@ Bamboo International School （5/10/2017）
 
 Guangchao/Xiaojian Li (5/11/2017)
 
-Anonymous Donor (5/19/2017)
+Anonymous Donor (CY 5/19/2017)
 
 Kent Yu, Seft Consulting Group (5/22/2017)
 
 SteamOn Academy (5/25/2017)
 
 Baifei Zeng (5/30/2017)
+
+Anonymous Donor (HC 6/2/2017)
 
 Peking University Alumni Association of Oregon (6/26/2017)
 
@@ -120,17 +122,15 @@ Ruifeng Guo (5/9/2017)
 
 Sherry Shao (5/10/2017)
 
-Anonymous Donor (5/10/2017)
+Anonymous Donor (DT 5/10/2017)
 
-Anonymous Donor (5/11/2017)
+Anonymous Donor (LW 5/11/2017)
 
 Oregon  Artistic School (5/14/2017)
 
 Yi Liu (5/22/2017)
 
 Xiangfei Zeng (6/2/2017)
-
-Anonymous Donor (6/2/2017)
 
 Rebecca Wei (6/21/2017)
 
