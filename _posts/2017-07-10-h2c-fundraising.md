@@ -89,7 +89,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 为此项活动捐款请注明H2C or HTC，方便我们归类。
 
-# 感谢以下社区成员的慷慨解囊 （按照时间排序）
+## 感谢以下社区成员的慷慨解囊（按照日期排序）
 
 Hongcheng Zhao
 
