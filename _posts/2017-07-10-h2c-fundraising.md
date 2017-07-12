@@ -47,7 +47,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  23:26
 
-![]({{ site.url }}/assets/images/cff98b1f30093155f0130d7eeaa13b3d.jpg)
+![]({{ site.url }}/assets/images/cff98b1f30093155f0130d7eeaa13b3d2.jpg)
 
 西北兆  23:26
 
