@@ -88,3 +88,23 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 西北兆  00:35
 
 为此项活动捐款请注明H2C or HTC，方便我们归类。
+
+# 感谢以下社区成员的慷慨解囊 （按照时间排序）
+
+Hongcheng Zhao
+
+Jue Shi
+
+Xinle Yang
+
+Zhanping Chen
+
+Meng Li
+
+Zhibin Lin
+
+Ying Wang
+
+Anonymous Donor
+
+PYvideo Inc.
