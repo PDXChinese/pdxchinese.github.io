@@ -76,7 +76,7 @@ George Wu, Wooster Realty Group (4/19/2017)
 
 Weishan Xia and Martha Xun, Northwest Educational LLC (4/21/2017)
 
-Meng Li, Keller Williams Sunset Corridor (4/21/2017)
+Meng Li, Keller Williams Sunset Corridor (4/21/2017, 7/7/2017)
 
 Gang Ren/Ying Yang (5/4/2017)
 
@@ -114,7 +114,7 @@ Shuping Chen (5/4/2017)
 
 Yongtian Zhang (5/4/2017)
 
-Ying Wang (5/6/2017)
+Ying Wang (5/6/2017, 7/11/2017)
 
 Brian Bian/Rebecca Wei (5/8/2017)
 
@@ -126,7 +126,7 @@ Anonymous Donor (DT 5/10/2017)
 
 Anonymous Donor (LW 5/11/2017)
 
-Oregon  Artistic School (5/14/2017)
+Oregon Artistic School (5/14/2017)
 
 Yi Liu (5/22/2017)
 
@@ -141,3 +141,11 @@ Anonymous Donor (LZ 6/26/2017)
 Max Netter (7/3/2017)
 
 Julie Hu (7/3/2017)
+
+Jue Shi (7/6/2017)
+
+Zhanping Chen (7/6/2017)
+
+Xinle Yang/Pei Zhang (7/6/2017)
+
+Zhibin Lin (7/11/2017)
