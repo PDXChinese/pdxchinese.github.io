@@ -56,7 +56,7 @@ Your contribution to OCC is tax-deductible under IRC Section 170.
 
 Anonymous Donor (JJ 5/2/2017)
 
-Hongcheng Zhao/Yunlan Wang (5/2/2017)
+Hongcheng Zhao/Yunlan Wang (5/2/2017, 7/6/2017)
 
 Ge Liu (5/8/2017)
 
@@ -149,3 +149,5 @@ Zhanping Chen/Liqiong Wei (7/6/2017)
 Xinle Yang/Pei Zhang (7/6/2017)
 
 Zhibin Lin (7/11/2017)
+
+Chuan Xu/Fei Guo (7/13/2017)

@@ -105,6 +105,4 @@ Zhibin Lin
 
 Ying Wang
 
-Anonymous Donor
-
-PYvideo Inc.
+Chuan Xu/Fei Guo
