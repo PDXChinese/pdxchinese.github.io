@@ -53,8 +53,10 @@ IX. Question and answer period
 
 西北兆  18:56
 
-这个地方可以容纳40-50人，如果报名人数过多的话，我们可以考虑改地方。所以，我们需要大家进入小群，在那里，我们会通过接龙方式统计人数。
+这个地方可以容纳40-50人，如果报名人数过多的话，我们可以考虑改地方。所以，我们需要大家进入小群，在那里，我们会通过方便统计人数，并随时更新信息。
 
 西北兆  19:15
 
 ![]({{ site.url }}/assets/images/d465d213f7226abb61a20be2696c35c4.jpg)
+
+加入小群后，请填写[报名表格](https://docs.google.com/forms/d/e/1FAIpQLScRimkIz5U4JEu6sH7xFxHhXmfE_16qrZUhx3DRifJhLRyLww/viewform?c=0&w=1&includes_info_params=true)
