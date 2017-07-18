@@ -66,6 +66,8 @@ Tech For Kids Club (6/9/2017)
 
 Yanzhuo Zhou (7/3/2017)
 
+Jean Li (7/17/2017)
+
 ## Donors with Amount $250 to $999
 
 Anonymous Donor (SL 4/3/2017)
