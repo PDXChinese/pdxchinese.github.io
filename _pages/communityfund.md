@@ -130,13 +130,11 @@ Anonymous Donor (LW 5/11/2017)
 
 Oregon Artistic School (5/14/2017)
 
-Yi Liu (5/22/2017)
+Yi Liu (5/22/2017, 6/22/2017)
 
 Xiangfei Zeng (6/2/2017)
 
 Rebecca Wei (6/21/2017)
-
-Yi Liu (6/22/2017)
 
 Anonymous Donor (LZ 6/26/2017)
 
@@ -153,3 +151,5 @@ Xinle Yang/Pei Zhang (7/6/2017)
 Zhibin Lin (7/11/2017)
 
 Chuan Xu/Fei Guo (7/13/2017)
+
+Vicky Li (7/19/2017)
