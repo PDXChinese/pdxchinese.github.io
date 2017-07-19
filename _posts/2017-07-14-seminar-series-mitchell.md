@@ -49,7 +49,7 @@ IX. Question and answer period
 
 时间：7/29/2017 （星期六） 2:00 pm - 4:30 pm
 
-地点：Bethany Village Community Room, 15160 NW Laidlaw Rd, Portland, OR 97229
+地点：Cedar Mill Community Library/Main ,  12505 NW Cornell Rd., Portland, OR 97229
 
 西北兆  18:56
 
