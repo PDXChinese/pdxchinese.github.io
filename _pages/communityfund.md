@@ -66,7 +66,7 @@ Tech For Kids Club (6/9/2017)
 
 Yanzhuo Zhou (7/3/2017)
 
-Jean Li (7/17/2017)
+Ni Li and the family (7/17/2017)
 
 ## Donors with Amount $250 to $999
 
