@@ -53,7 +53,7 @@ To serve Chinese community with a shared vision and resources.
 
 To build a connected and united Chinese community that embraces diverse socioeconomic backgrounds, political beliefs, and religious and cultural traditions.
 
-### Oregon Chinese Coalition is an IRS approved 501c(3) non-profit organization (TAX ID: 82-1027620).
+#### Oregon Chinese Coalition is an IRS approved 501c(3) non-profit organization (TAX ID: 82-1027620).
 
 ## Board of Directors
 
