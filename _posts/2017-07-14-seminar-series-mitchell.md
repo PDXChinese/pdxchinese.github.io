@@ -1,5 +1,5 @@
 ---
-title: "讲座系列 -- Making a Successful Transition to College-Level Academics"
+title: "讲座系列 -- Making a Successful Transition to College-Level Academics 【新添加内容】"
 author: XiBei Zhao
 excerpt: "【OCC隆重推出讲座系列】我们无时无刻不在思考着如何为我们的社区成员提供更多的提升格局的机会，高科技公司的招聘会是如此，青少年年会也是这个目的。我们有很多打算，其中一个core offering就是组织一个系列讲座，内容会接地气，但是要有层次。推出的首个讲座将是由赫赫有名的UO大学教授Ronald B. Mitchell所做的《Making a successful transition to college-level academics》。 Mitchell教授曾经在2008年UO毕业典礼上应邀作主讲嘉宾。"
 date: "2017-07-14"
@@ -94,3 +94,19 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 西北兆  14:40
 
 在讲座期间，Mitchell教授和我们的金教授几乎是掏出心来向与会的孩子们传授他们的学习感受。如何做人，实际上，方方面面都有可以总结出来的被普遍认同的原则，可以去遵循。不说那些人生大道理，就一个学生来讲，一个正确的学习方法几乎决定了学习的成败。昨天的讲座已经是非常的comprehensive，但是，任何一个方面都还有深入的余地。我在上学和教书期间，算是小有名气的“爬格子”的高手，就如何写好论文，我很愿意和孩子们做深入的交流。所以，讲座结束后我和Mitchell教授和金教授商量，看是否尽快组织一次小规模的只有学生参加的讨论会，大家可以畅所欲言，对大家关心的很多问题，可以和教授们面对面交流。相信，作为这次讲座的followup，效果会更好？看看大家的意见。
+
+The chatting history for this WeChat group "OCC讲座系列—7/29 Mitchell教授" is shown below.
+
+—————  2017-08-12  —————
+
+西北兆  12:55
+
+今天与Mitchell教授的咖啡交流很有收获，感谢参与的五位同学和后面支持的家长们/:strong
+
+西北兆  12:56
+
+![]({{ site.url }}/assets/images/5e6a3178d8f0c800076f6600b414c5c8.jpg)
+
+西北兆  13:00
+
+再次感谢金教授出面联系和安排此次活动，为OCC系列讲座开了一个好头[Salute]
