@@ -9,9 +9,9 @@ sidebar:
   - title: "Phone"
     text: (+1) 503-330-8781
   - title: "Email"
-    text: "xizhen.palmer@portlandinternationalacademy.com"
+    text: "streamlearnings@gmail.com"
   - title: "Website"
-    text: "[www.portlandinternationalacademy.com/](http://www.portlandinternationalacademy.com/)"
+    text: "[www.bamboointlschool.com](http://www.bamboointlschool.com/)"
 ---
 
 致力于国际冬夏令营、美国留学、美国教育咨询、美国交流生等项目。
