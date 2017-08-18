@@ -8,9 +8,9 @@ sidebar:
   - title: "Phone"
     text: "503-531-4094 / 503-330-8781"
   - title: "Email"
-    text: "info.bcschool@gmail.com"
+    text: "streamlearnings@gmail.com"
   - title: "Website"
-    text: "[bamboochineseschool.com/](http://bamboochineseschool.com/)"
+  text: "[streamlearnings@gmail.com](http://streamlearnings@gmail.com/)"
 ---
 
 ## We care about kids
