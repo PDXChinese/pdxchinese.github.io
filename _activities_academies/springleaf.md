@@ -6,7 +6,9 @@ sidebar:
     text: "Sylvania Campus, Portland Community College (12000 SW 49th Ave.)"
     image: "/assets/images/activities/springleafLogo.gif"
   - title: "Phone"
-    text: "n/a"
+    text: "(503)702-0993 (503)380-1159"
+  - title: "Email"
+    text: "wennylaoshi@gmail.com; yuanlu07@yahoo.com"
   - title: "Website"
     text: "[springleaf.org](http://springleaf.org/)"
 ---
