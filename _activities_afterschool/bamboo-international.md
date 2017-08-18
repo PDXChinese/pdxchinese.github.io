@@ -12,6 +12,8 @@ sidebar:
     text: "streamlearnings@gmail.com"
   - title: "Website"
     text: "[www.bamboointlschool.com](http://www.bamboointlschool.com/)"
+    text: "[streamlearnings@gmail.com](http://streamlearnings@gmail.com/)"
+
 ---
 
 致力于国际冬夏令营、美国留学、美国教育咨询、美国交流生等项目。
