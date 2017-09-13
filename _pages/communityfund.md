@@ -53,12 +53,10 @@ Please email to donate@pdxchinese.org for bank account information.
 
 Please mail checks to
 
-C/O Oregon Chinese Coalition
-
-219 NW 3rd Ave., #227, Portland, OR 97209
+c/o Oregon Chinese Coalition, 219 NW 3rd Ave., #227, Portland, OR 97209
 
 ### PayPal or Credit Card
-
+ 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GWHJ99U9AEFFN)
 
 Your contribution to OCC is tax-deductible under IRC Section 170.
