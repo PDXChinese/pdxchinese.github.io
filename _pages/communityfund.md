@@ -55,7 +55,7 @@ Please mail checks to: c/o Oregon Chinese Coalition, 219 NW 3rd Ave., #227, Port
 
 ### PayPal or Credit Card
 
-2.2% fee will be deducted from the donation.
+Note: 2.2% fee will be deducted from the donation.
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GWHJ99U9AEFFN)
 
