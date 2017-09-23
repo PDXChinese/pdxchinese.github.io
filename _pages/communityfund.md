@@ -111,6 +111,8 @@ Anonymous Donor (HC 6/2/2017)
 
 Peking University Alumni Association of Oregon (6/26/2017)
 
+Vicky Li (7/19/2017, 9/20/2017)
+
 ## Donors with Amount under $250
 
 Eric Shi (4/2/2017)
@@ -160,5 +162,3 @@ Xinle Yang/Pei Zhang (7/6/2017)
 Zhibin Lin (7/11/2017)
 
 Chuan Xu/Fei Guo (7/13/2017)
-
-Vicky Li (7/19/2017)
