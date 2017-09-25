@@ -3,11 +3,15 @@ title: "Oregon Chinese Coalition PAC"
 permalink: /pac/
 ---
 
-![]({{ site.url }}/assets/images/activities/pacheader.jpg)
+![]({{ site.url }}/assets/images/activities/pacheader2.jpg)
 
 # Vision
 
+### ......
+
 # Mission
+
+### ......
 
 # PAC Board members
 
