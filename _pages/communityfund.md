@@ -69,8 +69,7 @@ Donations are made by the AmazonSmile Foundation and are not tax-deductible by y
 
 are donations an employer makes to match its employees' charitable contributions. Usually associated with corporate grantmakers, employee matching gifts often are dollar-for-dollar, but some companies will give double or even triple the original donation. Currently, the following corporations have OCC added to their qualified charitable organization list.
 
-<P>Intel Corporation</P>
-<P>Standard Insurance</P>
+Intel Corporation, Standard Insurance
 
 ## Donors with Amount $1,000 or above
 
