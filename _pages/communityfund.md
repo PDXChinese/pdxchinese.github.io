@@ -63,7 +63,7 @@ Your contribution to OCC is tax-deductible under IRC Section 170.
 
 ### Also Donate by Shopping Online
 
-![<img src="/assets/images/activities/amazonsmile.jpg">](https://smile.amazon.com/ch/82-1027620)
+[<img src="/assets/images/activities/amazonsmile.jpg">](https://smile.amazon.com/ch/82-1027620)
 
 ## Donors with Amount $1,000 or above
 
