@@ -61,6 +61,10 @@ Note: 2.2% fee will be deducted from the donation.
 
 Your contribution to OCC is tax-deductible under IRC Section 170.
 
+### Also Donate by Shopping Online
+
+![<p><img src="/assets/images/activities/amazonsmile.jpg"></p>](https://smile.amazon.com/ch/82-1027620)
+
 ## Donors with Amount $1,000 or above
 
 Anonymous Donor (JJ 5/2/2017)
