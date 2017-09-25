@@ -57,7 +57,7 @@ Please mail checks to: c/o Oregon Chinese Coalition, 219 NW 3rd Ave., #227, Port
 
 Note: 2.2% fee will be deducted from the donation.
 
-[(/assets/images/activities/paypal3.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GWHJ99U9AEFFN)
+[![paypal](/assets/images/activities/paypal3.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GWHJ99U9AEFFN)
 
 Your contribution to OCC is tax-deductible under IRC Section 170.
 
