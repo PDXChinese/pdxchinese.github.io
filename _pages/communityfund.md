@@ -39,7 +39,7 @@ Dustin Leung, 7th Grade Student at Stoller Elementary School
 
 # How to Donate
 
-Thank you for your generosity. Your contribution to OCC is tax-deductible under IRC Section 170. Please make sure to answer a few questions in the google doc so that we know how to contact you and how to publish your donation here. Donation to PAC with your Oregon tax credit, please make sure to put 'PAC Donation' in the memo field.
+Thank you for your generosity. Your contribution to OCC (not OCC PAC) is tax-deductible under IRC Section 170. Please make sure to answer a few questions in the google doc so that we know how to contact you and how to publish your donation here. For donation to OCC PAC with your Oregon tax credit, please make sure to put 'PAC Donation' in the memo field. Donations to OCC PAC are not tax-deductible. But Oregon Political Tax Credit allows taxpayers give up to $100 for joint filers or $50 for individuals to an Oregon political organization like OCC PAC.
 
 [https://goo.gl/forms/lwHNjW3kvOuoRamq2](https://goo.gl/forms/lwHNjW3kvOuoRamq2)
 
@@ -69,7 +69,7 @@ Donations are made by the AmazonSmile Foundation and are not tax-deductible by y
 
 are donations an employer makes to match its employees' charitable contributions. Usually associated with corporate grantmakers, employee matching gifts often are dollar-for-dollar, but some companies will give double or even triple the original donation. Currently, the following corporations have OCC added to their qualified charitable organization list.
 
-#### Intel Corporation, Standard Insurance, Autodesk Inc., Cambia Health Solutions 
+#### Intel Corporation, Standard Insurance, Autodesk Inc., Cambia Health Solutions
 
 ## Donors with Amount $1,000 or above
 
