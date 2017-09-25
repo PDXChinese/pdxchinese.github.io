@@ -65,6 +65,13 @@ Note: 2.2% fee will be deducted from the donation.
 
 Donations are made by the AmazonSmile Foundation and are not tax-deductible by you. There is no additional cost to you at your online checkout for this donation from Amazon.
 
+### Employee Matching Gifts
+
+are donations an employer makes to match its employees' charitable contributions. Usually associated with corporate grantmakers, employee matching gifts often are dollar-for-dollar, but some companies will give double or even triple the original donation. Currently, the following corporations have OCC added to their qualified charitable organization list.
+
+<P>Intel Corporation</P>
+<P>Standard Insurance</P>
+
 ## Donors with Amount $1,000 or above
 
 Anonymous Donor (JJ 5/2/2017)
