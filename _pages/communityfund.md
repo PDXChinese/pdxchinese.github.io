@@ -39,7 +39,7 @@ Dustin Leung, 7th Grade Student at Stoller Elementary School
 
 # How to Donate
 
-Thank you for your generosity. Please make sure to answer a few questions in the google doc so that we know how to contact you and how to publish your donation here.
+Thank you for your generosity. Your contribution to OCC is tax-deductible under IRC Section 170. Please make sure to answer a few questions in the google doc so that we know how to contact you and how to publish your donation here.
 
 [https://goo.gl/forms/lwHNjW3kvOuoRamq2](https://goo.gl/forms/lwHNjW3kvOuoRamq2)
 
@@ -58,8 +58,6 @@ Please mail checks to: c/o Oregon Chinese Coalition, 219 NW 3rd Ave., #227, Port
 Note: 2.2% fee will be deducted from the donation.
 
 [![paypal](/assets/images/activities/paypal3.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GWHJ99U9AEFFN)
-
-Your contribution to OCC is tax-deductible under IRC Section 170.
 
 ### Also Donate by Shopping Online
 
