@@ -33,13 +33,13 @@ Victoria (Zifan) Ren was a student at Findley Elementary School, Beaverton Orego
 
 By the end of each school year, one scholarship will be awarded to a student of any age in the Chinese community. The recipient will receive $500. The selection will be made by the Advisory Committee and Victoria’s parents.
 
-### 2017 Recipients
+### 2017 Recipient
 
 Dustin Leung, 7th Grade Student at Stoller Elementary School
 
 # How to Donate
 
-Thank you for your generosity. Your contribution to OCC is tax-deductible under IRC Section 170. Please make sure to answer a few questions in the google doc so that we know how to contact you and how to publish your donation here.
+Thank you for your generosity. Your contribution to OCC is tax-deductible under IRC Section 170. Please make sure to answer a few questions in the google doc so that we know how to contact you and how to publish your donation here. Donation to PAC with your Oregon tax credit, please make sure to put 'PAC Donation' in the memo field.
 
 [https://goo.gl/forms/lwHNjW3kvOuoRamq2](https://goo.gl/forms/lwHNjW3kvOuoRamq2)
 
