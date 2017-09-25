@@ -61,7 +61,7 @@ Note: 2.2% fee will be deducted from the donation.
 
 ### Also Donate by Shopping Online
 
-[![amazonsmile](/assets/images/activities/amazonsmile5.png)](https://smile.amazon.com/ch/82-1027620)
+[![amazonsmile](/assets/images/activities/amazonsmile6.jpg)](https://smile.amazon.com/ch/82-1027620)
 
 Donations are made by the AmazonSmile Foundation and are not tax-deductible by you. There is no additional cost to you at your online checkout for this donation from Amazon.
 
