@@ -4,10 +4,10 @@ main:
     url: /about/
   - title: "Resources"
     url: /resources/
-  - title: "Community Fund"
-    url: /communityfund/
   - title: "PAC"
     url: /pac/
+  - title: "Donate"
+    url: /communityfund/
   - title: "Contact Us"
     url: /contact/
   # - title: "About"
