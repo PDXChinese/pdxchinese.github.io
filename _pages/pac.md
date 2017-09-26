@@ -7,11 +7,11 @@ permalink: /pac/
 
 # Vision
 
-### ......
+### .
 
 # Mission
 
-### ......
+### .
 
 # PAC Board Members (2017-2019)
 
