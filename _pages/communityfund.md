@@ -4,39 +4,6 @@ permalink: /communityfund/
 ---
 Oregon Chinese Coalition is an IRS approved 501c(3) non-profit organization (TAX ID: 82-1027620). Its funding entirely comes from donations from community members. Everyone works in this organization as a volunteer. All donations will be used to fund activities related to the community, including Chinatown Saturday Performance, Job Fair, Youth Conference, volunteering activities, mentoring program, discrimination cases, as well as emergency fund for the community members who are going through financial difficulties.
 
-# Advisory Committee
-
-The committee is responsible for quarterly hearing of OCC’s financial operations, advising the best practice of raising and spending the money, and compliance of any financial regulations for NPO.
-
-### Committee Members:
-
-Ming Brink
-
-Xiaohui Chen
-
-Hui Du
-
-Ge Liu
-
-Guangchao Zhang
-
-Liwen Zhang
-
-Hongcheng Zhao
-
-# Victoria Ren Scholarship
-
-<p><img src="/assets/images/activities/victoria_scholarship.jpg"></p>
-Designed by Sophia, Victoria's twin sister.
-
-Victoria (Zifan) Ren was a student at Findley Elementary School, Beaverton Oregon. She passed away in 2017 after fighting a rare type of cancer for more than three years. She was remembered by her teachers, classmates, friends and neighbors as a very beautiful, talented, and brave girl. Victoria’s parents decided to set up Victoria Ren Scholarship to let her sweetest smile brighten other children in the community who are undergoing physical, emotional or financial stress.
-
-By the end of each school year, one scholarship will be awarded to a student of any age in the Chinese community. The recipient will receive $500. The selection will be made by the Advisory Committee and Victoria’s parents.
-
-### 2017 Recipient
-
-Dustin Leung, 7th Grade Student at Stoller Elementary School
-
 # How to Donate
 
 Thank you for your generosity. Your contribution to OCC (not OCC PAC) is tax-deductible under IRC Section 170. Please make sure to answer a few questions in the google doc so that we know how to contact you and how to publish your donation here. For donation to OCC PAC with your Oregon tax credit, please make sure to put 'PAC Donation' in the memo field. Donations to OCC PAC are not tax-deductible. But Oregon Political Tax Credit allows taxpayers to give up to $100 for joint filers or $50 for individuals to an Oregon political organization like OCC PAC.
@@ -70,6 +37,39 @@ Donations are made by the AmazonSmile Foundation and are not tax-deductible by y
 are donations an employer makes to match its employees' charitable contributions. Usually associated with corporate grantmakers, employee matching gifts often are dollar-for-dollar, but some companies will give double or even triple the original donation. Currently, the following corporations have OCC added to their qualified charitable organization list.
 
 #### Intel Corporation, Standard Insurance, Autodesk Inc., Cambia Health Solutions
+
+# Advisory Committee
+
+The committee is responsible for quarterly hearing of OCC’s financial operations, advising the best practice of raising and spending the money, and compliance of any financial regulations for NPO.
+
+### Committee Members:
+
+Ming Brink
+
+Xiaohui Chen
+
+Hui Du
+
+Ge Liu
+
+Guangchao Zhang
+
+Liwen Zhang
+
+Hongcheng Zhao
+
+# Victoria Ren Scholarship
+
+<p><img src="/assets/images/activities/victoria_scholarship.jpg"></p>
+Designed by Sophia, Victoria's twin sister.
+
+Victoria (Zifan) Ren was a student at Findley Elementary School, Beaverton Oregon. She passed away in 2017 after fighting a rare type of cancer for more than three years. She was remembered by her teachers, classmates, friends and neighbors as a very beautiful, talented, and brave girl. Victoria’s parents decided to set up Victoria Ren Scholarship to let her sweetest smile brighten other children in the community who are undergoing physical, emotional or financial stress.
+
+By the end of each school year, one scholarship will be awarded to a student of any age in the Chinese community. The recipient will receive $500. The selection will be made by the Advisory Committee and Victoria’s parents.
+
+### 2017 Recipient
+
+Dustin Leung, 7th Grade Student at Stoller Elementary School
 
 ## Donors with Amount $1,000 or above
 
