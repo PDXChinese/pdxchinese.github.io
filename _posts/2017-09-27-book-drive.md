@@ -21,23 +21,23 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  00:51
 
-[![]({{ site.url }}/assets/images/e378925cae02e6de44bbf04fb457653f.jpg)
+![]({{ site.url }}/assets/images/e378925cae02e6de44bbf04fb457653f.jpg)
 
 西北兆  00:51
 
-[![]({{ site.url }}/assets/images/3ace66f23eb8f5ce2f7dc80bc9ef08b3.jpg)
+![]({{ site.url }}/assets/images/3ace66f23eb8f5ce2f7dc80bc9ef08b3.jpg)
 
 西北兆  00:51
 
-[![]({{ site.url }}/assets/images/20b006ead1d4160da0d1c3c60faea4e1.jpg)
+![]({{ site.url }}/assets/images/20b006ead1d4160da0d1c3c60faea4e1.jpg)
 
 西北兆  00:51
 
-[![]({{ site.url }}/assets/images/316e68f4621566ee220eb83a6fc0c9a3.jpg)
+![]({{ site.url }}/assets/images/316e68f4621566ee220eb83a6fc0c9a3.jpg)
 
 西北兆  00:52
 
-[![]({{ site.url }}/assets/images/cc141b85548ac8c4a67966fc8135b27d.jpg)
+![]({{ site.url }}/assets/images/cc141b85548ac8c4a67966fc8135b27d.jpg)
 
 西北兆  00:52
 
@@ -53,7 +53,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  00:55
 
-[![]({{ site.url }}/assets/images/d4e9773f4edfc89271e73155beac17f4.jpg)
+![]({{ site.url }}/assets/images/d4e9773f4edfc89271e73155beac17f4.jpg)
 
 西北兆  00:55
 

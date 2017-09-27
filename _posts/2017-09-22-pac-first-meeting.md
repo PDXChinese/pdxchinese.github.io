@@ -55,7 +55,7 @@ Kitson Yu 余仕維  18:50
 
 西北兆  20:53
 
-[![]({{ site.url }}/assets/images/81606f46e9a53c765fc334a04167b511.jpg)
+![]({{ site.url }}/assets/images/81606f46e9a53c765fc334a04167b511.jpg)
 
 西北兆  21:03
 
@@ -71,27 +71,27 @@ PAC是OCC下面的一个专门从事政治活动的分支[OK]
 
 西北兆  21:06
 
-[![]({{ site.url }}/assets/images/ed7a64a64b50da13f77e9f5348237a07.jpg)
+![]({{ site.url }}/assets/images/ed7a64a64b50da13f77e9f5348237a07.jpg)
 
 西北兆  21:06
 
-[![]({{ site.url }}/assets/images/e887c456e4d36c0c1032153aab8549bf.jpg)
+![]({{ site.url }}/assets/images/e887c456e4d36c0c1032153aab8549bf.jpg)
 
 西北兆  21:06
 
-[![]({{ site.url }}/assets/images/546085bd9b51ddaba4b027e3589e52f1.jpg)
+![]({{ site.url }}/assets/images/546085bd9b51ddaba4b027e3589e52f1.jpg)
 
 西北兆  21:07
 
-[![]({{ site.url }}/assets/images/792ab1b504a9a7181390d1b989027614.jpg)
+![]({{ site.url }}/assets/images/792ab1b504a9a7181390d1b989027614.jpg)
 
 西北兆  21:07
 
-[![]({{ site.url }}/assets/images/7b5f4fc9cf5186f5e0b92480c6637b98.jpg)
+![]({{ site.url }}/assets/images/7b5f4fc9cf5186f5e0b92480c6637b98.jpg)
 
 西北兆  21:07
 
-[![]({{ site.url }}/assets/images/f377d525b711136d3c3fe500ce5ee3bb.jpg)
+![]({{ site.url }}/assets/images/f377d525b711136d3c3fe500ce5ee3bb.jpg)
 
 西北兆  21:09
 
