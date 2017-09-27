@@ -38,7 +38,6 @@ are donations an employer makes to match its employees' charitable contributions
 
 #### [Intel Corporation](https://intel.benevity.org/user/login), Standard Insurance, Autodesk Inc., Cambia Health Solutions
 
-
 # Advisory Committee
 
 The committee is responsible for quarterly hearing of OCC’s financial operations, advising the best practice of raising and spending the money, and compliance of any financial regulations for NPO.
@@ -90,6 +89,8 @@ Yanzhuo Zhou (7/3/2017)
 
 Ni Li and the family (7/17/2017)
 
+Mei Chai (9/27/2017)
+
 ### Donors with Amount $250 to $999
 
 Anonymous Donor (SL 4/3/2017)
@@ -125,8 +126,6 @@ Anonymous Donor (HC 6/2/2017)
 Peking University Alumni Association of Oregon (6/26/2017)
 
 Vicky Li (7/19/2017, 9/20/2017)
-
-Mei Chai (9/27/2017)
 
 ### Donors with Amount under $250
 
