@@ -80,7 +80,7 @@ Anonymous Donor (JJ 5/2/2017)
 
 Hongcheng Zhao/Yunlan Wang (5/2/2017, 7/6/2017)
 
-Ge Liu (5/8/2017)
+Ge Liu (5/8/2017, 9/21/2017)
 
 Zhaohong Wang, Kozy Real Estate (5/30/2017)
 
@@ -125,6 +125,8 @@ Anonymous Donor (HC 6/2/2017)
 Peking University Alumni Association of Oregon (6/26/2017)
 
 Vicky Li (7/19/2017, 9/20/2017)
+
+Mei Chai (9/27/2017)
 
 ### Donors with Amount under $250
 
