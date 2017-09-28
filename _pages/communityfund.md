@@ -79,7 +79,7 @@ Anonymous Donor (JJ 5/2/2017)
 
 Hongcheng Zhao/Yunlan Wang (5/2/2017, 7/6/2017)
 
-Ge Liu (5/8/2017, 9/21/2017)
+Ge Liu (5/8/2017)
 
 Zhaohong Wang, Kozy Real Estate (5/30/2017)
 
