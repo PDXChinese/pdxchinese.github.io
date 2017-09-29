@@ -1,5 +1,5 @@
 ---
-title: "讲座系列 -- Making a Successful Transition to College-Level Academics 【新添加内容】"
+title: "讲座系列 -- Making a Successful Transition to College-Level Academics"
 author: XiBei Zhao
 excerpt: "【OCC隆重推出讲座系列】我们无时无刻不在思考着如何为我们的社区成员提供更多的提升格局的机会，高科技公司的招聘会是如此，青少年年会也是这个目的。我们有很多打算，其中一个core offering就是组织一个系列讲座，内容会接地气，但是要有层次。推出的首个讲座将是由赫赫有名的UO大学教授Ronald B. Mitchell所做的《Making a successful transition to college-level academics》。 Mitchell教授曾经在2008年UO毕业典礼上应邀作主讲嘉宾。"
 date: "2017-07-14"
