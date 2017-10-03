@@ -114,7 +114,7 @@ Nancy  12:12
 
 敏Min Kong  12:32
 
-![]({{ site.url }}/assets/images/7d5a78708530f76581d22ebf7bed796f.jpg）
+![]({{ site.url }}/assets/images/7d5a78708530f76581d22ebf7bed796f.jpg)
 
 兔子坡  12:33
 
