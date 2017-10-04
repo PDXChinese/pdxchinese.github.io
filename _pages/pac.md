@@ -13,6 +13,10 @@ permalink: /pac/
 
 ### .
 
+# Donation
+
+You use it or lose it, make sure to take advantage of [Oregon Political Tax Credit](http://oregontaxcredit.com/).
+
 # PAC Board Members (2017-2019)
 
 ### Qiang Fu
