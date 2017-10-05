@@ -15,7 +15,11 @@ permalink: /pac/
 
 # Donation
 
+For donation to OCC PAC with your Oregon tax credit, please make sure to put ‘PAC Donation’ in the memo field. Donations to OCC PAC are not tax-deductible. But Oregon Political Tax Credit allows taxpayers to give up to $100 for joint filers or $50 for individuals to an Oregon political organization like OCC PAC.
+
 You use it or lose it, make sure to take advantage of [Oregon Political Tax Credit](http://oregontaxcredit.com/).
+
+To donate, please choose the way you prefer by visiting [Donate](http://pdxchinese.org/communityfund/) page.
 
 # PAC Board Members (2017-2019)
 
