@@ -5,13 +5,9 @@ permalink: /pac/
 
 ![]({{ site.url }}/assets/images/activities/pacheader2.jpg)
 
-# Vision
+Oregon Chinese Coalition (OCC) is proud to announce the formation of the OCC PAC.  OCC is establishing its Political Action Committee to strengthen its advocacy efforts for the welfare of Chinese community in State of Oregon.
 
-### .
-
-# Mission
-
-### .
+The formation of the OCC PAC will enhance our nonpartisan status and will allow us to advance the Chinese community agenda.  OCC has made its mark with policy-makers because it is an issue-focused group rather than a group focused on party affiliation, and a PAC allows us to demonstrate our nonpartisanship through contributions that will carry OCC's message and intent – to give to candidates who agree with our issues.
 
 # Donation
 
@@ -25,11 +21,11 @@ To donate, please choose the way you prefer by visiting [Donate](http://pdxchine
 
 ### Qiang Fu
 
-### Jenny Hu
+### Jenny Hu, Treasurer 
 
 ### John Lin
 
-### Eric Shi
+### Eric Shi, Chairman
 
 Mr. Shi serves as Chairman of PAC and an OCC board member. Please see his profile on [About Us](http://pdxchinese.org/about/) page.
 
