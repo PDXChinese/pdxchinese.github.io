@@ -15,13 +15,13 @@ For donation to OCC PAC with your Oregon tax credit, please make sure to put ‘
 
 You use it or lose it, make sure to take advantage of [Oregon Political Tax Credit](http://oregontaxcredit.com/).
 
-To donate, please choose the way you prefer by visiting [Donate](http://pdxchinese.org/communityfund/) page.
+To donate, please choose the way you prefer by visiting [Donate](http://pdxchinese.org/communityfund/) page. You have to be a US citizen or green card holder.
 
 # PAC Board Members (2017-2019)
 
 ### Qiang Fu
 
-### Jenny Hu, Treasurer 
+### Jenny Hu, Treasurer
 
 ### John Lin
 
