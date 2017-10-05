@@ -35,9 +35,7 @@ Mr. Shi also serves as a member of OCC Board. Please see his profile on [About U
 
 ### June Yu
 
-Ms. Yu earned a B.A. in Economics from Carleton University in Canada. She holds an Association Montessori International (AMI) Primary Diploma and a M.Ed. from Loyola University in Maryland. She has been working as a teacher since 2004.
-
-June moved to Portland in 2007, and has been running her own Montessori preschool in the Bethany-Cedar Mill area. Outside of work, June loves to play the piano and Guzheng with her children and volunteers at local schools/senior homes as a music guest.
+Ms. Yu is also featured as a community member. Please see her profile on [About Us](http://pdxchinese.org/about/) page.
 
 ### Kent Yu
 
