@@ -1,5 +1,5 @@
 ---
-title: "本地华人社区首个PAC首次碰头会"
+title: "本地华人社区首个PAC首次碰头会 Updated"
 author: XiBei Zhao
 excerpt: "还记得我们一直规划的一件事，就是筹建我们本地华人社区自己的PAC (Political Action Committee)。其它事情容易上手，而且我们也希望能够通过不断通过举办活动，让社区成员感受到我们在发生着变化。除了建设好我们这个社区之外，我们一定要学会走出去，了解不同社区的文化，学习各级政府的运作，研究各色各样组织的功能，让我们真正的融入这个社会"
 date: "2017-09-23"
@@ -124,3 +124,37 @@ PAC是OCC下面的一个专门从事政治活动的分支[OK]
 西北兆  22:09
 
 脚注：我们PAC还没有正式决定endorse这两位候选人，我们会进一步了解她们的政纲。
+
+The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is shown below.
+
+—————  2017-10-07  —————
+
+西北兆  01:17
+
+今天晚上（严格说来应该是昨天晚上了）我们正在筹备中的PAC几位成员聚在一起，和已经宣布竞选波特兰city commissioner的Ms. Williams交流了两个小时，应该说，整
+个过程非常的愉快。Felicia愿意特意赶过来，也是看中了我们作为一个社区开始显示出来的力量。我们从竞选人开始交流，说明我们也在进步中。需要学习的地方还很多。只
+要我们愿意花时间去学习，我们会走到那一步的[OK]
+
+西北兆  01:19
+
+![]({{ site.url }}/assets/images/8fe92217c713f1ff1e856a97aa1b415e.jpg)
+
+西北兆  01:19
+
+![]({{ site.url }}/assets/images/e126737a1174e0f91e4bb90ca50e5743.jpg)
+
+西北兆  01:19
+
+![]({{ site.url }}/assets/images/befa77a65f2102fc7db0a9546178a3b1.jpg)
+
+西北兆  01:19
+
+![]({{ site.url }}/assets/images/42cf860f857417a0f4bc97798b56f6ac.jpg)
+
+西北兆  01:19
+
+![]({{ site.url }}/assets/images/5e4e260337102dbf3aa4c236e88a205d.jpg)
+
+西北兆  01:23
+
+在交流过程中，我们刻意强调了我们在中国城问题上的观点和诉求，Felicia在黑人社区遭受驱赶的历史有很好的了解和认识，基于此，我们相信她对同样被marginalized的华人社区，她的感受应该不会有太大的出入。
