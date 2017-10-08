@@ -131,6 +131,8 @@ Peking University Alumni Association of Oregon (6/26/2017)
 
 Vicky Li (7/19/2017, 9/20/2017)
 
+Guangchao Zhang (10/8/2017) 
+
 ### Donors with Amount under $250
 
 Eric Shi (4/2/2017)
