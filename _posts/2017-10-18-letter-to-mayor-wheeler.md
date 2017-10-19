@@ -1,5 +1,5 @@
 ---
-title: "关于市府考虑在中国城设立新的收容所致市长的一封信"
+title: "关于在中国城设立新收容所致市长的一封信"
 author: XiBei Zhao
 excerpt: "As the Chair of newly formed Oregon Chinese Coalition and a strong advocate for revitalizing Chinatown, I am writing to express my grave concern that the extension of the Housing State of Emergency declared by the City Council allows the council to waive zoning and other city regulations and policies and eventually paves the way to create the new 200-bed homeless shelter in Old Town/Chinatown."
 date: "2017-10-18"
@@ -38,6 +38,7 @@ Before the Christmas of last year, we had a flash mob in Chinatown, with a solo 
 ![]({{ site.url }}/assets/images/3769439b325e3efd6841f01582544e9b.jpg)
 
 The proposed 200 bed shelter in Oldtown/Chinatown will just do the opposite. You should have seen the indisputable response from the community against this proposal. Homeless issue is a social issue and needs to be addressed by the society as a whole, not disproportionally by one community. Existing social service infrastructure in the area should not be used as a reason for the convenience of adding more shelter beds. It is the time for the City to consider relocating some of the social services away from Chinatown, giving a breathing room for the community to catch up with rest of the City. If Chinatown continues to be treated unfairly, those depressing properties will be forced to open doors to the night club businesses. Eventually City will pay a much bigger price for the consequence of their acts today.
+
 The newly formed Oregon Chinese Coalition has its vision of building a connected and united Chinese community that embraces diverse socioeconomic backgrounds, political beliefs, and religious and cultural traditions. Together, Chinese helped built most of the trans-continental railroads over a hundred years ago. For more than a century we contributed to this great country with hard work, talents, Chinese food, Chinatown… With are proud of being Chinese American.
 
 At the same time, we want to be treated fairly as an ethnic group. We want to hold our government and elected officials accountable for their policies and promise to the voters. The following photo was taken during the protest against OTCTCA’s rebranding attempt. We realized that it was not just a marketing tactic by dropping Chinatown from the name of the community. Any act to further delay Chinatown to recover from the slump in the last decade is not in the benefit of anyone, including those homeless people who need not only a bed but also a smile on the faces of their own and all the people around.
