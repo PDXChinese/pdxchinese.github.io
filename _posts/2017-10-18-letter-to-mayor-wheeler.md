@@ -1,5 +1,5 @@
 ---
-title: "关于在中国城设立新收容所致市长的一封信"
+title: "关于在中国城设立新收容所致市长的信"
 author: XiBei Zhao
 excerpt: "As the Chair of newly formed Oregon Chinese Coalition and a strong advocate for revitalizing Chinatown, I am writing to express my grave concern that the extension of the Housing State of Emergency declared by the City Council allows the council to waive zoning and other city regulations and policies and eventually paves the way to create the new 200-bed homeless shelter in Old Town/Chinatown."
 date: "2017-10-18"
