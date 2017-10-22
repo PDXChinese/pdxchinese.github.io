@@ -7,11 +7,20 @@ date: "2017-10-18"
 
 Also read letters from other community members:
 
+[Letter from Raymond Wong, President, CCBA Portland]({{ site.url }}/assets/pdf/letter-to-mayor-ccba.pdf)
+
+[Letter from Kent Lee, President, CACA Portland]({{ site.url }}/assets/pdf/letter-to-mayor-caca.pdf)
+
 [Letter from Neil Lee, President, Portland Lee’s Association]({{ site.url }}/assets/pdf/letter-to-mayor-neil-lee.pdf)
+
+[Letter from Annie Lee Graves, Daughter of Sun Chong Lung Owner]({{ site.url }}/assets/pdf/letter-to-mayor-annie-lee.pdf)
 
 [Letter from Min Kong, Director of Oregon Hope Chinese School]({{ site.url }}/assets/pdf/letter-to-mayor-min-kong.pdf)
 
 [Letter from Baifei Zeng, Intel Engineer, Chinatown Property Owner]({{ site.url }}/assets/pdf/letter-to-mayor-baifei-zeng2.pdf)
+
+[List of Chinese Organizations Supporting CTCTCA's Petition]({{ site.url }}/assets/pdf/letter-to-mayor-signatures.pdf)
+
 
 
 October 18, 2017
