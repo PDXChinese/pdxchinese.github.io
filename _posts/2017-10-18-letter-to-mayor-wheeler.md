@@ -10,7 +10,7 @@ date: "2017-10-18"
 
 [Letter from Min Kong, Director of Oregon Hope Chinese School]({{ site.url }}/assets/pdf/letter-to-mayor-min-kong.pdf)
 
-[Letter from Baifei Zeng, Intel engineer and Chinatown Property Owner]({{ site.url }}/assets/pdf/letter-to-mayor-baifei-zeng.pdf)
+[Letter from Baifei Zeng, Intel Engineer, Chinatown Property Owner]({{ site.url }}/assets/pdf/letter-to-mayor-baifei-zeng2.pdf)
 
 ### Letter from Hongcheng Zhao, Board Chair of OCC
 
