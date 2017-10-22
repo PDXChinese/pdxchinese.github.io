@@ -4,7 +4,8 @@ author: XiBei Zhao
 excerpt: "As the Chair of newly formed Oregon Chinese Coalition and a strong advocate for revitalizing Chinatown, I am writing to express my grave concern that the extension of the Housing State of Emergency declared by the City Council allows the council to waive zoning and other city regulations and policies and eventually paves the way to create the new 200-bed homeless shelter in Old Town/Chinatown."
 date: "2017-10-18"
 ---
-### Also read letters from other community members:
+
+Also read letters from other community members:
 
 [Letter from Neil Lee, President, Portland Lee’s Association]({{ site.url }}/assets/pdf/letter-to-mayor-neil-lee.pdf)
 
@@ -12,7 +13,6 @@ date: "2017-10-18"
 
 [Letter from Baifei Zeng, Intel Engineer, Chinatown Property Owner]({{ site.url }}/assets/pdf/letter-to-mayor-baifei-zeng2.pdf)
 
-### Letter from Hongcheng Zhao, Board Chair of OCC
 
 October 18, 2017
 
