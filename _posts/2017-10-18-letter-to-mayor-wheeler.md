@@ -1,7 +1,7 @@
 ---
 title: "Letters to the Mayor about New 200-bed Homeless Shelter in Old Town/Chinatown"
 author: XiBei Zhao
-excerpt: "We are writing to express our grave concern that the extension of the Housing State of Emergency declared by the City Council allows the council to waive zoning and other city regulations and policies and eventually paves the way to create the new 200-bed homeless shelter in Old Town/Chinatown."
+excerpt: "We are writing to express our grave concern that the extension of the Housing State of Emergency eventually paves the way to create the new 200-bed homeless shelter in Old Town/Chinatown."
 date: "2017-10-18"
 ---
 
