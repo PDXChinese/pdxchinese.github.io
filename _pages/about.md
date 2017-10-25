@@ -28,7 +28,7 @@ feature_row2:
     title: "Cheng Xuan"
     excerpt: "<p>Xuan learned to dance at age of five and started to receive medals in many major ballet competitions from 2014, including Shanghai and New York International Ballet Competitions.</p><p>She joined Oregon Ballet Theatre as a Principal Dancer in 2011. She dances in Giselle, Swan Lake, Cinderella, A Midsummer Night’s Dream, The Nutcracker.</p><p>She co-founded [Oregon International Ballet Academy](http://oiballet.org/ac/), where she shares her experience and passion to young dancers. She enjoys dancing with her students on the same stage in her school’s annual performance.</p>"
   - image_path: /assets/images/members/Yu-June.jpg
-  - title: "June Yu"
+    title: "June Yu"
     excerpt: "<p>June earned a B.A. in Economics from Carleton University in Canada. She holds an Association Montessori International (AMI) Primary Diploma and a M.Ed. from Loyola University in Maryland. She has been working as a teacher since 2004.</p><p>June moved to Portland in 2007, and has been running her own Montessori preschool in the Bethany-Cedar Mill area. Outside of work, June loves to play the piano and Guzheng with her children and volunteers at local schools/senior homes as a music guest.</p>"
   - image_path: /assets/images/members/Yu-Kent.jpg
     title: "Kent Yu"
