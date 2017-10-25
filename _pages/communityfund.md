@@ -93,7 +93,9 @@ Yanzhuo Zhou (7/3/2017)
 
 Ni Li and the family (7/17/2017)
 
-Mei Chai (9/27/2017)
+Guangchao Zhang/Xiaojian Li (5/11/2017, 10/8/2017)
+
+Anonymous Donor (MC 9/27/2017)
 
 ### Donors with Amount $250 to $999
 
@@ -115,8 +117,6 @@ Peking University Alumni Association of Oregon (5/9/2017)
 
 Bamboo International School （5/10/2017）
 
-Guangchao/Xiaojian Li (5/11/2017)
-
 Anonymous Donor (CY 5/19/2017)
 
 Kent Yu, Seft Consulting Group (5/22/2017)
@@ -131,13 +131,11 @@ Peking University Alumni Association of Oregon (6/26/2017)
 
 Vicky Li (7/19/2017, 9/20/2017)
 
-Guangchao Zhang (10/8/2017) 
+Hope Chinese School (5/2/2017, 10/17/2017)
 
 ### Donors with Amount under $250
 
 Eric Shi (4/2/2017)
-
-Hope Chinese School (5/2/2017)
 
 Remaining Balance from 2.20 Rally for Peter Liang (5/2/2017)
 
