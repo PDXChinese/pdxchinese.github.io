@@ -25,7 +25,7 @@ feature_row2:
     title: "Ni Xu"
     excerpt: "<p>Ni was a graduate from Beijing Film Academy, majoring in film script writing.  He had an extensive experience in the film industry, working as a screenwriter, photographer, documentary and film director.</p><p>In 2012, Ni and his family came to the United States, eventually settled in Portland, hoping to do their part to record the revival of the Chinese community in Portland.</p><p>Ni’s wife, Faye, is a marketing guru, who was directly responsible for directing Portland Chinatown Saturday Performance series.</p>"
   - image_path: /assets/images/members/cheng-xuan.jpg
-    title: "Cheng Xuan"
+    title: "Xuan Cheng"
     excerpt: "<p>Xuan learned to dance at age of five and started to receive medals in many major ballet competitions from 2004, including Shanghai and New York International Ballet Competitions. She was the Gold medalist at 2006 National Taoli Cup Dance Competition in China.</p><p>Xuan performed in over 20 countries throughout Europe, Asia and North America. She joined Oregon Ballet Theatre as its  female principal dancer in 2011.</p><p>She co-founded <a href='http://oiballet.org/ac/'>Oregon International Ballet Academy</a>, where she shares her experience and passion to young dancers.</p>"
   - image_path: /assets/images/members/Yu-June.jpg
     title: "June Yu"
