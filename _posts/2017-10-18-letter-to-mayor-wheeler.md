@@ -69,4 +69,4 @@ Sincerely yours,
 
 Hongcheng Zhao
 
-Chair of Board
+Chair of the Board
