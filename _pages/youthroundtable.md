@@ -1,9 +1,12 @@
 ---
-title: "OCC Annual Youth Roundtable"
+title: " "
 permalink: /youthroundtable/
 ---
+
 ![]({{ site.url }}/assets/images/communities/youthroundtable_logo.png)
 Designed by 林景扬
+
+# OCC Annual Youth Roundtable
 
 ## Date
 12/30/2017 1:00 pm - 5:00 pm
