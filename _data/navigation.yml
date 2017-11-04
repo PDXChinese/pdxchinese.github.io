@@ -6,6 +6,8 @@ main:
     url: /resources/
   - title: "PAC"
     url: /pac/
+  - title: "Chamber of Commerce"
+    url: /chambercommerce/
   - title: "Donate"
     url: /communityfund/
   - title: "Contact Us"
@@ -32,3 +34,5 @@ extra:
         url: /jobfair/
       - title: "Youth Conference"
         url: /youthconference/
+      - title: "Youth Roundtable"
+        url: /youthroundtable/
