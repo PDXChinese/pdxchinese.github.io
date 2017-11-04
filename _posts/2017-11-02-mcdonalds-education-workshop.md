@@ -1,12 +1,12 @@
 ---
-title: "OCC荣幸参与由波特兰新闻主办的專為亞裔學生而設的『麥當勞教育展』"
+title: "OCC参与由波特兰新闻主办的專為亞裔學生而設的『麥當勞教育展』"
 author: Rosaline Hui
 excerpt: "「教育是成功的起點」，『麥當勞教育展』為滿足莘莘學子對美好前景的願望，提供了強大助力，該教育展每年均在美國十多個城市舉辦，並獲得社區廣大迴響
 。今年在波特蘭市的教育展，將邀請教育專家和多家升學教育機構共襄盛舉，為學生和家長提供大學入學標準和最新訊息，互動交流平台。"
 date: "2017-11-02"
 ---
 
-![]({{ site.url }}/assets/images/mcdonals_education_workshop.jpg)
+![]({{ site.url }}/assets/images/mcdonals_poster.jpg)
 
 　　由麥當勞作主題贊助的『麥當勞教育展』，今年增設波特蘭地區的展場，由波特蘭新聞和波特蘭文藝中心負責策劃承辦，並定於11月18日在東南區波特蘭社區學院內舉行（82街Division 街），由上午十時至晚上四時舉行。
 
@@ -29,5 +29,9 @@ date: "2017-11-02"
 　　『麥當勞教育展』歡迎初中和高中各級的學生帶同父母參加。為鼓勵學生們積極參加，大會將為參加的學生提供抽獎機會，大獎是IPad 一部，另有三個每個一百元的獎學金。而大會贊助商之一的99大華超市亦向首20名登記報名的學生送出禮券，學生請到網上報名：[www.portlandchinesetimes.com](https://goo.gl/forms/FFxz2hfEYYDlqkAx2)，同時選定參加的講座，因為課室的座位有限，預先報名可確保可以參加自選的講座。查詢可電503-771- 9560或電郵至pct@portlandchinesetimes.com。
 
 　　當日的時間表及講座時間表，請參照刊登在[本期波特蘭新聞B1版的廣告](http://portlandchinesetimes.com/%E5%B0%88%E7%82%BA%E4%BA%9E%E8%A3%94%E5%AD%B8%E7%94%9F%E8%80%8C%E8%A8%AD%E7%9A%84%E3%80%8E%E9%BA%A5%E7%95%B6%E5%8B%9E%E6%95%99%E8%82%B2%E5%B1%95%E3%80%8F11%E6%9C%8818%E6%97%A5%E8%88%89%E8%A1%8C/)。
+
+![]({{ site.url }}/assets/images/mcdonals_agenda.jpg)
+
+![]({{ site.url }}/assets/images/mcdonals_schedule.jpg)
 
 …………
