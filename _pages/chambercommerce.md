@@ -2,7 +2,7 @@
 title: "CACCO"
 permalink: /chambercommerce/
 ---
-![]({{ site.url }}/assets/images/horizaontal_bar.jpg)
+![]({{ site.url }}/assets/images/horizontal_bar.jpg)
 
 ## Oregon Chinese American Chamber of Commerce
 
