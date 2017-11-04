@@ -2,6 +2,8 @@
 title: "CACCO"
 permalink: /chambercommerce/
 ---
+![]({{ site.url }}/assets/images/horizaontal_bar.jpg)
+
 ## Oregon Chinese American Chamber of Commerce
 
 俄勒冈华人联盟正在计划建立我们华人社区的第一个商会，这个NPO将会以现代组织形式为会员提供一个社交联谊的平台，在此基础上平等地与其它商会沟通交往，利用他们已经建立起来的渠道，让我们能够尽快熟悉当地的商业与政治环境。
