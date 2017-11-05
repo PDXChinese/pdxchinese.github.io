@@ -71,4 +71,4 @@ Time to practice public speaking while presenting your case to the audience
 
 This time slot will accommodate to 3 high school students
 
-#### Complimentary snacks and drinks are provided. Thanks Prof. Fu Li for his generosity to use his classroom.
+#### Complimentary snacks and drinks are provided. Thanks Prof. Fu Li for his generosity to make his classroom available for the event.
