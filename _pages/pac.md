@@ -34,3 +34,5 @@ Mr. Shi serves as Chairman of PAC and an OCC board member. Please see his profil
 Ms. Yu is also featured as a community member. Please see her profile on [About Us](http://pdxchinese.org/about/) page.
 
 ### Yongtian Zhang
+
+Mr. Zhang is also featured as a community member. Please see his profile on [About Us](http://pdxchinese.org/about/) page.
