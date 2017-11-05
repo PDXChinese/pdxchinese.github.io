@@ -21,11 +21,13 @@ Portland State University (FAB 10, from entry at SW Harrison, not from 4th Ave e
 
 High school students, college students, and post-college graduates
 
+Profiles of those college students and post-college graduates will be collected and distributed before the event.
+
 ## Proposed Agenda
 
 ### 12:30 pm - 1:00 pm Checking In
 
-Walk-ins are welcome only there are spaces available
+Walk-ins are welcome only if there are spaces available
 
 ### 1:00 pm - 1:30 pm Social Times
 
@@ -35,7 +37,7 @@ Get to know each other for all three groups of youth
 
 How those college students reflect after they start to see the forest, comparing their high school years when exploring their own paths -- advices to high school students.
 
-How to get ready for the transmission to college life for both academic and social aspects -- helpful for both high school and college students.
+How to get ready for college life in both academic and social aspects -- helpful for both high school and college students.
 
 Start with Panelists, followed by Q&A
 
@@ -58,6 +60,8 @@ What skills they feel they could have built up more at high school or college.
 From jobs they have today to see majors they chose at colleges and their dreams at high schools.
 
 Look back on the ECs back in high schools and the impact on their lives.
+
+Start with Panelists, followed by Q&A
 
 ### 4:30 pm - 5:00 pm Showtime for High School Students
 
