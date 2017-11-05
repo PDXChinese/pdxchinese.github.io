@@ -17,7 +17,7 @@ Portland State University (FAB 10, from entry at SW Harrison, not from 4th Ave e
 
 1900 SW 4th Ave., Portland, Oregon 97201
 
-### Participants
+## Participants
 
 High school students, college students, and post-college graduates
 
