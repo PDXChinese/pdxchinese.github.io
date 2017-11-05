@@ -4,7 +4,7 @@ permalink: /youthroundtable/
 ---
 
 ![]({{ site.url }}/assets/images/communities/youthroundtable_logo.png)
-Designed by 林景扬
+designed by Jingyang Lin
 
 # OCC Annual Youth Roundtable
 
