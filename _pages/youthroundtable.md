@@ -79,4 +79,6 @@ This time slot will accommodate to 3 high school students
 
 #### Complimentary snacks and drinks are provided. Thanks Prof. Fu Li for his generosity to make his classroom available for the event.
 
+Direction:
+
 ![]({{ site.url }}/assets/images/psu_entrance.jpg)
