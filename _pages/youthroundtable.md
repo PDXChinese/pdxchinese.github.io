@@ -23,7 +23,7 @@ High school students, college students, and post-college graduates
 
 Profiles of those college students and post-college graduates will be collected and distributed before the event.
 
-## Registration
+## Registration (Free)
 
 Please fill out the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeLCvVNhV0cRmBGmgdAvf7RuX93AM6QbxzbTDnWi7jHGtZcJw/viewform?c=0&w=1), the number of participants will be limited to 50 (excluding parents).
 
@@ -54,6 +54,8 @@ Welcome to return to the roundtable to join Q&A session starting from 2:30 pm.
 All soft drinks and disserts at Duck House are at expense of OCC.
 
 ### 3:00 pm - 3:30 pm Break and more Social Time
+
+Live demo of robotic, two times World Championship
 
 Best time to mingle with friends old and new
 
