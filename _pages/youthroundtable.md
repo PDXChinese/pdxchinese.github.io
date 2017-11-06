@@ -3,7 +3,7 @@ title: " "
 permalink: /youthroundtable/
 ---
 
-![]({{ site.url }}/assets/images/communities/youthroundtable_poster.png)
+![]({{ site.url }}/assets/images/youthroundtable_poster.png)
 logo designed by Jingyang Lin
 
 ## Date
