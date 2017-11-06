@@ -3,8 +3,11 @@ title: " "
 permalink: /youthroundtable/
 ---
 
-![]({{ site.url }}/assets/images/youthroundtable_poster.png)
-logo designed by Jingyang Lin
+![]({{ site.url }}/assets/images/communities/youthroundtable_logo.png)
+designed by Jingyang Lin
+
+## 俄勒冈华裔青少年圆桌会
+# Oregon Chinese Youth Roundtable
 
 ## Date
 12/30/2017 1:00 pm - 5:00 pm
