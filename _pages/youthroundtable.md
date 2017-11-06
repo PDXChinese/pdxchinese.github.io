@@ -23,6 +23,10 @@ High school students, college students, and post-college graduates
 
 Profiles of those college students and post-college graduates will be collected and distributed before the event.
 
+## Registration
+
+Please fill out the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeLCvVNhV0cRmBGmgdAvf7RuX93AM6QbxzbTDnWi7jHGtZcJw/viewform?c=0&w=1), the number of participants will be limited to 50 (excluding parents).
+
 ## Proposed Agenda
 
 ### 12:30 pm - 1:00 pm Checking In
