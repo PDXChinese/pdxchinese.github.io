@@ -28,3 +28,43 @@ permalink: /chambercommerce/
 [Asian Pacific American Chamber of Commerce (APACC)](https://www.facebook.com/weareapacc/?ref=page_internal)
 
 [Philippine American Chamber of Commerce of Oregon (PACCO)](http://www.pacco.org/)
+
+### 美国设有网站的主要华商团体
+
+转自[《美国华商团体的历史与现状》(2009-07-21)](http://www.how2usa.com/?eid=100064&action=detail&id=512917990)
+
+[美国中国总商会（China General Chamber of Commerce in USA）](www.cgccusa.org)
+
+[美国中国商会（China Chamber of Commerce in USA）](www.usccoc.org)
+
+[美国华商会（US Chinese Chamber of Commerce）](www.usccc.net)
+
+[美国纽约华人总商会（The New York Chinese Businessmen's Association）](www.nycba.us)
+
+[美中工商协会（Chinese CEO Organization）](www.chineseceo.com)
+
+[中美华商联合会（Chinese American Business Professional Association (CABPA)）](www.cabpa.org)
+
+[美中国际合作交流促进会（US-China Exchange Association (USCEA)）](www.usachina.org)
+
+[国际华人科技工商协会（Chinese Association for Science and Business）](www.casbi.org)
+
+[亚特兰大中国商会（Chinese Business Association of Atlanta）](www.cbaaonline.org)
+
+[底特律中华商会（Detroit Chinese Business Association）](www.dcba.com)
+
+[大费城华人工商联合总会Greater Philadelphia United Chinese American Chamber of Commerce](www.gpucacc.uni.cc)
+
+[芝城华商会（Chicago Chinatown Chamber of Commerce）](www.chicagochinatown.org)
+
+[俄亥俄州华商协会（Ohio Chinese American Business Association (OCABA)）](www.ocaba.org)
+
+[新泽西中美商会（New Jersey Chinese-American Chamber of Commerce）](www.njcacc.org)
+
+[中国旅美科技协会（Chinese Association for Science and Technology (CAST)）](www.castusa.org)
+
+[美中时装协会](www.safashion.net)
+
+[美中服装鞋业协会（American Chinese Apparel & Footwear Association (ACAFA) )](www.acafa.org)
+
+[美国华人金融协会（Chinese Finance Association (TCFA)）](www.aimhi.com/VC/tcfa)
