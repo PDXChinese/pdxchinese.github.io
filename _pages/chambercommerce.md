@@ -29,7 +29,7 @@ permalink: /chambercommerce/
 
 [Philippine American Chamber of Commerce of Oregon (PACCO)](http://www.pacco.org/)
 
-### 美国设有网站的主要华商团体
+### 美国设有网站的主要华商团体 (包括已经存在过的)
 
 转自[《美国华商团体的历史与现状》(2009-07-21)](http://www.how2usa.com/?eid=100064&action=detail&id=512917990)
 
@@ -53,7 +53,7 @@ permalink: /chambercommerce/
 
 [底特律中华商会（Detroit Chinese Business Association）](http://www.dcba.com)
 
-[大费城华人工商联合总会（Greater Philadelphia United Chinese American Chamber of Commerce）](http://www.gpucacc.uni.cc)
+[大费城华人工商联合总会（Greater Philadelphia United Chinese American Chamber of Commerce）](http://www.gpucacc.uni.com)
 
 [芝城华商会（Chicago Chinatown Chamber of Commerce）](http://www.chicagochinatown.org)
 
