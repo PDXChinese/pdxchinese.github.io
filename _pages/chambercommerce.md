@@ -53,7 +53,7 @@ permalink: /chambercommerce/
 
 [底特律中华商会（Detroit Chinese Business Association）](www.dcba.com)
 
-[大费城华人工商联合总会Greater Philadelphia United Chinese American Chamber of Commerce](www.gpucacc.uni.cc)
+[大费城华人工商联合总会（Greater Philadelphia United Chinese American Chamber of Commerce）](www.gpucacc.uni.cc)
 
 [芝城华商会（Chicago Chinatown Chamber of Commerce）](www.chicagochinatown.org)
 
