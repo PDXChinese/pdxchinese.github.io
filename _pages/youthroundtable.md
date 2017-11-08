@@ -13,7 +13,7 @@ designed by Jingyang Lin @ [Olando Art](https://olandosite.wordpress.com/)
 12/30/2017 1:00 pm - 5:00 pm
 
 ## Place
-Portland State University (FAB 10, from entry at SW Harrison, not from 4th Ave entry.)
+Portland State University (from entry at SW Harrison, not from 4th Ave entry, see map at end of the page.)
 
 1900 SW 4th Ave., Portland, Oregon 97201
 
