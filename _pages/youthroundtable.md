@@ -25,7 +25,7 @@ Profiles of those college students and post-college graduates will be collected 
 
 ## Registration (Free)
 
-Please fill out the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeLCvVNhV0cRmBGmgdAvf7RuX93AM6QbxzbTDnWi7jHGtZcJw/viewform?c=0&w=1), the number of participants will be limited to 50 (excluding parents).
+Please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSeLCvVNhV0cRmBGmgdAvf7RuX93AM6QbxzbTDnWi7jHGtZcJw/viewform?c=0&w=1), the number of participants will be limited to 50 (excluding parents).
 
 ## Proposed Agenda
 
@@ -77,8 +77,14 @@ Time to practice public speaking while presenting your case to the audience
 
 This time slot will accommodate to 3 high school students
 
-#### Complimentary snacks and drinks are provided. Thanks Prof. Fu Li for his generosity to make his classroom available for the event.
+## Some Background behind the Initiative
 
-Direction:
+不少大学会要求你在高中最后一年提交入学申请时，就早早选好专业。然而，你的想法很有可能会改变。教育部说，约有30%的学生至少会换一次专业。
+
+学生们会得到大量关于选专业的建议。盖洛普(Gallup)九月的一项调查显示，大多数建议都来自于家人和朋友，仅有11%的学生会从高中顾问那里寻求指导，28%的人会从大学顾问那里寻求建议。但是，大多数人往往都不觉得这些建议特别有用。
+
+#### Complimentary snacks and drinks are provided. 
+
+.
 
 ![]({{ site.url }}/assets/images/psu_entrance.jpg)
