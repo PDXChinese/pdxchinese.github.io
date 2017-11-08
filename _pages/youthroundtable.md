@@ -83,8 +83,7 @@ This time slot will accommodate to 3 high school students
 
 学生们会得到大量关于选专业的建议。盖洛普(Gallup)九月的一项调查显示，大多数建议都来自于家人和朋友，仅有11%的学生会从高中顾问那里寻求指导，28%的人会从大学顾问那里寻求建议。但是，大多数人往往都不觉得这些建议特别有用。
 
-#### Complimentary snacks and drinks are provided. 
+### Complimentary snacks and drinks are provided.
 
-.
 
 ![]({{ site.url }}/assets/images/psu_entrance.jpg)
