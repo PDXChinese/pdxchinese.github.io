@@ -76,14 +76,6 @@ Time to practice public speaking while presenting your case to the audience
 
 This time slot will accommodate to 3 high school students
 
-## Some Background behind the Initiative
-
-不少大学会要求你在高中申请大学的时候，就早早选好专业。然而，你的想法很有可能会改变。教育部说，约有30%的学生至少会换一次专业。
-
-学生们会得到大量关于选专业的建议。盖洛普([Gallup](http://stradaeducation.gallup.com/reports/219236/major-influence-students-valued-advice-study-college.aspx))九月的一项调查显示，大多数建议都来自于家人和朋友，仅有11%的学生会从高中顾问那里寻求指导，28%的人会从大学顾问那里寻求建议。但是，大多数人往往却不觉得这些建议特别有用。
-
-摘自《[纽约时报](https://www.nytimes.com/2017/11/03/education/edlife/choosing-a-college-major.html)》
-
 ### Complimentary snacks and drinks are provided.
 
 
