@@ -1,6 +1,16 @@
 ---
 title: " "
 permalink: /volunteering/
+feature_row1:
+  - image_path: /assets/images/members/yellow_smiley_face.jpg
+    title: "@Nancy"
+    excerpt: ""
+  - image_path: /assets/images/members/yellow_smiley_face.jpg
+    title: "@Rebecca Wei"
+    excerpt: ""
+  - image_path: /assets/images/members/yellow_smiley_face.jpg
+    title: "@lxm"
+    excerpt: ""
 ---
 
 ![]({{ site.url }}/assets/images/logo/volunteering_logo1.png)
@@ -9,6 +19,7 @@ We come together, serving our community where we raise our families, helping tho
 
 ## Introduce Our Volunteer Leaders
 
+{% include feature_row id="feature_row1"%}
 
 ## Holiday Season Volunteering Event
 
