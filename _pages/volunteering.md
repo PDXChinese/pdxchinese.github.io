@@ -48,3 +48,5 @@ Maximum volunteers: 20
 ## More Resources
 
 [Ten-Plus Kid-Friendly Volunteer Opportunities in Portland](http://www.pdxparent.com/family-friendly-volunteering-portland/)
+
+[More Volunteering Opportunities for Teens and Help for Getting Ready](https://multcolib.org/teens/job-help-teens)
