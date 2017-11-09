@@ -5,7 +5,10 @@ permalink: /volunteering/
 
 ![]({{ site.url }}/assets/images/logo/volunteering_logo1.png)
 
-We come together, serving our community where we raise our families, helping those who are not as lucky as we are, growing our passion for a better World where ‘love’ is the magic word, and connecting with other community members who share the same value.
+We come together, serving our community where we raise our families, helping those who are in need, growing our passion for a better world with ‘love’ in heart, and connecting with others who share the same value.
+
+## Introduce Our Volunteer Leaders
+
 
 ## Holiday Season Volunteering Event
 
