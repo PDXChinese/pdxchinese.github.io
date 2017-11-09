@@ -17,7 +17,7 @@ feature_row1:
 
 We come together, serving our community where we raise our families, helping those who are in need, growing our passion for a better world with ‘love’ in heart, and connecting with others who share the same value.
 
-## Introduce Our Volunteer Leaders
+## Introduce our Volunteer Leaders
 
 {% include feature_row id="feature_row1"%}
 
@@ -44,3 +44,7 @@ Maximum volunteers: 20
 ### Volunteer Leader
 
 @ Nancy
+
+## More Resources
+
+[Ten-Plus Kid-Friendly Volunteer Opportunities in Portland](http://www.pdxparent.com/family-friendly-volunteering-portland/)
