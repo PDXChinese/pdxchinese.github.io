@@ -39,7 +39,7 @@ Please join 《PDX 志愿服务公益群》 and sign up from there.
 
 Minimum age: 6
 
-Maximum volunteers: 20
+Maximum volunteers: 40
 
 ### Volunteer Leader
 
