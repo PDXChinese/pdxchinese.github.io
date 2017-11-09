@@ -5,7 +5,7 @@ permalink: /volunteering/
 
 ![]({{ site.url }}/assets/images/logo/volunteering_logo2.png)
 
-We come together, serving our community where we raise our families, helping those who are not as lucky as we are, growing our passion to a better World where ‘love’ is the magic word, and connecting with other community members who share the same social value.
+We come together, serving our community where we raise our families, helping those who are not as lucky as we are, growing our passion for a better World where ‘love’ is the magic word, and connecting with other community members who share the same value.
 
 ## Holiday Season Volunteering Event
 
@@ -26,3 +26,7 @@ Please join 《PDX 志愿服务公益群》 and sign up from there.
 Minimum age: 6
 
 Maximum volunteers: 20
+
+### Volunteer Leader
+
+@ Nancy
