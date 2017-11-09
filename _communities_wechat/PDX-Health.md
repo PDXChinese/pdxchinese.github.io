@@ -2,7 +2,7 @@
 title: "PDX 健康互助群"
 sidebar:
   - title: "群主"
-    text: "贾太平/贾立军"
+    text: "西北兆"
 ---
 
 ## Mission
