@@ -1,6 +1,6 @@
 ---
-title: "Volunteering"
+title: " "
 permalink: /volunteering/
 ---
 
-## Under Construction
+![]({{ site.url }}/assets/images/logo/volunteering_logo.png)
