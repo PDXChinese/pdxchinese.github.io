@@ -3,7 +3,7 @@ title: " "
 permalink: /youthroundtable/
 ---
 
-![]({{ site.url }}/assets/images/communities/youthroundtable_logo2.png)
+![]({{ site.url }}/assets/images/communities/youthroundtable_logo3.png)
 
 ## 俄勒冈华裔青少年圆桌会
 # Oregon Chinese Youth Roundtable
