@@ -2,7 +2,7 @@
 title: " "
 permalink: /volunteering/
 feature_row1:
-  - image_path: /assets/images/members/yellow_smiley_face.jpg
+  - image_path: /assets/images/members/Nancy-Yang.jpg
     title: "Nancy Yang"
     excerpt: ""
   - image_path: /assets/images/members/yellow_smiley_face.jpg
@@ -21,7 +21,7 @@ We come together, serving our community where we raise our families, helping tho
 
 {% include feature_row id="feature_row1"%}
 
-## Holiday Season Volunteering Event
+## Community Volunteering Debut: Group Volunteering at Oregon Food Bank
 
 ### Date
 
