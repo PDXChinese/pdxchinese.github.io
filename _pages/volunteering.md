@@ -5,10 +5,10 @@ feature_row1:
   - image_path: /assets/images/members/Nancy-Yang.jpg
     title: "Nancy Yang"
     excerpt: ""
-  - image_path: /assets/images/members/yellow_smiley_face.jpg
+  - image_path: /assets/images/members/Rebecca-Wei.jpg
     title: "Rebecca Wei"
     excerpt: ""
-  - image_path: /assets/images/members/yellow_smiley_face.jpg
+  - image_path: /assets/images/members/lxm.jpg
     title: "Xinmei Li"
     excerpt: ""
 ---
