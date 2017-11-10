@@ -21,7 +21,7 @@ We come together, serving our community where we raise our families, helping tho
 
 {% include feature_row id="feature_row1"%}
 
-## Community Volunteering Debut: Group Volunteering at Oregon Food Bank
+## Group Volunteering Debut at Oregon Food Bank
 
 ### Date
 
