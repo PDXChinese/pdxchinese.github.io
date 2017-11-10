@@ -3,13 +3,13 @@ title: " "
 permalink: /volunteering/
 feature_row1:
   - image_path: /assets/images/members/yellow_smiley_face.jpg
-    title: "@Nancy"
+    title: "Nancy Yang"
     excerpt: ""
   - image_path: /assets/images/members/yellow_smiley_face.jpg
-    title: "@Rebecca Wei"
+    title: "Rebecca Wei"
     excerpt: ""
   - image_path: /assets/images/members/yellow_smiley_face.jpg
-    title: "@lxm"
+    title: "Xinmei Li"
     excerpt: ""
 ---
 
