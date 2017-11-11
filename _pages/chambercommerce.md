@@ -21,6 +21,8 @@ permalink: /chambercommerce/
 
 [East Portland Chamber of Commerce](https://eastportlandchamberofcommerce.com/)
 
+[Beaverton Area Chamber of Commerce](http://beaverton.org/)
+
 [African American Chamber](http://blackchamber.info/)
 
 [Hispanic Metropolitan Chamber](http://hmccoregon.com/)
