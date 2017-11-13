@@ -17,16 +17,6 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 自古不缺文人，愿意在现实生活中“舞文弄墨”的也开始多了起来，实属社区幸事[ThumbsUp][Rose][Rose] 下面就介绍一下今晚在黄上皇召开的华人商会碰头会，非常的成功，收获颇丰。谁说我华人社区散沙一片，在我看来，远远望去，就是漂浮在浩瀚星海中的一页方舟，只是需要我们去发现。
 
-![]({{ site.url }}/assets/images/04d2ffa467a5442944542a8cc69db43e.jpg)
-
-![]({{ site.url }}/assets/images/e656028b0b46dd597eab675f9ccb2d16.jpg)
-
-![]({{ site.url }}/assets/images/bdd825f69314d4af059c13869931ed41.jpg)
-
-[![]({{ site.url }}/assets/images/b1b41357fcc4617eef9a95e7c7bf1af1.jpg)
-
-![]({{ site.url }}/assets/images/2d3d754a6fdbd047da6234f6ff311252.jpg)
-
 感谢今天到场的 @凡草 @James-唐英信 @John Lin @Liwen张丽文 @淼莲 @敏Min Kong @Rosaline Hui @兔子坡 @Wendy 文玉 @五舅 @顾元 @遥，还有几位群友因为临时家中有事或去了外地而未能出席。
 
 特别感谢黄上皇东主@黄上 为此次聚会提供了VIP房间，并做了精心布置。更让我们感动的是服务员们殷勤周到的服务，在我们没有思想准备的情况下，更为我们提供了茶水和满桌的精美大餐。尽管@黄上 没能赶回来参加聚会，但是，我们对东家的招待自然心存感激
