@@ -6,7 +6,7 @@ Oregon Chinese Coalition is an IRS approved 501c(3) non-profit organization (TAX
 
 # How to Donate
 
-Thank you for your generosity. Your contribution to OCC (not OCC PAC) is tax-deductible under IRC Section 170. Please make sure to answer a few questions in the google doc so that we know how to contact you and how to publish your donation here. 
+Thank you for your generosity. Your contribution to OCC is tax-deductible under IRC Section 170. Please make sure to answer a few questions in the google doc so that we know how to contact you and how to publish your donation here.
 
 [https://goo.gl/forms/lwHNjW3kvOuoRamq2](https://goo.gl/forms/lwHNjW3kvOuoRamq2)
 
