@@ -2,8 +2,8 @@
 main:
   - title: "About Us"
     url: /about/
-  - title: "PAC"
-    url: /pac/
+  - title: "Resources"
+    url: /resources/
   - title: "Chamber of Commerce"
     url: /chambercommerce/
   - title: "Donate"
@@ -22,8 +22,6 @@ main:
 extra:
   - title: Programs
     children:
-      - title: "Resources"
-        url: /resources/
       - title: "Volunteering"
         url: /volunteering/
       - title: "Mentoring"
