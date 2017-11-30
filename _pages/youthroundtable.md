@@ -50,7 +50,7 @@ Social and career networking time at casual setting
 
 Welcome to return to the roundtable to join Q&A session starting from 2:30 pm.
 
-All soft drinks and disserts at Duck House are at expense of OCC.
+All soft drinks and desserts at Duck House are at expense of OCC.
 
 ### 3:00 pm - 3:30 pm Break and more Social Time
 
