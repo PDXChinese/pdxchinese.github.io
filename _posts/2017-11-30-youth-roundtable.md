@@ -29,7 +29,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 [http://pdxchinese.org/youthroundtable](http://pdxchinese.org/youthroundtable/)
 
-### 首届青少年圆桌会与会者介绍（1）: Alisha Zhao
+## 首届青少年圆桌会与会者介绍（1）: Alisha Zhao
 
 Alisha毕业于林肯高中，现在是斯坦福大学一年级学生，主攻政治学。上个月刚回到波特兰接受了Spirit of Portland荣誉奖项。Alisha最大的passion是为社会的公平努力，最大的成就是与她的同伴们为成百上千的无家可归的青少年提供了有针对性的服务，最大的荣誉可能是2016年获得全美青少年志愿者的Top 10，最感恩的是获得Cameron Impact Scholarship，使得她四年大学不再有经济负担，最大的愿望是去联合国工作，为了世界人权事业。
 
@@ -40,7 +40,7 @@ Alisha毕业于林肯高中，现在是斯坦福大学一年级学生，主攻�
 Alisha的Linked链接：https://www.linkedin.com/in/alishazhao/
 
 
-### 首届青少年圆桌会与会者介绍（2）: Johnson Lin
+## 首届青少年圆桌会与会者介绍（2）: Johnson Lin
 
 如同他的父亲一样，Johnson非常热爱社区公益活动，在这些活动中也培养出了他的leadership，并以此感染着身边的人们。他从来不掩饰未来从政的志向，在前辈们过百年的努力基础之上，为华人族裔继续征得更强有力的发声权。
 
@@ -53,7 +53,7 @@ In his first semester at Claremont McKenna, Johnson won a run-off election again
 Johnson的LinkedIn链接：https://www.linkedin.com/in/johnsonlin98/
 
 
-### 首届青少年圆桌会与会者介绍（3）: Henry Li
+## 首届青少年圆桌会与会者介绍（3）: Henry Li
 
 上个周末一次聚会上，遇见一位同龄人，他显得很humble，但是从别人嘴里听到他的老大在哈佛上学，我不仅追问起详情，结果，刚一聊就让我想起了这个年轻人，就是4年多前，一位华人高中生出任PPS董事会成员，一时在社区成为街头巷尾大家议论的话题。关于他的传奇经历，大家可以阅读下面这篇文章
 
@@ -66,7 +66,7 @@ As a student board rep, Li has had a direct line to the district's sustainabilit
 Henry获得的Bill Gates scholarship让他在哈佛的四年不再为五斗米折腰，利用自己的写作优势，不仅在学术上继续出类拔萃，在社会活动方面仍然是同龄人的榜样。大学二年级，就获得了Barrett奖。Henry Li的名字频繁出现在校内外的媒体上面。在看似他的LinkedIn上，他把自己描述成为一个Writer, close reader, deep thinker, future lawyer。我们期待着他与我们的在校学生们 分享他的校园体会。
 
 
-### 首届青少年圆桌会与会者介绍（4）: Andrew Zhao
+## 首届青少年圆桌会与会者介绍（4）: Andrew Zhao
 
 今天介绍的则是另外一种类型的华二代，和前几天介绍的比，可能没有在那几位中普遍存在的那么一股子冲劲，但是，这不影响他在自己力所能及的范围内做好自己，并以积极的生活态度影响着周围的人。在林肯高中的时候，当时中文班里有不少白人家庭领养的华人孩子，她们的中文水平相对有限。Andrew设立了一个脸书讨论群，每天晚上基本上是每时每刻挂在上面，回答大家做作业中遇到的问题，不到凌晨四五点钟，很少会上床睡觉。那个时候，IRS还没有改革NPO，Andrew也根本没有想过要把这个平台做高做大，至多是毕业了，这个脸书群还在。
 
@@ -75,7 +75,7 @@ Henry获得的Bill Gates scholarship让他在哈佛的四年不再为五斗米�
 毕业回到了实习过的公司做起了码工，社区有中学生希望能与gaming行业的行家取得联系，Andrew仍然是有求必应，只要是能帮助到他人。他的为人为他赢得了许多朋友。码工的工作辛苦，但是看他的生活很快乐的样子。刚工作，就在Amazon上买了一个火锅，后来不时看到在公司里上班的一帮小朋友们围在一起热气腾腾吃得不亦乐乎。
 
 
-### 首届青少年圆桌会与会者介绍（5）: Jimmy Jia
+## 首届青少年圆桌会与会者介绍（5）: Jimmy Jia
 
 实际上，活到一定岁数，有过一定阅历的，都会知道有些人是不能按照常人的模子去衡量比较的，尤其是那些极有天分的。今天介绍的Jimmy Jia就是这样一个知道自己想要什么，并且永远不停去尝试的一个年轻人。在中学期间，当大多数孩子在电脑游戏上厮杀的时候，Jimmy自己动手组装初了一个非常powerful的台式计算机，只记得头一次看见的时候，像是看见了一个monster machine。后来，Jimmy用这台计算机开始了mining bitcoins，而这时还没有几个人听说过这个虚拟货币。据他的小朋友们说，机器运转得很辛苦，结果如何，不得而知了。Jimmy和他的父母一样，总是笑眯眯的，很humble，也很低调。
 
@@ -86,7 +86,7 @@ Henry获得的Bill Gates scholarship让他在哈佛的四年不再为五斗米�
 如果有高中生希望了解伯克利和UIUC的CS专业，Andrew和Jimmy会十分高兴回答您的任何问题。如果想了解最新gaming和BI动向，别忘了在会上向他们要联系方式。要是想知道bitcoin的恩怨情仇，那一定拉住Jimmy不放。
 
 
-### 首届青少年圆桌会与会者介绍（6）: Isaac Cui
+## 首届青少年圆桌会与会者介绍（6）: Isaac Cui
 
 今天我们介绍的是就读Pomona College二年级的大学生，但是，我要说的是他非常神奇的专业选择，对于我来说，几近“匪夷所思”。对于不在少数到了大学高年级尚不能决定专业的大学生来说，Isaac绝对是一个例外。他在大学短短的一年多的经历已经足可以让与会的高中生们脑洞大开，不用再对学文学理过于纠结，更不用为了父母期望自己选择的理想专业而苦恼，追求自己的passion，大学四年的学习必定extrememely rewarding。
 
