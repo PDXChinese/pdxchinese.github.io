@@ -28,3 +28,68 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 西北兆  12:44
 
 [http://pdxchinese.org/youthroundtable](http://pdxchinese.org/youthroundtable/)
+
+### 首届青少年圆桌会与会者介绍（1）: Alisha Zhao
+
+Alisha毕业于林肯高中，现在是斯坦福大学一年级学生，主攻政治学。上个月刚回到波特兰接受了Spirit of Portland荣誉奖项。Alisha最大的passion是为社会的公平努力，最大的成就是与她的同伴们为成百上千的无家可归的青少年提供了有针对性的服务，最大的荣誉可能是2016年获得全美青少年志愿者的Top 10，最感恩的是获得Cameron Impact Scholarship，使得她四年大学不再有经济负担，最大的愿望是去联合国工作，为了世界人权事业。
+
+她在斯坦福的第一个学期，参加了6项课外活动，继续她的不知疲倦的life style。这些活动包括： Model United Nations, Stanford in Government, Stanford Social Entrepreneurial Students' Association, Night Outreach Community Partnerships, Women's Club Lacrosse, Handa Cneter Student Advisory Board.
+
+她非常高有机会回到社区，与学弟学妹分享自己的社会活动经历，向已经毕业的师兄师姐讨教如何更有成效度过未来三年多的校园生活。
+
+Alisha的Linked链接：https://www.linkedin.com/in/alishazhao/
+
+
+### 首届青少年圆桌会与会者介绍（2）: Johnson Lin
+
+如同他的父亲一样，Johnson非常热爱社区公益活动，在这些活动中也培养出了他的leadership，并以此感染着身边的人们。他从来不掩饰未来从政的志向，在前辈们过百年的努力基础之上，为华人族裔继续征得更强有力的发声权。
+
+Johnson graduated from Sunset High School and is now a freshman at Claremont McKenna College, majoring in Economics and Government. Throughout high school, Johnson was involved as captain of Model United Nations, Mock Trial, and Speech/Debate. He also swept Sunset's student government elections, serving as Class President for two years and Student Body President his senior year.  
+
+During his summers, he worked as a Victims Advocate at the Washington County District Attorney's Office. He was voted Most Likely to Become President by his grade and received the UCA Youth Leadership Award. He was also named an Andy Grove Scholar by Intel and McKenna Scholar by Claremont McKenna, receiving scholarships and funding for summer internships.
+
+In his first semester at Claremont McKenna, Johnson won a run-off election against 10 other candidates for Freshman Class President. He's currently serving on the CMC Executive Board and Student Engagement Committee. Additionally, he competes on the CMC Mock Trial team and was selected for a highly competitive research position at the Rose Institute of State and Local Government. Johnson is currently applying to work for the FBI and hopes to be selected for their highly competitive Honors Internship. After college, Johnson aims to become a Federal Prosecutor to investigate politicians and create more transparency in the federal government.
+
+Johnson的LinkedIn链接：https://www.linkedin.com/in/johnsonlin98/
+
+
+### 首届青少年圆桌会与会者介绍（3）: Henry Li
+
+上个周末一次聚会上，遇见一位同龄人，他显得很humble，但是从别人嘴里听到他的老大在哈佛上学，我不仅追问起详情，结果，刚一聊就让我想起了这个年轻人，就是4年多前，一位华人高中生出任PPS董事会成员，一时在社区成为街头巷尾大家议论的话题。关于他的传奇经历，大家可以阅读下面这篇文章
+
+http://portlandtribune.com/pt/9-news/111054-boards-student-rep-gets-lesson-in-activism
+
+“During his service, Li lobbied for a student voice on the district's Bond Development Committee, and served in that role. He also served on the related Long Range Facilities Plan Advisory Committee, both of which he thought were worthy processes.
+
+As a student board rep, Li has had a direct line to the district's sustainability coordinator and the teacher's union. He helped craft the budget, and created a group of young leaders called the Student Union, an umbrella to SuperSac which also represents every high school in district.”
+
+Henry获得的Bill Gates scholarship让他在哈佛的四年不再为五斗米折腰，利用自己的写作优势，不仅在学术上继续出类拔萃，在社会活动方面仍然是同龄人的榜样。大学二年级，就获得了Barrett奖。Henry Li的名字频繁出现在校内外的媒体上面。在看似他的LinkedIn上，他把自己描述成为一个Writer, close reader, deep thinker, future lawyer。我们期待着他与我们的在校学生们 分享他的校园体会。
+
+
+### 首届青少年圆桌会与会者介绍（4）: Andrew Zhao
+
+今天介绍的则是另外一种类型的华二代，和前几天介绍的比，可能没有在那几位中普遍存在的那么一股子冲劲，但是，这不影响他在自己力所能及的范围内做好自己，并以积极的生活态度影响着周围的人。在林肯高中的时候，当时中文班里有不少白人家庭领养的华人孩子，她们的中文水平相对有限。Andrew设立了一个脸书讨论群，每天晚上基本上是每时每刻挂在上面，回答大家做作业中遇到的问题，不到凌晨四五点钟，很少会上床睡觉。那个时候，IRS还没有改革NPO，Andrew也根本没有想过要把这个平台做高做大，至多是毕业了，这个脸书群还在。
+
+在伯克利学的是CS，暑期在Blizzard Entertainment实习期间，他为所有的三十几名实习生出头，与公司的founder/CEO联系，要求能与他们这些实习生当面交流，还真的成了，这件事让他在小朋友中间有了很好的reputation，自己也不知道这份自信来自哪里。在大学期间，先是帮妹妹的NPO建立网站并一直负责日常管理和维护。在毕业前夕，牺牲了自己最后的一个寒假，完成了我们社区的OCC网站，而且做到了网站基本上OCC可以自理的状态。
+
+毕业回到了实习过的公司做起了码工，社区有中学生希望能与gaming行业的行家取得联系，Andrew仍然是有求必应，只要是能帮助到他人。他的为人为他赢得了许多朋友。码工的工作辛苦，但是看他的生活很快乐的样子。刚工作，就在Amazon上买了一个火锅，后来不时看到在公司里上班的一帮小朋友们围在一起热气腾腾吃得不亦乐乎。
+
+
+### 首届青少年圆桌会与会者介绍（5）: Jimmy Jia
+
+实际上，活到一定岁数，有过一定阅历的，都会知道有些人是不能按照常人的模子去衡量比较的，尤其是那些极有天分的。今天介绍的Jimmy Jia就是这样一个知道自己想要什么，并且永远不停去尝试的一个年轻人。在中学期间，当大多数孩子在电脑游戏上厮杀的时候，Jimmy自己动手组装初了一个非常powerful的台式计算机，只记得头一次看见的时候，像是看见了一个monster machine。后来，Jimmy用这台计算机开始了mining bitcoins，而这时还没有几个人听说过这个虚拟货币。据他的小朋友们说，机器运转得很辛苦，结果如何，不得而知了。Jimmy和他的父母一样，总是笑眯眯的，很humble，也很低调。
+
+后来，从林肯去了UIUC，仍然是笑眯眯地去的，因为那里的CS在全国排行很高。每次假期回来，他都是有新的东西展示给他的小朋友，一次是搞了一个网站，把学校周边的餐馆罗列在上面，还真的拉到了赞助商。又一次是开发了一个app，专门为在YouTube上跟踪自己喜欢的音乐。反正，这四年，什么都没有耽搁，新的ideas不断被转换成products。那时我就知道，他以后不搞出个上市公司出来，是不会消停下来的。
+
+大学毕业去了曾经实习过的Tableau公司，业内都知道这家公司有多牛。到了公司，Jimmy的contributions源源不断，大家到网上可以看到他的名字和Tableau的相关系数是一般新员工难以企及的。
+
+如果有高中生希望了解伯克利和UIUC的CS专业，Andrew和Jimmy会十分高兴回答您的任何问题。如果想了解最新gaming和BI动向，别忘了在会上向他们要联系方式。要是想知道bitcoin的恩怨情仇，那一定拉住Jimmy不放。
+
+
+### 首届青少年圆桌会与会者介绍（6）: Isaac Cui
+
+今天我们介绍的是就读Pomona College二年级的大学生，但是，我要说的是他非常神奇的专业选择，对于我来说，几近“匪夷所思”。对于不在少数到了大学高年级尚不能决定专业的大学生来说，Isaac绝对是一个例外。他在大学短短的一年多的经历已经足可以让与会的高中生们脑洞大开，不用再对学文学理过于纠结，更不用为了父母期望自己选择的理想专业而苦恼，追求自己的passion，大学四年的学习必定extrememely rewarding。
+
+Isaac graduated from the Liberal Arts and Science Academy in Austin, Texas, and is now a sophomore at Pomona College double majoring in Physics and Politics. At LASA, he was part of the debate team, was a peer tutor in mathematics, and played soccer. While at Pomona, he has continued with mentoring in both physics and mathematics. He's also a senior editor at the Claremont Journal of Law and Public Policy and has written pieces analyzing immigration federalism and the intersection of constitutional rights and immigration status. His work on immigrant rights led him to volunteer at a political advocacy organization that pushes for sanctuary ordinances in local communities and sets up legal clinics for immigrants.
+
+In his freshman summer at Pomona, Isaac worked on a Pomona College-Jet Propulsion Laboratory collaboration to test a blind search algorithm for finding dim, fast-moving near-earth objects. That summer, the team focused on characterizing and testing instrumentation changes to help achieve JPL's standard of ultra-high precision astrometry. In this next semester, he will be on Claremont McKenna College's Washington Program, where he will be interning at the Department of Justice's Voting Section of the Civil Rights Division. He hopes to go to law school after college.
