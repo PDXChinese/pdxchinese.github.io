@@ -42,7 +42,7 @@ Alisha的Linked链接：https://www.linkedin.com/in/alishazhao/
 
 ## 首届青少年圆桌会与会者介绍（2）: Johnson Lin
 
-如同他的父亲一样，Johnson非常热爱社区公益活动，在这些活动中也培养出了他的leadership，并以此感染着身边的人们。他从来不掩饰未来从政的志向，在前辈们过百年的努力基础之上，为华人族裔继续征得更强有力的发声权。
+如同他的父亲一样，Johnson非常热爱社区公益活动，在这些活动中也培养出了他的leadership。他从来不掩饰未来从政的志向，在前辈们过百年的努力基础之上，希望为华人族裔继续争得更强有力的发声权。
 
 Johnson graduated from Sunset High School and is now a freshman at Claremont McKenna College, majoring in Economics and Government. Throughout high school, Johnson was involved as captain of Model United Nations, Mock Trial, and Speech/Debate. He also swept Sunset's student government elections, serving as Class President for two years and Student Body President his senior year.  
 
