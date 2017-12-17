@@ -25,6 +25,8 @@ HCY Foundation was founded in May, 2017 and currently consists of eight active o
 
 ## 西北兆在公益大群的宣传
 
+The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is shown below.
+
 —————  2017-12-16  —————
 
 【慧慈雅基金会】 想必这个基金会大家都还没有听说过，但是如此雅致的名字是不是给人们很大的想象空间？实际上，这并非是一个远在海角的天使，而是发生在我们身边的，由七位社区美女组建的一个新的慈善非营利机构。
