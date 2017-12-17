@@ -94,4 +94,18 @@ Isaac graduated from the Liberal Arts and Science Academy in Austin, Texas, and 
 
 In his freshman summer at Pomona, Isaac worked on a Pomona College-Jet Propulsion Laboratory collaboration to test a blind search algorithm for finding dim, fast-moving near-earth objects. That summer, the team focused on characterizing and testing instrumentation changes to help achieve JPL's standard of ultra-high precision astrometry. In this next semester, he will be on Claremont McKenna College's Washington Program, where he will be interning at the Department of Justice's Voting Section of the Civil Rights Division. He hopes to go to law school after college.
 
+## 首届青少年圆桌会与会者介绍（7）: Angela Sun
+
+今天我们介绍一位敢于在职业巅峰之际做出改变的华二代，她的中文名字叫孙安及。
+
+Angela毕业于密歇根州立大学，获得了学士和硕士学位。虽然她在SAT （2400 分） 和ACT （36 分）考试中都获得了满分的成绩，并已经通过了麻省理工学院等顶级高校的入学申请，最终她接受了密歇根州立大学的全额奖学金。在三年的时间里，她以平均GPA4.0的成绩获得了计算机科学的学士和硕士学位。Angela的大学期间获得了很多美国高等奖学金，包括Coca-Cola Scholar, Burger King Scholar, 和 Distinguished Young Woman 等。
+
+毕业后，Angela曾经在谷歌担任产品经理，但是，在一般人眼里一个人的职业生涯已经几近辉煌的时刻，她选择了退出。 这是她自己写的一段话，
+
+“Quitting Google was a really tough decision. I know how many computer scientists dream of working at a top company like Google. I faced a lot of social and familial pressure to follow the "right path" and do something "safe". However, I have never regretted my decision to quit and to pursue something that enables me to grow more as a person. ”
+
+离开谷歌后，她自己创业，成为了一名SAT/ACT导师和大学申请教练。她的年龄和被辅导的学生没有代沟的问题，所以，她的建议很容易被学生们采纳。Angela的学生已被哈佛，耶鲁， 斯坦福等美国顶尖大学录取. 孙安及的特点是帮学生写出有趣，生动的昨文。
+
+Angela作为一个女孩子，不奇怪是追剧族。平时她很喜欢韩国连续剧，有时间的时候和跟朋友玩儿棋盘游戏。她期待着在圆桌会上分享她的故事。
+
 ### More participants will be added...
