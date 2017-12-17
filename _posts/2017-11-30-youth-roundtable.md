@@ -2,7 +2,7 @@
 title: "首届俄勒冈华裔青少年圆桌会即将举办"
 author: XiBei Zhao
 excerpt: "【首届 俄勒冈华裔青少年圆桌会 Oregon Chinese Youth Roundtable】一个月后即将举办，这将是我们为社区青少年提供相互学习交流机会的一次大胆尝试，希望会成为我们社区今后每年一度的signature活动。我们邀请到本地林老师 @olandoart 为这项活动专门设计了logo，寓意深刻，用中国七巧板象征华人文化背景，希望我们的下一代能够发挥传帮带的精神，为华人在各领域的崛起，奠定基础。"
-date: "2017-11-30"
+date: "2017-12-16"
 ---
 
 The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is shown below.
