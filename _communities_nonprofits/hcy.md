@@ -1,5 +1,5 @@
 ---
-title: "慧慈雅基金会"
+title: "慧慈雅基金会 (HCY Foundation)"
 sidebar:
   - title: "Email"
     text: "hcyfoundation@gmail.com"
