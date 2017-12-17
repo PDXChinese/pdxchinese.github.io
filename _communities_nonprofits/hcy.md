@@ -6,7 +6,7 @@ sidebar:
   - title: "Phone"
     text: ""
   - title: "Website"
-    text: "[http://hcyfoundation.org/]http://hcyfoundation.org/)"
+    text: "[http://hcyfoundation.org/](http://hcyfoundation.org/)"
 ---
 
 ## What We Do
