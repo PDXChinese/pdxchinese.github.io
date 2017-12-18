@@ -108,4 +108,18 @@ Angela毕业于密歇根州立大学，获得了学士和硕士学位。虽然�
 
 Angela作为一个女孩子，不奇怪是追剧族。平时她很喜欢韩国连续剧，有时间的时候和跟朋友玩儿棋盘游戏。她期待着在圆桌会上分享她的故事。
 
-### More participants will be added...
+## 首届青少年圆桌会与会者介绍（8）: Albert Cui
+
+昨天介绍了一位勇于选择自己职业的华二代，她放弃的应该是许多学习CS的梦寐以求的工作。当然，这肯定是一个个案。今天介绍的是在谷歌同样担任产品经理的Albert。他也是我们前两天介绍的Isaac的哥哥。为崔家有这样两个如此出色的公子高兴，同时，也感谢他们一家对此次圆桌会的大力支持。
+
+Albert在Beaverton长大，与弟弟不同，在Southridge High School度过了高中生活。与林肯和Sunset高中一样，Southridge也是IB，而不是AP。所以，有对IB有问题的高中生在这次会上可以得到圆满答案了。Albert在2012年毕业，不仅取得了IB证书，还是一位Valedictorian。然后他去了哥伦比亚大学学习CS。期间有一段插曲，足可以看出Albert的个性，对什么学校并无很多人那么看得很重。很多时候就是这样的，越是刻意追求的，越是有可能事与愿违。
+
+在大学期间，Albert成为Columbia Spectator的主要网站开发人员，二年级暑假期间，他便创立了OpenDota，成为an open source platform for Dota 2 analytics。到现在，每个月都有几百万页面的访问量。大学毕业时，毫无悬念的，他获得了magna cum laude荣誉。
+
+毕业后，Albert进入曾经实习过的谷歌工作。现实在谷歌云计算团队，现在则是在搜索团队任PM。
+
+Albert的LinkedIn链接是： https://www.linkedin.com/in/albertqcui/
+
+剩下的两个星期我们基本上不再介绍与会者了，我们要花心思在圆桌会的组织上面了，力争让每一个与会者都会有超值的收获，让每一分钟都是学习交流的黄金时间。
+
+继续欢迎社区青少年积极参与我们的首届圆桌会，详情请见： http://pdxchinese.org/youthroundtable/。感谢目前报名的38位华二代们！ 我们圆桌会上见。
