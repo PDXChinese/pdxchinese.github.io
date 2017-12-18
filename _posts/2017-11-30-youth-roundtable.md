@@ -116,7 +116,7 @@ Albert在Beaverton长大，与弟弟不同，在Southridge High School度过了�
 
 在大学期间，Albert成为Columbia Spectator的主要网站开发人员，二年级暑假期间，他便创立了OpenDota，成为an open source platform for Dota 2 analytics。到现在，每个月都有几百万页面的访问量。大学毕业时，毫无悬念的，他获得了magna cum laude荣誉。
 
-毕业后，Albert进入曾经实习过的谷歌工作。现实在谷歌云计算团队，现在则是在搜索团队任PM。
+毕业后，Albert进入曾经实习过的谷歌工作。先是在谷歌云计算团队，现在则是在搜索团队担任Project Manager。
 
 Albert的LinkedIn链接是： https://www.linkedin.com/in/albertqcui/
 
