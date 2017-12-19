@@ -120,6 +120,25 @@ Albert在Beaverton长大，与弟弟不同，在Southridge High School度过了�
 
 Albert的LinkedIn链接是： https://www.linkedin.com/in/albertqcui/
 
-剩下的两个星期我们基本上不再介绍与会者了，我们要花心思在圆桌会的组织上面，力争让每一个与会者都会有超值的收获，让每一分钟都是学习交流的黄金时间。
+## 首届青少年圆桌会与会者介绍（9）: Anika Todt
 
-继续欢迎社区青少年积极参与我们的首届圆桌会，详情请见： http://pdxchinese.org/youthroundtable/。感谢目前报名的38位华二代们！ 我们圆桌会上见！
+看到这些优秀的华二代积极踊跃参加我们的社区活动，本来是要将大学生和毕业生的介绍告一段落的，但是真的是欲罢不能。今天介绍一位学业侧重STEM的大学女生。恰巧的是，她在高中阶段，也曾经是机器人俱乐部的成员，并取得过傲人的成绩。2016年，她所在的team和王准勤率领的team共同创造了Oregon的成绩。Anika非常期望能在这次活动中再次见到王教练。
+
+Anika graduated from Lake Oswego High School, and is now a freshman at the University of Southern California, studying chemical engineering. In high school, she was heavily involved in both robotics, and scientific research in partnership with Oregon State University. Last May, Anika was published on her first scientific peer-reviewed paper, and she has secured a spot in a fluid dynamics lab at USC to continue her pursuing her research interests—a rare feat for a freshman. Her involvement with robotics also took the team to the 2016 world championship, where the team was able to set a world record during the competition. At USC, she has become involved in the USC Solar Car team in order to continue to put her skills to use. In addition, she has been urged to take a leadership position on the team next year.
+
+Though she isn’t sure precisely what her after-college plans look like yet, Anika is certain she wants to continue pursuing STEM.
+
+Anika’s LinkedIn: https://www.linkedin.com/in/anika-todt-6a0053125/
+
+
+## 首届青少年圆桌会与会者介绍（10）: Overcharged和RevAmped FTC Robot Teams
+
+为了利用好中间的休息时间，既让与会者有机会亲眼看到曾经赢得世界冠军的robotic teams的精彩表演，同时让这些小队员们亲耳聆听到大哥哥大姐姐们的生活与学习经验，我征求王准勤教练的意见，他二话没说，一定参加。大家还记得的话，在夏天华人青少年大会上，王教练和家长们做的一番推心置腹的交流，成为了大会的一个亮点。
+
+Overcharged和RevAmped是两支今年新成立的FTC机器人队。在短短的不到半年的时间里，他们已经经历了四场比赛，并取得了良好成绩。他们还组织参与了二十几次社区活动，其中包括在今年6月24日的Oregon华裔青年大会上展示了机器人投球表演，受到了参会的孩子们一致的好评。
+
+队员们由7年级以上的学生组成。他们在教练和家长的辅导下，通过设计、制作和编程机器人，学习和演练有关机械设计，加工制造，电子器件和编程控制的知识和技能。同时队员们还需要应用有关品牌形象的知识，创建和发展机器人队品牌。通过参加比赛和社区活动，培养队员们敬业精神和人际交流沟通能力。
+
+Overcharged和RevAmped正在招收2018的队员。有意加入者，请与教练王准勤联系。
+
+继续欢迎社区青少年积极参与我们的首届圆桌会，详情请见： http://pdxchinese.org/youthroundtable/。目前报名人数已经十分接近活动地点能接纳的人数。任何时候，我们都可能会关闭报名链接。
