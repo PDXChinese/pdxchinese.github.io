@@ -78,15 +78,15 @@ This time slot will accommodate to 3 high school students
 
 ### Volunteers
 
-Co-Hosts: Hongcheng Zhao and Zhunqin Wang 
+Co-hosts: Hongcheng Zhao and Zhunqin Wang
 
-Event Logistics: Ning Bei
+Event coordinator: Ning Bei
 
-Snacks and drinks Purchase and Setup: Hui Du
+Snack and drink purchase and setup: Hui Du
 
 Checking in: Jiange Li and Hong Ye
 
-Door Greeting: Scott Yang
+Door greeting: Scott Yang
 
 ### Complimentary snacks and drinks are provided.
 
