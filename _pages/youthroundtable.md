@@ -82,13 +82,15 @@ Co-hosts: Hongcheng Zhao and Zhunqin Wang
 
 Event coordinator: Ning Bei
 
+Photographer: Guangchao Zhang
+
 Snack and drink purchase and setup: Hui Du
 
 Checking in: Jiange Li and Hong Ye
 
 Door greeting: Scott Yang
 
-### Complimentary snacks and drinks are provided.
+### Logo designed by Olando Lin 
 
 
 ![]({{ site.url }}/assets/images/psu_entrance.jpg)
