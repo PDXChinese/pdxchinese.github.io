@@ -32,9 +32,11 @@ Please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQ
 
 Walk-ins are welcome only if there are spaces available
 
-### 1:00 pm - 1:30 pm Social Times
+### 1:00 pm - 1:10 pm Social Times and Opening Remarks
 
-Get to know each other for all three groups of youth
+Ice Breaking Activity: [Positively Post It!](https://www.facebook.com/Positively-Post-It-1527356444166258/)
+
+Opening Remarks
 
 ### 1:30 pm - 3:00 pm Roundtable between High School Students and College Students
 
@@ -42,7 +44,7 @@ How those college students reflect after they start to see the forest, comparing
 
 How to get ready for college life in both academic and social aspects -- helpful for both high school and college students.
 
-Start with Panelists, followed by Q&A
+For each topic, start with the panelists, followed by Q&A.
 
 ### 1:30 pm - 3:00 pm Social Time for College Graduates at Duck House
 
@@ -90,7 +92,8 @@ Checking in: Jiange Li and Hong Ye
 
 Door greeting: Scott Yang
 
-### Logo designed by Olando Lin 
+### Logo designed by Olando Lin
 
+Activity Locations
 
 ![]({{ site.url }}/assets/images/psu_entrance.jpg)
