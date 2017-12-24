@@ -18,9 +18,9 @@ Portland State University (from entry at SW Harrison, not from 4th Ave entry, se
 
 ## Participants
 
-High school students, college students, and post-college graduates
+High school students, college students, and college graduates
 
-Profiles of those college students and post-college graduates will be collected and distributed before the event.
+Profiles of those college students and college graduates will be collected and distributed before the event.
 
 ## Registration (Free)
 
@@ -44,21 +44,21 @@ How to get ready for college life in both academic and social aspects -- helpful
 
 Start with Panelists, followed by Q&A
 
-### 1:30 pm - 3:00 pm Social Time for Post College Youth at Duck House
+### 1:30 pm - 3:00 pm Social Time for College Graduates at Duck House
 
 Social and career networking time at casual setting
 
 Welcome to return to the roundtable to join Q&A session starting from 2:30 pm.
 
-All soft drinks and desserts at Duck House are at expense of OCC.
+All food and drinks at Duck House are at expense of OCC.
 
-### 3:00 pm - 3:30 pm Break and more Social Time
+### 3:00 pm - 3:30 pm Break Time, Show Time and more Social Time
 
 Live demo of robotic, two times World Championship
 
 Best time to mingle with friends old and new
 
-### 3:30 pm - 4:30 pm Advices from Post-College Youth
+### 3:30 pm - 4:30 pm Advices from College Graduates
 
 What skills they feel they could have built up more at high school or college.
 
