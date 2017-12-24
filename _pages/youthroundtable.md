@@ -32,7 +32,7 @@ Please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQ
 
 Walk-ins are welcome only if there are spaces available
 
-### 1:00 pm - 1:10 pm Social Times and Opening Remarks
+### 1:00 pm - 1:10 pm Social Time and Opening Remarks
 
 Ice Breaking Activity: [Positively Post It!](https://www.facebook.com/Positively-Post-It-1527356444166258/)
 
@@ -93,6 +93,8 @@ Checking in: Jiange Li and Hong Ye
 Door greeting: Scott Yang
 
 ### Logo designed by Olando Lin
+
+.
 
 Activity Locations
 
