@@ -76,6 +76,18 @@ Time to practice public speaking while presenting your case to the audience
 
 This time slot will accommodate to 3 high school students
 
+### Volunteers
+
+Co-Hosts: Hongcheng Zhao and Zhunqin Wang 
+
+Event Logistics: Ning Bei
+
+Snacks and drinks Purchase and Setup: Hui Du
+
+Checking in: Jiange Li and Hong Ye
+
+Door Greeting: Scott Yang
+
 ### Complimentary snacks and drinks are provided.
 
 
