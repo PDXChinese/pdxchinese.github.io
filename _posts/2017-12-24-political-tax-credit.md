@@ -31,15 +31,15 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 for Multnomah County and Metro。
 
-https://multco.us/elections/candidate-filings-metro-and-multnomah-county-may-2018-primary
+[https://multco.us/elections/candidate-filings-metro-and-multnomah-county-may-2018-primary](https://multco.us/elections/candidate-filings-metro-and-multnomah-county-may-2018-primary)
 
 for City of Portland
 
-https://www.portlandoregon.gov/auditor/article/654716
+[https://www.portlandoregon.gov/auditor/article/654716](https://www.portlandoregon.gov/auditor/article/654716)
 
 for Washington County
 
-http://www.co.washington.or.us/AssessmentTaxation/Elections/UpcomingElections/candidate-and-measure-filings.cfm
+[http://www.co.washington.or.us/AssessmentTaxation/Elections/UpcomingElections/candidate-and-measure-filings.cfm](http://www.co.washington.or.us/AssessmentTaxation/Elections/UpcomingElections/candidate-and-measure-filings.cfm)
 
 有些候选人已经有了自己的网站，网站链接会显示在上面。有了网站，就会知道如何捐款了。
 
