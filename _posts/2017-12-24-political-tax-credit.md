@@ -41,6 +41,6 @@ for Washington County
 
 [http://www.co.washington.or.us/AssessmentTaxation/Elections/UpcomingElections/candidate-and-measure-filings.cfm](http://www.co.washington.or.us/AssessmentTaxation/Elections/UpcomingElections/candidate-and-measure-filings.cfm)
 
-有些候选人已经有了自己的网站，网站链接会显示在上面。有了网站，就会知道如何捐款了。
+有些候选人已经有了自己的网站，候选人的Email会提供足够网址的信息。有了网站，就会知道如何捐款了，也会了解候选人的政策主张了。
 
 为了我们自己，更为了我们的下一代，拿出一点时间，行使我们作为公民的权利[ThumbsUp]
