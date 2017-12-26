@@ -11,7 +11,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  13:10
 
-冰雪封门，是合家团圆欢度节日的好日子。在享受天伦之乐同时，大家可以利用本年度的最后一个星期时间，把手中的Oregon Political Tax Credit ($50 for single and $100 for joint filing)用出去[Fist] 每一分钱都不会是自掏腰包，没有理由犯懒不去行动。每个年度的tax credit的截止日跟随calendar year，即必须在12/31之前捐出去。
+冰雪封门，是合家团圆欢度节日的好日子。在享受天伦之乐同时，大家可以利用本年度的最后一个星期时间，把手中的Oregon Political Tax Credit ($50 for single and $100 for joint filing)用出去[Fist] 每一分钱都不会是自掏腰包，没有理由犯懒不去行动。每个年度的tax credit的截止日跟随calendar year，即捐款必须在12/31之前完成。
 
 在报税的时候，拿回允许的数额的方式，请见下面这个链接。
 
@@ -29,7 +29,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 为方便大家找到可以捐款的候选人，下面是Candidate Filings
 
-for Multnomah County and Metro。
+for Multnomah County and Metro
 
 [https://multco.us/elections/candidate-filings-metro-and-multnomah-county-may-2018-primary](https://multco.us/elections/candidate-filings-metro-and-multnomah-county-may-2018-primary)
 
@@ -41,6 +41,6 @@ for Washington County
 
 [http://www.co.washington.or.us/AssessmentTaxation/Elections/UpcomingElections/candidate-and-measure-filings.cfm](http://www.co.washington.or.us/AssessmentTaxation/Elections/UpcomingElections/candidate-and-measure-filings.cfm)
 
-有些候选人已经有了自己的网站，候选人的Email会提供足够网址的信息。有了网站，就会知道如何捐款了，也会了解候选人的政策主张了。
+有些候选人已经有了自己的网站，候选人的Email往往会提供足够网址的信息。有了网站，就会知道捐款方式，也会了解候选人的政策主张了。
 
 为了我们自己，更为了我们的下一代，拿出一点时间，行使我们作为公民的权利[ThumbsUp]
