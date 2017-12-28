@@ -21,11 +21,15 @@ We come together, serving our community where we raise our families, helping tho
 
 {% include feature_row id="feature_row1"%}
 
-## Group Volunteering Debut at Oregon Food Bank
+## Group Volunteering Opportunities at Oregon Food Bank
 
-### Date
+### Dates
 
-Dec 26, 2017 8:45 am -11:30 am
+Dec 26, 2017 8:45 am -11:30 am (30 attended)
+March 17, 2018 12:45 am -3:30 am
+April 14, 2018 12:45 am -3:30 am
+
+Also see [community calendar](http://pdxchinese.org/events/)
 
 ### Address
 
@@ -36,10 +40,6 @@ Dec 26, 2017 8:45 am -11:30 am
 ### Details
 
 Please join 《PDX 志愿服务公益群》 and sign up from there.
-
-Minimum age: 6
-
-Maximum volunteers: 40
 
 ### Volunteer Leader
 
