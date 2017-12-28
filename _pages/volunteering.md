@@ -25,9 +25,11 @@ We come together, serving our community where we raise our families, helping tho
 
 ### Dates
 
-Dec 26, 2017 8:45 am -11:30 am (30 attended)
-March 17, 2018 12:45 am -3:30 am
-April 14, 2018 12:45 am -3:30 am
+Dec 26, 2017 8:45 am - 11:30 am ([30 attended](http://pdxchinese.org/food-bank-2017/))
+
+March 17, 2018 12:45 am - 3:30 am
+
+April 14, 2018 12:45 am - 3:30 am
 
 Also see [community calendar](http://pdxchinese.org/events/)
 
