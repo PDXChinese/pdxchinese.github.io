@@ -8,14 +8,94 @@ permalink: /youthroundtable/
 ## 俄勒冈华裔青少年圆桌会
 # Oregon Chinese Youth Roundtable
 
-## 12/30/2017 1:00 pm - 5:00 pm
+## Date
+12/30/2017 1:00 pm - 5:00 pm
 
-Registration: https://goo.gl/5HpKVU
+## Place
+Portland State University (from entry at SW Harrison, not from 4th Ave entry, see map at end of the page.)
 
-Agenda
+1900 SW 4th Ave., Portland, Oregon 97201
 
-Event Recap
+## Participants
 
-Materials only available for the attendees
+High school students, college students, and college graduates
+
+Profiles of those college students and college graduates will be collected and distributed before the event.
+
+## Registration (Free)
+
+Please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSeLCvVNhV0cRmBGmgdAvf7RuX93AM6QbxzbTDnWi7jHGtZcJw/viewform?c=0&w=1), the number of participants will be limited to 50 (excluding parents).
+
+## Proposed Agenda
+
+### 12:30 pm - 1:00 pm Checking In
+
+Walk-ins are welcome only if there are spaces available
+
+### 1:00 pm - 1:10 pm Social Time and Opening Remarks
+
+Ice Breaking Activity: [Positively Post It!](https://www.facebook.com/Positively-Post-It-1527356444166258/)
+
+Opening Remarks
+
+### 1:30 pm - 3:00 pm Roundtable between High School Students and College Students
+
+How those college students reflect after they start to see the forest, comparing their high school years when exploring their own paths -- advices to high school students.
+
+How to get ready for college life in both academic and social aspects -- helpful for both high school and college students.
+
+For each topic, start with the panelists, followed by Q&A.
+
+### 1:30 pm - 3:00 pm Social Time for College Graduates at Duck House
+
+Social and career networking time at casual setting
+
+Welcome to return to the roundtable to join Q&A session starting from 2:30 pm.
+
+All food and drinks at Duck House are at expense of OCC.
+
+### 3:00 pm - 3:30 pm Break Time, Show Time and more Social Time
+
+Live demo of robotic, two times World Championship
+
+Best time to mingle with friends old and new
+
+### 3:30 pm - 4:30 pm Advices from College Graduates
+
+What skills they feel they could have built up more at high school or college.
+
+From jobs they have today to see majors they chose at colleges and their dreams at high schools.
+
+Look back on the ECs back in high schools and the impact on their lives.
+
+Start with Panelists, followed by Q&A
+
+### 4:30 pm - 5:00 pm Showtime for High School Students
+
+Time to practice public speaking while presenting your case to the audience
+
+5 minutes each for presentation, followed with 5 minutes' feedback and discussion
+
+This time slot will accommodate to 3 high school students
+
+### Volunteers
+
+Co-hosts: Hongcheng Zhao and Zhunqin Wang
+
+Event coordinator: Ning Bei
+
+Photographer: Guangchao Zhang
+
+Snack and drink purchase and setup: Hui Du
+
+Checking in: Jiange Li and Hong Ye
+
+Door greeting: Scott Yang
 
 ### Logo designed by Olando Lin
+
+.
+
+Activity Locations
+
+![]({{ site.url }}/assets/images/psu_entrance.jpg)
