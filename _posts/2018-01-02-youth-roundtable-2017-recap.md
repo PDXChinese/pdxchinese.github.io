@@ -313,10 +313,6 @@ June Jia  23:09
 
 ![]({{ site.url }}/assets/images/c3916b0f40a0e42fd348bc8d702d2ad2.jpg)
 
-西北兆  23:10
-
-![]({{ site.url }}/assets/images/92fb0efc4381bbafb6b9ba985d2278b7.jpg)
-
 西北兆  23:11
 
 ![]({{ site.url }}/assets/images/40fe93a890a8002ac8cffb5567f25362.jpg)
@@ -484,10 +480,6 @@ June Jia  23:09
 西北兆  23:40
 
 ![]({{ site.url }}/assets/images/3dda259934d68d8c920d5abb16acc40a.jpg)
-
-西北兆  23:40
-
-![]({{ site.url }}/assets/images/f2495b1ad37d9f1f4101137cb9f8fa2c.jpg)
 
 西北兆  23:41
 
