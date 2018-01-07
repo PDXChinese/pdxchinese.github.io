@@ -3,7 +3,7 @@ title: "Portland Chinese Times 波特兰新闻"
 location: "SE Portland, Oregon"
 sidebar:
   - title: "Email"
-    text: "pct@portlandchinesetimes.com"
+    text: "[pct@portlandchinesetimes.com](mailto:pct@portlandchinesetimes.com)"
     image: "/assets/images/communities/portlandchinesetimes2.jpg"
   - title: "WeChat ID"
     text: "pdxnow"
@@ -12,8 +12,6 @@ sidebar:
   - title: "Website"
     text: "[www.portlandchinesetimes.com/](http://www.portlandchinesetimes.com/)"
 ---
-
-## About
 
 《波特兰新闻》创刊于1997年，自此就成为大波特兰地区读者最多，也是最受欢迎的一份免费中文报章，每周四读者就可在大波特兰地区的亚裔超市丶餐馆丶礼品店及其它商号取阅。
 
