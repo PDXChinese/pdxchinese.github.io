@@ -1,5 +1,5 @@
 ---
-title: "Portland Chinese Network 波特兰华人网"
+title: "波特兰华人网"
 location: "Portland, Oregon"
 sidebar:
   - title: "Email"

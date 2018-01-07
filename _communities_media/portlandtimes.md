@@ -1,5 +1,5 @@
 ---
-title: "Portland Chinese Times 波特兰新闻"
+title: "波特兰新闻"
 location: "SE Portland, Oregon"
 sidebar:
   - title: "Email"
