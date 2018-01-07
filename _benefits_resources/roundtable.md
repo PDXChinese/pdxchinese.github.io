@@ -11,3 +11,5 @@ title: "华人青少年圆桌会资料汇总"
 If you want to contribute, here is the [Google form](https://goo.gl/5HpKVU). Thank you for helping our youth!
 
 [与会者networking联系方式](https://goo.gl/B4Z3gX)
+
+[圆桌会精彩瞬间](https://photos.app.goo.gl/LDeu5yvZ0jHGF7oR2)
