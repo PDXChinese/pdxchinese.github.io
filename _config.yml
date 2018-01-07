@@ -241,7 +241,7 @@ collections:
   chinatown_sayno:
     output: true
     permalink: /chinatown/sayno/:path/
-  communities_clubs:
+  communities_media:
     output: true
     permalink: /resources/:collection/:path/
   communities_culture:
@@ -400,10 +400,10 @@ defaults:
     values:
       layout: single
       author_profile: false
-  # communities_clubs
+  # communities_media
   - scope:
       path: ""
-      type: communities_clubs
+      type: communities_media
     values:
       layout: single
       author_profile: false
