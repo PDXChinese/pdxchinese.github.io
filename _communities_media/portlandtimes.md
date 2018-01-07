@@ -3,7 +3,7 @@ title: "Portland Chinese Times 波特兰新闻"
 location: "SE Portland, Oregon"
 sidebar:
   - title: "Email"
-    text: "	pct@portlandchinesetimes.com"
+    text: "pct@portlandchinesetimes.com"
     image: "/assets/images/communities/portlandchinesetimes.jpg"
   - title: "WeChat ID"
     text: ""
