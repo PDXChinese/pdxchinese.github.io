@@ -4,7 +4,7 @@ permalink: /resources/
 ---
 
 ## Communities
-- <a href="{{ site.url }}/resources/communities/clubs/">Clubs</a> ({{ site.communities_clubs | size }})
+- <a href="{{ site.url }}/resources/communities/media/">Media</a> ({{ site.communities_media | size }})
 - <a href="{{ site.url }}/resources/communities/culture/">Culture</a> ({{ site.communities_culture | size }})
 - <a href="{{ site.url }}/resources/communities/organizations/">Community Organizations</a> ({{ site.communities_organizations | size }})
 - <a href="{{ site.url }}/resources/communities/nonprofits/">Nonprofit Organizations</a> ({{ site.communities_nonprofits | size }})
@@ -13,7 +13,7 @@ permalink: /resources/
 
 ## Benefits
 - <a href="{{ site.url }}/resources/benefits/community/">Community-based Benefits</a> ({{ site.benefits_community | size }})
-- <a href="{{ site.url }}/resources/benefits/resources/">Resources by Community Members</a> ({{ site.benefits_resources | size }})
+- <a href="{{ site.url }}/resources/benefits/resources/">Resources by & for Community Members</a> ({{ site.benefits_resources | size }})
 
 ## Activities
 - <a href="{{ site.url }}/resources/activities/academies/">Academies</a> ({{ site.activities_academies | size }})
