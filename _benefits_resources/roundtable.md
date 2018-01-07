@@ -8,4 +8,6 @@ title: "华人青少年圆桌会资料汇总"
 
 [高中生课外社会活动推荐](https://goo.gl/2d2Kri)
 
+If you want to contribute, here is the [Google form](https://goo.gl/5HpKVU). Thank you for helping our youth!
+
 [与会者networking联系方式](https://goo.gl/B4Z3gX)
