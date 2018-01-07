@@ -4,7 +4,7 @@ location: "SE Portland, Oregon"
 sidebar:
   - title: "Email"
     text: "[admin@thechinamedia.com](mailto:admin@thechinamedia.com)"
-    image: "/assets/images/communities/portlandchinesetimes2.jpg"
+    image: ""
   - title: "WeChat ID"
     text: ""
   - title: "Phone"
