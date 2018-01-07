@@ -4,9 +4,9 @@ permalink: /resources/
 ---
 
 ## Communities
-- <a href="{{ site.url }}/resources/communities/media/">Media</a> ({{ site.communities_media | size }})
-- <a href="{{ site.url }}/resources/communities/culture/">Culture</a> ({{ site.communities_culture | size }})
 - <a href="{{ site.url }}/resources/communities/organizations/">Community Organizations</a> ({{ site.communities_organizations | size }})
+- <a href="{{ site.url }}/resources/communities/culture/">Culture</a> ({{ site.communities_culture | size }})
+- <a href="{{ site.url }}/resources/communities/media/">Media</a> ({{ site.communities_media | size }})
 - <a href="{{ site.url }}/resources/communities/nonprofits/">Nonprofit Organizations</a> ({{ site.communities_nonprofits | size }})
 - <a href="{{ site.url }}/resources/communities/religious/">Religious Groups/Churches</a> ({{ site.communities_religious | size }})
 - <a href="{{ site.url }}/resources/communities/wechat/">WeChat Groups</a> ({{ site.communities_wechat | size }})
@@ -17,8 +17,8 @@ permalink: /resources/
 
 ## Activities
 - <a href="{{ site.url }}/resources/activities/academies/">Academies</a> ({{ site.activities_academies | size }})
-- <a href="{{ site.url }}/resources/activities/afterschool/">Camps & After School Programs</a> ({{ site.activities_afterschool | size }})
 - <a href="{{ site.url }}/resources/activities/artinstitute/">Art, Music, Dance</a> ({{ site.activities_artinstitute | size }})
+- <a href="{{ site.url }}/resources/activities/afterschool/">Camps & After School Programs</a> ({{ site.activities_afterschool | size }})
 - <a href="{{ site.url }}/resources/activities/clubs/">Clubs</a> ({{ site.activities_clubs | size }})
 - <a href="{{ site.url }}/resources/activities/healthy/">Healthy Life Style</a> ({{ site.activities_healthy | size }})
 - <a href="{{ site.url }}/resources/activities/sports/">Sports</a> ({{ site.activities_sports | size }})
