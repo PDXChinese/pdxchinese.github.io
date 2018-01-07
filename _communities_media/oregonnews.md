@@ -13,4 +13,4 @@ sidebar:
     text: ""
 ---
 
-![]({{ site.url }}/assets/images/communities/portlandtravel1.jpg)
+![]({{ site.url }}/assets/images/communities/oregonnews1.jpg)
