@@ -3,8 +3,8 @@ title: "波特兰同源会 (CACA)"
 sidebar:
   - title: "Address"
     text: "2211 SW 1st Ave., Unit #103, Portland, Oregon 97201"
-  - title: "Phone"
-    text: ""
+  - title: "Email"
+    text: "cacawebmanager@gmail.com"
   - title: "Website"
     text: "[www.cacaportland.com](http://www.cacaportland.com)"
 ---
