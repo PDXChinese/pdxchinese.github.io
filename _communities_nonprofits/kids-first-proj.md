@@ -2,7 +2,7 @@
 title: "Kids First Project"
 sidebar:
   - title: "Email"
-    text: "office@kidsfirstproject.org"
+    text: "[office@kidsfirstproject.org](mailto:office@kidsfirstproject.org)"
   - title: "Phone"
     text: "(971)800-1243"
   - title: "Website"
