@@ -2,7 +2,7 @@
 title: "華賢勵志基金會（ACHIEF）"
 sidebar:
   - title: "Email"
-    text: " info@achiefpdx.org"
+    text: "[info@achiefpdx.org](mailto:info@achiefpdx.org)"
   - title: "Phone"
     text: "(503) 850-8288"
   - title: "Website"
