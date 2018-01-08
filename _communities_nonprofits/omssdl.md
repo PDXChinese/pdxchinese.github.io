@@ -2,7 +2,7 @@
 title: "Oregon Middle School Speech and Debate League"
 sidebar:
   - title: "Email"
-    text: "omssdl2017@gmail.com"
+    text: "[omssdl2017@gmail.com](mailto:omssdl2017@gmail.com)"
   - title: "Phone"
     text: ""
   - title: "Website"
