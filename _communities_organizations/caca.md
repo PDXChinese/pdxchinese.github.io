@@ -4,7 +4,7 @@ sidebar:
   - title: "Address"
     text: "2211 SW 1st Ave., Unit #103, Portland, Oregon 97201"
   - title: "Email"
-    text: "cacawebmanager@gmail.com"
+    text: "[cacawebmanager@gmail.com](mailto:cacawebmanager@gmail.com)"
   - title: "Website"
     text: "[www.cacaportland.com](http://www.cacaportland.com)"
 ---
