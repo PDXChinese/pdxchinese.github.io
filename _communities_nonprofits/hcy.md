@@ -2,12 +2,14 @@
 title: "慧慈雅基金会 (HCY Foundation)"
 sidebar:
   - title: "Email"
-    text: "hcyfoundation@gmail.com"
+    text: "[hcyfoundation@gmail.com](mailto:hcyfoundation@gmail.com)"
   - title: "Phone"
     text: ""
   - title: "Website"
     text: "[http://hcyfoundation.org/](http://hcyfoundation.org/)"
 ---
+
+![]({{ site.url }}/assets/images/communities/hcy.jpg)
 
 ## What We Do
 
