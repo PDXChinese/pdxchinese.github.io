@@ -13,9 +13,15 @@ date: "2018-01-10"
 
 文艺表演(2-4 pm) -- 希望社区各文艺团体积极报名参与 (NW Davis Festival Street) *
 
+![]({{ site.url }}/assets/images/chinatown/fa8e1820a760f041d7a502ec749d0db6.jpg)
+
 文化展示(1-4 pm) -- 盛邀社区艺术家现场与大家分享华人文化 (Wong Laundry Building) *
 
+![]({{ site.url }}/assets/images/chinatown/ceb5eee0f62ab211284d74aa6a7d8970.jpg)
+
 传统活动(1-4 pm) -- 欢迎小朋友们过来学习踢毽子，捉迷藏，剪窗花，猜灯谜，胡灯笼，太极和武术。。。(location TBD) *
+
+![]({{ site.url }}/assets/images/chinatown/fd3b9b60f6725745d68022da3a769e2f.jpg)
 
 卡拉OK(1-4 pm) -- 《波村K歌群》专场（秉公堂一楼大厅）
 
@@ -24,6 +30,8 @@ date: "2018-01-10"
 参观华人传统社团大堂(1-4 pm) -- 目前同意开放的有协胜公会 (位于第三街上，Society Hotel和Wong Laundry之间)
 
 室外装饰 -- 希望能够得到市府，OTCTCA和商家支持，允许我们悬挂张贴春节饰物，如大红灯笼，窗贴等。*
+
+![]({{ site.url }}/assets/images/chinatown/10f0bb1b56e864c3e2b9dbe7f1933469.jpg)
 
 我们即刻会组成活动筹备小组，根据活动内容，会有分组(带星号的)。报名联系方式今明两天会公布在此。
 
