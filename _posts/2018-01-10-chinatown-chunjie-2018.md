@@ -21,7 +21,7 @@ date: "2018-01-10"
 
 舞龙舞狮(4-4:30 pm) -- 李氏公所醒狮队 (NW Davis Festival Street and Circling Chinatown)
 
-参观华人传统社团大堂(1-4 pm) -- 目前开放的有协胜公会 (位于第三街上，Society Hotel和Wong Laundry之间)
+参观华人传统社团大堂(1-4 pm) -- 目前同意开放的有协胜公会 (位于第三街上，Society Hotel和Wong Laundry之间)
 
 室外装饰 -- 希望能够得到市府，OTCTCA和商家支持，允许我们悬挂张贴春节饰物，如大红灯笼，窗贴等。*
 
