@@ -13,11 +13,13 @@ date: "2018-01-10"
 
 文艺表演(2-4 pm) -- 希望社区各文艺团体积极报名参与 (NW Davis Festival Street) *
 
-文化展示(1-4 pm) -- 盛邀社区艺术家现场与大家分享华人文化 (Wong Laundry Building) *
+文化展示(1-4 pm) -- 盛邀社区艺术家现场与大家分享华人文化，现场作画，书法。 (Wong Laundry Building) *
 
-传统活动(1-4 pm) -- 欢迎小朋友们过来学习踢毽子，捉迷藏，剪窗花，猜灯谜，胡灯笼，太极和武术。。。(location TBD) *
+传统活动(1-4 pm) -- 写门贴，剪纸，做新春吊饰，转手帕，抖空竹，舞狮，民乐展示，and more (Wong Laundry Building) *
 
 卡拉OK(1-4 pm) -- 《波村K歌群》专场（秉公堂一楼大厅）
+
+民乐演奏(2-4 pm) -- 满天飘扬的民乐，循声望去，与百年历史的堂口好一个绝配（秉公堂二楼阳台）
 
 舞龙舞狮(4-4:30 pm) -- 李氏公所醒狮队 (NW Davis Festival Street and Circling Chinatown)
 
