@@ -11,11 +11,13 @@ date: "2018-01-10"
 
 初步商定活动内容包括几大部分：
 
-文艺表演(2-4 pm) -- 希望社区各文艺团体积极报名参与 (NW Davis Festival Street) *
+文艺表演(2-4 pm) -- 希望社区各文艺团体积极报名参与 (NW Davis Festival Street) 
 
-文化展示(1-4 pm) -- 盛邀社区艺术家现场与大家分享华人文化，现场作画，书法。 (Wong Laundry Building) *
+报名参加演出的团体及个人，[链接在此](https://docs.google.com/forms/d/e/1FAIpQLSfsolT4q0JKHoVElCh9QhlrrwfNyDXNu6jAtSQle3_SAtdVAQ/viewform)。
 
-传统活动(1-4 pm) -- 写门贴，剪纸，做新春吊饰，转手帕，抖空竹，舞狮，民乐展示，and more (Wong Laundry Building) *
+文化展示(1-4 pm) -- 盛邀社区艺术家现场与大家分享华人文化，现场作画，书法。 (Wong Laundry Building)
+
+传统活动(1-4 pm) -- 写门贴，剪纸，做新春吊饰，转手帕，抖空竹，舞狮，民乐展示，and more (Wong Laundry Building)
 
 卡拉OK(1-4 pm) -- 《波村K歌群》专场（秉公堂一楼大厅）
 
@@ -23,10 +25,12 @@ date: "2018-01-10"
 
 舞龙舞狮(4-4:30 pm) -- 李氏公所醒狮队 (NW Davis Festival Street and Circling Chinatown)
 
-参观华人传统社团大堂(1-4 pm) -- 目前同意开放的有协胜公会 (位于第三街上，Society Hotel和Wong Laundry之间)
+参观中国城华人社团大堂(1-4 pm) -- 目前同意开放的有协胜堂 (位于第三街上，Society Hotel和Wong Laundry之间)
 
-室外装饰 -- 希望能够得到市府，OTCTCA和商家支持，允许我们悬挂张贴春节饰物，如大红灯笼，窗贴等。*
+参观中华会馆博物馆(1-4 pm) -- 待定
 
-我们即刻会组成活动筹备小组，根据活动内容，会有分组(带星号的)。报名联系方式今明两天会公布在此。
+室外装饰 -- 希望能够得到市府，OTCTCA和商家支持，允许我们悬挂张贴春节饰物，如大红灯笼，窗贴等。
+
+我们正在安排SE 82街到中国城的专车，详情会提前公布。
 
 让我们大家共同期待着！
