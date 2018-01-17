@@ -97,6 +97,8 @@ Guangchao Zhang/Xiaojian Li (5/11/2017, 10/8/2017)
 
 Anonymous Donor (MC 9/27/2017)
 
+Hope Chinese School (5/2/2017, 10/17/2017, 1/14/2018)
+
 ### Donors with Amount $250 to $999
 
 Anonymous Donor (SL 4/3/2017)
@@ -130,8 +132,6 @@ Anonymous Donor (HC 6/2/2017)
 Peking University Alumni Association of Oregon (6/26/2017)
 
 Vicky Li (7/19/2017, 9/20/2017)
-
-Hope Chinese School (5/2/2017, 10/17/2017)
 
 ### Donors with Amount under $250
 
