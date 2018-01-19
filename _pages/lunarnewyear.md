@@ -1,6 +1,6 @@
 ---
 title: "2018 Portland Chinatown Chinese New Year Celebration "
-permalink: /newyear/
+permalink: /lunarnewyear/
 ---
 
 ![]({{ site.url }}/assets/images/activities/Chinese_New_Year_Flyer_2018.jpg)
@@ -40,7 +40,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 离具有历史意义的中国城春节庆祝活动还有整整一个月时间，所有的准备活动正在紧张的进行中，这里面包括了来自社区方方面面，看到忙碌的志愿者，热情的参加活动的团体和个人，让人真的感慨万千。让一个华人社区走到这一步，真心不易，这也说明了，表面看来“支离破碎”的社区，大家都还认同我们都是黄皮肤的华人，正因为如此，我们才更应该努力把这个社区建设成一个家，让每一个华人都有归属感，为做一个华人而感到骄傲。
 我们的庆祝活动每天都有新进展，光是为这项活动建立的微信群就有六七个。大家可以从OCC网站上看到更新过的活动安排。
 
-http://pdxchinese.org/newyear/
+[http://pdxchinese.org/lunarnewyear/](http://pdxchinese.org/lunarnewyear/)
 
 从今天开始，我们将争取每天介绍报名参加活动的团体和个人，他们都是我们社区的宝贵财富，我们感谢他们的支持和参与，也希望他们能发展壮大，为华人社区成员提供更加丰富的文化生活。
 
@@ -48,7 +48,7 @@ http://pdxchinese.org/newyear/
 
 今天介绍的是雅静旗袍团，是由俄勒冈州和华盛顿州温哥华市热爱旗袍的美女组成的, 也属于世界旗袍俄勒冈州分会。说起她们，大家可能还记得一年多前圣诞前夕我们在中国城做的一次非常成功的快闪活动，参加活动的主要成员之一就是她们。回顾那天的阳光和人间温暖，可以看我们当时的实录。
 
-http://pdxchinese.org/chinatown-flash-mob/
+[http://pdxchinese.org/chinatown-flash-mob/](http://pdxchinese.org/chinatown-flash-mob/)
 
 雅静旗袍以热爱生命,健康美丽, 传承中国文化为宗旨, 通过传统旗袍的美展示传递发扬中国文化的美丽健康和谐。过去两年多, 曾经参加过不同的社区表演筹款和义工活动, 深受旗袍爱好者的喜爱。
 
