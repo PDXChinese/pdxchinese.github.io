@@ -1,5 +1,5 @@
 ---
-title: "Portland Chinatown Chinese New Year Celebration "
+title: "2018 Portland Chinatown Chinese New Year Celebration "
 permalink: /newyear/
 ---
 
@@ -55,4 +55,4 @@ http://pdxchinese.org/chinatown-flash-mob/
 
 西北兆  23:43
 
-![]({{ site.url }}/assets/images/b762ac583d5625b30576bc9ea904c2d5.jpg)
+![]({{ site.url }}/assets/images/b762ac583d5625b30576bc9ea904c2d5b.jpg)
