@@ -11,21 +11,19 @@ date: "2018-01-10"
 
 初步商定活动内容包括几大部分：
 
-文艺表演(2-4 pm) -- 希望社区各文艺团体积极报名参与 (NW Davis Festival Street) 
+文艺表演(2-4 pm) -- 希望社区各文艺团体积极报名参与 (NW Davis Festival Street)
 
 报名参加演出的团体及个人，[链接在此](https://docs.google.com/forms/d/e/1FAIpQLSfsolT4q0JKHoVElCh9QhlrrwfNyDXNu6jAtSQle3_SAtdVAQ/viewform)。
 
-文化展示(1-4 pm) -- 盛邀社区艺术家现场与大家分享华人文化，现场作画，书法。 (Wong Laundry Building)
+传统文化展示(1-4 pm) -- 盛邀社区艺术家现场与大家分享华人文化，现场作画，书法。(协胜堂二楼)
 
-传统活动(1-4 pm) -- 写门贴，剪纸，做新春吊饰，转手帕，抖空竹，舞狮，民乐展示，and more (Wong Laundry Building)
+传统活动体验(1-4 pm) -- 写门贴，剪纸，做新春吊饰，转手帕，抖空竹，舞狮，民乐展示，and more (协胜堂二楼和楼外人行道)
 
-卡拉OK(1-4 pm) -- 《波村K歌群》专场（秉公堂一楼大厅）
-
-民乐演奏(2-4 pm) -- 满天飘扬的民乐，循声望去，与百年历史的堂口好一个绝配（秉公堂二楼阳台）
+传统侨社建筑上的快闪活动(2-4 pm) -- 满天飘扬的民乐，循声望去，与百年历史的堂口好一个绝配（秉公堂二楼阳台）
 
 舞龙舞狮(4-4:30 pm) -- 李氏公所醒狮队 (NW Davis Festival Street and Circling Chinatown)
 
-参观中国城华人社团大堂(1-4 pm) -- 目前同意开放的有协胜堂 (位于第三街上，Society Hotel和Wong Laundry之间)
+参观中国城华人社团大堂(1-4 pm) -- 协胜堂 (位于第三街上，Society Hotel和Wong Laundry之间)
 
 参观中华会馆博物馆(1-4 pm) -- 待定
 
