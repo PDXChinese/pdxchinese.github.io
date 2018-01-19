@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "Portland Chinatown Chinese New Year Celebration "
 permalink: /newyear/
 ---
 
