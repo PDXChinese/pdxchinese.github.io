@@ -15,7 +15,7 @@ permalink: /lunarnewyear/
 
 文艺表演(2-4 pm) -- 希望社区各文艺团体积极报名参与 (NW Davis Festival Street)
 
-报名参加演出的团体及个人，[链接在此](https://docs.google.com/forms/d/e/1FAIpQLSfsolT4q0JKHoVElCh9QhlrrwfNyDXNu6jAtSQle3_SAtdVAQ/viewform)。
+参加演出的团体及个人报名[链接在此](https://docs.google.com/forms/d/e/1FAIpQLSfsolT4q0JKHoVElCh9QhlrrwfNyDXNu6jAtSQle3_SAtdVAQ/viewform)。
 
 传统文化展示(1-4 pm) -- 盛邀社区艺术家现场与大家分享华人文化，现场作画，书法。(协胜堂二楼)
 
