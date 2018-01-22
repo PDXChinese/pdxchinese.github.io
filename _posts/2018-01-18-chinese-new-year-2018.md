@@ -84,6 +84,6 @@ date: "2018-01-18"
 
 话说回来，林师傅半年前搬过来波特兰，就与本地华人打成了一片，群中有他的身影，群下他参加了香港会。这一次，我们将有机会欣赏到林师傅的真功夫。有兴趣的，可以观赏他在油管的录像，绝对是一个享受。
 
-https://youtu.be/WwGZC5zGh64
+[https://youtu.be/WwGZC5zGh64](https://youtu.be/WwGZC5zGh64)
 
 ![]({{ site.url }}/assets/images/91097b41191985e1a73b6593c121e647.jpg)
