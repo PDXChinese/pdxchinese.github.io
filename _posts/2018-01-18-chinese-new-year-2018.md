@@ -96,4 +96,4 @@ date: "2018-01-18"
 
 我们觉得很幸运能够邀请到他们，这和此次活动的初衷非常的吻合，那就是无问西东，五湖四海华人皆为一家。让我们期待他们精彩的表演。
 
-![]({{ site.url }}/assets/images/d496df9fcb386fa67e5e70b26e585cf0.jpg)
+![]({{ site.url }}/assets/images/d496df9fcb386fa67e5e70b26e585cf1.jpg)
