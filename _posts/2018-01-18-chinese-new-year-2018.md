@@ -106,6 +106,6 @@ date: "2018-01-18"
 
 这次孔院自己的春节文艺汇演安排在了West Linn高中，我们都在以不同的方式做着同一件事，那就是宣传我们的文化，帮助华人真正走进这个社会，促进族裔之间的了解。我们祝愿他们的演出成功。届时会有高佳敏老师的武术中心和海燕芭蕾学院的精彩演出。
 
-演出信息可以参见孔院的网站：https://www.pdx.edu/confucius-institute/events/2018-chinese-new-year-gala?delta=0
+演出信息可以参见孔院网站上的海报：[2018 Chinese New Year Gala](https://www.pdx.edu/confucius-institute/events/2018-chinese-new-year-gala?delta=0)
 
 ![]({{ site.url }}/assets/images/b0ddf7341eabf75b9ead0cfb30236b9a.jpg)
