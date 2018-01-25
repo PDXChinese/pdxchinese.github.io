@@ -25,7 +25,7 @@ permalink: /lunarnewyear/
 
 ### 传统活动体验(1-4 pm)
 
--- 写门贴，剪纸，做新春吊饰，转手帕，抖空竹，舞狮，民乐展示，and more (中华会馆楼上)
+-- 写门贴，剪纸，做新春吊饰，转手帕，抖空竹，舞狮，民乐展示，麻将，and more (中华会馆楼上)
 
 ### 传统侨社建筑上的快闪活动(2-4 pm)
 
@@ -38,9 +38,13 @@ permalink: /lunarnewyear/
 ### 参观中国城华人社团大堂(1-2 pm)
 
 -- 華會館 CCBA, 315 NW Davis St.
+
 -- 秉公堂 Bing Kong Tong, 24 NW 4th Ave.
+
 -- 協勝堂 Hip Sing Assn., 211 NW 3rd Ave.
+
 -- 合勝堂 Hop Sing Assn., 317 NW 4th Ave.
+
 -- 至考篤親公所 Gee How Oak Tin Assn., 26 NW 4th Ave.
 
 ### 参观中华会馆博物馆(1-2 pm)
