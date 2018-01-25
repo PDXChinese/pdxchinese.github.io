@@ -21,11 +21,11 @@ permalink: /lunarnewyear/
 
 ### 传统文化展示(1-4 pm)
 
--- 盛邀社区艺术家现场与大家分享华人文化，现场作画，书法。(协胜堂二楼)
+-- 盛邀社区艺术家现场与大家分享华人文化，现场作画，书法。(中华会馆楼上)
 
 ### 传统活动体验(1-4 pm)
 
--- 写门贴，剪纸，做新春吊饰，转手帕，抖空竹，舞狮，民乐展示，and more (协胜堂二楼和楼外人行道)
+-- 写门贴，剪纸，做新春吊饰，转手帕，抖空竹，舞狮，民乐展示，and more (中华会馆楼上)
 
 ### 传统侨社建筑上的快闪活动(2-4 pm)
 
@@ -35,13 +35,13 @@ permalink: /lunarnewyear/
 
 -- 李氏公所醒狮队 (NW Davis Festival Street and Circling Chinatown)
 
-### 参观中国城华人社团大堂(1-4 pm)
+### 参观中国城华人社团大堂(1-2 pm)
 
--- 协胜堂 (位于第三街上，Society Hotel和Wong Laundry之间)
+-- 華會館 CCBA, 秉公堂 Bing Kong Tong, 協勝堂 Hip Sing Assn， 合勝堂 Hop Sing Assn.，至考篤親公所 Gee How Oak Tin Assn.
 
-### 参观中华会馆博物馆(1-4 pm)
+### 参观中华会馆博物馆(1-2 pm)
 
--- 待定
+-- 中华会馆楼上
 
 ### 室外装饰
 
