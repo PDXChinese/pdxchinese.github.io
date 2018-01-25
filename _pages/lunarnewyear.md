@@ -37,7 +37,11 @@ permalink: /lunarnewyear/
 
 ### 参观中国城华人社团大堂(1-2 pm)
 
--- 華會館 CCBA, 秉公堂 Bing Kong Tong, 協勝堂 Hip Sing Assn， 合勝堂 Hop Sing Assn.，至考篤親公所 Gee How Oak Tin Assn.
+-- 華會館 CCBA, 315 NW Davis St.
+-- 秉公堂 Bing Kong Tong, 24 NW 4th Ave.
+-- 協勝堂 Hip Sing Assn., 211 NW 3rd Ave.
+-- 合勝堂 Hop Sing Assn., 317 NW 4th Ave.
+-- 至考篤親公所 Gee How Oak Tin Assn., 26 NW 4th Ave.
 
 ### 参观中华会馆博物馆(1-2 pm)
 
