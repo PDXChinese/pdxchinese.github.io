@@ -11,33 +11,38 @@ permalink: /lunarnewyear/
 
 俄勒冈华人联盟参加了这次会议，在场的有中华会馆，秉公堂，协胜堂，合胜堂，李氏公所，海宴公所，余風采堂，同源会，華賢勵志基金会，中国城历史博物馆基金会，波特兰新闻，波特兰联谊会，温哥华联谊会等新老侨社团，澜苏园也有出席，会议由秉公堂主席Kitson Yu主持。会议决定，<b>由中华会馆提议，全华人社区社团共同筹办今年的中国城庆祝新春活动</b>。地点选在中华会馆门前的戴维斯节日广场(NW Davies Festival Street)，时间为2月18日下午。我们竭诚邀请全华人社区积极参与奉献，让人们看到华人以崭新的精神风貌活跃在中国城，并以此展示我们华人社区的存在和正在显现出来的生机。
 
-## 活动内容包括几大部分：
+The biggest change in Chinese community last two years is the increasing interactions among the groups, each of which typically represents a fraction of the community. They started to reach to consensus on the challenges and issues faced by the community as a whole. In particular, they all agree that they should work together on helping revitalize Chinatown and preserve its rich culture and heritage. As a symbolic step for the joint effort from all Chinese community, they has decided to hold Chinatown Chinese New Year Celebration, hoping it will go on and remain as an annual event in Chinatown.
 
-### 文艺表演(2-4 pm)
+The Celebration will be held on February 18, 2018, from 1:00 pm to 4:30 pm, at NW Davis Festival Street between NW 3rd Ave and NW 4th Ave. It is going to have stage cultural performances from performing groups in the community. Audience will watch folk dance, Wushu, lion dance and music with Chinese instruments. Families are also welcome to join the hands-on traditional activities held on the upper floor in CCBA building, on the north side of the stage, including calligraphy, paper cutting, sculpture with clay dough, Mahjong, and of course, receiving red packets. For the first time ever, all Chinese associations in Chinatown will open to public for guided tours from 1 pm to 2 pm.
+
+Come to Chinatown and join us to celebrate the Year of the Dog!
+
+
+## 活动内容包括几大部分 (Scheduled Activities)：
+
+### 文艺表演 (Stage Cultural Performance) 2:00 pm - 4:00 pm
 
 -- 希望社区各文艺团体积极报名参与 (NW Davis Festival Street)
 
-参加演出的团体及个人报名[链接在此](https://docs.google.com/forms/d/e/1FAIpQLSfsolT4q0JKHoVElCh9QhlrrwfNyDXNu6jAtSQle3_SAtdVAQ/viewform)。
+参加演出的团体及个人报名 (To register your group or individual) [链接在此](https://docs.google.com/forms/d/e/1FAIpQLSfsolT4q0JKHoVElCh9QhlrrwfNyDXNu6jAtSQle3_SAtdVAQ/viewform)。
 
-### 传统文化展示(1-4 pm)
+### 传统文化活动体验 (Hands-on Cultural/Traditional Activities) 1:00 pm - 4:00 pm
 
--- 盛邀社区艺术家现场与大家分享华人文化，现场作画，书法。(中华会馆楼上)
+-- 写门贴，剪纸，捏泥人，做新春吊饰，转手帕，抖空竹，舞狮，民乐展示，麻将，and more (Upper floor in CCBA)
 
-### 传统活动体验(1-4 pm)
+-- 盛邀社区艺术家现场与大家分享华人文化，现场作画，书法。(Upper floor in CCBA)
 
--- 写门贴，剪纸，捏泥人，做新春吊饰，转手帕，抖空竹，舞狮，民乐展示，麻将，and more (中华会馆楼上)
+### 传统侨社建筑上的快闪活动 (Flash Mob on Bing Kong Balcony) 2:00 pm - 4:00 pm
 
-### 传统侨社建筑上的快闪活动(2-4 pm)
+-- 满天飘扬的民乐，循声望去，与百年历史的堂口好一个绝配（ Bing Kong Balcony）
 
--- 满天飘扬的民乐，循声望去，与百年历史的堂口好一个绝配（秉公堂二楼阳台）
-
-### 舞龙舞狮表演(4-4:30 pm)
+### 舞龙舞狮表演 (Lion Dance and Dragon Parade) 4:00 pm - 4:30 pm
 
 -- 李氏公所醒狮队 (NW Davis Festival Street and Circling Chinatown)
 
-### 参观中国城华人社团大堂(1-2 pm)
+### 参观中国城华人社团大堂 (Guided Tour to all Chinese Associations in Chinatown) 1:00 pm - 2:00 pm
 
--- 華會館 CCBA, 315 NW Davis St.
+-- 華會館 CCBA, including its Museum, 315 NW Davis St.
 
 -- 秉公堂 Bing Kong Tong, 24 NW 4th Ave.
 
@@ -46,13 +51,5 @@ permalink: /lunarnewyear/
 -- 合勝堂 Hop Sing Assn., 317 NW 4th Ave.
 
 -- 至考篤親公所 Gee How Oak Tin Assn., 26 NW 4th Ave.
-
-### 参观中华会馆博物馆(1-2 pm)
-
--- 中华会馆楼上
-
-### 室外装饰
-
--- 希望能够得到市府，OTCTCA和商家支持，允许我们悬挂张贴春节饰物，如大红灯笼，窗贴等。
 
 让我们大家共同期待着！
