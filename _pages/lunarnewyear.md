@@ -13,10 +13,7 @@ permalink: /lunarnewyear/
 
 The biggest change in Chinese community last two years is the increasing interactions among the groups, each of which typically represents a fraction of the community. They started to reach to consensus on the challenges and issues faced by the community as a whole. In particular, they all agree that they should work together on helping revitalize Chinatown and preserve its rich culture and heritage. As a symbolic step for the joint effort from all Chinese community, they has decided to hold Chinatown Chinese New Year Celebration, hoping it will go on and remain as an annual event in Chinatown.
 
-The Celebration will be held on February 18, 2018, from 1:00 pm to 4:30 pm, at NW Davis Festival Street between NW 3rd Ave and NW 4th Ave. It is going to have stage cultural performances from performing groups in the community. Audience will watch folk dance, Wushu, lion dance and music with Chinese instruments. Families are also welcome to join the hands-on traditional activities held on the upper floor in CCBA building, on the north side of the stage, including calligraphy, paper cutting, sculpture with clay dough, Mahjong, and of course, receiving red packets. For the first time ever, all Chinese associations in Chinatown will open to public for guided tours from 1 pm to 2 pm.
-
-Come to Chinatown and join us to celebrate the Year of the Dog!
-
+The Celebration will be held on February 18, 2018, from 1:00 pm to 4:30 pm, at NW Davis Festival Street between NW 3rd Ave and NW 4th Ave. It is going to have stage cultural performances from performing groups in the community. Audience will watch folk dance, Wushu, lion dance and music with Chinese instruments. Families are also welcome to join the hands-on traditional activities held on the upper floor in CCBA building, on the north side of the stage, including calligraphy, paper cutting, sculpture with clay dough, Mahjong, and of course, receiving red packets. For the first time ever, all Chinese associations in Chinatown will open to public for guided tours.
 
 ## 活动内容包括几大部分 (Scheduled Activities)：
 
@@ -24,7 +21,7 @@ Come to Chinatown and join us to celebrate the Year of the Dog!
 
 -- 希望社区各文艺团体积极报名参与 (NW Davis Festival Street)
 
-参加演出的团体及个人报名 (To register your group or individual) [链接在此](https://docs.google.com/forms/d/e/1FAIpQLSfsolT4q0JKHoVElCh9QhlrrwfNyDXNu6jAtSQle3_SAtdVAQ/viewform)。
+参加演出的团体及个人报名 (Registration for performing groups and individuals) [链接在此](https://docs.google.com/forms/d/e/1FAIpQLSfsolT4q0JKHoVElCh9QhlrrwfNyDXNu6jAtSQle3_SAtdVAQ/viewform)。
 
 ### 传统文化活动体验 (Hands-on Cultural/Traditional Activities) 1:00 pm - 4:00 pm
 
@@ -52,4 +49,4 @@ Come to Chinatown and join us to celebrate the Year of the Dog!
 
 -- 至考篤親公所 Gee How Oak Tin Assn., 26 NW 4th Ave.
 
-让我们大家共同期待着！
+让我们大家共同期待着！Come to Chinatown and join us to celebrate the Year of the Dog!
