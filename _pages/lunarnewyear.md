@@ -50,3 +50,5 @@ The Celebration will be held on February 18, 2018, from 1:00 pm to 4:30 pm, at N
 -- 至考篤親公所 Gee How Oak Tin Assn., 26 NW 4th Ave.
 
 让我们大家共同期待着！Come to Chinatown and join us to celebrate the Year of the Dog!
+
+To read about performing groups and individuals, please visit [http://pdxchinese.org/chinese-new-year-2018/](http://pdxchinese.org/chinese-new-year-2018/) 
