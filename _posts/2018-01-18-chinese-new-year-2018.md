@@ -160,4 +160,4 @@ Isabelle Zheng是Catlin Gabel高中应届毕业生，我们在去年就将她列
 
 传承与弘扬中华民族文化，是每一位乐社成员的梦想与追求。而这不也正是我们在中国城庆祝春节活动中所要追求的吗？
 
-![]({{ site.url }}/assets/images/7de49f5fc2c87850269596f2c6f2b7b3.jpg)
+![]({{ site.url }}/assets/images/7de49f5fc2c87850269596f2c6f2b7b3b.jpg)
