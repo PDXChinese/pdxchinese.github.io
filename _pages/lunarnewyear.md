@@ -21,8 +21,6 @@ The Celebration will be held on February 18, 2018, from 1:00 pm to 4:30 pm, at t
 
 -- 希望社区各文艺团体积极报名参与 (NW Davis Festival Street)
 
-参加演出的团体及个人报名 (Registration for performing groups and individuals) [链接在此 Click here](https://docs.google.com/forms/d/e/1FAIpQLSfsolT4q0JKHoVElCh9QhlrrwfNyDXNu6jAtSQle3_SAtdVAQ/viewform)。
-
 ### 传统文化活动体验 (Hands-on Cultural/Traditional Activities) 1:00 pm - 4:00 pm
 
 -- 写门贴，剪纸，捏泥人，做新春吊饰，转手帕，抖空竹，舞狮，民乐展示，麻将，and more (3rd floor in CCBA)
