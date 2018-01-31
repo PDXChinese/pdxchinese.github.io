@@ -190,3 +190,19 @@ Isabelle Zheng是Catlin Gabel高中应届毕业生，我们在去年就将她列
 今年春香歌唱班的新年文艺演出又将在二月十一日下午三点在[波特兰乡村浸信会教堂](http://www.vbconline.org/home/ministries/ethnic/chinese-fellowship/)举办，据说今年入场仍要凭票，但是票可以是免费的。
 
 ![]({{ site.url }}/assets/images/23d78add81cda6c59be7c0946897126d.jpg)
+
+### 海韵小提琴学堂
+
+2017年圣诞前我们在中国城举办的《中国城快闪送爱心》活动，在秉公堂楼上平台拉出悦耳中外名曲的就是学堂的校长周虹老师。 大家有时间可以看看我们当时在群里的[介绍](http://pdxchinese.org/chinatown-flash-mob/)，回味一下当时的情景。
+
+学校从老师到学生多年来在支持并参与波特兰市区志愿者活动方面无不尽心尽力。 她们参加的社会活动， 从苏格兰音乐节，印度音乐节，中国城音乐表演，本地各青年交响乐团活动，俄勒冈音乐协会活动，到学生自己参与的辅助音乐教学，推广音乐普及活动，足迹遍布波特兰市区，从老人院，流浪者捐助，地震灾难捐助，到大型商业协会捐款活动。   
+
+将参加下个月的波特兰中国城春节表演的Mayukha Kashyap和Jason Wong学员也一直热心于波特兰市区各民族群体的活动。Jason来自Westview High School，是即将开演“Fiddler on the Roof”音乐剧的成员，也是最近Prelude Project新志愿者成员，经常帮助辅导社区孩子的音乐学习和演出准备工作，展示乐器，让小学生认识经历乐器的美妙声音。
+
+印度裔Mayukha来自Sunset高中，经常热心参加市区社会活动： 节日演出，老人院演唱印度歌曲，两年前参与了中国城表演。两次被选参加俄勒冈州弦乐教师协会的荣誉音乐会。Mayukha与几位朋友自创了一个印度室内乐团Sangeetha Swarangal (Musical Notes)，每年都参加Greater Portland Tamil Mandram (GPTM无盈利组织) 的音乐活动。
+
+Jason和Mayukha在中国城新春会上将为大家带来《新疆之春二重奏》等中外小提琴曲目。
+
+海韵小提琴学堂提供五种教学模式，欢迎大家报名。详情可参见[学校的网站](https://www.pacificviolinacademy.com/)。
+
+![]({{ site.url }}/assets/images/66f86b4fd3aa1929c69018eb1dd99303.jpg)
