@@ -25,7 +25,7 @@ Outdoor on NW Davis Festival Street
 
 ### 传统文化活动体验 (Hands-on Cultural/Traditional Activities) 1:00 pm - 4:00 pm
 
-舞狮体验，绘画，书法，舞扇，古筝，面塑艺术，麻将，剪纸，写对联，描红“福”字门贴，新春挂饰制作，太极，长拳套路
+舞狮体验，绘画，书法，舞扇，古筝，面塑艺术，麻将，剪纸，写对联，描红“福”字门贴，新春挂饰制作，转手帕，太极，长拳套路
 
 Indoor on 3rd floor in CCBA, located 315 NW Davis St.
 
