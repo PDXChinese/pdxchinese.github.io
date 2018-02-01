@@ -19,45 +19,41 @@ The Celebration will be held on February 18, 2018, from 1:00 pm to 4:30 pm, at t
 
 ### 文艺表演 (Stage Cultural Performance) 2:00 pm - 4:00 pm
 
--- 粤剧，秧歌舞，迎春联唱，小提琴二重奏，武术，男女二重唱，吟诵三字经，歌舞，美声合唱，古筝，旗袍秀，儿童舞蹈，女生组合，西域民风舞蹈
+粤剧，太极，秧歌舞，迎春联唱，小提琴二重奏，武术，男女二重唱，吟诵三字经，歌舞，美声合唱，古筝，旗袍秀，儿童舞蹈，女生组合，西域民风舞蹈
 
 Outdoor on NW Davis Festival Street
 
 ### 传统文化活动体验 (Hands-on Cultural/Traditional Activities) 1:00 pm - 4:00 pm
 
--- 舞狮体验
-
--- 绘画，书法，舞扇，古筝
-
--- 面塑艺术，麻将，剪纸，写对联，描红“福”字门贴，新春挂饰制作
-
--- 太极，长拳套路
+舞狮体验，绘画，书法，舞扇，古筝，面塑艺术，麻将，剪纸，写对联，描红“福”字门贴，新春挂饰制作，太极，长拳套路
 
 Indoor on 3rd floor in CCBA, located 315 NW Davis St.
 
 ### 传统侨社建筑上的快闪活动 (Flash Mob on Bing Kong Balcony) 2:00 pm - 4:00 pm
 
--- 满天飘扬的民乐，循声望去，与百年历史的堂口好一个绝配
+满天飘扬的民乐，循声望去，与百年历史的堂口好一个绝配
 
 Bing Kong Balcony
 
 ### 舞龙舞狮表演 (Lion Dance and Dragon Parade) 4:00 pm - 4:30 pm
 
--- 李氏公所醒狮队
+李氏公所醒狮队
 
 NW Davis Festival Street and Circling Chinatown
 
 ### 参观中国城华人社团大堂 (Guided Tour to all Chinese Associations in Chinatown) 1:00 pm - 2:00 pm
 
--- 華會館 CCBA, including its Museum, 315 NW Davis St.
+中華會館 CCBA, including its Museum, 315 NW Davis St.
 
--- 秉公堂 Bing Kong Tong, 24 NW 4th Ave.
+秉公堂 Bing Kong Tong, 24 NW 4th Ave.
 
--- 協勝堂 Hip Sing Assn., 211 NW 3rd Ave.
+協勝堂 Hip Sing Assn., 211 NW 3rd Ave.
 
--- 合勝堂 Hop Sing Assn., 317 NW 4th Ave.
+合勝堂 Hop Sing Assn., 317 NW 4th Ave.
 
--- 至考篤親公所 Gee How Oak Tin Assn., 26 NW 4th Ave.
+至考篤親公所 Gee How Oak Tin Assn., 26 NW 4th Ave.
+
+Please follow the route and no photograph inside buildings.
 
 让我们大家共同期待着！Come to Chinatown and join us to celebrate the Year of the Dog!
 
