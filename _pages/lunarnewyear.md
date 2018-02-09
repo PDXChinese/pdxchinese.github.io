@@ -29,7 +29,7 @@ Outdoor on NW Davis Festival Street
 
 Indoor on 3rd floor in CCBA, located 315 NW Davis St.
 
-### 传统侨社建筑上的快闪活动 (Flash Mob on Bing Kong Balcony) 2:00 pm - 4:00 pm
+### 传统侨社建筑上的快闪活动 (Flash Mob on Bing Kong Balcony) 1:00 pm - 4:00 pm
 
 满天飘扬的民乐，循声望去，与百年历史的堂口好一个绝配
 
