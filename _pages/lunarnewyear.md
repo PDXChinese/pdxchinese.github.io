@@ -41,7 +41,7 @@ Bing Kong Balcony
 
 NW Davis Festival Street and Circling Chinatown
 
-### 参观中国城华人社团大堂 (Guided Tour to all Chinese Associations in Chinatown) 1:00 pm - 2:00 pm
+### 参观中国城华人社团大堂 (Guided Tour to all Chinese Associations in Chinatown) 1:00 pm - 3:00 pm
 
 中華會館 CCBA, including its Museum, 315 NW Davis St.
 
@@ -52,6 +52,8 @@ NW Davis Festival Street and Circling Chinatown
 合勝堂 Hop Sing Assn., 317 NW 4th Ave.
 
 至考篤親公所 Gee How Oak Tin Assn., 26 NW 4th Ave.
+
+朔源堂 Soo Yuen Assn. 317 NW 4th Ave. 
 
 Please follow the route and no photograph inside buildings.
 
