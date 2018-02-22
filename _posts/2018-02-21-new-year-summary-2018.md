@@ -92,8 +92,6 @@ At their age I would suggest their priority is concentration in taking tough and
 
 ![]({{ site.url }}/assets/images/chinatown/4a9bf7afb0a12cab6c14887199fb7518.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/d2197fe8b9db8c9d44d45fc5fb86be5d.jpg)
-
 ![]({{ site.url }}/assets/images/chinatown/dc04a2e73a340c1d7f5e1864f41e2ab8.jpg)
 
 ![]({{ site.url }}/assets/images/chinatown/2b4042c98a364cbad2bfbb8db15e35d8.jpg)
@@ -260,9 +258,9 @@ Meirong  16:48
 
 ![]({{ site.url }}/assets/images/chinatown/41c4ecfe856cafb48df7e15efcf56d51.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/47bd6047f7819a437b0e6a6db98a4173b.jpg)
+![]({{ site.url }}/assets/images/chinatown/186660b1faa3fcf40a9fd2dede65c38c.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/cefab0ae876130753e8ce021344610c4b.jpg)
+![]({{ site.url }}/assets/images/chinatown/bc804df9a4499bd403a31707e0eaa48d.jpg)
 
 ![]({{ site.url }}/assets/images/chinatown/cfa812290e7e8b2cc77054ee35552cf8.jpg)
 
