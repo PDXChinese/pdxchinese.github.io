@@ -381,9 +381,9 @@ Jennifer 筱坚老师 转手帕
 
 ![]({{ site.url }}/assets/images/chinatown/1d3198428d8e988675f90404a547cd83.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/8d924f022f7169d55567986db14798ea.jpg)
+![]({{ site.url }}/assets/images/chinatown/8c102bfb22a7239d208bf4f085c16e34.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/8610fa8731484a1742bd526072b566e9.jpg)
+![]({{ site.url }}/assets/images/chinatown/78bbcc17d6b91169650b77fb3eaf41fc.jpg)
 
 在另外一个场地，本来打算活动当天上午组装heaters临时决定今天就做出来，免得明天手忙脚乱。结果，组装起来也的确很是费时。大家肯定想不到做这件事情的主力是林老师和李老师两位艺术大师，还有我们的二代，张丽文的公子，最后Nancy和陈曦过来帮忙，也一起组装完成了一个[ThumbsUp][Rose][Rose]
 
