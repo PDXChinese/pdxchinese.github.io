@@ -48,93 +48,95 @@ At their age I would suggest their priority is concentration in taking tough and
 
 我们先来欣赏文艺演出现场的精彩镜头，感谢Hardy和众群友提供的照片！
 
-![]({{ site.url }}/assets/images/chinatown/0707f2506e0746681d70f4ff9c0f59ea.jpg)
+![]({{ site.url }}/assets/images/chinatown/f77379bc2951cde156ebb191702d5f82.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/55814c0a3281d9b23766ecdbf08e9016.jpg)
+![]({{ site.url }}/assets/images/chinatown/9028f8b22b7de9a5ff0712563091a5fb.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/d2aea64ae3a0126a8cf9517f104fb8db.jpg)
+![]({{ site.url }}/assets/images/chinatown/a63e93bdc8d20b717cf515ff88d30f7f.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/e043f5e96a7578d119bbf49e3213042e.jpg)
+![]({{ site.url }}/assets/images/chinatown/03b71bd44640f521cc8f9e9437cfbd2b.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/facb3109decf188cebf3a51009d34f17.jpg)
+![]({{ site.url }}/assets/images/chinatown/3ade515645e9ca16ac87388a45c5bd86.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/b3a324cb7b5b3ba9328526bd5305cd76.jpg)
+![]({{ site.url }}/assets/images/chinatown/8bf2eb44a61e1fc9833ad56641f9b1b0.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/d13ac31349129de1153fdefe0ae8724e.jpg)
+![]({{ site.url }}/assets/images/chinatown/1a3cb598afc99af26d9352d318f3f0ce.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/d8951442e81d6926c7b8f6080370001a.jpg)
+![]({{ site.url }}/assets/images/chinatown/06d4f3d4f1244ed3066ce5ed8658d24b.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/1b3a36856de5a40db16432b6cf855d05.jpg)
+![]({{ site.url }}/assets/images/chinatown/c977f8ae644efa7ab0ed3115cfded392.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/bdbf7a3e4d95f83b758b0373bfcc60f1.jpg)
+![]({{ site.url }}/assets/images/chinatown/f39e1453720031e3b7acd1ff9b2c152f.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/57545b302b32d58a0e6a9fe38d85c833.jpg)
+![]({{ site.url }}/assets/images/chinatown/e5383f73c9dac5e4b30b5746ae04b121.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/7d889c2b3d9c2f7d8eebff7103331afd.jpg)
+![]({{ site.url }}/assets/images/chinatown/4ee4c31c6bf2b457c709e68d6af88ea7.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/4d5600b6d1f752b63ef360807e32994a.jpg)
+![]({{ site.url }}/assets/images/chinatown/fd22fb93accafc6c782487c2e9233fff.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/7e412d630d010cd0cdd974e1e00b3a44.temp.jpg)
+![]({{ site.url }}/assets/images/chinatown/dd1e6e23d9772a71853aef3fa3173f08.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/4a0f1dadc4eff9fd63784de253366c9d.jpg)
+![]({{ site.url }}/assets/images/chinatown/6f838ea7373b6b719683a3874dcc6d62.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/ce623cb99a66abb00619be34f38ee3bd.jpg)
+![]({{ site.url }}/assets/images/chinatown/e5ab3733ace466dcb7eb9544929ec248.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/e6d9c78a7fabf4592368efef6162c99d.temp.jpg)
+![]({{ site.url }}/assets/images/chinatown/4d3376bbdd609326f7e5672cae1ecf86.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/48c71017126aa9309e5779e6fc6d8058.jpg)
+![]({{ site.url }}/assets/images/chinatown/8fde561b892bc8f05010cdd259d6c6f5.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/48a6ddd783c6140f3b60a512e4b41382.jpg)
+![]({{ site.url }}/assets/images/chinatown/460821b08a492e4b25bc1fc7e516dca3.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/283b5f6745ff378b9e558666c4e3a509.jpg)
+![]({{ site.url }}/assets/images/chinatown/4e9f5cac9047ff24c6ac9c6308ffa3d9.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/4b127fabb6ab278ed5a5f67da73b2b6c.temp.jpg)
+![]({{ site.url }}/assets/images/chinatown/de928bf6abe97bb9a773d0cb9b173bc0.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/c88224f778dcda242afc42f265b13298.jpg)
+![]({{ site.url }}/assets/images/chinatown/4a9bf7afb0a12cab6c14887199fb7518.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/0624de1ece6fbb8f9be873308e8cdd70.jpg)
+![]({{ site.url }}/assets/images/chinatown/d2197fe8b9db8c9d44d45fc5fb86be5d.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/03e24b16afe1c472d26e7fc6d8cde29d.jpg)
+![]({{ site.url }}/assets/images/chinatown/dc04a2e73a340c1d7f5e1864f41e2ab8.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/e5416f49c7c6f287d4e737b3df25c017.jpg)
+![]({{ site.url }}/assets/images/chinatown/2b4042c98a364cbad2bfbb8db15e35d8.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/ec21363621c6be424f787cce15bc0fb7.jpg)
+![]({{ site.url }}/assets/images/chinatown/1c529f848dba38cb4d16bf277fbc88c0.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/950303e1fa5b7382010cea05a584e074.jpg)
+![]({{ site.url }}/assets/images/chinatown/90ddaf7474feff47f5ee6fd034f6fb94.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/732b34d324979679675d4851f63a1104.jpg)
+![]({{ site.url }}/assets/images/chinatown/fa5d081bcee1492559a75a5b604a5e4f.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/8ded1e5744a41630b1b6200b5c3c273e.temp.jpg)
+![]({{ site.url }}/assets/images/chinatown/f349077b873eea066a98825b663b679f.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/6ce716955456286528ef5a150f6e4071.jpg)
+![]({{ site.url }}/assets/images/chinatown/29decb43ad6aa8a4f277ff1e6219f322.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/17313a376eae7cfbae7e7a4c4686e452.jpg)
+![]({{ site.url }}/assets/images/chinatown/5f12a1d28c4d7142da61c6d6122e7f47.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/0a3dfc4f9de6f6a9bb9b65d6a0d3e831.jpg)
+![]({{ site.url }}/assets/images/chinatown/7fc559dcace9cde72bdd98a71ea0fffe.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/68bbf4e044366eba6453fe5e0589a3c6.jpg)
+![]({{ site.url }}/assets/images/chinatown/98d6b9af174207c15b478b7bd57791e1.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/481ee4556f9eca680187ece760c48d19.jpg)
+![]({{ site.url }}/assets/images/chinatown/8dc64e0b2e0790eb4e3b36cd380f58c7.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/6d91493a40fb00f60028b31751d4285c.jpg)
+![]({{ site.url }}/assets/images/chinatown/d07e1658184c2ed9b0fb1b377b4016ea.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/95327e330b004b206bca93d3b89c5e02.jpg)
+![]({{ site.url }}/assets/images/chinatown/4a288fb86aae6aaeb956bb35c9cc14c4.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/a911e51d19eab9b189caebb60e028b64.jpg)
+![]({{ site.url }}/assets/images/chinatown/5a5f4fe2eafcb508a67069831e426938.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/60a609be5f9af9fe40581927022677c7.jpg)
+![]({{ site.url }}/assets/images/chinatown/897962973595f6c4de369dd95b1e8ae3.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/b6800ee90dd670cbc27c13e000a51e8f.jpg)
+![]({{ site.url }}/assets/images/chinatown/e194d3c9c78101533a86c256b095a559.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/93f468bf81593937a69c46080e7ae27c.jpg)
+![]({{ site.url }}/assets/images/chinatown/13959e587bfafc6f5e8ffd72b49d715e.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/3d14ea782c2489ca0e8d22052b86b24c.jpg)
+![]({{ site.url }}/assets/images/chinatown/1fc04b28be0f588225ae6d3c14ebc8db.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/34fb03bad5c699431a4dcab9a4ec2426.jpg)
+![]({{ site.url }}/assets/images/chinatown/8df277c3c3e5bb63b10c08d89b043200.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/64ed497ae22e2a48686a3fc73e57e85d.jpg)
+![]({{ site.url }}/assets/images/chinatown/85d746ccfaa2c17c0edf3eb0be553456.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/a7c3673d1f64e1978e407391f56172be.jpg)
+![]({{ site.url }}/assets/images/chinatown/b42f28fff6b3549b407a1dce80999548.jpg)
+
+![]({{ site.url }}/assets/images/chinatown/906606c6c7406f7b5ab49bee7604d447.jpg)
 
 以下是所有参加演出的团体和个人
 
