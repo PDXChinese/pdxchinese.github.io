@@ -28,8 +28,6 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 ![]({{ site.url }}/assets/images/chinatown/a28e8103c901f9968fe0b819068abe17.temp.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/04ffcb9b974bcabd4026772fba4cecee.jpg)
-
 ![]({{ site.url }}/assets/images/chinatown/34a4ec9b27b24d41e0685dd3580b0fd0.jpg)
 
 ![]({{ site.url }}/assets/images/chinatown/04fa90c0c0eec5107f5dcc95000609eb.jpg)
