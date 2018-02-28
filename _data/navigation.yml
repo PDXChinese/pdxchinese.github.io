@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Resources"
     url: /resources/
-  - title: "Chamber of Commerce"
-    url: /chambercommerce/
+  - title: "Events"
+    url: /eventnow/
   - title: "Donate"
     url: /communityfund/
   - title: "Contact Us"
@@ -36,3 +36,5 @@ extra:
         url: /youthroundtable/
       - title: "Chinese New Year"
         url: /lunarnewyear/
+      - title: "Chamber of Commerce"
+        url: /chambercommerce/
