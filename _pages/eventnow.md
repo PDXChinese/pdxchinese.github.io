@@ -3,7 +3,7 @@ title: "Update on Community Events "
 permalink: /eventnow/
 ---
 
-For more complete event schedule, please click on [View Community Events](http://pdxchinese.org/events/) on the front page.
+For more complete event schedule, please click on [Shared Community Calendar](http://pdxchinese.org/events/) on the front page.
 
 ## 集体购置中国城原雷氏餐馆所在地产
 
