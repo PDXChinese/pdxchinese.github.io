@@ -25,7 +25,7 @@ Topic：Hospital Tour with Presentation and Workshop on Application of Motion An
 
 ## Group Volunteering Opportunities at Oregon Food Bank
 
-Dates： March 17, 2018 & April 14, 2018
+Dates： March 17, 2018；April 14, 2018；May 19，2018；June 9，2018
 
 Time：12:45 pm - 3:30 pm
 
