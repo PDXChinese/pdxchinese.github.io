@@ -28,6 +28,8 @@ extra:
         url: /mentoring/
       - title: "Chinatown"
         url: /chinatown/
+      - title: "Commerce"
+        url: /chambercommerce/
       - title: "Job Fair"
         url: /jobfair/
       - title: "Youth Conference"
@@ -36,5 +38,3 @@ extra:
         url: /youthroundtable/
       - title: "Chinese New Year"
         url: /lunarnewyear/
-      - title: "Chamber of Commerce"
-        url: /chambercommerce/
