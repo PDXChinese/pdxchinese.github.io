@@ -21,7 +21,7 @@ Capacity：30
 
 Topic：Hospital Tour with Presentation and Workshop on Application of Motion Analysis in Pediatric Orthopedics
 
-### 报名已经截至
+报名已经截至
 
 ## Group Volunteering Opportunities at Oregon Food Bank
 
@@ -33,7 +33,7 @@ Address：1870 NW 173rd Ave, Beaverton, OR 97006
 
 报名链接：[http://signup.com/go/RtEtDVp](http://signup.com/go/RtEtDVp)
 
-## 请进《PDX 志愿服务公益群》，方便协调和联络。
+请进《PDX 志愿服务公益群》，方便协调和联络。
 
 
 ## 廖冰博士讲座：建立现代亲子关系
@@ -46,12 +46,20 @@ Place: Intel HF3 Auditorium (capacity: 160)
 
 Jointly organized by OCC and T4K
 
-### 报名注册细节即将公布， 敬请关注。
+报名注册细节即将公布， 敬请关注。
 
 ## 华人社区艺术家联展，商业联展，学校联展
 
 Second half of April
 
+## Job Fair
+
+May
+
 ## Dragon Parade in Rose Parade
 
 First half of June
+
+## Youth Conference
+
+June
