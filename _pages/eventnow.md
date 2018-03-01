@@ -27,7 +27,7 @@ Topic：Hospital Tour with Presentation and Workshop on Application of Motion An
 
 Dates： March 17, 2018 & April 14, 2018
 
-Time：12:45 am - 3:30 am
+Time：12:45 pm - 3:30 pm
 
 Address：1870 NW 173rd Ave, Beaverton, OR 97006
 
