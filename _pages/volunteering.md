@@ -31,8 +31,6 @@ March 17, 2018 12:45 am - 3:30 am
 
 April 14, 2018 12:45 am - 3:30 am
 
-Also see [community calendar](http://pdxchinese.org/events/)
-
 ### Address
 
 [Oregon Food Bank](htts://www.oregonfoodbank.org/about-us/locations/beaverton/)
@@ -40,6 +38,8 @@ Also see [community calendar](http://pdxchinese.org/events/)
 1870 NW 173rd Ave, Beaverton, OR 97006
 
 ### Details
+
+To register: [http://signup.com/go/RtEtDVp](http://signup.com/go/RtEtDVp)
 
 Please join 《PDX 志愿服务公益群》 and sign up from there.
 
