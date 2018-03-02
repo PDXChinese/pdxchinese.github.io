@@ -36,13 +36,15 @@ Address：1870 NW 173rd Ave, Beaverton, OR 97006
 请进《PDX 志愿服务公益群》，方便协调和联络。
 
 
-## 廖冰博士讲座：建立现代亲子关系
+## 廖冰博士讲座：建立现代亲子关系，培养心理健康的孩子
 
 Date: Sunday, March 18
 
 Time: 1:30pm – 4:30pm
 
 Place: Intel HF3 Auditorium (capacity: 160)
+
+Address: 5200 NE Elam Young Pkwy, Hillsboro, OR 97124
 
 Jointly organized by OCC and T4K
 
