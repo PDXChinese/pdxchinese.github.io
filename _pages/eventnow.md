@@ -23,6 +23,8 @@ Topic：Hospital Tour with Presentation and Workshop on Application of Motion An
 
 报名已经截至
 
+![]({{ site.url }}/assets/images/divider.jpg)
+
 ## Group Volunteering Opportunities at Oregon Food Bank
 
 Dates： March 17, 2018；April 14, 2018；May 19，2018；June 9，2018
@@ -35,6 +37,7 @@ Address：1870 NW 173rd Ave, Beaverton, OR 97006
 
 请进《PDX 志愿服务公益群》，方便协调和联络。
 
+![]({{ site.url }}/assets/images/divider.jpg)
 
 ## 廖冰博士讲座：建立现代亲子关系，培养心理健康的孩子
 
@@ -49,6 +52,8 @@ Address: 5200 NE Elam Young Pkwy, Hillsboro, OR 97124
 Jointly organized by OCC and T4K
 
 报名注册细节即将公布， 敬请关注。
+
+![]({{ site.url }}/assets/images/divider.jpg)
 
 ## 华人社区艺术家联展，商业联展，学校联展
 
