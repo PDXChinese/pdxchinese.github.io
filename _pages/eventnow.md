@@ -5,9 +5,13 @@ permalink: /eventnow/
 
 For more complete event schedule, please click on [Shared Community Calendar](http://pdxchinese.org/events/) on the front page.
 
+![]({{ site.url }}/assets/images/divider.jpg)
+
 ## 集体购置中国城原雷氏餐馆所在地产
 
 这个地产对保护中国城和其历史文化遗产至关重要，商业前景暂时不在考虑范畴之内，因为不确定性因素太多。拥有这块地产是当务之急，后期开发的问题可以留在以后，按照集体意愿决定。有意参与的社区成员，请加入《中国城雷氏餐馆地产群》，了解地产的详细情况及参与细节。
+
+![]({{ site.url }}/assets/images/divider.jpg)
 
 ## 面对社区中学生组织的Day Camp at Shriners Hospital for Children
 
