@@ -138,14 +138,55 @@ date: "2018-02-12"
 中国城新春会有好多个第一：
 
 第一次真正意义上的全社区华人共同筹办
+
 第一次中国城六大堂对外开放
+
 第一次有来自社区各个主要文化团体的参与演出
+
 第一次齐聚了社区的画家书法家和民间艺人
+
 第一次收到来自中国城内外各组织的齐声称赞
+
 第一次大手笔但精心装饰活动场地乃至中国城
+
 第一次在文艺演出中大张旗鼓宣传二代的公益奉献
+
 第一次在社区活动中真正的新老侨的融合
 
 我相信我没有穷尽这个第一次，大家明天可以用心去体会。我也相信这次活动将会给您留下终生难忘的美好记忆。
 
 愿我们明天相见在中国城！
+
+The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is shown below.
+
+—————  2018-03-03  —————
+
+张光超  20:44
+
+再看一眼今年中国城的红灯笼，它们今天下架了，已成为历史，等待下一页的开始。
+
+![]({{ site.url }}/assets/images/chinatown/1d5c6cfdb1b4d8042650a7a931cc7687.jpg)
+
+![]({{ site.url }}/assets/images/chinatown/5720cea09d17eb79afa5eb484968f5de.jpg)
+
+![]({{ site.url }}/assets/images/chinatown/7019ab2c5c44afa526f51c6f473e725d.jpg)
+
+![]({{ site.url }}/assets/images/chinatown/c6d33a66d55b391218245515db1b2e29.temp.jpg)
+
+![]({{ site.url }}/assets/images/chinatown/ae56e2f7bac4e0d777b9105f99b3dcae.jpg)
+
+![]({{ site.url }}/assets/images/chinatown/04a9d92f2d43d732f3b9cc5045293d6c.jpg)
+
+![]({{ site.url }}/assets/images/chinatown/b3ee4ef91d33097f8cf54070e760031d.jpg)
+
+![]({{ site.url }}/assets/images/chinatown/7aec39405fa6620fc735d5aa65d09cb2.jpg)
+
+![]({{ site.url }}/assets/images/chinatown/0a1204c6c6c8b2a145b41e4d57ccc69d.jpg)
+
+![]({{ site.url }}/assets/images/chinatown/83e1f3bd7665cf23d935c64219823dd7.jpg)
+
+![]({{ site.url }}/assets/images/chinatown/ab40db54af974b8a878e73ce7d2c0121.jpg)
+
+![]({{ site.url }}/assets/images/chinatown/94caaf0ed457bfb482bf8623eb01f20a.temp.jpg)
+
+![]({{ site.url }}/assets/images/chinatown/03901117fda74e8a28e0a2ae3dbbae33.jpg)
