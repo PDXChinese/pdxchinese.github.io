@@ -53,9 +53,7 @@ Place: Intel HF3 Auditorium (capacity: 160)
 
 Address: 5200 NE Elam Young Pkwy, Hillsboro, OR 97124
 
-Jointly organized by OCC and T4K
-
-报名注册细节即将公布， 敬请关注。
+俄勒冈华人联盟（OCC）和 Tech4kid Club 于3/18/2018联合举办亲子关系讲座，特别邀请新泽西著名的专家，廖冰博士为大家分享“如何建立现代亲子关系，培养心理健康的孩子”。详情参见Flyer（https://jinshuju.net/f/2Eeaoz） 欢迎大家踊跃报名参加，位置有限，手快先得。请填写报名表https://goo.gl/forms/d8hvjc0RDoyzxXds2。 每人建议捐款$10 （via company match, paypal, check or cash) ， 用于补贴讲员及其他费用，也用于波特兰东区听众的交通补贴。活动地方离Max站很近，欢迎东区的朋友坐Max参加。我们组织义工Max站引导参加者。
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
