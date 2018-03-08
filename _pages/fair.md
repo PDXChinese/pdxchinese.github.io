@@ -6,8 +6,13 @@ permalink: /fair/
 # 波特兰华人社区艺术商业教育联展
 ## PDX Chinese Community Art, Commerce & Education Fair
 
-### 时间：2018年4月14日(周六)，上午11点-下午4点
-### 地点：Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
+### 时间：
+
+2018年4月14日，星期六，上午11点-下午4点
+
+### 地点：
+
+Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
 中国城新春会成功的一个秘诀是挖掘出了社区中众多的艺术家们，有了他们的参与，不仅仅让人们有机会欣赏到了精美绝伦的传统中华文化，也联络了艺术家们之间的感情，拉近了他们与社区之间的“距离”。别小看这个距离，他或她可能就生活在您的身边，他们的艺术工作室也许就在关着的车库大门后面，没有这个社区平台，他们就很难走出自己平时已经很熟悉了的小圈子，而我们大家也就无缘欣赏到他们的精美的作品和精湛的手艺了。
 
