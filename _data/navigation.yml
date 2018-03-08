@@ -26,15 +26,17 @@ extra:
         url: /volunteering/
       - title: "Mentoring"
         url: /mentoring/
-      - title: "Chinatown"
-        url: /chinatown/
-      - title: "Commerce"
-        url: /chambercommerce/
-      - title: "Job Fair"
-        url: /jobfair/
       - title: "Youth Conference"
         url: /youthconference/
       - title: "Youth Roundtable"
         url: /youthroundtable/
+      - title: "Commerce"
+        url: /chambercommerce/
+      - title: "Job Fair"
+        url: /jobfair/
+      - title: "Community Fair"
+        url: /fair/
+      - title: "Chinatown"
+        url: /chinatown/
       - title: "Chinese New Year"
         url: /lunarnewyear/
