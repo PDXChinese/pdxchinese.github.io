@@ -64,3 +64,5 @@ Address: 5200 NE Elam Young Pkwy, Hillsboro, OR 97124
 时间：2018年4月14日，星期六，上午11点-下午4点
 
 地点：Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
+
+详情请见： http://pdxchinese.org/fair/
