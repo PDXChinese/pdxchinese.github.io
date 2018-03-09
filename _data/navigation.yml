@@ -34,12 +34,12 @@ extra:
         url: /youthroundtable/
       - title: "---"
         url:
-      - title: "Commerce Chamber"
-        url: /chambercommerce/
       - title: "Job Fair"
         url: /jobfair/
       - title: "Community Fair"
         url: /fair/
+      - title: "Commerce Chamber"
+        url: /chambercommerce/
       - title: "---"
         url:
       - title: "Chinatown"
