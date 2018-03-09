@@ -29,3 +29,7 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 活动对大众免费开放
 
 此次活动由OCC负责策划，欢迎各个组织和团体参加协办。
+
+## 感谢下列现有协办单位，排序不分先后：
+
+俄勒冈州中国艺术家协会
