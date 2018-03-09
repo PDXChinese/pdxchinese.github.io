@@ -42,4 +42,6 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
 ### 商家联展
 
+展位如有商品买卖，需准备一份买卖许可证(Seller’s Permit)影印本，以便现场税务局人员随时巡查。若无买卖许可证，可向当地税务机构免费申请临时买卖许可证。
+
 ### 教育联展
