@@ -24,10 +24,8 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
 为了能够达到更好的效果，节省大家宝贵的时间，我们决定把这三个联展放在一起，利用希尔顿酒店所属的Embassy Suite最大的会议厅，举办我们社区首届《波特兰华人社区艺术商业教育联展》。同时，我们会邀请本地商会并通过他们邀请相关会员前来参加这次联展，当然，地方毕竟有限，我们的重点会是我们社区的艺术家，创业者和教育家们。希望我们大家能够共襄盛举，一起努力，造福社区。
 
-### 参展个人团体报名
+参展个人团体报名，请填写[报名表](https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=0&w=1)。
 
-请填写[报名表](https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=0&w=1)
+活动对大众免费开放
 
-### 活动对大众免费开放
-
-### 此次活动由OCC负责策划，欢迎各个组织和团体参加协办。
+此次活动由OCC负责策划，欢迎各个组织和团体参加协办。
