@@ -3,7 +3,6 @@ title: " "
 permalink: /fair/
 ---
 
-## PDX Chinese Community Art, Commerce & Education Fair
 ## 波特兰华人社区艺术商业教育联展
 
 ### 时间：
