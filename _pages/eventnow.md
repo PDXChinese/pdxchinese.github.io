@@ -59,7 +59,7 @@ Address: 5200 NE Elam Young Pkwy, Hillsboro, OR 97124
 
 ## 波特兰华人社区艺术商业教育联展
 
-## PDX Chinese Community Art, Commerce & Education Fair
+PDX Chinese Community Art, Commerce & Education Fair
 
 时间：2018年4月14日，星期六，上午11点-下午4点
 
