@@ -36,10 +36,10 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
 ## 感谢下列已经[报名](https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=0&w=1)的个人团体，排序不分先后：
 
-### 艺术家联展 (限额：10)
+### 艺术家联展
 
 画家李铁 [www.litiefineart.com](http://www.litiefineart.com/)
 
-### 商业联展 (限额：30)
+### 商业联展
 
-### 教育联展 (限额：15)
+### 教育联展
