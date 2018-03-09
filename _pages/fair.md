@@ -34,7 +34,7 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
 俄勒冈州中国艺术家协会
 
-## 感谢下列已经报名的个人团体，排序不分先后：
+## 感谢下列已经[报名](https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=0&w=1)的个人团体，排序不分先后：
 
 ### 艺术家联展
 
