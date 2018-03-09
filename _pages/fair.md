@@ -26,17 +26,15 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
 ## 参展个人团体报名方式
 
-希望参展的个人或团体，请填写[报名表](https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=[&w=1)。会基本上按照(报先x原则，但我们保留取舍权利。]
+希望参展的个人或团体，请填写[报名表](https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=[&w=1)。会基本上按照先报先得原则，但我们保留取舍权利。
 
-付费可以依照网页[pdxchinese.org/communityfund/](http://pdxchinese.org/communityfund/)上的捐款方式
+参展付费视为给OCC捐款，可以依照网页[pdxchinese.org/communityfund/](http://pdxchinese.org/communityfund/)上的捐款方式。报名费将享有给非营利组织捐款的相关税务优惠(tax-deductible under IRC Section 170)。
 
-#### 报名费将享有给非营利组织捐款的相关税务优惠(tax-deductible under IRC Section 170)
-
-活动对大众免费开放
-
-此次活动由OCC负责策划，欢迎各个组织和团体参加协办。
+## 活动对大众免费开放
 
 ## 感谢下列现有协办单位，排序不分先后：
+
+此次活动由OCC负责策划，欢迎各个组织和团体参加协办。
 
 俄勒冈州中国艺术家协会
 
