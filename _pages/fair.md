@@ -24,7 +24,13 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
 为了能够达到更好的效果，节省大家宝贵的时间，我们决定把这三个联展放在一起，利用希尔顿酒店所属的Embassy Suite最大的会议厅，展区面积达到8,200平尺，举办我们社区首届《波特兰华人社区艺术商业教育联展》。同时，我们会邀请本地商会并通过他们邀请相关会员前来参加这次联展，当然，地方毕竟有限，我们的重点会是我们社区的艺术家，创业者和教育家们。希望我们大家能够共襄盛举，一起努力，造福社区。
 
-希望参展的个人或团体，请填写[报名表](https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=0&w=1)。会基本上按照先报先得原则，但我们保留取舍权利。
+## 参展个人团体报名方式
+
+希望参展的个人或团体，请填写[报名表](https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=[&w=1)。会基本上按照(报先x原则，但我们保留取舍权利。]
+
+付费可以依照网页[pdxchinese.org/communityfund/](http://pdxchinese.org/communityfund/)上的捐款方式
+
+#### 报名费将享有给非营利组织捐款的相关税务优惠(tax-deductible under IRC Section 170)
 
 活动对大众免费开放
 
@@ -36,12 +42,14 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
 ## 感谢下列已经[报名](https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=0&w=1)的个人团体，排序不分先后：
 
+#### 名单将会保留到下一届联展
+
 ### 艺术家联展
 
 画家李铁 [www.litiefineart.com](http://www.litiefineart.com/)
 
 ### 商家联展
 
-#### 展位如有商品买卖，需准备一份买卖许可证(Seller’s Permit)影印本，以便现场税务局人员随时巡查。若无买卖许可证，可向当地税务机构免费申请临时买卖许可证。对於任何售卖、提供试吃、烹饪食物的商家来说，必备保险证明和卫生许可影印本，
+#### 展位如有商品买卖（本届联展将不包括烹饪食物），需准备一份买卖许可证(Seller’s Permit)影印本，以便现场税务局人员随时巡查。若无买卖许可证，可向当地税务机构免费申请临时买卖许可证。
 
 ### 教育联展
