@@ -45,7 +45,7 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
 画家李铁 [www.litiefineart.com](http://www.litiefineart.com/)
 
-画家白川 [白川苏州工作室](https://www.youtube.com/watch?v=4RH2olJQZGI)
+画家白川 白川苏州工作室 [油画神韵- YouTube](https://youtu.be/xvxIl7WbMKI) [水墨气韵- YouTube](https://www.youtube.com/watch?v=4RH2olJQZGI)
 
 ### 商家联展
 
