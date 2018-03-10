@@ -52,3 +52,5 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 ### 教育联展
 
 [俄勒冈希望中文学校](www.oregon-hope.org)
+
+[好时光中文学校](http://www.goodtimechineseschool.org/)
