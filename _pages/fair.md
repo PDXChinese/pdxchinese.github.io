@@ -41,15 +41,15 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
 名单包括个人或团体名字及网站信息，将会保留到下一届联展。
 
-### 艺术家联展
+### -- 艺术家联展 --
 
 [画家李铁](http://www.litiefineart.com/) He works primarily in charcoal, oil and mixed media and his favorite subjects are human faces, history, culture, and nature.
 
 画家白川 白川苏州工作室 [油画神韵- YouTube](https://youtu.be/xvxIl7WbMKI) [水墨气韵- YouTube](https://www.youtube.com/watch?v=4RH2olJQZGI)
 
-### 商家联展
+### -- 商家联展 --
 
-### 教育联展
+### -- 教育联展 --
 
 [俄勒冈希望中文学校](http://www.oregon-hope.org) Our mission is to teach the community about Chinese language, culture, and heritage.
 
