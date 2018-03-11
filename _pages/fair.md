@@ -45,7 +45,7 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
 [画家李铁](http://www.litiefineart.com/) He works primarily in charcoal, oil and mixed media and his favorite subjects are human faces, history, culture, and nature.
 
-画家白川 白川苏州工作室 [油画神韵- YouTube](https://youtu.be/xvxIl7WbMKI) [水墨气韵- YouTube](https://www.youtube.com/watch?v=4RH2olJQZGI)
+画家白川 白川苏州工作室 华人艺术家带来水墨气韵，彰显孔子学院文化魅力。[油画神韵- YouTube](https://youtu.be/xvxIl7WbMKI) [水墨气韵- YouTube](https://www.youtube.com/watch?v=4RH2olJQZGI) 
 
 ### -- 商家联展 --
 
