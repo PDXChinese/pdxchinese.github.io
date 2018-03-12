@@ -13,22 +13,6 @@ For more complete event schedule, please click on [Shared Community Calendar](ht
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
-## 面对社区中学生组织的Day Camp at Shriners Hospital for Children
-
-Date: Sun, March 11
-
-Time: 10:00am – 1:30pm
-
-Place: Shriners Hospitals for Children, 3101 SW Sam Jackson Park Rd, Portland, OR 97239
-
-Capacity：30
-
-Topic：Hospital Tour with Presentation and Workshop on Application of Motion Analysis in Pediatric Orthopedics
-
-报名已经截至
-
-![]({{ site.url }}/assets/images/divider.jpg)
-
 ## Group Volunteering Opportunities at Oregon Food Bank
 
 Dates： March 17, 2018；April 14, 2018；May 19，2018；June 9，2018
