@@ -27,6 +27,8 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
 俄勒冈州中国艺术家协会
 
+[Spark Technology Education](http://sparkteched.org)
+
 ## 感谢下列已经[报名](https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=0&w=1)的和被接受的个人及团体，排序不分先后：
 
 名单包括个人或团体名字及网站信息，将会保留到下一届联展。
@@ -47,8 +49,10 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
 [俄勒冈希望中文学校](http://www.oregon-hope.org) Our mission is to teach the community about Chinese language, culture, and heritage.
 
-[好时光中文学校](http://www.goodtimechineseschool.org/) 愿好时光中文学校是孩子们童年时最美好的一段记忆，
-是学习感受中国语言文化的最难忘的一段经历。
+[好时光中文学校](http://www.goodtimechineseschool.org/) 愿好时光中文学校是孩子们童年时最美好的一段记忆，是学习感受中国语言文化的最难忘的一段经历。
+
+[Spark Technology Education](http://sparkteched.org/) Connect students to Robotics programs, and bring in local professionals as mentors to provide quality instruction.
+
 
 ## 公共区域讲座和演出安排，按照时间排序：
 
