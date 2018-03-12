@@ -39,9 +39,9 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
 ### -- 商家联展 --
 
-James Tang 唐英信 Key Bank Mortgage 房屋贷款专员 认真负责，为您的房屋贷款需要服务。
+[James Tang 唐英信](mailto:james_tang@keybank.com) Key Bank Mortgage 房屋贷款专员 认真负责，为您的房屋贷款需要服务。
 
-[Yiling Hu](mailto:jenny@bambooloan.com) Bamboo Mortgage 提供房屋贷款服务 
+[Yiling Hu](mailto:jenny@bambooloan.com) Bamboo Mortgage 提供房屋贷款服务
 
 ### -- 教育联展 --
 
