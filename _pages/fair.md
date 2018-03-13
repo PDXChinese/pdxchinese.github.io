@@ -51,6 +51,8 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
 [Ying Chen](Ychen18@ft.newyorklife.com) @ [New York Life](http://www.newyorklife.com) 为您提供高质量的财务计划
 
+[Wooster Wu]() @ Wooster Realty Group(http://woosterrealty.com/) 欢迎洽谈询问我们小吴之家团队
+
 ### -- 教育联展 --
 
 [俄勒冈希望中文学校](http://www.oregon-hope.org) Our mission is to teach the community about Chinese language, culture, and heritage.
@@ -58,6 +60,8 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 [好时光中文学校](http://www.goodtimechineseschool.org/) 愿好时光中文学校是孩子们童年时最美好的一段记忆，是学习感受中国语言文化的最难忘的一段经历。
 
 [Spark Technology Education](http://sparkteched.org/) Connect students to Robotics programs, and bring in local professionals as mentors to provide quality instruction.
+
+[李氏公所舞龙醒狮功夫培训班](http://www.leeondong.org/) 为丰富华人社区生活画龙点睛
 
 
 ## 公共区域讲座和演出安排，按照时间排序：
