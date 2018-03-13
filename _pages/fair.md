@@ -3,9 +3,10 @@ title: "波特兰华人社区艺术商业教育联展"
 permalink: /fair/
 ---
 
-# Portland Chinese Community Fair -- Arts, Commerce & Education
+# Portland Chinese Community Fair
 
 English version flyer: [2018 Chinese Community Fair](/assets/pdf/2018_Chinese_Communtiy_Fair.pdf)
+
 To register: please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=0&w=1)
 
 ### 时间：
