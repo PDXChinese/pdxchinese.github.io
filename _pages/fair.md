@@ -17,8 +17,6 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
 ![]({{ site.url }}/assets/images/fair_fee2018.jpg)
 
-参展付费视为给OCC捐款，可以依照网页[pdxchinese.org/communityfund/](http://pdxchinese.org/communityfund/)上的捐款方式。报名费将享有给非营利组织捐款的相关税务优惠(tax-deductible under IRC Section 170)。
-
 现场会给参展的个人或团体提供免费上网和电源
 
 ## 活动对大众免费开放
