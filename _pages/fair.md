@@ -3,6 +3,11 @@ title: "波特兰华人社区艺术商业教育联展"
 permalink: /fair/
 ---
 
+# Portland Chinese Community Fair -- Arts, Commerce & Education
+
+English version flyer: [2018 Chinese Community Fair](/assets/pdf/2018_Chinese_Communtiy_Fair.pdf)
+To register: please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=0&w=1)
+
 ### 时间：
 
 2018年4月14日，星期六，上午11点-下午4点
@@ -41,7 +46,9 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
 [James Tang 唐英信](mailto:james_tang@keybank.com) Key Bank Mortgage 房屋贷款专员 认真负责，为您的房屋贷款需要服务。
 
-[Yiling Hu](mailto:jenny@bambooloan.com) Bamboo Mortgage 提供房屋贷款服务
+[Yiling Hu](mailto:jenny@bambooloan.com) Bamboo Mortgage 尽心竭力为您提供房屋贷款服务
+
+[Ying Chen](Ychen18@ft.newyorklife.com) [New York Life](http://www.newyorklife.com) 为您提供高质量的财务计划
 
 ### -- 教育联展 --
 
