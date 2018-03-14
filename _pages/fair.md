@@ -85,9 +85,9 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | :musical_note: 集体朗诵《三字经》 | 50名幼儿班和小学生 | [俄勒冈希望中文学校](http://www.oregon-hope.org) | 1:00 pm |
 | :microphone: ||| 1:20 pm |
 | :musical_note: ||| 2:00 pm |
-| :microphone: Bilingual Education/关于双语教育 | Yanzhuo Zhou | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:20 pm |
+| :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:20 pm |
 | :musical_note: ||| 3:00 pm |
-| :microphone: 高中生课余活动案例分析 | 西北兆 | Retired students' parent | 3:20 pm |
+| :microphone: 高中生课余活动案例分析 | 西北兆 | Retired parent | 3:20 pm |
 
 ## 抽奖，每次演出过后
 
