@@ -80,16 +80,16 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 | Topic/讲座题目 |  演出 Speaker/主讲人 | Organization/机构 | Time/时间 |
 | --- | --- | --- | ---: |
-| Lion Dance| Dragon & Lion Dance Team | [Lee's Association](http://www.leeondong.org/) | 11:00 am |
-| Real estate investment: first time buyer F&Q | George Wu| [Wooster Realty Group](http://woosterrealty.com) | 11:20 am |
-| 演出 ||| 12:00 pm |
-| 讲座 ||| 12:20 am |
-| 集体朗诵《三字经》 | 50名学生 | [俄勒冈希望中文学校](http://www.oregon-hope.org) | 1:00 pm |
-| 讲座 ||| 1:20 pm |
-| 演出 ||| 2:00 pm |
-| Bilingual Education/关于双语教育 | Yanzhuo Zhou | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:20 pm |
-| 演出 ||| 3:00 pm |
-| 讲座 ||| 3:20 pm |
+| :musical_note: Lion Dance/醒狮开场| Dragon & Lion Dance Team | [Lee's Association](http://www.leeondong.org/) | 11:00 am |
+| :microphone: Real estate investment: first time buyer F&Q | George Wu| [Wooster Realty Group](http://woosterrealty.com) | 11:20 am |
+| :musical_note: ||| 12:00 pm |
+| :microphone: ||| 12:20 am |
+| :musical_note: 集体朗诵《三字经》 | 50名学生 | [俄勒冈希望中文学校](http://www.oregon-hope.org) | 1:00 pm |
+| :microphone: ||| 1:20 pm |
+| :musical_note: ||| 2:00 pm |
+| :microphone: Bilingual Education/关于双语教育 | Yanzhuo Zhou | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:20 pm |
+| :musical_note: ||| 3:00 pm |
+| :microphone: ||| 3:20 pm |
 
 ## 抽奖，每次演出过后
 
@@ -99,6 +99,7 @@ Nike Employee Store Passes (5), more to be added...
 
 | Topic/讲座题目 | Speaker/主讲人 | Organization/机构 | Time/时间 |
 | --- | --- | --- | --- |
+| | | | |
 
 ## 感谢联展赞助团体
 
