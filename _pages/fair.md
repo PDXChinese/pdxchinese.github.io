@@ -64,7 +64,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 [Ying Chen](Ychen18@ft.newyorklife.com) @ [New York Life](http://www.newyorklife.com) 为您提供高质量的财务计划
 
-[Wooster Wu](office@woosterrealty.com) @ [Wooster Realty Group](http://woosterrealty.com/) 欢迎洽谈询问我们小吴之家团队
+[Wooster Wu](office@woosterrealty.com) @ [Wooster Realty Group](http://woosterrealty.com/) Real Estate Investment.  Your Home, Our Passion.
 
 ### -- 教育联展 --
 
