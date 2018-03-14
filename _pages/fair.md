@@ -101,4 +101,4 @@ Nike Employee Store Passes (5), Luxury Sport Racks, more to be added...
 
 ## 感谢联展赞助团体
 
-![]({{ site.url }}/assets/images/fair_sponsor2.jpg)
+![]({{ site.url }}/assets/images/fair_sponsor.jpg)
