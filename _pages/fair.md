@@ -32,6 +32,8 @@ Fee in parentheses is the discounted for early registration before 4/1/2018.
 
 现场会给参展的个人或团体提供免费上网和电源
 
+[展会现场布置示意图](/assets/pdf/fair_map_2018)
+
 ## 竭诚欢迎赞助商
 
 $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze Sponsor
