@@ -64,7 +64,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 [Ying Chen](Ychen18@ft.newyorklife.com) @ [New York Life](http://www.newyorklife.com) 为您提供高质量的财务计划
 
-[Wooster Wu](office@woosterrealty.com) @ [Wooster Realty Group](http://woosterrealty.com/) Real Estate Investment.  Your Home, Our Passion.
+[George Wu](office@woosterrealty.com) @ [Wooster Realty Group](http://woosterrealty.com/) Real Estate Investment. Your Home, Our Passion.
 
 ### -- 教育联展 --
 
@@ -81,13 +81,13 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | Topic/讲座题目 |  演出 Speaker/主讲人 | Organization/机构 | Time/时间 |
 | --- | --- | --- | ---: |
 | Lion Dance| Dragon & Lion Dance Team | [Lee's Association](http://www.leeondong.org/) | 11:00 am |
-| 讲座 ||| 11:20 am |
+| Real estate investment: first time buyer F&Q | George Wu| [Wooster Realty Group](http://woosterrealty.com) | 11:20 am |
 | 演出 ||| 12:00 pm |
 | 讲座 ||| 12:20 am |
 | 集体朗诵《三字经》 | 50名学生 | [俄勒冈希望中文学校](http://www.oregon-hope.org) | 1:00 pm |
 | 讲座 ||| 1:20 pm |
 | 演出 ||| 2:00 pm |
-| 讲座 ||| 2:20 pm |
+| Bilingual Education/关于双语教育 | Yanzhuo Zhou | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:20 pm |
 | 演出 ||| 3:00 pm |
 | 讲座 ||| 3:20 pm |
 
@@ -99,7 +99,6 @@ Nike Employee Store Passes (5), more to be added...
 
 | Topic/讲座题目 | Speaker/主讲人 | Organization/机构 | Time/时间 |
 | --- | --- | --- | --- |
-| Bilingual Education/关于双语教育 | Yanzhuo Zhou | 好时光中文学校 | TBD |
 
 ## 感谢联展赞助团体
 
