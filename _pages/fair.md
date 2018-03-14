@@ -78,7 +78,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 ## 公共区域讲座和演出安排，按照时间排序：
 
-| Topic/讲座题目 |  演出 Speaker/主讲人 | Organization/机构 | Time/时间 |
+| Topic\讲座题目 |  Performer/Speaker\演员/主讲人 | Organization\机构 | Time\时间 |
 | --- | --- | --- | ---: |
 | :musical_note: Lion Dance/醒狮开场| Dragon & Lion Dance Team | [Lee's Association](http://www.leeondong.org/) | 11:00 am |
 | :microphone: Real estate investment: first time buyer F&Q | George Wu| [Wooster Realty Group](http://woosterrealty.com) | 11:20 am |
