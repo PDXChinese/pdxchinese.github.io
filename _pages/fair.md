@@ -53,7 +53,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 ### -- 艺术家联展 --
 
 | 艺术家 | 所属团体 | 专长 |
-| --- | --- | --- |
+| -------------- | --------------- | --- |
 | [画家李铁](http://www.litiefineart.com/) | | He works primarily in charcoal, oil and mixed media and his favorite subjects are human faces, history, culture, and nature. |
 | 画家白川 | 白川苏州工作室 | [油画神韵- YouTube](https://youtu.be/xvxIl7WbMKI) [水墨气韵- YouTube](https://www.youtube.com/watch?v=4RH2olJQZGI) |
 
