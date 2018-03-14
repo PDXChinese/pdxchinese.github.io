@@ -17,6 +17,10 @@ To register: please fill out the [registration form](https://docs.google.com/for
 
 Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
+### 背景
+
+请参见： [http://pdxchinese.org/community-fair-2018/](http://pdxchinese.org/community-fair-2018/)
+
 ## 参展个人团体报名方式
 
 希望参展的个人或团体，请填写[报名表](https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=0&w=1)。会基本上按照先报先得原则，但我们保留取舍权利。
