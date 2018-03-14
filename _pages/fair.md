@@ -5,7 +5,7 @@ permalink: /fair/
 
 # Portland Chinese Community Fair
 
-English version flyer: [2018 Chinese Community Fair](/assets/pdf/2018_Chinese_Communtiy_Fair.pdf)
+English version flyer: [2018 Chinese Community Fair](/assets/pdf/2018_Chinese_Communtiy_Fair2.pdf)
 
 To register: please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=0&w=1)
 
@@ -46,7 +46,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 俄勒冈州中国艺术家协会
 
-## 感谢下列已经报名的个人及团体，排序不分先后：
+# 感谢下列已经报名的个人及团体，排序不分先后：
 
 名单包括个人或团体名字及网站信息，将会保留到下一届联展。
 
