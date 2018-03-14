@@ -79,7 +79,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | Topic<br/>讲座题目 |  Performer/Speaker<br/>演员/主讲人 | Organization<br/>机构 | Time<br/>时间 |
 | --- | --- | --- | ---: |
 | :musical_note: Lion Dance/醒狮开场| Dragon & Lion Dance Team | [Lee's Association](http://www.leeondong.org/) | 11:00 am |
-| :microphone: Real estate investment: first time buyer F&Q | George Wu| [Wooster Realty Group](http://woosterrealty.com) | 11:20 am |
+| :microphone: First time home buyer FAQ | George Wu| [Wooster Realty Group](http://woosterrealty.com) | 11:20 am |
 | :musical_note: ||| 12:00 pm |
 | :microphone: ||| 12:20 am |
 | :musical_note: 集体朗诵《三字经》 | 50名幼儿班和小学生 | [俄勒冈希望中文学校](http://www.oregon-hope.org) | 1:00 pm |
