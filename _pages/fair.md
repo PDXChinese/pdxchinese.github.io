@@ -28,7 +28,7 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 | College Preparatory Programs/升学辅导 | $299($249) | n/a |
 | Commercial Vendors/商户 | $299($249) | $399($349) |
 
-Fee in parentheses is the discounted for early registration before 4/1/2018.
+Discounted fees in parentheses are for early registration before 4/1/2018.
 
 现场会给参展的个人或团体提供免费上网和电源
 
