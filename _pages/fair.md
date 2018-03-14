@@ -69,7 +69,6 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 [李氏公所舞龙醒狮功夫培训班](http://www.leeondong.org/) 为丰富华人社区生活画龙点睛
 
-
 ## 公共区域讲座和演出安排，按照时间排序：
 
 TBD
@@ -77,3 +76,7 @@ TBD
 ## 小会议室讲座安排，按照时间排序：
 
 ![]({{ site.url }}/assets/images/fair_private.jpg)
+
+## 感谢2018社区联展赞助商
+
+![]({{ site.url }}/assets/images/fair_sponsor.jpg)
