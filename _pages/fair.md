@@ -75,6 +75,11 @@ TBD
 
 ![]({{ site.url }}/assets/images/fair_private.jpg)
 
+| Topic/讲座题目 | Speaker/主讲人 | Organization/机构 | Time/时间 |
+| --- | --- | --- | --- |
+| Bilingual Education/关于双语教育 | Yanzhuo Zhou | 好时光中文学校 | TBD |
+
+
 ## 感谢联展赞助团体
 
 ![]({{ site.url }}/assets/images/fair_sponsor.jpg)
