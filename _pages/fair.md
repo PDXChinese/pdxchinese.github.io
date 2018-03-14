@@ -77,6 +77,6 @@ TBD
 
 ![]({{ site.url }}/assets/images/fair_private.jpg)
 
-## 感谢2018社区联展赞助商
+## 感谢2018社区联展赞助团体
 
 ![]({{ site.url }}/assets/images/fair_sponsor.jpg)
