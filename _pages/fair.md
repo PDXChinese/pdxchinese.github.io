@@ -25,6 +25,15 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
 现场会给参展的个人或团体提供免费上网和电源
 
+## 竭诚欢迎赞助商
+
+$2,000 Platinum Sponsor
+$1,000 Gold Sponsor
+$500 Silver Sponsor
+$250 Bronze Sponsor
+
+名字会放在OCC网站，在联展现场展示，包含免费展位。
+
 ## 活动对大众免费开放
 
 ## 感谢下列现有协办单位，排序不分先后：
