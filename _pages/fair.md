@@ -42,7 +42,7 @@ Discounted fees in parentheses are for early registration before 4/1/2018.
 
 $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze Sponsor
 
-名字和Logo会放在OCC网站，在联展现场展示，包含免费展位。
+名字和Logo会放在OCC网站，在联展现场展示，包含免费展位给Silver, Gold and Platinum赞助商。
 
 ## 活动对大众免费开放
 
