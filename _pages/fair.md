@@ -5,7 +5,7 @@ permalink: /fair/
 
 # Portland Chinese Community Fair
 
-English version flyer: [2018 Chinese Community Fair](/assets/pdf/2018_Chinese_Communtiy_Fair2.pdf)
+English version flyer: [2018 Chinese Community Fair](/assets/pdf/2018_Chinese_Communtiy_Fair.pdf)
 
 To register: please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=0&w=1)
 
@@ -99,7 +99,7 @@ Nike Employee Store Passes (5), more to be added...
 
 | Topic/讲座题目 | Speaker/主讲人 | Organization/机构 | Time/时间 |
 | --- | --- | --- | --- |
-| | | | |
+| |
 
 ## 感谢联展赞助团体
 
