@@ -5,7 +5,7 @@ permalink: /fair/
 
 # Portland Chinese Community Fair
 
-English version flyer: [2018 Chinese Community Fair](/assets/pdf/2018_Chinese_Communtiy_Fair2.pdf)
+English version flyer: [2018 Chinese Community Fair](/assets/pdf/2018_Chinese_Communtiy_Fair.pdf)
 
 To register: please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=0&w=1)
 
@@ -95,7 +95,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | :musical_note: ||| 3:00 pm |
 | :microphone: 高中生课余活动案例分析 | 西北兆 | Retired Parent | 3:20 pm |
 
-## 抽奖，每次演出过后
+## 感谢慷慨的礼品捐赠者们，每个小时进行一次抽奖。
 
 Nike Employee Store Passes (5), Luxury Sport Racks, more to be added...
 
