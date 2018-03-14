@@ -26,7 +26,7 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 | Artist/艺术家 | $100 | n/a | $200 |
 | School, NPO, NGO/学校及非营利组织 | $150 | n/a | $200 |
 | College Preparatory Programs/升学辅导 | $299(249) | n/a | $200 |
-| Commercial Vendors/商户 | $299($249) | $399($349) |
+| Commercial Vendors/商户 | $299($249) | $399($349) | $200 |
 
 Fee in parentheses is the discounted for early registration before 4/1/2018.
 
@@ -52,9 +52,10 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 ### -- 艺术家联展 --
 
-[画家李铁](http://www.litiefineart.com/) He works primarily in charcoal, oil and mixed media and his favorite subjects are human faces, history, culture, and nature.
-
-画家白川 白川苏州工作室 华人艺术家带来水墨气韵，彰显孔子学院文化魅力。[油画神韵- YouTube](https://youtu.be/xvxIl7WbMKI) [水墨气韵- YouTube](https://www.youtube.com/watch?v=4RH2olJQZGI)
+| 艺术家 | 所属团体 | 专长 |
+| --- | --- | --- |
+| [画家李铁](http://www.litiefineart.com/) | | He works primarily in charcoal, oil and mixed media and his favorite subjects are human faces, history, culture, and nature. |
+| 画家白川 | 白川苏州工作室 | [油画神韵- YouTube](https://youtu.be/xvxIl7WbMKI) [水墨气韵- YouTube](https://www.youtube.com/watch?v=4RH2olJQZGI) |
 
 ### -- 商家联展 --
 
