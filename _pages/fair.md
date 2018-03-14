@@ -84,7 +84,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | :microphone: 华人家庭安全讲座 | George Wu| [Wooster Realty Group](http://woosterrealty.com) | 11:20 am |
 | :musical_note: ||| 12:00 pm |
 | :microphone: 波特兰私人商业投资要领 | Feng Xiao | Private Investor | 12:20 am |
-| :musical_note: 《三字经》 舞蹈 武术 | 学生 老师 家长 | [俄勒冈希望中文学校](http://www.oregon-hope.org) | 1:00 pm |
+| :musical_note: 《三字经》，舞蹈，武术 | 学生，老师，家长 | [俄勒冈希望中文学校](http://www.oregon-hope.org) | 1:00 pm |
 | :microphone: ||| 1:20 pm |
 | :musical_note: ||| 2:00 pm |
 | :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:20 pm |
