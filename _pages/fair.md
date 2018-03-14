@@ -25,7 +25,7 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 | --- | ---: | ---: |
 | Artist/艺术家 | $100 | n/a |
 | School, NPO, NGO/学校及非营利组织 | $150 | n/a |
-| College Preparatory Programs/升学辅导 | $299(249) | n/a |
+| College Preparatory Programs/升学辅导 | $299($249) | n/a |
 | Commercial Vendors/商户 | $299($249) | $399($349) |
 
 Fee in parentheses is the discounted for early registration before 4/1/2018.
@@ -64,7 +64,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 [Ying Chen](Ychen18@ft.newyorklife.com) @ [New York Life](http://www.newyorklife.com) 为您提供高质量的财务计划
 
-[George Wu](office@woosterrealty.com) @ [Wooster Realty Group](http://woosterrealty.com/) Real Estate Investment. Your Home, Our Passion.
+[George Wu](office@woosterrealty.com) @ [Wooster Realty Group](http://woosterrealty.com/) 小吴之家，为您提供专业商业/住房投资咨询及交易中介服务。
 
 ### -- 教育联展 --
 
@@ -84,12 +84,12 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | :microphone: 华人家庭安全讲座 | George Wu| [Wooster Realty Group](http://woosterrealty.com) | 11:20 am |
 | :musical_note: ||| 12:00 pm |
 | :microphone: 波特兰私人商业投资要领 | Feng Xiao | Private Investor | 12:20 am |
-| :musical_note: 集体朗诵《三字经》 | 50名幼儿班和小学生 | [俄勒冈希望中文学校](http://www.oregon-hope.org) | 1:00 pm |
+| :musical_note: 《三字经》 舞蹈 武术 | 学生 老师 家长 | [俄勒冈希望中文学校](http://www.oregon-hope.org) | 1:00 pm |
 | :microphone: ||| 1:20 pm |
 | :musical_note: ||| 2:00 pm |
 | :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:20 pm |
 | :musical_note: ||| 3:00 pm |
-| :microphone: 高中生课余活动案例分析 | 西北兆 | Retired parent | 3:20 pm |
+| :microphone: 高中生课余活动案例分析 | 西北兆 | Retired Parent | 3:20 pm |
 
 ## 抽奖，每次演出过后
 
