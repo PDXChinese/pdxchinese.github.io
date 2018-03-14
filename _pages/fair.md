@@ -21,7 +21,16 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
 希望参展的个人或团体，请填写[报名表](https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=0&w=1)。会基本上按照先报先得原则，但我们保留取舍权利。
 
-![]({{ site.url }}/assets/images/fair_fee2018.jpg)
+|Type of Vendors/参展类别 | 6' Table/6尺展台 | 8' Table/8尺展台 | Presentation/讲座 |
+| --- | ---: | ---: | ---: |
+| Artist/艺术家 | $100 | n/a | $200 |
+| School, NPO, NGO/学校及非营利组织 | $150 | n/a | $200 |
+| College Preparatory Programs/升学辅导 | $299(249) | n/a | $200 |
+| Commercial Vendors/商户 | $299($249) | $399($349) |
+
+Fee in parentheses is the discounted for early registration before 4/1/2018.
+
+Presentation will be held in adjacent conference room with capacity of 70 persons. 50 minutes each.
 
 现场会给参展的个人或团体提供免费上网和电源
 
@@ -72,8 +81,6 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 TBD
 
 ## 小会议室讲座安排，按照时间排序：
-
-![]({{ site.url }}/assets/images/fair_private.jpg)
 
 | Topic/讲座题目 | Speaker/主讲人 | Organization/机构 | Time/时间 |
 | --- | --- | --- | --- |
