@@ -60,7 +60,7 @@ $250 Bronze Sponsor
 
 [Ying Chen](Ychen18@ft.newyorklife.com) @ [New York Life](http://www.newyorklife.com) 为您提供高质量的财务计划
 
-[Wooster Wu]() @ Wooster Realty Group(http://woosterrealty.com/) 欢迎洽谈询问我们小吴之家团队
+[Wooster Wu]() @ [Wooster Realty Group](http://woosterrealty.com/) 欢迎洽谈询问我们小吴之家团队
 
 ### -- 教育联展 --
 
