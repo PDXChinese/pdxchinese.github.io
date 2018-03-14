@@ -93,7 +93,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 ## 抽奖，每次演出过后
 
-Nike Employee Store Passes (5), more to be added...
+Nike Employee Store Passes (5), Luxury Sport Racks, more to be added...
 
 ## 感谢联展赞助团体
 
