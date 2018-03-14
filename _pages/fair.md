@@ -78,7 +78,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 [Spark Technology Education](http://sparkteched.org/) Connect students to Robotics programs, and bring in local professionals as mentors to provide quality instruction.
 
-[李氏公所舞龙醒狮功夫培训班](http://www.leeondong.org/) 为丰富华人社区生活画龙点睛
+**[李氏公所舞龙醒狮功夫培训班](http://www.leeondong.org/)** 为丰富华人社区生活画龙点睛
 
 ## 公共区域讲座和演出安排，按照时间排序：
 
@@ -90,7 +90,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | :microphone: 波特兰私人商业投资要领 | Feng Xiao | Private Investor | 12:20 am |
 | :musical_note: 《三字经》，舞蹈，武术 | 学生，老师，家长 | [俄勒冈希望中文学校](http://www.oregon-hope.org) | 1:00 pm |
 | :microphone: ||| 1:20 pm |
-| :musical_note: ||| 2:00 pm |
+| :musical_note: 舞蹈 | 学生 | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:00 pm |
 | :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:20 pm |
 | :musical_note: ||| 3:00 pm |
 | :microphone: 高中生课余活动案例分析 | 西北兆 | Retired Parent | 3:20 pm |
