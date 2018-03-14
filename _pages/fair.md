@@ -56,29 +56,29 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 ### -- 艺术家联展 --
 
-[画家李铁](http://www.litiefineart.com/) He works primarily in charcoal, oil and mixed media and his favorite subjects are human faces, history, culture, and nature.
+**[画家李铁](http://www.litiefineart.com/)** *He works primarily in charcoal, oil and mixed media and his favorite subjects are human faces, history, culture, and nature.*
 
-画家白川 白川苏州工作室 [油画神韵- YouTube](https://youtu.be/xvxIl7WbMKI) [水墨气韵- YouTube](https://www.youtube.com/watch?v=4RH2olJQZGI)
+**画家白川** 白川苏州工作室 *[油画神韵- YouTube](https://youtu.be/xvxIl7WbMKI) [水墨气韵- YouTube](https://www.youtube.com/watch?v=4RH2olJQZGI)*
 
 ### -- 商家联展 --
 
-[James Tang 唐英信](mailto:james_tang@keybank.com) @ Key Bank Mortgage 房屋贷款专员 认真负责，为您的房屋贷款需要服务。
+**[James Tang 唐英信](mailto:james_tang@keybank.com)** @ Key Bank Mortgage *房屋贷款专员 认真负责，为您的房屋贷款需要服务。*
 
-[Yiling Hu](mailto:jenny@bambooloan.com) @ Bamboo Mortgage 尽心竭力为您提供房屋贷款服务
+**[Yiling Hu](mailto:jenny@bambooloan.com)** @ Bamboo Mortgage *尽心竭力为您提供房屋贷款服务*
 
-[Ying Chen](Ychen18@ft.newyorklife.com) @ [New York Life](http://www.newyorklife.com) 为您提供高质量的财务计划
+**[Ying Chen](Ychen18@ft.newyorklife.com)** @ [New York Life](http://www.newyorklife.com) *为您提供高质量的财务计划*
 
-[George Wu](office@woosterrealty.com) @ [Wooster Realty Group](http://woosterrealty.com/) 小吴之家，为您提供专业商业/住房投资咨询及交易中介服务。
+**[George Wu](office@woosterrealty.com)** @ [Wooster Realty Group](http://woosterrealty.com/) *小吴之家，为您提供专业商业/住房投资咨询及交易中介服务。*
 
 ### -- 教育联展 --
 
-[俄勒冈希望中文学校](http://www.oregon-hope.org) Our mission is to teach the community about Chinese language, culture, and heritage.
+**[俄勒冈希望中文学校](http://www.oregon-hope.org)** *Our mission is to teach the community about Chinese language, culture, and heritage.*
 
-[好时光中文学校](http://www.goodtimechineseschool.org/) 愿好时光中文学校是孩子们童年时最美好的一段记忆，是学习感受中国语言文化的最难忘的一段经历。
+**[好时光中文学校](http://www.goodtimechineseschool.org/)** *愿好时光中文学校是孩子们童年时最美好的一段记忆，是学习感受中国语言文化的最难忘的一段经历。*
 
-[Spark Technology Education](http://sparkteched.org/) Connect students to Robotics programs, and bring in local professionals as mentors to provide quality instruction.
+**[Spark Technology Education](http://sparkteched.org/)** *Connect students to Robotics programs, and bring in local professionals as mentors to provide quality instruction.*
 
-**[李氏公所舞龙醒狮功夫培训班](http://www.leeondong.org/)** 为丰富华人社区生活画龙点睛
+**[李氏公所舞龙醒狮功夫培训班](http://www.leeondong.org/)** *为丰富华人社区生活画龙点睛*
 
 ## 公共区域讲座和演出安排，按照时间排序：
 
@@ -88,9 +88,9 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | :microphone: 华人家庭安全讲座 | George Wu| [Wooster Realty Group](http://woosterrealty.com) | 11:20 am |
 | :musical_note: ||| 12:00 pm |
 | :microphone: 波特兰私人商业投资要领 | Feng Xiao | Private Investor | 12:20 am |
-| :musical_note: 《三字经》，舞蹈，武术 | 学生，老师，家长 | [俄勒冈希望中文学校](http://www.oregon-hope.org) | 1:00 pm |
+| :musical_note: 《三字经》、舞蹈、武术 | 学生、老师、家长 | [俄勒冈希望中文学校](http://www.oregon-hope.org) | 1:00 pm |
 | :microphone: ||| 1:20 pm |
-| :musical_note: 舞蹈 | 学生 | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:00 pm |
+| :musical_note: 十二生肖、声律启蒙、舞蹈 | 学前班学生 | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:00 pm |
 | :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:20 pm |
 | :musical_note: ||| 3:00 pm |
 | :microphone: 高中生课余活动案例分析 | 西北兆 | Retired Parent | 3:20 pm |
