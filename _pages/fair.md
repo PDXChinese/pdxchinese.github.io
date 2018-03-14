@@ -84,7 +84,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | :microphone: Real estate investment: first time buyer F&Q | George Wu| [Wooster Realty Group](http://woosterrealty.com) | 11:20 am |
 | :musical_note: ||| 12:00 pm |
 | :microphone: ||| 12:20 am |
-| :musical_note: 集体朗诵《三字经》 | 50名学生 | [俄勒冈希望中文学校](http://www.oregon-hope.org) | 1:00 pm |
+| :musical_note: 集体朗诵《三字经》 | 50名幼儿班和小学生 | [俄勒冈希望中文学校](http://www.oregon-hope.org) | 1:00 pm |
 | :microphone: ||| 1:20 pm |
 | :musical_note: ||| 2:00 pm |
 | :microphone: Bilingual Education/关于双语教育 | Yanzhuo Zhou | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:20 pm |
