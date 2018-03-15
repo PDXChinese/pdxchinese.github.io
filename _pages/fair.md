@@ -97,7 +97,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 ## 感谢慷慨的礼品捐赠者们，每个小时进行一次抽奖。
 
-Nike Employee Store Passes (5), Luxury Sport Racks ([image1](/assets/images/d1f00a79d3d155afca2ada62184f5eeb.jpg), [image2](/assets/images/b9d71135aa85d10d84706901727d6337.jpg)), more to be added...
+Nike Employee Store Passes (5), Luxury Sport Racks [image1](/assets/images/d1f00a79d3d155afca2ada62184f5eeb.jpg)  [image2](/assets/images/b9d71135aa85d10d84706901727d6337.jpg), more to be added...
 
 ## 感谢联展赞助团体
 
