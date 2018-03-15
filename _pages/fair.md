@@ -25,6 +25,8 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
 西北兆，项小柔 Faye，凡草，孔敏，淼莲
 
+欢迎微信联系每位组委会成员，电话：503-709-3119，Email：hzhao@pdxchinese.org
+
 ## 参展个人团体报名方式
 
 希望参展的个人或团体，请填写[报名表](https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=0&w=1)。会基本上按照先报先得原则，但我们保留取舍权利。
