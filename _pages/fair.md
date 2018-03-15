@@ -23,7 +23,7 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
 ### 组委会
 
-西北兆 | 项小柔 Faye | 凡草 | 孔敏 | 淼莲
+西北兆，项小柔 Faye，凡草，孔敏，淼莲
 
 ## 参展个人团体报名方式
 
