@@ -86,7 +86,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[李氏公所舞龙醒狮功夫培训班](http://www.leeondong.org/)** 为丰富华人社区生活画龙点睛
 
-**[西北中文书院](http://nwchineseacademy.org/)** 我们为能够将学生培养成具有责任感、应变能力、勇于探索和精通多国语言的世界公民而引以为豪。
+**[西北中文书院](http://nwchineseacademy.org/)** We create confident and critical thinking global citizens through an innovative full-time Mandarin immersion program.
 
 ## 公共区域讲座和演出安排，按照时间排序：
 
