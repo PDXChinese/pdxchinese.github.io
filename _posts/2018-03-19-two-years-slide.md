@@ -11,7 +11,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  16:07
 
-OCC主导下的社区公益已经进入了第三个年头，为了配合周末的讲座，特意把过去两年活动的照片整理出来，只做成了一个MP4文件。现在放在了Google Drive上，链接是：
+OCC主导下的社区公益已经进入了第三个年头，为了配合周末的讲座，特意把过去两年活动的照片整理出来，制作成了一个MP4文件。现在放在了Google Drive上，链接是：
 
 [https://drive.google.com/file/d/1jjXz5Su3S0YCKXwV2cycF3NkcOPhYie7/view](https://drive.google.com/file/d/1jjXz5Su3S0YCKXwV2cycF3NkcOPhYie7/view)
 
