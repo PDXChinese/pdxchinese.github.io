@@ -31,6 +31,6 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 为了鼓励大家的广泛参与，我们绞尽脑汁想把这个联展办得红红火火。在以后的几天里，我会慢慢给大家介绍准备的情况。
 
-想一步到位，直接报名的话，这是报名链接： https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=0&w=1
+想一步到位，直接报名的话，这是报名[链接](https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=0&w=1)
 
-另外，我们OCC的官方脸书账户有了一个新的链接，欢迎大家前往加注好友，方便及时了解OCC和社区动向： https://www.facebook.com/Oregon-Chinese-Coalition-568850810154157/
+另外，我们OCC的官方脸书账户有了一个[新的住址](https://www.facebook.com/Oregon-Chinese-Coalition-568850810154157/)，欢迎大家前往加注好友，方便及时了解OCC和社区动向。
