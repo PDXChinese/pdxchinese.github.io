@@ -72,9 +72,11 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[Yiling Hu](mailto:jenny@bambooloan.com)** @ Bamboo Mortgage 尽心竭力为您提供房屋贷款服务
 
-**[Ying Chen](Ychen18@ft.newyorklife.com)** @ [New York Life](http://www.newyorklife.com) 为您提供高质量的财务计划
+**[Ying Chen](mailto:Ychen18@ft.newyorklife.com)** @ [New York Life](http://www.newyorklife.com) 为您提供高质量的财务计划
 
-**[George Wu](office@woosterrealty.com)** @ [Wooster Realty Group](http://woosterrealty.com/) 小吴之家，为您提供专业商业/住房投资咨询及交易中介服务。
+**[George Wu](mailto:office@woosterrealty.com)** @ [Wooster Realty Group](http://woosterrealty.com/) 小吴之家，为您提供专业商业/住房投资咨询及交易中介服务。
+
+**[Dr. Tracy Ouyang](mailto:drouyang@firstclassbraces.com) @ [Sylvan Orthodontics](http://www.firstclassbraces.com) 为您或您的孩子打造伴随其一生的美丽及健康的笑容！
 
 ### -- 教育联展 --
 
@@ -87,6 +89,8 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 **[李氏公所舞龙醒狮功夫培训班](http://www.leeondong.org/)** 为丰富华人社区生活画龙点睛
 
 **[西北中文书院](http://nwchineseacademy.org/)** We create confident and critical thinking global citizens through an innovative full-time Mandarin immersion program.
+
+**[Lan Su Chinese Garden](http://www.lansugarden.org)** Lan Su Chinese Garden is a member based nonprofit organization. Lan Su is a authentic Chinese garden built by our sister city Suzhou China.
 
 ## 公共区域讲座和演出安排，按照时间排序：
 
@@ -101,7 +105,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | :musical_note: 歌舞表演 |  | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:00 pm |
 | :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:20 pm |
 | :musical_note: ||| 3:00 pm |
-| :microphone: 高中生课余活动案例分析 | 西北兆 | Retired Parent | 3:20 pm |
+| :microphone: 小艺术家艺术创作大赛颁奖仪式 | 画家李铁 | 大赛组委会 | 3:20 pm |
 
 ## 感谢慷慨的礼品捐赠者们，每个小时进行一次抽奖。
 
