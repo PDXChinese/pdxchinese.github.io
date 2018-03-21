@@ -66,6 +66,8 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **画家白川** 白川苏州工作室 [油画神韵- YouTube](https://youtu.be/xvxIl7WbMKI) [水墨气韵- YouTube](https://www.youtube.com/watch?v=4RH2olJQZGI)
 
+**[画家Wayne Chin/陈永雄](mailto: waynestydio.vancouver@gmail.com)** Illustration Artist
+
 ### -- 商家联展 --
 
 **[James Tang 唐英信](mailto:james_tang@keybank.com)** @ Key Bank Mortgage 房屋贷款专员 认真负责，为您的房屋贷款需要服务。
