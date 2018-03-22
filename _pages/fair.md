@@ -80,6 +80,8 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[Dr. Tracy Ouyang](mailto:drouyang@firstclassbraces.com)** @ [Sylvan Orthodontics](http://www.firstclassbraces.com) 为您或您的孩子打造伴随其一生的美丽及健康的笑容！
 
+**[星岛都市报](http://uscitypost.com/index.html)** 《星岛日报》旗下周刊。免费在大波特兰地区发放。 
+
 ### -- 教育联展 --
 
 **[俄勒冈希望中文学校](http://www.oregon-hope.org)** Our mission is to teach the community about Chinese language, culture, and heritage.
@@ -92,7 +94,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[西北中文书院](http://nwchineseacademy.org/)** We create confident and critical thinking global citizens through an innovative full-time Mandarin immersion program.
 
-**[Lan Su Chinese Garden](http://www.lansugarden.org)** Lan Su Chinese Garden is a member based nonprofit organization. Lan Su is a authentic Chinese garden built by our sister city Suzhou China.
+**[澜苏园](http://www.lansugarden.org)** Lan Su Chinese Garden is a member based nonprofit organization. Lan Su is a authentic Chinese garden built by our sister city Suzhou China.
 
 ## 公共区域讲座和演出安排，按照时间排序：
 
