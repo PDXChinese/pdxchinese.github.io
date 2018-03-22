@@ -115,7 +115,15 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 ## 感谢慷慨的礼品捐赠者们，每个小时进行一次抽奖。
 
-Nike Employee Store Passes (5), 5/20 Stars on Ice tickets (4) ([image](/assets/images/cfdafad8bf7314691f7468ee79e894cb.jpg)), Luxury Sport Racks ([image1](/assets/images/d1f00a79d3d155afca2ada62184f5eeb.jpg), [image2](/assets/images/b9d71135aa85d10d84706901727d6337.jpg)), Reach Wheel Step ([image1](/assets/images/ReachWheelStep1.jpg),[image2](/assets/images/ReachWheelStep2.jpg),[image3](/assets/images/ReachWheelStep3.jpg)), more to be added...
+Nike Employee Store Passes x 5
+
+5/20 Stars on Ice tickets x 4 ([image](/assets/images/cfdafad8bf7314691f7468ee79e894cb.jpg))
+
+Luxury Sport Racks x 3 ([image1](/assets/images/d1f00a79d3d155afca2ada62184f5eeb.jpg), [image2](/assets/images/b9d71135aa85d10d84706901727d6337.jpg))
+
+Reach Wheel Step x 5 ([image1](/assets/images/ReachWheelStep1.jpg),[image2](/assets/images/ReachWheelStep2.jpg),[image3](/assets/images/ReachWheelStep3.jpg))
+
+more to be added...
 
 ## 感谢联展赞助团体
 
