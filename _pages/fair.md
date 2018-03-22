@@ -82,6 +82,8 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[Song Chen](mailto:sondy.furniture@gmail.com)** @ [Sondy Furniture](http://SondyFurniture.com) 因为爱家，所以爱家具。
 
+**[陈氏厨房](http://portlandchinskitchen.com/)** 让二姐用东北美食招待四方来客
+
 **[星岛都市报](http://uscitypost.com/index.html)** 《星岛日报》旗下周刊。免费在大波特兰地区发放。
 
 ### -- 教育联展 --
