@@ -80,7 +80,9 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[Dr. Tracy Ouyang](mailto:drouyang@firstclassbraces.com)** @ [Sylvan Orthodontics](http://www.firstclassbraces.com) 为您或您的孩子打造伴随其一生的美丽及健康的笑容！
 
-**[星岛都市报](http://uscitypost.com/index.html)** 《星岛日报》旗下周刊。免费在大波特兰地区发放。 
+**[Song Chen](mailto:sondy.furniture@gmail.com)** @ [Sondy Furniture](http://SondyFurniture.com) 因为爱家，所以爱家具。
+
+**[星岛都市报](http://uscitypost.com/index.html)** 《星岛日报》旗下周刊。免费在大波特兰地区发放。
 
 ### -- 教育联展 --
 
