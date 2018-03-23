@@ -1,7 +1,7 @@
 ---
 title: "OCC公益活动两周年照片集锦"
 author: XiBei Zhao
-excerpt: "OCC主导下的社区公益已经进入了第三个年头，为了配合周末的讲座，特意把过去两年活动的照片整理出来，只做成了一个MP4文件。没有来得及配上背景音乐，只是基本上按照时间顺序做了编排。在这七八个小时时间里，除了做着重复性的clicking动作，倒是有了时间再次温习照片上呈现的活动场景，脑子里面浮现出的则是背后的故事。"
+excerpt: "OCC主导和参与下的社区公益已经进入了第三个年头，为了配合周末的讲座，特意把过去两年活动的照片整理出来，只做成了一个MP4文件。没有来得及配上背景音乐，只是基本上按照时间顺序做了编排。在这七八个小时时间里，除了做着重复性的clicking动作，倒是有了时间再次温习照片上呈现的活动场景，脑子里面浮现出的则是背后的故事。"
 date: "2018-03-19"
 ---
 
@@ -11,7 +11,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  16:07
 
-OCC主导下的社区公益已经进入了第三个年头，为了配合周末的讲座，特意把过去两年活动的照片整理出来，制作成了一个MP4文件。现在放在了Google Drive上，链接是：
+OCC主导和参与下的社区公益已经进入了第三个年头，为了配合周末的讲座，特意把过去两年活动的照片整理出来，制作成了一个MP4文件。现在放在了Google Drive上，链接是：
 
 [https://drive.google.com/file/d/1jjXz5Su3S0YCKXwV2cycF3NkcOPhYie7/view](https://drive.google.com/file/d/1jjXz5Su3S0YCKXwV2cycF3NkcOPhYie7/view)
 
