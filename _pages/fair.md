@@ -117,6 +117,14 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | :musical_note: ||| 3:00 pm |
 | :microphone: 小艺术家艺术创作大赛颁奖仪式 | 画家李铁 | 大赛组委会 | 3:20 pm |
 
+## 小艺术家艺术作品展示/Community Fair Youth Art Showcase
+
+为了发掘社区的小艺术家，给小艺术家们一个展示作品的舞台，OCC特别在《艺术商业教育联展》上开辟专门区域，展示小艺术家艺术创作。
+
+创作主题：春来了
+
+参与方式：各位小艺术家根据主题自由创作，只要表现出春意，题材和表现方式不限，4月14日当天携带到现场，在专门区域展出。并有机会和参展的本地大师们交谈创作心得体会。
+
 ## 感谢慷慨的礼品捐赠者们，每个小时进行一次抽奖。
 
 Nike Employee Store Passes x 5
