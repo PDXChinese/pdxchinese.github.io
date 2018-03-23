@@ -125,6 +125,8 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 参与方式：各位小艺术家根据主题自由创作，只要表现出春意，题材和表现方式不限，4月14日当天携带到现场，在专门区域展出。并有机会和参展的本地大师们交谈创作心得体会。
 
+这是一项免费活动
+
 ## 感谢慷慨的礼品捐赠者们，每个小时进行一次抽奖。
 
 Nike Employee Store Passes x 5
