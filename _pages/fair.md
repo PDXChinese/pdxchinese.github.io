@@ -117,7 +117,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | :musical_note: 歌舞表演 |  | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:00 pm |
 | :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:20 pm |
 | :musical_note: ||| 3:00 pm |
-| :microphone: 小艺术家艺术创作大赛颁奖仪式 | 画家李铁 | 大赛组委会 | 3:20 pm |
+| :microphone:  |  |  | 3:20 pm |
 
 ## 小艺术家艺术作品展示/Community Fair Youth Art Showcase
 
