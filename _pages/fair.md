@@ -100,6 +100,8 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[西北中文书院](http://nwchineseacademy.org/)** We create confident and critical thinking global citizens through an innovative full-time Mandarin immersion program.
 
+**[MiT Education & School](http://www.mitschool.org)** Learning should be fun as well as challenging and that every child should have the opportunity to learn, create and grow!
+
 **[澜苏园](http://www.lansugarden.org)** Lan Su Chinese Garden is a member based nonprofit organization. Lan Su is a authentic Chinese garden built by our sister city Suzhou China.
 
 ## 公共区域讲座和演出安排，按照时间排序：
