@@ -102,7 +102,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[MiT Education & School](http://www.mitschool.org)** Learning should be fun as well as challenging and that every child should have the opportunity to learn, create and grow!
 
-**[Oregon Chinese Flagship Program](chineseflagship.uoregon.edu)** The Flagship program offers academic support, study abroad opportunities, and scholarships to help students reach professional-level proficiency in Mandarin by the time they graduate, while studying any major. 
+**[Oregon Chinese Flagship Program](chineseflagship.uoregon.edu)** The Flagship program offers academic support, study abroad opportunities, and scholarships to help students reach professional-level proficiency in Mandarin by the time they graduate, while studying any major.
 
 **[澜苏园](http://www.lansugarden.org)** Lan Su Chinese Garden is a member based nonprofit organization. Lan Su is a authentic Chinese garden built by our sister city Suzhou China.
 
@@ -140,6 +140,8 @@ Nike Employee Store Passes x 5
 Luxury Sport Racks x 3 ([image1](/assets/images/d1f00a79d3d155afca2ada62184f5eeb.jpg), [image2](/assets/images/b9d71135aa85d10d84706901727d6337.jpg))
 
 Reach Wheel Step x 5 ([image1](/assets/images/ReachWheelStep1.jpg),[image2](/assets/images/ReachWheelStep2.jpg),[image3](/assets/images/ReachWheelStep3.jpg))
+
+Tickets to Lan Su Garden x 6
 
 more to be added...
 
