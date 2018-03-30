@@ -141,7 +141,7 @@ Luxury Sport Racks x 3 ([image1](/assets/images/d1f00a79d3d155afca2ada62184f5eeb
 
 Reach Wheel Step x 5 ([image1](/assets/images/ReachWheelStep1.jpg),[image2](/assets/images/ReachWheelStep2.jpg),[image3](/assets/images/ReachWheelStep3.jpg))
 
-Tickets to Lan Su Garden x 6
+Tickets to Lan Su Garden x 12
 
 more to be added...
 
