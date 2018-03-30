@@ -88,6 +88,8 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[newifi](http://www.xcloud.cc/)** 黄金矿区是以新路由®智能路由器为节点打造的一个共享 CDN 和共享云计 算的区块链项目。
 
+**华人西医师现场健康咨询** 由本地在诊所或医院行医的华人为社区成员做免费健康咨询，几位医师会在不同时段为大家服务。
+
 **[星岛都市报](http://uscitypost.com/index.html)** 《星岛日报》旗下周刊。免费在大波特兰地区发放。
 
 ### -- 教育联展 --
