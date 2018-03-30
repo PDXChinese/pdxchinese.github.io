@@ -86,6 +86,8 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[James E. McCandlish](mailto:jmccandlish@comcast.net)** @ [Griffin & McCandlish Attoneys at Law](http://griffinandmccandlish.com/) Served injured and aggrieved people since 1988. OCC法律顾问。
 
+**[newifi](http://www.xcloud.cc/)** 黄金矿区是以新路由®智能路由器为节点打造的一个共享 CDN 和共享云计 算的区块链项目。
+
 **[星岛都市报](http://uscitypost.com/index.html)** 《星岛日报》旗下周刊。免费在大波特兰地区发放。
 
 ### -- 教育联展 --
