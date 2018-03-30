@@ -104,7 +104,9 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[MiT Education & School](http://www.mitschool.org)** Learning should be fun as well as challenging and that every child should have the opportunity to learn, create and grow!
 
-**[Oregon Chinese Flagship Program](chineseflagship.uoregon.edu)** The Flagship program offers academic support, study abroad opportunities, and scholarships to help students reach professional-level proficiency in Mandarin by the time they graduate, while studying any major.
+**[Oregon Chinese Flagship Program](http://chineseflagship.uoregon.edu)** The Flagship program offers academic support, study abroad opportunities, and scholarships to help students reach professional-level proficiency in Mandarin by the time they graduate, while studying any major.
+
+**[Haiyan International Dance Academy](http://www.haiyanballet.net)** Haiyan International Dance Academy‘s curriculum emphasizes development of strong technique, appreciation for various dance styles and discovery of the joy of movement and expression, we are committed to provide the highest quality dance training to students at all levels.
 
 **[澜苏园](http://www.lansugarden.org)** Lan Su Chinese Garden is a member based nonprofit organization. Lan Su is a authentic Chinese garden built by our sister city Suzhou China.
 
