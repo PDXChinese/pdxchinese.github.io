@@ -110,6 +110,8 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[Haiyan International Dance Academy](http://www.haiyanballet.net)** Haiyan International Dance Academy‘s curriculum emphasizes development of strong technique, appreciation for various dance styles and discovery of the joy of movement and expression, we are committed to provide the highest quality dance training to students at all levels.
 
+**[Tech for Kids](http://www.tech4kidsclub.org)** Founded by parents and local industry experts, we pool resources and expertise together, and create a platform to help youth discover their interests and accelerate their skills in STEM and leadership.
+
 **[澜苏园](http://www.lansugarden.org)** Lan Su Chinese Garden is a member based nonprofit organization. Lan Su is a authentic Chinese garden built by our sister city Suzhou China.
 
 ## 公共区域讲座和演出安排，按照时间排序：
