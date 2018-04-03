@@ -80,6 +80,15 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[Dr. Tracy Ouyang](mailto:drouyang@firstclassbraces.com)** @ [Sylvan Orthodontics](http://www.firstclassbraces.com) 为您或您的孩子打造伴随其一生的美丽及健康的笑容！
 
+**华人西医师现场健康咨询** 由本地在诊所或医院行医的华人为社区成员做免费健康咨询，几位医师会在不同时段为大家服务。
+
+| 医生 | 科目 | 语言 | 时间段 |
+| --- | --- | --- | ---: |
+| Dr. Tracy Ouyang, DDS | 儿童成人牙齿整形 | 英文，普通话 | 11 am - 4 pm |
+| Dr. Lin Zhu, DDS | 牙周病治疗，植牙，牙龈移植手术 | 英文，普通话 | 待定 |
+| Dr. Teresa Lam | 家庭医生 | 英文， 普通话， 广东话 | 待定 |
+||||
+
 **[Song Chen](mailto:sondy.furniture@gmail.com)** @ [Sondy Furniture](http://SondyFurniture.com) 因为爱家，所以爱家具。
 
 **[陈氏厨房](http://portlandchinskitchen.com/)** 让我们用地道东北美食招待四方来客
@@ -87,8 +96,6 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 **[James E. McCandlish](mailto:jmccandlish@comcast.net)** @ [Griffin & McCandlish Attoneys at Law](http://griffinandmccandlish.com/) Served injured and aggrieved people since 1988. OCC法律顾问。
 
 **[newifi](http://www.xcloud.cc/)** 黄金矿区是以新路由®智能路由器为节点打造的一个共享 CDN 和共享云计 算的区块链项目。
-
-**华人西医师现场健康咨询** 由本地在诊所或医院行医的华人为社区成员做免费健康咨询，几位医师会在不同时段为大家服务。
 
 **[星岛都市报](http://uscitypost.com/index.html)** 《星岛日报》旗下周刊。免费在大波特兰地区发放。
 
