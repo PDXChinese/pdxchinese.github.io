@@ -105,7 +105,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 ### -- 教育联展 --
 
-**[俄勒冈希望中文学校](http://www.oregon-hope.org)** Our mission is to teach the community about Chinese language, culture, and heritage.
+**[俄勒冈希望中文学校](http://www.oregon-hope.org)** Our mission is to teach the community about Chinese language, culture, and heritage. 传承中华文化，弘扬华夏精神，共创美好华人社团，始终是我们的追求。
 
 **[好时光中文学校](http://www.goodtimechineseschool.org/)** 愿好时光中文学校是孩子们童年时最美好的一段记忆，是学习感受中国语言文化的最难忘的一段经历。
 
@@ -123,9 +123,11 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[Tech for Kids](http://www.tech4kidsclub.org)** Founded by parents and local industry experts, we pool resources and expertise together, and create a platform to help youth discover their interests and accelerate their skills in STEM and leadership.
 
+**[Oregon Artist School](http://www.orartist.com)** 俄勒冈艺术家学校用心爱护波村每一个小艺术家心中的梦想；为他们的梦想插上翅膀，添加色彩，让他们飞得更高更远。
+
 **[小燕子芭蕾学校](http://www)**
 
-**[澜苏园](http://www.lansugarden.org)** Lan Su Chinese Garden is a member based nonprofit organization. Lan Su is a authentic Chinese garden built by our sister city Suzhou China.
+**[澜苏园](http://www.lansugarden.org)** Lan Su Chinese Garden is a member based nonprofit organization. Lan Su is an authentic Chinese garden built by our sister city Suzhou China.
 
 ## 公共区域讲座和演出安排，按照时间排序：
 
