@@ -161,8 +161,8 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | Luxury Sport Racks | 3 | [image1](/assets/images/d1f00a79d3d155afca2ada62184f5eeb.jpg), [image2](/assets/images/b9d71135aa85d10d84706901727d6337.jpg) |
 |Reach Wheel Step | 5 |  [image1](/assets/images/ReachWheelStep1.jpg),[image2](/assets/images/ReachWheelStep2.jpg),[image3](/assets/images/ReachWheelStep3.jpg) |
 | Tickets to Lan Su Garden | 15 | |
-| Herb Guru Drinks | 36 | [image](http://www.herbgurubrand.com/)| 
+| Herb Guru Drinks | 36 | [image](http://www.herbgurubrand.com/)|
 
 ## 感谢联展赞助团体
 
-![]({{ site.url }}/assets/images/fair_sponsor.jpg)
+![]({{ site.url }}/assets/images/fair_sponsor2.jpg)
