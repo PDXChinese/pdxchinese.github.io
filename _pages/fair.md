@@ -139,7 +139,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | :microphone: ||| 1:20 pm |
 | :musical_note: 歌舞表演 | 学生 | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:00 pm |
 | :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:20 pm |
-| :musical_note: 时装走秀 | 社区青少年 || 3:00 pm |
+| :musical_note: 集体时装走秀 | 社区少年儿童 || 3:00 pm |
 | :musical_note: 钢琴演奏| 社区钢琴老师和学生们 | 现场报名 | 3:20 pm |
 
 ## 小艺术家艺术作品展示/Community Fair Youth Art Showcase
@@ -152,7 +152,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 这是一项免费活动
 
-## 少年儿童时装走秀/Fashion Show by Youth
+## 少年儿童时装走秀/Youth Fashion Show
 
 社区联展决定为我们本地孩子们的课外生活再添维度，我们有幸邀请到在中美两地时装界享有盛誉的Kerry Yu女士，特意为此次联展组织少年儿童做一次公益性质的时装走秀活动。为此，我们邀请5-16岁的青少年（女孩为主，因为库存服装的限制）报名，因为时间仓促，我们希望在本周五（4/6）晚上7点做audition，也欢迎当天参加其他演出的孩子们报名。
 
