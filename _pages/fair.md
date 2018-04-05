@@ -97,6 +97,10 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[newifi](http://www.xcloud.cc/)** 黄金矿区是以新路由®智能路由器为节点打造的一个共享 CDN 和共享云计 算的区块链项目。
 
+**[IBE Electronics USA, LLC](http://www.ibeusa.com)** BE provides full range of pcb manufacturing and PCB assembly services.
+
+**[Herb Guru Brand](http://www.herbgurubrand.com)** 關懷社區，把健康帶給大家
+
 **[星岛都市报](http://uscitypost.com/index.html)** 《星岛日报》旗下周刊。免费在大波特兰地区发放。
 
 ### -- 教育联展 --
@@ -119,7 +123,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[Tech for Kids](http://www.tech4kidsclub.org)** Founded by parents and local industry experts, we pool resources and expertise together, and create a platform to help youth discover their interests and accelerate their skills in STEM and leadership.
 
-**小燕子芭蕾学校** 
+**[小燕子芭蕾学校](http://www)**
 
 **[澜苏园](http://www.lansugarden.org)** Lan Su Chinese Garden is a member based nonprofit organization. Lan Su is a authentic Chinese garden built by our sister city Suzhou China.
 
@@ -129,7 +133,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | --- | --- | --- | ---: |
 | :musical_note: Lion Dance/醒狮开场| Dragon & Lion Dance Team | [Lee's Association](http://www.leeondong.org/) | 11:00 am |
 | :microphone: 华人家庭安全讲座 | George Wu| [Wooster Realty Group](http://woosterrealty.com) | 11:20 am |
-| :musical_note: 芭蕾表演 | | 小燕子芭蕾学校 | 12:00 pm |
+| :musical_note: 歌舞表演 | | 小燕子芭蕾学校 | 12:00 pm |
 | :microphone: 波特兰私人商业投资要领 | Feng Xiao | Private Investor | 12:20 am |
 | :musical_note: 歌舞表演 |  | [俄勒冈希望中文学校](http://www.oregon-hope.org) | 1:00 pm |
 | :microphone: ||| 1:20 pm |
