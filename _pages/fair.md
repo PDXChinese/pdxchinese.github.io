@@ -99,7 +99,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[IBE Electronics USA, LLC](http://www.ibeusa.com)** BE provides full range of pcb manufacturing and PCB assembly services.
 
-**[Herb Guru Brand](http://www.herbgurubrand.com)** 關懷社區，把健康帶給大家
+**[Herb Guru Brand](http://www.herbgurubrand.com)** 關懷社區，把健康帶給大家。
 
 **[星岛都市报](http://uscitypost.com/index.html)** 《星岛日报》旗下周刊。免费在大波特兰地区发放。
 
@@ -163,6 +163,8 @@ Luxury Sport Racks x 3 ([image1](/assets/images/d1f00a79d3d155afca2ada62184f5eeb
 Reach Wheel Step x 5 ([image1](/assets/images/ReachWheelStep1.jpg),[image2](/assets/images/ReachWheelStep2.jpg),[image3](/assets/images/ReachWheelStep3.jpg))
 
 Tickets to Lan Su Garden x 12
+
+Herb Guru Drinks x 36 ([image](http://www.herbgurubrand.com/))
 
 more to be added...
 
