@@ -168,4 +168,4 @@ more to be added...
 
 ## 感谢联展赞助团体
 
-![]({{ site.url }}/assets/images/fair_sponsor.jpg)
+![]({{ site.url }}/assets/images/fair_sponsor2.jpg)
