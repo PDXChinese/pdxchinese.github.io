@@ -133,11 +133,11 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | --- | --- | --- | ---: |
 | :musical_note: Lion Dance/醒狮开场| Dragon & Lion Dance Team | [Lee's Association](http://www.leeondong.org/) | 11:00 am |
 | :microphone: 华人家庭安全讲座 | George Wu| [Wooster Realty Group](http://woosterrealty.com) | 11:20 am |
-| :musical_note: 歌舞表演 | | 小燕子芭蕾学校 | 12:00 pm |
+| :musical_note: 歌舞表演 | 学生，家长 | 小燕子芭蕾学校 | 12:00 pm |
 | :microphone: 波特兰私人商业投资要领 | Feng Xiao | Private Investor | 12:20 am |
-| :musical_note: 歌舞表演 |  | [俄勒冈希望中文学校](http://www.oregon-hope.org) | 1:00 pm |
+| :musical_note: 歌舞表演 | 学生 | [俄勒冈希望中文学校](http://www.oregon-hope.org) | 1:00 pm |
 | :microphone: ||| 1:20 pm |
-| :musical_note: 歌舞表演 |  | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:00 pm |
+| :musical_note: 歌舞表演 | 学生 | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:00 pm |
 | :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:20 pm |
 | :musical_note: 模特服装秀 | 社区青少年 || 3:00 pm |
 | :musical_note: 钢琴演奏| 社区钢琴老师和学生们 | 现场报名 | 3:20 pm |
