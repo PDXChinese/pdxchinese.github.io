@@ -146,7 +146,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | :musical_note: 歌舞表演 | 学生 | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:00 pm |
 | :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:20 pm |
 | :musical_note: 集体时装走秀 | 社区少年儿童 | Oceana Blue Productions | 3:00 pm |
-| :musical_note: 钢琴演奏| 社区钢琴老师和学生们 | | 3:20 pm |
+| :musical_note: 钢琴演奏| 社区钢琴老师和学生们 | Michelle's Piano Company | 3:20 pm |
 
 ## 小艺术家艺术作品展示/Community Fair Youth Art Showcase
 
