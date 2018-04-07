@@ -103,7 +103,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[华人服务中心](http://www.ahscpdx.org/)** 为华人老人提供最为贴心的健康和文化服务
 
-**[Michelle's Piano Company](http://www.michellespiano.com) Willing to partner with our community for the best quality pianos and services.
+**[Michelle's Piano Company](http://www.michellespiano.com)** Willing to partner with our community for the best quality pianos and services.
 
 **[星岛都市报](http://uscitypost.com/index.html)** 《星岛日报》旗下周刊。免费在大波特兰地区发放。
 
@@ -145,8 +145,8 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | :microphone: ||| 1:20 pm |
 | :musical_note: 歌舞表演 | 学生 | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:00 pm |
 | :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:20 pm |
-| :musical_note: 集体时装走秀 | 社区少年儿童 || 3:00 pm |
-| :musical_note: 钢琴演奏| 社区钢琴老师和学生们 | 现场报名 | 3:20 pm |
+| :musical_note: 集体时装走秀 | 社区少年儿童 | Oceana Blue Productions | 3:00 pm |
+| :musical_note: 钢琴演奏| 社区钢琴老师和学生们 | | 3:20 pm |
 
 ## 小艺术家艺术作品展示/Community Fair Youth Art Showcase
 
