@@ -87,7 +87,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | Dr. Tracy Ouyang, DDS | 儿童成人牙齿整形 | 英文，普通话 | 11 am - 4 pm |
 | Dr. Lin Zhu, DDS | 牙周病治疗，植牙，牙龈移植手术 | 英文，普通话 | 待定 |
 | Dr. Teresa Lam | 家庭医生 | 英文， 普通话， 广东话 | 待定 |
-||||
+| 华人服务中心 | 精神健康輔導員 | 英文， 普通话， 广东话 | 11 am - 4 pm |
 
 **[Song Chen](mailto:sondy.furniture@gmail.com)** @ [Sondy Furniture](http://SondyFurniture.com) 因为爱家，所以爱家具。
 
@@ -100,6 +100,10 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 **[IBE Electronics USA, LLC](http://www.ibeusa.com)** BE provides full range of pcb manufacturing and PCB assembly services.
 
 **[Herb Guru Brand](http://www.herbgurubrand.com)** 關懷社區，把健康帶給大家。
+
+**[华人服务中心](http://www.ahscpdx.org/)** 为华人老人提供最为贴心的健康和文化服务
+
+**[Michelle's Piano Company](http://www.michellespiano.com) Willing to partner with our community for the best quality pianos and services.
 
 **[星岛都市报](http://uscitypost.com/index.html)** 《星岛日报》旗下周刊。免费在大波特兰地区发放。
 
