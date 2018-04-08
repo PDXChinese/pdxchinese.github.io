@@ -137,27 +137,27 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 | Topic<br/>讲座题目 |  Performer/Speaker<br/>演员/主讲人 | Organization<br/>机构 | Time<br/>时间 |
 | --- | --- | --- | ---: |
-| :musical_note: Lion Dance/醒狮开场| Dragon & Lion Dance Team | [Lee's Association](http://www.leeondong.org/) | 11:00 am |
-| :gift: 抽奖 | | | 11:15 am |
-| :microphone: 华人家庭安全讲座 | George Wu| [Wooster Realty Group](http://woosterrealty.com) | 11:20 am |
-| :musical_keyboard: 钢琴独奏 | | | 11:55 am |
-| :musical_note: 歌舞表演 | 学生 | RZY Ballet Studio | 12:00 pm |
-| :musical_note: 歌舞表演 | 学生 | [俄勒冈艺术家学校(http://www.orartist.com) | 12:05 pm |
-| :gift: 抽奖 | | | 12:10 pm |
-| :microphone: 波特兰私人商业投资要领 | Feng Xiao | Private Investor | 12:20 pm |
-| :musical_keyboard: 钢琴独奏 | | | 12:55 pm |
-| :musical_note: 歌舞表演 | 学生 | [俄勒冈希望中文学校](http://www.oregon-hope.org) | 1:00 pm |
-| :gift: 抽奖| | | 1:10 pm |
-| :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [好时光中文学校](http://www.goodtimechineseschool.org/) | 1:30 pm |
-| :musical_keyboard: 钢琴独奏 | | | 1:55 pm |
-| :musical_note: 歌舞表演 | 学生 | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:00 pm |
-| :gift: 抽奖 | | | 2:30 pm |
-| :nut_and_bolt: 机器人演示 | 冠军队队员 | [Spark Technology Education](http://sparkteched.org) | 2:40 pm |
-| :musical_keyboard: 钢琴独奏 | | | 2:55 pm |
-| :dress: 集体时装走秀 | 社区少年儿童 | Oceana Blue Productions | 3:00 pm |
-| :microphone: Appreciation from OCC | 西北兆 | [OCC](http://www.pdxchinese.org/) | 3:20 pm |
-| :musical_keyboard: 钢琴演奏| 学生 | 家有琴童群 | 3:30 pm |
-| :dress: 集体时装走秀 | 社区少年儿童 | Oceana Blue Productions | 3:55 pm |
+| :musical_note: Lion Dance/醒狮开场| Dragon & Lion Dance Team | [Lee's Association](http://www.leeondong.org/) | 11:00 |
+| :gift: 抽奖 | | | 11:15 |
+| :microphone: 华人家庭安全讲座 | George Wu| [Wooster Realty Group](http://woosterrealty.com) | 11:20 |
+| :musical_keyboard: 钢琴独奏 | | | 11:55 |
+| :musical_note: 歌舞表演 | 学生 | RZY Ballet Studio | 12:00 |
+| :musical_note: 歌舞表演 | 学生 | [俄勒冈艺术家学校(http://www.orartist.com) | 12:05 |
+| :gift: 抽奖 | | | 12:10 |
+| :microphone: 波特兰私人商业投资要领 | Feng Xiao | Private Investor | 12:20 |
+| :musical_keyboard: 钢琴独奏 | | | 12:55 |
+| :musical_note: 歌舞表演 | 学生 | [俄勒冈希望中文学校](http://www.oregon-hope.org) | 13:00 |
+| :gift: 抽奖| | | 13:10 |
+| :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [好时光中文学校](http://www.goodtimechineseschool.org/) | 13:30 |
+| :musical_keyboard: 钢琴独奏 | | | 13:55 |
+| :musical_note: 歌舞表演 | 学生 | [好时光中文学校](http://www.goodtimechineseschool.org/) | 14:00  |
+| :gift: 抽奖 | | | 14:30 |
+| :nut_and_bolt: 机器人演示 | 冠军队队员 | [Spark Technology Education](http://sparkteched.org) | 14:40 |
+| :musical_keyboard: 钢琴独奏 | | | 14:55 |
+| :dress: 集体时装走秀 | 社区少年儿童 | Oceana Blue Productions | 15:00 |
+| :microphone: Appreciation from OCC | 西北兆 | [OCC](http://www.pdxchinese.org/) | 15:20 |
+| :musical_keyboard: 钢琴演奏| 学生 | 家有琴童群 | 15:30 |
+| :dress: 集体时装走秀 | 社区少年儿童 | Oceana Blue Productions | 15:55 |
 
 ## 小艺术家艺术作品展示/Community Fair Youth Art Showcase
 
