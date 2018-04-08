@@ -150,9 +150,9 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | :gift: 抽奖| | | 1:10 pm |
 | :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [好时光中文学校](http://www.goodtimechineseschool.org/) | 1:30 pm |
 | :musical_keyboard: 钢琴独奏 | | | 1:55 pm |
-| :musical_note: 歌舞表演 | 学生 | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:40 pm |
+| :musical_note: 歌舞表演 | 学生 | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:00 pm |
 | :gift: 抽奖 | | | 2:30 pm |
-| :nut_and_bolt: 机器人演示 | 冠军队队员 | [Spark Technology Education](http://sparkteched.org) |
+| :nut_and_bolt: 机器人演示 | 冠军队队员 | [Spark Technology Education](http://sparkteched.org) | 2:40 pm |
 | :musical_keyboard: 钢琴独奏 | | | 2:55 pm |
 | :dress: 集体时装走秀 | 社区少年儿童 | Oceana Blue Productions | 3:00 pm |
 | :microphone: Appreciation from OCC | 西北兆 | [OCC](http://www.pdxchinese.org/) | 3:20 pm |
