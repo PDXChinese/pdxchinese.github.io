@@ -142,7 +142,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | :microphone: 华人家庭安全讲座 | George Wu| [Wooster Realty Group](http://woosterrealty.com) | 11:20 |
 | :musical_keyboard: 钢琴独奏 | | | 11:55 |
 | :musical_note: 歌舞表演 | 学生 | RZY Ballet Studio | 12:00 |
-| :musical_note: 歌舞表演 | 学生 | [俄勒冈艺术家学校(http://www.orartist.com) | 12:05 |
+| :musical_note: 歌舞表演 | 学生 | [俄勒冈艺术家学校](http://www.orartist.com) | 12:05 |
 | :gift: 抽奖 | | | 12:10 |
 | :microphone: 波特兰私人商业投资要领 | Feng Xiao | Private Investor | 12:20 |
 | :musical_keyboard: 钢琴独奏 | | | 12:55 |
