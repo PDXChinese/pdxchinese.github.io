@@ -129,7 +129,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[Oregon Artist School](http://www.orartist.com)** 俄勒冈艺术家学校用心爱护波村每一个小艺术家心中的梦想；为他们的梦想插上翅膀，添加色彩，让他们飞得更高更远。
 
-**[小燕子芭蕾学校](http://www)**
+**[RZY Ballet studio](mailto:Ellenzh530@hotmail.com)** 结合中西芭蕾教学经验，为不同年龄阶段拥有舞蹈梦想的学员，提供专业及个性化的芭蕾艺术教育。
 
 **[澜苏园](http://www.lansugarden.org)** Lan Su Chinese Garden is a member based nonprofit organization. Lan Su is an authentic Chinese garden built by our sister city Suzhou China.
 
@@ -138,15 +138,26 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | Topic<br/>讲座题目 |  Performer/Speaker<br/>演员/主讲人 | Organization<br/>机构 | Time<br/>时间 |
 | --- | --- | --- | ---: |
 | :musical_note: Lion Dance/醒狮开场| Dragon & Lion Dance Team | [Lee's Association](http://www.leeondong.org/) | 11:00 am |
+| :gift: 抽奖 | | | 11:15 am |
 | :microphone: 华人家庭安全讲座 | George Wu| [Wooster Realty Group](http://woosterrealty.com) | 11:20 am |
-| :musical_note: 歌舞表演 | 学生，家长 | 小燕子芭蕾学校 | 12:00 pm |
-| :microphone: 波特兰私人商业投资要领 | Feng Xiao | Private Investor | 12:20 am |
+| :musical_keyboard: 钢琴独奏 | | | 11:55 am |
+| :musical_note: 歌舞表演 | 学生 | RZY Ballet Studio | 12:00 pm |
+| :musical_note: 歌舞表演 | 学生 | [俄勒冈艺术家学校(http://www.orartist.com) | 12:05 pm |
+| :gift: 抽奖 | | | 12:10 pm |
+| :microphone: 波特兰私人商业投资要领 | Feng Xiao | Private Investor | 12:20 pm |
+| :musical_keyboard: 钢琴独奏 | | | 12:55 pm |
 | :musical_note: 歌舞表演 | 学生 | [俄勒冈希望中文学校](http://www.oregon-hope.org) | 1:00 pm |
-| :microphone: ||| 1:20 pm |
-| :musical_note: 歌舞表演 | 学生 | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:00 pm |
-| :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:20 pm |
-| :musical_note: 集体时装走秀 | 社区少年儿童 | Oceana Blue Productions | 3:00 pm |
-| :musical_note: 钢琴演奏| 社区钢琴老师和学生们 | Michelle's Piano Company | 3:20 pm |
+| :gift: 抽奖| | | 1:10 pm |
+| :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [好时光中文学校](http://www.goodtimechineseschool.org/) | 1:30 pm |
+| :musical_keyboard: 钢琴独奏 | | | 1:55 pm |
+| :musical_note: 歌舞表演 | 学生 | [好时光中文学校](http://www.goodtimechineseschool.org/) | 2:40 pm |
+| :gift: 抽奖 | | | 2:30 pm |
+| :nut_and_bolt: 机器人演示 | 冠军队队员 | [Spark Technology Education](http://sparkteched.org) |
+| :musical_keyboard: 钢琴独奏 | | | 2:55 pm |
+| :dress: 集体时装走秀 | 社区少年儿童 | Oceana Blue Productions | 3:00 pm |
+| :microphone: Appreciation from OCC | 西北兆 | [OCC](http://www.pdxchinese.org/) | 3:20 pm |
+| :musical_keyboard: 钢琴演奏| 学生 | 家有琴童群 | 3:30 pm |
+| :dress: 集体时装走秀 | 社区少年儿童 | Oceana Blue Productions | 3:55 pm |
 
 ## 小艺术家艺术作品展示/Community Fair Youth Art Showcase
 
@@ -156,7 +167,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 参与方式：各位小艺术家根据主题自由创作，只要表现出春意，题材和表现方式不限，4月14日当天携带到现场，在专门区域展出。并有机会和参展的本地大师们交谈创作心得体会。
 
-这是一项免费活动
+这是一项免费活动，请提前半个小时到达现场，方便放置作品。
 
 ## 少年儿童时装走秀/Youth Fashion Show
 
@@ -174,6 +185,8 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 |Reach Wheel Step | 5 |  [image1](/assets/images/ReachWheelStep1.jpg),[image2](/assets/images/ReachWheelStep2.jpg),[image3](/assets/images/ReachWheelStep3.jpg) |
 | Tickets to Lan Su Garden | 15 | |
 | Herb Guru Drinks | 36 | [image](http://www.herbgurubrand.com/)|
+
+抽奖规则
 
 ## 感谢联展赞助团体
 
