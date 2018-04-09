@@ -101,7 +101,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[Herb Guru Brand](http://www.herbgurubrand.com)** 關懷社區，把健康帶給大家。
 
-**[华人服务中心](http://www.ahscpdx.org/)** 为华人老人提供最为贴心的健康和文化服务
+**[华人服务中心](http://www.ahscpdx.org/)** Mission: To be the bridge between Asian and American cultures and build a harmonious community. Vision: To reduce health inequity and improve health care quality for all Asians.
 
 **[Michelle's Piano Company](http://www.michellespiano.com)** Willing to partner with our community for the best quality pianos and services.
 
@@ -159,7 +159,6 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | :dress: 集体时装走秀 | 社区少年儿童 | [Oceana Blue Productions](http://oceanablueproductions.com/) | 15:00 |
 | :microphone: Appreciation from OCC | 西北兆 | [OCC](http://www.pdxchinese.org/) | 15:20 |
 | :musical_keyboard: 钢琴演奏| Patrick, Feifei, Xingyou, etc. | 家有琴童群 | 15:30 |
-| :dress: 集体时装走秀 | 社区少年儿童 | [Oceana Blue Productions](http://oceanablueproductions.com/) | 15:55 |
 
 ## 小艺术家艺术作品展示/Community Fair Youth Art Showcase
 
