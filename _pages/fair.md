@@ -191,4 +191,4 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 ## 感谢联展赞助团体
 
-![]({{ site.url }}/assets/images/fair_sponsor2.jpg)
+![]({{ site.url }}/assets/images/fair_sponsor.jpg)
