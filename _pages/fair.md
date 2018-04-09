@@ -129,7 +129,9 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[Oregon Artist School](http://www.orartist.com)** 俄勒冈艺术家学校用心爱护波村每一个小艺术家心中的梦想；为他们的梦想插上翅膀，添加色彩，让他们飞得更高更远。
 
-**[RZY Ballet studio](mailto:Ellenzh530@hotmail.com)** 结合中西芭蕾教学经验，为不同年龄阶段拥有舞蹈梦想的学员，提供专业及个性化的芭蕾艺术教育。
+**[RYZ Ballet studio](mailto:Ellenzh530@hotmail.com)** 结合中西芭蕾教学经验，为不同年龄阶段拥有舞蹈梦想的学员，提供专业及个性化的芭蕾艺术教育。
+
+**[Oregon International Ballet Academy](http://oiballet.org/ac/)**  
 
 **[澜苏园](http://www.lansugarden.org)** Lan Su Chinese Garden is a member based nonprofit organization. Lan Su is an authentic Chinese garden built by our sister city Suzhou China.
 
@@ -141,7 +143,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | :gift: 抽奖 | | | 11:15 |
 | :microphone: 华人家庭安全讲座 | George Wu| [Wooster Realty Group](http://woosterrealty.com) | 11:20 |
 | :musical_keyboard: 钢琴独奏 | | | 11:55 |
-| :musical_note: 歌舞表演 | 学生 | RZY Ballet Studio | 12:00 |
+| :musical_note: 歌舞表演 | 学生 | RYZ Ballet Studio | 12:00 |
 | :musical_note: 歌舞表演 | 学生 | [俄勒冈艺术家学校](http://www.orartist.com) | 12:05 |
 | :gift: 抽奖 | | | 12:10 |
 | :microphone: 波特兰私人商业投资要领 | Feng Xiao | Private Investor | 12:20 |
