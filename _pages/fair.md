@@ -158,7 +158,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | :musical_keyboard: 钢琴独奏 | | | 14:55 |
 | :dress: 集体时装走秀 | 社区少年儿童 | [Oceana Blue Productions](http://oceanablueproductions.com/) | 15:00 |
 | :microphone: Appreciation from OCC | 西北兆 | [OCC](http://www.pdxchinese.org/) | 15:20 |
-| :musical_keyboard: 钢琴演奏| 学生 | 家有琴童群 | 15:30 |
+| :musical_keyboard: 钢琴演奏| Patrick, Feifei, Xingyou, Karri, Amy, Dora, Derek, Stanley | 家有琴童群 | 15:30 |
 | :dress: 集体时装走秀 | 社区少年儿童 | [Oceana Blue Productions](http://oceanablueproductions.com/) | 15:55 |
 
 ## 小艺术家艺术作品展示/Community Fair Youth Art Showcase
