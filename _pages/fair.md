@@ -151,7 +151,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | :musical_note: 歌舞表演 | 学生 | [俄勒冈希望中文学校](http://www.oregon-hope.org) | 13:00 |
 | :gift: 抽奖| | | 13:10 |
 | :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [好时光中文学校](http://www.goodtimechineseschool.org/) | 13:30 |
-| :musical_keyboard: 钢琴独奏 | | | 13:55 |
+| :musical_keyboard: 钢琴独奏 | Sophia Ma | Springville K-8 School | 13:55 |
 | :musical_note: 歌舞表演 | 学生 | [好时光中文学校](http://www.goodtimechineseschool.org/) | 14:00  |
 | :gift: 抽奖 | | | 14:30 |
 | :nut_and_bolt: 机器人演示 | 冠军队队员 | [Spark Technology Education](http://sparkteched.org) | 14:40 |
