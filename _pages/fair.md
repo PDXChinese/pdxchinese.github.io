@@ -143,7 +143,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | :gift: 抽奖 | | | 11:15 |
 | :microphone: 华人家庭安全讲座 | George Wu| [Wooster Realty Group](http://woosterrealty.com) | 11:20 |
 | :musical_keyboard: 钢琴独奏 | | | 11:55 |
-| :musical_note: 歌舞表演 | 学生 | RYZ Ballet Studio | 12:00 |
+| :musical_note: 歌舞表演 | 学生 | [RYZ Ballet Studio](mailto:Ellenzh530@hotmail.com) | 12:00 |
 | :musical_note: 歌舞表演 | 学生 | [俄勒冈艺术家学校](http://www.orartist.com) | 12:05 |
 | :gift: 抽奖 | | | 12:10 |
 | :microphone: 波特兰私人商业投资要领 | Feng Xiao | Private Investor | 12:20 |
@@ -156,10 +156,10 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | :gift: 抽奖 | | | 14:30 |
 | :nut_and_bolt: 机器人演示 | 冠军队队员 | [Spark Technology Education](http://sparkteched.org) | 14:40 |
 | :musical_keyboard: 钢琴独奏 | | | 14:55 |
-| :dress: 集体时装走秀 | 社区少年儿童 | Oceana Blue Productions | 15:00 |
+| :dress: 集体时装走秀 | 社区少年儿童 | [Oceana Blue Productions](http://oceanablueproductions.com/) | 15:00 |
 | :microphone: Appreciation from OCC | 西北兆 | [OCC](http://www.pdxchinese.org/) | 15:20 |
 | :musical_keyboard: 钢琴演奏| 学生 | 家有琴童群 | 15:30 |
-| :dress: 集体时装走秀 | 社区少年儿童 | Oceana Blue Productions | 15:55 |
+| :dress: 集体时装走秀 | 社区少年儿童 | [Oceana Blue Productions](http://oceanablueproductions.com/) | 15:55 |
 
 ## 小艺术家艺术作品展示/Community Fair Youth Art Showcase
 
