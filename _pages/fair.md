@@ -131,7 +131,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[RYZ Ballet studio](mailto:Ellenzh530@hotmail.com)** 结合中西芭蕾教学经验，为不同年龄阶段拥有舞蹈梦想的学员，提供专业及个性化的芭蕾艺术教育。
 
-**[Oregon International Ballet Academy](http://oiballet.org/ac/)**  
+**[Oregon International Ballet Academy](http://oiballet.org/ac/)** We believe that we are not only teaching ballet, but instilling positive energy to allow students to achieve their dreams for the future.
 
 **[澜苏园](http://www.lansugarden.org)** Lan Su Chinese Garden is a member based nonprofit organization. Lan Su is an authentic Chinese garden built by our sister city Suzhou China.
 
