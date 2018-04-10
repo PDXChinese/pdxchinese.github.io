@@ -100,7 +100,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[IBE Electronics USA, LLC](http://www.ibeusa.com)** BE provides full range of pcb manufacturing and PCB assembly services.
 
-**[UST Global](https://www.ust-global.com/)** UST Global is an American multinational provider of Digital, IT services and solutions, headquartered in Aliso Viejo, California
+**[UST Global](https://www.ust-global.com/)** UST Global is an American multinational provider of Digital, IT services and solutions, headquartered in Aliso Viejo, California.
 
 **[Herb Guru Brand](http://www.herbgurubrand.com)** 關懷社區，把健康帶給大家。
 
@@ -194,4 +194,4 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 ## 感谢联展赞助团体
 
-![]({{ site.url }}/assets/images/fair_sponsor.jpg)
+![]({{ site.url }}/assets/images/fair_sponsor1.jpg)
