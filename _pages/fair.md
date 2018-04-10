@@ -92,8 +92,6 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[Song Chen](mailto:sondy.furniture@gmail.com)** @ [Sondy Furniture](http://SondyFurniture.com) 因为爱家，所以爱家具。
 
-**[陈氏厨房](http://portlandchinskitchen.com/)** 让我们用地道东北美食招待四方来客
-
 **[James E. McCandlish](mailto:jmccandlish@comcast.net)** @ [Griffin & McCandlish Attoneys at Law](http://griffinandmccandlish.com/) Served injured and aggrieved people since 1988. OCC法律顾问。
 
 **[newifi](http://www.xcloud.cc/)** 黄金矿区是以新路由®智能路由器为节点打造的一个共享 CDN 和共享云计 算的区块链项目。
@@ -137,6 +135,8 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 **[Oregon International Ballet Academy](http://oiballet.org/ac/)** We believe that we are not only teaching ballet, but instilling positive energy to allow students to achieve their dreams for the future.
 
 **[澜苏园](http://www.lansugarden.org)** Lan Su Chinese Garden is a member based nonprofit organization. Lan Su is an authentic Chinese garden built by our sister city Suzhou China.
+
+**[HCY Foundation](http://www.hcyfoundation.org)** Nonprofit organization providing resources for less fortunate children worldwide to gain access and opportunity to achieve their educational goals.
 
 ## 公共区域讲座和演出安排，按照时间排序：
 
