@@ -86,6 +86,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | --- | --- | --- | ---: |
 | Dr. Tracy Ouyang, DDS | 儿童成人牙齿整形 | 英文，普通话 | 11 am - 4 pm |
 | Dr. Lin Zhu, DDS | 牙周病治疗，植牙，牙龈移植手术 | 英文，普通话 | 待定 |
+| Dr. Yan Huang, DDS | 牙科医生 | 英文，普通话 | 11 am - 4 pm |
 | Dr. Teresa Lam | 家庭医生 | 英文， 普通话， 广东话 | 待定 |
 | 华人服务中心 | 精神健康輔導員 | 英文， 普通话， 广东话 | 11 am - 4 pm |
 
