@@ -3,7 +3,9 @@ title: ""
 permalink: /fair/
 ---
 
-![]({{ site.url }}/assets/images/fairbanner2018.jpg)
+![]({{ site.url }}/assets/images/fairbanner2018q.jpg)
+
+![]({{ site.url }}/assets/images/divider.jpg)
 
 English version flyer: [2018 Chinese Community Fair](/assets/pdf/2018_Chinese_Communtiy_Fair.pdf)
 
