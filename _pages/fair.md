@@ -1,9 +1,9 @@
 ---
-title: "波特兰华人社区艺术商业教育联展"
+title: ""
 permalink: /fair/
 ---
 
-# Portland Chinese Community Fair
+![]({{ site.url }}/assets/images/fairbanner2018.jpg)
 
 English version flyer: [2018 Chinese Community Fair](/assets/pdf/2018_Chinese_Communtiy_Fair.pdf)
 
@@ -190,7 +190,3 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 | Herb Guru Drinks ($10) | 15 | [image](http://www.herbgurubrand.com/)|
 
 抽奖规则
-
-## 感谢联展赞助团体
-
-![]({{ site.url }}/assets/images/fair_sponsor1.jpg)
