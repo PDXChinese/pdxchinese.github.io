@@ -176,11 +176,23 @@ All vendors' names and contacts info will be kept here till next year's communit
 
 这是一项免费活动，请提前半个小时到达现场，方便放置作品。
 
+To inspire and encourage young artists in the community, OCC is providing a platform to display their works in the Community Fair to showcase the artistic creations.
+
+Theme: Spring is Coming!
+
+To participate: An artistic creation from young artist’s age (18 and under). Expression or creation methods can be water-coloring, oil painting, etc. Also, an opportunity to interact/network with local artists.
+
+This is a free event. Please arrive at least half an hour in advance to place your work.
+
 ## 少年儿童时装走秀/Youth Fashion Show
 
 社区联展决定为我们本地孩子们的课外生活再添维度，我们有幸邀请到在中美两地时装界享有盛誉的Kerry Yu女士，特意为此次联展组织少年儿童做一次公益性质的时装走秀活动。为此，我们邀请5-16岁的孩子们（女孩为主，因为库存服装的限制）报名，因为时间仓促，我们希望在本周五（4/6）晚上7点做audition，地点选在Bethany Community Room。也欢迎当天参加其他演出的孩子们报名。
 
 走秀所需品牌服装已经有了，个人无需准备。联展前一天晚上7点-9点在现场做一次训练，走秀则是安排在联展当天的下午3点，预计历时10分钟。
+
+The Community Fair committee has decided to add another dimension to the extra-curricular life of our children. We have the honor to invite Ms. Kerry Yu, a renowned producer in the fashion industry in both China and the United States, to organize a children's run-way show. We invited 5-16 year-old children to register and be part of it. An audition was at 7:00 p.m. on Friday (4/6) in Bethany Community Room. Children who are participating in other performances on that day are also welcome to register.
+
+The Simpson and Staphine are two brands that we are showcasing at the fair. Clothing are provided.  A training session will be held at the Embassy Suites by Hilton on the evening of April 13th at 7:00 p.m. The run-way show will be at 3 p.m. on the day of the event.
 
 ## 感谢慷慨的礼品捐赠者们，每个小时进行一次抽奖/Hourly Prize Drawing。
 
@@ -193,4 +205,20 @@ All vendors' names and contacts info will be kept here till next year's communit
 | Tickets to Lan Su Garden ($20 for 2) | 14 | |
 | Herb Guru Drinks ($10) | 15 | [image](http://www.herbgurubrand.com/)|
 
-抽奖规则/Prize Drawing Rules
+抽奖规则/Raffle Rules
+
+1.    Cash or check are accepted.
+
+2.    All ticket sales are final at the time of purchase.  There are no refunds.
+
+3.    Prize winner's ticket stub will be drawn from one drum which includes all ticket stubs.  Each stub has an equal chance of being drawn.
+
+4.    Odds of winning will be based on the number of tickets sold.
+
+5.    The drawing will be held at Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
+
+6.    If a ticket is drawn and nobody claims the prize, another ticket can be drawn.
+
+7.    Acceptance of a prize constitutes permission for OCC to use the winner’s name, and photograph in any OCC publicity worldwide in all media including the Internet without additional compensation.
+
+By participating in the Raffle, participants agree to be bound by these Official Rules.
