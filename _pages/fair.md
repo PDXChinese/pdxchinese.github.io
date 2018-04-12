@@ -210,7 +210,7 @@ The Simpson and Staphine are two brands that we are showcasing at the fair. Clot
 | Tickets to Lan Su Garden ($20 for 2) | 14 | |
 | Herb Guru Drinks ($10) | 15 | [image](http://www.herbgurubrand.com/)|
 | [Chin's Kitchen](http://www.portlandchinskitchen.com/) 30% Discount Certificates | 5 |  |
-| Oregon Artist School $100 off Coupon | 3 |  |  
+| [Oregon Artist School](http://www.orartist.com) $100 off Coupon | 3 |  |  
 
 用于抽奖的票可以在门口购买/Raffle tickets are available for purchase at check-in desk.
 
@@ -226,7 +226,7 @@ The Simpson and Staphine are two brands that we are showcasing at the fair. Clot
 
 5.    The drawing will be held at Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
-6.    If a ticket is drawn and nobody claims the prize, another ticket can be drawn.
+6.    If a ticket is drawn and nobody claims the prize, another ticket will be drawn.
 
 7.    Acceptance of a prize constitutes permission for OCC to use the winner’s name, and photograph in any OCC publicity worldwide in all media including the Internet without additional compensation.
 
