@@ -13,7 +13,7 @@ To register: please fill out the [registration form](https://docs.google.com/for
 
 ### 时间/Date
 
-April 4, 2018, Saturday, 11:00 am - 4:00 pm
+April 14, 2018, Saturday, 11:00 am - 4:00 pm
 
 ### 地点/Place
 
