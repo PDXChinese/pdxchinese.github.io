@@ -3,7 +3,7 @@ title: ""
 permalink: /fair/
 ---
 
-![]({{ site.url }}/assets/images/fairbanner2018a.jpg)
+![]({{ site.url }}/assets/images/fairbanner2018.jpg)
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
