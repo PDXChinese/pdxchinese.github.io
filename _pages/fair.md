@@ -169,7 +169,7 @@ All vendors' names and contacts info will be kept here till next year's communit
 | :dress: Kids Fashion Show/集体时装走秀 | Community Kids | [Oceana Blue Productions](http://oceanablueproductions.com/) | 3:00 |
 | :gift: Prize Drawing/抽奖 | | | 3:10 |
 | :musical_keyboard: Piano/钢琴演奏| Patrick, Feifei, Xingyou, etc. | WeChat Piano Group/家有琴童群 | 3:20 |
-| :musical_note: Performances by Event Volunteers | | | 3:40 |
+| :musical_note: Performances by Event Volunteers | | | 3:45 |
 
 ## 小艺术家艺术作品展示/Community Fair Youth Art Showcase
 
