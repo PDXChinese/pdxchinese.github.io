@@ -50,7 +50,7 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 名字和Logo会放在OCC网站，在联展现场展示，包含免费展位给Silver, Gold and Platinum赞助商。
 
-Sponsors' logos will be placed on OCC oficial website till next year's community fair. Sponsors with $500 and more will have a table for free.
+Sponsors' logos will be placed on OCC official website till next year's community fair. Sponsors with $500 and more will have a table for free.
 
 ## 活动对大众免费开放/Community Fair Opens to Public Free of Charge
 
@@ -64,7 +64,7 @@ Sponsors' logos will be placed on OCC oficial website till next year's community
 
 All vendors' names and contacts info will be kept here till next year's community fair.
 
-### -- 艺术家联展/Arts --
+### -- 艺术家联展/Arts For Sale --
 
 **[画家李铁/Artist Li Tie](http://www.litiefineart.com/)** He works primarily in charcoal, oil and mixed media and his favorite subjects are human faces, history, culture, and nature.
 
@@ -84,7 +84,7 @@ All vendors' names and contacts info will be kept here till next year's communit
 
 **[Dr. Tracy Ouyang](mailto:drouyang@firstclassbraces.com)** @ [Sylvan Orthodontics](http://www.firstclassbraces.com) 为您或您的孩子打造伴随其一生的美丽及健康的笑容！
 
-**华人西医师现场健康咨询/Voluntewering Medical Professionals** 由本地在诊所或医院行医的华人为社区成员做免费健康咨询，几位医师会在不同时段为大家服务。
+**华人西医师现场健康咨询/Voluntewering Medical Professionals** 由本地在诊所或医院行医的华人为社区成员做免费健康咨询，几位医师会在不同时段为大家服务/Free health consultation。
 
 | 医生/Doctor | 科目/Specialty | 语言/Language | 时间段/Hours Avail |
 | --- | --- | --- | ---: |
@@ -97,7 +97,7 @@ All vendors' names and contacts info will be kept here till next year's communit
 
 **[Song Chen](mailto:sondy.furniture@gmail.com)** @ [Sondy Furniture](http://SondyFurniture.com) 因为爱家，所以爱家具。
 
-**[James E. McCandlish](mailto:jmccandlish@comcast.net)** OCC法律顾问
+**[James E. McCandlish](mailto:jmccandlish@comcast.net)** OCC法律顾问/Glad to answer any legal questions.
 
 **[newifi](http://www.xcloud.cc/)** 黄金矿区是以新路由®智能路由器为节点打造的一个共享 CDN 和共享云计 算的区块链项目。
 
@@ -107,7 +107,7 @@ All vendors' names and contacts info will be kept here till next year's communit
 
 **[Herb Guru Brand](http://www.herbgurubrand.com)** 關懷社區，把健康帶給大家。
 
-**[华人服务中心/Asian Health & Science Center](http://www.ahscpdx.org/)** Mission: To be the bridge between Asian and American cultures and build a harmonious community. Vision: To reduce health inequity and improve health care quality for all Asians.
+**[华人服务中心/Asian Health & Science Center](http://www.ahscpdx.org/)** To be the bridge between Asian and American cultures and build a harmonious community, with the vision to reduce health inequity and improve health care quality for all Asians.
 
 **[Michelle's Piano Company](http://www.michellespiano.com)** Willing to partner with our community for the best quality pianos and services.
 
@@ -141,6 +141,8 @@ All vendors' names and contacts info will be kept here till next year's communit
 
 **[Oregon International Ballet Academy](http://oiballet.org/ac/)** We believe that we are not only teaching ballet, but instilling positive energy to allow students to achieve their dreams for the future.
 
+**[Engineering for Kids](https://www.engineeringforkids.com/portland/)** We are passionate about our programs because we believe that early exposure to STEM education has a lasting impact on a child’s future. We put the excitement in STEM education by offering fun, hands-on learning for children ages 4 to 14.
+
 **[澜苏园/Lan Su Chinese Garden](http://www.lansugarden.org)** Lan Su Chinese Garden is a member based nonprofit organization. Lan Su is an authentic Chinese garden built by our sister city Suzhou China.
 
 ## 公共区域讲座和演出安排，按照时间排序/Programs on Main Stage
@@ -149,24 +151,25 @@ All vendors' names and contacts info will be kept here till next year's communit
 | --- | --- | --- | ---: |
 | :musical_note: Lion Dance/醒狮开场| Dragon & Lion Dance Team | [Lee's Association](http://www.leeondong.org/) | 11:00 |
 | :gift: Prize Drawing/抽奖 | | | 11:15 |
-| :microphone: Home Security/Protection/华人家庭安全讲座 | George Wu| [Wooster Realty Group](http://woosterrealty.com) | 11:20 |
+| :microphone: Home Security/Protection/华人家庭安全讲座 | George Wu| [Wooster Realty Group](http://woosterrealty.com) | 11:25 |
 | :musical_keyboard: Piano/钢琴独奏 | Arthur Tan (13) | Cedar Park Middle School | 11:55 |
 | :musical_note: Singing & Dancing/歌舞表演 | Students | [RYZ Ballet Studio](mailto:Ellenzh530@hotmail.com) | 12:00 |
 | :musical_note: Singing & Dancing/歌舞表演 | Students | [Oregon Artist School](http://www.orartist.com) | 12:05 |
 | :gift: Prize Drawing/抽奖 | | | 12:10 |
-| :microphone: 波特兰私人商业投资要领 | Feng Xiao | Private Investor | 12:20 |
+| :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) | 12:20 |
 | :musical_keyboard: Piano/钢琴独奏 | Ashley Ma (8) | Springville K-8 School | 12:55 |
 | :musical_note: Singing & Dancing/歌舞表演 | Students & Parents | [Oregon Hope Chinese School](http://www.oregon-hope.org) | 1:00 |
-| :gift: Prize Drawing/抽奖| | | 1:10 |
-| :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) | 1:30 |
+| :gift: Prize Drawing/抽奖| | | 1:25 |
+| :microphone: 波特兰私人商业投资要领 | Feng Xiao | Private Investor | 1:35 |
 | :musical_keyboard: Piano/钢琴独奏 | Sophia Ma (10) | Springville K-8 School | 1:55 |
 | :musical_note: Singing & Dancing/歌舞表演 | Students | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) | 2:00  |
 | :gift: Prize Drawing/抽奖 | | | 2:30 |
 | :nut_and_bolt: Robotic Live Demo/机器人演示 | World Champion Team | [Spark Technology Education](http://sparkteched.org) | 2:40 |
 | :musical_keyboard: Piano/钢琴独奏 | Rachel Wang (11) | Stoller Middle School | 2:55 |
 | :dress: Kids Fashion Show/集体时装走秀 | Community Kids | [Oceana Blue Productions](http://oceanablueproductions.com/) | 3:00 |
-| :microphone: Appreciation from OCC | 西北兆 | [OCC](http://www.pdxchinese.org/) | 3:20 |
-| :musical_keyboard: Piano/钢琴演奏| Patrick, Feifei, Xingyou, etc. | WeChat Piano Group/家有琴童群 | 3:30 |
+| :gift: Prize Drawing/抽奖 | | | 3:10 |
+| :musical_keyboard: Piano/钢琴演奏| Patrick, Feifei, Xingyou, etc. | WeChat Piano Group/家有琴童群 | 3:20 |
+| :musical_note: Performances by Event Volunteers | | | 3:40 |
 
 ## 小艺术家艺术作品展示/Community Fair Youth Art Showcase
 
@@ -206,6 +209,7 @@ The Simpson and Staphine are two brands that we are showcasing at the fair. Clot
 |Reach Wheel Step ($25+) | 5 |  [image1](/assets/images/ReachWheelStep1.jpg),[image2](/assets/images/ReachWheelStep2.jpg),[image3](/assets/images/ReachWheelStep3.jpg) |
 | Tickets to Lan Su Garden ($20 for 2) | 14 | |
 | Herb Guru Drinks ($10) | 15 | [image](http://www.herbgurubrand.com/)|
+| Chin's Kitchen 30% Discount Certificates | 5 |  |
 
 抽奖规则/Raffle Rules
 
