@@ -31,7 +31,7 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
 ## 参展个人团体报名方式/To register as a vendor
 
-希望参展的个人或团体，请填写[报名表](https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=0&w=1)。会基本上按照先报先得原则，但我们保留取舍权利。
+希望参展的个人或团体，请填写[报名表/Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=0&w=1)。会基本上按照先报先得原则，但我们保留取舍权利。
 
 |Type of Vendors/参展类别 | 6' Table/6尺展台 | 8' Table/8尺展台 |
 | --- | ---: | ---: |
@@ -42,37 +42,39 @@ Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
 Discounted fees in parentheses are for early registration before 4/1/2018.
 
-现场会给参展的个人或团体提供免费上网和电源
+现场会给参展的个人或团体提供免费上网和电源/Free wifi and electricity will be provided to vendors.
 
-[展会现场布置示意图](/assets/pdf/fair_map_2018.pdf)
-
-## 竭诚欢迎赞助商
+## 竭诚欢迎赞助商/Welcome to be the sponsors
 
 $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze Sponsor
 
 名字和Logo会放在OCC网站，在联展现场展示，包含免费展位给Silver, Gold and Platinum赞助商。
 
-## 活动对大众免费开放
+Sponsors' logos will be placed on OCC oficial website till next year's community fair. Sponsors with $500 and more will have a table for free.
 
-## 感谢下列协办单位，排序不分先后：
+## 活动对大众免费开放/Community Fair Opens to Public Free of Charge
 
-俄勒冈州中国艺术家协会
+## 感谢下列协办单位/Co-Organizers：
 
-## 感谢下列已经报名的个人及团体，排序不分先后：
+俄勒冈州中国艺术家协会/Oregon Chinese Artist Association
+
+## 感谢下列已经报名的个人及团体，排序不分先后/Registered Vendors：
 
 名单包括个人或团体名字及网站信息，将会保留到下一届联展。
 
-### -- 艺术家联展 --
+All vendors' names and contacts info will be kept here till next year's community fair.
 
-**[画家李铁](http://www.litiefineart.com/)** He works primarily in charcoal, oil and mixed media and his favorite subjects are human faces, history, culture, and nature.
+### -- 艺术家联展/Arts --
 
-**画家白川** @ 白川苏州工作室 [油画神韵- YouTube](https://youtu.be/xvxIl7WbMKI) [水墨气韵- YouTube](https://www.youtube.com/watch?v=4RH2olJQZGI)
+**[画家李铁/Artist Li Tie](http://www.litiefineart.com/)** He works primarily in charcoal, oil and mixed media and his favorite subjects are human faces, history, culture, and nature.
 
-**[画家Wayne Chin/陈永雄](mailto: waynestydio.vancouver@gmail.com)** @ [Wayne Studio/永雄工作室](http://www.waynechin.com) Illustration Artist
+**画家白川/Artist Shirakawa** @ 白川苏州工作室 [油画神韵- YouTube](https://youtu.be/xvxIl7WbMKI) [水墨气韵- YouTube](https://www.youtube.com/watch?v=4RH2olJQZGI)
 
-### -- 商家联展 --
+**[画家陈永雄/Artist Wayne Chin](mailto: waynestydio.vancouver@gmail.com)** @ [Wayne Studio/永雄工作室](http://www.waynechin.com) Illustration Artist
 
-**[James Tang 唐英信](mailto:james_tang@keybank.com)** @ Key Bank Mortgage 房屋贷款专员 认真负责，为您的房屋贷款需要服务。
+### -- 商家联展/Commerce --
+
+**[唐英信/James Tang](mailto:james_tang@keybank.com)** @ Key Bank Mortgage 房屋贷款专员 认真负责，为您的房屋贷款需要服务。
 
 **[Yiling Hu](mailto:jenny@bambooloan.com)** @ Bamboo Mortgage 尽心竭力为您提供房屋贷款服务
 
@@ -82,16 +84,16 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[Dr. Tracy Ouyang](mailto:drouyang@firstclassbraces.com)** @ [Sylvan Orthodontics](http://www.firstclassbraces.com) 为您或您的孩子打造伴随其一生的美丽及健康的笑容！
 
-**华人西医师现场健康咨询** 由本地在诊所或医院行医的华人为社区成员做免费健康咨询，几位医师会在不同时段为大家服务。
+**华人西医师现场健康咨询/Voluntewering Medical Professionals** 由本地在诊所或医院行医的华人为社区成员做免费健康咨询，几位医师会在不同时段为大家服务。
 
-| 医生 | 科目 | 语言 | 时间段 |
+| 医生/Doctor | 科目/Specialty | 语言/Language | 时间段/Hours Avail |
 | --- | --- | --- | ---: |
-| Dr. Tracy Ouyang, DDS | 儿童成人牙齿整形 | 英文，普通话 | 11 am - 4 pm |
-| Dr. Lin Zhu, DDS | 牙周病治疗，植牙，牙龈移植手术 | 英文，普通话 | 待定 |
-| Dr. Yan Huang, DDS | 牙科医生 | 英文，普通话 | 11 am - 4 pm |
-| Dr. Teresa Lam | 家庭医生 | 英文， 普通话， 广东话 | 待定 |
-| Dr. Taiping Jia | 中医师 | 普通话，英文 | 下午 |
-| 华人服务中心 | 精神健康輔導員 | 英文， 普通话， 广东话 | 11 am - 4 pm |
+| Dr. Tracy Ouyang, DDS | 儿童成人牙齿整形/Orthodontist | 英文，普通话 | 11 am - 4 pm |
+| Dr. Lin Zhu, DDS | 牙周病治疗，植牙，牙龈移植手术/Periodontist | 英文，普通话 | TBD |
+| Dr. Yan Huang, DDS | 牙科医生/Dentist | 英文，普通话 | 11 am - 4 pm |
+| Dr. Teresa Lam | 家庭医生/Family Practice | 英文， 普通话， 广东话 | TBD |
+| Dr. Taiping Jia | 中医师/Chinese Medicine | 普通话，英文 | PM |
+| 华人服务中心 | 精神健康輔導員/Mental Health Counselor | 英文， 普通话， 广东话 | 11 am - 4 pm |
 
 **[Song Chen](mailto:sondy.furniture@gmail.com)** @ [Sondy Furniture](http://SondyFurniture.com) 因为爱家，所以爱家具。
 
@@ -105,23 +107,23 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[Herb Guru Brand](http://www.herbgurubrand.com)** 關懷社區，把健康帶給大家。
 
-**[华人服务中心](http://www.ahscpdx.org/)** Mission: To be the bridge between Asian and American cultures and build a harmonious community. Vision: To reduce health inequity and improve health care quality for all Asians.
+**[华人服务中心/Asian Health & Science Center](http://www.ahscpdx.org/)** Mission: To be the bridge between Asian and American cultures and build a harmonious community. Vision: To reduce health inequity and improve health care quality for all Asians.
 
 **[Michelle's Piano Company](http://www.michellespiano.com)** Willing to partner with our community for the best quality pianos and services.
 
-**[星岛都市报](http://uscitypost.com/index.html)** 《星岛日报》旗下周刊。免费在大波特兰地区发放。
+**[星岛都市报/US  City Post](http://uscitypost.com/index.html)** 《星岛日报》旗下周刊。免费在大波特兰地区发放。
 
-### -- 教育联展 --
+### -- 教育联展/Education --
 
-**[俄勒冈希望中文学校](http://www.oregon-hope.org)** Our mission is to teach the community about Chinese language, culture, and heritage. 传承中华文化，弘扬华夏精神，共创美好华人社团，始终是我们的追求。
+**[俄勒冈希望中文学校/Oregon Hope Chinese School](http://www.oregon-hope.org)** Our mission is to teach the community about Chinese language, culture, and heritage. 传承中华文化，弘扬华夏精神，共创美好华人社团，始终是我们的追求。
 
-**[好时光中文学校](http://www.goodtimechineseschool.org/)** 愿好时光中文学校是孩子们童年时最美好的一段记忆，是学习感受中国语言文化的最难忘的一段经历。
+**[好时光中文学校/Goodtime Chinese School](http://www.goodtimechineseschool.org/)** 愿好时光中文学校是孩子们童年时最美好的一段记忆，是学习感受中国语言文化的最难忘的一段经历。
 
 **[Spark Technology Education](http://sparkteched.org/)** Connect students to Robotics programs, and bring in local professionals as mentors to provide quality instruction.
 
-**[李氏公所舞龙醒狮功夫培训班](http://www.leeondong.org/)** 为丰富华人社区生活画龙点睛
+**[李氏公所舞龙醒狮功夫培训班/Lee's Assoc Lion Dance Team](http://www.leeondong.org/)** 为丰富华人社区生活画龙点睛
 
-**[西北中文书院](http://nwchineseacademy.org/)** We create confident and critical thinking global citizens through an innovative full-time Mandarin immersion program.
+**[西北中文书院/NW Chinese Acacdemy](http://nwchineseacademy.org/)** We create confident and critical thinking global citizens through an innovative full-time Mandarin immersion program.
 
 **[MiT Education & School](http://www.mitschool.org)** Learning should be fun as well as challenging and that every child should have the opportunity to learn, create and grow!
 
@@ -137,9 +139,9 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 
 **[Oregon International Ballet Academy](http://oiballet.org/ac/)** We believe that we are not only teaching ballet, but instilling positive energy to allow students to achieve their dreams for the future.
 
-**[澜苏园](http://www.lansugarden.org)** Lan Su Chinese Garden is a member based nonprofit organization. Lan Su is an authentic Chinese garden built by our sister city Suzhou China.
+**[澜苏园/Lan Su Chinese Garden](http://www.lansugarden.org)** Lan Su Chinese Garden is a member based nonprofit organization. Lan Su is an authentic Chinese garden built by our sister city Suzhou China.
 
-## 公共区域讲座和演出安排，按照时间排序：
+## 公共区域讲座和演出安排，按照时间排序/Programs on Main Stage：
 
 | Topic<br/>讲座题目 |  Performer/Speaker<br/>演员/主讲人 | Organization<br/>机构 | Time<br/>时间 |
 | --- | --- | --- | ---: |
