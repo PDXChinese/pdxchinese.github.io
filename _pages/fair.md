@@ -19,6 +19,8 @@ April 14, 2018, Saturday, 11:00 am - 4:00 pm
 
 Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
+## 活动对大众免费开放/Opens to Public, Free Admission
+
 ### 背景/Background
 
 请参见/See： [http://pdxchinese.org/community-fair-2018/](http://pdxchinese.org/community-fair-2018/)
@@ -51,8 +53,6 @@ $2,000 Platinum Sponsor | $1,000 Gold Sponsor |$500 Silver Sponsor | $250 Bronze
 名字和Logo会放在OCC网站，在联展现场展示，包含免费展位给Silver, Gold and Platinum赞助商。
 
 Sponsors' logos will be placed on OCC official website till next year's community fair. Sponsors with $500 and more will have a table for free.
-
-## 活动对大众免费开放/Community Fair Opens to Public Free of Charge
 
 ## 感谢下列协办单位/Co-Organizers：
 
@@ -210,6 +210,8 @@ The Simpson and Staphine are two brands that we are showcasing at the fair. Clot
 | Tickets to Lan Su Garden ($20 for 2) | 14 | |
 | Herb Guru Drinks ($10) | 15 | [image](http://www.herbgurubrand.com/)|
 | Chin's Kitchen 30% Discount Certificates | 5 |  |
+
+用于抽奖的票可以在门口购买/Raffle tickets are available for purchase at check-in desk.
 
 抽奖规则/Raffle Rules
 
