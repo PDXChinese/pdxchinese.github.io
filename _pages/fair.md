@@ -111,6 +111,8 @@ All vendors' names and contacts info will be kept here till next year's communit
 
 **[Michelle's Piano Company](http://www.michellespiano.com)** Willing to partner with our community for the best quality pianos and services.
 
+**[Life Changing Dinners](https://www.facebook.com/Life-Changing-Dinners-160270744502751/)** Cooking schools, cooking classes, and cooking equipment.
+
 **[星岛都市报/US  City Post](http://uscitypost.com/index.html)** 《星岛日报》旗下周刊。免费在大波特兰地区发放。
 
 ### -- 教育联展/Education --
@@ -141,7 +143,7 @@ All vendors' names and contacts info will be kept here till next year's communit
 
 **[澜苏园/Lan Su Chinese Garden](http://www.lansugarden.org)** Lan Su Chinese Garden is a member based nonprofit organization. Lan Su is an authentic Chinese garden built by our sister city Suzhou China.
 
-## 公共区域讲座和演出安排，按照时间排序/Programs on Main Stage：
+## 公共区域讲座和演出安排，按照时间排序/Programs on Main Stage
 
 | 讲座题目<br/>Topic |  演员/主讲人<br/>Performer/Speaker | 机构<br/>Organization | 时间<br/>Time |
 | --- | --- | --- | ---: |
@@ -194,7 +196,7 @@ The Community Fair committee has decided to add another dimension to the extra-c
 
 The Simpson and Staphine are two brands that we are showcasing at the fair. Clothing are provided.  A training session will be held at the Embassy Suites by Hilton on the evening of April 13th at 7:00 p.m. The run-way show will be at 3 p.m. on the day of the event.
 
-## 感谢慷慨的礼品捐赠者们，每个小时进行一次抽奖/Hourly Prize Drawing。
+## 感谢慷慨的礼品捐赠者们，每个小时进行一次抽奖/Hourly Prize Drawing
 
 | Items | Quantity | Images |
 | --- | ---: | --- |
