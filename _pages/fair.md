@@ -209,7 +209,7 @@ The Simpson and Staphine are two brands that we are showcasing at the fair. Clot
 |Reach Wheel Step ($25+) | 5 |  [image1](/assets/images/ReachWheelStep1.jpg),[image2](/assets/images/ReachWheelStep2.jpg),[image3](/assets/images/ReachWheelStep3.jpg) |
 | Tickets to Lan Su Garden ($20 for 2) | 14 | |
 | Herb Guru Drinks ($10) | 15 | [image](http://www.herbgurubrand.com/)|
-| Chin's Kitchen 30% Discount Certificates | 5 |  |
+| [Chin's Kitchen](http://www.portlandchinskitchen.com/) 30% Discount Certificates | 5 |  |
 
 用于抽奖的票可以在门口购买/Raffle tickets are available for purchase at check-in desk.
 
