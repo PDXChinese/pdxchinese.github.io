@@ -143,7 +143,7 @@ All vendors' names and contacts info will be kept here till next year's communit
 
 ## 公共区域讲座和演出安排，按照时间排序/Programs on Main Stage：
 
-| Topic<br/>讲座题目 |  Performer/Speaker<br/>演员/主讲人 | Organization<br/>机构 | Time<br/>时间 |
+| 讲座题目<br/>Topic |  演员/主讲人<br/>Performer/Speaker | 机构<br/>Organization | 时间<br/>Time |
 | --- | --- | --- | ---: |
 | :musical_note: Lion Dance/醒狮开场| Dragon & Lion Dance Team | [Lee's Association](http://www.leeondong.org/) | 11:00 |
 | :gift: Prize Drawing/抽奖 | | | 11:15 |
@@ -153,7 +153,7 @@ All vendors' names and contacts info will be kept here till next year's communit
 | :musical_note: Singing & Dancing/歌舞表演 | Students | [Oregon Artist School](http://www.orartist.com) | 12:05 |
 | :gift: Prize Drawing/抽奖 | | | 12:10 |
 | :microphone: 波特兰私人商业投资要领 | Feng Xiao | Private Investor | 12:20 |
-| :musical_keyboard: Piano/钢琴独奏 | Ashley Ma (8) | Springville Elementary | 12:55 |
+| :musical_keyboard: Piano/钢琴独奏 | Ashley Ma (8) | Springville K-8 School | 12:55 |
 | :musical_note: Singing & Dancing/歌舞表演 | Students & Parents | [Oregon Hope Chinese School](http://www.oregon-hope.org) | 1:00 |
 | :gift: Prize Drawing/抽奖| | | 1:10 |
 | :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) | 1:30 |
@@ -164,7 +164,7 @@ All vendors' names and contacts info will be kept here till next year's communit
 | :musical_keyboard: Piano/钢琴独奏 | Rachel Wang (11) | Stoller Middle School | 2:55 |
 | :dress: Kids Fashion Show/集体时装走秀 | Community Kids | [Oceana Blue Productions](http://oceanablueproductions.com/) | 3:00 |
 | :microphone: Appreciation from OCC | 西北兆 | [OCC](http://www.pdxchinese.org/) | 3:20 |
-| :musical_keyboard: Piano/钢琴演奏| Patrick, Feifei, Xingyou, etc. | 家有琴童群 | 3:30 |
+| :musical_keyboard: Piano/钢琴演奏| Patrick, Feifei, Xingyou, etc. | WeChat Piano Group/家有琴童群 | 3:30 |
 
 ## 小艺术家艺术作品展示/Community Fair Youth Art Showcase
 
