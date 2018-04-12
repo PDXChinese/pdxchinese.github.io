@@ -11,25 +11,25 @@ English version flyer: [2018 Chinese Community Fair](/assets/pdf/2018_Chinese_Co
 
 To register: please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=0&w=1)
 
-### 时间：
+### 时间/Date
 
-2018年4月14日，星期六，上午11点-下午4点
+April 4, 2018, Saturday, 11:00 am - 4:00 pm
 
-### 地点：
+### 地点/Place
 
 Embassy Suites by Hilton (9000 SW Washington Square Rd, Tigard, OR 97223)
 
-### 背景
+### 背景/Background
 
-请参见： [http://pdxchinese.org/community-fair-2018/](http://pdxchinese.org/community-fair-2018/)
+请参见/See： [http://pdxchinese.org/community-fair-2018/](http://pdxchinese.org/community-fair-2018/)
 
-### 组委会
+### 组委会/Event Committee
 
 西北兆，项小柔 Faye，凡草，孔敏，淼莲
 
-欢迎微信联系每位组委会成员，电话：503-709-3119，Email：hzhao@pdxchinese.org
+欢迎微信联系每位组委会成员/Please contact: Phone: 503-709-3119，Email：hzhao@pdxchinese.org
 
-## 参展个人团体报名方式
+## 参展个人团体报名方式/To register as a vendor
 
 希望参展的个人或团体，请填写[报名表](https://docs.google.com/forms/d/e/1FAIpQLSfi-UOb4g2EeCAJlmC8938LVAZZwNQ9rHf1NtSa9HNKarJZxQ/viewform?c=0&w=1)。会基本上按照先报先得原则，但我们保留取舍权利。
 
