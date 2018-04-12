@@ -93,7 +93,7 @@ All vendors' names and contacts info will be kept here till next year's communit
 | Dr. Yan Huang, DDS | 牙科医生/Dentist | 英文，普通话 | 11 am - 4 pm |
 | Dr. Teresa Lam | 家庭医生/Family Practice | 英文， 普通话， 广东话 | TBD |
 | Dr. Taiping Jia | 中医师/Chinese Medicine | 普通话，英文 | PM |
-| 华人服务中心 | 精神健康輔導員/Mental Health Counselor | 英文， 普通话， 广东话 | 11 am - 4 pm |
+| 华人服务中心/AHSC | 精神健康輔導員/Mental Health Counselor | 英文， 普通话， 广东话 | 11 am - 4 pm |
 
 **[Song Chen](mailto:sondy.furniture@gmail.com)** @ [Sondy Furniture](http://SondyFurniture.com) 因为爱家，所以爱家具。
 
@@ -146,25 +146,25 @@ All vendors' names and contacts info will be kept here till next year's communit
 | Topic<br/>讲座题目 |  Performer/Speaker<br/>演员/主讲人 | Organization<br/>机构 | Time<br/>时间 |
 | --- | --- | --- | ---: |
 | :musical_note: Lion Dance/醒狮开场| Dragon & Lion Dance Team | [Lee's Association](http://www.leeondong.org/) | 11:00 |
-| :gift: 抽奖 | | | 11:15 |
-| :microphone: 华人家庭安全讲座 | George Wu| [Wooster Realty Group](http://woosterrealty.com) | 11:20 |
-| :musical_keyboard: 钢琴独奏 | Arthur Tan (13) | Cedar Park Middle School | 11:55 |
-| :musical_note: 歌舞表演 | 学生 | [RYZ Ballet Studio](mailto:Ellenzh530@hotmail.com) | 12:00 |
-| :musical_note: 歌舞表演 | 学生 | [俄勒冈艺术家学校](http://www.orartist.com) | 12:05 |
-| :gift: 抽奖 | | | 12:10 |
+| :gift: Prize Drawing/抽奖 | | | 11:15 |
+| :microphone: Home Security/Protection/华人家庭安全讲座 | George Wu| [Wooster Realty Group](http://woosterrealty.com) | 11:20 |
+| :musical_keyboard: Piano/钢琴独奏 | Arthur Tan (13) | Cedar Park Middle School | 11:55 |
+| :musical_note: Singing & Dancing/歌舞表演 | Students | [RYZ Ballet Studio](mailto:Ellenzh530@hotmail.com) | 12:00 |
+| :musical_note: Singing & Dancing/歌舞表演 | Students | [Oregon Artist School](http://www.orartist.com) | 12:05 |
+| :gift: Prize Drawing/抽奖 | | | 12:10 |
 | :microphone: 波特兰私人商业投资要领 | Feng Xiao | Private Investor | 12:20 |
-| :musical_keyboard: 钢琴独奏 | Ashley Ma (8) | Springville Elementary | 12:55 |
-| :musical_note: 歌舞表演 | 学生 | [俄勒冈希望中文学校](http://www.oregon-hope.org) | 13:00 |
-| :gift: 抽奖| | | 13:10 |
-| :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [好时光中文学校](http://www.goodtimechineseschool.org/) | 13:30 |
-| :musical_keyboard: 钢琴独奏 | Sophia Ma (10) | Springville K-8 School | 13:55 |
-| :musical_note: 歌舞表演 | 学生 | [好时光中文学校](http://www.goodtimechineseschool.org/) | 14:00  |
-| :gift: 抽奖 | | | 14:30 |
-| :nut_and_bolt: 机器人演示 | 冠军队队员 | [Spark Technology Education](http://sparkteched.org) | 14:40 |
-| :musical_keyboard: 钢琴独奏 | Rachel Wang (11) | Stoller Middle School | 14:55 |
-| :dress: 集体时装走秀 | 社区少年儿童 | [Oceana Blue Productions](http://oceanablueproductions.com/) | 15:00 |
-| :microphone: Appreciation from OCC | 西北兆 | [OCC](http://www.pdxchinese.org/) | 15:20 |
-| :musical_keyboard: 钢琴演奏| Patrick, Feifei, Xingyou, etc. | 家有琴童群 | 15:30 |
+| :musical_keyboard: Piano/钢琴独奏 | Ashley Ma (8) | Springville Elementary | 12:55 |
+| :musical_note: Singing & Dancing/歌舞表演 | Students & Parents | [Oregon Hope Chinese School](http://www.oregon-hope.org) | 1:00 |
+| :gift: Prize Drawing/抽奖| | | 1:10 |
+| :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) | 1:30 |
+| :musical_keyboard: Piano/钢琴独奏 | Sophia Ma (10) | Springville K-8 School | 1:55 |
+| :musical_note: Singing & Dancing/歌舞表演 | Students | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) | 2:00  |
+| :gift: Prize Drawing/抽奖 | | | 2:30 |
+| :nut_and_bolt: Robotic Live Demo/机器人演示 | World Champion Team | [Spark Technology Education](http://sparkteched.org) | 2:40 |
+| :musical_keyboard: Piano/钢琴独奏 | Rachel Wang (11) | Stoller Middle School | 2:55 |
+| :dress: Kids Fashion Show/集体时装走秀 | Community Kids | [Oceana Blue Productions](http://oceanablueproductions.com/) | 3:00 |
+| :microphone: Appreciation from OCC | 西北兆 | [OCC](http://www.pdxchinese.org/) | 3:20 |
+| :musical_keyboard: Piano/钢琴演奏| Patrick, Feifei, Xingyou, etc. | 家有琴童群 | 3:30 |
 
 ## 小艺术家艺术作品展示/Community Fair Youth Art Showcase
 
@@ -182,7 +182,7 @@ All vendors' names and contacts info will be kept here till next year's communit
 
 走秀所需品牌服装已经有了，个人无需准备。联展前一天晚上7点-9点在现场做一次训练，走秀则是安排在联展当天的下午3点，预计历时10分钟。
 
-## 感谢慷慨的礼品捐赠者们，每个小时进行一次抽奖。
+## 感谢慷慨的礼品捐赠者们，每个小时进行一次抽奖/Hourly Prize Drawing。
 
 | Items | Quantity | Images |
 | --- | ---: | --- |
@@ -193,4 +193,4 @@ All vendors' names and contacts info will be kept here till next year's communit
 | Tickets to Lan Su Garden ($20 for 2) | 14 | |
 | Herb Guru Drinks ($10) | 15 | [image](http://www.herbgurubrand.com/)|
 
-抽奖规则
+抽奖规则/Prize Drawing Rules
