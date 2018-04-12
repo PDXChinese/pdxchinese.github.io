@@ -125,7 +125,7 @@ All vendors' names and contacts info will be kept here till next year's communit
 
 **[李氏公所舞龙醒狮功夫培训班/Lee's Assoc Lion Dance Team](http://www.leeondong.org/)** 为丰富华人社区生活画龙点睛
 
-**[西北中文书院/NW Chinese Acacdemy](http://nwchineseacademy.org/)** We create confident and critical thinking global citizens through an innovative full-time Mandarin immersion program.
+**[西北中文书院/NW Chinese Academy](http://nwchineseacademy.org/)** We create confident and critical thinking global citizens through an innovative full-time Mandarin immersion program.
 
 **[MiT Education & School](http://www.mitschool.org)** Learning should be fun as well as challenging and that every child should have the opportunity to learn, create and grow!
 
