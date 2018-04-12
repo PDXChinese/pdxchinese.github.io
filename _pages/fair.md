@@ -210,6 +210,7 @@ The Simpson and Staphine are two brands that we are showcasing at the fair. Clot
 | Tickets to Lan Su Garden ($20 for 2) | 14 | |
 | Herb Guru Drinks ($10) | 15 | [image](http://www.herbgurubrand.com/)|
 | [Chin's Kitchen](http://www.portlandchinskitchen.com/) 30% Discount Certificates | 5 |  |
+| Oregon Artist School $100 off Coupon | 3 |  |  
 
 用于抽奖的票可以在门口购买/Raffle tickets are available for purchase at check-in desk.
 
