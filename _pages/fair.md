@@ -91,7 +91,7 @@ All vendors' names and contacts info will be kept here till next year's communit
 | Dr. Tracy Ouyang, DDS | 儿童成人牙齿整形/Orthodontist | 英文，普通话 | 11 am - 4 pm |
 | Dr. Lin Zhu, DDS | 牙周病治疗，植牙，牙龈移植手术/Periodontist | 英文，普通话 | 12 pm - 2 pm |
 | Dr. Yan Huang, DDS | 牙科医生/Dentist | 英文，普通话 | 11 am - 4 pm |
-| Dr. Teresa Lam | 家庭医生/Family Practice | 英文， 普通话， 广东话 | TBD |
+| Dr. Teresa Lam | 家庭医生/Family Practice | 英文， 普通话， 广东话 | 2:30 pm - 4 pm |
 | Dr. Taiping Jia | 中医师/Chinese Medicine | 普通话，英文 | PM |
 | 华人服务中心/AHSC | 精神健康輔導員/Mental Health Counselor | 英文， 普通话， 广东话 | 11 am - 4 pm |
 
