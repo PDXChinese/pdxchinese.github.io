@@ -101,7 +101,7 @@ All vendors' names and contacts info will be kept here till next year's communit
 
 **[newifi](http://www.xcloud.cc/)** 黄金矿区是以新路由®智能路由器为节点打造的一个共享 CDN 和共享云计 算的区块链项目。
 
-**[IBE Electronics USA, LLC](http://www.ibeusa.com)** BE provides full range of pcb manufacturing and PCB assembly services.
+**[IBE Electronics USA, LLC](http://www.ibeusa.com)** IBE provides full range of pcb manufacturing and PCB assembly services.
 
 **[UST Global](https://www.ust-global.com/)** UST Global is an American multinational provider of Digital, IT services and solutions, headquartered in Aliso Viejo, California.
 
