@@ -154,7 +154,7 @@ All vendors' names and contacts info will be kept here till next year's communit
 | :musical_keyboard: Piano/钢琴独奏 | Arthur Tan (13) | Cedar Park Middle School | 11:55 |
 | :musical_note: Singing & Dancing/歌舞表演 | Students | [RYZ Ballet Studio](mailto:Ellenzh530@hotmail.com) | 12:00 |
 | :musical_note: Singing & Dancing/歌舞表演 | Students | [Oregon Artist School](http://www.orartist.com) | 12:05 |
-| :microphone: 波特兰私人商业投资要领 | Feng Xiao | Private Investor | 12:20 |
+| :microphone: 波特兰私人商业投资要领/Invest in Commercial Real Estate | George Wu | [Wooster Realty Group](http://woosterrealty.com) | 12:20 |
 | :musical_keyboard: Piano/钢琴独奏 | Ashley Ma (8) | Springville K-8 School | 12:55 |
 | :musical_note: Singing & Dancing/歌舞表演 | Students & Parents | [Oregon Hope Chinese School](http://www.oregon-hope.org) | 1:00 |
 | :gift: Raffle Drawing/抽奖| | | 1:25 |
