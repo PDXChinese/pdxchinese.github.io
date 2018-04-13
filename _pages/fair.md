@@ -194,7 +194,7 @@ The Community Fair committee has decided to add another dimension to the extra-c
 
 The Simpson and Staphine are two brands that we are showcasing at the fair. Clothing are provided.  A training session will be held at the Embassy Suites by Hilton on the evening of April 13th at 7:00 p.m. The run-way show will be at 3 p.m. on the day of the event.
 
-## 感谢慷慨的礼品捐赠者们，每个小时进行一次抽奖/2 Times Raffle Drawing
+## 感谢慷慨的礼品捐赠者们，进行两次抽奖/Two Times Raffle Drawing
 
 | Items | Quantity | Images |
 | --- | ---: | --- |
