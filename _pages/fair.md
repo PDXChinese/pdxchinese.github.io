@@ -157,14 +157,14 @@ All vendors' names and contacts info will be kept here till next year's communit
 | :microphone: 波特兰私人商业投资要领 | Feng Xiao | Private Investor | 12:20 |
 | :musical_keyboard: Piano/钢琴独奏 | Ashley Ma (8) | Springville K-8 School | 12:55 |
 | :musical_note: Singing & Dancing/歌舞表演 | Students & Parents | [Oregon Hope Chinese School](http://www.oregon-hope.org) | 1:00 |
-| :gift: Prize Drawing/抽奖| | | 1:25 |
+| :gift: Raffle Drawing/抽奖| | | 1:25 |
 | :musical_keyboard: Piano/钢琴独奏 | Sophia Ma (10) | Springville K-8 School | 1:55 |
 | :musical_note: Singing & Dancing/歌舞表演 | Students | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) | 2:00  |
 | :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) | 2:25 |
 | :musical_keyboard: Piano/钢琴独奏 | Rachel Wang (11) | Stoller Middle School | 2:55 |
 | :dress: Kids Fashion Show/集体时装走秀 | Community Kids | [Oceana Blue Productions](http://oceanablueproductions.com/) | 3:00 |
 | :musical_keyboard: Piano/钢琴演奏| Patrick, Feifei, Xingyou, etc. | WeChat Piano Group/家有琴童群 | 3:15 |
-| :gift: Prize Drawing/抽奖 | | | 3:40 |
+| :gift: Raffle Drawing/抽奖 | | | 3:40 |
 
 ## 小艺术家艺术作品展示/Community Fair Youth Art Showcase
 
@@ -194,7 +194,7 @@ The Community Fair committee has decided to add another dimension to the extra-c
 
 The Simpson and Staphine are two brands that we are showcasing at the fair. Clothing are provided.  A training session will be held at the Embassy Suites by Hilton on the evening of April 13th at 7:00 p.m. The run-way show will be at 3 p.m. on the day of the event.
 
-## 感谢慷慨的礼品捐赠者们，每个小时进行一次抽奖/Hourly Prize Drawing
+## 感谢慷慨的礼品捐赠者们，每个小时进行一次抽奖/2 Times Raffle Drawing
 
 | Items | Quantity | Images |
 | --- | ---: | --- |
@@ -202,8 +202,8 @@ The Simpson and Staphine are two brands that we are showcasing at the fair. Clot
 | 5/20 Stars on Ice tickets ($50)| 4 | [image](/assets/images/cfdafad8bf7314691f7468ee79e894cb.jpg) |
 | Luxury Sport Racks ($60+)| 4 | [image1](/assets/images/d1f00a79d3d155afca2ada62184f5eeb.jpg), [image2](/assets/images/b9d71135aa85d10d84706901727d6337.jpg) |
 |Reach Wheel Step ($25+) | 5 |  [image1](/assets/images/ReachWheelStep1.jpg),[image2](/assets/images/ReachWheelStep2.jpg),[image3](/assets/images/ReachWheelStep3.jpg) |
-| Tickets to Lan Su Garden ($20 for 2) | 14 | |
-| Herb Guru Drinks ($10) | 15 | [image](http://www.herbgurubrand.com/)|
+| Tickets to Lan Su Garden ($30 for 3) | 5 | |
+| Herb Guru Drinks ($10) | 5 | [image](http://www.herbgurubrand.com/)|
 | [Chin's Kitchen](http://www.portlandchinskitchen.com/) 30% Discount Certificates | 5 |  |
 | [Oregon Artist School](http://www.orartist.com) $100 off Coupon | 3 |  |  
 
