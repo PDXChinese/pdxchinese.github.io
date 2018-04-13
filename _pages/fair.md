@@ -154,13 +154,13 @@ All vendors' names and contacts info will be kept here till next year's communit
 | :musical_keyboard: Piano/钢琴独奏 | Arthur Tan (13) | Cedar Park Middle School | 11:55 |
 | :musical_note: Singing & Dancing/歌舞表演 | Students | [RYZ Ballet Studio](mailto:Ellenzh530@hotmail.com) | 12:00 |
 | :musical_note: Singing & Dancing/歌舞表演 | Students | [Oregon Artist School](http://www.orartist.com) | 12:05 |
-| :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) | 12:20 |
+| :microphone: 波特兰私人商业投资要领 | Feng Xiao | Private Investor | 12:20 |
 | :musical_keyboard: Piano/钢琴独奏 | Ashley Ma (8) | Springville K-8 School | 12:55 |
 | :musical_note: Singing & Dancing/歌舞表演 | Students & Parents | [Oregon Hope Chinese School](http://www.oregon-hope.org) | 1:00 |
 | :gift: Prize Drawing/抽奖| | | 1:25 |
 | :musical_keyboard: Piano/钢琴独奏 | Sophia Ma (10) | Springville K-8 School | 1:55 |
 | :musical_note: Singing & Dancing/歌舞表演 | Students | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) | 2:00  |
-| :microphone: 波特兰私人商业投资要领 | Feng Xiao | Private Investor | 2:25 |
+| :microphone: Bilingual Education/双语教育 | Yanzhuo Zhou | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) | 2:25 |
 | :musical_keyboard: Piano/钢琴独奏 | Rachel Wang (11) | Stoller Middle School | 2:55 |
 | :dress: Kids Fashion Show/集体时装走秀 | Community Kids | [Oceana Blue Productions](http://oceanablueproductions.com/) | 3:00 |
 | :musical_keyboard: Piano/钢琴演奏| Patrick, Feifei, Xingyou, etc. | WeChat Piano Group/家有琴童群 | 3:15 |
