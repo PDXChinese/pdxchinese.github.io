@@ -9,7 +9,7 @@ For more complete event schedule, please click on [Shared Community Calendar](ht
 
 ## Group Volunteering Opportunities at Oregon Food Bank
 
-Dates： May 19，2018; June 9，2018; 7/14/2018 
+Dates： May 19，2018; June 9，2018; 7/14/2018
 
 Time：12:45 pm - 3:30 pm
 
@@ -29,7 +29,9 @@ Date: 4/28/2108 9:30 AM
 
 Place: Eastport Plaza
 
-To register:http://signup.com/go/HwpLoiA
+To register:[http://signup.com/go/HwpLoiA](http://signup.com/go/HwpLoiA)
+
+![]({{ site.url }}/assets/images/divider.jpg)
 
 ## Rose Festival Starlight Parade with Lee's Assoc Dragon Team
 
@@ -39,4 +41,4 @@ Date: 6/2/2108 8 PM
 
 Place: Downtown North Park Blocks
 
-To register: http://signup.com/go/ZZKCqWu
+To register: [http://signup.com/go/ZZKCqWu](http://signup.com/go/ZZKCqWu)
