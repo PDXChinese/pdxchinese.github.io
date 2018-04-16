@@ -27,13 +27,17 @@ We come together, serving our community where we raise our families, helping tho
 
 Dec 26, 2017 8:45 am - 11:30 am ([30 attended](http://pdxchinese.org/food-bank-2017/))
 
-March 17, 2018 12:45 pm - 3:30 pm
+March 17, 2018 12:45 pm - 3:30 pm ([24 attended](http://pdxchinese.org/oregon-food-bank-03072017/))
 
-April 14, 2018 12:45 pm - 3:30 pm
+April 14, 2018 12:45 pm - 3:30 pm (24 attended)
 
 May 19, 2018 1:00 pm - 3:30 pm
 
 June 9, 2018 1:00 pm - 3:30 pm
+
+July 14, 2018 1:00 pm - 3:30 pm
+
+August 4, 2018 1:00 pm - 3:30 pm
 
 ### Address
 
