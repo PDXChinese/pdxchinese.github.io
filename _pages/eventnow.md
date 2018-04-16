@@ -1,5 +1,5 @@
 ---
-title: "Update on Community Events "
+title: "Upcoming Community Events OCC Organizes or Participates "
 permalink: /eventnow/
 ---
 
