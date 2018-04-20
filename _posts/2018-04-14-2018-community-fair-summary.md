@@ -261,7 +261,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 钢琴表演报名接龙 (4 spots)
 
-时间 | 姓名 | 年龄 | 曲目 | 时长 | 学校 |
+| 时间 | 姓名 | 年龄 | 曲目 | 时长 | 学校 |
 | ---: | --- | ---: | --- | ---: | --- |
 | 11:55 am | Arthur Tan | 13 | Unity | 3:00 | Cedar Park Middle School |
 | 12:55 am Ashley Ma | 8 | Polonaise | | Springville K-8 School |
