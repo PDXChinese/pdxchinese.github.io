@@ -264,9 +264,9 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 | 时间 | 姓名 | 年龄 | 曲目 | 时长 | 学校 |
 | ---: | --- | ---: | --- | ---: | --- |
 | 11:55 am | Arthur Tan | 13 | Unity | 3:00 | Cedar Park Middle School |
-| 12:55 am Ashley Ma | 8 | Polonaise | | Springville K-8 School |
-| 1:55 pm Sophia Ma | 10 | Sonatina in G | 2:00 | Springville K-8 School |
-| 2:55 pm Rachel Wang 11 | Canon D | 5:00 | Stoller Middle School |
+| 12:55 am | Ashley Ma | 8 | Polonaise | | Springville K-8 School |
+| 1:55 pm | Sophia Ma | 10 | Sonatina in G | 2:00 | Springville K-8 School |
+| 2:55 pm | Rachel Wang | 11 | Canon D | 5:00 | Stoller Middle School |
 
 琴童群 Layla’s Piano Studio performance program  
 
