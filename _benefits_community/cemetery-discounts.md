@@ -9,3 +9,9 @@ title: "林肯墓园/日落纪念墓园折扣计划"
 中华会馆在林肯墓园有少量特价墓地，适合特困家庭。
 
 折扣使用：提及您是华人社区成员即可
+
+另外，和上面折扣计划没有关系的，群友Simon提供购买寿衣的信息：
+
+Try Portland Closeout on NE 82nd by Madison HS.
+
+Also VG next to Wong's King might have some.
