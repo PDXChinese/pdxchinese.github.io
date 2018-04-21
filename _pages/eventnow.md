@@ -31,6 +31,10 @@ Place: Eastport Plaza
 
 To register:[http://signup.com/go/HwpLoiA](http://signup.com/go/HwpLoiA)
 
+Also please join the wechat group,
+
+![]({{ site.url }}/assets/images/dragongroup.jpg)
+
 ![]({{ site.url }}/assets/images/divider.jpg)
 
 ## Rose Festival Starlight Parade with Lee's Assoc Dragon Team
@@ -42,3 +46,7 @@ Date: 6/2/2108 8 PM
 Place: Downtown North Park Blocks
 
 To register: [http://signup.com/go/ZZKCqWu](http://signup.com/go/ZZKCqWu)
+
+Also please join the wechat group,
+
+![]({{ site.url }}/assets/images/dragongroup.jpg)
