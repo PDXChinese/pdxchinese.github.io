@@ -271,6 +271,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 琴童群 Layla’s Piano Studio performance program  
 
 | 姓名 | 曲目 |
+| --- | --- |
 | Patrick Huang | 1. Minute in F major by Wolfgang Amadeus Mozart  2.Jupiter by Gustav Holst |
 | Feifei Wan | 1.Dancing bear  2.Mountain Climbing |
 | Xingyou Sun | 1.Shadow Dance 2.布谷鸟 |
