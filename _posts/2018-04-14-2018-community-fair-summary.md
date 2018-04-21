@@ -2,7 +2,7 @@
 title: "2018 Community Fair 办成了社区的一大盛事"
 author: XiBei Zhao
 excerpt: "上个周六的社区联展不能不说是“轰轰烈烈”，即便是和许多活动“撞车”，参与的人数远远超出了我们的预期，我想这是与我们举办联展的宗旨有着直接的关系。首先，我们的确在弥补我们社区在这方面的不足，没有一个自己的Community Fair，无论如何是说不过去的，正好要结合筹建华人商会的机会，我们决定通过这次活动试一试水，为商会的成立积累经验。"
-date: "2018-04-14"
+date: "2018-04-19"
 ---
 
 The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is shown below.
@@ -149,7 +149,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 这项活动在联展现场可能made the biggest buzz，这个不奇怪，因为在我们社区这还是没有过的新鲜事。在我们组委会最初讨论这个可能性的时候，绝大多数人还是不确定的，毕竟与我们社区孩子的课外活动的“主旋律”相差甚远。最后，和Kerry见了面，把我们OCC组织和我们在社区要做的事情原原本本介绍给了她。她是个生意人，做事很爽快，完全接受把这次组织社区孩子们走秀定位为一项公益活动。有了这个界定，马上在群里公布，说心里话，以为会有三五人报名，没想到，“玩心重”的家长还真的不少，好像是一天时间就有30多家报了名。
 
-在Kerry的专业指导下，孩子们经历了人生第一次audition，第一次donut hair style，第一次（很可能）professional makeup，第一次走上T台。记得在audition上，Kerry让我做开场白，结果我就不知道T台用英文怎么说，莫非是T Platform？被Kerry捡了个笑话，才知道是叫Runway，还特意提醒我不是Run away。
+在Kerry的专业指导下，孩子们经历了人生第一次audition，第一次做hair donut，第一次（很可能）professional makeup，第一次走上T台。记得在audition上，Kerry让我做开场白，结果我就不知道T台用英文怎么说，莫非是T Platform？被Kerry捡了个笑话，才知道是叫Runway，还特意提醒我不是Run away。
 
 我和家长们见证了孩子在短短的两个星期的经历，从audition那个evening的羞涩和少许的笨拙，到连展会上的从容与自信，每个孩子都经历了一个飞跃，不仅仅是如何走T台，如何有Eye Contact，如何面带微笑。。。这也是我们所期待的，我们能够给社区孩子们提供的，无论是什么内容，提高他们的自信心是最最重要的。
 
