@@ -21,20 +21,6 @@ Address：1870 NW 173rd Ave, Beaverton, OR 97006
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
-## Rose Festival SE Portland Parade with Lee's Assoc Dragon Team
-
-Need 20 volunteers to be part of dragon dance team.
-
-Date: 4/28/2108 9:30 AM
-
-Place: Eastport Plaza
-
-To register:[http://signup.com/go/HwpLoiA](http://signup.com/go/HwpLoiA)
-
-Also please join the wechat group,
-
-![]({{ site.url }}/assets/images/dragongroup.jpg)
-
 ![]({{ site.url }}/assets/images/divider.jpg)
 
 ## Rose Festival Starlight Parade with Lee's Assoc Dragon Team
@@ -45,8 +31,4 @@ Date: 6/2/2108 8 PM
 
 Place: Downtown North Park Blocks
 
-To register: [http://signup.com/go/ZZKCqWu](http://signup.com/go/ZZKCqWu)
-
-Also please join the wechat group,
-
-![]({{ site.url }}/assets/images/dragongroup.jpg)
+Please join the wechat group.
