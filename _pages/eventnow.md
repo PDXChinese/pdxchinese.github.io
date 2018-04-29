@@ -21,8 +21,6 @@ Address：1870 NW 173rd Ave, Beaverton, OR 97006
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
-![]({{ site.url }}/assets/images/divider.jpg)
-
 ## Rose Festival Starlight Parade with Lee's Assoc Dragon Team
 
 Need 20 volunteers to be part of dragon dance team.
