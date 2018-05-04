@@ -29,4 +29,12 @@ Date: 6/2/2108 8 PM
 
 Place: Downtown North Park Blocks
 
-Please join the wechat group.
+Please join 《2018舞龙活动》WeChat group.
+
+## 2018 Oregon Chinese Youth Conference 俄勒冈华裔青少年年会
+
+Date：7/8/2018 10:00 am - 4:00 pm
+
+Place：DoubleTree Hotel by Hilton Portland - Beaverton (15402 NW Cornell Rd., Beaverton, OR 97006)
+
+More details: [http://pdxchinese.org/youthconference/](http://pdxchinese.org/youthconference/)
