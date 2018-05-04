@@ -31,6 +31,8 @@ Place: Downtown North Park Blocks
 
 Please join 《2018舞龙活动》WeChat group.
 
+![]({{ site.url }}/assets/images/divider.jpg)
+
 ## 2018 Oregon Chinese Youth Conference 俄勒冈华裔青少年年会
 
 Date：7/8/2018 10:00 am - 4:00 pm
