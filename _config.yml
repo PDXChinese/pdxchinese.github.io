@@ -363,7 +363,7 @@ collections:
     permalink: /resources/:collection/:path/
   youthconf:
     output: true
-    permalink: /youthconference/:path/    
+    permalink: /youthconference/:path/
 
 # Defaults
 defaults:
@@ -687,9 +687,9 @@ defaults:
       layout: single
       author_profile: false
   # youthconf
-    - scope:
-        path: ""
-        type: youthconf
-      values:
-        layout: single
-        author_profile: false
+  - scope:
+      path: ""
+      type: youthconf
+    values:
+      layout: single
+      author_profile: false
