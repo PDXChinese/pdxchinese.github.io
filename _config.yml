@@ -363,7 +363,7 @@ collections:
     permalink: /resources/:collection/:path/
   youthconf:
     output: true
-    permalink: /youthconference/:collection/:path/
+    permalink: /youthconference/:path/    
 
 # Defaults
 defaults:
