@@ -361,6 +361,9 @@ collections:
   professionals_tutor:
     output: true
     permalink: /resources/:collection/:path/
+  youthconf:
+    output: true
+    permalink: /youthconference/:collection/:path/
 
 # Defaults
 defaults:
@@ -683,3 +686,10 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # youthconf
+    - scope:
+        path: ""
+        type: youthconf
+      values:
+        layout: single
+        author_profile: false
