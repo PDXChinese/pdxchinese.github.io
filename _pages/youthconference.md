@@ -20,3 +20,5 @@ DoubleTree Hotel by Hilton Portland - Beaverton
 Coming soon...
 
 [Also see 2017 Youth Conference](http://pdxchinese.org/youthconference/youth_conference_2017/)
+
+[2017俄勒冈华裔青少年年会成功举办/Summary and Reflection](http://pdxchinese.org/youth-conference/)
