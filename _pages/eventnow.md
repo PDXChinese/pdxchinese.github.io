@@ -33,6 +33,18 @@ Please join 《2018舞龙活动》WeChat group.
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
+## 玫瑰节（波特兰）华裔玫瑰公主和皇后加冕仪式及时尚晚会/Award Night and Fashion Event & Fashion Show Dinner Gala
+
+Date: 6/10/2018 (Sunday)
+
+Time: 5:00pm - 9:00pm
+
+Place: Multnomah Athletic Club (MAC Club) Ballroom, 1849 SW Salmon Street, Portland OR 97205
+
+Buy tickets: [http://oceanablueproductions.com/?page_id=23](http://oceanablueproductions.com/?page_id=23)
+
+![]({{ site.url }}/assets/images/divider.jpg)
+
 ## 2018 Oregon Chinese Youth Conference 俄勒冈华裔青少年年会
 
 Date：7/8/2018 10:00 am - 4:00 pm
