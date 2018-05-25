@@ -22,6 +22,12 @@ Buy tickets: [http://oceanablueproductions.com/?page_id=23](http://oceanabluepro
 
 ![]({{ site.url }}/assets/images/2e71b7e0f0796366abfdacc2418aa406.jpg)
 
+![]({{ site.url }}/assets/images/da6423d40089fa000a3640f94e36ea28.temp.jpg)
+
+![]({{ site.url }}/assets/images/3a587f6e207d1c9a36da8b2ace135162.jpg)
+
+![]({{ site.url }}/assets/images/936840b24d56c3574db6c2f74511d882.jpg)
+
 【5/25 第二场平面摄影】
 
 明天（周五）下午三点将是第二场拍照活动时间，上午问过，还有位子。有兴趣参加评选玫瑰公主和皇后的，请加入《2018 玫瑰公主加冕暨时尚晚会》小群，具体情况与群里的兔子坡联系。目前看来，参加评选玫瑰公主的明显多于参加评选玫瑰皇后的。
