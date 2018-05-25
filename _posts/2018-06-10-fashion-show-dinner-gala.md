@@ -5,6 +5,15 @@ excerpt: "还有两个多星期即将在MAC俱乐部的舞厅隆重登场，这�
 date: "2018-06-10"
 ---
 
+Date: 6/10/2018 (Sunday)
+
+Time: 5:00pm - 9:00pm
+
+Place: Multnomah Athletic Club (MAC Club) Ballroom, 1849 SW Salmon Street, Portland OR 97205
+
+Buy tickets: [http://oceanablueproductions.com/?page_id=23](http://oceanablueproductions.com/?page_id=23)
+
+
 【2018 玫瑰节（波特兰）华裔玫瑰公主和皇后加冕仪式及时尚晚会】 还有两个多星期即将在MAC俱乐部的舞厅隆重登场，这将是我们本地华人社会的一件大事，Kerry倾力将多年在业内累积的资源投放到这项活动当中，经由专业人士打造的成果已经初见倪端，下面的一组照片就是第一场拍照活动中的作品，照片上的主人公都是我们社区的孩子们，她们就是平时在您身边活蹦乱跳的黄毛丫头。在活动中，孩子们相互看到的彼此的美丽，家长们看到自己调皮孩子公主的一面，教练老师则是看到孩子脸上满满的自信，我们社区则是感受到孩子们的天地更加多彩。
 
 ![]({{ site.url }}/assets/images/fd25e9c3030f12bf48c23017217b32ae.jpg)
