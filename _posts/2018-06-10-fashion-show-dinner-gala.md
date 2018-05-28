@@ -1,11 +1,11 @@
 ---
 title: "玫瑰节(波特兰)华裔玫瑰公主和皇后加冕仪式暨时尚晚会"
 author: XiBei Zhao
-excerpt: "还有两个多星期即将在MAC俱乐部的舞厅隆重登场，这将是我们本地华人社会的一件大事，Kerry倾力将多年在业内累积的资源投放到这项活动当中，经由专业人士打造的成果已经初见倪端，下面的一组照片就是第一场拍照活动中的作品，照片上的主人公都是我们社区的孩子们，她们就是平时在您身边活蹦乱跳的黄毛丫头。在活动中，孩子们相互看到的彼此的美丽，家长们看到自己调皮孩子公主的一面，教练老师则是看到孩子脸上满满的自信，我们社区则是感受到孩子们的天地更加多彩。"
+excerpt: "还有两个多星期即将在MAC俱乐部多功能厅隆重登场，这将是我们本地华人社会的一件大事，Kerry倾力将多年在业内积累的资源投放到这项活动当中，经由专业人士打造的成果已经初见倪端，下面的一组照片就是第一场拍照活动中的作品，照片上的主人公都是我们社区的孩子们，她们就是平时在您身边活蹦乱跳的黄毛丫头。在活动中，孩子们相互看到的彼此的美丽，家长们看到自己调皮孩子公主的一面，教练老师则是看到孩子脸上满满的自信，我们社区则是感受到孩子们的天地更加多姿多彩。"
 date: "2018-06-10"
 ---
 
-# Rose Festival Fashion Gala & Fashion Show Dinner (Chinese Community, Portland, Oregon)
+# Rose Festival Fashion Gala & Fashion Show Dinner (Portland Chinese Community)
 
 Date: 6/10/2018 (Sunday)
 
@@ -37,7 +37,7 @@ There will be one Princess and one Queen at the ﬁnal crowning. Each age group 
 
 Miss and Ms. Chinese Rose Queen and Princess are the highlight of the Rose Festival of 2018 for Chinese community and its people. It is a way to show our unity and involvement with the City of Portland and internationally. Recogize the beauty and strength of our culture and our people.
 
-### Segment 2: asion Show/时装秀
+### Segment 2: Fashion Show/时装秀
 
 We will have 20+ models coming from local Chinese community, and professional model circle in the City of Portland, Canada as well as China.
 
