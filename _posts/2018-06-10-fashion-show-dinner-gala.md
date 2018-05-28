@@ -29,7 +29,7 @@ Buy tickets: [http://oceanablueproductions.com/?page_id=23](http://oceanabluepro
 
 ![]({{ site.url }}/assets/images/936840b24d56c3574db6c2f74511d882.jpg)
 
-* more to be added.
+* more photos to be added.
 
 ## Fashion Show Segments
 
