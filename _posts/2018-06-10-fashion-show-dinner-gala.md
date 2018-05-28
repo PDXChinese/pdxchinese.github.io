@@ -80,6 +80,6 @@ Judge 6 -  Tes Barnett, Publisher and Editor in Chief of Runway Life Internation
 
 Judge 7 - Sing Chang, Founder of International Miss Tourist Pageant USA - CEO of XingYu Cultural and Entertainment Company in Silicon Valley.
 
-![]({{ site.url }}/assets/images/2018fashionmedia.jpg)
+![]({{ site.url }}/assets/images/2018fasionmedia.jpg)
 
-![]({{ site.url }}/assets/images/2018fashionmedia0.jpg)
+![]({{ site.url }}/assets/images/2018fasionmedia0.jpg)
