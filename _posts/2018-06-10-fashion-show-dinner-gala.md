@@ -15,6 +15,8 @@ Place: Multnomah Athletic Club (MAC Club) Ballroom, 1849 SW Salmon Street, Portl
 
 Buy tickets: [http://oceanablueproductions.com/?page_id=23](http://oceanablueproductions.com/?page_id=23)
 
+## Participants of Miss and Ms. Chinese Rose Princess & Rose Queen Photo Shoot and Contest
+
 ![]({{ site.url }}/assets/images/fd25e9c3030f12bf48c23017217b32ae.jpg)
 
 ![]({{ site.url }}/assets/images/758a7082d31c9e6cea141b2032ff4efe.jpg)
@@ -26,6 +28,8 @@ Buy tickets: [http://oceanablueproductions.com/?page_id=23](http://oceanabluepro
 ![]({{ site.url }}/assets/images/3a587f6e207d1c9a36da8b2ace135162.jpg)
 
 ![]({{ site.url }}/assets/images/936840b24d56c3574db6c2f74511d882.jpg)
+
+* more to be added.
 
 ## Fashion Show Segments
 
@@ -41,7 +45,7 @@ Miss and Ms. Chinese Rose Queen and Princess are the highlight of the Rose Festi
 
 We will have 20+ models coming from local Chinese community, and professional model circle in the City of Portland, Canada as well as China.
 
-Participants in Miss and Ms. Chinese Rose Princess & Rose Queen Photo Shoot and Contest will join the show too.
+Participants of Miss and Ms. Chinese Rose Princess & Rose Queen Photo Shoot and Contest will join the show too.
 
 ### Segment 3: Mom and Daughter/Son Fashion Show Contest/亲子秀
 
