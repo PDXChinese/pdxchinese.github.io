@@ -29,7 +29,7 @@ Buy tickets: [http://oceanablueproductions.com/?page_id=23](http://oceanabluepro
 
 ![]({{ site.url }}/assets/images/936840b24d56c3574db6c2f74511d882.jpg)
 
-* more photos to be added.
+more photos to be added.
 
 ## Fashion Show Segments
 
@@ -59,9 +59,9 @@ A fashion show on qipao, a stylish traditional Chinese dress for ladies, exhibit
 
 Children age from 9-17 years old both boys and girls can sign up for the Kids MC contest, the contest will take place before the fashion gala.
 
-To sign up for becoming the Master of Ceremony (MC) of June 10th fashion gala, two of the winners will be selected to MC the show with our two star MC host Nicole and Jeremiah。
+To sign up for becoming the Master of Ceremony (MC) of June 10th fashion gala, two of the winners will be selected to MC the show with our two star MC host Nicole and Jeremiah.
 
-Contestants will prepare 30 seconds of Monologue. Training class will be provided
+Contestants will prepare 30 seconds of Monologue. Training class will be provided.
 
 ![]({{ site.url }}/assets/images/2018fasionmedia.jpg)
 
