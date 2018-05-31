@@ -29,7 +29,13 @@ Buy tickets: [http://oceanablueproductions.com/?page_id=23](http://oceanabluepro
 
 ![]({{ site.url }}/assets/images/936840b24d56c3574db6c2f74511d882.jpg)
 
-more photos to be added.
+![]({{ site.url }}/assets/images/2018roseprincess1.jpg)
+
+![]({{ site.url }}/assets/images/2018roseprincess2.jpg)
+
+![]({{ site.url }}/assets/images/2018roseprincess3.jpg)
+
+![]({{ site.url }}/assets/images/2018rosequeen1.jpg)
 
 ## Fashion Show Segments
 
