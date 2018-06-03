@@ -71,6 +71,14 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 即将开业的鼎泰丰如果知道Shandong (小籠包)，我想他们的自信一定会大打折扣的。 因为要参加后面的舞龙，我很不好意思吃了三个小笼包子，各各都是一包汤，满口的美味[ThumbsUp]
 
+Venus Sun  12:01
+
+哇 一早醒來才看到@西北兆 已經把昨晚的美食晚會簡報給大家 真心感謝昨晚參與的各位 能夠在蘭蘇園看到那麼多的華人朋友 實在太開心了 以後我也會繼續努力 分享各種蘭蘇園文化活動給大家知道 希望大家能多給我指教鼓勵
+
+西北兆  12:08
+
+@Venus Sun 组织这样一场活动，肯定是辛苦了[Salute] 感谢您给社区提供这个机会，除了美景美食美妙的音乐，更重要的是大家有机会聚在一起，同时又能为兰苏园做些什么，真的是非常有意义的一件事/:strong
+
 The chatting history for this WeChat group "6/2 兰苏园Taste of Asia团购群" is shown below.
 
 —————  2018-05-28  —————
