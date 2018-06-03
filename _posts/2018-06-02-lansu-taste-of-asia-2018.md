@@ -19,8 +19,6 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 ![]({{ site.url }}/assets/images/7ed5f10812b364a2ab3105f0dfe19567.jpg)
 
-
-
 ![]({{ site.url }}/assets/images/1afba08fe03203792c5271b2177f21ee.jpg)
 
 ![]({{ site.url }}/assets/images/5aac1157173451e11149dab4f96b166a.jpg)
@@ -46,8 +44,6 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 ![]({{ site.url }}/assets/images/5a60a67299317f6842bbaa6281a18c5a.jpg)
 
 ![]({{ site.url }}/assets/images/7f88166d4a533116c09f32d247a23a09.jpg)
-
-![]({{ site.url }}/assets/images/24f388eb085884cb55342db89b9689db.jpg)
 
 ![]({{ site.url }}/assets/images/b18262c28251772fcfb11c03f66c5107.jpg)
 
@@ -117,4 +113,4 @@ Lihong  23:33
 
 Venus Sun  23:58
 
-有興趣查詢各家餐廳的網站及更多資訊的話 可以參考一下蘭蘇的晚會活動頁面 點擊餐廳名稱就會連到他們的[網站](https://lansugarden.org/things-to-do/events/taste-of-asia)
+有興趣查詢各家餐廳的網站及更多資訊的話 可以參考一下蘭蘇的晚會活動頁面 點擊餐廳名稱就會連到他們的[網站](https://lansugarden.org/things-to-do/events/taste-of-asia)。
