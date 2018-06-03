@@ -49,7 +49,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 ![]({{ site.url }}/assets/images/b18262c28251772fcfb11c03f66c5107.jpg)
 
-下面是此次参加活动的店家，很多是头一次知道，感谢兰苏园提供了这么好的一次机会，让我们知道了这么多深藏在巷子里面的店家。
+下面是此次参加活动的店家，很多是头一次知道，感谢兰苏园提供了这么好的一次机会，让我们知道了这么多深藏在巷子里面的美食。
 
 | Shandong | 小籠包 |
 | Tambayan | 菲律賓炒麵跟滷雞翅 |
