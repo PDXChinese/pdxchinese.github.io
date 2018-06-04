@@ -21,18 +21,6 @@ Address：1870 NW 173rd Ave, Beaverton, OR 97006
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
-## Rose Festival Starlight Parade with Lee's Assoc Dragon Team
-
-Need 20 volunteers to be part of dragon dance team.
-
-Date: 6/2/2108 8 PM
-
-Place: Downtown North Park Blocks
-
-Please join 《2018舞龙活动》WeChat group.
-
-![]({{ site.url }}/assets/images/divider.jpg)
-
 ## 玫瑰节（波特兰）华裔玫瑰公主和皇后加冕仪式及时尚晚会/Award Night and Fashion Event & Fashion Show Dinner Gala
 
 Date: 6/10/2018 (Sunday)
