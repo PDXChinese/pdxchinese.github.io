@@ -22,6 +22,10 @@ title: "公益性质的团购活动"
 
 [Stars on Ice](http://rosequarter.com/event/stars-on-ice/)
 
+### 6/2/2018 Lansu Garden
+
+[Taste of Asia](https://lansugarden.org/things-to-do/events/taste-of-asia)
+
 ### 6/23/18 Moda Center
 
 [Andrea Bocelli Concert](http://rosequarter.com/event/andrea-bocelli/)
