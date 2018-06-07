@@ -6,7 +6,7 @@ sidebar:
     text: "Bethany Village, OR 97229"
     image: "/assets/images/activities/spark.jpg"
   - title: "Email"
-    text: "info@sparkteched.org"
+    text: "[info@sparkteched.org](mailto:info@sparkteched.org)"
   - title: "Website"
     text: "[http://www.sparkteched.org/](http://www.sparkteched.org/)"
 ---

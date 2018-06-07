@@ -6,7 +6,7 @@ sidebar:
     text: "Bethany Village, OR 97229"
     image: "/assets/images/activities/tech4kids.png"
   - title: "Email"
-    text: "tech4kids@tech4kidsclub.org"
+    text: "[tech4kids@tech4kidsclub.org](mailto:tech4kids@tech4kidsclub.org)"
   - title: "Website"
     text: "[http://www.tech4kidsclub.org/](http://www.tech4kidsclub.org/)"
 ---
