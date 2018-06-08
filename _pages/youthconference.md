@@ -49,11 +49,11 @@ Youth Empowerment Award
 
 ### Afternoon Session: Seminars on Youth Physical and Mental Health
 
-1:30 pm - 2:15 Prevention and treatment for school-myopia, by Prof. Yue Liu, UC Berkeley & Pacific University
+1:30 pm - 2:15 Substance Use Prevention and Recovery, by Pam Pearce, Community Living Above
 
 2:15 pm - 3:00 Mental Health: Reality and Solutions, by Phycologist at OPA
 
-3:00 pm - 3:45 Substance Use Prevention and Recovery, by Pam Pearce, Community Living Above
+3:00 pm - 3:45 Prevention and treatment for school-myopia, by Prof. Yue Liu, UC Berkeley & Pacific University
 
 4:00 pm - 5:00 pm Bonus Session: An Insider View on College Application, Prof. Yue Liu, Scholarship Review Committee, UC Berkeley
 
