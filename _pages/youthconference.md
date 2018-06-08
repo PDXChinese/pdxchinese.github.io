@@ -53,7 +53,7 @@ To let Victoria's sweetest smile brighten other children in the community who ne
 
 * Voice of Civic Engagement Award
 
-To encourage more youth to take a stand in public hearings or similar occasions.
+To encourage more youth to take a stand in public hearings or on any community platforms.
 
 * Youth Empowerment Award
 
