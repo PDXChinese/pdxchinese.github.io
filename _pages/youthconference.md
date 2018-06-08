@@ -57,17 +57,17 @@ Youth Empowerment Award
 
 3:30 pm - 4:00 Bonus Session: An Insider View on College Application, Prof. Yue Liu, Scholarship Review Committee UCLA
 
-### [Conference Application Form for Student in Middle & High Schools, Colleges](https://docs.google.com/forms/d/e/1FAIpQLSfP5DP8rN05m37MoZ2fE5m5kj-8EXcmz72JbVP5g3L6TqMkrA/viewform?c=0&w=1)
+### [Conference Registration Form for Student in Middle & High Schools, Colleges](https://docs.google.com/forms/d/e/1FAIpQLSfP5DP8rN05m37MoZ2fE5m5kj-8EXcmz72JbVP5g3L6TqMkrA/viewform?c=0&w=1)
 
 ## Booth
 
-8:30 am Setup
+8:45 am Setup
 
 9:00 am Open to Conference Attendees
 
-[Application Form for Exhibit Booth](https://docs.google.com/forms/d/e/1FAIpQLScIhWP3pUAZuqBXZYI3DzgLtV-oWuts6jaLunIfuPR-wFoqUw/viewform?c=0&w=1)
+[Registration Form for Exhibit Booth](https://docs.google.com/forms/d/e/1FAIpQLScIhWP3pUAZuqBXZYI3DzgLtV-oWuts6jaLunIfuPR-wFoqUw/viewform?c=0&w=1)
 
-## Speakers
+## Distinguished Speakers
 
 ## Knute Buehler
 <p><img src="/assets/images/activities/Knute_buehler.jpg"></p>
