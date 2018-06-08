@@ -27,13 +27,13 @@ Check in starts from 9:00 am
 
 ### Morning Session: Motivational Speeches by Distinguished Guests
 
-10:00 am – 10:30 am	Knute Buehler, Oregon State’s first Rhodes Scholar, now Republican Candidate for State Governor
+10:00 am – 10:30 am	**Knute Buehler**, Oregon State’s first Rhodes Scholar, now Republican Candidate for State Governor
 
-10:30 am – 11:00 am	Jo Ann Hardesty, Former President, NAACP Portland, now Running for Portland City Council
+10:30 am – 11:00 am	**Jo Ann Hardesty**, Former President, NAACP Portland, now Running for Portland City Council
 
 11:00 am – 11:30 am TBD
 
-11:30 am – 12:00 am	Pam Pearce, a popular and highly sought after prevention educator, President of the Community Living Above
+11:30 am – 12:00 am	**Pam Pearce**, a popular and highly sought after prevention educator, President of the Community Living Above
 
 ### 12:00 pm – 1:00 pm Group Photo, Lunch, Interact with Speakers, Visit Booths
 
@@ -47,29 +47,29 @@ Kpop Dance by Ekki, see her [dance portfolio](https://www.instagram.com/yvnnnl/)
 
 ### 1:00 pm - 1:30 pm Awards Ceremony
 
-Victoria Ren Scholarship --
+**Victoria Ren Scholarship**
 
-To let Victoria's sweetest smile brighten other children in the community who need assistance emotionally and/or financially.
+-- To let Victoria's sweetest smile brighten other children in the community who need assistance emotionally and/or financially.
 
-Voice of Civic Engagement Award --
+**Voice of Civic Engagement Award**
 
-To encourage more youth to take a stand in public hearings or similar occasions.
+-- To encourage more youth to take a stand in public hearings or similar occasions.
 
-Youth Empowerment Award --
+**Youth Empowerment Award**
 
-To acknowledge those who step out to bring others to grow and excel with them.
+-- To acknowledge those who step out to bring others to grow and excel with them.
 
 ### Afternoon Session: Seminars on Youth Physical and Mental Health
 
-1:30 pm - 2:15 Substance Use Prevention and Recovery, by Pam Pearce, Community Living Above
+1:30 pm - 2:15 Substance Use Prevention and Recovery, by **Pam Pearce**, Community Living Above
 
 2:15 pm - 3:00 Mental Health: Reality and Solutions, by Phycologist at OPA
 
-3:00 pm - 3:45 Prevention and treatment for school-myopia, by Prof. Yue Liu, UC Berkeley & Pacific University
+3:00 pm - 3:45 Prevention and treatment for school-myopia, by **Prof. Yue Liu**, UC Berkeley & Pacific University
 
 ### 4:00 pm - 5:00 pm Bonus & Optional Session
 
-An Insider View on College Application, Prof. Yue Liu, Scholarship Review Committee, UC Berkeley
+An Insider View on College Application, **Prof. Yue Liu**, Scholarship Review Committee, UC Berkeley
 
 ## Registration
 
