@@ -65,6 +65,8 @@ Youth Empowerment Award
 
 ### [Conference Registration Form for Student in Middle & High Schools, Colleges](https://docs.google.com/forms/d/e/1FAIpQLSfP5DP8rN05m37MoZ2fE5m5kj-8EXcmz72JbVP5g3L6TqMkrA/viewform?c=0&w=1)
 
+Parents are also welcome if students are not able to attend themselves.
+
 ## Booth
 
 8:45 am Setup
