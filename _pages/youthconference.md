@@ -19,13 +19,13 @@ DoubleTree Hotel by Hilton Portland - Beaverton
 
 Check in starts from 9:00 am
 
-### Morning Session: Speeches by Distinguished Guests
+### Morning Session: Motivational Speeches by Distinguished Guests
 
 10:00 am – 10:30 am	Knute Buehler, Oregon State’s first Rhodes Scholar, now Republican Candidate for State Governor
 
 10:30 am – 11:00 am	Jo Ann Hardesty, Former President, NAACP Portland, now Running for Portland City Council
 
-11:00 am – 11:30 am TBD
+11:00 am – 11:30 am Pam Pearce, a popular and highly sought after prevention educator, President of the Community Living Above.
 
 11:30 am – 12:00 am	TBD
 
@@ -49,11 +49,13 @@ Youth Empowerment Award
 
 ### Afternoon Session: Seminars on Youth Physical and Mental Health
 
-1:30 pm - 2:30 Vision Health: Care and Treatment Options, by Prof. Yue Liu, UCLA & Pacific University
+1:30 pm - 2:15 Prevention and treatment for school-myopia, by Prof. Yue Liu, UC Berkeley & Pacific University
 
-2:30 pm - 3:30 Mental Health: Reality and Solutions, by Phycologist at OPA
+2:15 pm - 3:00 Mental Health: Reality and Solutions, by Phycologist at OPA
 
-3:30 pm - 4:00 Bonus Session: An Insider View on College Application, Prof. Yue Liu, Scholarship Review Committee UCLA
+3:00 pm - 3:45 Substance Use Prevention and Recovery, by Pam Pearce, Community Living Above
+
+4:00 pm - 5:00 pm Bonus Session: An Insider View on College Application, Prof. Yue Liu, Scholarship Review Committee, UC Berkeley
 
 ### [Conference Registration Form for Student in Middle & High Schools, Colleges](https://docs.google.com/forms/d/e/1FAIpQLSfP5DP8rN05m37MoZ2fE5m5kj-8EXcmz72JbVP5g3L6TqMkrA/viewform?c=0&w=1)
 
@@ -74,6 +76,10 @@ Buehler attended Oregon State University graduated from OSU in 1986 with degrees
 ## Jo Ann Hardesty
 <p><img src="/assets/images/activities/JoAnn_Hardesty2.jpeg"></p>
 Hardesty served in the United States Navy, was one of the first women to go on board ships. Sher was elected to the Oregon House in 1994, holding office until 2001. She later served as executive director of Oregon Action, and became president of the Portland chapter of the NAACP in January 2015. Hardesty is running for Portland City Council in 2018.
+
+## Pam Pearce
+<p><img src="/assets/images/activities/PamPearce.jpg"></p>
+A long-time community activist in Oregon, Pam is currently on the steering committee for West Linn Young Life.  Pam is also a Community Organizer for the Portland Leadership Foundation (PLF). Prior to PLF, Pam served as Executive Director of the Teen Division of the YMCA. Pam got her start as an aide to then U.S. Senator Mark Hatfield in Washington, D.C., shortly after attending the University of Southern California. Pam is in her 21st year of long-term recovery and takes advantage of every opportunity to share her passion for the gifts and hope of recovery.
 
 more to add...
 
