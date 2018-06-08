@@ -85,7 +85,7 @@ Parents are also welcome if students are not able to attend themselves.
 
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScIhWP3pUAZuqBXZYI3DzgLtV-oWuts6jaLunIfuPR-wFoqUw/viewform?c=0&w=1) for Exhibit Booth
 
-## Distinguished Speakers
+## Distinguished Guest Speakers
 
 Ordered alphabetically
 
