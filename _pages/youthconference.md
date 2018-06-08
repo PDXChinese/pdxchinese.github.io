@@ -21,8 +21,6 @@ Check in starts from 9:00 am
 
 ### Morning Session: Speeches by Distinguished Guests
 
-(Both students and parents)
-
 10:00 am – 10:30 am	Knute Buehler, Oregon State’s first Rhodes Scholar, now Republican Candidate for State Governor
 
 10:30 am – 11:00 am	Jo Ann Hardesty, Former President, NAACP Portland, now Running for Portland City Council
@@ -31,7 +29,7 @@ Check in starts from 9:00 am
 
 11:30 am – 12:00 am	TBD
 
-### 12:00 pm – 1:00 pm Lunch, Interact with Speakers, Visit Booths
+### 12:00 pm – 1:00 pm Group Photo, Lunch, Interact with Speakers, Visit Booths
 
 12:00 pm - 12:10 pm Taking group photos of participating students and guest speakers
 
