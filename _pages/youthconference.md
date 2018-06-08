@@ -77,6 +77,8 @@ Buehler attended Oregon State University graduated from OSU in 1986 with degrees
 <p><img src="/assets/images/activities/JoAnn_Hardesty.jpg"></p>
 Hardesty served in the United States Navy, was one of the first women to go on board ships. Sher was elected to the Oregon House in 1994, holding office until 2001. She later served as executive director of Oregon Action, and became president of the Portland chapter of the NAACP in January 2015. Hardesty is running for Portland City Council in 2018.
 
+more to add...
+
 ![]({{ site.url }}/assets/images/divider.jpg)
 
 [Also see 2017 Youth Conference](http://pdxchinese.org/youthconference/youth_conference_2017/)
