@@ -74,7 +74,7 @@ Youth Empowerment Award
 Buehler attended Oregon State University graduated from OSU in 1986 with degrees in history and microbiology. Buehler then attended Merton College, Oxford as OSU's first Rhodes Scholar studying philosophy, politics and economics, before graduating from Johns Hopkins Medical School in Baltimore, Maryland. He currently serves in the Oregon House of Representatives. He is currently running for Governor of Oregon in the 2018 election.
 
 ## Jo Ann Hardesty
-<p><img src="/assets/images/activities/JoAnn_Hardesty2.jpg"></p>
+<p><img src="/assets/images/activities/JoAnn_Hardesty2.jpeg"></p>
 Hardesty served in the United States Navy, was one of the first women to go on board ships. Sher was elected to the Oregon House in 1994, holding office until 2001. She later served as executive director of Oregon Action, and became president of the Portland chapter of the NAACP in January 2015. Hardesty is running for Portland City Council in 2018.
 
 more to add...
