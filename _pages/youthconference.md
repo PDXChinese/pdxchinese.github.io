@@ -25,9 +25,9 @@ Check in starts from 9:00 am
 
 10:30 am – 11:00 am	Jo Ann Hardesty, Former President, NAACP Portland, now Running for Portland City Council
 
-11:00 am – 11:30 am Pam Pearce, a popular and highly sought after prevention educator, President of the Community Living Above.
+11:00 am – 11:30 am TBD
 
-11:30 am – 12:00 am	TBD
+11:30 am – 12:00 am	Pam Pearce, a popular and highly sought after prevention educator, President of the Community Living Above
 
 ### 12:00 pm – 1:00 pm Group Photo, Lunch, Interact with Speakers, Visit Booths
 
