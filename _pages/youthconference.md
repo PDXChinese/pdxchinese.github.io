@@ -47,15 +47,15 @@ Kpop Dance by Ekki, see her [dance portfolio](https://www.instagram.com/yvnnnl/)
 
 ### 1:00 pm - 1:30 pm Awards Ceremony
 
-Victoria Ren Scholarship
+Victoria Ren Scholarship --
 
 To let Victoria's sweetest smile brighten other children in the community who need assistance emotionally and/or financially.
 
-Voice of Civic Engagement Award
+Voice of Civic Engagement Award --
 
 To encourage more youth to take a stand in public hearings or similar occasions.
 
-Youth Empowerment Award
+Youth Empowerment Award --
 
 To acknowledge those who step out to bring others to grow and excel with them.
 
