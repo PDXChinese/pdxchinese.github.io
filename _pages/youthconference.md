@@ -13,7 +13,7 @@ permalink: /youthconference/
 
 DoubleTree Hotel by Hilton Portland - Beaverton
 
-15402 NW Cornell Rd. - Beaverton, OR 97006
+15402 NW Cornell Rd. - Beaverton, OR 97006 ([map](https://goo.gl/maps/XNov3hTvDTN2))
 
 ## Co-Organizers
 
