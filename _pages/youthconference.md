@@ -61,7 +61,9 @@ Youth Empowerment Award
 
 3:00 pm - 3:45 Prevention and treatment for school-myopia, by Prof. Yue Liu, UC Berkeley & Pacific University
 
-### 4:00 pm - 5:00 pm Bonus & Optional Session: An Insider View on College Application, Prof. Yue Liu, Scholarship Review Committee, UC Berkeley
+### 4:00 pm - 5:00 pm Bonus & Optional Session
+
+An Insider View on College Application, Prof. Yue Liu, Scholarship Review Committee, UC Berkeley
 
 ### [Conference Registration Form for Student in Middle & High Schools, Colleges](https://docs.google.com/forms/d/e/1FAIpQLSfP5DP8rN05m37MoZ2fE5m5kj-8EXcmz72JbVP5g3L6TqMkrA/viewform?c=0&w=1)
 
