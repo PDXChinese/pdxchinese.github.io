@@ -71,7 +71,9 @@ To acknowledge those who step out to bring others to grow and excel with them.
 
 An Insider View on College Application, Prof. Yue Liu, Scholarship Review Committee, UC Berkeley
 
-### [Conference Registration Form for Student in Middle & High Schools, Colleges](https://docs.google.com/forms/d/e/1FAIpQLSfP5DP8rN05m37MoZ2fE5m5kj-8EXcmz72JbVP5g3L6TqMkrA/viewform?c=0&w=1)
+## Registration
+
+[Conference registration form](https://docs.google.com/forms/d/e/1FAIpQLSfP5DP8rN05m37MoZ2fE5m5kj-8EXcmz72JbVP5g3L6TqMkrA/viewform?c=0&w=1) for middle & high schools, college students.
 
 Parents are also welcome if students are not able to attend themselves.
 
@@ -81,7 +83,7 @@ Parents are also welcome if students are not able to attend themselves.
 
 9:00 am Open to Conference Attendees
 
-[Registration Form for Exhibit Booth](https://docs.google.com/forms/d/e/1FAIpQLScIhWP3pUAZuqBXZYI3DzgLtV-oWuts6jaLunIfuPR-wFoqUw/viewform?c=0&w=1)
+[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScIhWP3pUAZuqBXZYI3DzgLtV-oWuts6jaLunIfuPR-wFoqUw/viewform?c=0&w=1) for Exhibit Booth
 
 ## Distinguished Speakers
 
