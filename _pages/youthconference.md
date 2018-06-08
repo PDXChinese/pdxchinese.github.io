@@ -37,7 +37,7 @@ Check in starts from 9:00 am
 
 ### 12:15 pm – 12:45 pm Performance by Community Youth
 
-Live demo of robotic, two times World Championship
+Live demo of robotic by [Spark Tech Edu](http://www.sparkteched.org/), two times World Championship.
 
 Kpop Dance by Ekki, see her [dance portfolio](https://www.instagram.com/yvnnnl/).
 
