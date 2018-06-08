@@ -63,7 +63,7 @@ To acknowledge those who step out to bring others to grow and excel with them.
 
 1:30 pm - 2:15 Substance Use Prevention and Recovery, by **Pam Pearce**, [Community Living Above](https://communitylivingabove.org/)
 
-2:15 pm - 3:00 Mental Health: Reality and Solutions, by Phycologist at OPA
+2:15 pm - 3:00 Mental Health: Reality and Solutions, by Psychologist at [Oregon Psychologist Association](http://www.opa.org/) 
 
 3:00 pm - 3:45 Prevention and treatment for school-myopia, by **Prof. Yue Liu**, UC Berkeley & Pacific University
 
