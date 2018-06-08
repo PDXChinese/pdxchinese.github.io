@@ -65,7 +65,7 @@ To acknowledge those who step out to bring others to grow and excel with them.
 
 2:15 pm - 3:00 Adolescent Mental Health: Reality and Solutions, by **Celeste Jones, PsyD, ABPP** at George Fox University & [OPA](http://www.opa.org/)
 
-3:00 pm - 3:45 Prevention and treatment for school-myopia, by **Yue Liu, OD, PhD**, UC Berkeley & Pacific University
+3:00 pm - 3:45 Prevention and Treatment for School-Myopia, by **Yue Liu, OD, PhD**, UC Berkeley & Pacific University
 
 ### 4:00 pm - 5:00 pm Bonus & Optional Session
 
