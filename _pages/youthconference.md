@@ -15,6 +15,12 @@ DoubleTree Hotel by Hilton Portland - Beaverton
 
 15402 NW Cornell Rd. - Beaverton, OR 97006
 
+## Co-Organizers
+
+[Tech 4 Kids Club](http://www.tech4kidsclub.org/)
+
+[Spark Technology Education](http://www.sparkteched.org/)
+
 ## Proposed Agenda
 
 Check in starts from 9:00 am
