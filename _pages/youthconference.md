@@ -98,7 +98,7 @@ Buehler attended Oregon State University graduated from OSU in 1986 with degrees
 Hardesty served in the United States Navy, was one of the first women to go on board ships. Sher was elected to the Oregon House in 1994, holding office until 2001. She later served as executive director of Oregon Action, and became president of the Portland chapter of the NAACP in January 2015. Hardesty is running for Portland City Council in 2018.
 
 ## Pam Pearce
-<p><img src="/assets/images/activities/Pam-Pearce2.jpg"></p>
+<p><img src="/assets/images/activities/Pam-Pearce2.jpeg"></p>
 A long-time community activist in Oregon, Pam is currently on the steering committee for West Linn Young Life.  Pam is also a Community Organizer for the Portland Leadership Foundation (PLF). Prior to PLF, Pam served as Executive Director of the Teen Division of the YMCA. Pam got her start as an aide to then U.S. Senator Mark Hatfield in Washington, D.C., shortly after attending the University of Southern California. Pam is in her 21st year of long-term recovery and takes advantage of every opportunity to share her passion for the gifts and hope of recovery.
 
 more to add...
