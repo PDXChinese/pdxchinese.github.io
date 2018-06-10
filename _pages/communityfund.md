@@ -36,7 +36,7 @@ Donations are made by the AmazonSmile Foundation and are not tax-deductible by y
 
 are donations an employer makes to match its employees' charitable contributions. Usually associated with corporate grantmakers, employee matching gifts often are dollar-for-dollar, but some companies will give double or even triple the original donation. Currently, the following corporations have OCC added to their qualified charitable organization list.
 
-[Intel Corporation](https://intel.benevity.org/user/login), [Standard Insurance](https://thestandard.yourcause.com/home#/givingcampaign), [Autodesk Inc](https://doublethedonation.com/matching-gifts/autodesk-inc), [Cambia Health Solutions](https://cambiagives.benevity.org), [Nike Inc.](https://nike.benevity.org/user/login), [Google](https://google.benevity.org/user/login), [Adidas](https://adidas.benevity.org/user/login) 
+[Intel Corporation](https://intel.benevity.org/user/login), [Standard Insurance](https://thestandard.yourcause.com/home#/givingcampaign), [Autodesk Inc](https://doublethedonation.com/matching-gifts/autodesk-inc), [Cambia Health Solutions](https://cambiagives.benevity.org), [Nike Inc.](https://nike.benevity.org/user/login), [Google](https://google.benevity.org/user/login), [Adidas](https://adidas.benevity.org/user/login)
 
 ### Intel Employee Only
 
@@ -67,7 +67,7 @@ Hongcheng Zhao
 <p><img src="/assets/images/activities/victoria_scholarship.jpg"></p>
 Designed by Sophia, Victoria's twin sister.
 
-Victoria (Zifan) Ren was a student at Findley Elementary School, Beaverton Oregon. She passed away in 2017 after fighting a rare type of cancer for more than three years. She was remembered by her teachers, classmates, friends and neighbors as a very beautiful, talented, and brave girl. Victoria’s parents decided to set up Victoria Ren Scholarship to let her sweetest smile brighten other children in the community who are undergoing physical, emotional or financial stress.
+Victoria (Zifan) Ren was a student at Findley Elementary School, Beaverton Oregon. She passed away in 2017 after fighting a rare type of cancer for more than three years. She was remembered by her teachers, classmates, friends and neighbors as a very beautiful, talented, and brave girl. Victoria’s parents decided to set up Victoria Ren Scholarship to let her sweetest smile brighten other children in the community who need assistance emotionally and/or financially.
 
 By the end of each school year, one scholarship will be awarded to a student of any age in the Chinese community. The recipient will receive $500. The selection will be made by the Advisory Committee and Victoria’s parents.
 
