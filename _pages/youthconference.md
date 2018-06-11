@@ -101,7 +101,9 @@ Hardesty served in the United States Navy, was one of the first women to go on b
 <p><img src="/assets/images/activities/Pam-Pearce2.jpeg"></p>
 A long-time community activist in Oregon, Pam is currently on the steering committee for West Linn Young Life.  Pam is also a Community Organizer for the Portland Leadership Foundation (PLF). Prior to PLF, Pam served as Executive Director of the Teen Division of the YMCA. Pam got her start as an aide to then U.S. Senator Mark Hatfield in Washington, D.C., shortly after attending the University of Southern California. Pam is in her 21st year of long-term recovery and takes advantage of every opportunity to share her passion for the gifts and hope of recovery.
 
-more to add...
+## Selma Pierce
+<p><img src="/assets/images/activities/Selma-Pierce.jpg"></p>
+Selma had been a dentist in Salem area for 20 years. After she retired, Selma's still plying her trade pro bono for a variety of nonprofits and has added fundraising and event planning to her repertoire. Her husband, Bud Pierce, used to be Kate Brown challener in 2016 election. In February she decided to run for State Representative... and she won in May Primary. Selma is a 3rd generation of ABC!
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
