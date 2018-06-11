@@ -103,7 +103,7 @@ A long-time community activist in Oregon, Pam is currently on the steering commi
 
 ## Selma Pierce
 <p><img src="/assets/images/activities/Selma-Pierce.jpg"></p>
-Selma had been a dentist in Salem area for 20 years. After she retired, Selma's still plying her trade pro bono for a variety of nonprofits and has added fundraising and event planning to her repertoire. Her husband, Bud Pierce, used to be Kate Brown challener in 2016 election. In February she decided to run for State Representative... and she won in May Primary. Selma is a 3rd generation of ABC!
+Selma had been a dentist in Salem area for 20 years. After she retired, Selma's still plying her trade pro bono for a variety of nonprofits and has added fundraising and event planning to her repertoire. Her husband, Bud Pierce, used to be Kate Brown challener in 2016 election. In February she decided to run for State Representative. “In Order for Democracy to Work, You Have to be Involved.”  And she won in May Primary. Selma is a 3rd generation of ABC!
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
