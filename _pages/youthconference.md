@@ -3,7 +3,7 @@ title: "2018 Oregon Chinese Youth Conference"
 permalink: /youthconference/
 ---
 
-# 俄勒冈华裔青少年年会
+# 第二届俄勒冈华裔青少年年会
 
 ## Date
 
@@ -59,7 +59,7 @@ To acknowledge those who step out to bring others to grow and excel with them.
 
 * 2018 Chinese Rose Princess
 
-To congratulate Daphne Wu on her courageous participation of the first community Rose Princess Contest. 
+To congratulate Daphne Wu on her courageous participation of the first community Rose Princess Contest.
 
 ### Afternoon Session: Seminars on Youth Physical and Mental Health
 
