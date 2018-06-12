@@ -31,15 +31,13 @@ Check in starts from 9:00 am
 
 10:30 am – 11:00 am	**Jo Ann Hardesty**, Former President, NAACP Portland, now Running for Portland City Council
 
-11:00 am – 11:30 am TBD
+* 11:00 pm - 11:15 pm Taking group photos of participating students and guest speakers
 
-11:30 am – 12:00 am	**Pam Pearce**, a popular and highly sought after prevention educator, President of the Community Living Above
+11:15 am – 11:45 am **Selma Pierce**, 3rd generation of ABC, “In Order for Democracy to Work, You Have to be Involved.”
 
-### 12:00 pm – 1:00 pm Group Photo, Lunch, Interact with Speakers, Visit Booths
+11:45 am – 12:15 am	**Pam Pearce**, a popular and highly sought after prevention educator, President of the Community Living Above
 
-12:00 pm - 12:10 pm Taking group photos of participating students and guest speakers
-
-### 12:15 pm – 12:45 pm Performance by Community Youth
+### 12:15 pm – 1:00 pm Lunch Break with Performance by Community Youth
 
 Live demo of robotic by [Spark Tech Edu](http://www.sparkteched.org/), two times World Championship.
 
@@ -58,6 +56,10 @@ To encourage more youth to take a stand in public hearings or on any community p
 * Youth Empowerment Award
 
 To acknowledge those who step out to bring others to grow and excel with them.
+
+* 2018 Chinese Rose Princess
+
+To congratulate Daphne Wu on her courageous participation of the first community Rose Princess Contest. 
 
 ### Afternoon Session: Seminars on Youth Physical and Mental Health
 
