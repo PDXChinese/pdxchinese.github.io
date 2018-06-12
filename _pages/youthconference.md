@@ -33,7 +33,7 @@ Check in starts from 9:00 am
 
 * 11:00 pm - 11:15 pm Taking group photos of participating students and guest speakers
 
-11:15 am – 11:45 am **Selma Pierce**, 3rd generation of ABC, “In Order for Democracy to Work, You Have to be Involved.”
+11:15 am – 11:45 am **Selma Pierce**, 3rd generation of ABC, from a dentist to community advocate to House Representative candidate.
 
 11:45 am – 12:15 am	**Pam Pearce**, a popular and highly sought after prevention educator, President of the Community Living Above
 
