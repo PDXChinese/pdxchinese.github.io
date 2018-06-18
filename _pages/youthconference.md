@@ -11,15 +11,19 @@ permalink: /youthconference/
 
 ## Place
 
-DoubleTree Hotel by Hilton Portland - Beaverton
-
+DoubleTree Hotel by Hilton Portland - Beaverton<br/>
 15402 NW Cornell Rd. - Beaverton, OR 97006 ([map](https://goo.gl/maps/XNov3hTvDTN2))
 
 ## Co-Organizers
 
-[Tech 4 Kids Club](http://www.tech4kidsclub.org/)
-
+[Tech 4 Kids Club](http://www.tech4kidsclub.org/)<br/>
 [Spark Technology Education](http://www.sparkteched.org/)
+
+## Registration
+
+[Conference registration form](https://docs.google.com/forms/d/e/1FAIpQLSfP5DP8rN05m37MoZ2fE5m5kj-8EXcmz72JbVP5g3L6TqMkrA/viewform?c=0&w=1) for middle & high schools, college students.
+
+Parents are also welcome if students are not able to attend themselves.
 
 ## Proposed Agenda
 
@@ -61,7 +65,7 @@ To acknowledge those who step out to bring others to grow and excel with them.
 
 * 2018 Valedictorians
 
-Congratulations with a short speech by a Valedictorian from 2018 class.
+Congratulations with a speech by Valedictorian from 2018 class.
 
 * 2018 Chinese Rose Princess
 
@@ -79,17 +83,9 @@ To congratulate Daphne Wu on her courageous participation of the first community
 
 An Insider View on College Application, **Prof. Yue Liu**, Scholarship Review Committee, UC Berkeley
 
-## Registration
+## Profiles, Booth and Banners
 
-[Conference registration form](https://docs.google.com/forms/d/e/1FAIpQLSfP5DP8rN05m37MoZ2fE5m5kj-8EXcmz72JbVP5g3L6TqMkrA/viewform?c=0&w=1) for middle & high schools, college students.
-
-Parents are also welcome if students are not able to attend themselves.
-
-## Booth
-
-8:45 am Setup
-
-9:00 am Open to Conference Attendees
+9:00 am Setup
 
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScIhWP3pUAZuqBXZYI3DzgLtV-oWuts6jaLunIfuPR-wFoqUw/viewform?c=0&w=1) for Exhibit Booth
 
@@ -111,7 +107,7 @@ A long-time community activist in Oregon, Pam is currently on the steering commi
 
 ## Selma Pierce
 <p><img src="/assets/images/activities/Selma-Pierce.jpg"></p>
-Selma had been a dentist in Salem area for 20 years. After she retired, Selma's still plying her trade pro bono for a variety of nonprofits and has added fundraising and event planning to her repertoire. Her husband, Bud Pierce, used to be Kate Brown challener in 2016 election. In February she decided to run for State Representative. “In Order for Democracy to Work, You Have to be Involved.”  And she won in May Primary. Selma is a 3rd generation of ABC!
+Selma had been a dentist in Salem area for 20 years. After she retired, Selma's still plying her trade pro bono for a variety of nonprofits and has added fundraising and event planning to her repertoire. Her husband, Bud Pierce, used to be Kate Brown challenger in 2016 election. In February she decided to run for State Representative. “In Order for Democracy to Work, You Have to be Involved.”  And she won in May Primary. Selma is a 3rd generation of ABC!
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
