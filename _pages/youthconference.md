@@ -57,6 +57,10 @@ To encourage more youth to take a stand in public hearings or on any community p
 
 To acknowledge those who step out to bring others to grow and excel with them.
 
+* 2018 Valedictorians
+
+Congratulations with a short speech by a Valedictorian from 2018 class. 
+
 * 2018 Chinese Rose Princess
 
 To congratulate Daphne Wu on her courageous participation of the first community Rose Princess Contest.
