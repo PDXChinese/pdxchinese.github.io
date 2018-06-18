@@ -21,9 +21,11 @@ DoubleTree Hotel by Hilton Portland - Beaverton<br/>
 
 ## Registration
 
-[Conference registration form](https://docs.google.com/forms/d/e/1FAIpQLSfP5DP8rN05m37MoZ2fE5m5kj-8EXcmz72JbVP5g3L6TqMkrA/viewform?c=0&w=1) for middle & high schools, college students.
+[Conference registration form](https://docs.google.com/forms/d/e/1FAIpQLSfP5DP8rN05m37MoZ2fE5m5kj-8EXcmz72JbVP5g3L6TqMkrA/viewform?c=0&w=1) for middle & high schools, college students (Parents are also welcome if students are not able to attend themselves).
 
-Parents are also welcome if students are not able to attend themselves.
+[Nomination, including self-nomination, form](https://docs.google.com/forms/d/e/1FAIpQLSfQRyJHdDFVPnelnzQpe8xVH2n0A8AsvoNi7VqHrCHFtCS4vg/viewform?c=0&w=1) for the scholarship and awards.
+
+[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScIhWP3pUAZuqBXZYI3DzgLtV-oWuts6jaLunIfuPR-wFoqUw/viewform?c=0&w=1) for Exhibit Booth and Banner Space.
 
 ## Proposed Agenda
 
@@ -48,8 +50,6 @@ Live demo of robotic by [Spark Tech Edu](http://www.sparkteched.org/), two times
 Kpop Dance by Ekki, see her [dance portfolio](https://www.instagram.com/yvnnnl/).
 
 ### 1:00 pm - 1:30 pm Awards Ceremony
-
-[Nomination including self-nomination form](https://docs.google.com/forms/d/e/1FAIpQLSfQRyJHdDFVPnelnzQpe8xVH2n0A8AsvoNi7VqHrCHFtCS4vg/viewform?c=0&w=1) for the scholarship and awards.
 
 * Victoria Ren Scholarship
 
@@ -86,8 +86,6 @@ An Insider View on College Application, **Prof. Yue Liu**, Scholarship Review Co
 ## Profiles, Booth and Banners
 
 9:00 am Setup
-
-[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScIhWP3pUAZuqBXZYI3DzgLtV-oWuts6jaLunIfuPR-wFoqUw/viewform?c=0&w=1) for Exhibit Booth
 
 ## Distinguished Guest Speakers
 
