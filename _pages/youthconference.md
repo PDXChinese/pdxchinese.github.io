@@ -45,6 +45,8 @@ Kpop Dance by Ekki, see her [dance portfolio](https://www.instagram.com/yvnnnl/)
 
 ### 1:00 pm - 1:30 pm Awards Ceremony
 
+[Nomination including self-nomination form](https://docs.google.com/forms/d/e/1FAIpQLSfQRyJHdDFVPnelnzQpe8xVH2n0A8AsvoNi7VqHrCHFtCS4vg/viewform?c=0&w=1) for the scholarship and awards.
+
 * Victoria Ren Scholarship
 
 To let Victoria's sweetest smile brighten other children in the community who need assistance emotionally and/or financially.
@@ -59,7 +61,7 @@ To acknowledge those who step out to bring others to grow and excel with them.
 
 * 2018 Valedictorians
 
-Congratulations with a short speech by a Valedictorian from 2018 class. 
+Congratulations with a short speech by a Valedictorian from 2018 class.
 
 * 2018 Chinese Rose Princess
 
