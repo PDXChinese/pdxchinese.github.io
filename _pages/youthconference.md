@@ -25,7 +25,7 @@ DoubleTree Hotel by Hilton Portland - Beaverton<br/>
 
 [Nomination, including self-nomination, form](https://docs.google.com/forms/d/e/1FAIpQLSfQRyJHdDFVPnelnzQpe8xVH2n0A8AsvoNi7VqHrCHFtCS4vg/viewform?c=0&w=1) for the scholarship and awards.
 
-[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScIhWP3pUAZuqBXZYI3DzgLtV-oWuts6jaLunIfuPR-wFoqUw/viewform?c=0&w=1) for Exhibit Booth and Banner Space.
+[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScIhWP3pUAZuqBXZYI3DzgLtV-oWuts6jaLunIfuPR-wFoqUw/viewform?c=0&w=1) for Banner Space.
 
 ## Proposed Agenda
 
