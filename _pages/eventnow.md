@@ -21,15 +21,15 @@ Address：1870 NW 173rd Ave, Beaverton, OR 97006
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
-## 玫瑰节（波特兰）华裔玫瑰公主和皇后加冕仪式及时尚晚会/Award Night and Fashion Event & Fashion Show Dinner Gala
+## Group Volunteering Opportunities at Lan Su Garden
 
-Date: 6/10/2018 (Sunday)
+Date: Every Tuesday in July, August and September
 
-Time: 5:00pm - 9:00pm
+Time: 2:00 pm - 4:00 pm
 
-Place: Multnomah Athletic Club (MAC Club) Ballroom, 1849 SW Salmon Street, Portland OR 97205
+Place: Lan Su Garden
 
-Buy tickets: [http://oceanablueproductions.com/?page_id=23](http://oceanablueproductions.com/?page_id=23)
+[https://lansugarden.org/things-to-do/events/chinese-conversation-table-with-the-oregon-chinese-coalition/](https://lansugarden.org/things-to-do/events/chinese-conversation-table-with-the-oregon-chinese-coalition/)
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
