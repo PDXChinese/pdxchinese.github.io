@@ -29,6 +29,8 @@ Time: 2:00 pm - 4:00 pm
 
 Place: Lan Su Garden
 
+请进《兰苏园汉语角志愿者》群，方便报名和商量细节。
+
 [https://lansugarden.org/things-to-do/events/chinese-conversation-table-with-the-oregon-chinese-coalition/](https://lansugarden.org/things-to-do/events/chinese-conversation-table-with-the-oregon-chinese-coalition/)
 
 ![]({{ site.url }}/assets/images/divider.jpg)
