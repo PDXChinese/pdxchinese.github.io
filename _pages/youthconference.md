@@ -71,7 +71,7 @@ To recognize those students who have achieved the required number of hours of se
 
 Congratulations with a speech by Valedictorian from 2018 class.
 
-* 2018 Chinese Rose Princess
+* 2018 Portland Chinese Rose Princess
 
 To congratulate Daphne Wu on her courageous participation of the first community Rose Princess Contest.
 
