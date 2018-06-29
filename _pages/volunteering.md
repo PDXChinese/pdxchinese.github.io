@@ -5,12 +5,6 @@ feature_row1:
   - image_path: /assets/images/members/Nancy-Yang.jpg
     title: "Nancy Yang"
     excerpt: ""
-  - image_path: /assets/images/members/Rebecca-Wei.jpg
-    title: "Rebecca Wei"
-    excerpt: ""
-  - image_path: /assets/images/members/lxm.jpg
-    title: "Xinmei Li"
-    excerpt: ""
 ---
 
 ![]({{ site.url }}/assets/images/logo/volunteering_logo1.png)
@@ -51,9 +45,24 @@ To register: [http://signup.com/go/RtEtDVp](http://signup.com/go/RtEtDVp)
 
 Please join 《PDX 志愿服务公益群》 and sign up from there.
 
-### Volunteer Leader
+## Group Volunteering Opportunities at Lan Su Garden
 
-@ Nancy
+### Date
+
+Every Tuesday 2:00 pm - 4:00 pm in July, August and September
+
+### Place
+
+[Lan Su Garden](https://lansugarden.org/)
+
+239 NW Everett St, Portland, OR 97209
+
+### Details
+
+[https://lansugarden.org/things-to-do/events/chinese-conversation-table-with-the-oregon-chinese-coalition/](https://lansugarden.org/things-to-do/events/chinese-conversation-table-with-the-oregon-chinese-coalition/)
+
+请进《兰苏园汉语角志愿者》群，方便报名和商量细节。
+
 
 ## More Resources
 
