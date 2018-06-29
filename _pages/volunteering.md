@@ -23,11 +23,11 @@ Dec 26, 2017 8:45 am - 11:30 am ([Highlights](http://pdxchinese.org/food-bank-20
 
 March 17, 2018 12:45 pm - 3:30 pm ([Highlights](http://pdxchinese.org/oregon-food-bank-03072017/))
 
-April 14, 2018 12:45 pm - 3:30 pm [Highlights](http://pdxchinese.org/food-bank-april-2008/)
+April 14, 2018 12:45 pm - 3:30 pm ([Highlights](http://pdxchinese.org/food-bank-april-2008/))
 
-May 19, 2018 1:00 pm - 3:30 pm [Highlights](http://pdxchinese.org/food-bank-may-2018/)
+May 19, 2018 1:00 pm - 3:30 pm ([Highlights](http://pdxchinese.org/food-bank-may-2018/))
 
-June 9, 2018 1:00 pm - 3:30 pm [Highlights](http://pdxchinese.org/food-bank-june-2018/)
+June 9, 2018 1:00 pm - 3:30 pm ([Highlights](http://pdxchinese.org/food-bank-june-2018/))
 
 July 14, 2018 1:00 pm - 3:30 pm
 
