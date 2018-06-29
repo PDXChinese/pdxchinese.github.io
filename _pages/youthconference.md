@@ -63,6 +63,10 @@ To encourage more youth to take a stand in public hearings or on any community p
 
 To acknowledge those who step out to bring others to grow and excel with them.
 
+* 2018 President Volunteer Service Award
+
+To recognize those students who have achieved the required number of hours of service over a 12-month time period or cumulative hours over the course of a lifetime.
+
 * 2018 Valedictorians
 
 Congratulations with a speech by Valedictorian from 2018 class.
