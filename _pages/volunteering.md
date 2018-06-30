@@ -63,6 +63,7 @@ Every Tuesday 2:00 pm - 4:00 pm in July, August and September
 
 请进《兰苏园汉语角志愿者》群，方便报名和商量细节。
 
+花园会有当值的VEC (visitor experience coordinator)，因为是周二下午，很多时候可能会是Venus本人当值，我们会在活动前半小时把桌椅架设好，准备好热茶，在现场等您们。当次的志愿者只要直接从花园前门进来，无须买票，直接告知门口的greeter您是OCC conversation table的volunteer就可以直接进来。Greeter会告知您您们在哪一个房间。如果当下有任何问题请，直接致电当值的VEC手机(503)348-9157。
 
 ## More Resources
 
