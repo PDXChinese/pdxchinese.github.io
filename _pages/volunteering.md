@@ -50,6 +50,14 @@ To sign up: [http://signup.com/go/RtEtDVp](http://signup.com/go/RtEtDVp)
 
 Please join 《PDX 志愿服务公益群》 and sign up from there.
 
+按FB 规定18岁以上才算成人，每一个人成人或者小孩都要填上名+姓 (大人请在成人区注册，小孩亦然；大人请记得填上手机方便联络; 大人请在给小朋友报名时在备注处填上同去的大人名）
+
+一旦注册请您记得加在您自己日历上面.
+
+Nancy会替大家去FB 网站上注册，更新和当天的sign in，也会提前一天提醒大家细节和分享最后名单。　
+
+请大家不要用微信或短信报名，请都在链接里报名，这样有记录，方便Nancy后台管理，节省时间。
+
 ## Group Volunteering Opportunities at Lan Su Garden
 
 ### Date
@@ -71,6 +79,8 @@ Every Tuesday 2:00 pm - 4:00 pm in July, August and September
 花园会有当值的VEC (visitor experience coordinator)，因为是周二下午，很多时候可能会是Venus本人当值，我们会在活动前半小时把桌椅架设好，准备好热茶，在现场等您们。当次的志愿者只要直接从花园前门进来，无须买票，直接告知门口的greeter您是OCC conversation table的volunteer就可以直接进来。Greeter会告知您您们在哪一个房间。如果当下有任何问题请，直接致电当值的VEC手机(503)348-9157。
 
 花园内不能用自己带来的吃食，饮品类只要是有盖子的都行，如果需要用点餐点，可以在活动之前或是之后去花园茶楼，他们供应简单的茶点及蒸饺包子类。现场我们会提供一壶茶楼的热茶跟杯子，供大家及参与的访客享用。
+
+志愿者不能擅自挪动或者触碰园内或厅内的家具和展物，尽可能不要遮挡墙上的展物，因为游人需要能看到它们。
 
 ## More Resources
 
