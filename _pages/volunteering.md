@@ -33,6 +33,11 @@ July 14, 2018 1:00 pm - 3:30 pm
 
 August 4, 2018 1:00 pm - 3:30 pm
 
+September 8, 2018 1:00 pm - 3:30 pm
+
+October 13, 2018 1:00 pm - 3:30 pm
+
+
 ### Address
 
 [Oregon Food Bank](htts://www.oregonfoodbank.org/about-us/locations/beaverton/)
@@ -41,7 +46,7 @@ August 4, 2018 1:00 pm - 3:30 pm
 
 ### Details
 
-To register: [http://signup.com/go/RtEtDVp](http://signup.com/go/RtEtDVp)
+To sign up: [http://signup.com/go/RtEtDVp](http://signup.com/go/RtEtDVp)
 
 Please join 《PDX 志愿服务公益群》 and sign up from there.
 
