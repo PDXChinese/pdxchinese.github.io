@@ -91,7 +91,7 @@ One of the founders of Spark Technology Education
 
 An Insider View on College Application, **Prof. Yue Liu**, Scholarship Review Committee, UC Berkeley
 
-## Profiles, Booth and Banners
+## Profiles and Banners
 
 9:00 am Setup
 
@@ -99,25 +99,25 @@ An Insider View on College Application, **Prof. Yue Liu**, Scholarship Review Co
 
 Ordered alphabetically
 
-## Knute Buehler
+### Knute Buehler
 <p><img src="/assets/images/activities/Knute_buehler.jpg"></p>
 Buehler attended Oregon State University graduated from OSU in 1986 with degrees in history and microbiology. Buehler then attended Merton College, Oxford as OSU's first Rhodes Scholar studying philosophy, politics and economics, before graduating from Johns Hopkins Medical School in Baltimore, Maryland. He currently serves in the Oregon House of Representatives. He is currently running for Governor of Oregon in the 2018 election.
 
-## Jo Ann Hardesty
+### Jo Ann Hardesty
 <p><img src="/assets/images/activities/JoAnn_Hardesty2.jpeg"></p>
 Hardesty served in the United States Navy, was one of the first women to go on board ships. Sher was elected to the Oregon House in 1994, holding office until 2001. She later served as executive director of Oregon Action, and became president of the Portland chapter of the NAACP in January 2015. Hardesty is running for Portland City Council in 2018.
 
-## Pam Pearce
+### Pam Pearce
 <p><img src="/assets/images/activities/Pam-Pearce2.jpeg"></p>
 A long-time community activist in Oregon, Pam is currently on the steering committee for West Linn Young Life.  Pam is also a Community Organizer for the Portland Leadership Foundation (PLF). Prior to PLF, Pam served as Executive Director of the Teen Division of the YMCA. Pam got her start as an aide to then U.S. Senator Mark Hatfield in Washington, D.C., shortly after attending the University of Southern California. Pam is in her 21st year of long-term recovery and takes advantage of every opportunity to share her passion for the gifts and hope of recovery.
 
-## Selma Pierce
+### Selma Pierce
 <p><img src="/assets/images/activities/Selma-Pierce.jpg"></p>
 Selma had been a dentist in Salem area for 20 years. After she retired, Selma's still plying her trade pro bono for a variety of nonprofits and has added fundraising and event planning to her repertoire. Her husband, Bud Pierce, used to be Kate Brown challenger in 2016 election. In February she decided to run for State Representative. “In Order for Democracy to Work, You Have to be Involved.”  And she won in May Primary. Selma is a 3rd generation of ABC!
 
 ## Conference Sponsors
 
-### [China Delight (湘厨)](http://www.pdxchinadelight.net/) 
+[China Delight (湘厨)](http://www.pdxchinadelight.net/)
 
 [Panda Express](https://www.pandaexpress.com/)
 
