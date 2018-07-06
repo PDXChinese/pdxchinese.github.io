@@ -33,7 +33,7 @@ Check in starts from 9:00 am
 
 ### Morning Session: Motivational Speeches by Distinguished Guests
 
-9:30 am - 9:55 am Guzheng Playing by Cheery Zhang 
+9:30 am - 9:55 am Guzheng Playing by Cheery Zhang
 
 9:55 am Opening Remark by **Xibei Zhao**, Chairman of the Board of Directors, OCC
 
@@ -53,7 +53,7 @@ Live demo of robotic by [Spark Tech Edu](http://www.sparkteched.org/), two times
 
 Kpop Dance by Ekki, see her [dance portfolio](https://www.instagram.com/yvnnnl/).
 
-### 1:00 pm - 1:30 pm Awards Ceremony
+### 1:00 pm - 1:50 pm Awards Ceremony
 
 * Victoria Ren Scholarship
 
@@ -85,17 +85,13 @@ One of the founders of Spark Technology Education
 
 ### Afternoon Session: Seminars on Youth Physical and Mental Health
 
-2:15 pm - 3:00 Adolescent Mental Health: Reality and Solutions, by **Celeste Jones, PsyD, ABPP** at George Fox University & [OPA](http://www.opa.org/)
+2:00 pm - 3:00 Adolescent Mental Health: Reality and Solutions, by **Celeste Jones, PsyD, ABPP** at George Fox University & [OPA](http://www.opa.org/)
 
-3:00 pm - 3:45 Prevention and Treatment for School-Myopia, by **Yue Liu, OD, PhD**, UC Berkeley & Pacific University
+3:00 pm - 4:00 Prevention and Treatment for School-Myopia, by **Yue Liu, OD, PhD**, UC Berkeley & Pacific University
 
 ### 4:00 pm - 5:00 pm Bonus & Optional Session
 
 An Insider View on College Application, **Prof. Yue Liu**, Scholarship Review Committee, UC Berkeley
-
-## Profiles and Banners
-
-9:00 am Setup
 
 ## Distinguished Guest Speakers
 
