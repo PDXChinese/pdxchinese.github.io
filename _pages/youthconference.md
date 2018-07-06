@@ -33,11 +33,13 @@ Check in starts from 9:00 am
 
 ### Morning Session: Motivational Speeches by Distinguished Guests
 
+9:55 am Opening Remark by Xibei Zhao, Chairman of the Board of Directors, OCC
+
 10:00 am – 10:30 am	**Knute Buehler**, Oregon State’s first Rhodes Scholar, now Republican Candidate for State Governor
 
 10:30 am – 11:00 am	**Jo Ann Hardesty**, Former President, NAACP Portland, now Running for Portland City Council
 
-* 11:00 pm - 11:15 pm Taking group photos of participating students and guest speakers
+**11:00 pm - 11:15 pm Taking group photos of participating students and guest speakers**
 
 11:15 am – 11:45 am **Selma Pierce**, 3rd generation of ABC, from a dentist to community advocate to House Representative candidate.
 
@@ -45,7 +47,7 @@ Check in starts from 9:00 am
 
 ### 12:15 pm – 1:00 pm Lunch Break with Performance by Community Youth
 
-Live demo of robotic by [Spark Tech Edu](http://www.sparkteched.org/), two times World Championship.
+Live demo of robotic by [Spark Tech Edu](http://www.sparkteched.org/), two times World Champions.
 
 Kpop Dance by Ekki, see her [dance portfolio](https://www.instagram.com/yvnnnl/).
 
