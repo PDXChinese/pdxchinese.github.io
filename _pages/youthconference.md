@@ -33,17 +33,19 @@ Check in starts from 9:00 am
 
 ### Morning Session: Motivational Speeches by Distinguished Guests
 
-9:55 am Opening Remark by Xibei Zhao, Chairman of the Board of Directors, OCC
+9:30 am - 9:55 am Guzheng Playing by Cheery Zhang 
+
+9:55 am Opening Remark by **Xibei Zhao**, Chairman of the Board of Directors, OCC
 
 10:00 am – 10:30 am	**Knute Buehler**, Oregon State’s first Rhodes Scholar, now Republican Candidate for State Governor
 
 10:30 am – 11:00 am	**Jo Ann Hardesty**, Former President, NAACP Portland, now Running for Portland City Council
 
-**11:00 pm - 11:15 pm Taking group photos of participating students and guest speakers**
+_11:00 pm - 11:15 pm Taking group photos of participating students and guest speakers_
 
 11:15 am – 11:45 am **Selma Pierce**, 3rd generation of ABC, from a dentist to community advocate to House Representative candidate.
 
-11:45 am – 12:15 am	**Pam Pearce**, a popular and highly sought after prevention educator, President of the Community Living Above
+11:45 am – 12:15 am	**Pam Pearce**, a popular and highly sought after prevention educator, President of the [Community Living Above](https://communitylivingabove.org/)
 
 ### 12:15 pm – 1:00 pm Lunch Break with Performance by Community Youth
 
@@ -82,8 +84,6 @@ To congratulate Daphne Wu on her courageous participation of the first community
 One of the founders of Spark Technology Education
 
 ### Afternoon Session: Seminars on Youth Physical and Mental Health
-
-1:30 pm - 2:15 Substance Use Prevention and Recovery, by **Pam Pearce**, [Community Living Above](https://communitylivingabove.org/)
 
 2:15 pm - 3:00 Adolescent Mental Health: Reality and Solutions, by **Celeste Jones, PsyD, ABPP** at George Fox University & [OPA](http://www.opa.org/)
 
