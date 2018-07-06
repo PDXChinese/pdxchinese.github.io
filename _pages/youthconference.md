@@ -75,6 +75,10 @@ Congratulations with a speech by Valedictorian from 2018 class.
 
 To congratulate Daphne Wu on her courageous participation of the first community Rose Princess Contest.
 
+* Motivational Speech by Erik Svilich
+
+One of the founders of Spark Technology Education
+
 ### Afternoon Session: Seminars on Youth Physical and Mental Health
 
 1:30 pm - 2:15 Substance Use Prevention and Recovery, by **Pam Pearce**, [Community Living Above](https://communitylivingabove.org/)
@@ -110,6 +114,14 @@ A long-time community activist in Oregon, Pam is currently on the steering commi
 ## Selma Pierce
 <p><img src="/assets/images/activities/Selma-Pierce.jpg"></p>
 Selma had been a dentist in Salem area for 20 years. After she retired, Selma's still plying her trade pro bono for a variety of nonprofits and has added fundraising and event planning to her repertoire. Her husband, Bud Pierce, used to be Kate Brown challenger in 2016 election. In February she decided to run for State Representative. “In Order for Democracy to Work, You Have to be Involved.”  And she won in May Primary. Selma is a 3rd generation of ABC!
+
+## Conference Sponsors
+
+### [China Delight (湘厨)](http://www.pdxchinadelight.net/) 
+
+[Panda Express](https://www.pandaexpress.com/)
+
+[Five Flavors Cafe](http://www.5flavorcafe.com/)
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
