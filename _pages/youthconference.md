@@ -129,6 +129,8 @@ Maria is an associate professor at Pacific University College of Optometry and t
 
 [China Delight (湘厨)](http://www.pdxchinadelight.net/)
 
+[RevoMax Innovations](http://revomax.com)
+
 [Panda Express](https://www.pandaexpress.com/)
 
 [Five Flavors Cafe](http://www.5flavorcafe.com/)
