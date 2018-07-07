@@ -113,6 +113,18 @@ A long-time community activist in Oregon, Pam is currently on the steering commi
 <p><img src="/assets/images/activities/Selma-Pierce.jpg"></p>
 Selma had been a dentist in Salem area for 20 years. After she retired, Selma's still plying her trade pro bono for a variety of nonprofits and has added fundraising and event planning to her repertoire. Her husband, Bud Pierce, used to be Kate Brown challenger in 2016 election. In February she decided to run for State Representative. “In Order for Democracy to Work, You Have to be Involved.”  And she won in May Primary. Selma is a 3rd generation of ABC!
 
+## Seminar Speakers
+
+Ordered alphabetically
+
+### Celeste Jones
+<p><img src="/assets/images/activities/2f7d2abb155661b0b954b77accf900ca.jpg"></p>
+Celeste is an assistant professor of clinical psychology at George Fox University, and a board-certified, licensed psychologist who specializes in working with children with Autism Spectrum Disorder and their families. Her research interests are in the broad areas of adversity and resilience in children and families, and in diversity populations. Jones also serves in state leadership, as chair of the Oregon Psychological Association Public Education Committee.
+
+### Maria Liu
+<p><img src="/assets/images/activities/73d25a66bffa2091f119d15f45b3936c.jpg"></p>
+Maria is an associate professor at Pacific University College of Optometry and the founder of UC Berkeley Myopia Control Clinic. She received her bachelor degree of clinical medicine from Peking University, her OD from Pacific University, her PhD and MPH from UC Berkeley. She is a world renowned clinical researcher in the field of myopia and her expertise focus on the impact of complex multifocal environment on emmetropization and myopia development, as well as novel optical and pharmaceutical treatments in myopia retardation.
+
 ## Conference Sponsors
 
 [China Delight (湘厨)](http://www.pdxchinadelight.net/)
