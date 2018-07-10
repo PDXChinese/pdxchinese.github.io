@@ -45,7 +45,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 ![]({{ site.url }}/assets/images/3d99bb796d2b5f57b6d89a07c7e16990.jpg)
 
-金教授实际上前天早上就跑来了，原来是记错了日子。所以，他是连续两天从Salem赶过来[ThumbsUp]
+金教授实际上前天早上就跑来了，原来是记错了日子。所以，他是连续两天从Eugene赶过来[ThumbsUp]
 
 ![]({{ site.url }}/assets/images/d4b98c1d61b723c038fa59d365a4d538.jpg)
 
