@@ -2,7 +2,7 @@
 title: "兰苏园的汉语角活动再次人气爆棚"
 author: XiBei Zhao
 excerpt: "出任志愿者的是Cheery Zhang和家人。继续了上个星期首秀的秘诀，活动围绕参观园林的孩子们，让大人孩子都可以静下心来，慢慢体会中华文化的方方面面，从描字，到在地图上查找Cheery的家乡，从欣赏古筝，到大人之间的闲谈。我尽管没有在现场，但是从Cheery妈妈@Meirong和老张的照片上，就已经能够感受到气氛，说心里话，让游人们有机会触摸，动手参与，要比看展览听讲座更有感觉。"
-date: "2018-07-03"
+date: "2018-07-11"
 ---
 The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is shown below.
 
