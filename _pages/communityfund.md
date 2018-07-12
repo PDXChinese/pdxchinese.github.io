@@ -71,13 +71,10 @@ Victoria (Zifan) Ren was a student at Findley Elementary School, Beaverton Orego
 
 By the end of each school year, one scholarship will be awarded to a student of any age in the Chinese community. The recipient will receive $500. The selection will be made by the Advisory Committee and Victoria’s parents.
 
-### 2017 Recipient
+### Recipients
 
-Dustin Leung, 7th Grade Student at Stoller Elementary School
-
-### 2018 Recipient
-
-Ginger Pan, rising 7th grader in Green Hall (SUMMA / TAG program) at Stoller Middle School
+2017 Dustin Leung, 7th Grade Student at Stoller Elementary School<br/>
+2018 Ginger Pan, rising 7th grader in Green Hall (SUMMA / TAG program) at Stoller Middle School
 
 # Those Who Contributed
 
