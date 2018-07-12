@@ -75,6 +75,10 @@ By the end of each school year, one scholarship will be awarded to a student of 
 
 Dustin Leung, 7th Grade Student at Stoller Elementary School
 
+### 2018 Recipient
+
+Ginger Pan, rising 7th grader in Green Hall (SUMMA / TAG program) at Stoller Middle School
+
 # Those Who Contributed
 
 ### Donors with Amount $1,000 or above
