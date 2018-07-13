@@ -39,7 +39,7 @@ Place: Lan Su Garden
 
 Create a platform where PTP can meet regularly to exchange ideas, foster creativity and collaboration, and improve communication skills.
 
-Date: First Friday every month
+Date: Every Second Friday
 
 Time: 7:30 pm - 9:30 pm
 
