@@ -32,3 +32,15 @@ Place: Lan Su Garden
 请进《兰苏园汉语角志愿者》群，方便报名和商量细节。
 
 [https://lansugarden.org/things-to-do/events/chinese-conversation-table-with-the-oregon-chinese-coalition/](https://lansugarden.org/things-to-do/events/chinese-conversation-table-with-the-oregon-chinese-coalition/)
+
+![]({{ site.url }}/assets/images/divider.jpg)
+
+## Portland Talented Professionals (PTP)
+
+Create a platform where PTP can meet regularly to exchange ideas, foster creativity and collaboration, and improve communication skills.
+
+Date: First Friday every month
+
+Time: 7:30 pm - 9:30 pm
+
+Place: MiT School, 1800 NW 169th Place, Suite A250, Beaverton, OR 97006
