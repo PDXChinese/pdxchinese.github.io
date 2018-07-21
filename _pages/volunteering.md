@@ -29,7 +29,7 @@ May 19, 2018 1:00 pm - 3:30 pm ([Highlights](http://pdxchinese.org/food-bank-may
 
 June 9, 2018 1:00 pm - 3:30 pm ([Highlights](http://pdxchinese.org/food-bank-june-2018/))
 
-July 14, 2018 1:00 pm - 3:30 pm
+July 14, 2018 1:00 pm - 3:30 pm ([Highlights](http://pdxchinese.org/food-bank-july-2018/))
 
 August 4, 2018 1:00 pm - 3:30 pm
 
