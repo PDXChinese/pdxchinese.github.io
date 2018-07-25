@@ -6,11 +6,11 @@ title: "公益性质的团购活动"
 
 有任何好的机会可以推荐，请联系@西北兆，或[info@pdxchinese.org](mailto:info@pdxchinese.org)。团购活动会在微信群中进行。
 
-### 10/14/2017 Keller Auditorium (closed)
+### 10/14/2017 Keller Auditorium
 
 [Rhapsody in Blue - with Pink Martini](https://www.obt.org/1718-season/rhapsody-in-blue-pink-martini/)
 
-### 12/9/2017 Keller Auditorium (closed)
+### 12/9/2017 Keller Auditorium
 
 [The Nuctcracker Ballet](https://www.obt.org/1718-season/nutcracker/)
 
@@ -29,3 +29,7 @@ title: "公益性质的团购活动"
 ### 6/23/18 Moda Center
 
 [Andrea Bocelli Concert](http://rosequarter.com/event/andrea-bocelli/)
+
+### 8/4/2018 Keller Auditorium
+
+[The Phantom of the Opera](https://portland.broadway.com/shows/phantom-opera/)
