@@ -1,5 +1,5 @@
 ---
-title: "2018 Portland Chinatown Mid-Autumn Festival Cultural Day "
+title: "Portland Chinatown Mid-Autumn Festival Cultural Day "
 permalink: /midautumnfestival/
 ---
 
