@@ -11,7 +11,7 @@ permalink: /resources/
 - <a href="{{ site.url }}/resources/communities/religious/">Religious Groups/Churches</a> ({{ site.communities_religious | size }})
 - <a href="{{ site.url }}/resources/communities/wechat/">WeChat Groups</a> ({{ site.communities_wechat | size }})
 
-## Benefits
+## Benefits/Resources
 - <a href="{{ site.url }}/resources/benefits/community/">Community-based Benefits</a> ({{ site.benefits_community | size }})
 - <a href="{{ site.url }}/resources/benefits/resources/">Resources for Community Members</a> ({{ site.benefits_resources | size }})
 
