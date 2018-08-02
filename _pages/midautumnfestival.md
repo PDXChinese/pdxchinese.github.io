@@ -18,3 +18,7 @@ September 22, 2018, Saturday, 1:00 pm - 5:00 pm
 NW Davis Festival Street (between NW 3rd Ave and NW 4th Ave)
 
 地点：中国城夹于第三街和第四街的西北戴维斯节日大道，中华会馆门前。
+
+### List of Activities
+
+Coming soon...
