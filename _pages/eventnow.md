@@ -9,7 +9,7 @@ For more complete event schedule, please click on [Shared Community Calendar](ht
 
 ## Group Volunteering Opportunities at Oregon Food Bank
 
-Dates： 8/4/2018; 9/8/2018; 10/13/2018; more to add...
+Dates：9/8/2018; 10/13/2018; more to add...
 
 Time：12:45 pm - 3:30 pm
 
