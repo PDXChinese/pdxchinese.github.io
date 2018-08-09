@@ -2,7 +2,7 @@
 title: "《星岛都市报》采访我们的汉语角"
 author: XiBei Zhao
 excerpt: "热浪让人们尽可能躲在空调环境，这周的游人比以往的要少了一些，但是，我们的志愿者们热情依然高涨，Tracy和Lihong提前就在商量给大家额外带去些什么。Eric主动要求再次参加， 第一次活动时我们就看到过他，即便那次还是作为一个游人的身份，而这次成了我们的志愿者中的一员。 Eric退休后, 自己开了个中文学校，为愿意学习中文的老外提供中文课程。"
-date: "2018-08-04"
+date: "2018-08-07"
 ---
 
 The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is shown below.
