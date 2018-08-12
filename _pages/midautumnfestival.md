@@ -19,6 +19,25 @@ NW Davis Festival Street (between NW 3rd Ave and NW 4th Ave)
 
 地点：中国城夹于第三街和第四街的西北戴维斯节日大道，中华会馆门前。
 
-### List of Activities
+### Free Admission/免费入场
 
-Coming soon...
+### Partial List of Activities
+
+Focusing on hands-on games & activities, very kids friendly.
+
+舞狮/Lion Dancing<br/>
+剪纸/Paper Cutting<br/>
+面人制作/Handmade Figurines<br/>
+灯笼制作/Make Lanterns<br/>
+书法/Calligraphy<br/>
+太极武术/Taiji Wushu<br/>
+传统乐器/Traditional Musical Instruments<br/>
+民间舞蹈/Folk dance<br/>
+古诗朗诵/Chinese Poem Reading<br/>
+现场针灸Free On-site Acupuncture<br/>
+中医咨询/Free Chinese Medicine Consulting<br/>
+拔火罐/Free Fire Cupping<br/>
+麻将/Mahjong<br/>
+抖空竹/Diabolo<br/>
+腰鼓/Drum<br/>
+各种民间游戏/Variety of Children Games
