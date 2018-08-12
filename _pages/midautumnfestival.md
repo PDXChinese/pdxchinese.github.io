@@ -41,4 +41,4 @@ Focusing on hands-on games & activities, very kids friendly.<br/>
 [Waist Drum Dance](https://www.youtube.com/watch?v=fPHlxQBzj0M) 腰鼓<br/>
 [Variety of Children Games](https://www.youtube.com/watch?v=RgTstkFGaB4) 各种民间儿童游戏
 
-* All Youtube links are used as examples.
+*All Youtube links are for demonstration purposes only.*
