@@ -9,22 +9,19 @@ permalink: /midautumnfestival/
 
 ### Date/Time
 
-September 22, 2018, Saturday, 1:00 pm - 5:00 pm
-
+September 22, 2018, Saturday, 1:00 pm - 5:00 pm<br/>
 时间：2018年9月22日下午1点至5点
 
 ### Place
 
-NW Davis Festival Street (between NW 3rd Ave and NW 4th Ave)
-
+NW Davis Festival Street (between NW 3rd Ave and NW 4th Ave)<br/>
 地点：中国城夹于第三街和第四街的西北戴维斯节日大道，中华会馆门前。
 
 ### Free Admission/免费入场
 
 ### Partial List of Games and Activities/部分游戏活动
 
-Focusing on hands-on games & activities, very kids friendly.
-
+Focusing on hands-on games & activities, very kids friendly.<br/>
 注重参与动手，尤其适合大小孩子们。
 
 Lion Dancing 舞狮<br/>
