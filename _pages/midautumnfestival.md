@@ -21,23 +21,25 @@ NW Davis Festival Street (between NW 3rd Ave and NW 4th Ave)
 
 ### Free Admission/免费入场
 
-### Partial List of Activities
+### Partial List of Games and Activities/部分游戏活动
 
 Focusing on hands-on games & activities, very kids friendly.
 
-舞狮/Lion Dancing<br/>
-剪纸/Paper Cutting<br/>
-面人制作/Handmade Figurines<br/>
-灯笼制作/Make Lanterns<br/>
-书法/Calligraphy<br/>
-太极武术/Taiji Wushu<br/>
-传统乐器/Traditional Musical Instruments<br/>
-民间舞蹈/Folk dance<br/>
-古诗朗诵/Chinese Poem Reading<br/>
-现场针灸Free On-site Acupuncture<br/>
-中医咨询/Free Chinese Medicine Consulting<br/>
-拔火罐/Free Fire Cupping<br/>
-麻将/Mahjong<br/>
-抖空竹/Diabolo<br/>
-腰鼓/Drum<br/>
-各种民间游戏/Variety of Children Games
+注重参与动手，尤其适合大小孩子们。
+
+Lion Dancing 舞狮<br/>
+Paper Cutting 剪纸<br/>
+Handmade Figurines面人制作<br/>
+Make Lanterns 灯笼制作<br/>
+Calligraphy 书法<br/>
+Taiji Wushu 太极武术<br/>
+Traditional Musical Instruments 传统乐器<br/>
+Folk Dance 民间舞蹈<br/>
+Chinese Poem Reading 古诗朗诵<br/>
+Free On-site Acupuncture 现场针灸<br/>
+Free Chinese Medicine Consulting 中医咨询/<br/>
+Free Fire Cupping 拔火罐<br/>
+Mahjong 麻将<br/>
+Diabolo 抖空竹<br/>
+Drum 腰鼓<br/>
+Variety of Children Games 各种民间儿童游戏
