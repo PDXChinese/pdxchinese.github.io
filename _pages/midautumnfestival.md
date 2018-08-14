@@ -34,7 +34,7 @@ Focusing on hands-on games & activities, very kids friendly.<br/>
 [Folk Dance](https://www.youtube.com/watch?v=7bj7JjLzBfM) 民间舞蹈<br/>
 [Chinese Poem Reading](https://www.youtube.com/watch?v=82jcwYdKPTY) 古诗朗诵<br/>
 [Free On-site Acupuncture](https://www.youtube.com/watch?v=9pQ2H1EaXWY) 现场针灸<br/>
-[Free Chinese Medicine Consulting](https://www.youtube.com/watch?v=XbLAoUG3wmY) 中医咨询/<br/>
+[Free Chinese Medicine Consulting](https://www.youtube.com/watch?v=XbLAoUG3wmY) 中医咨询<br/>
 [Free Fire Cupping](https://www.youtube.com/watch?v=9K0WQNnFFsc) 拔火罐<br/>
 [Mahjong](https://www.youtube.com/watch?v=tRCb_LOkEmQ) 麻将<br/>
 [Diabolo](https://www.youtube.com/watch?v=50gu3sHne3k) 抖空竹<br/>
