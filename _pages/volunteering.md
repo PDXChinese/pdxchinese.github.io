@@ -60,6 +60,8 @@ Nancy会替大家去FB 网站上注册，更新和当天的sign in，也会提�
 
 ## Group Volunteering Opportunities at Lan Su Garden
 
+![]({{ site.url }}/assets/images/activities/hanyujiao.jpg)
+
 ### Date
 
 Every Tuesday 2:00 pm - 4:00 pm in July, August and September
