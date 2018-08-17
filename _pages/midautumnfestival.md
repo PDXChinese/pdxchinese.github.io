@@ -43,3 +43,11 @@ Focusing on hands-on games & activities, very kids friendly.<br/>
 [Try-on Traditional Chinese Clothing](https://www.youtube.com/watch?v=6UrgHiCarE0) 汉服试穿
 
 *All Youtube links are for demonstration purposes only.*
+
+### Performing Corner
+
+*Performance order not finalized yet*
+
+Happiness Lin, etc.: Building Health & Mind, this means strong physical fitness and art (calligraphy). Tai Chi Chuan performance is a collective performance of four people, and Rong Shaofeng's calligraphy performance (80 years old, practicing calligraphy for 60 years) .
+
+幸福林等：修身道，此意为强体质和修艺术（书法），即文武之道，太极拳的表演是四个人的集体表演，和容少峰的书法表演（80岁，练书法60年)。
