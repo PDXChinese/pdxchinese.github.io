@@ -40,6 +40,7 @@ Focusing on hands-on games & activities, very kids friendly.<br/>
 [Diabolo](https://www.youtube.com/watch?v=50gu3sHne3k) 抖空竹<br/>
 [Waist Drum Dance](https://www.youtube.com/watch?v=fPHlxQBzj0M) 腰鼓<br/>
 [Variety of Children Games](https://www.youtube.com/watch?v=RgTstkFGaB4) 各种民间儿童游戏<br/>
+[Beijing Opera Faces](https://youtu.be/7JuFBD-M2A0) 京剧脸谱 <br/>
 [Try-on Traditional Chinese Clothing](https://www.youtube.com/watch?v=6UrgHiCarE0) 汉服试穿
 
 *All Youtube links are for demonstration purposes only.*
