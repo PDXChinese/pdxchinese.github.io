@@ -5,7 +5,7 @@ permalink: /midautumnfestival/
 
 # 2018 波特兰中国城中秋文化日活动
 
-![]({{ site.url }}/assets/images/communities/midautumnfestival.jpg)
+![]({{ site.url }}/assets/images/activities/banner1.jpg)
 
 ### Date/Time
 
