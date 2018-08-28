@@ -37,6 +37,10 @@ September 8, 2018 1:00 pm - 3:30 pm
 
 October 13, 2018 1:00 pm - 3:30 pm
 
+November 10, 2018 1:00 pm - 3:30 pm
+
+December 8, 2018 1:00 pm - 3:30 pm
+
 
 ### Address
 
