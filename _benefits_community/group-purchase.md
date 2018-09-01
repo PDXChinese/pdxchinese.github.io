@@ -33,3 +33,7 @@ title: "公益性质的团购活动"
 ### 8/4/2018 Keller Auditorium
 
 [The Phantom of the Opera](https://portland.broadway.com/shows/phantom-opera/)
+
+### 9/30/2018 Newmark Theatre
+
+[中国古典舞经典作品展](http://portlandchinesetimes.com/dance-in-china/)
