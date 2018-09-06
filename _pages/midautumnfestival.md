@@ -7,6 +7,8 @@ permalink: /midautumnfestival/
 
 ![]({{ site.url }}/assets/images/activities/Banner2.jpg)
 
+Click [here](![]({{ site.url }}/assets/images/midautumnfestival2018.jpg) to see the flyer
+
 ### Date/Time
 
 September 22, 2018, Saturday, 1:00 pm - 5:00 pm<br/>
@@ -44,6 +46,8 @@ Focusing on hands-on games & activities, very kids friendly.<br/>
 [Try-on Traditional Chinese Clothing](https://www.youtube.com/watch?v=6UrgHiCarE0) 汉服试穿
 
 *All Youtube links are for demonstration purposes only.*
+
+[Activity list for volunteers](![]({{ site.url }}/assets/pdf/chinatown_mid_autumn_festival_activity_list.pdf)
 
 ### Performing Corner
 
