@@ -7,7 +7,7 @@ permalink: /midautumnfestival/
 
 ![]({{ site.url }}/assets/images/activities/Banner2.jpg)
 
-Click [here](![]({{ site.url }}/assets/images/midautumnfestival2018.jpg) to see the flyer
+Click [here](/assets/images/midautumnfestival2018.jpg) to see the flyer
 
 ### Date/Time
 
@@ -47,7 +47,7 @@ Focusing on hands-on games & activities, very kids friendly.<br/>
 
 *All Youtube links are for demonstration purposes only.*
 
-[Activity list for volunteers](![]({{ site.url }}/assets/pdf/chinatown_mid_autumn_festival_activity_list.pdf)
+[Activity list for volunteers](/assets/pdf/chinatown_mid_autumn_festival_activity_list.pdf)
 
 ### Performing Corner
 
