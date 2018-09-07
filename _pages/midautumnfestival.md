@@ -56,3 +56,11 @@ Focusing on hands-on games & activities, very kids friendly.<br/>
 Happiness Lin, etc.: Building Health & Mind, this means strong physical fitness and art (calligraphy). Tai Chi Chuan performance is a collective performance of four people, and Rong Shaofeng's calligraphy performance (80 years old, practicing calligraphy for 60 years) .
 
 幸福林等：修身道，此意为强体质和修艺术（书法），即文武之道，太极拳的表演是四个人的集体表演，和容少峰的书法表演（80岁，练书法60年)。
+
+![]({{ site.url }}/assets/images/divider.jpg)
+
+Oregon Hope Chinese School: Marshal arts by students, group dancing by parents, Sanzijing performance by Students
+
+俄勒冈希望中文学校：学生表演的武术和三字经，家长表演的舞蹈。
+
+![]({{ site.url }}/assets/images/divider.jpg)
