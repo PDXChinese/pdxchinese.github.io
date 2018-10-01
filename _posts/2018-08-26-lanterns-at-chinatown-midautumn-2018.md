@@ -36,3 +36,13 @@ Baifei Zeng  23:04
 —————  2018-08-26  —————
 
 挂灯笼是今天早上全部完成的，特别要感谢@CY 群友，今天继续负责登高作业！我们一路过去，一路得到过路行人的赞赏，一位行人说到，这才是一个真正中国城应有的面貌，兰苏园卖票的老太太特意拿出4张门票给我和@CY。那份情那份意，让我们感到了作为华人的那份骄傲[ThumbsUp]
+
+—————  2018-09-30  —————
+
+![]({{ site.url }}/assets/images/bf2207abc16ce20669e22ac7d7c19ea3.jpg)
+
+![]({{ site.url }}/assets/images/36057c631c38c69f25498cc1c584d191.jpg)
+
+![]({{ site.url }}/assets/images/5bba5e0587144328b3b8762bf1c43954.jpg)
+
+![]({{ site.url }}/assets/images/840663a2e98a54b052c9c8fd2a3a55dc.jpg)
