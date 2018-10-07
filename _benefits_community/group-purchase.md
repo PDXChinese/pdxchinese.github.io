@@ -37,3 +37,11 @@ title: "公益性质的团购活动"
 ### 9/30/2018 Newmark Theatre
 
 [中国古典舞经典作品展](http://portlandchinesetimes.com/dance-in-china/)
+
+### 10/6/2018 Keller Auditorium
+
+[August Bournonville’s Napoli](https://www.obt.org/18-19-season/napoli/)
+
+### 10/25-28, 2018 Moda Center
+
+[Disney On Ice](https://www.disneyonice.com/ticket-info/Dare-to-Dream/112108?gclid=Cj0KCQjw3ebdBRC1ARIsAD8U0V4xOFHyMS-tFHgK7QNFC3oZIaJAD-CmDv2AIMtGJt4F1XEoMukxJzQaAko3EALw_wcB)
