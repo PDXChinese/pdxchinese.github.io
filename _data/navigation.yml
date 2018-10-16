@@ -40,11 +40,13 @@ extra:
         url: /fair/
       - title: "Commerce Chamber"
         url: /chambercommerce/
+      - title: "Startup Forum"
+        url: /startup/
       - title: "---"
         url:
       - title: "Chinatown"
         url: /chinatown/
       - title: "Chinese New Year"
         url: /lunarnewyear/
-      - title: "Mid-Autumn Festival"
-        url: /midautumnfestival/
+      - title: "Chinese Festival"
+        url: /chinesefestival/
