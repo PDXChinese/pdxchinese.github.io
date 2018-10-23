@@ -28,3 +28,23 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 ![]({{ site.url }}/assets/images/a7e33a5f02a02f3835c26e9e437c8802.jpg)
 
 ![]({{ site.url }}/assets/images/dcf96d90f110b5df7b9568bcdd5bbc9e.jpg)
+
+The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is shown below.
+
+—————  2018-10-20  —————
+
+今天复星集团副总刘勇再次和20余位华人社区成员座谈，深入介绍了初创企业的融资在各个阶段的选择和可能遇到的问题，并结合自己多年的经验给出了非常实用的建议。当他讲到过去十年发生在高科技行业的几件大事的时候，因为他是当事人，而显得是那么的引人入胜。
+
+刘勇进一步提出可以邀请社区有创业想法的成员，准备好自己的商业计划，我们可以模拟一次sales pitch presentation，他和其他几位行业大佬可以当场给出反馈。我想这会是一次极好的锻炼机会，希望能够得到充分的利用。如果能有3-5个人/小组的话，我们会尽快安排。
+
+也十分感谢后来加入的汤立，不仅带来了A轮融资的两瓶pinot，也为大家在semiconductor领域的投资提出了非常诚恳的建议。
+
+此次活动能够成功顺利举办，要特别感谢@雪梨 提供的场地和精心的布置，感谢刘勇的夫人@Lihong 一直在走廊照顾孩子们，感谢与会大家带来的精美食品，并参与会前的布置和会后的收拾。
+
+![]({{ site.url }}/assets/images/44d795254556036135e80704113ba524.jpg)
+
+![]({{ site.url }}/assets/images/aa87c55ec8b5873ef2b6ff13f3fadffb.jpg)
+
+![]({{ site.url }}/assets/images/0268367be7b3cab0a68ccd0512e0aeaf.jpg)
+
+![]({{ site.url }}/assets/images/81505debc27c9862320e271875a23df4.jpg)
