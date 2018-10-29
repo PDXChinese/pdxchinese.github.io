@@ -29,6 +29,8 @@ Hours are measured over a 12-month period (Oct 27 through Oct 26) and awards are
 
 ### Monthly Volunteering at [Oregon Food Bank](htts://www.oregonfoodbank.org/about-us/locations/beaverton/)
 
+Date: Please check [events page](http://pdxchinese.org/eventnow/)
+
 Address: 1870 NW 173rd Ave, Beaverton, OR 97006
 
 To sign up: [http://signup.com/go/RtEtDVp](http://signup.com/go/RtEtDVp)
@@ -46,6 +48,16 @@ Nancy会替大家去FB 网站上注册，更新和当天的sign in，也会提�
 ### Weekly Volunteering at [Lan Su Chinese Garden](https://lansugarden.org/)
 
 ![]({{ site.url }}/assets/images/activities/hanyujiao.jpg)
+
+**SPRING SEASON**
+
+March – April, 2019  
+1:00pm- 3:00pm Every Sunday  
+
+**SUMMER SEASON**
+
+May – October 8, 2019  
+2:00pm- 4:00pm Every Tuesday  
 
 Address: 239 NW Everett St, Portland, OR 97209
 

@@ -47,8 +47,7 @@ Create a platform where PTP can meet regularly to exchange ideas, foster creativ
 
 Master: Jane Li
 
-Date: Every Second Friday
-
-Time: 7:30 pm - 9:30 pm
+Date: Every Second Friday  
+Time: 7:30 pm - 9:30 pm  
 
 Place: MiT School, 1800 NW 169th Place, Suite A250, Beaverton, OR 97006
