@@ -23,13 +23,15 @@ Address：1870 NW 173rd Ave, Beaverton, OR 97006
 
 ## Group Volunteering Opportunities at Lan Su Chinese Garden
 
--SPRING SEASON
--March – April, 2019
--1:00pm- 3:00pm Every Sunday
+**SPRING SEASON**
 
--SUMMER SEASON
--May – October 8, 2019
--2:00pm- 4:00pm Every Tuesday
+March – April, 2019  
+1:00pm- 3:00pm Every Sunday  
+
+**SUMMER SEASON**
+
+May – October 8, 2019  
+2:00pm- 4:00pm Every Tuesday  
 
 Place: Lan Su Garden
 
