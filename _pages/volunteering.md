@@ -68,3 +68,5 @@ Nancy会替大家去FB 网站上注册，更新和当天的sign in，也会提�
 [Ten-Plus Kid-Friendly Volunteer Opportunities in Portland](http://www.pdxparent.com/family-friendly-volunteering-portland/)
 
 [More Volunteering Opportunities for Teens and Help for Getting Ready](https://multcolib.org/teens/job-help-teens)
+
+[Serve in Your Community](https://www.nationalservice.gov/serve)
