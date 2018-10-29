@@ -7,48 +7,29 @@ feature_row1:
     excerpt: ""
 ---
 
-![]({{ site.url }}/assets/images/logo/volunteering_logo1.png)
-
 We come together, serving our community where we raise our families, helping those who are in need, growing our passion for a better world with ‘love’ in heart, and connecting with others who share the same value.
 
-## Introduce our Volunteer Leaders
+# President's Volunteer Service Award (PVSA)
 
-{% include feature_row id="feature_row1"%}
+OCC has been approved as an official Certifying Organization for The President's Volunteer Service Award. We encourage community members, especially youth, to get involved in all the volunteer activities by taking advantage of this platform.
 
-## Group Volunteering Opportunities at Oregon Food Bank
+To be qualified as a volunteer for PVSA awards under OCC, you have to (1) meet the [requirements by PVSA](https://www.presidentialserviceawards.gov/the-award) AND (2) fill out OCC's [PVSA Volunteer Supplemental Datasheet](https://docs.google.com/forms/d/e/1FAIpQLSdn2_Mz3uZ6ghY64BRqC696LkbrRbGoJEH2eRUdX33zT_Fedw/viewform?c=0&w=1).
 
-### Dates
+To start, please [register as a volunteer at PVSA](https://www.presidentialserviceawards.gov/register-vo). Please link your profile with OCC's ROS Key (NJE-6463) so that your hours will be counted under OCC when calculating for the awards.
 
-Dec 26, 2017 8:45 am - 11:30 am ([Highlights](http://pdxchinese.org/food-bank-2017/))
+You will be responsible to keep the volunteer hour log. OCC provides you a [hour log sheet](/assets/pdf/volunteer_hour_log_sheet.pdf) for your convenience.
 
-March 17, 2018 12:45 pm - 3:30 pm ([Highlights](http://pdxchinese.org/oregon-food-bank-03072017/))
+Hours are measured over a 12-month period (Oct 27 through Oct 26) and awards are designated based on cumulative hours. The awards are offered in multiple levels and are designed to recognize each milestone of your service achievement. Levels include bronze, silver, gold and the highest honor, the President’s Lifetime Achievement Award for those who contribute more than 4,000 hours of service in their lifetime.
 
-April 14, 2018 12:45 pm - 3:30 pm ([Highlights](http://pdxchinese.org/food-bank-april-2008/))
+![]({{ site.url }}/assets/images/communities/pvsa_award.jpg)
 
-May 19, 2018 1:00 pm - 3:30 pm ([Highlights](http://pdxchinese.org/food-bank-may-2018/))
+# Group Volunteering Opportunities
 
-June 9, 2018 1:00 pm - 3:30 pm ([Highlights](http://pdxchinese.org/food-bank-june-2018/))
-
-July 14, 2018 1:00 pm - 3:30 pm ([Highlights](http://pdxchinese.org/food-bank-july-2018/))
-
-August 4, 2018 1:00 pm - 3:30 pm ([Highlights](http://pdxchinese.org/food-bank-august-2018/))
-
-September 8, 2018 1:00 pm - 3:30 pm ([Highlights](http://pdxchinese.org/food-bank-sept-2018/))
-
-October 13, 2018 1:00 pm - 3:30 pm ([Highlights](http://pdxchinese.org/food-bank-oct-2018/))
-
-November 10, 2018 1:00 pm - 3:30 pm
-
-December 8, 2018 1:00 pm - 3:30 pm
-
-
-### Address
+### Monthly Volunteering at Oregon Food Bank
 
 [Oregon Food Bank](htts://www.oregonfoodbank.org/about-us/locations/beaverton/)
 
 1870 NW 173rd Ave, Beaverton, OR 97006
-
-### Details
 
 To sign up: [http://signup.com/go/RtEtDVp](http://signup.com/go/RtEtDVp)
 
@@ -62,21 +43,13 @@ Nancy会替大家去FB 网站上注册，更新和当天的sign in，也会提�
 
 请大家不要用微信或短信报名，请都在链接里报名，这样有记录，方便Nancy后台管理，节省时间。
 
-## Group Volunteering Opportunities at Lan Su Garden
+### Weekly Volunteering at Lan Su Chinese Garden
 
 ![]({{ site.url }}/assets/images/activities/hanyujiao.jpg)
-
-### Date
-
-Every Tuesday 2:00 pm - 4:00 pm in July, August and September
-
-### Place
 
 [Lan Su Garden](https://lansugarden.org/)
 
 239 NW Everett St, Portland, OR 97209
-
-### Details
 
 [https://lansugarden.org/things-to-do/events/chinese-conversation-table-with-the-oregon-chinese-coalition/](https://lansugarden.org/things-to-do/events/chinese-conversation-table-with-the-oregon-chinese-coalition/)
 
@@ -88,7 +61,7 @@ Every Tuesday 2:00 pm - 4:00 pm in July, August and September
 
 志愿者不能擅自挪动或者触碰园内或厅内的家具和展物，尽可能不要遮挡墙上的展物，因为游人需要能看到它们。
 
-## More Resources
+# More Resources
 
 [Ten-Plus Kid-Friendly Volunteer Opportunities in Portland](http://www.pdxparent.com/family-friendly-volunteering-portland/)
 
