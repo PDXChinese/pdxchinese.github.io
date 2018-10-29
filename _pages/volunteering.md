@@ -19,7 +19,7 @@ To start, please [register as a volunteer at PVSA](https://www.presidentialservi
 
 You will be responsible for entering hours on PVSA's website after each volunteer activity. Also please keep the volunteer hour logs for future verification. OCC provides you an [hour log sheet](/assets/pdf/volunteer_hour_log_sheet.pdf) for your convenience.
 
-What counts as volunteer hours? We recommend an online [article](https://www.realizedworth.com/2018/07/19/what-counts-as-volunteer-time/) for your reference. Even though we request supervisor's signature and possible hour log verification, it is still up to the volunteers themselves if they want to hold up to the highest level of integrity when reporting hours.
+What counts as volunteer hours? We recommend an online [article](https://www.realizedworth.com/2018/07/19/what-counts-as-volunteer-time/) for your reference. Even though we request supervisor's signature and possible hour log verification, it is still up to the volunteers themselves to report hours with the highest level of integrity.
 
 Hours are measured over a 12-month period (Oct 27 through Oct 26) and awards are designated based on cumulative hours. The awards are offered in multiple levels and are designed to recognize each milestone of your service achievement. Levels include bronze, silver, gold and the highest honor, the President’s Lifetime Achievement Award for those who contribute more than 4,000 hours of service in their lifetime.
 
