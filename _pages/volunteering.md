@@ -17,7 +17,7 @@ To be qualified as a volunteer for PVSA awards under OCC, you have to (1) meet t
 
 To start, please [register as a volunteer at PVSA](https://www.presidentialserviceawards.gov/register-vo). Please link your profile with OCC's ROS Key (NJE-6463) so that your hours will be counted under OCC when calculating for the awards.
 
-You will be responsible to keep the volunteer hour log. OCC provides you a [hour log sheet](/assets/pdf/volunteer_hour_log_sheet.pdf) for your convenience.
+You will be responsible for entering hours on PVSA's website. For all activities, please keep the volunteer hour log. OCC provides you a [hour log sheet](/assets/pdf/volunteer_hour_log_sheet.pdf) for your convenience.
 
 What counts as volunteer hours, we recommend the [following article](https://www.realizedworth.com/2018/07/19/what-counts-as-volunteer-time/) for your reference.
 
