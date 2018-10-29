@@ -9,7 +9,7 @@ For more complete event schedule, please click on [Shared Community Calendar](ht
 
 ## Group Volunteering Opportunities at Oregon Food Bank
 
-Dates：9/8/2018; 10/13/2018; 11/10/2018; 12/8/2018; more to add...
+Dates：11/10/2018; 12/8/2018; 12/29/2018; 2/2/2019; 2/9/2019; 2/16/2019; 2/23/2019 and more to add...
 
 Time：12:45 pm - 3:30 pm
 
@@ -21,11 +21,15 @@ Address：1870 NW 173rd Ave, Beaverton, OR 97006
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
-## Group Volunteering Opportunities at Lan Su Garden
+## Group Volunteering Opportunities at Lan Su Chinese Garden
 
-Date: Every Tuesday in July, August and September
+-SPRING SEASON
+-March – April, 2019
+-1:00pm- 3:00pm Every Sunday
 
-Time: 2:00 pm - 4:00 pm
+-SUMMER SEASON
+-May – October 8, 2019
+-2:00pm- 4:00pm Every Tuesday
 
 Place: Lan Su Garden
 
