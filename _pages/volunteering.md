@@ -2,14 +2,16 @@
 title: " "
 permalink: /volunteering/
 feature_row1:
-  - image_path: /assets/images/members/Nancy-Yang.jpg
-    title: "Nancy Yang"
+  - image_path: /assets/images/activities/pvsacertorg1.GIF
+    title: ""
     excerpt: ""
 ---
 
 We come together, serving our community where we raise our families, helping those who are in need, growing our passion for a better world with ‘love’ in heart, and connecting with others who share the same value.
 
 # President's Volunteer Service Award (PVSA)
+
+{% include feature_row id="feature_row1"%}
 
 OCC has been approved as an official Certifying Organization for The President's Volunteer Service Award. We encourage community members, especially youth, to get involved in all the volunteer activities by taking advantage of this platform.
 
