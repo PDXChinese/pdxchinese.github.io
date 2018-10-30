@@ -3,13 +3,10 @@ title: " "
 permalink: /volunteering/
 feature_row1:
   - image_path: /assets/images/activities/pvsacertorg1.gif
-    title: ""
-    excerpt: ""
+    title: "President's Volunteer Service Award (PVSA)"
 ---
 
 We come together, serving our community where we raise our families, helping those who are in need, growing our passion for a better world with ‘love’ in heart, and connecting with others who share the same value.
-
-# President's Volunteer Service Award (PVSA)
 
 {% include feature_row id="feature_row1"%}
 
