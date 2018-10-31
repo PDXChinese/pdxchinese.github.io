@@ -7,6 +7,8 @@ feature_row1:
 
 We come together, serving our community where we raise our families, helping those who are in need, growing our passion for a better world with ‘love’ in heart, and connecting with others who share the same value.
 
+![]({{ site.url }}/assets/images/divider.jpg)
+
 {% include feature_row id="feature_row1"%}
 
 # President's Volunteer Service Award (PVSA)
@@ -24,6 +26,8 @@ What counts as volunteer hours? We recommend an online [article](https://www.rea
 Hours are measured over a 12-month period (Oct 27 through Oct 26) and awards are designated based on cumulative hours. The awards are offered in multiple levels and are designed to recognize each milestone of your service achievement. Levels include bronze, silver, gold and the highest honor, the President’s Lifetime Achievement Award for those who contribute more than 4,000 hours of service in their lifetime.
 
 ![]({{ site.url }}/assets/images/communities/pvsa_award.jpg)
+
+![]({{ site.url }}/assets/images/divider.jpg)
 
 # Group Volunteering Opportunities
 
@@ -70,6 +74,8 @@ Address: 239 NW Everett St, Portland, OR 97209
 花园内不能用自己带来的吃食，饮品类只要是有盖子的都行，如果需要用点餐点，可以在活动之前或是之后去花园茶楼，他们供应简单的茶点及蒸饺包子类。现场我们会提供一壶茶楼的热茶跟杯子，供大家及参与的访客享用。
 
 志愿者不能擅自挪动或者触碰园内或厅内的家具和展物，尽可能不要遮挡墙上的展物，因为游人需要能看到它们。
+
+![]({{ site.url }}/assets/images/divider.jpg)
 
 # More Resources
 
