@@ -19,7 +19,7 @@ To be qualified as a volunteer for PVSA awards under OCC, you will have to (1) m
 
 To start, please [register as a volunteer at PVSA](https://www.presidentialserviceawards.gov/register-vo). Please link your profile with OCC's ROS Key (NJE-6463) so that your hours will be counted under OCC when calculating for the awards.
 
-Note：大人一注册就可以链接OCC ROS Key，但是小孩子不可以，要注册时填上的家长在收邮件后consent才可以，如果没有收到自动邮件就在他们网站上送邮件给他们 “kid registered name, mail address, parent name; I consent my kid participant and visit PVSA website”。
+*Note：大人一注册就可以链接OCC ROS Key，但是小孩子不可以，要注册时填上的家长在收邮件后consent才可以，如果没有收到自动邮件就在他们网站上送邮件给他们 “kid registered name, mail address, parent name; I consent my kid participant and visit PVSA website”。*
 
 You will be responsible for entering hours on PVSA's website after each volunteer activity. Also please keep the volunteer hour logs for future verification. OCC provides you an [hour log sheet](/assets/pdf/volunteer_hour_log_sheet.pdf) for your convenience.
 
