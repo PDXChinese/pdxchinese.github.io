@@ -3,11 +3,28 @@ title: "Startup Forum"
 permalink: /startup/
 ---
 
+## 社区创业专题座谈会
+
+话题一： 创业 vs. Corperate Ladder， 浪潮集团副总的心理历程
+话题二： 购置社区活动中心，机会当前，我们该如何做？
+
+【时间】11.20.2018 周二 7:00 pm - 9:30 pm  
+【地点】GRIFFITH BLDG: Room 100 - Court Room (4755 SW Griffith Drive, Beaverton, OR 97005) ([Google map](https://goo.gl/maps/8CKG6jYK3a82))  
+
+自从上个月的座谈会之后，社区内创业思潮涌动，人心思变，自己不做点什么感觉人生还不够那么的圆满似的。感谢三位佳宾，他们的演讲帮助开拓了我们的视野，让我们一开始就能够找到这个感觉。进入到第二月，我们不敢有丝毫的松动，希望这个momentum能够继续。
+
+这次我们的座谈会会分为两个部分，第一部分是邀请到国内的浪潮集团副总，他常年住在西雅图，负责浪潮的400人团队与微软的合作。他在浪潮之前自己也经历了创业的完整过程，从一开始推销自己的商业计划到B轮融资，但是还是败在了那95%的大概率上了。之后，他改变了想法，决定攀登国企内部的Corperate ladders，实践证明他获得了成功。他希望和大家以自己的经历聊聊创业与爬梯的选择。
+
+他也有可能会带来一些需要招人的职位，最后半个小时，可以和有兴趣的人做面对面的交流。
+
+座谈会的第二部分是现在我们面对一个难得机会，需要广泛征求社区成员的意见，我们需不需要一个社区中心，在这个中心我们可以做些什么？在有足够大建筑面积和坐地面积的基础上，教育肯定是一个首选。因为这个涉及到“千家万户”，也为社区现有的学校/课后班提供了一个场地选择，甚至广泛合作的可能。我们希望大家坐在一起，开诚布公，谈谈我们各自的想法，哪怕不着边际的ideas。最终想不想move forward，还需要大家拿主意。
+
+有对创业感兴趣的，也请加入《PDX 社区创业论坛》群。
+
 ## Forum Debut
 
-【时间】10.16.2018 7:00 pm - 9:30 pm
-
-【地点】GRIFFITH BLDG: Room 100 - Court Room (4755 SW Griffith Drive, Beaverton, OR 97005) ([Google map](https://goo.gl/maps/8CKG6jYK3a82))
+【时间】10.16.2018 7:00 pm - 9:30 pm  
+【地点】GRIFFITH BLDG: Room 100 - Court Room (4755 SW Griffith Drive, Beaverton, OR 97005) ([Google map](https://goo.gl/maps/8CKG6jYK3a82))  
 
 ## Guest Speakers:
 
