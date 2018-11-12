@@ -59,6 +59,6 @@ Thanks again for all your hard work. Without this component, the conference woul
 
 ![]({{ site.url }}/assets/images/655129ca72d444a958853dc0614e46ae.jpg)
 
-看到这么精彩的照片，大家肯定猜到出自老张的相机。每次看到他拍出来的照片都是第二次享受[ThumbsUp]
+看到这么精彩的照片，大家肯定猜到出自老张的相机。每次看到他拍出来的照片都是二次享受[ThumbsUp]
 
 非常感谢参加演出的每一个人，大家都为找车位在周边转悠了20来分钟，很多人还没有顾得上吃晚饭，演出结束，看到旁边桌子上剩下的点心，正好用来“充饥”。
