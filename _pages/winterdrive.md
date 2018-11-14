@@ -21,7 +21,7 @@ Place: 6 school drop off locations
 
 Entirely run by 30+ students from 15 local middle- and high-schools.
 
-| Name | School |
+| Name | School/Organization |
 | Barrett | Findley Elementary School |
 | Nancy Bai | Sunset High School |
 | Wendy Du | Beats of Bethany |
