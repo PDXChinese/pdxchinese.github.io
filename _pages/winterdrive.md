@@ -22,36 +22,36 @@ Place: 6 school drop off locations
 Entirely run by 30+ students from 15 local middle- and high-schools.
 
 | Name | School |
-| Freya sticka | Rachelle Carson MS |
-| Jiahua Zhu | Westview HS |
-| Leon Liu | ISB |
-| Michael Russak | Sunset HS |
-| John Russak |  Stoller MS |
-| Joe Gu | Stoller MS |
-| Nancy Bai | Sunset HS |
-| Barrett | Findley ES |
-| Rachel Wang | Stoller MS |
+| Freya sticka | Rachelle Carson Middle School |
+| Jiahua Zhu | Westview High School |
+| Leon Liu | International School of Beaverton |
+| Michael Russak | Sunset High School |
+| John Russak |  Stoller Middle School |
+| Joe Gu | Stoller Middle School |
+| Nancy Bai | Sunset High School |
+| Barrett | Findley Elementary School |
+| Rachel Wang | Stoller Middle School |
 | Steven Niu | Catlin Gabel |
-| Cheery Zhang | Stoller MS |
-| Arnold Tianyi Yang | Stoller MS |
-| Arthur Tianqi Yang | Findley ES |
-| Alicia Ye| Stoller MS |
-| Nathan| Jacob ES |
-| Jayden Huang| Stoller MS |  
+| Cheery Zhang | Stoller Middle School |
+| Arnold Tianyi Yang | Stoller Middle School |
+| Arthur Tianqi Yang | Findley Elementary School |
+| Alicia Ye| Stoller Middle School |
+| Nathan| Jacob Elementary School |
+| Jayden Huang| Stoller Middle School |  
 | Ting Wang, Beats of Bethany
-| Jay | Lake Oswego HS |
-| Jason Yu | Lake Oswego HS |
-| Christine Wang | Lake Oswego HS |
-| Angela Wang| Lake Oswego HS |
-| Audrey Hu | West Sylvan MS |
+| Jay | Lake Oswego High School |
+| Jason Yu | Lake Oswego High School |
+| Christine Wang | Lake Oswego High School |
+| Angela Wang| Lake Oswego High School |
+| Audrey Hu | West Sylvan Middle School |
 | Jenell | French American |
 | Derica | French American |
-| Melinda Lin | Athey creek MS |
-| Kevin Lin | Stafford ES |
-| Fiona Zhang | Bolton ES |
+| Melinda Lin | Athey creek Middle School |
+| Kevin Lin | Stafford Elementary School |
+| Fiona Zhang | Bolton Elementary School |
 | Paul Liu | |
-| Sally Xiao | Wood MS |
-| Yalena Guo-Wittenberg | Woodstock ES |
+| Sally Xiao | Wood Middle School |
+| Yalena Guo-Wittenberg | Woodstock Elementary School |
 | Taverick Guo-Wittenberg | DDHS |
 
 ## Donation Items
