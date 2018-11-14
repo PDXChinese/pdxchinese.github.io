@@ -3,9 +3,7 @@ title: " "
 permalink: /winterdrive/
 ---
 
-# 2018 Winter Drive
-
-Entirely run by 30+ students from 15 local middle- and high-schools.
+# 2018 Community-Wide Winter Drive
 
 Date: November 17, 2018 Saturday, 1:00 pm - 4:00 pm  
 Place: 6 school drop off locations  
@@ -20,6 +18,8 @@ Place: 6 school drop off locations
 | SE Portland | [Woodstock Elementary](https://www.google.com/maps/place/Woodstock+Elementary+School/@45.4820466,-122.6115906,15z/data=!4m2!3m1!1s0x0:0x5fa9f4d2efbc1629?ved=2ahUKEwj1wsuYutPeAhWL_p8KHUR1A5oQ_BIwCnoECAYQCA) | |
 
 ## Participating Students
+
+Entirely run by 30+ students from 15 local middle- and high-schools.
 
 | Name | School |
 | Freya sticka | Rachelle Carson MS |
