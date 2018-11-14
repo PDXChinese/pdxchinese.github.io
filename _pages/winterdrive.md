@@ -22,37 +22,40 @@ Place: 6 school drop off locations
 Entirely run by 30+ students from 15 local middle- and high-schools.
 
 | Name | School |
-| Freya sticka | Rachelle Carson Middle School |
-| Jiahua Zhu | Westview High School |
-| Leon Liu | International School of Beaverton |
-| Michael Russak | Sunset High School |
-| John Russak |  Stoller Middle School |
-| Joe Gu | Stoller Middle School |
-| Nancy Bai | Sunset High School |
 | Barrett | Findley Elementary School |
-| Rachel Wang | Stoller Middle School |
+| Nancy Bai | Sunset High School |
+| Wendy Du | Beats of Bethany |
+| Kevin Du | Beats of Bethany |
+| Joe Gu | Stoller Middle School |
+| Audrey Hu | West Sylvan Middle School |
+| Jayden Huang| Stoller Middle School |  
+| Kevin Lin | Stafford Elementary School |
+| Melinda Lin | Athey creek Middle School |
+| Leon Liu | International School of Beaverton |
+| Paul Liu | |
+| Nathan| Jacob Elementary School |
+| Jay | Lake Oswego High School |
 | Steven Niu | Catlin Gabel |
-| Cheery Zhang | Stoller Middle School |
+| John Russak |  Stoller Middle School |
+| Michael Russak | Sunset High School |
+| Freya Sticka | Rachelle Carson Middle School |
+| Derica Theobald | French American |
+| Jenell Theobald | French American |
+| Angela Wang| Lake Oswego High School |
+| Christine Wang | Lake Oswego High School |
+| Rachel Wang | Stoller Middle School |
+| Yalena Guo-Wittenberg | Woodstock Elementary School |
+| Taverick Guo-Wittenberg | DDHS |
+| Sally Xiao | Wood Middle School |
 | Arnold Tianyi Yang | Stoller Middle School |
 | Arthur Tianqi Yang | Findley Elementary School |
 | Alicia Ye| Stoller Middle School |
-| Nathan| Jacob Elementary School |
-| Jayden Huang| Stoller Middle School |  
-| Ting Wang, Beats of Bethany
-| Jay | Lake Oswego High School |
 | Jason Yu | Lake Oswego High School |
-| Christine Wang | Lake Oswego High School |
-| Angela Wang| Lake Oswego High School |
-| Audrey Hu | West Sylvan Middle School |
-| Jenell | French American |
-| Derica | French American |
-| Melinda Lin | Athey creek Middle School |
-| Kevin Lin | Stafford Elementary School |
+| Cheery Zhang | Stoller Middle School |
 | Fiona Zhang | Bolton Elementary School |
-| Paul Liu | |
-| Sally Xiao | Wood Middle School |
-| Yalena Guo-Wittenberg | Woodstock Elementary School |
-| Taverick Guo-Wittenberg | DDHS |
+| Jiahua Zhu | Westview High School |
+| Fiona Zou | Beats of Bethany |
+| Jonathan Zou | Beats of Bethany |
 
 ## Donation Items
 
@@ -84,7 +87,7 @@ Soap, shampoo, tooth brush, tooth paste, feminine hygiene items, toilet paper, e
 
 CCC have partnered with Bikes for Humanity to create Chain Reaction Bike Co-op, which allows CCC clients to refurbish donated bicycles and receive bike mechanic training, earning a free bike through sweat equity!
 
-## Organizations Accepting our Donations
+## Agencies to Receive our Donations
 
 [Central City Concern](http://www.centralcityconcern.org/)  
 [Clay Street Table](http://claystreettable.org/)  
