@@ -25,7 +25,7 @@ Winter Drive flyer ([front page](/assets/images/activities/2018_winter_drive_fro
 Entirely run by 30+ students from 15 local middle- and high-schools.
 
 | Name | School/Organization |
-| Barrett | Findley Elementary School |
+| Barrett Bai | Findley Elementary School |
 | Nancy Bai | Sunset High School |
 | Wendy Du | Beats of Bethany |
 | Kevin Du | Beats of Bethany |
@@ -35,8 +35,6 @@ Entirely run by 30+ students from 15 local middle- and high-schools.
 | Kevin Lin | Stafford Elementary School |
 | Melinda Lin | Athey creek Middle School |
 | Leon Liu | International School of Beaverton |
-| Paul Liu | |
-| Nathan| Jacob Elementary School |
 | Steven Niu | Catlin Gabel |
 | John Russak | Stoller Middle School |
 | Michael Russak | Sunset High School |
@@ -54,6 +52,7 @@ Entirely run by 30+ students from 15 local middle- and high-schools.
 | Arthur Tianqi Yang | Findley Elementary School |
 | Alicia Ye| Stoller Middle School |
 | Jason Yu | Lake Oswego High School |
+| Nathan Ye| Jacob Elementary School |
 | Cheery Zhang | Stoller Middle School |
 | Fiona Zhang | Bolton Elementary School |
 | Jiahua Zhu | Westview High School |
