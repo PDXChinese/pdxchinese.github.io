@@ -16,10 +16,7 @@ Place: 5 drop off locations
 | NW Portland | [Forest Park Elementary](https://www.google.com/maps/place/Forest+Park+Elementary+School/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
 | SE Portland | [Woodstock Elementary](https://www.google.com/maps/place/Woodstock+Elementary+School/@45.4820466,-122.6115906,15z/data=!4m2!3m1!1s0x0:0x5fa9f4d2efbc1629?ved=2ahUKEwj1wsuYutPeAhWL_p8KHUR1A5oQ_BIwCnoECAYQCA) | |
 
-Winter Drive flyer  
-Winter Drive Yard Sign   
-
-Designed by Jiahua Zhu
+Winter Drive flyer designed by Jiahua Zhu: [front](/assets/images/activities/2018_winter_drive_front.jpg) [back](/assets/images/activities/2018_winter_drive_back.jpg)
 
 **Daphne Wu, 2018 Chinese Rose Princess, will serve as Goodwill Ambassador.**
 
