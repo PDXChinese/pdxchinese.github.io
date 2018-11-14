@@ -21,6 +21,8 @@ Winter Drive Yard Sign
 
 Designed by Jiahua Zhu
 
+**Daphne Wu, 2018 Chinese Rose Princess, will serve as Goodwill Ambassador.**
+
 ## Participating Students
 
 Entirely run by 30+ students from 15 local middle- and high-schools.
@@ -49,6 +51,7 @@ Entirely run by 30+ students from 15 local middle- and high-schools.
 | Rachel Wang | Stoller Middle School |
 | Yalena Guo-Wittenberg | Woodstock Elementary School |
 | Taverick Guo-Wittenberg | David Douglas High School |
+| Daphne Wu, Chinese Rose Princess | Sunset High School |
 | Sally Xiao | Wood Middle School |
 | Arnold Tianyi Yang | Stoller Middle School |
 | Arthur Tianqi Yang | Findley Elementary School |
