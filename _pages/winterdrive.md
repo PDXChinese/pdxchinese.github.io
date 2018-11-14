@@ -31,6 +31,7 @@ Entirely run by 30+ students from 15 local middle- and high-schools.
 | Wendy Du | Beats of Bethany |
 | Kevin Du | Beats of Bethany |
 | Joe Gu | Stoller Middle School |
+| Jay Hempstead | Lake Oswego High School |
 | Audrey Hu | West Sylvan Middle School |
 | Jayden Huang| Stoller Middle School |  
 | Kevin Lin | Stafford Elementary School |
@@ -38,7 +39,6 @@ Entirely run by 30+ students from 15 local middle- and high-schools.
 | Leon Liu | International School of Beaverton |
 | Paul Liu | |
 | Nathan| Jacob Elementary School |
-| Jay | Lake Oswego High School |
 | Steven Niu | Catlin Gabel |
 | John Russak |  Stoller Middle School |
 | Michael Russak | Sunset High School |
