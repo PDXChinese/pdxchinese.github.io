@@ -8,7 +8,7 @@ permalink: /winterdrive/
 Entirely run by 30+ students from 15 local middle- and high-schools.
 
 Date: November 17, 2018 Saturday, 1:00 pm - 4:00 pm  
-Place: 6 school locations  
+Place: 6 school drop off locations  
 
 | Area | School | Spot if Specified |
 | --- | --- | --- |
@@ -72,7 +72,7 @@ Bed linens (single or twin preferred), blankets, and pillows.
 
 Basic kitchen items: specifically pots, pans, cutlery, dishes, and can openers.
 
-Baby and toddler clothing,diapers, baby wipes,blankets,car seats (new), strollers, and maternity clothes.
+Baby and toddler clothing, diapers, baby wipes, blankets, car seats (new), strollers, and maternity clothes.
 
 Holiday gifts and gift cards for children living in our alcohol- and drug-free family housing.
 
@@ -86,6 +86,5 @@ CCC have partnered with Bikes for Humanity to create Chain Reaction Bike Co-op, 
 
 ## Organizations Accepting our Donations
 
-[Central City Concern](http://www.centralcityconcern.org/)
-
-[Clay Street Table](http://claystreettable.org/)
+[Central City Concern](http://www.centralcityconcern.org/)  
+[Clay Street Table](http://claystreettable.org/)  
