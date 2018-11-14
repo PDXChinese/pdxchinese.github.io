@@ -18,7 +18,7 @@ Place: 5 drop off locations
 
 Winter Drive flyer ([front page](/assets/images/activities/2018_winter_drive_front.jpg), [back page](/assets/images/activities/2018_winter_drive_back.jpg)) designed by Jiahua Zhu
 
-**Daphne Wu, 2018 Chinese Rose Pri[front page](/assets/images/activities/2018_winter_drive_front.jpg) [back page](/assets/images/activities/2018_winter_drive_back.jpg) ncess, will serve as Gdwill Ambassador.**
+**Daphne Wu, 2018 Chinese Rose Princess, will proudly serve as Goodwill Ambassador.**
 
 ## Participating Students
 
