@@ -17,6 +17,11 @@ Place: 6 school drop off locations
 | West Linn | [Athey Creek MS](https://www.google.com/maps/place/Athey+Creek+Middle+School/@45.3782419,-122.7065181,15z/data=!4m5!3m4!1s0x0:0xd49e1e18c57b1f85!8m2!3d45.3782419!4d-122.7065181) | |
 | SE Portland | [Woodstock Elementary](https://www.google.com/maps/place/Woodstock+Elementary+School/@45.4820466,-122.6115906,15z/data=!4m2!3m1!1s0x0:0x5fa9f4d2efbc1629?ved=2ahUKEwj1wsuYutPeAhWL_p8KHUR1A5oQ_BIwCnoECAYQCA) | |
 
+Winter Drive flyer  
+Winter Drive Yard Sign   
+
+Designed by Jiahua Zhu
+
 ## Participating Students
 
 Entirely run by 30+ students from 15 local middle- and high-schools.
