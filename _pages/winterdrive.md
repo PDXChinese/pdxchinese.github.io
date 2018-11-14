@@ -12,7 +12,7 @@ Place: 6 school locations
 
 | Area | School | Spot if Specified |
 | --- | --- | --- |
-| Beaverton | Sunset High School | |
+| Beaverton | Sunset High School | Parking lot next to NW Cornell Rd|
 | Bethany | Stoller Middle School | |
 | Lake Oswego | Lake Oswego High School | |
 | NW Portland | Forest Park Elementay | |
@@ -62,11 +62,13 @@ Socks, jackets, shoes, hand warmers, hats, mittens, scarves, pants, shirts, belt
 
 Office appropriate clothing for men and women for interviews and new jobs.
 
-### Non-pairable food
+### Non-Perishable food
+
+Canned foods, dried goods, grains.
 
 ### Household products
 
-Bed linens (single or twin preferred), blankets,and pillows.
+Bed linens (single or twin preferred), blankets, and pillows.
 
 Basic kitchen items: specifically pots, pans, cutlery, dishes, and can openers.
 
