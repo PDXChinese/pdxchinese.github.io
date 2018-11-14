@@ -40,16 +40,16 @@ Entirely run by 30+ students from 15 local middle- and high-schools.
 | Paul Liu | |
 | Nathan| Jacob Elementary School |
 | Steven Niu | Catlin Gabel |
-| John Russak |  Stoller Middle School |
+| John Russak | Stoller Middle School |
 | Michael Russak | Sunset High School |
 | Freya Sticka | Rachelle Carson Middle School |
-| Derica Theobald | French American |
-| Jenell Theobald | French American |
+| Derica Theobald | French American International School |
+| Jenell Theobald | Whitford Middle School |
 | Angela Wang| Lake Grove Elementary School |
 | Christine Wang | Lake Oswego High School |
 | Rachel Wang | Stoller Middle School |
 | Yalena Guo-Wittenberg | Woodstock Elementary School |
-| Taverick Guo-Wittenberg | DDHS |
+| Taverick Guo-Wittenberg | David Douglas High School |
 | Sally Xiao | Wood Middle School |
 | Arnold Tianyi Yang | Stoller Middle School |
 | Arthur Tianqi Yang | Findley Elementary School |
