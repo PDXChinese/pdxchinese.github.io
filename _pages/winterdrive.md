@@ -33,7 +33,6 @@ Entirely run by 30+ students from 15 local middle- and high-schools.
 | Joe Gu | Stoller Middle School |
 | Jay Hempstead | Lake Oswego High School |
 | Audrey Hu | West Sylvan Middle School |
-| Jayden Huang| Stoller Middle School |  
 | Kevin Lin | Stafford Elementary School |
 | Melinda Lin | Athey creek Middle School |
 | Leon Liu | International School of Beaverton |
