@@ -22,7 +22,7 @@ Winter Drive flyer ([front page](/assets/images/activities/2018_winter_drive_fro
 
 ## Participating Students
 
-Entirely run by 35+ students from 21 local schools or student organizations.
+Entirely run by 35+ students from 20+ local schools or student organizations.
 
 | Name | School/Organization |
 | Barrett Bai | Findley Elementary School |
