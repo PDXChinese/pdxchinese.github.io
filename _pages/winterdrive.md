@@ -22,7 +22,7 @@ Winter Drive flyer ([front page](/assets/images/activities/2018_winter_drive_fro
 
 ## Participating Students
 
-Entirely run by 30+ students from 15 local middle- and high-schools.
+Entirely run by 35+ students from 21 local schools or student organizations.
 
 | Name | School/Organization |
 | Barrett Bai | Findley Elementary School |
@@ -43,6 +43,7 @@ Entirely run by 30+ students from 15 local middle- and high-schools.
 | Jenell Theobald | Whitford Middle School |
 | Angela Wang| Lake Grove Elementary School |
 | Christine Wang | Lake Oswego High School |
+| Leonard Wang | Stoller Middle School |
 | Rachel Wang | Stoller Middle School |
 | Yalena Guo-Wittenberg | Woodstock Elementary School |
 | Taverick Guo-Wittenberg | David Douglas High School |
@@ -53,6 +54,7 @@ Entirely run by 30+ students from 15 local middle- and high-schools.
 | Alicia Ye| Stoller Middle School |
 | Jason Yu | Lake Oswego High School |
 | Nathan Ye| Jacob Elementary School |
+| Tony Zeng | Oak Greek Elementary School |
 | Cheery Zhang | Stoller Middle School |
 | Fiona Zhang | Bolton Elementary School |
 | Jiahua Zhu | Westview High School |
