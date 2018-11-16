@@ -45,6 +45,7 @@ Entirely run by 35+ students from 20+ local schools or student organizations.
 | Christine Wang | Lake Oswego High School |
 | Leonard Wang | Stoller Middle School |
 | Rachel Wang | Stoller Middle School |
+| Ziyue Wang | Forest Park Elementary School|
 | Yalena Guo-Wittenberg | Woodstock Elementary School |
 | Taverick Guo-Wittenberg | David Douglas High School |
 | Daphne Wu, Chinese Rose Princess | Sunset High School |
