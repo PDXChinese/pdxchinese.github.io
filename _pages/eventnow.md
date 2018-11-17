@@ -35,7 +35,7 @@ Place: Beaverton Elks Club
 
 ## Group Volunteering Opportunities at Oregon Food Bank
 
-Dates：11/10/2018; 12/8/2018; 12/29/2018; 2/2/2019; 2/9/2019; 2/16/2019; 2/23/2019 and more to add...
+Dates：see signup page
 
 Time：12:45 pm - 3:30 pm
 
@@ -43,7 +43,7 @@ Address：1870 NW 173rd Ave, Beaverton, OR 97006
 
 报名链接：[http://signup.com/go/RtEtDVp](http://signup.com/go/RtEtDVp)
 
-请进《PDX 志愿服务公益群》，方便协调和联络。
+请进《PDX 义工群》，方便协调和联络。
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
