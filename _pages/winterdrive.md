@@ -53,7 +53,7 @@ Entirely run by 35+ students from 20+ local schools or student organizations.
 | Arnold Tianyi Yang | Stoller Middle School |
 | Arthur Tianqi Yang | Findley Elementary School |
 | Alicia Ye| Stoller Middle School |
-| Jason Yu | Lake Oswego High School |
+| Rentian Yu | Lake Oswego High School |
 | Nathan Ye| Jacob Elementary School |
 | Tony Zeng | Oak Greek Elementary School |
 | Cheery Zhang | Stoller Middle School |
