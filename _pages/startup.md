@@ -3,7 +3,7 @@ title: "Startup Forum"
 permalink: /startup/
 ---
 
-## 社区创业专题座谈会
+## 社区第二次创业专题座谈会
 
 话题一： 创业 vs. Corperate Ladder， 浪潮集团副总的心理历程
 话题二： 购置社区活动中心，机会当前，我们该如何做？
