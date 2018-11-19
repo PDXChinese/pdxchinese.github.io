@@ -7,18 +7,6 @@ For more complete event schedule, please click on [Shared Community Calendar](ht
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
-## Community Winter Drive Campaign 2018
-
-OCC成为总统志愿者服务奖的官方认证组织后，已经有孩子们开始了登记程序。我们除了增加在Food Bank的集体义工活动之外，组织社区范围内的Winter Drive也是希望能够为大家，尤其是青少年，提供一个参与公益的机会，更何况是如此有意义的一件事情。记得中国城快闪送爱心活动吗？一晃已经是快两年了。 以后这样的活动应该是每年至少一次。
-
-这次Winter Drive我们决定动员社区的青少年站出来并起主导作用，从联系接收机构，商定接收物品种类，到安排各地收集点。。。我们社区玫瑰公主Daphne Wu已经主动请缨，将参加此次活动，并担当此次活动形象大使。
-
-已经建立了一个小群，欢迎愿意参与组织此次活动的同学（以个人或团体名义）的家长们加入进来。
-
-详细内容请参见：[http://pdxchinese.org/winterdrive/](http://pdxchinese.org/winterdrive/)
-
-![]({{ site.url }}/assets/images/divider.jpg)
-
 ## Volunteer Appreciation Potluck 2018
 
 Date: Saturday, November 24  
