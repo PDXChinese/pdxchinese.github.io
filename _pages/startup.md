@@ -21,6 +21,8 @@ permalink: /startup/
 
 有对创业感兴趣的，也请加入《PDX 社区创业论坛》群。
 
+![]({{ site.url }}/assets/images/divider.jpg)
+
 ## Forum Debut
 
 【时间】10.16.2018 7:00 pm - 9:30 pm  
