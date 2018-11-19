@@ -14,7 +14,6 @@ permalink: /winterdrive/
 | Bethany | [Stoller Middle School](https://www.google.com/maps/place/Stoller+Middle+School/@45.557277,-122.822358,15z/data=!4m2!3m1!1s0x0:0x8ed51b34f0447f22?ved=2ahUKEwj43-zdudPeAhVO7VQKHe5DBqkQ_BIwD3oECAYQCA) | |
 | Lake Oswego | [Lake Oswego High School](https://www.google.com/maps/place/Lake+Oswego+Senior+High+School/@45.4275204,-122.7024808,15z/data=!4m5!3m4!1s0x0:0xca28633b2e16a0ea!8m2!3d45.4275204!4d-122.7024808) | |
 | NW Portland | [Forest Park Elementary](https://www.google.com/maps/place/Forest+Park+Elementary+School/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
-| SE Portland | [Woodstock Elementary](https://www.google.com/maps/place/Woodstock+Elementary+School/@45.4820466,-122.6115906,15z/data=!4m2!3m1!1s0x0:0x5fa9f4d2efbc1629?ved=2ahUKEwj1wsuYutPeAhWL_p8KHUR1A5oQ_BIwCnoECAYQCA) | |
 
 Winter Drive flyer ([front page](/assets/images/activities/2018_winter_drive_front.jpg), [back page](/assets/images/activities/2018_winter_drive_back.jpg)) designed by Jiahua Zhu
 
