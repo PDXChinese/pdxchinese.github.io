@@ -1,5 +1,5 @@
 ---
-title: "感恩社区志愿者的年末聚会"
+title: "感谢社区志愿者的年末聚会"
 author: XiBei Zhao
 excerpt: What a night! The people who were there were the spirit of the community, with the beauty inside out. We all owe them who devoted their time and passion to the community. Thank you all, our volunteers, for all you have done!"
 date: "2018-11-24"
