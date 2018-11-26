@@ -21,7 +21,7 @@ OCC理事们，为了他们的积极组织，策划和参与。
 
 特意专程赶来为我们大家介绍Clay Street Table的Paul Davies博士
 
-忙前忙后的义工们，借用一下Nancy的名单，“感谢@Yunlan  @张光超 @艾里克 @淼莲 @Jennifer @希望中文学校敏Min Kong  @💗Eliza 陈曦 @糖包儿 @王美蓉 @peng 及各位还没来得及记下名字的朋友们帮忙setup和清场。为你们点赞”。这个名单肯定漏掉了不少，其中就有帮助从位于京华楼取回大受欢迎的韭菜盒子的@CY。
+忙前忙后的义工们，借用一下Nancy的名单，“感谢@Yunlan  @张光超 @艾里克 @淼莲 @Jennifer @希望中文学校敏Min Kong  @💗Eliza 陈曦 @糖包儿 @王美蓉 @peng 及各位还没来得及记下名字的朋友们帮忙setup和清场。为你们点赞”。这个名单肯定漏掉了不少，其中就有帮助从位于京华楼取回大受欢迎的韭菜盒子的@CY，当然还有自始至终忙活着，没顾得上吃上韭菜盒子的@Nancy。
 
 ![]({{ site.url }}/assets/images/6b13c8a7ca77b7038bbe48fbc76a4460.jpg)
 
