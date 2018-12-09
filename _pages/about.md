@@ -6,9 +6,6 @@ feature_row1:
     title: "James E. McCandlish"
     excerpt: "<p>Mr. McCandlish graduated with honors from Harvard College in 1967. He then worked in the Peace Corps in central Africa. He received his law degree at Northwestern School of Law (Lewis & Clark). He served as staff co-counsel for the Senate Judiciary Committee in Salem. He spent two years with the Metro Public Defender's office in Portland. He started <a href='http://griffinandmccandlish.com/'>his own firm</a> in 1981, and joined forces with Mark Griffin in 1988.</p>"
 feature_row2:
-  - image_path: /assets/images/members/Brink-Ming1.jpg
-    title: "Ming Brink"
-    excerpt: "<p>Ming is an Oregon Certified Public Accountant (CPA). She currently works for Precision Castparts Corp, a wholly owned company of Berkshire Hathaway, as a tax manager.</p><p>Ming also serves as the President of <a href='http://nwchina.org/'>NW China Council</a>. She finds joy in serving the community and giving to others. She has volunteered for various charities and traveled overseas to spread the message of Christianity.</p><p>Ming has pursued education in both China and the United States. She holds a B.A. in Accounting and International Business.</p>"
   - image_path: /assets/images/members/cheng-xuan.jpg
     title: "Xuan Cheng"
     excerpt: "<p>Xuan learned to dance at age of five and started to receive medals in many major ballet competitions from 2004, including Shanghai and New York International Ballet Competitions. She was the Gold medalist at 2006 National Taoli Cup Dance Competition in China.</p><p>Xuan performed in over 20 countries throughout Europe, Asia and North America. She joined Oregon Ballet Theatre as its  female principal dancer in 2011.</p><p>She co-founded <a href='http://oiballet.org/ac/'>Oregon International Ballet Academy</a>, where she shares her experience and passion to young dancers.</p>"
