@@ -33,7 +33,7 @@ The chatting history for this WeChat group "PDX 义工群" is shown below.
 
 —————  2018-12-08  —————
 
-![]({{ site.url }}/assets/images/db0cfc5d795c8e7425ac6dc1956dd428.jpg)
+![]({{ site.url }}/assets/images/db0cfc5d795c8e7425ac6dc1956dd428b.jpg)
 
 The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is shown below.
 
