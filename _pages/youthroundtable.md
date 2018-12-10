@@ -50,7 +50,6 @@ Extra Curriculums in retrospectives
 
 ### 3:30 pm - 5:00 pm Roundtable Discussions among Youth Participants
 
-Making friends  
 Career path  
 Classes at colleges  
 Declaring majors and minors  
