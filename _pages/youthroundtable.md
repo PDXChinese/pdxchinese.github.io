@@ -54,7 +54,7 @@ Career path
 Classes at colleges  
 Declaring majors and minors  
 Looking for interns  
-Campus and company culture  
+Campus and company culture and social life  
 Mentorships  
 Networking  
 
@@ -62,7 +62,7 @@ Networking
 
 ### 2:00 pm - 3:00 pm Mental Health Issues on Teens  
 
-by PPS specialist  
+by PPS specialist (TBD)  
 
 ### 3:00 - 4:30 pm Parenting Issues
 
