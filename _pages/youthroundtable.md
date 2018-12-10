@@ -77,13 +77,8 @@ Photographer: Guangchao Zhang
 
 ### Logo designed by Olando Lin
 
-.
-
-Activity Locations
-
-![]({{ site.url }}/assets/images/psu_entrance.jpg)
-
 ### Archive
 
-2017 Youth Roundtable [Flyer](![]({{ site.url }}/assets/pdf/youth-roundtable-2017.pdf)  
+2017 Youth Roundtable [Flyer](/assets/pdf/youth-roundtable-2017.pdf)  
 2017 Youth Roundtable [Recap](http://pdxchinese.org/youth-roundtable-2017-recap/)  
+[Materials distributed at Roundtables](http://pdxchinese.org/resources/benefits_resources/roundtable/)
