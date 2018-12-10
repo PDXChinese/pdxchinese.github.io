@@ -9,88 +9,71 @@ permalink: /youthroundtable/
 # Oregon Chinese Youth Roundtable
 
 ## Date
-12/30/2017 1:00 pm - 5:00 pm
+12/29/2018 Saturday 1:00 pm - 5:00 pm
 
 ## Place
-Portland State University (from entry at SW Harrison, not from 4th Ave entry, see map at end of the page.)
-
-1900 SW 4th Ave., Portland, Oregon 97201
+GRIFFITH BLDG: Room 100 - Court Room (4755 SW Griffith Drive, Beaverton, OR 97005) ([Google map](https://goo.gl/maps/8CKG6jYK3a82))
 
 ## Participants
 
-High school students, college students, and college graduates
+Middle and high school students, college students, and college graduates
 
 Profiles of those college students and college graduates will be collected and distributed before the event.
 
 ## Registration (Free)
 
-Please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSeLCvVNhV0cRmBGmgdAvf7RuX93AM6QbxzbTDnWi7jHGtZcJw/viewform?c=0&w=1), the number of participants will be limited to 50 (excluding parents).
+Please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSe3US3y88Gut91Fc1zL7OabBz-XI-JRAlOepgQqNvGKtvSaFQ/viewform?vc=0&c=0&w=1), parents do not need to register.
 
-## Proposed Agenda
+## Proposed Agenda for Youth
 
 ### 12:30 pm - 1:00 pm Checking In
 
 Walk-ins are welcome only if there are spaces available
 
-### 1:00 pm - 1:10 pm Social Time and Opening Remarks
+### 1:00 pm - 1:30 pm Social Time and Opening Remarks
 
 Ice Breaking Activity: [Positively Post It!](https://www.facebook.com/Positively-Post-It-1527356444166258/)
 
 Opening Remarks
 
-### 1:30 pm - 3:00 pm Roundtable between High School Students and College Students
+Self Introductions
 
-How those college students reflect after they start to see the forest, comparing their high school years when exploring their own paths -- advices to high school students.
+### 1:30 pm - 3:00 pm Roundtable Discussions among Youth Participants
 
-How to get ready for college life in both academic and social aspects -- helpful for both high school and college students.
+Youth led non-profits  
+Youth participation in gov't (e.g. Youth Advisory Board)  
+Youth in sports  
+Youth in science  
+Youth in business  
+Youth mental health  
+Extra Curriculums in retrospectives  
 
-For each topic, start with the panelists, followed by Q&A.
+### 3:30 pm - 5:00 pm Roundtable Discussions among Youth Participants
 
-### 1:30 pm - 3:00 pm Social Time for College Graduates at Duck House
+Making friends  
+Career path  
+Classes at colleges  
+Declaring majors and minors  
+Looking for interns  
+Campus and company culture  
+Mentorships  
+Networking  
 
-Social and career networking time at casual setting
+## Proposed Agenda for Parents
 
-Welcome to return to the roundtable to join Q&A session starting from 2:30 pm.
+### 2:00 pm - 3:00 pm Mental Health Issues on Teens  
 
-All food and drinks at Duck House are at expense of OCC.
+by PPS specialist  
 
-### 3:00 pm - 3:30 pm Break Time, Show Time and more Social Time
+### 3:00 - 4:30 pm Parenting Issues
 
-Live demo of robotic, two times World Championship
-
-Best time to mingle with friends old and new
-
-### 3:30 pm - 4:30 pm Advices from College Graduates
-
-What skills they feel they could have built up more at high school or college.
-
-From jobs they have today to see majors they chose at colleges and their dreams at high schools.
-
-Look back on the ECs back in high schools and the impact on their lives.
-
-Start with Panelists, followed by Q&A
-
-### 4:30 pm - 5:00 pm Showtime for High School Students
-
-Time to practice public speaking while presenting your case to the audience
-
-5 minutes each for presentation, followed with 5 minutes' feedback and discussion
-
-This time slot will accommodate to 3 high school students
+by a group of parents from our own community  
 
 ### Volunteers
 
-Co-hosts: Hongcheng Zhao and Zhunqin Wang
-
-Event coordinator: Ning Bei
+Co-hosts: Prof. Qusheng Jin and Zhunqin Wang
 
 Photographer: Guangchao Zhang
-
-Snack and drink purchase and setup: Hui Du
-
-Checking in: Jiange Li and Hong Ye
-
-Door greeting: Scott Yang
 
 ### Logo designed by Olando Lin
 
@@ -99,3 +82,8 @@ Door greeting: Scott Yang
 Activity Locations
 
 ![]({{ site.url }}/assets/images/psu_entrance.jpg)
+
+### Archive
+
+2017 Youth Roundtable [Flyer](![]({{ site.url }}/assets/pdf/youth-roundtable-2017.pdf)  
+2017 Youth Roundtable [Recap](http://pdxchinese.org/youth-roundtable-2017-recap/)  
