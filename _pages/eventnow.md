@@ -21,20 +21,6 @@ Place: GRIFFITH BLDG: Room 100 - Court Room (4755 SW Griffith Drive, Beaverton, 
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
-## Volunteer Appreciation Potluck 2018
-
-Date: Saturday, November 24  
-      5:00 – 8:00pm  
-
-Place: Beaverton Elks Club  
-      3464 SW 106th Ave, Beaverton, OR 97005, USA  
-
-盛情邀请您们带着家人参加11/24星期六举办的社区义工年末potluck活动！这次将是属于我们自己的时间，大家为社区义务奉献了一年时间，人人都感到了社区社区发生的变化。我们应该为我们自己和我们所做的感到骄傲和自豪。是时候聚在一起，开开心心相互认识一下，聊聊各自的心得，观看我们活动的slideshows，欣赏我们自己的演出。届时我们还有silent auction和抽奖活动。
-
-[报名链接](https://docs.google.com/forms/d/e/1FAIpQLSfvRHU44_ukmC_iv_62twuYjw5HgOrPPda-QMG2eI8KtHz9BA/viewform?c=0&w=1)
-
-![]({{ site.url }}/assets/images/divider.jpg)
-
 ## Group Volunteering Opportunities at Oregon Food Bank
 
 Dates：see signup page
