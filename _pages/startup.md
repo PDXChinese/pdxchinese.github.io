@@ -6,7 +6,8 @@ permalink: /startup/
 ## 社区第三次创业专题座谈会
 
 主题一： PSU Capstone Program 介绍
-主题二： 创业计划 pitch presentations with comments from experts
+主题二： 邵辉的创业历程
+主题三： 创业计划 pitch presentations with comments from experts
 
 【时间】12.19.2018 周三 7:00 pm - 9:30 pm  
 【地点】GRIFFITH BLDG: Room 100 - Court Room (4755 SW Griffith Drive, Beaverton, OR 97005) ([Google map](https://goo.gl/maps/8CKG6jYK3a82))  
