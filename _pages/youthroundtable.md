@@ -9,7 +9,7 @@ permalink: /youthroundtable/
 # Oregon Chinese Youth Roundtable
 
 ## Date
-12/29/2018 Saturday 1:00 pm - 5:00 pm
+12/29/2018 Saturday 1:00 pm - 4:00 pm
 
 ## Place
 GRIFFITH BLDG: Room 100 - Court Room (4755 SW Griffith Drive, Beaverton, OR 97005) ([Google map](https://goo.gl/maps/8CKG6jYK3a82))
@@ -38,7 +38,7 @@ Opening Remarks
 
 Self Introductions
 
-### 1:30 pm - 3:00 pm Roundtable Discussions among Youth Participants
+### Suggested Topics
 
 Youth led non-profits  
 Youth participation in gov't (e.g. Youth Advisory Board)  
@@ -47,8 +47,6 @@ Youth in science
 Youth in business  
 Youth mental health  
 Extra Curriculums in retrospectives  
-
-### 3:30 pm - 5:00 pm Roundtable Discussions among Youth Participants
 
 Career path  
 Classes at colleges  
@@ -60,19 +58,14 @@ Networking
 
 ## Proposed Agenda for Parents
 
-### 2:00 pm - 3:00 pm Mental Health Issues on Teens  
+### Suggested Topica
 
-by PPS specialist (TBD)  
+Mental Health Issues on Teens  
+Parenting Issues  
 
-### 3:00 - 4:30 pm Parenting Issues
+### Co-Hosts
 
-by a group of parents from our own community  
-
-### Volunteers
-
-Co-hosts: Prof. Qusheng Jin and Zhunqin Wang
-
-Photographer: Guangchao Zhang
+Prof. Qusheng Jin and Zhunqin Wang
 
 ### Logo designed by Olando Lin
 
