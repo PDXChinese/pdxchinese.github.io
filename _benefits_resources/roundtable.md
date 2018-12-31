@@ -12,4 +12,6 @@ If you want to contribute, here is the [Google form](https://goo.gl/5HpKVU). Tha
 
 [与会者networking联系方式](https://goo.gl/B4Z3gX)
 
-圆桌会精彩瞬间(URL available upon request)
+## 2017年圆桌会
+
+沿用去年的课外活动列表
