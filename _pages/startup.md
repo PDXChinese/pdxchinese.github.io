@@ -3,7 +3,22 @@ title: "Startup Forum"
 permalink: /startup/
 ---
 
-## 社区第三次创业专题座谈会
+## 社区第四次创业座谈会
+
+【时间】1.15.2019 周二 7:00 pm - 9:30 pm  
+【地点】GRIFFITH BLDG: Room 100 - Court Room (4755 SW Griffith Drive, Beaverton, OR 97005) ([Google map](https://goo.gl/maps/8CKG6jYK3a82))  
+
+过去的一个多月股市里面的腥风血雨想必会反映在很多人的401K/IRA账户上面，当然希望不会影响到我们大家的正常生活。无论国际国内经济形势如何，无论股市如何变动，日子还是要过的，而且还要过得有滋有味才行。下个周二（1/15）晚上的座谈会有三部分内容。
+
+第一个小时： J Coffee的店主Joe介绍他的开店经历，从着手准备，到实施和经营。并会借此机会举办一个mini咖啡讲座，从选购到制作。相信会是非常的励志，说不定会改变自己的life style（早上一杯咖啡，晚上一杯红酒，任死皮老道空中飞舞）。
+
+第二个小时： 会由赫赫有名的股市技术分析大师虫虫先生，与人共同经营对冲基金（而且很是成功的样子）的汤立先生，和我自己（经济学出身，曾经在大学主讲货币银行学），三人共同主持一个股市投资讲座，因为时间关系，不会太深入，但是会高屋建瓴，希望给与会者一个较为完整的投资概念。
+
+余下半个小时： 留给群友present自己的创业想法，可以借此机会和大家切磋。
+
+![]({{ site.url }}/assets/images/divider.jpg)
+
+## 社区第三次创业座谈会
 
 主题一： PSU Capstone Program 介绍
 主题二： 邵辉的创业历程
@@ -23,7 +38,7 @@ PSU Business Strategy Capstone课程介绍：
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
-## 社区第二次创业专题座谈会
+## 社区第二次创业座谈会
 
 话题一： 创业 vs. Corperate Ladder， 浪潮集团副总的心理历程
 话题二： 购置社区活动中心，机会当前，我们该如何做？
@@ -48,7 +63,7 @@ PSU Business Strategy Capstone课程介绍：
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
-## Forum Debut
+## 社区首次创业座谈会
 
 【时间】10.16.2018 7:00 pm - 9:30 pm  
 【地点】GRIFFITH BLDG: Room 100 - Court Room (4755 SW Griffith Drive, Beaverton, OR 97005) ([Google map](https://goo.gl/maps/8CKG6jYK3a82))  
