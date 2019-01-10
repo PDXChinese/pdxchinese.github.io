@@ -1,5 +1,5 @@
 ---
-title: "Startup Forum"
+title: "Entrepreneurs Forum"
 permalink: /startup/
 ---
 
