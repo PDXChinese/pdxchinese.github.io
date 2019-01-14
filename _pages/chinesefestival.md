@@ -1,5 +1,5 @@
 ---
-title: "Portland Chinese Festival"
+title: "Chinese Festival"
 permalink: /chinesefestival/
 ---
 
@@ -8,4 +8,4 @@ We are going to make the history by holding this event first time ever from loca
 ## August 3, 2019 (Saturday) 11 am - 9 pm  
 ## Pioneer Square, Downtown Portland  
 
-### This page is under construction, more information will be available soon...
+This page is under construction, more information will be available soon...
