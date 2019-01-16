@@ -13,3 +13,6 @@ title: "社区成员原创资源"
 
 
 [Joe Yang - In J Coffee: 开店心得和mini咖啡讲座](/assets/pdf/joe_talk_01152019.pdf)
+
+
+[李廷凯: 釉锆及其数字化口腔修复新趋势](/assets/pdf/litingkai_talk_01152019.pdf)
