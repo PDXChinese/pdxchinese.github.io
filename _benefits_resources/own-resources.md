@@ -10,3 +10,6 @@ title: "社区成员原创资源"
 
 
 [Helen & Amber：选择学医和申请医学院问答](https://drive.google.com/file/d/1287E0DHkT-0keeEOzECpNPpaGWaQL3Km/view?usp=sharing)
+
+
+[Joe Yang - In J Coffee: 开店心得和mini咖啡讲座](/assets/pdf/joe_talk_01152019.pdf)
