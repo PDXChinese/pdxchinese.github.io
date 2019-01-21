@@ -13,7 +13,7 @@ Dates：Feb 9-10, 2019
 
 Address：Camp Rilea which is near Warrenton on the Oregon coast
 
-[具体信息链接]((/assets/pdf/litingkai_talk_rsp2019feb.pdf))
+[具体信息链接](/assets/pdf/litingkai_talk_rsp2019feb.pdf)
 
 请进《PDX 国民卫队周末训练营》群，方便协调和联络。
 
