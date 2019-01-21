@@ -7,6 +7,19 @@ For more complete event schedule, please click on [Shared Community Calendar](ht
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
+## Oregon Army National Guard RSP
+
+Dates：Feb 9-10, 2019
+
+Address：Camp Rilea which is near Warrenton on the Oregon coast
+
+[具体信息链接]((/assets/pdf/litingkai_talk_rsp2019feb.pdf))
+
+请进《PDX 国民卫队周末训练营》群，方便协调和联络。
+
+
+![]({{ site.url }}/assets/images/divider.jpg)
+
 ## Group Volunteering Opportunities at Oregon Food Bank
 
 Dates：see signup page
