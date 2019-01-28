@@ -23,7 +23,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 也感谢郑丽影代表温哥华华人协会赠送给我们义工的手套，也提醒了我们大家对劳动安全保护的意识。
 
-陳曉慧在微信群中说到这是＂掃一屋而後掃天下＂的精神, 说的不能再好了！
+陳曉慧在微信群中高度概括此次活动反映出的是＂掃一屋而後掃天下＂的精神, 说的不能再好了！
 
 ![]({{ site.url }}/assets/images/7e244cce1ecca37f05ee49622c1692a4.jpg)
 
