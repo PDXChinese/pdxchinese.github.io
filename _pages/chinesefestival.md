@@ -17,7 +17,7 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | --- | --- | --- | ---: |
 | 11:00 | Lion Dancing | Dragon & Lion Dance Team of [Lee's Association](http://www.leeondong.org/) |
 | 11:30 | | |
-| 12:00 | | || 11:30 | | |
+| 12:00 | | |
 | 12:30 | Folk Dancing and Singing | NW Chinese Dance Troupe |
 | 13:00 | Fashion Show | [Oceana Blue Productions](http://oceanablueusa.com/) |
 | 14:00 | Traditional Drum Show | OCC Drum Team |
