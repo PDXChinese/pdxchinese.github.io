@@ -21,11 +21,8 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | 12:30 | Folk Dancing and Singing | NW Chinese Dance Troupe |
 | 13:00 | Fashion Show | [Oceana Blue Productions](http://oceanablueusa.com/) |
 | 14:00 | Traditional Drum Show | OCC Drum Team |
-| 14:30 | | |
-| 15:00 | | |
-| 15:30 | | |
-| 16:00 | | |
-| 16:30 | | |
+| 15:00 | Singing & Dancing | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+| 16:00 | Martial Arts | [U.S. Wushu Center](https://uswushu.com/) |
 | 17:00 | | |
 | 17:30 | | |
 | 18:00 | | |
