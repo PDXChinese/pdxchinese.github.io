@@ -11,4 +11,29 @@ We are going to make history by hosting this event first time ever from local Ch
 
 We are solicitating suggestions and recommendations for sponsors, vendors, entertaining groups, speakers... Please contact us at [Contact Us](http://pdxchinese.org/contact/) page or call Hongcheng at 503-709-3119.
 
+### Tentative Programs
+
+| Time |  Program | Presented By |
+| --- | --- | --- | ---: |
+| 11:00 | Lion Dancing | Dragon & Lion Dance Team of [Lee's Association](http://www.leeondong.org/) |
+| 11:30 | | |
+| 12:00 | | || 11:30 | | |
+| 12:30 | Folk Dancing and Singing | NW Chinese Dance Troupe |
+| 13:00 | Fashion Show | [Oceana Blue Productions](http://oceanablueusa.com/) |
+| 14:00 | Traditional Drum Show | OCC Drum Team |
+| 14:30 | | |
+| 15:00 | | |
+| 15:30 | | |
+| 16:00 | | |
+| 16:30 | | |
+| 17:00 | | |
+| 17:30 | | |
+| 18:00 | | |
+| 18:30 | | |
+| 19:00 | | |
+| 19:30 | | |
+| 20:00 | | |
+| 20:30 | | |
+
+
 *This page is still under construction, more information will be available soon...*
