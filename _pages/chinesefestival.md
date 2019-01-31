@@ -5,7 +5,7 @@ permalink: /chinesefestival/
 
 We are going to make history by hosting this event first time ever from local Chinese community. You will enjoy nonstop entertainment, best Chinese food, authentic arts and crafts sales and activities, and much more... We are happy to join [India Festival](http://www.icaportland.org/), [Festa Italiana](https://www.festa-italiana.org/), and [Pan African Festival](http://www.panafricanfestivalor.org/) to offer another splendid cultural event in the living room of Portland.
 
-## August 3, 2019 (Saturday) 11am - 9pm @ Pioneer Courthouse Square, Portland  
+### August 3, 2019 (Saturday) 11am - 9pm @ Pioneer Courthouse Square, Portland  
 
 We are solicitating suggestions and recommendations for sponsors, vendors, entertaining groups, speakers... Please contact us at [Contact Us](http://pdxchinese.org/contact/) page or call Hongcheng at 503-709-3119.
 
