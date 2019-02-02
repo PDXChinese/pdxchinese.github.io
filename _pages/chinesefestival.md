@@ -32,6 +32,12 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | 20:00 | | |
 | 20:30 | | |
 
+### Hands-on Crafts and Activities
+
+| Activity | Hosted By |
+| --- | --- |
+| | |
+
 ### Vendor Lineup
 
 | Name | Section |
