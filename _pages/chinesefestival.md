@@ -56,4 +56,4 @@ Portland Chinatown Saturday performances ([5/14/2016](http://pdxchinese.org/chin
 
 [Chinese Community Fair](http://pdxchinese.org/2018-community-fair-summary/) (4/14/2018)
 
-*This page is still under construction, more information will be available soon...*
+:hammer: *This page is still under construction, more information will be available soon...*
