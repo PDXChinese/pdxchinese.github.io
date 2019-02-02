@@ -46,7 +46,7 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 
 ### Recent public cultural events Oregon Chinese Coalition organized
 
-Portland Chinatown Saturday performances ([5/14/2016](http://pdxchinese.org/chinatown/2016-05-14-saturday-performance/), 5/21/2016(http://pdxchinese.org/chinatown/2016-05-21-saturday-performance/), [5/28/2016](http://pdxchinese.org/chinatown/2016-05-28-saturday-performance/))
+Portland Chinatown Saturday performances ([5/14/2016](http://pdxchinese.org/chinatown/2016-05-14-saturday-performance/), [5/21/2016](http://pdxchinese.org/chinatown/2016-05-21-saturday-performance/), [5/28/2016](http://pdxchinese.org/chinatown/2016-05-28-saturday-performance/))
 
 [Chinatown Mid-Autumn Festival Performance](http://pdxchinese.org/chinatown/2016-09-10-saturday-performance/) (9/10/2016)
 
