@@ -13,7 +13,7 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 
 ### Tentative Programs
 
-| Time |  Program | Presented By |
+| Time | Program | Presented By |
 | --- | --- | --- | ---: |
 | 11:00 | Lion Dancing | Dragon & Lion Dance Team of [Lee's Association](http://www.leeondong.org/) |
 | 11:30 | | |
@@ -31,6 +31,18 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | 19:30 | | |
 | 20:00 | | |
 | 20:30 | | |
+
+### Vendor Lineup
+
+| Name | Section |
+| --- | --- |
+| | |
+
+### Proud Sponsors
+
+| Level | Name | Booth |
+| --- | --- | --- |
+| | | |
 
 
 *This page is still under construction, more information will be available soon...*
