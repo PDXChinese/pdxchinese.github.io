@@ -3,10 +3,16 @@ title: "Entrepreneurs Forum"
 permalink: /startup/
 ---
 
-## 社区第四次创业座谈会
+## 社区第五次创业座谈会
 
 【时间】2.19.2019 周二 7:00 pm - 9:30 pm  
 【地点】GRIFFITH BLDG: Room 300 (4755 SW Griffith Drive, Beaverton, OR 97005) ([Google map](https://goo.gl/maps/8CKG6jYK3a82))  
+
+这个月的活动我们找到了杨歆乐，希望他能和大家聊聊区块链的话题。在社区里很多人认识他，很可能是因为他和夫人共同组建的中学生机器人队，也或许是他每年参加HTC接力长跑。而实际上，他却是一个十分低调的区块链大拿，在这个领域他算是一个名人了。
+
+杨歆乐毕业于北大，专业是理论物理，专长则体现在密码学领域。曾在沃尔玛、英特尔及耐克等公司任职，后来辞了职，开始活跃在区块链技术领域。曾在井通区块链技术公司担任首席架构师。在2017年合伙创立墨客区块链技术公司（MOAC Blockchain Technology），任CTO。个人拥有8项区块链技术相关专利。
+
+知道杨欣乐很能侃，所以，这次就安排这一个话题，索性天马行空，聊个天昏地暗。为了帮助大家对区块链乃至比特币有个基本的了解，特推荐李永乐老师的一段油管视频。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g_fSistU3MQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
