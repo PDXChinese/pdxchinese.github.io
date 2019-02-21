@@ -16,3 +16,6 @@ title: "社区成员原创资源"
 
 
 [李廷凯: 釉锆及其数字化口腔修复新趋势](/assets/pdf/litingkai_talk_01152019.pdf)
+
+
+[杨欣乐：区块链创业](/assets/pdf/xinle_blockchain.pdf)
