@@ -23,6 +23,8 @@ Address：1870 NW 173rd Ave, Beaverton, OR 97006
 
 ## Group Volunteering Opportunities at Lan Su Chinese Garden
 
+<a href="http://signup.com/go/xXOohJS" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Available Spots on SignUp.com"></a>
+
 **SPRING SEASON**
 
 March – April, 2019  
