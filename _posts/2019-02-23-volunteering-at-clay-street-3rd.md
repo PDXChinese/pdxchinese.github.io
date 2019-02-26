@@ -2,7 +2,7 @@
 title: "在Clay Street Table为老人演出庆新春"
 author: XiBei Zhao
 excerpt: "今天的Asian Brunch原本是为春节办的，但上次因为遇上下雪而改在了今天，老人们似乎都忘了有演出这件事了，在吃着饺子的时候，歌声响了起来，大家由惊变喜，随着飞扬的歌声和幽雅的古筝，一贯谦逊到家的老人们也不禁High了起来，掌声不断。"
-date: "2019-03-23"
+date: "2019-02-23"
 ---
 
 The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is shown below.
