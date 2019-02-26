@@ -9,6 +9,8 @@ For more complete event schedule, please click on [Shared Community Calendar](ht
 
 ## Group Volunteering Opportunities at Oregon Food Bank
 
+<a href="http://signup.com/go/RtEtDVp" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Available Spots on SignUp.com"></a>
+
 Dates：see signup page
 
 Time：12:45 pm - 3:30 pm

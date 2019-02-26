@@ -35,6 +35,8 @@ Hours are measured over a 12-month period (Oct 27 through Oct 26) and awards are
 
 ### Monthly Volunteering at [Oregon Food Bank](htts://www.oregonfoodbank.org/about-us/locations/beaverton/)
 
+<a href="http://signup.com/go/RtEtDVp" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Available Spots on SignUp.com"></a>
+
 Date: Please check [events page](http://pdxchinese.org/eventnow/)
 
 Address: 1870 NW 173rd Ave, Beaverton, OR 97006
