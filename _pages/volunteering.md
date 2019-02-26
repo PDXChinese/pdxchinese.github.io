@@ -55,6 +55,8 @@ Nancy会替大家去FB 网站上注册，更新和当天的sign in，也会提�
 
 ![]({{ site.url }}/assets/images/activities/hanyujiao.jpg)
 
+<a href="http://signup.com/go/xXOohJS" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Available Spots on SignUp.com"></a>
+
 **SPRING SEASON**
 
 March – April, 2019  
