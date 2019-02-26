@@ -5,6 +5,7 @@ excerpt: "在去年汉语角大获成功的基础上，我们和兰苏园合作�
 date: "2019-02-25"
 ---
 
+![]({{ site.url }}/assets/images/activities/hanyujiao.jpg)
 
 春节期间的三次活动算作为热身的话，从这个周日开始，2019年兰苏园汉语角活动正式拉开帷幕。刚才在SignUp网站上把所有的spots全部设定好了，方便大家报名包括更新。
 
