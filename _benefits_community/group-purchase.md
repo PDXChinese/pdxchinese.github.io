@@ -46,6 +46,22 @@ title: "公益性质的团购活动"
 
 [Disney On Ice](https://www.disneyonice.com/ticket-info/Dare-to-Dream/112108?gclid=Cj0KCQjw3ebdBRC1ARIsAD8U0V4xOFHyMS-tFHgK7QNFC3oZIaJAD-CmDv2AIMtGJt4F1XEoMukxJzQaAko3EALw_wcB)
 
-### 12/16/2018 12/26/2018 Keller Auditorium
+### 12/16/2018, 12/26/2018 Keller Auditorium
 
 [The Nuctcracker Ballet](https://www.obt.org/18-19-season/nutcracker/)
+
+### 2/16/2019, 2/23/2019 Keller Auditorium
+
+[Cinderella](https://www.obt.org/18-19-season/cinderella/?gclid=CjwKCAiAqt7jBRAcEiwAof2uK0PxR6hViR1mscKQPQatM8_5s5IDMZBxKwP28bf2vTm_WGmLTMKXGRoCtFcQAvD_BwE)
+
+### 3/2-3, 2019 Moda Center
+
+[Monster Jam](https://www.monsterjam.com/en-US/events/portland-or/mar-02-2019-mar-03-2019)
+
+### 3/14-17, 2019 Moda Center
+
+[Cirque du Soleil](https://www.cirquedusoleil.com/usa/portland-oregon/corteo/buy-tickets?utm_medium=paid-search&utm_source=google&utm_content=Expanded-Text-Ad%7car_corteo_us_portland-or__b_en%7cticket-sales%7cpmg%7c%7c%7c%7ctsd&utm_campaign=corteo_portland_2019%7ctouringshowarena%7ccorteo%7cPortland-OR-US%7c&gclid=CjwKCAiAqt7jBRAcEiwAof2uK5E2hvgGq7BnWY4cLnyiMw_CT8g0pneDP4ffCdynR2arU80tQ0wWxBoCl-AQAvD_BwE&gclsrc=aw.ds)
+
+### 5/18/2019 Rose Quarter
+
+[Stars on Ice](https://rosequarter.com/event/stars-on-ice-2019/)
