@@ -48,6 +48,8 @@ title: "公益性质的团购活动"
 
 ### 12/16/2018, 12/26/2018 Keller Auditorium
 
+Volunteers: @xx, @刘鸽/顾元
+
 [The Nuctcracker Ballet](https://www.obt.org/18-19-season/nutcracker/)
 
 ### 2/16/2019, 2/23/2019 Keller Auditorium
