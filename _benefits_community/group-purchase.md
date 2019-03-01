@@ -35,7 +35,7 @@ Volunteers:
 [The Phantom of the Opera](https://portland.broadway.com/shows/phantom-opera/)  
 
 ### 9/30/2018 Newmark Theatre  
-Volunteers:  
+Volunteers: @刘鸽/顾元  
 [中国古典舞经典作品展](http://portlandchinesetimes.com/dance-in-china/)  
 
 ### 10/6/2018 Keller Auditorium  
