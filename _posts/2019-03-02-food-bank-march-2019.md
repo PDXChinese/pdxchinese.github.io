@@ -45,4 +45,4 @@ The chatting history for this WeChat group "PDX 义工群" is shown below.
 
 ![]({{ site.url }}/assets/images/d8a883aae9f8d39dcdbaf8535d7b7fb4.jpg)
 
-最后一张墙报上的数字现实，今天的44位义工每个人为那些需要的人准备了119份meals[强]
+最后一张墙报上的数字现实，今天在场的44位义工每个人为那些需要的人准备了119份meals[强]
