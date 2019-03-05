@@ -2,7 +2,7 @@
 title: "中国城扫街活动进入第二个月"
 author: XiBei Zhao
 excerpt: "今天重点放在了兰苏圆的四周，人行道上很干净，但是靠近人行道的街上就是多年没有收拾过的样子了。感谢兰苏圆允许我们empty我们的垃圾桶，我们也没有客气，连续清空了三大桶。非常感谢每一位参加此次活动的群友和他们的家人们，最后能有这么多人参加，出乎我的意料，再次让人们看到华人的精神面貌。"
-date: "2019-01-27"
+date: "2019-03-03"
 ---
 
 The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is shown below.
