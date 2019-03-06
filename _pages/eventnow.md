@@ -5,53 +5,14 @@ permalink: /eventnow/
 
 For more complete event schedule, please click on [Shared Community Calendar](http://pdxchinese.org/events/) on the front page.
 
-![]({{ site.url }}/assets/images/divider.jpg)
-
-## Group Volunteering Opportunities at Oregon Food Bank
-
-<a href="http://signup.com/go/RtEtDVp" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Available Spots on SignUp.com"></a>
-
-Dates：see signup page
-
-Time：12:45 pm - 3:30 pm
-
-Address：1870 NW 173rd Ave, Beaverton, OR 97006
-
-报名链接：[http://signup.com/go/RtEtDVp](http://signup.com/go/RtEtDVp)
-
-请进《PDX 义工群》，方便协调和联络。
+For regular events including volunteering, seminars, conferences, please check out the submenus on the left of the home page.
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
-## Group Volunteering Opportunities at Lan Su Chinese Garden
+# <span style="color:red">**2019 Chinese Festival**</span>
 
-<a href="http://signup.com/go/xXOohJS" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Available Spots on SignUp.com"></a>
+We are going to make history by hosting this event first time ever from local Chinese community. You will enjoy nonstop entertainment, best Chinese food, authentic arts and crafts sales and activities, and much more... We are happy to join [India Festival](http://www.icaportland.org/), [Festa Italiana](https://www.festa-italiana.org/), and [Pan African Festival](http://www.panafricanfestivalor.org/) to offer another splendid cultural event in the living room of Portland.
 
-**SPRING SEASON**
+> <span style="color:blue">August 3, 2019 (Saturday) 11am - 9pm @ Pioneer Courthouse Square, Portland</span>   :sparkles: <span style="color:green"> **Free admission**</span> :tada:
 
-March – April, 2019  
-1:00pm- 3:00pm Every Sunday  
-
-**SUMMER SEASON**
-
-May – October 8, 2019  
-2:00pm- 4:00pm Every Tuesday  
-
-Place: Lan Su Garden
-
-请进《兰苏园汉语角志愿者》群，方便报名和商量细节。
-
-[https://lansugarden.org/things-to-do/events/chinese-conversation-table-with-the-oregon-chinese-coalition/](https://lansugarden.org/things-to-do/events/chinese-conversation-table-with-the-oregon-chinese-coalition/)
-
-![]({{ site.url }}/assets/images/divider.jpg)
-
-## Portland Talented Professionals (PTP)
-
-Create a platform where PTP can meet regularly to exchange ideas, foster creativity and collaboration, and improve communication skills.
-
-Master: Jane Li
-
-Date: Every Second Friday  
-Time: 7:30 pm - 9:30 pm  
-
-Place: MiT School, 1800 NW 169th Place, Suite A250, Beaverton, OR 97006
+Please follow up with event details by visiting the [festival home page](http://pdxchinese.org/chinesefestival/).
