@@ -1,11 +1,11 @@
 ---
-title: "Upcoming Community Events"
+title: ""
 permalink: /eventnow/
 ---
 
-For more complete event schedule, please click on [Shared Community Calendar](http://pdxchinese.org/events/) on the front page.
+For regular events including volunteering, seminars, conferences, please check out the submenus on the left of the [front page](http://pdxchinese.org/).
 
-For regular events including volunteering, seminars, conferences, please check out the submenus on the left of the home page.
+For more complete event schedule, please click on [Shared Community Calendar](http://pdxchinese.org/events/) on the [front page](http://pdxchinese.org/).
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
