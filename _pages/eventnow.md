@@ -15,4 +15,4 @@ We are going to make history by hosting this event first time ever from local Ch
 
 > <span style="color:blue">August 3, 2019 (Saturday) 11am - 9pm @ Pioneer Courthouse Square, Portland</span>   :sparkles: <span style="color:green"> **Free admission**</span> :tada:
 
-Please follow up with event details by visiting the [festival home page](http://pdxchinese.org/chinesefestival/).
+Please follow up with event details by visiting [2019 Chinese Festival](http://pdxchinese.org/chinesefestival/).
