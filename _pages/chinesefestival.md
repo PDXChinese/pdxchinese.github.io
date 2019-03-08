@@ -27,8 +27,7 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | 17:30 | | |
 | 18:00 | | |
 | 18:30 | | |
-| 19:00 | | |
-| 19:30 | | |
+| 19:00 | Singing & Dancing | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) |
 | 20:00 | | |
 | 20:30 | | |
 
