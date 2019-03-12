@@ -15,13 +15,13 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 ![]({{ site.url }}/assets/images/c548c287247641d2b8a58983d8aba80e.jpg)
 
-![]({{ site.url }}/assets/images/6ca215e54d47456672cb0efa3eed0245.jpg)
+![]({{ site.url }}/assets/images/6ca215e54d47456672cb0efa3eed02452.jpg)
 
-![]({{ site.url }}/assets/images/04915a020cbe469f11f2bbdeb72db61b.jpg)
+![]({{ site.url }}/assets/images/04915a020cbe469f11f2bbdeb72db61b2.jpg)
 
 ![]({{ site.url }}/assets/images/0a18b98bd32d5201ae92c7f654f4699e.jpg)
 
-![]({{ site.url }}/assets/images/b389739997772212ce8cbd7fa61caebd.jpg)
+![]({{ site.url }}/assets/images/b389739997772212ce8cbd7fa61caebd2.jpg)
 
 ![]({{ site.url }}/assets/images/9a4828d5907153d2e7bfe584f68f46ca.jpg)
 
