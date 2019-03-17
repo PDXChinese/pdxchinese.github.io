@@ -50,5 +50,7 @@ extra:
         url: /chinatown/
       - title: "Chinese New Year"
         url: /lunarnewyear/
+      - title: "Drum Team"
+        url: /drumteam/
       - title: "2019 Chinese Festival"
         url: /chinesefestival/
