@@ -19,3 +19,10 @@ Jie Tang
 ### Debut Performance
 
 [Chinese Festival](http://pdxchinese.org/chinesefestival/) on August 3, 2019
+
+### Weekly Practice
+
+Sunday 4-6 pm  
+Goodtime Chinese School  
+
+#### Thank you, Goodtime Chinese School, for providing the practice site!
