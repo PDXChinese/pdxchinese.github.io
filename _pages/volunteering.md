@@ -83,11 +83,13 @@ Address: 239 NW Everett St, Portland, OR 97209
 
 ## Monthly Volunteering at Clay Street Table's Asian Brunch
 
+![]({{ site.url }}/assets/images/fc3110b4f05a241f49938d689d64ca10.jpg)
+
 地点： 1432 SW 13th Ave, Portland, 97201
 
 确切时间和详情会公布在《PDX Clay Street Table 义工群》微信群
 
-## Street Sweeping in Chinatown
+## Monthly Street Sweeping in Chinatown
 
 ![]({{ site.url }}/assets/images/activities/sweeping.jpg)
 
