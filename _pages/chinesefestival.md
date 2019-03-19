@@ -20,7 +20,7 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | 12:30 | Folk Dancing and Singing | NW Chinese Dance Troupe |
 | 13:00 | Fashion Show | [Oceana Blue Productions](http://oceanablueusa.com/) |
 | 14:00 | Traditional Drum Show | OCC Drum Team |
-| 14:30 | | |
+| 14:30 | Chinese Folk Dance| [East Dream Chinese Dance Group](http://www.eastdreamdance.org/index.html) |
 | 15:00 | | |
 | 15:30 | | |
 | 16:00 | Martial Arts | [U.S. Wushu Center](https://uswushu.com/) |
