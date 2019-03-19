@@ -35,6 +35,8 @@ Hours are measured over a 12-month period (Oct 27 through Oct 26) and awards are
 
 ## Monthly Volunteering at [Oregon Food Bank](htts://www.oregonfoodbank.org/about-us/locations/beaverton/)
 
+[![]({{ site.url }}/assets/images/814d713f1c945fd4568d87160c2848ab.jpg)
+
 <a href="http://signup.com/go/RtEtDVp" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Available Spots on SignUp.com"></a>
 
 Date: Please check [events page](http://pdxchinese.org/eventnow/)
