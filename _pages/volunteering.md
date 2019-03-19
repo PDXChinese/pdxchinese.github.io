@@ -89,7 +89,7 @@ Address: 239 NW Everett St, Portland, OR 97209
 
 ## Street Sweeping in Chinatown
 
-![]({{ site.url }}/assets/images/misc/sweeping.jpg)
+![]({{ site.url }}/assets/images/activities/sweeping.jpg)
 
 确切时间和详情会公布在《PDX 义工群》微信群
 
