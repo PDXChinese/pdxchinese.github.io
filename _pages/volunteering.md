@@ -33,7 +33,7 @@ Hours are measured over a 12-month period (Oct 27 through Oct 26) and awards are
 
 # Group Volunteering Opportunities
 
-### Monthly Volunteering at [Oregon Food Bank](htts://www.oregonfoodbank.org/about-us/locations/beaverton/)
+## Monthly Volunteering at [Oregon Food Bank](htts://www.oregonfoodbank.org/about-us/locations/beaverton/)
 
 <a href="http://signup.com/go/RtEtDVp" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Available Spots on SignUp.com"></a>
 
@@ -53,7 +53,7 @@ Nancy会替大家去FB 网站上注册，更新和当天的sign in，也会提�
 
 请大家不要用微信或短信报名，请都在链接里报名，这样有记录，方便Nancy后台管理，节省时间。
 
-### Weekly Volunteering at [Lan Su Chinese Garden](https://lansugarden.org/)
+## Weekly Volunteering at [Lan Su Chinese Garden](https://lansugarden.org/)
 
 ![]({{ site.url }}/assets/images/activities/hanyujiao.jpg)
 
@@ -80,6 +80,18 @@ Address: 239 NW Everett St, Portland, OR 97209
 花园内不能用自己带来的吃食，饮品类只要是有盖子的都行，如果需要用点餐点，可以在活动之前或是之后去花园茶楼，他们供应简单的茶点及蒸饺包子类。现场我们会提供一壶茶楼的热茶跟杯子，供大家及参与的访客享用。
 
 志愿者不能擅自挪动或者触碰园内或厅内的家具和展物，尽可能不要遮挡墙上的展物，因为游人需要能看到它们。
+
+## Monthly Volunteering at Clay Street Table's Asian Brunch
+
+地点： 1432 SW 13th Ave, Portland, 97201
+
+确切时间和详情会公布在《PDX Clay Street Table 义工群》微信群
+
+## Street Sweeping in Chinatown
+
+![]({{ site.url }}/assets/images/misc/sweeping.jpg)
+
+确切时间和详情会公布在《PDX 义工群》微信群
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
