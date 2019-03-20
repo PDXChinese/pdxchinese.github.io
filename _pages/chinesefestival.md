@@ -41,9 +41,21 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 
 ### Hands-on Crafts and Activities
 
-| Activity | Hosted By |
-| --- | --- |
-| | |
+| Category | Activity | Hosted By | Waiver Required |
+| --- | --- | --- | --- |
+| Physical |
+| Physical | Diabolo/抖空竹 | | Yes |
+| Physical | Spinning Top/抽陀螺 | | Yes |
+| Physical | Jump Rubber Band/跳橡皮筋 | | No |
+| Physical | Shuttlecock Kicking/踢毽子 | | No |
+| Physical | Fan Dance/扇子舞 | | No |
+| Physical | Rolling Hoops/滚铁环 | | No |
+| Brain Teaser |
+| Physical | Interlocking Rings/九连环 | | No |
+
+
+
+
 
 ### Vendor Lineup
 
