@@ -11,7 +11,7 @@ We are going to make history by hosting this event first time ever from local Ch
 
 We are solicitating suggestions and recommendations for sponsors, vendors, entertaining groups, speakers... Please contact us at [Contact Us](http://pdxchinese.org/contact/) page or call Hongcheng at 503-709-3119.
 
-### Tentative Programs
+### Committed Programs
 
 | Time | Program | Presented By |
 | --- | --- | --- | ---: |
