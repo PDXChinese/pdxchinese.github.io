@@ -2,7 +2,7 @@
 title: "中餐馆的苦与乐，情与仇，理想与现实"
 author: XiBei Zhao
 excerpt: "在今晚的创业座谈会，我们邀请的两位中餐饮业重量级人物果然不负众望，毫无保留地与大家分享了他们各自创业经历并对开中餐馆的各种细节做了非常详尽的分析介绍。所有的信息都是那么的actionable。即便是像我这样没想过开餐馆的，对这一行业和打拼的人们，都有了全面的了解。"
-date: "2019-02-19"
+date: "2019-03-19"
 ---
 
 The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is shown below.
