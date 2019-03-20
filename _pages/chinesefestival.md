@@ -43,19 +43,24 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 
 | Category | Activity | Hosted By | Waiver Required |
 | --- | --- | --- | --- |
-| Physical |
 | Physical | Diabolo/抖空竹 | | Yes |
 | Physical | Spinning Top/抽陀螺 | | Yes |
 | Physical | Jump Rubber Band/跳橡皮筋 | | No |
 | Physical | Shuttlecock Kicking/踢毽子 | | No |
 | Physical | Fan Dance/扇子舞 | | No |
 | Physical | Rolling Hoops/滚铁环 | | No |
-| Brain Teaser |
-| Physical | Interlocking Rings/九连环 | | No |
-
-
-
-
+| Brain Teaser | Interlocking Rings/九连环 | | No |
+| Brain Teaser | Burr Puzzle/鲁班锁 | | No |
+| Brain Teaser | Klotski/华容道 | | No |
+| Brain Teaser | Tangram/七巧板 | | No |
+| Cultural | Chinese Caligraphy/毛笔字 | | No |
+| Cultural | Ink Painting/水墨画 | | No |
+| Cultural | Costume Photo Booth/古装拍照 | | No |
+| Toys in Old Days | Rattle Drum/拨浪鼓  | | No |
+| Toys in Old Days | Sticks HD/挑棒子  | | No |
+| Toys in Old Days | Tin Mouse/铁皮老鼠  | | No |
+| Toys in Old Days | Play Marbles/打弹珠  | | No |
+| Toys in Old Days | Kaleidoscope/万花筒  | | No |
 
 ### Vendor Lineup
 
