@@ -47,8 +47,8 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | | Spinning Top/抽陀螺 | | Yes |
 | | Jump Rubber Band/跳橡皮筋 | | |
 | | Shuttlecock Kicking/踢毽子 | | |
-| | Fan Dance/扇子舞 | | No |
-| | Rolling Hoops/滚铁环 | | No |
+| | Fan Dance/扇子舞 | | |
+| | Rolling Hoops/滚铁环 | | |
 | Brain Teaser | Interlocking Rings/九连环 | | |
 | | Burr Puzzle/鲁班锁 | | |
 | | Klotski/华容道 | | |
