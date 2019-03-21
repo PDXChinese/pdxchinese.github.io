@@ -67,9 +67,9 @@ Volunteers: @yuer
 [Stars on Ice](https://rosequarter.com/event/stars-on-ice-2019/)  
 
 ### Mar 27 - Apr 7 Keller Auditorium  
-Volunteers:  
+Volunteers: @西北兆  
 [Disney’s Aladdin](https://portland.broadway.com/shows/disneys-aladdin/?gclsrc=aw.ds&&scp=true&gclid=Cj0KCQjwg73kBRDVARIsAF-kEH_8zrF3f6I3tkafhNKNkXq0dI5dN0nJI01LH_yN3Ut7HjignM43EcsaAs5-EALw_wcB)  
 
 ### May 21 - May 26 Keller Auditorium  
-Volunteers:  
+Volunteers: @Vicky  
 [School of Rockl](https://portland.broadway.com/shows/school-of-rock/)  
