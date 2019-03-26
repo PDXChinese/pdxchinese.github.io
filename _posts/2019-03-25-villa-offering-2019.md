@@ -1,5 +1,5 @@
 ---
-title: "VillaSport向本地华人提供免费体验的机会"
+title: "VillaSport向社区华人提供免费体验的机会"
 author: XiBei Zhao
 excerpt: "OCC继续努力为社区成员争取福利，各种演出团购如火如荼，这次则是从健康生活入手，希望大家都能有机会享受到组织起来的好处。"
 date: "2019-03-25"
