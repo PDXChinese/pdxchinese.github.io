@@ -65,7 +65,7 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 
 | Name | Section |
 | --- | --- |
-| | |
+| [Lan Su Chinese Garden](https://lansugarden.org/) | Organization |
 
 ### Proud Sponsors
 
