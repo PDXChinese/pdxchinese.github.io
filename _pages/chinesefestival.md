@@ -61,6 +61,8 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | | Play Marbles/打弹珠  | | |
 | | Kaleidoscope/万花筒  | | |
 
+Hosting organization or individual will have their name tags with social media info on the table.
+
 ### Vendor Lineup
 
 | Name | Section |
