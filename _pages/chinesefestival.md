@@ -9,7 +9,7 @@ We are going to make history by hosting this event first time ever from local Ch
 
 > <span style="color:blue">August 3, 2019 (Saturday) 11am - 9pm @ Pioneer Courthouse Square, Portland</span>   :sparkles: <span style="color:green"> **Free admission**</span> :tada:
 
-We are solicitating suggestions and recommendations for sponsors, vendors, entertaining groups, speakers... Please contact us at [Contact Us](http://pdxchinese.org/contact/) page or call Hongcheng at 503-709-3119.
+We are solicitating suggestions and recommendations for sponsors, vendors, entertaining groups, speakers... Please contact us at [Contact Us](http://pdxchinese.org/contact/) page or call 503-709-3119.
 
 ### Committed Programs
 
@@ -32,7 +32,7 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | 20:00 | | |
 | 20:30 | | |
 
-### Speeches
+### Speeches/Presentations
 
 | Speaker | Topic |
 | --- | --- |
