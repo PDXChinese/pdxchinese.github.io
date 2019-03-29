@@ -18,13 +18,13 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | 11:00 | Lion Dancing | Dragon & Lion Dance Team of [Lee's Association](http://www.leeondong.org/) |
 | 11:30 | Singing & Dancing | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 | 12:30 | Folk Dancing and Singing | NW Chinese Dance Troupe |
-| 13:00 | Fashion Show | [Oceana Blue Productions](http://oceanablueusa.com/) |
-| 14:00 | Traditional Drum Show | OCC Drum Team |
+| 13:00 | Fashion Show (Kids) | [Oceana Blue Productions](http://oceanablueusa.com/) |
+| 13:30 | | |
 | 14:30 | Chinese Folk Dance| [East Dream Chinese Dance Group](http://www.eastdreamdance.org/index.html) |
-| 15:00 | | |
+| 15:00 | Fashion Show (Teen) | [Oceana Blue Productions](http://oceanablueusa.com/) |
 | 15:30 | | |
 | 16:00 | Martial Arts | [U.S. Wushu Center](https://uswushu.com/) |
-| 16:30 | Singing & Dancing | Various Chinese Cultural Groups from Vancouver |
+| 16:30 | Singing & Dancing | Chinese Cultural Groups from Vancouver |
 | 17:30 | | |
 | 18:00 | | |
 | 18:30 | | |
@@ -48,6 +48,7 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | | Shuttlecock Kicking/踢毽子 | | |
 | | Fan Dance/扇子舞 | | |
 | | Rolling Hoops/滚铁环 | | |
+| | Taiji/太极 | | |
 | Brain Teaser | Interlocking Rings/九连环 | | |
 | | Burr Puzzle/鲁班锁 | | |
 | | Klotski/华容道 | | |
@@ -55,13 +56,15 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | Cultural | Chinese Caligraphy/毛笔字 | | |
 | | Ink Painting/水墨画 | | |
 | | Costume Photo Booth/古装拍照 | | |
+| | Paper Cutting/剪纸 | | |
+| | Handmade Figurines/面塑艺术 | | |
 | Toys in Old Days | Rattle Drum/拨浪鼓  | | |
 | | Sticks HD/挑棒子  | | |
 | | Tin Mouse/铁皮老鼠  | | |
 | | Play Marbles/打弹珠  | | |
 | | Kaleidoscope/万花筒  | | |
 
-Hosting organization or individual will have their name tags with social media info on the table.
+Hosting organizations or individuals will have their name tags with social media info on the table.
 
 ### Vendor Lineup
 
