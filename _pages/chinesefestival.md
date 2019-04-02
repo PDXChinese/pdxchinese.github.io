@@ -5,9 +5,9 @@ permalink: /chinesefestival/
 
 # <span style="color:red">**2019 Chinese Festival**</span>
 
-We are going to make history by hosting this event first time ever from local Chinese community. You will enjoy nonstop entertainment, best Chinese food, authentic arts and crafts sales and activities, and much more... We are happy to join [India Festival](http://www.icaportland.org/), [Festa Italiana](https://www.festa-italiana.org/), and [Pan African Festival](http://www.panafricanfestivalor.org/) to offer another splendid cultural event in the living room of Portland.
+We are going to make history by hosting this event first time ever from local Chinese community. You will enjoy nonstop entertainment, best Chinese food, authentic arts and crafts sales and activities, and much more... We are happy to join [India Festival](http://www.icaportland.org/), [Festa Italiana](https://www.festa-italiana.org/), [Pan African Festival](http://www.panafricanfestivalor.org/), and [Celebration of Persian New Year](https://www.andisheh.org/events/norouz-2019/) to offer another splendid cultural event in the living room of Portland.
 
-> <span style="color:blue">August 3, 2019 (Saturday) 11am - 9pm @ Pioneer Courthouse Square, Portland</span>   :sparkles: <span style="color:green"> **Free admission**</span> :tada:
+> <span style="color:blue">August 3, 2019 (Saturday) 11am - 8pm @ Pioneer Courthouse Square, Portland</span>   :sparkles: <span style="color:green"> **Free admission**</span> :tada:
 
 We are solicitating suggestions and recommendations for sponsors, vendors, entertaining groups, speakers... Please contact us at [Contact Us](http://pdxchinese.org/contact/) page or call 503-709-3119.
 
@@ -28,8 +28,6 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | 18:00 | | |
 | 18:30 | Folk Songs | Vintage Chinese Singing Group/春之声组合 |
 | 19:00 | Singing & Dancing | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) |
-| 20:00 | | |
-| 20:30 | | |
 
 ### Speeches/Presentations
 
