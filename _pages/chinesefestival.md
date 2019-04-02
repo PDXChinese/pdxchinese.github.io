@@ -28,6 +28,7 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | 18:00 | | |
 | 18:30 | Folk Songs | Vintage Chinese Singing Group/春之声组合 |
 | 19:00 | Singing & Dancing | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) |
+| 20:00 | Conclusion |
 
 ### Speeches/Presentations
 
