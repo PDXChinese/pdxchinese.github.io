@@ -15,19 +15,20 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 
 | Time | Program | Presented By |
 | --- | --- | --- | ---: |
-| 11:00 | Lion Dancing | Dragon & Lion Dance Team of [Lee's Association](http://www.leeondong.org/) |
-| 11:30 | Singing & Dancing | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-| 12:30 | Folk Dancing and Singing | NW Chinese Dance Troupe |
-| 13:00 | Fashion Show (Kids) | [Oceana Blue Productions](http://oceanablueusa.com/) |
+| 11:00 | Lion Dancing 20min | Dragon & Lion Dance Team of [Lee's Association](http://www.leeondong.org/) |
+| 11:30 | Singing & Dancing 60min | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+| 12:30 | Folk Dancing and Singing 30min | NW Chinese Dance Troupe |
+| 13:00 | Fashion Show (Kids) 10min | [Oceana Blue Productions](http://oceanablueusa.com/) |
 | 13:30 | | |
-| 14:30 | Chinese Folk Dance| [East Dream Chinese Dance Group](http://www.eastdreamdance.org/index.html) |
-| 15:00 | Fashion Show (Teen) | [Oceana Blue Productions](http://oceanablueusa.com/) |
+| 14:00 | | |
+| 14:30 | Chinese Folk Dance 30min| [East Dream Chinese Dance Group](http://www.eastdreamdance.org/index.html) |
+| 15:00 | Fashion Show (Teen) 10min | [Oceana Blue Productions](http://oceanablueusa.com/) |
 | 15:30 | | |
-| 16:00 | Martial Arts | [U.S. Wushu Center](https://uswushu.com/) |
-| 16:30 | Singing & Dancing | Chinese Cultural Groups from Vancouver |
+| 16:00 | Martial Arts 30min | [U.S. Wushu Center](https://uswushu.com/) |
+| 16:30 | Singing & Dancing 60min| Chinese Cultural Groups from Vancouver |
 | 18:00 | | |
-| 18:30 | Folk Songs | Vintage Chinese Singing Group/春之声组合 |
-| 19:00 | Singing & Dancing | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) |
+| 18:30 | Folk Songs 30min | Vintage Chinese Singing Group/春之声组合 |
+| 19:00 | Singing & Dancing 60min | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) |
 | 20:00 | Conclusion |
 
 ### Speeches/Presentations
