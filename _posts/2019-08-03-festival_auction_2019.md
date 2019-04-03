@@ -9,8 +9,8 @@ Home page for 2019 Chinese Festival: [http://pdxchinese.org/chinesefestival/](ht
 
 Please send us your bids via email: [info@pdxchinese.org](mailto:info@pdxchinese.org)
 
-This auction has raised **$___** so far, way to go! 
+This auction has raised **$___** so far, way to go!
 
 | Items | Donated By | Suggested Value | Status |
 | --- | --- | ---: | ---: |
-| [Stars on Ice tickets](/assets/images/festival/starsonicetickets.jpg) (4) | OCC | $22.00/each | available |
+| [Stars on Ice tickets 5/18](/assets/images/festival/starsonicetickets.jpg) (4) | OCC | $22.00/each | available |
