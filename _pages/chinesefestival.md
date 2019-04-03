@@ -81,7 +81,7 @@ Hosting organizations or individuals will have their name tags with social media
 Platinum $10,000+; Gold $5,000; Silver $2,000+; Bronze $1,000; Patron $250+  
 In cash or in kind, banners on site and logos in social media   
 
-### Event Auction
+### Event Fundraising Auction
 
 Please help us raise the money by donating auction items to us. Visit [auction page](http://pdxchinese.org/festival_auction_2019/) for auction items and send your bids today.
 
