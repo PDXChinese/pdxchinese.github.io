@@ -9,7 +9,7 @@ date: "2019-08-03"
 
 Please send us your bids via email: [info@pdxchinese.org](mailto:info@pdxchinese.org)
 
-This auction has raised **$___** so far, way to go!
+This auction has raised **$___** so far, way to go! We will need to have at least $25,000 to have a successful event.
 
 | Items | Donated By | Suggested Value | Status |
 | --- | --- | ---: | ---: |
