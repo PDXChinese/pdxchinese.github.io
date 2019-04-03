@@ -11,4 +11,4 @@ Please send us your bids via email: [info@pdxchinese.org](mailto:info@pdxchinese
 
 | Items | Donated By | Suggested Value | Status |
 | --- | --- | ---: | ---: |
-| Stars on Ice tickets (4) | OCC | $22.00/each | Avail |
+| [Stars on Ice tickets](/assets/images/festival/starsonicetickets.jpg) (4) | OCC | $22.00/each | available |
