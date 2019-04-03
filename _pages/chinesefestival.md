@@ -40,7 +40,7 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 ### Hands-on Crafts and Activities
 
 | Category | Activity | Hosted By |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | Physical | Diabolo/抖空竹 | |
 | | Jump Rubber Band/跳橡皮筋 | |
 | | Shuttlecock Kicking/踢毽子 | |
@@ -75,8 +75,8 @@ Hosting organizations or individuals will have their name tags with social media
 | --- | --- | --- |
 | | | |
 
-Platinum $10,000+; Gold $5,000; Silver $2,000+; Bronze $1,000; Patron $100+  
-In cash or in kind  
+Platinum $10,000+; Gold $5,000; Silver $2,000+; Bronze $1,000; Patron $250+  
+In cash or in kind, banners on site and logos in social media   
 
 ### Event Auction
 
