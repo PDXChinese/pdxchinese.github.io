@@ -58,7 +58,7 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | | Paper Cutting/剪纸 | 7 | |
 | | Handmade Figurines/面塑艺术 | 8 | |
 | | Chinese Medicine/中医 | 9 | |
-| Toys in Old Days | Rattle Drum/拨浪鼓  | |
+| Toys in Old Days | Rattle Drum/拨浪鼓  | 10 | |
 | | Sticks HD/挑棒子  | 10 | |
 | | Tin Mouse/铁皮老鼠  | 10 | |
 | | Play Marbles/打弹珠  | 10 | |
