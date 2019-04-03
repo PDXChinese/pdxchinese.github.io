@@ -28,6 +28,7 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | 15:30 | | |
 | 16:00 | Martial Arts 30min | [U.S. Wushu Center](https://uswushu.com/) |
 | 16:30 | Singing & Dancing 60min| Chinese Cultural Groups from Vancouver |
+| 17:30 | | |
 | 18:00 | | |
 | 18:30 | Folk Songs 30min | Vintage Chinese Singing Group/春之声组合 |
 | 19:00 | Singing & Dancing 60min | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) |
