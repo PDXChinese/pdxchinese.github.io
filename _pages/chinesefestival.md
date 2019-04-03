@@ -54,7 +54,7 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | | Ink Painting/水墨画 | |
 | | Paper Cutting/剪纸 | |
 | | Handmade Figurines/面塑艺术 | |
-| | Chinese Medicine/中医 | | |
+| | Chinese Medicine/中医 | |
 | Toys in Old Days | Rattle Drum/拨浪鼓  | |
 | | Sticks HD/挑棒子  | |
 | | Tin Mouse/铁皮老鼠  | |
