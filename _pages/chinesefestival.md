@@ -42,6 +42,8 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 
 ### Hands-on Crafts and Activities
 
+<a href="https://signup.com/go/qXfhufu" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Volunteer Opportunities on SignUp.com"></a>
+
 | Category | Activity | Group | Hosted By |
 | --- | --- | ---: | --- |
 | Physical | Diabolo/抖空竹 | 1 | |
