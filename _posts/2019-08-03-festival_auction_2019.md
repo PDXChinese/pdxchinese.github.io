@@ -8,5 +8,5 @@ date: "2019-08-03"
 Please send us your bids via email: [info@pdxchinese.org](mailto:info@pdxchinese.org)
 
 | Items | Donated By | Suggested Value | Status |
-| --- | --- | --- | ---: |
+| --- | --- | ---: | ---: |
 | Stars on Ice tickets (4) | OCC | $22.00/each | Avail |
