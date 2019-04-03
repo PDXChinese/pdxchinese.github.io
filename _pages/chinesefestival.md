@@ -80,7 +80,7 @@ In cash or in kind
 
 ### Event Auction
 
-Please help us raise the money by donating auction items to us. Visit [auction page](http://pdxchinese.org/2019-08-03-festival_auction_2019.md) for auction items and send your bids today.
+Please help us raise the money by donating auction items to us. Visit [auction page](http://pdxchinese.org/festival_auction_2019/) for auction items and send your bids today.
 
 ### Recent public cultural events Oregon Chinese Coalition organized
 
