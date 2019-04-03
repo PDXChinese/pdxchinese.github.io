@@ -235,6 +235,9 @@ collections:
   about_history:
     output: true
     permalink: /about/history/:path/
+  festival:
+    output: true
+    permalink: /festival/:path/
   chinatown_gallery:
     output: true
     permalink: /chinatown/:path/
@@ -392,6 +395,13 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # festival
+  - scope:
+      path: ""
+      type: festival
+    values:
+      layout: single
+      author_profile: false
   # chinatown_gallery
   - scope:
       path: ""
@@ -399,6 +409,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+
   # chinatown_sayno
   - scope:
       path: ""
