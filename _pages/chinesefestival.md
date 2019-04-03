@@ -20,7 +20,7 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | 12:30 | Folk Dancing and Singing 30min | NW Chinese Dance Troupe |
 | 13:00 | Fashion Show (Kids) 10min | [Oceana Blue Productions](http://oceanablueusa.com/) |
 | 13:15 | Chinese Drumbeat 10min | OCC Drum Team |
-| 13:30 | Folk Dance 20min | PSU Students |
+| 13:30 | Folk Dance 20min | PSU Student Dance Group |
 | 14:00 | | |
 | 14:30 | Chinese Folk Dance 30min| [East Dream Chinese Dance Group](http://www.eastdreamdance.org/index.html) |
 | 15:00 | Fashion Show (Teen) 10min | [Oceana Blue Productions](http://oceanablueusa.com/) |
@@ -46,8 +46,8 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 
 | Category | Activity | Group | Hosted By |
 | --- | --- | ---: | --- |
-| Physical | Diabolo/抖空竹 | 1 | |
-| | Jump Rubber Band/跳橡皮筋 | 2 | |
+| Physical | [Diabolo/抖空竹](https://youtu.be/rBNFTSNA_dk) | 1 | |
+| | [Jump Rubber Band/跳橡皮筋](https://youtu.be/H48DTWOlmw0) | 2 | |
 | | Shuttlecock Kicking/踢毽子 | 2 | |
 | | Turn Handkerchief/转手帕 | 3 | |
 | | Taiji/太极 | 4 | |
