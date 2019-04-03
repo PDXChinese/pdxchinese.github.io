@@ -39,27 +39,27 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 
 ### Hands-on Crafts and Activities
 
-| Category | Activity | Hosted By |
-| --- | --- | --- |
-| Physical | Diabolo/抖空竹 | |
-| | Jump Rubber Band/跳橡皮筋 | |
-| | Shuttlecock Kicking/踢毽子 | |
-| | Fan Dance/扇子舞 | |
-| | Taiji/太极 | |
-| Brain Teaser | Interlocking Rings/九连环 | |
-| | Burr Puzzle/鲁班锁 | |
-| | Klotski/华容道 | |
-| | Tangram/七巧板 | |
-| Cultural | Chinese Caligraphy/毛笔字 | |
-| | Ink Painting/水墨画 | |
-| | Paper Cutting/剪纸 | |
-| | Handmade Figurines/面塑艺术 | |
-| | Chinese Medicine/中医 | |
+| Category | Activity | Group | Hosted By |
+| --- | --- | ---: | --- |
+| Physical | Diabolo/抖空竹 | 1 | |
+| | Jump Rubber Band/跳橡皮筋 | 2 | |
+| | Shuttlecock Kicking/踢毽子 | 2 | |
+| | Turn Handkerchief/转手帕 | 3 | |
+| | Taiji/太极 | 4 | |
+| Brain Teaser | Interlocking Rings/九连环 | 5 | |
+| | Burr Puzzle/鲁班锁 | 5 | |
+| | Klotski/华容道 | 5 | |
+| | Tangram/七巧板 | 5 | |
+| Cultural | Chinese Caligraphy/毛笔字 | 6 | |
+| | Ink Painting/水墨画 | 6 | |
+| | Paper Cutting/剪纸 | 7 | |
+| | Handmade Figurines/面塑艺术 | 8 | |
+| | Chinese Medicine/中医 | 9 | |
 | Toys in Old Days | Rattle Drum/拨浪鼓  | |
-| | Sticks HD/挑棒子  | |
-| | Tin Mouse/铁皮老鼠  | |
-| | Play Marbles/打弹珠  | |
-| | Kaleidoscope/万花筒  | |
+| | Sticks HD/挑棒子  | 10 | |
+| | Tin Mouse/铁皮老鼠  | 10 | |
+| | Play Marbles/打弹珠  | 10 | |
+| | Kaleidoscope/万花筒  | 10 | |
 
 Hosting organizations or individuals will have their name tags with social media info on the table.
 
