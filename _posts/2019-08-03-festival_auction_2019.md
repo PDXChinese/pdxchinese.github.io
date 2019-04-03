@@ -5,6 +5,8 @@ excerpt: "欢迎为我们社区首届Chinese Festival筹款提供拍卖的物品
 date: "2019-08-03"
 ---
 
+Please send us your bids via email: [info@pdxchinese.org](mailto:info@pdxchinese.org)
+
 | Items | Donated By | Suggested Value | Status |
 | --- | --- | --- | ---: |
 | Stars on Ice tickets (4) | OCC | $87.00 | Avail |
