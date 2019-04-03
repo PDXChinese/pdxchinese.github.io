@@ -20,7 +20,7 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | 12:30 | Folk Dancing and Singing 30min | NW Chinese Dance Troupe |
 | 13:00 | Fashion Show (Kids) 10min | [Oceana Blue Productions](http://oceanablueusa.com/) |
 | 13:15 | Chinese Drumbeat 10min | OCC Drum Team |
-| 13:30 | Folk Dance 10min | PSU Students |
+| 13:30 | Folk Dance 20min | PSU Students |
 | 14:00 | | |
 | 14:30 | Chinese Folk Dance 30min| [East Dream Chinese Dance Group](http://www.eastdreamdance.org/index.html) |
 | 15:00 | Fashion Show (Teen) 10min | [Oceana Blue Productions](http://oceanablueusa.com/) |
