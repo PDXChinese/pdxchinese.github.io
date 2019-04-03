@@ -42,11 +42,9 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | Category | Activity | Hosted By | Waiver Required |
 | --- | --- | --- | --- |
 | Physical | Diabolo/抖空竹 | | Yes |
-| | Spinning Top/抽陀螺 | | Yes |
 | | Jump Rubber Band/跳橡皮筋 | | |
 | | Shuttlecock Kicking/踢毽子 | | |
 | | Fan Dance/扇子舞 | | |
-| | Rolling Hoops/滚铁环 | | |
 | | Taiji/太极 | | |
 | Brain Teaser | Interlocking Rings/九连环 | | |
 | | Burr Puzzle/鲁班锁 | | |
@@ -54,7 +52,6 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | | Tangram/七巧板 | | |
 | Cultural | Chinese Caligraphy/毛笔字 | | |
 | | Ink Painting/水墨画 | | |
-| | Costume Photo Booth/古装拍照 | | |
 | | Paper Cutting/剪纸 | | |
 | | Handmade Figurines/面塑艺术 | | |
 | | Chinese Medicine/中医 | | |
@@ -83,9 +80,7 @@ In cash or in kind
 
 ### Event Auction
 
-Visit auction page for auction items and send your bids today.
-
-Please help us raise the money by donating auction items to us.
+Please help us raise the money by donating auction items to us. Visit auction page for auction items and send your bids today.
 
 ### Recent public cultural events Oregon Chinese Coalition organized
 
