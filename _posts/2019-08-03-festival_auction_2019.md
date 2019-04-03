@@ -5,9 +5,11 @@ excerpt: "欢迎为我们社区首届Chinese Festival筹款提供拍卖物品，
 date: "2019-08-03"
 ---
 
-For more information about 2019 Chinese Festival, please visit [http://pdxchinese.org/chinesefestival/](http://pdxchinese.org/chinesefestival/).
+Home page for 2019 Chinese Festival: [http://pdxchinese.org/chinesefestival/](http://pdxchinese.org/chinesefestival/).
 
 Please send us your bids via email: [info@pdxchinese.org](mailto:info@pdxchinese.org)
+
+This auction has raised **$___** so far, way to go! 
 
 | Items | Donated By | Suggested Value | Status |
 | --- | --- | ---: | ---: |
