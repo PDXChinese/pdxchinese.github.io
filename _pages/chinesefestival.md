@@ -16,7 +16,7 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | Time | Program | Presented By |
 | --- | --- | --- | ---: |
 | 11:00 | Lion Dancing 20min | Dragon & Lion Dance Team of [Lee's Association](http://www.leeondong.org/) |
-| 11:30 | Singing & Dancing 60min | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+| 11:30 | Singing, Dancing & Wushu 60min | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 | 12:30 | Folk Dancing and Singing 30min | NW Chinese Dance Troupe |
 | 13:00 | Fashion Show (Kids) 10min | [Oceana Blue Productions](http://oceanablueusa.com/) |
 | 13:15 | Chinese Drumbeat 10min | OCC Drum Team |
