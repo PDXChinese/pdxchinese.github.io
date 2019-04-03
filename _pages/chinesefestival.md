@@ -78,6 +78,15 @@ Hosting organizations or individuals will have their name tags with social media
 | --- | --- | --- |
 | | | |
 
+Platinum $10,000+; Gold $5,000; Silver $2,000+; Bronze $1,000; Patron $100+  
+In cash or in kind  
+
+### Event Auction
+
+Visit auction page for auction items and send your bids today.
+
+Please help us raise the money by donating auction items to us.
+
 ### Recent public cultural events Oregon Chinese Coalition organized
 
 Portland Chinatown Saturday performances ([5/14/2016](http://pdxchinese.org/chinatown/2016-05-14-saturday-performance/), [5/21/2016](http://pdxchinese.org/chinatown/2016-05-21-saturday-performance/), [5/28/2016](http://pdxchinese.org/chinatown/2016-05-28-saturday-performance/))  
