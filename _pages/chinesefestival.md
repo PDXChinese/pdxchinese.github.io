@@ -21,7 +21,7 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | 13:00 | Fashion Show (Kids) 10min | [Oceana Blue Productions](http://oceanablueusa.com/) |
 | 13:15 | Chinese Drumbeat 10min | OCC Drum Team |
 | 13:30 | Folk Dance 20min | PSU Student Dance Group |
-| 14:00 | | |
+| 14:00 | Folk Songs 20min| Karaoke Singing Group |
 | 14:30 | Chinese Folk Dance 30min| [East Dream Chinese Dance Group](http://www.eastdreamdance.org/index.html) |
 | 15:00 | Fashion Show (Teen) 10min | [Oceana Blue Productions](http://oceanablueusa.com/) |
 | 15:15 | Chinese Drumbeat 10min | OCC Drum Team |
