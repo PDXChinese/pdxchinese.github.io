@@ -40,9 +40,7 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | --- | --- |
 | | |
 
-### Hands-on Crafts and Activities
-
-<a href="https://signup.com/go/qXfhufu" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Volunteer Opportunities on SignUp.com"></a>
+### Kids Friendly Hands-on Crafts and Activities
 
 | Category | Activity | Group | Hosted By |
 | --- | --- | ---: | --- |
@@ -65,6 +63,8 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | | [Tin Mouse/铁皮老鼠](https://youtu.be/d6m5S-rg1N8)  | 10 | |
 | | [Marble Beads/打弹珠](https://youtu.be/8vbSf6CtilE)  | 10 | |
 | | Kaleidoscope/万花筒  | 10 | |
+
+<a href="https://signup.com/go/qXfhufu" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Volunteer Opportunities on SignUp.com"></a>
 
 Hosting organizations or individuals will have their name tags with social media info on the table.
 
