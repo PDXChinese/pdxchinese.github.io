@@ -74,7 +74,7 @@ Hosting organizations or individuals will have their name tags with social media
 | --- | --- |
 | [Lan Su Chinese Garden](https://lansugarden.org/) | Organization |
 
-No signup available for the booths. The space is very limited as we will leave more space for activities. please contact us directly if you are interested.
+No signup available for the booths. The space is very limited as we will leave more space for activities. please contact us directly if you are interested. Type of vendors we are looking for includes NPOs, Chinese/Asian food, crafts and traditional clothing. 
 
 ### Proud Sponsors
 
