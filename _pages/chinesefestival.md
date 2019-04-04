@@ -48,18 +48,18 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | --- | --- | ---: | --- |
 | Physical | [Diabolo/抖空竹](https://youtu.be/rBNFTSNA_dk) | 1 | |
 | | [Jump Rubber Band/跳橡皮筋](https://youtu.be/H48DTWOlmw0) | 2 | |
-| | Shuttlecock Kicking/踢毽子 | 2 | |
-| | Turn Handkerchief/转手帕 | 3 | |
-| | Taiji/太极 | 4 | |
-| Brain Teaser | Interlocking Rings/九连环 | 5 | |
-| | Burr Puzzle/鲁班锁 | 5 | |
-| | Klotski/华容道 | 5 | |
-| | Tangram/七巧板 | 5 | |
-| Cultural | Chinese Caligraphy/毛笔字 | 6 | |
-| | Ink Painting/水墨画 | 6 | |
-| | Paper Cutting/剪纸 | 7 | |
-| | Handmade Figurines/面塑艺术 | 8 | |
-| | Chinese Medicine/中医 | 9 | |
+| | [Shuttlecock Kicking/踢毽子](https://youtu.be/fOn0DhvInSk) | 2 | |
+| | [Turn Handkerchief/转手帕](https://youtu.be/qaxhg49elNg) | 3 | |
+| | [Taiji/太极](https://youtu.be/Meq5j26QPWc) | 4 | |
+| Brain Teaser | [Interlocking Rings/九连环](https://youtu.be/Twtzc7A9cN8) | 5 | |
+| | [Burr Puzzle/鲁班锁](https://youtu.be/ueV1c9RHC4w?t=74) | 5 | |
+| | [Klotski/华容道](https://youtu.be/-2br-Hlgmts) | 5 | |
+| | [Tangram/七巧板](https://youtu.be/3S_JidggG6g) | 5 | |
+| Cultural | [Chinese Caligraphy/毛笔字](https://youtu.be/w9zjsTDHCdM) | 6 | |
+| | [Ink Painting/水墨画](https://youtu.be/aw4kEVDSx9A) | 6 | |
+| | [Paper Cutting/剪纸](https://youtu.be/xB7GbPBNxPE) | 7 | |
+| | [Handmade Figurines/面塑艺术](https://youtu.be/6SGuD0Lz9H8) | 8 | |
+| | [Chinese Medicine/中医](https://youtu.be/icb6-xC1P-s) | 9 | |
 | Toys in Old Days | Rattle Drum/拨浪鼓  | 10 | |
 | | Sticks HD/挑棒子  | 10 | |
 | | Tin Mouse/铁皮老鼠  | 10 | |
