@@ -3,6 +3,13 @@ title: "Entrepreneurs Forum"
 permalink: /startup/
 ---
 
+## 社区第七次创业座谈会
+
+【时间】4.23.2019 周二 7:00 pm - 9:30 pm
+【地点】GRIFFITH BLDG: Room 330 (4755 SW Griffith Drive, Beaverton, OR 97005)
+
+主题将是云计算的今昔，主讲嘉宾和内容的介绍会尽快公布在这，谢谢您的关注。
+
 ## 社区第六次创业座谈会
 
 【时间】3.19.2019 周二 7:00 pm - 9:30 pm
