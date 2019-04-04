@@ -25,7 +25,7 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | 14:30 | Chinese Folk Dance 30min| [East Dream Chinese Dance Group](http://www.eastdreamdance.org/index.html) |
 | 15:00 | Fashion Show (Teen) 10min | [Oceana Blue Productions](http://oceanablueusa.com/) |
 | 15:15 | Chinese Drumbeat 10min | OCC Drum Team |
-| 15:30 | Guzheng Performance 20min | PSU Confucius Institute  |
+| 15:30 | Guzheng Performance 20min | [PSU Confucius Institute](https://www.pdx.edu/confucius-institute/)  |
 | 16:00 | Martial Arts 30min | [U.S. Wushu Center](https://uswushu.com/) |
 | 16:30 | Singing & Dancing 60min| Chinese Cultural Groups from Vancouver |
 | 17:30 | | |
