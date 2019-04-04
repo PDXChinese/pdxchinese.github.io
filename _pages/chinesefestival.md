@@ -25,7 +25,7 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | 14:30 | Chinese Folk Dance 30min| [East Dream Chinese Dance Group](http://www.eastdreamdance.org/index.html) |
 | 15:00 | Fashion Show (Teen) 10min | [Oceana Blue Productions](http://oceanablueusa.com/) |
 | 15:15 | Chinese Drumbeat 10min | OCC Drum Team |
-| 15:30 | | |
+| 15:30 | Guzheng Performance 20min | PSU Confucius Institute  |
 | 16:00 | Martial Arts 30min | [U.S. Wushu Center](https://uswushu.com/) |
 | 16:30 | Singing & Dancing 60min| Chinese Cultural Groups from Vancouver |
 | 17:30 | | |
@@ -74,7 +74,7 @@ Hosting organizations or individuals will have their name tags with social media
 | --- | --- |
 | [Lan Su Chinese Garden](https://lansugarden.org/) | Organization |
 
-No signup available for the booths. The space is very limited as we will leave more space for activities. please contact us directly if you are interested. Type of vendors we are looking for includes NPOs, Chinese/Asian food, traditional crafts and clothing. 
+No signup available for the booths. The space is very limited as we will leave more space for activities. please contact us directly if you are interested. Type of vendors we are looking for includes NPOs, Chinese/Asian food, traditional crafts and clothing.
 
 ### Proud Sponsors
 
