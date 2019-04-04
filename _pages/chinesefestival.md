@@ -64,15 +64,17 @@ We are solicitating suggestions and recommendations for sponsors, vendors, enter
 | | [Marble Beads/打弹珠](https://youtu.be/8vbSf6CtilE)  | 10 | |
 | | Kaleidoscope/万花筒  | 10 | |
 
-<a href="https://signup.com/go/qXfhufu" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Volunteer Opportunities on SignUp.com"></a>
+Hosting organizations or individuals will have their name tags with social media info on the table. Please sign up below
 
-Hosting organizations or individuals will have their name tags with social media info on the table.
+<a href="https://signup.com/go/qXfhufu" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Volunteer Opportunities on SignUp.com"></a>
 
 ### Vendor Lineup
 
 | Name | Section |
 | --- | --- |
 | [Lan Su Chinese Garden](https://lansugarden.org/) | Organization |
+
+No signup available for the booths. The space is very limited as we will leave more space for activities. please contact us directly if you are interested.
 
 ### Proud Sponsors
 
@@ -82,6 +84,8 @@ Hosting organizations or individuals will have their name tags with social media
 
 Platinum $10,000+; Gold $5,000; Silver $2,000+; Bronze $1,000; Patron $250+  
 In cash or in kind, banners on site and logos in social media   
+
+Your brands will be exposed to 50,000 visitors that day and also reach Chinese community at large.
 
 ### Event Fundraising Auction
 
