@@ -90,7 +90,7 @@ Your brands will be exposed to 50,000 visitors that day and also reach Oregon Ch
 
 ### Event Fundraising Auction
 
-Please help us raise money by donating auction items to us. Visit the [auction page]("{{ site.url }}/chinesefestival/auction") for auction items and send your bids today.
+Please help us raise money by donating auction items to us. Visit the [auction page]({{ site.url }}/chinesefestival/auction) for auction items and send your bids today.
 
 ### Recent public cultural events Oregon Chinese Coalition organized
 
