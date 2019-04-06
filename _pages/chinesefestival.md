@@ -1,5 +1,5 @@
 ---
-title: "2019 Chinese Festival"
+title: ""
 permalink: /chinesefestival/
 ---
 
