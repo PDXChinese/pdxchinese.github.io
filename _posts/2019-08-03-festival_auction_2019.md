@@ -13,4 +13,4 @@ This auction has raised **$___** so far, way to go! We will need to have at leas
 
 | Items | Donated By | Suggested Value | Status |
 | --- | --- | ---: | ---: |
-| [Stars on Ice tickets 5/18](/assets/images/festival/starsonicetickets.jpg) (4) | OCC | $22.00/each | available |
+| [Stars on Ice tickets 5/18](/assets/images/festival/starsonicetickets.jpg) (4) | OCC | $22.00/each | Available |
