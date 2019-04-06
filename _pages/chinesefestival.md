@@ -42,28 +42,28 @@ We are looking for suggestions and recommendations for sponsors, vendors, entert
 
 ### Kids Friendly Hands-on Crafts and Activities
 
-| Category | Activity | Group | Hosted By |
-| --- | --- | ---: | --- |
-| Physical | [Diabolo/抖空竹](https://youtu.be/rBNFTSNA_dk) | 1 | |
-| | [Jump Rubber Band/跳橡皮筋](https://youtu.be/H48DTWOlmw0) | 2 | |
-| | [Shuttlecock Kicking/踢毽子](https://youtu.be/fOn0DhvInSk) | 2 | |
-| | [Turn Handkerchief/转手帕](https://youtu.be/qaxhg49elNg) | 3 | |
-| | [Taiji/太极](https://youtu.be/Meq5j26QPWc) | 4 | |
-| Brain Teaser | [Interlocking Rings/九连环](https://youtu.be/Twtzc7A9cN8) | 5 | |
-| | [Burr Puzzle/鲁班锁](https://youtu.be/ueV1c9RHC4w?t=74) | 5 | |
-| | [Klotski/华容道](https://youtu.be/-2br-Hlgmts) | 5 | |
-| | [Tangram/七巧板](https://youtu.be/3S_JidggG6g) | 5 | |
-| Cultural | [Chinese Caligraphy/毛笔字](https://youtu.be/w9zjsTDHCdM) | 6 | |
-| | [Ink Painting/水墨画](https://youtu.be/aw4kEVDSx9A) | 6 | |
-| | [Paper Cutting/剪纸](https://youtu.be/xB7GbPBNxPE) | 7 | |
-| | [Handmade Figurines/面塑艺术](https://youtu.be/6SGuD0Lz9H8) | 8 | |
-| | [Chinese Medicine/中医](https://youtu.be/icb6-xC1P-s) | 9 | |
-| | [Costume Photo Booth/古装拍照](https://www.amazon.com/slp/chinese-traditional-clothes-for-kids/uyhyxwv4h9my8zp) | 10 | |
+| Category | Activity | Group |
+| --- | --- | ---: |
+| Physical | [Diabolo/抖空竹](https://youtu.be/rBNFTSNA_dk) | 1 |
+| | [Jump Rubber Band/跳橡皮筋](https://youtu.be/H48DTWOlmw0) | 2 |
+| | [Shuttlecock Kicking/踢毽子](https://youtu.be/fOn0DhvInSk) | 2 |
+| | [Turn Handkerchief/转手帕](https://youtu.be/qaxhg49elNg) | 3 |
+| | [Taiji/太极](https://youtu.be/Meq5j26QPWc) | 4 |
+| Brain Teaser | [Interlocking Rings/九连环](https://youtu.be/Twtzc7A9cN8) | 5 |
+| | [Burr Puzzle/鲁班锁](https://youtu.be/ueV1c9RHC4w?t=74) | 5 |
+| | [Klotski/华容道](https://youtu.be/-2br-Hlgmts) | 5 |
+| | [Tangram/七巧板](https://youtu.be/3S_JidggG6g) | 5 |
+| Cultural | [Chinese Caligraphy/毛笔字](https://youtu.be/w9zjsTDHCdM) | 6 |
+| | [Ink Painting/水墨画](https://youtu.be/aw4kEVDSx9A) | 6 |
+| | [Paper Cutting/剪纸](https://youtu.be/xB7GbPBNxPE) | 7 |
+| | [Handmade Figurines/面塑艺术](https://youtu.be/6SGuD0Lz9H8) | 8 |
+| | [Chinese Medicine/中医](https://youtu.be/icb6-xC1P-s) | 9 |
+| | [Costume Photo Booth/古装拍照](https://www.amazon.com/slp/chinese-traditional-clothes-for-kids/uyhyxwv4h9my8zp) | 10 |
 | Toys in Old Days | [Rattle Drum/拨浪鼓](https://baike.baidu.com/pic/%E6%8B%A8%E6%B5%AA%E9%BC%93/23628/0/b3b7d0a20cf431ad08e8d3d04136acaf2edd9825?fr=lemma&ct=single#aid=0&pic=b3b7d0a20cf431ad08e8d3d04136acaf2edd9825)  | 10 | |
-| | Sticks HD/挑棒子  | 10 | |
-| | [Tin Mouse/铁皮老鼠](https://youtu.be/d6m5S-rg1N8)  | 10 | |
-| | [Marble Beads/打弹珠](https://youtu.be/8vbSf6CtilE)  | 10 | |
-| | Kaleidoscope/万花筒  | 10 | |
+| | Sticks HD/挑棒子  | 10 |
+| | [Tin Mouse/铁皮老鼠](https://youtu.be/d6m5S-rg1N8)  | 10 |
+| | [Marble Beads/打弹珠](https://youtu.be/8vbSf6CtilE)  | 10 |
+| | Kaleidoscope/万花筒  | 10 | 
 
 Hosting organizations or individuals will have their name tags with social media info on the table. Please sign up below
 
