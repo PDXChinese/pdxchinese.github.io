@@ -95,7 +95,7 @@ Please help us raise money by donating auction items to us. Visit the [auction p
 
 ### Contact Us
 
-Please contact us through our [Contact Us](http://pdxchinese.org/contact/) page or email to [festival@pdxchinese.org](festival@pdxchinese.org).
+Please contact us through our [Contact Us](http://pdxchinese.org/contact/) page or email to [festival@pdxchinese.org](mailto:festival@pdxchinese.org).
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 

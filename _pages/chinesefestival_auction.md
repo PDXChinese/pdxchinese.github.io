@@ -5,7 +5,7 @@ permalink: /chinesefestival/auction
 
 2019 Chinese Festival: [http://pdxchinese.org/chinesefestival/](http://pdxchinese.org/chinesefestival/).
 
-Please send us your bids via email: [festival@pdxchinese.org](festival@pdxchinese.org)
+Please send us your bids via email: [festival@pdxchinese.org](mailto:festival@pdxchinese.org)
 
 This auction has raised **$___** so far, way to go! We will need to have at least $20,000 to have a successful event.
 
