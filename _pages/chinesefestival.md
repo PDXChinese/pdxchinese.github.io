@@ -9,7 +9,7 @@ For the first time ever, our local Chinese community will be hosting a Chinese f
 
 > <span style="color:blue">August 3, 2019 (Saturday) 11am - 8pm @ Pioneer Courthouse Square, Portland</span>   :sparkles: <span style="color:green"> Free admission</span> :tada:
 
-We are looking for suggestions and recommendations for sponsors, vendors, entertainment groups, and guest speakers. Please contact us through our [Contact Us](http://pdxchinese.org/contact/) page or call 503-709-3119.
+We are looking for suggestions and recommendations for sponsors, vendors, entertainment groups, and guest speakers. Please contact us through our [Contact Us](http://pdxchinese.org/contact/) page or email to [festival@pdxchinese.org](festival@pdxchinese.org).
 
 ### Committed Programs
 
