@@ -9,7 +9,7 @@ For the first time ever, our local Chinese community will be hosting a Chinese f
 
 > <span style="color:blue">August 3, 2019 (Saturday) 11am - 8pm @ Pioneer Courthouse Square, Portland</span>   :sparkles: <span style="color:green"> Free admission</span> :tada:
 
-### Committed Programs
+## Committed Programs
 
 | Time | Program | Presented By |
 | --- | --- | --- | ---: |
@@ -33,7 +33,7 @@ For the first time ever, our local Chinese community will be hosting a Chinese f
 | 19:00 | Singing & Dancing 60min | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) |
 | 20:00 | Conclusion |
 
-### Speeches/Presentations
+## Speeches/Presentations
 
 | Speaker | Topic |
 | --- | --- |
@@ -41,7 +41,7 @@ For the first time ever, our local Chinese community will be hosting a Chinese f
 
 Please contact us if you are interested or would like to recommend someone in or outside our community.
 
-### Kids Friendly Hands-on Crafts and Activities
+## Kids Friendly Hands-on Crafts and Activities
 
 | Category | Activity | Group |
 | --- | --- | ---: |
@@ -70,7 +70,7 @@ Hosting organizations or individuals will have their name tags with social media
 
 <a href="https://signup.com/go/qXfhufu" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Volunteer Opportunities on SignUp.com"></a>
 
-### Vendor Lineup
+## Vendor Lineup
 
 | Name | Section |
 | --- | --- |
@@ -78,7 +78,7 @@ Hosting organizations or individuals will have their name tags with social media
 
 No signup available for the booths. The space is very limited as we will leave more space for activities. please contact us directly if you are interested. Type of vendors we are looking for includes NPOs, Chinese/Asian food, traditional crafts and clothing.
 
-### Proud Sponsors
+## Proud Sponsors
 
 | Level | Name | Booth |
 | --- | --- | --- |
@@ -89,17 +89,17 @@ In cash or in kind, banners on site and logos in social media
 
 Your brands will be exposed to 50,000 visitors that day and also reach Oregon Chinese community at large.
 
-### Event Fundraising Auction
+## Event Fundraising Auction
 
 Please help us raise money by donating auction items to us. Visit the [auction page]({{ site.url }}/chinesefestival/auction) for auction items and send your bids today.
 
-### Contact Us
+## Contact Us
 
 Please contact us through our [Contact Us](http://pdxchinese.org/contact/) page or email to [festival@pdxchinese.org](mailto:festival@pdxchinese.org).
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
-### Recent public cultural events Oregon Chinese Coalition organized
+## Recent public cultural events Oregon Chinese Coalition organized
 
 Portland Chinatown Saturday performances ([5/14/2016](http://pdxchinese.org/chinatown/2016-05-14-saturday-performance/), [5/21/2016](http://pdxchinese.org/chinatown/2016-05-21-saturday-performance/), [5/28/2016](http://pdxchinese.org/chinatown/2016-05-28-saturday-performance/))  
 [Chinatown Mid-Autumn Festival Performance](http://pdxchinese.org/chinatown/2016-09-10-saturday-performance/) (9/10/2016)  
