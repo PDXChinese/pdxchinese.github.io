@@ -7,7 +7,7 @@ permalink: /chinesefestival/
 
 For the first time ever, our local Chinese community will be hosting a Chinese festival filled with non-stop entertainment, delicious Chinese food, fun activities and much more. We are excited to join the  [India Festival](http://www.icaportland.org/), [Festa Italiana](https://www.festa-italiana.org/), [Pan African Festival](http://www.panafricanfestivalor.org/), and [Celebration of Persian New Year](https://www.andisheh.org/events/norouz-2019/) to offer another splendid cultural event in the living room of Portland.
 
-> <span style="color:blue">August 3, 2019 (Saturday) 11am - 8pm @ Pioneer Courthouse Square, Portland</span>   :sparkles: <span style="color:green"> **Free admission**</span> :tada:
+> <span style="color:blue">August 3, 2019 (Saturday) 11am - 8pm @ Pioneer Courthouse Square, Portland</span>   :sparkles: <span style="color:green"> Free admission</span> :tada:
 
 We are looking for suggestions and recommendations for sponsors, vendors, entertainment groups, and guest speakers. Please contact us through our [Contact Us](http://pdxchinese.org/contact/) page or call 503-709-3119.
 
@@ -100,5 +100,3 @@ Portland Chinatown Saturday performances ([5/14/2016](http://pdxchinese.org/chin
 [Chinatown Flash Mob](http://pdxchinese.org/chinatown/2016-12-21-flash-mob/) (12/21/2016)  
 [Chinatown Chinese New Year Celebration](http://pdxchinese.org/new-year-summary-2018/) (2/18/2018)  
 [Chinese Community Fair](http://pdxchinese.org/2018-community-fair-summary/) (4/14/2018)  
-
-:hammer: *This page is still under construction, more information will be available soon...*
