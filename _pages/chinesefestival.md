@@ -15,6 +15,7 @@ We are looking for suggestions and recommendations for sponsors, vendors, entert
 
 | Time | Program | Presented By |
 | --- | --- | --- | ---: |
+| 10:45 | Guzheng Performance 10min  | Stoller Middle School Student, Cheery Zhang |
 | 11:00 | Lion Dancing 20min | Dragon & Lion Dance Team of [Lee's Association](http://www.leeondong.org/) |
 | 11:30 | Singing, Dancing & Wushu 60min | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 | 12:30 | Folk Dancing and Singing 30min | NW Chinese Dance Troupe |
@@ -29,7 +30,7 @@ We are looking for suggestions and recommendations for sponsors, vendors, entert
 | 16:00 | Martial Arts 30min | [U.S. Wushu Center](https://uswushu.com/) |
 | 16:30 | Singing & Dancing 60min| Chinese Cultural Groups from Vancouver |
 | 17:30 | (reserved) | |
-| 18:00 | (reserved) | |
+| 18:10 | Taiji (15min) | Master Lin |
 | 18:30 | Folk Songs 30min | Vintage Chinese Singing Group/春之声组合 |
 | 19:00 | Singing & Dancing 60min | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) |
 | 20:00 | Conclusion |
@@ -83,7 +84,7 @@ No signup available for the booths. The space is very limited as we will leave m
 | --- | --- | --- |
 | | | |
 
-Platinum $10,000+; Gold $5,000; Silver $2,000+; Bronze $500 
+Platinum $10,000+; Gold $5,000; Silver $2,000+; Bronze $500
 In cash or in kind, banners on site and logos in social media   
 
 Your brands will be exposed to 50,000 visitors that day and also reach Oregon Chinese community at large.
