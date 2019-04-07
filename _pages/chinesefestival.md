@@ -41,6 +41,8 @@ We are looking for suggestions and recommendations for sponsors, vendors, entert
 | --- | --- |
 | | |
 
+Please contact us if you are interested or would like to recommend someone in or outside our community.
+
 ### Kids Friendly Hands-on Crafts and Activities
 
 | Category | Activity | Group |
