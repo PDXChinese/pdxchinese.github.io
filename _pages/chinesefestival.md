@@ -30,7 +30,7 @@ We are looking for suggestions and recommendations for sponsors, vendors, entert
 | 16:00 | Martial Arts 30min | [U.S. Wushu Center](https://uswushu.com/) |
 | 16:30 | Singing & Dancing 60min| Chinese Cultural Groups from Vancouver |
 | 17:30 | (reserved) | |
-| 18:10 | Taiji (15min) | Master Lin |
+| 18:10 | Taiji 15min | Master Lin |
 | 18:30 | Folk Songs 30min | Vintage Chinese Singing Group/春之声组合 |
 | 19:00 | Singing & Dancing 60min | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) |
 | 20:00 | Conclusion |
