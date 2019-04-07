@@ -84,10 +84,11 @@ No signup available for the booths. The space is very limited as we will leave m
 | --- | --- | --- |
 | | | |
 
-Platinum $10,000+; Gold $5,000; Silver $2,000+; Bronze $500
-In cash or in kind, banners on site and logos in social media   
+Platinum $10,000+; Gold $5,000; Silver $2,000+; Bronze $500  
+In cash or in kind  
+Banners on site and logos in social media  
 
-Your brands will be exposed to 50,000 visitors that day and also reach Oregon Chinese community at large.
+Your brands will be exposed to 50,000 visitors that day and also reach Oregon Chinese community at large via social media.
 
 ## Event Fundraising Auction
 
