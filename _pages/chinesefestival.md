@@ -63,7 +63,7 @@ We are looking for suggestions and recommendations for sponsors, vendors, entert
 | | Sticks HD/挑棒子  | 10 |
 | | [Tin Mouse/铁皮老鼠](https://youtu.be/d6m5S-rg1N8)  | 10 |
 | | [Marble Beads/打弹珠](https://youtu.be/8vbSf6CtilE)  | 10 |
-| | Kaleidoscope/万花筒  | 10 | 
+| | Kaleidoscope/万花筒  | 10 |
 
 Hosting organizations or individuals will have their name tags with social media info on the table. Please sign up below
 
@@ -83,7 +83,7 @@ No signup available for the booths. The space is very limited as we will leave m
 | --- | --- | --- |
 | | | |
 
-Platinum $10,000+; Gold $5,000; Silver $2,000+; Bronze $1,000; Patron $250+  
+Platinum $10,000+; Gold $5,000; Silver $2,000+; Bronze $500 
 In cash or in kind, banners on site and logos in social media   
 
 Your brands will be exposed to 50,000 visitors that day and also reach Oregon Chinese community at large.
