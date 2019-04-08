@@ -53,7 +53,7 @@ Please contact us if you are interested or would like to recommend someone in or
 | | [Taiji/太极](https://youtu.be/Meq5j26QPWc) | 4 |
 | Brain Teaser | [Interlocking Rings/九连环](https://youtu.be/Twtzc7A9cN8) | 5 |
 | | [Burr Puzzle/鲁班锁](https://youtu.be/ueV1c9RHC4w?t=74) | 5 |
-| | [Klotski/华容道](https://youtu.be/-2br-Hlgmts) | 5 |
+| | [Klotski/华容道](https://youtu.be/VX5Jon2YdXQ) | 5 |
 | | [Tangram/七巧板](https://youtu.be/3S_JidggG6g) | 5 |
 | Cultural | [Chinese Caligraphy/毛笔字](https://youtu.be/w9zjsTDHCdM) | 6 |
 | | [Ink Painting/水墨画](https://youtu.be/aw4kEVDSx9A) | 6 |
