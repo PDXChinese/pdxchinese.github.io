@@ -2,9 +2,9 @@
 title: ""
 permalink: /chinesefestival/
 ---
-![]({{ site.url }}/assets/images/28b96e6e3823bb99a675fdf01c3682a4.jpg)
-
 # <span style="color:red">**2019 Chinese Festival**</span>
+
+![]({{ site.url }}/assets/images/28b96e6e3823bb99a675fdf01c3682a4.jpg)
 
 For the first time ever, our local Chinese community will be hosting a Chinese festival filled with non-stop entertainment, delicious Chinese food, fun activities and much more. We are excited to join the  [India Festival](http://www.icaportland.org/), [Festa Italiana](https://www.festa-italiana.org/), [Pan African Festival](http://www.panafricanfestivalor.org/), and [Celebration of Persian New Year](https://www.andisheh.org/events/norouz-2019/) to offer another splendid cultural event in the living room of Portland.
 
