@@ -2,6 +2,7 @@
 title: ""
 permalink: /chinesefestival/
 ---
+![]({{ site.url }}/assets/images/28b96e6e3823bb99a675fdf01c3682a4.jpg)
 
 # <span style="color:red">**2019 Chinese Festival**</span>
 
