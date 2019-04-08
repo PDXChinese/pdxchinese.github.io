@@ -60,14 +60,14 @@ Please contact us if you are interested or would like to recommend someone in or
 | | [Paper Cutting/剪纸](https://youtu.be/xB7GbPBNxPE) | 7 |
 | | [Handmade Figurines/面塑艺术](https://youtu.be/6SGuD0Lz9H8) | 8 |
 | | [Chinese Medicine/中医](https://youtu.be/icb6-xC1P-s) | 9 |
-| | [Costume Photo Booth/古装拍照](https://www.amazon.com/slp/chinese-traditional-clothes-for-kids/uyhyxwv4h9my8zp) | 10 |
-| | [Go/围棋](https://youtu.be/JWdgqV-8yVg) | 9.1 |
-| | [Mahjong/麻将](https://youtu.be/tRCb_LOkEmQ) | 9.2 |
-| Toys in Old Days | [Rattle Drum/拨浪鼓](https://baike.baidu.com/pic/%E6%8B%A8%E6%B5%AA%E9%BC%93/23628/0/b3b7d0a20cf431ad08e8d3d04136acaf2edd9825?fr=lemma&ct=single#aid=0&pic=b3b7d0a20cf431ad08e8d3d04136acaf2edd9825)  | 10 |
-| | Sticks HD/挑棒子  | 10 |
-| | [Tin Mouse/铁皮老鼠](https://youtu.be/d6m5S-rg1N8)  | 10 |
-| | [Marble Beads/打弹珠](https://youtu.be/8vbSf6CtilE)  | 10 |
-| | Kaleidoscope/万花筒  | 10 |
+| | [Costume Photo Booth/古装拍照](https://www.amazon.com/slp/chinese-traditional-clothes-for-kids/uyhyxwv4h9my8zp) | 9 |
+| | [Go/围棋](https://youtu.be/JWdgqV-8yVg) | 10 |
+| | [Mahjong/麻将](https://youtu.be/tRCb_LOkEmQ) | 11 |
+| Toys in Old Days | [Rattle Drum/拨浪鼓](https://baike.baidu.com/pic/%E6%8B%A8%E6%B5%AA%E9%BC%93/23628/0/b3b7d0a20cf431ad08e8d3d04136acaf2edd9825?fr=lemma&ct=single#aid=0&pic=b3b7d0a20cf431ad08e8d3d04136acaf2edd9825)  | 12 |
+| | Sticks HD/挑棒子  | 12 |
+| | [Tin Mouse/铁皮老鼠](https://youtu.be/d6m5S-rg1N8)  | 12 |
+| | [Marble Beads/打弹珠](https://youtu.be/8vbSf6CtilE)  | 12 |
+| | Kaleidoscope/万花筒  | 12 |
 
 Hosting organizations or individuals will have their name tags with social media info on the table. Please sign up below
 
