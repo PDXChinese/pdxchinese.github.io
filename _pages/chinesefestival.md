@@ -28,7 +28,7 @@ For the first time ever, our local Chinese community will be hosting a Chinese f
 | 15:30 | Guzheng Performance 20min | [PSU Confucius Institute](https://www.pdx.edu/confucius-institute/)  |
 | 16:00 | Martial Arts 30min | [U.S. Wushu Center](https://uswushu.com/) |
 | 16:30 | Singing & Dancing 60min| Chinese Cultural Groups from Vancouver |
-| 17:30 | Folk Songs & Instruments 30min | Music Fusian NW |
+| 17:30 | Folk Songs & Instruments 30min | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
 | 18:00 | (reserved) | |
 | 18:15 | Taiji 15min | Master Lin |
 | 18:30 | Folk Songs 30min | Vintage Chinese Singing Group/春之声组合 |
