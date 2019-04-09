@@ -96,8 +96,7 @@ Your brands will be exposed to 50,000 visitors that day and also reach Oregon Ch
 | Benefits | Platinum | Gold | Silver | Bronze | Contributor |
 | --- | --- | --- | --- | --- | --- |
 | Most prominent name and logo placement on site and social media | X | | | | |
-| Prominent name and logo placement on site and social media | X | X | X | X | |
-| Logo placement on OCC web site Event Page & Calendar | X | X | X | X | |
+| Prominent name and logo placement on site and OCC social media | X | X | X | X | |
 | Logo placement on banners, which serve as backdrop in all press photo opportunities | X | X | X | X | X |
 
 ## Event Fundraising Auction
