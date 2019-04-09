@@ -93,6 +93,13 @@ Banners on site and logos in social media
 
 Your brands will be exposed to 50,000 visitors that day and also reach Oregon Chinese community at large via social media.
 
+| Benefits | Platinum | Gold | Silver | Bronze | Contributor |
+| --- | --- | --- | --- | --- | --- |
+| Most prominent name and logo placement on site and social media | X | | | | |
+| Prominent name and logo placement on site and social media | X | X | X | X | |
+| Logo placement on OCC web site Event Page & Calendar | X | X | X | X | |
+| Logo placement on banners, which serve as backdrop in all press photo opportunities | X | X | X | X | X |
+
 ## Event Fundraising Auction
 
 Please help us raise money by donating auction items to us. Visit the [auction page]({{ site.url }}/chinesefestival/auction) for auction items and send your bids today.
