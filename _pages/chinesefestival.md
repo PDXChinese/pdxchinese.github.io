@@ -17,9 +17,8 @@ For the first time ever, our local Chinese community will be hosting a Chinese f
 | 10:45 | Guzheng Performance 10min  | Stoller Middle School Student, Cheery Zhang |
 | 11:00 | Lion Dancing 20min | Dragon & Lion Dance Team of [Lee's Association](http://www.leeondong.org/) |
 | 11:30 | Singing, Dancing & Wushu 60min | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-| 12:30 | Folk Dancing and Singing 30min | NW Chinese Dance Troupe |
-| 13:00 | Fashion Show (Kids) 10min | [Oceana Blue Productions](http://oceanablueusa.com/) |
-| 13:15 | Chinese Drumbeat 10min | OCC Drum Team |
+| 12:30 | Folk Dancing and Singing 40min | NW Chinese Dance Troupe |
+| 13:15 | Fashion Show (Kids) 10min | [Oceana Blue Productions](http://oceanablueusa.com/) |
 | 13:30 | Folk Dance 20min | PSU Student Dance Group |
 | 14:00 | Folk Songs 20min| Karaoke Singing Group |
 | 14:30 | Chinese Folk Dance 30min| [East Dream Chinese Dance Group](http://www.eastdreamdance.org/index.html) |
