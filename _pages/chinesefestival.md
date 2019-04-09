@@ -87,7 +87,7 @@ No signup available for the booths. The space is very limited as we will leave m
 | --- | --- | --- |
 | | | |
 
-Platinum (exclusive) $10,000+; Gold (2) $5,000; Silver (4) $2,000+; Bronze $500  
+Platinum (exclusive) $10,000+; Gold (2) $5,000; Silver $2,000+; Bronze $500  
 In cash or in kind  
 Banners on site and logos in social media  
 
