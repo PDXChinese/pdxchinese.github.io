@@ -11,3 +11,11 @@ Disclaimer: The views and opinions expressed in the articles and on the websites
 ## 癌症治疗团队（包括医生和医院）的选择
 
 [https://www.cancer.org/treatment/finding-and-paying-for-treatment/choosing-your-treatment-team.html](https://www.cancer.org/treatment/finding-and-paying-for-treatment/choosing-your-treatment-team.html)
+
+## 房产如何传给子女 How to Pass Properties to Your Children? 安家纽约 LivingInNY （4/1/2015）
+
+<iframe width="1189" height="669" src="https://www.youtube.com/embed/38Nm3BQmYgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 房契转名有讲究 How to Transfer Your Deed's Name 安家纽约LivingInNY (1/14/2015)
+
+<iframe width="1189" height="669" src="https://www.youtube.com/embed/2Tv4Ar7Hj-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
