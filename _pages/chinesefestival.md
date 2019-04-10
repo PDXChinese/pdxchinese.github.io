@@ -88,10 +88,8 @@ No signup available for the booths. The space is very limited as we will leave m
 | | | |
 
 Platinum (exclusive) $10,000+; Gold (2) $5,000; Silver $2,000+; Bronze $500  
-In cash or in kind  
-Banners on site and logos in social media  
 
-Your brands will be exposed to 50,000 visitors that day and also reach Oregon Chinese community at large via social media.
+Your brands will be exposed to 50,000 visitors that day and more after in the news, also reach Oregon Chinese community at large via social media.
 
 | Benefits | Platinum | Gold | Silver | Bronze | Contributor |
 | --- | --- | --- | --- | --- | --- |
