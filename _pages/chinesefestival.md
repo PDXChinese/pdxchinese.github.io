@@ -85,7 +85,7 @@ No signup available for the booths. The space is very limited as we will leave m
 
 | Level | Name | Booth |
 | --- | --- | --- |
-| | | |
+| Silver | [Oregon Hope Chinese School](http://www.oregon-hope.org) | |
 
 Platinum (exclusive) $10,000+; Gold (2) $5,000; Silver $2,000+; Bronze $500  
 
