@@ -14,8 +14,6 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 五月份开始活动时间将从现在的周日改到周二，希望孩子们进入假期后，家长们能领着他们过来利用如此难得的机会。
 
 
-![]({{ site.url }}/assets/images/6c1e685e81eb682d8e6f119aa131387d.jpg)
-
 ![]({{ site.url }}/assets/images/4a7d7d45a87f292b0666cf9d10d6b32c.jpg)
 
 ![]({{ site.url }}/assets/images/5edaafcc46b8f690d42ce09b4b28420a.jpg)
@@ -30,9 +28,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 ![]({{ site.url }}/assets/images/c72af00f973afd9f8bced3b9ae52f025.jpg)
 
-![]({{ site.url }}/assets/images/174d5f1cac5162b46cc654035c962a38.jpg)
-
-![]({{ site.url }}/assets/images/2a90fb2d9fb4fa5bd2be61494d50fa6f.jpg)
+![]({{ site.url }}/assets/images/6c1e685e81eb682d8e6f119aa131387d.jpg)
 
 ![]({{ site.url }}/assets/images/2269bac1a7bd62deb4f5574a652ed3b5.jpg)
 
