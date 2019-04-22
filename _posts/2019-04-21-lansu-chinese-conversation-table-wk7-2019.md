@@ -62,11 +62,6 @@ Jie  20:13
 
 xiaojian  20:25
 
-👆这是今天的五位小义工，从左到右分别是
-Tracie Chen
-Jason Chen
-Matthew Wang
-Xutong Hei
-Lydia Wang
+👆这是今天的五位小义工，从左到右分别是 Tracie Chen, Jason Chen, Matthew Wang, Xutong Hei, Lydia Wang
 
 为他们鼓掌
