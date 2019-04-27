@@ -8,7 +8,15 @@ permalink: /startup/
 【时间】4.30.2019 周二 7:00 pm - 9:30 pm
 【地点】GRIFFITH BLDG: Room 340 (4755 SW Griffith Drive, Beaverton, OR 97005)
 
-主题将是云计算的今昔，主讲嘉宾和内容的介绍会尽快公布在这，谢谢您的关注。
+此次创业座谈会将由在IBM任职的本地群友张凯主讲，他给自己的讲座起了一个很有意思的名字 -- 云计算的前世今生。他发给了我一个简介，本想按照惯例翻译成中文发出来，但是怕是把他的幽默 get lost in translation，所以，就照搬过来了。
+
+'Kai Zhang, Software Architect at IBM Hybrid Cloud, specializing in Cloud and API Web Services. He has been doing software design and consulting for 20+ years. Besides technologies, he likes tennis and organizing community events. He also tries to start something in his spare time which, of course, is hard to find :-)
+
+He graduated from Shanghai Jiaotong University and runs a Alumni group in PDX. So if you are an alumnus from one of the Jiaotong Universities, welcome to join. He can be reached at mkz100@gmail.com and mkz5683968 at WeChat.
+
+In this talk, he will be talking about "Cloud Computing Evolution or Revolution 云计算的前世今生”. And do a hands on lab and demo on Docker and Kubernetes, the hottest things in Cloud today.  Here is a link to the slides http://bit.ly/2Zxcd3o
+
+Look forward to discussing the topics with you. Thanks!'
 
 ## 社区第六次创业座谈会
 
