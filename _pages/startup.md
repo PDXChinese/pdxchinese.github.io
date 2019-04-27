@@ -14,7 +14,7 @@ permalink: /startup/
 
 He graduated from Shanghai Jiaotong University and runs a Alumni group in PDX. So if you are an alumnus from one of the Jiaotong Universities, welcome to join. He can be reached at mkz100@gmail.com and mkz5683968 at WeChat.
 
-In this talk, he will be talking about "Cloud Computing Evolution or Revolution 云计算的前世今生”. And do a hands on lab and demo on Docker and Kubernetes, the hottest things in Cloud today.  Here is a link to the slides http://bit.ly/2Zxcd3o
+In this talk, he will be talking about "Cloud Computing Evolution or Revolution 云计算的前世今生”. And do a hands on lab and demo on Docker and Kubernetes, the hottest things in Cloud today.  Here is a link to the slides [http://bit.ly/2Zxcd3o](http://bit.ly/2Zxcd3o)
 
 Look forward to discussing the topics with you. Thanks!'
 
