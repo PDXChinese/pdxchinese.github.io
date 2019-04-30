@@ -6,7 +6,7 @@ permalink: /startup/
 ## 社区第七次创业座谈会
 
 【时间】4.30.2019 周二 7:00 pm - 9:30 pm
-【地点】GRIFFITH BLDG: Room 340 (4755 SW Griffith Drive, Beaverton, OR 97005)
+【地点】GRIFFITH BLDG: Room 150 (4755 SW Griffith Drive, Beaverton, OR 97005)
 
 此次创业座谈会将由在IBM任职的本地群友张凯主讲，他给自己的讲座起了一个很有意思的名字 -- 云计算的前世今生。他发给了我一个简介，本想按照惯例翻译成中文发出来，但是怕是把他的幽默 get lost in translation，所以，就照搬过来了。
 
