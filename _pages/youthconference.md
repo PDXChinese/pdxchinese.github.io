@@ -7,6 +7,8 @@ permalink: /youthconference/
 
 Coming soon...
 
+敬请关注
+
 ![]({{ site.url }}/assets/images/divider.jpg)
 
 [Also see 2018 Youth Conference](http://pdxchinese.org/youthconference/youth_conference_2018/)
