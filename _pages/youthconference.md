@@ -19,4 +19,4 @@ Coming soon...
 
 [2017俄勒冈华裔青少年年会成功举办/Summary and Reflection](http://pdxchinese.org/youth-conference-2017/)
 
-[Youth Conference Archive](http://pdxchinese.org/resources/benefits_resources/youthconference/)
+[Youth Conference Files](http://pdxchinese.org/resources/benefits_resources/youthconference/)
