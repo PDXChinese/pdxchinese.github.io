@@ -1,6 +1,6 @@
 ---
 title: "2018 Oregon Chinese Youth Conference"
-permalink: /youthconference/2018
+permalink: /youthconference/youth_conference_2018
 ---
 
 # 第二届俄勒冈华裔青少年年会
