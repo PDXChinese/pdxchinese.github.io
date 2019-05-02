@@ -1,7 +1,7 @@
 ---
 title: "云计算的前世今生"
 author: XiBei Zhao
-excerpt: "此次创业座谈会将由在IBM任职的本地群友张凯主讲，他给自己的讲座起了一个很有意思的名字 – 云计算的前世今生。昨天精彩的讲座，大家哪里只是认真听，看着都是被云里雾里给绕进去了。"
+excerpt: "此次创业座谈会由在IBM任职的本地群友张凯主讲，他给自己的讲座起了一个很有意思的名字 – 云计算的前世今生。昨天精彩的讲座，大家哪里只是认真听，看着都是被云里雾里给绕进去了。"
 date: "2019-05-01"
 ---
 
@@ -17,10 +17,10 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 ![]({{ site.url }}/assets/images/57a6ab351dd274a59ba16a4ce2e84145.jpg)
 
-![]({{ site.url }}/assets/images/a054bfcd12fbe12b6c43026ad1720cfa.jpg)
-
 ![]({{ site.url }}/assets/images/a6b01c97e063da8e09819b26dc5ff774.jpg)
 
 ![]({{ site.url }}/assets/images/dc0bff670d1e5c29a5d58789708fcaff.jpg)
 
 ![]({{ site.url }}/assets/images/d53d05c20f5cfdcf5ea0ab27e188c918.jpg)
+
+![]({{ site.url }}/assets/images/a054bfcd12fbe12b6c43026ad1720cfa.jpg)
