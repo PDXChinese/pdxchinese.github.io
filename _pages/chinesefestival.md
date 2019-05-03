@@ -99,6 +99,8 @@ Your brands will be exposed to 50,000 visitors that day and more after in the ne
 | Prominent name and logo placement on site and OCC social media | X | X | X | X | |
 | Logo placement on banners, which serve as backdrop in all press photo opportunities | X | X | X | X | X |
 
+Please help distribute [sponsorship flyer]((/assets/images/festival/sponsorflyer.png).
+
 ## Event Fundraising Auction
 
 Please help us raise money by donating auction items to us. Visit the auction page: [http://pdxchinese.org/chinesefestival/auction]({{ site.url }}/chinesefestival/auction) for auction items and send your bids today.
