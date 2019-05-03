@@ -61,15 +61,14 @@ Nancy会替大家去FB 网站上注册，更新和当天的sign in，也会提�
 
 <a href="http://signup.com/go/xXOohJS" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Available Spots on SignUp.com"></a>
 
-**SPRING SEASON**
-
 March – April, 2019  
 1:00pm- 3:00pm Every Sunday  
 
-**SUMMER SEASON**
-
-May – October 8, 2019  
+May, 2019  
 2:00pm- 4:00pm Every Tuesday  
+
+June – September, 2019  
+2:00pm- 4:00pm Every Sunday  
 
 Address: 239 NW Everett St, Portland, OR 97209
 
