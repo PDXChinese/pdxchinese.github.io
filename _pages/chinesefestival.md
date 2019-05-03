@@ -99,7 +99,7 @@ Your brands will be exposed to 50,000 visitors that day and more after in the ne
 | Prominent name and logo placement on site and OCC social media | X | X | X | X | |
 | Logo placement on banners, which serve as backdrop in all press photo opportunities | X | X | X | X | X |
 
-Please help distribute [sponsorship flyer]((/assets/images/festival/sponsorflyer.png).
+Please help distribute [sponsorship flyer](/assets/images/festival/sponsorflyer.png).
 
 ## Event Fundraising Auction
 
