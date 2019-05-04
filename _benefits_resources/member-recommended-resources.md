@@ -16,9 +16,9 @@ Disclaimer: The views and opinions expressed in the articles and on the websites
 
 # 商务
 
-我最近看听了很多Deloitte 的Webcast,可以免费拿到CPE for CPA license maintenance requirement,但更重要的是紧跟时代，了解当下的各种商业和科技的趋势。对于不上班的朋友们，我非常推荐这个难得的免费的资料库。所有以前的Webcast 都可以随时打开再听再看，只是拿不到CPE Credit.
+最近看听了很多Deloitte 的Webcast，可以免费拿到CPE for CPA license maintenance requirement，但更重要的是紧跟时代，了解当下的各种商业和科技的趋势。对于不上班的朋友们，我非常推荐这个难得的免费的资料库。所有以前的Webcast 都可以随时打开再听再看，只是拿不到CPE Credit。
 
-这是 [portal 链接](https://www2.deloitte.com/us/en/pages/dbriefs-webcasts/topics/upcoming-webcasts.html)。我觉得他们做得特别好的是:1) 系统化，很多非常新兴的科技商务加上传统商务的框架，历史现状未来，利弊风险等都有很好的总结和概览。2)有请大牌公司的有关主管做实例介绍和分享，非常down to the earth.
+这是 [portal 链接](https://www2.deloitte.com/us/en/pages/dbriefs-webcasts/topics/upcoming-webcasts.html)。我觉得他们做得特别好的是: 1)系统化，很多非常新兴的科技商务加上传统商务的框架，历史现状未来，利弊风险等都有很好的总结和概览。2)有请大牌公司的有关主管做实例介绍和分享，非常down to the earth。
 
 # 不动产
 
