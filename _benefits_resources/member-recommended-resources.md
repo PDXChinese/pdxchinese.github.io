@@ -14,16 +14,16 @@ Disclaimer: The views and opinions expressed in the articles and on the websites
 
 [https://www.cancer.org/treatment/finding-and-paying-for-treatment/choosing-your-treatment-team.html](https://www.cancer.org/treatment/finding-and-paying-for-treatment/choosing-your-treatment-team.html)
 
+# 商务
+
+我最近看听了很多Deloitte 的Webcast,可以免费拿到CPE for CPA license maintenance requirement,但更重要的是紧跟时代，了解当下的各种商业和科技的趋势。对于不上班的朋友们，我非常推荐这个难得的免费的资料库。所有以前的Webcast 都可以随时打开再听再看，只是拿不到CPE Credit.
+
+这是 [portal 链接](https://www2.deloitte.com/us/en/pages/dbriefs-webcasts/topics/upcoming-webcasts.html)。我觉得他们做得特别好的是:1) 系统化，很多非常新兴的科技商务加上传统商务的框架，历史现状未来，利弊风险等都有很好的总结和概览。2)有请大牌公司的有关主管做实例介绍和分享，非常down to the earth.
+
 # 不动产
 
-### 房产如何传给子女 How to Pass Properties to Your Children? 安家纽约 LivingInNY （4/1/2015）
+[房产如何传给子女 How to Pass Properties to Your Children?](https://www.youtube.com/embed/38Nm3BQmYgk) 安家纽约 LivingInNY （4/1/2015）
 
-<iframe width="1189" height="669" src="https://www.youtube.com/embed/38Nm3BQmYgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[房契转名有讲究 How to Transfer Your Deed's Name](https://www.youtube.com/embed/2Tv4Ar7Hj-M) 安家纽约LivingInNY (1/14/2015)
 
-### 房契转名有讲究 How to Transfer Your Deed's Name 安家纽约LivingInNY (1/14/2015)
-
-<iframe width="1189" height="669" src="https://www.youtube.com/embed/2Tv4Ar7Hj-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### 房产传承与房产信托 How to Inherit Properties with Trust? 安家纽约LivingInNY (01/24/18)
-
-<iframe width="1189" height="669" src="https://www.youtube.com/embed/dnBiyeBwhiU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[房产传承与房产信托 How to Inherit Properties with Trust?](https://www.youtube.com/embed/dnBiyeBwhiU) 安家纽约LivingInNY (01/24/18)
