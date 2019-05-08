@@ -5,6 +5,11 @@ permalink: /startup/
 
 ## 社区第七次创业座谈会
 
+【时间】5.21.2019 周二 7:00 pm - 9:30 pm
+【地点】GRIFFITH BLDG: Room 150 (4755 SW Griffith Drive, Beaverton, OR 97005)
+
+## 社区第七次创业座谈会
+
 【时间】4.30.2019 周二 7:00 pm - 9:30 pm
 【地点】GRIFFITH BLDG: Room 150 (4755 SW Griffith Drive, Beaverton, OR 97005)
 
