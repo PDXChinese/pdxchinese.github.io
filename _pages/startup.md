@@ -3,10 +3,26 @@ title: "Entrepreneurs Forum"
 permalink: /startup/
 ---
 
-## 社区第七次创业座谈会
+## 社区第八次创业座谈会
 
 【时间】5.21.2019 周二 7:00 pm - 9:30 pm
 【地点】GRIFFITH BLDG: Room 150 (4755 SW Griffith Drive, Beaverton, OR 97005)
+
+Section 1. 杨新乐: PAS-厘米级高精度地理位置网络
+
+PAS是一个开放的高精度地理位置网络。该网络利用RTK技术及基站的使用，对GPS信号进行差分修正，达到厘米级和纳秒级的精度。该服务在精准农业，测绘，自动驾驶/辅助驾驶，无人机，AR等领域都有很大的需求。
+
+PAS采用了airbnd的商业模式，并结合区块链技术。采用基站服务即挖矿激励机制，极大的降低了建网成本。为快速扩张打下了坚实的基础。PAS项目已在今年4月底上线。目前在中国已经有超过400个基站。预计在2021年，PAS将拥有2万个基站，覆盖全球70-80%发达国家及高速发展中国家人口（大约30亿人）。整条网络面向未来，价值巨大。
+
+不仅如此，每一个感兴趣的人都有机会加入PAS网络。在感受未来技术服务的同时，也得到经济的利益。
+
+只要拥有屋顶，就可以加入。
+
+讲座将具体讲解PAS网络如何工作的，并会实时演示。
+
+Section 2. Jie Lian: Overview of the U.S. patent system
+
+Jie Lian, currently a patent agent at Klarquist Sparkman, LLP, a top tier intellectual property (IP) law firm, will give a brief overview of the U.S. patent system, explaining the basic concept of (1) patentability and freedom-to-operate; (2) inventorship and patent ownership; (3) provisional and nonprovisional patent application; (4) the general process of U.S. patent prosecution; and (5) some business considerations (e.g., cost and benefit analysis, patent enforcement, etc.).  As a case analysis, I will also share my observation and opinion on the recent CRISPR patent fight.
 
 ## 社区第七次创业座谈会
 
