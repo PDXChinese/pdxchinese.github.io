@@ -52,7 +52,7 @@ To encourage more youth to take a stand in public hearings or on any community p
 
 To acknowledge those who step out to bring others to grow and excel with them.
 
-### 4:00 pm - 5:00 pm Successful Career Path (Tentative)
+### 4:00 pm - 5:00 pm Career Path Development (Tentative)
 
 ## Distinguished Guest Speakers
 
@@ -60,7 +60,7 @@ Ordered alphabetically
 
 ### Daniel Nguyen
 
-<p><img src="/assets/images/activities/daniel.jpg"></p>
+<p><img src="/assets/images/activities/daniel2.jpg"></p>
 Nguyen, a small-business owner who is perhaps best know for his Bambuza Vietnamese restaurants, became the first person of color elected to Lake Oswego council last November. Nguyen's campaign focused on making sure all Lake Oswegans have the same opportunity to thrive, whether that be through encouraging the development of affordable housing, improving diversity among City staff or simply fostering public participation on local issues. His parents came to the United States from Vietnam as refugees in 1975 and settled in Camas, Wash., where Nguyen grew up.
 
 ![]({{ site.url }}/assets/images/divider.jpg)
