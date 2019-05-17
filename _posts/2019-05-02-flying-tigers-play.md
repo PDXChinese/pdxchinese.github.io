@@ -11,17 +11,17 @@ date: "2019-05-02"
 
 为了更好地落实上述想法，也是节省成本，我们决定请来自硅谷的朋友们住在本地华人家里，让我们有近距离接触他们的机会，其中不少是在高科技公司工作的工程师。有希望做Host Family的，请加入小群。
 
-我们已经安排在6/1周六演两场（2:30pm & 7:00pm)，地点在 World Trade Center Auditorium。除了直接购票之外，鼓励团购，票价也会优惠些，最主要是节省了我们的工作量。
+我们已经安排在6/1周六演两场（2:30pm & 7:00pm)，地点在 World Trade Center Auditorium。
 
-General ticket: $25
-Group of 10+: $20
-Senior 65+: $20
+General ticket: $20
+Senior 65+: $10
 Children 3-12: $5
 
 票房收入主要用来剧院租金和贴补团员们的旅费。如果有剩余，会悉数用在Chinese Festival。
 
-联系购票： 503-709-3119 或 festival@pdxchinese.org
-付款方式： Paypal: donate@pdxchinese.org; Check payable: Oregon Chinese Coalition
+网上购票： https://www.eventbrite.com/e/61947585897
+
+有问题或想直接购票，请联系： 503-709-3119 或 festival@pdxchinese.org
 
 注：话剧将用中文演出。
 
