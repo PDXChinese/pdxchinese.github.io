@@ -24,7 +24,44 @@ Hillsboro Elks Lodge<br/>
 
 Check in starts from 12:00 pm
 
-Coming soon...
+12:55 pm Opening Remark by **Zhunqin Wang**, Board Director, OCC
+
+### Motivational Speeches by Distinguished Guests
+
+1:00 pm – 1:30 pm	**Daniel Nguyen**, First person of color elected to Lake Oswego council
+
+1:30 pm - 2:00 pm Speaker to be confirmed
+
+_2:00 pm - 2:15 pm Taking group photos of participating students and guest speakers_
+
+2:15 pm - 2:45 pm Speaker to be confirmed
+
+2:45 pm - 3:15 pm Speaker to be confirmed
+
+### 3:15 pm - 4:00 pm Awards Ceremony
+
+* Victoria Ren Scholarship
+
+To let Victoria's sweetest smile brighten other children in the community who need assistance emotionally and/or financially.
+
+* Voice of Civic Engagement Award
+
+To encourage more youth to take a stand in public hearings or on any community platforms.
+
+* Youth Empowerment Award
+
+To acknowledge those who step out to bring others to grow and excel with them.
+
+### 4:00 pm - 5:00 pm Successful Career Path (Tentative)
+
+## Distinguished Guest Speakers
+
+Ordered alphabetically
+
+### Daniel Nguyen
+
+<p><img src="/assets/images/activities/daniel.jpg"></p>
+Nguyen, a small-business owner who is perhaps best know for his Bambuza Vietnamese restaurants, became the first person of color elected to Lake Oswego council last November. Nguyen's campaign focused on making sure all Lake Oswegans have the same opportunity to thrive, whether that be through encouraging the development of affordable housing, improving diversity among City staff or simply fostering public participation on local issues. His parents came to the United States from Vietnam as refugees in 1975 and settled in Camas, Wash., where Nguyen grew up.
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
