@@ -19,7 +19,7 @@ Children 3-12: $5
 
 票房收入主要用来剧院租金和贴补团员们的旅费。如果有剩余，会悉数用在Chinese Festival。
 
-网上购票： https://www.eventbrite.com/e/61947585897
+网上购票： [https://www.eventbrite.com/e/61947585897](https://www.eventbrite.com/e/61947585897)
 
 有问题或想直接购票，请联系： 503-709-3119 或 festival@pdxchinese.org
 
