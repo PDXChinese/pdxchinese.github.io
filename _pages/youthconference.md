@@ -36,9 +36,7 @@ _2:00 pm - 2:15 pm Taking group photos of participating students and guest speak
 
 2:15 pm - 2:45 pm Speaker to be confirmed
 
-2:45 pm - 3:15 pm Speaker to be confirmed
-
-### 3:15 pm - 4:00 pm Awards Ceremony
+### 2:45 pm - 3:30 pm Awards Ceremony
 
 * Victoria Ren Scholarship
 
@@ -52,7 +50,7 @@ To encourage more youth to take a stand in public hearings or on any community p
 
 To acknowledge those who step out to bring others to grow and excel with them.
 
-### 4:00 pm - 5:00 pm Career Path Development (Tentative)
+### 3:30 pm - 5:00 pm Career Path Development (Tentative)
 
 ## Distinguished Guest Speakers
 
