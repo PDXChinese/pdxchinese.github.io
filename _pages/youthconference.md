@@ -50,7 +50,11 @@ To encourage more youth to take a stand in public hearings or on any community p
 
 To acknowledge those who step out to bring others to grow and excel with them.
 
-### 3:30 pm - 5:00 pm Career Path Development (Tentative)
+### 3:30 pm - 5:00 pm Successful College Life and Career Path Development
+
+3:30 pm – 4:15 pm	**TBD**, How to spend your 4 years in college?
+
+4:15 pm – 5:00 pm	**Kristy Mao**, Why college is not everything you need for a successful career?
 
 ## Distinguished Guest Speakers
 
@@ -60,6 +64,11 @@ Ordered alphabetically
 
 <p><img src="/assets/images/activities/daniel2.jpg"></p>
 Nguyen, a small-business owner who is perhaps best known for his Bambuza Vietnamese restaurants, became the first person of color elected to Lake Oswego council last November. Nguyen's campaign focused on making sure all Lake Oswegans have the same opportunity to thrive, whether that be through encouraging the development of affordable housing, improving diversity among City staff or simply fostering public participation on local issues. His parents came to the United States from Vietnam as refugees in 1975 and settled in Camas, Wash., where Nguyen grew up.
+
+### Kristy Mao
+
+<p><img src="/assets/images/activities/kristy2.jpg"></p>
+Kristy is Senior Finance Director at Siemens Product Lifecycle Management Software Company. Before that, she had been holding a senior management position for 8 years in Mentor Graphics. She graduated from USC in finance and received her MBA from Yale University. While being responsible for coporate finance, she was able to spare time for course work at Harvard Business School Executive Education. She and her husband have two children and have lived in NW Portland for last 15 years. 
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
