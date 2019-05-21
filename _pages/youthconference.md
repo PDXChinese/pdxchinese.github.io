@@ -30,13 +30,13 @@ Check in starts from 12:00 pm
 
 1:00 pm – 1:30 pm	**Daniel Nguyen**, First person of color elected to Lake Oswego council
 
-1:30 pm - 2:00 pm Speaker to be confirmed
+1:30 pm - 2:00 pm Speaker to be confirmed, Elks Lodge
 
-_2:00 pm - 2:15 pm Taking group photos of participating students and guest speakers_
+2:00 pm - 2:30 pm **Dr. William Toepper**, Founder of Portland Street Medicine
 
-2:15 pm - 2:45 pm Speaker to be confirmed
+_2:30 pm - 2:45 pm Taking group photos of participating students and guest speakers_
 
-### 2:45 pm - 3:30 pm Awards Ceremony
+### 2:45 pm - 3:15 pm Awards Ceremony
 
 * Victoria Ren Scholarship
 
@@ -50,6 +50,8 @@ To encourage more youth to take a stand in public hearings or on any community p
 
 To acknowledge those who step out to bring others to grow and excel with them.
 
+### 3:15 pm - 3:30 pm Live debate session on SAT adversity score by [Oregon Middle School Speech and Debate League(OMSSDL)](https://omssdl.org/)
+
 ### 3:30 pm - 5:00 pm Successful College Life and Career Path Development
 
 3:30 pm – 4:15 pm	**Hao Tan**, How to spend your 4 years in college?
@@ -60,15 +62,23 @@ To acknowledge those who step out to bring others to grow and excel with them.
 
 Ordered alphabetically
 
+### Kristy Mao
+
+<p><img src="/assets/images/activities/kristy2.jpg"></p>
+Kristy is Senior Finance Director at Siemens Product Lifecycle Management Software Company. Before that, she had been holding a senior management position for 8 years in Mentor Graphics. She graduated from USC in finance and received her MBA from Yale University. While being responsible for coporate finance, she was able to spare time for course work at Harvard Business School Executive Education. She and her husband have two children and have lived in NW Portland for last 15 years.
+
 ### Daniel Nguyen
 
 <p><img src="/assets/images/activities/daniel2.jpg"></p>
 Nguyen, a small-business owner who is perhaps best known for his Bambuza Vietnamese restaurants, became the first person of color elected to Lake Oswego council last November. Nguyen's campaign focused on making sure all Lake Oswegans have the same opportunity to thrive, whether that be through encouraging the development of affordable housing, improving diversity among City staff or simply fostering public participation on local issues. His parents came to the United States from Vietnam as refugees in 1975 and settled in Camas, Wash., where Nguyen grew up.
 
-### Kristy Mao
+### Dr. William Toepper
+<p><img src="/assets/images/activities/bill.jpg"></p>
+Dr. Toepper, former Legacy Hospital emergency physician, organized and led Portland Street Medicine. "This is a crisis of monumental proportions, and no single person or organization can solve this alone," Williams says of what he sees as a growing number of homeless people, including a coming wave of baby boomers who did not prepare for retirement. "One of the things we hope to accomplish is to help fill gaps in services and these three initiatives meet a critical need right now on the streets of our city." ([excerpt](https://pamplinmedia.com/pt/9-news/386897-276815-new-privately-funded-homeless-services-announced) from Portland Tribune)
 
-<p><img src="/assets/images/activities/kristy2.jpg"></p>
-Kristy is Senior Finance Director at Siemens Product Lifecycle Management Software Company. Before that, she had been holding a senior management position for 8 years in Mentor Graphics. She graduated from USC in finance and received her MBA from Yale University. While being responsible for coporate finance, she was able to spare time for course work at Harvard Business School Executive Education. She and her husband have two children and have lived in NW Portland for last 15 years.
+### Hao Tan
+<p><img src="/assets/images/activities/tanhao.jpg"></p>
+
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
