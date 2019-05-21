@@ -28,11 +28,11 @@ Check in starts from 12:00 pm
 
 ### Motivational Speeches by Distinguished Guests
 
-1:00 pm – 1:30 pm	**Daniel Nguyen**, First person of color elected to Lake Oswego council
+1:00 pm – 1:30 pm	**Daniel Nguyen**, First person of color elected to [Lake Oswego council](https://www.ci.oswego.or.us/citycouncil/city-council-contact-information)
 
-1:30 pm - 2:00 pm Speaker to be confirmed, Elks Lodge
+1:30 pm - 2:00 pm Speaker to be confirmed, [Elks Lodge](https://www.elks.org/lodges/home.cfm?LodgeNumber=1862)
 
-2:00 pm - 2:30 pm **Dr. William Toepper**, Founder of Portland Street Medicine
+2:00 pm - 2:30 pm **Dr. William Toepper**, Founder of [Portland Street Medicine](https://www.portlandstreetmedicine.org/)
 
 _2:30 pm - 2:45 pm Taking group photos of participating students and guest speakers_
 
