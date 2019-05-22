@@ -3,6 +3,8 @@ title: "Entrepreneurs Forum"
 permalink: /startup/
 ---
 
+座谈会资料：[http://pdxchinese.org/resources/benefits_resources/own-resources/](http://pdxchinese.org/resources/benefits_resources/own-resources/)
+
 ## 社区第八次创业座谈会
 
 【时间】5.21.2019 周二 7:00 pm - 9:30 pm
