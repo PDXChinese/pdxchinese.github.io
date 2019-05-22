@@ -13,6 +13,6 @@ The chatting history for this WeChat group "兰苏园汉语角志愿者" is show
 
 ![]({{ site.url }}/assets/images/5d4ba834c97749a226eeaf530641cd91.jpg)
 
-![]({{ site.url }}/assets/images/5d4ba834c97749a226eeaf530641cd91.jpg)
+![]({{ site.url }}/assets/images/760aa2ce919922803e67d049998df2ac.jpg)
 
-![]({{ site.url }}/assets/images/5d4ba834c97749a226eeaf530641cd91.jpg)
+![]({{ site.url }}/assets/images/a9362857e1474c5a88a225b3290a3fe1.jpg)
