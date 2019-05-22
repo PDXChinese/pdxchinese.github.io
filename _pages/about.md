@@ -84,13 +84,13 @@ Mrs. Wang earned Computer Science degrees from McMaster University (MS) and Cent
 
 Ms. Wang graduated from Beijing Normal University with BA degree and then received MA degree in History from Peking University and MA degree in East Asian Languages and Cultures from Columbia University in 2009. She is an independent researcher and educator in the fields of Sinology and Asian American Studies. She and her husband live in Corvallis with two daughters. Like traditional Chinese literati, she enjoys Qin, Go, Calligraphy, and Painting with family and friends.
 
+### Zhunquin Wang
+
+Mr. Wang graduated from Tsinghua University with a B.S and an M.S degree.  He has been a software developer for Oracle since 1997.  Meanwhile, he has been coaching world-class robotics teams for over a dozen years. He was also active in a local Boy Scout troop. His passion is to foster the holistic growth of future technology leaders.  Zhunquin and his wife live in Portland with two boys.  He loves camping, hiking, and coaching. 
+
 ### Karen-Peng Wu
 
 Mrs. Wu has a BA in Genetics and an MBA. Utilizing her biotech background, she conducted research at Ceres, CalTech and OHSU. She works as an independent consultant last 8 years. Karen currently serves in a number of NPO’s in her community: Oregon Skating Council, Tech 4 Kids Club and USFSA, etc. Karen has been a Portlander for 14 years with her husband and two kids, she enjoys going on long walks and travelling.
-
-### Kent Yu
-
-Mr. Yu received MS from Tongji University in 1994 and PhD from UCSD in 1999.  He is an adjunct professor at PSU and OSU. From 2007 to 2015, Kent also served in Oregon Seismic Safety Policy Advisory Commission and was its Chairperson for one term. He has two kids. When he is not accompanying them, he enjoys socializing with friends. He also has hobbies in golfing and fishing.
 
 ### Hongcheng Zhao
 
