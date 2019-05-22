@@ -16,6 +16,8 @@ title: "社区成员原创资源"
 
 [杨欣乐：区块链创业](/assets/pdf/xinle_blockchain.pdf)
 
+[张凯：Cloud Computing Evolution or Revolution 云计算的前世今生](http://bit.ly/2Zxcd3o)
+
 [杨欣乐：从去中心化共享高精度地理信息平台说开 PAS](/assets/pdf/pas_intro.pdf)
 
 [连杰：美国专利简介](/assets/pdf/patent_law_2019.pdf)
