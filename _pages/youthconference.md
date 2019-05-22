@@ -65,7 +65,7 @@ Ordered alphabetically
 ### Kristy Mao
 
 <p><img src="/assets/images/activities/kristy2.jpg"></p>
-Kristy is Senior Finance Director at Siemens Product Lifecycle Management Software Company. Before that, she had been holding a senior management position for 8 years in Mentor Graphics. She graduated from USC in finance and received her MBA from Yale University. While being responsible for coporate finance, she was able to spare time for course work at Harvard Business School Executive Education. She and her husband have two children and have lived in NW Portland for last 15 years.
+Kristy is Senior Finance Director at Siemens Product Lifecycle Management Software Company, who is currently responsible to manage $1B revenue related to software product portfolio.  Before joining Siemens, she held a senior management position at Mentor Graphics for 8 years with a focus in sales finance and contract negotiations, operation finance, Merger & Acquisition and post M&A integration.  Kristy graduated from USC majored in business, and received her MBA from Yale University.  In spare time, Kristy pursued global leadership program at Harvard Business School Executive Education.
 
 ### Daniel Nguyen
 
