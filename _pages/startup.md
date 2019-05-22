@@ -5,6 +5,11 @@ permalink: /startup/
 
 座谈会资料：[http://pdxchinese.org/resources/benefits_resources/own-resources/](http://pdxchinese.org/resources/benefits_resources/own-resources/)
 
+## 社区第九次创业座谈会
+
+【时间】6.18.2019 周二 7:00 pm - 9:30 pm
+【地点】GRIFFITH BLDG: Room 100 (4755 SW Griffith Drive, Beaverton, OR 97005)
+
 ## 社区第八次创业座谈会
 
 【时间】5.21.2019 周二 7:00 pm - 9:30 pm
