@@ -30,7 +30,7 @@ Check in starts from 12:00 pm
 
 1:00 pm – 1:30 pm	**Daniel Nguyen**, First person of color elected to [Lake Oswego council](https://www.ci.oswego.or.us/citycouncil/city-council-contact-information)
 
-1:30 pm - 2:00 pm Speaker to be confirmed, [Elks Lodge](https://www.elks.org/lodges/home.cfm?LodgeNumber=1862)
+1:30 pm - 2:00 pm Speaker to be confirmed
 
 2:00 pm - 2:30 pm **Dr. William Toepper**, Founder of [Portland Street Medicine](https://www.portlandstreetmedicine.org/)
 
@@ -78,6 +78,7 @@ Dr. Toepper, former Legacy Hospital emergency physician, organized and led Portl
 
 ### Hao Tan
 <p><img src="/assets/images/activities/tanhao.jpg"></p>
+Hao entered University of Oregon as Stamps Scholar in 2015. In the college, he had not only achieved academic excellence, but also been avtively engaged in activities and societies. He was selected as Executive President at Interfraternity Council and served as Interim President at Student Senate. He volunteered as Triage Personel and ASPIRE Mentor. He received numerious honors and awards. He will attend OHSU this fall to pursue a medical degree. See his [LinkedIn profile](https://www.linkedin.com/in/hao-tan/).
 
 
 ![]({{ site.url }}/assets/images/divider.jpg)
