@@ -78,7 +78,7 @@ Dr. Toepper, former Legacy Hospital emergency physician, organized and led Portl
 
 ### Hao Tan
 <p><img src="/assets/images/activities/tanhao.jpg"></p>
-Hao entered University of Oregon as Stamps Scholar in 2015. In the college, he had not only achieved academic excellence, but also been avtively engaged in activities and societies. He was selected as Executive President at Interfraternity Council and served as Interim President at Student Senate. He volunteered as Triage Personel and ASPIRE Mentor. He received numerious honors and awards. He will attend OHSU this fall to pursue a medical degree. See his [LinkedIn profile](https://www.linkedin.com/in/hao-tan/).
+Hao entered University of Oregon as Stamps Scholar in 2015. In the college, he had not only achieved academic excellence, but also been avtively engaged in activities and societies. He was selected as Executive President at Interfraternity Council and served as Interim President at Student Senate. He volunteered as Triage Personel and ASPIRE Mentor. He received numerious honors and awards. He will attend OHSU this fall to pursue his medical degree. See his [LinkedIn profile](https://www.linkedin.com/in/hao-tan/).
 
 
 ![]({{ site.url }}/assets/images/divider.jpg)
