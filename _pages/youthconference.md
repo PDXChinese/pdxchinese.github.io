@@ -72,14 +72,13 @@ Kristy is Senior Finance Director at Siemens Product Lifecycle Management Softwa
 <p><img src="/assets/images/activities/daniel2.jpg"></p>
 Nguyen, a small-business owner who is perhaps best known for his Bambuza Vietnamese restaurants, became the first person of color elected to Lake Oswego council last November. Nguyen's campaign focused on making sure all Lake Oswegans have the same opportunity to thrive, whether that be through encouraging the development of affordable housing, improving diversity among City staff or simply fostering public participation on local issues. His parents came to the United States from Vietnam as refugees in 1975 and settled in Camas, Wash., where Nguyen grew up.
 
+### Hao Tan
+<p><img src="/assets/images/activities/tanhao.jpg"></p>
+Hao, a Class of 2018 Oregon Stamps Scholar, graduated Magna Cum Laude and Phi Beta Kappa from University of Oregon's Honors College. On campus, he was the President of both the Interfraternity Council and the Student Government Senate while also working as an undergraduate Biomechanics and Anthropology researcher. Off campus, he lead educational initiatives for disadvantaged students and served uninsured patients in the local Eugene community. He is currently conducting ophthalmology research at OHSU's Casey Eye Institute and will pursue an MD at the OHSU School of Medicine this fall. See his [LinkedIn profile](https://www.linkedin.com/in/hao-tan/).
+
 ### Dr. William Toepper
 <p><img src="/assets/images/activities/bill.jpg"></p>
 Dr. Toepper, former Legacy Hospital emergency physician, organized and led Portland Street Medicine. "This is a crisis of monumental proportions, and no single person or organization can solve this alone," Williams says of what he sees as a growing number of homeless people, including a coming wave of baby boomers who did not prepare for retirement. "One of the things we hope to accomplish is to help fill gaps in services and these three initiatives meet a critical need right now on the streets of our city." ([excerpt](https://pamplinmedia.com/pt/9-news/386897-276815-new-privately-funded-homeless-services-announced) from Portland Tribune)
-
-### Hao Tan
-<p><img src="/assets/images/activities/tanhao.jpg"></p>
-Hao entered University of Oregon as Stamps Scholar in 2015. In the college, he had not only achieved academic excellence, but also been avtively engaged in activities and societies. He was selected as Executive President at Interfraternity Council and served as Interim President at Student Senate. He volunteered as Triage Personel and ASPIRE Mentor. He received numerious honors and awards. He will attend OHSU this fall to pursue his medical degree. See his [LinkedIn profile](https://www.linkedin.com/in/hao-tan/).
-
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
