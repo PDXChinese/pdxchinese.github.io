@@ -5,6 +5,8 @@ excerpt: "邀请硅谷枫香话剧社前来波村做《飞虎恋》专场演出�
 date: "2019-05-24"
 ---
 
+**网上购票： [https://www.eventbrite.com/e/61947585897](https://www.eventbrite.com/e/61947585897)**
+
 The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is shown below.
 
 —————  2019-05-02  —————
