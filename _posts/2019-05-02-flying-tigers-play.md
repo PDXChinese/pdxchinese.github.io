@@ -70,3 +70,20 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 要写的太多，看得出来我很兴奋。要感谢刘鸽，张光超，邵雯雯，妞妈么么，兔子坡等众人，还有那些自报奋勇的host families，的大力支持！根据要求，我们还需要一位追光操作义工，2-3位协助看护展位的义工，当然还有2-3位发票收票的义工。有意愿的群友，请加入《PDX 义工群》，我们会在那里接龙。
 
 波村历史时刻，不要错过。 让我们6月1号下午2点半见！
+
+The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is shown below.
+
+—————  2019-05-29  —————
+
+
+今天参加《飞虎恋》演出的本地的两位大人和10位孩子聚在一起练习《送别》，短短的一个小时之内，孩子们的声音就已经越来越响亮，配上刚刚从淘宝上买回来的40年代的服装，一下子把我们拉回到那难忘的抗战岁月。
+
+![]({{ site.url }}/assets/images/aa6221c01c04b45db90edfe40f0e52fa.jpg)
+
+![]({{ site.url }}/assets/images/902ad16e1bb0c556db47a72e084d5e3e.jpg)
+
+![]({{ site.url }}/assets/images/39c9ea1faee1200e6b519870a4d11a82.jpg)
+
+![]({{ site.url }}/assets/images/f66d5db648f2cff7127d7a69170df870.jpg)
+
+特别感谢妞妈帮助协调服装的订购，雯雯和林红培训孩子们唱中文歌，夏维山老师接收包裹并带回来，林老师和陈老师用手中的二胡和申胡配合孩子们的演唱。。。当然更要感谢孩子们的勇敢和家长们的辛劳。
