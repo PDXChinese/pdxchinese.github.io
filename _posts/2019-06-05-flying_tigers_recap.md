@@ -134,6 +134,39 @@ zheng zhao赵铮  00:11
 
 @张西 所有的故事，机会和成果都以你为基石，谢谢你为北美华人的奉献的时间，精力和热忱
 
+The chatting history for this WeChat group "PDX 演出团购群" is shown below.
+
+—————  2019-06-01  —————
+
+
+Li Zhang (SW)  18:15
+
+谢谢组织的演出，演的真好，
+
+James-唐英信  18:22
+
+多謝🙏各位組織者、演出團隊，一場視覺、聽覺盛宴！
+
+孔敏Min Kong  18:28
+
+咱们本地的大小演员们表演很专业，你们唱得我眼泪流得稀里哗啦的。
+
+Li Zhang (SW)  18:30
+
+男士不能忘！
+
+千江水月  18:30
+
+是要赞一下[ThumbsUp]，唱得我很想回国
+
+林保宇  19:08
+
+在瀰漫著中美貿易戰的硝煙中，看了這樣一場講述中美人民並肩戰鬥的充滿感情的話劇，倍有感觸。謝謝組織者，以及楓香硅谷劇社的創作演出人員，和當地的出演人員，期待有更多更好的劇目來到Portland。
+
+🍂Michelle🍂  21:18
+
+多謝🙏各位組織者、演出團隊，一場視覺、聽覺盛宴！辛苦了，感谢你们！[ThumbsUp][Salute]🙏💯 +1
+
 
 The chatting history for this WeChat group "飞虎恋Host家庭 5/31-6/2" is shown below.
 
@@ -252,8 +285,6 @@ Yongtian Zhang  10:42
 ![]({{ site.url }}/assets/images/b27d05d2c499ed5bac855980b5a17be2.jpg)
 
 ![]({{ site.url }}/assets/images/530ce5fcad6715f5e22ddf9eb55780b2.jpg)
-
-![]({{ site.url }}/assets/images/4129c1a159e66a7f598db480680af932.jpg)
 
 ![]({{ site.url }}/assets/images/80bae09bf4f8794af07cffb01afb0326.jpg)
 
