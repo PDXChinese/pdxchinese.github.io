@@ -1,5 +1,5 @@
 ---
-title: "温村华人加入到我们的汉语角活动中"
+title: "首次参加Camp Meadowood Springs义工活动"
 author: XiBei Zhao
 excerpt: "这次由OCC和Let’s Peer Up共同组织的义工活动获得了空前的成功。这个Memorial Weekend长周末有34位群友加入了hundreds of Elks (from different Lodges all over Oregon）到Camp Meadowood Springs做义工，过了一个有意义的周末。每年一次的Camp义工一直是Elks和local Lions Club（近几年加入Camp义工的）在做，这是第一次有这么大的一个group加入他们。"
 date: "2019-05-28"
