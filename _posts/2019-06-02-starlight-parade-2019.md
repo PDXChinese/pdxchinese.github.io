@@ -12,7 +12,7 @@ The chatting history for this WeChat group "2019.6.1 玫瑰节星光舞龙游行
 
 xiaojian  10:45
 
-昨天西北区参与舞龙的成员和李氏龙狮团通力合作，圆满完成Starlight Parade
+昨天西北区参与舞龙的成员和李氏龙狮团通力合作，圆满完成Starlight Parade。
 
 ![]({{ site.url }}/assets/images/288cb47a984ff9c1801cd4208328eaed.jpg)
 
