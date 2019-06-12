@@ -30,7 +30,7 @@ Check in starts from 12:00 pm
 
 1:00 pm – 1:30 pm	**Daniel Nguyen**, First person of color elected to [Lake Oswego council](https://www.ci.oswego.or.us/citycouncil/city-council-contact-information)
 
-1:30 pm - 2:00 pm Speaker to be confirmed
+1:30 pm - 2:00 pm **Alexandria Margarella**, Representing [Elks Lodge](https://www.elks.org/lodges/home.cfm?LodgeNumber=1862) which sponsors various youth programs.
 
 2:00 pm - 2:30 pm **Dr. William Toepper**, Founder of [Portland Street Medicine](https://www.portlandstreetmedicine.org/)
 
@@ -61,6 +61,11 @@ To acknowledge those who step out to bring others to grow and excel with them.
 ## Distinguished Guest Speakers
 
 Ordered alphabetically
+
+### Alexandria Margarella
+
+<p><img src="/assets/images/activities/allie.jpg"></p>
+Allie Margarella will be representing the Hillsboro Elks Lodge, speaking to the many charitable works they do.  She has been a member of the organization for 7 years now.  Before moving to Oregon in 2013, she lived in Irvine, CA, where she recieved her PHD in Physical Chemistry.  A job landed her in Oregon, where she easily became acclimated to the Pacific Northwest way of life.  The Elks Lodge has helped that in so many ways, by building a community, while helping out the community.
 
 ### Kristy Mao
 
