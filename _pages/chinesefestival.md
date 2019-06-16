@@ -22,6 +22,7 @@ For the first time ever, our local Chinese community will be hosting a Chinese f
 | 12:30 | Folk Dancing and Singing 40min | NW Chinese Dance Troupe |
 | 13:15 | Fashion Show (Kids) 10min | [Oceana Blue Productions](http://oceanablueusa.com/) |
 | 13:30 | Folk Dance 20min | PSU Student Dance Group |
+| 13:50 | Taiji 10min | Master Lin |
 | 14:00 | Folk Songs 20min| Karaoke Singing Group |
 | 14:30 | Chinese Folk Dance 30min| [East Dream Chinese Dance Group](http://www.eastdreamdance.org/index.html) |
 | 15:00 | Fashion Show (Teen) 10min | [Oceana Blue Productions](http://oceanablueusa.com/) |
@@ -30,8 +31,7 @@ For the first time ever, our local Chinese community will be hosting a Chinese f
 | 16:00 | Martial Arts 30min | [U.S. Wushu Center](https://uswushu.com/) |
 | 16:30 | Singing & Dancing 60min| Chinese Cultural Groups from Vancouver |
 | 17:30 | Folk Songs & Instruments 30min | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
-| 18:00 | (reserved) | |
-| 18:15 | Taiji 15min | Master Lin |
+| 18:00 | Singing & Dancing 30min | [Northwest Chinese Academy](https://nwchineseacademy.org/) |
 | 18:30 | Folk Songs 30min | Vintage Chinese Singing Group/春之声组合 |
 | 19:00 | Singing & Dancing 60min | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) |
 | 20:00 | Conclusion |
