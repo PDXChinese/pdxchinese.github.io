@@ -7,8 +7,12 @@ permalink: /startup/
 
 ## 社区第九次创业座谈会
 
-【时间】6.18.2019 周二 7:00 pm - 9:30 pm
+【时间】7.16.2019 周二 7:00 pm - 9:30 pm
 【地点】GRIFFITH BLDG: Room 100 (4755 SW Griffith Drive, Beaverton, OR 97005)
+
+Section 1. 来自三个不同专业的本地牙医纵论牙科行业
+
+Section 2. Indoors Nutrient Dense Food Business
 
 ## 社区第八次创业座谈会
 
