@@ -95,8 +95,10 @@ Your brands will be exposed to 50,000 visitors that day and more after in the ne
 
 | Benefits | Platinum | Gold | Silver | Bronze | Contributor |
 | --- | --- | --- | --- | --- | --- |
-| Most prominent name and logo placement on site and social media | X | | | | |
-| Prominent name and logo placement on site and OCC social media | X | X | X | X | |
+| Most prominent name and logo placement on site and social media, free booth | X | | | | |
+| Prominent name and logo placement on site(3) and OCC social media | | X | | | |
+| Prominent name and logo placement on site(2) and OCC social media | | | X | | |
+| Prominent name and logo placement on site(1) and OCC social media | | | | X | |
 | Logo placement on banners, which serve as backdrop in all press photo opportunities | X | X | X | X | X |
 
 Please help distribute [sponsorship flyer](/assets/images/festival/sponsorflyer.png).
