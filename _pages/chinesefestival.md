@@ -85,20 +85,16 @@ No signup available for the booths. The space is very limited as we will leave m
 
 ## Proud Sponsors
 
-| Level | Name | Booth |
-| --- | --- | --- |
-| Silver | [Oregon Hope Chinese School](http://www.oregon-hope.org) | |
-
 Platinum (exclusive) $10,000+; Gold (2) $5,000; Silver $2,000+; Bronze $500  
 
 Your brands will be exposed to 50,000 visitors that day and more after in the news, also reach Oregon Chinese community at large via social media.
 
 | Benefits | Platinum | Gold | Silver | Bronze | Contributor |
 | --- | --- | --- | --- | --- | --- |
-| Most prominent name and logo placement on site and social media, free booth | X | | | | |
-| Prominent name and logo placement on site(2) and OCC social media, free booth | | X | | | |
-| Prominent name and logo placement on site(2) and OCC social media | | | X | | |
-| Prominent name and logo placement on site(1) and OCC social media | | | | X | |
+| Most prominent name and logo placement on site and social media, free booth on floor | X | | | | |
+| Prominent name and logo placement on site(2) and OCC social media, free booth on floor | | X | | | |
+| Prominent name and logo placement on site(2) and OCC social media, booth space on side | | | X | | |
+| Prominent name and logo placement on site(1) and OCC social media, booth space on side | | | | X | |
 | Logo placement on banners, which serve as backdrop in all press photo opportunities | X | X | X | X | X |
 
 Please help distribute [sponsorship flyer](/assets/images/festival/sponsorflyer.png).
