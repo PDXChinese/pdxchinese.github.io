@@ -93,8 +93,8 @@ Your brands will be exposed to 50,000 visitors that day and more after in the ne
 | --- | --- | --- | --- | --- | --- |
 | Most prominent name and logo placement on site and social media, free booth on floor | X | | | | |
 | Prominent name and logo placement on site(2) and OCC social media, free booth on floor | | X | | | |
-| Prominent name and logo placement on site(2) and OCC social media, booth space on side | | | X | | |
-| Prominent name and logo placement on site(1) and OCC social media, booth space on side | | | | X | |
+| Prominent name and logo placement on site(2) and OCC social media, booth space outside floor | | | X | | |
+| Prominent name and logo placement on site(1) and OCC social media, booth space outside floor | | | | X | |
 | Logo placement on banners, which serve as backdrop in all press photo opportunities | X | X | X | X | X |
 
 Please help distribute [sponsorship flyer](/assets/images/festival/sponsorflyer.png).
