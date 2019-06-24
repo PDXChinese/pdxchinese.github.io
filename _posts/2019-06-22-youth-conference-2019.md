@@ -1,5 +1,5 @@
 ---
-title: "活跃在汉语角活动中我们的后代们"
+title: "第三届社区青少年大会胜利落下帷幕"
 author: XiBei Zhao
 excerpt: "第三届社区青少年大会昨天胜利落下了帷幕，最后一刻，组织者们，也就是OCC的理事们禁不住相互击掌祝贺，What a blast! 整个会场并没有出现“惊心动魄”的时刻，更没有“波澜壮阔”的场面，但是所有来宾的演讲，他们给现场孩子们传达的信息，释放出来的正能量，无不感染者与会的每一个人，包括家长们。回顾近两个月的筹备，新任OCC理事的王准勤为大会的每一个细节都做了大量的工作，在所有理事们的积极配合之下，我们可以说大会再次超出了预期的效果。"
 date: "2019-06-22"
@@ -94,6 +94,10 @@ Daniel Nguyen的发言非常的humble，因为有着移民身份背景，他的�
 ![]({{ site.url }}/assets/images/cbef9459d04365d919ef8021af2e2a65.jpg)
 
 ![]({{ site.url }}/assets/images/ff54e971d091d33c1782f80956bba889.jpg)
+
+![]({{ site.url }}/assets/images/277ca85b3a56eb35622840cdb7363b9e.jpg)
+
+![]({{ site.url }}/assets/images/5f5ec77b75dcabced8a69a6033b1a067.jpg)
 
 ![]({{ site.url }}/assets/images/38c35c3a7755d946b49525e4865bef43.jpg)
 
