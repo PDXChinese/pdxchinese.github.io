@@ -229,4 +229,4 @@ Cheery在大会开始前在现场演奏古筝，当时老张忙着调试音响�
 
 最后，要感谢所有的义工们。这是Nancy昨晚在义工群的发言：感谢@peng @Meirong @yinlin @凡草 @希望中文学校敏Min Kong @杜晖 还有不在此群的几个孩子们，昨晚和今天的义务劳动让第二届我们的青少年大会圆满。当然还要感谢大家的积极参与，让孩子们从优秀者那儿学习。还有来不及问名字的朋友在会后帮忙打扫战场。谢谢大家的奉献！
 
-[See 2018 Youth Conference Agenda](http://pdxchinese.org/youthconference/)
+[See 2018 Youth Conference Agenda](http://pdxchinese.org/youthconference/youth_conference_2018/)

@@ -393,3 +393,5 @@ Ying  20:38
 【帮助David Tan为中国孤儿教育项目筹款的努力】在大家为国庆节长周末准备度假活动的时候，我们社区的谭子煜同学受到青少年大会嘉宾Robert Tadjiki先生的影响，不浪费一天时间，马上决定采取行动，加入到这一慈善行列中来。刚刚得知他已经和Robert讨论过他这个夏天可以做的，这对于一个高二学生的暑假来说，这个选择不可谓不重大，为他的这个选择点赞叫好[ThumbsUp]
 
 鼓励大家捐款支持他这一举动，钱数不多，但是对于敢于走出这一步的社区少年，意义深远。期待子煜同学能在慈善事业上走得更远，做出些成绩来[Fight] 筹款链接：[www.gofundme.com/education-for-chinese-orphans](https://www.gofundme.com/education-for-chinese-orphans?utm_source=internal&utm_medium=email&utm_content=cta_button&utm_campaign=upd_n)
+
+[See 2017 Youth Conference Agenda](http://pdxchinese.org/youth-conference-2017/)
