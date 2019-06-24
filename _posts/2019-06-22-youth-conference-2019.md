@@ -39,8 +39,6 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 ![]({{ site.url }}/assets/images/e53adf36aa42270a0067c5eca3aa28c0.jpg)
 
-![]({{ site.url }}/assets/images/4f474e35b0b1986e0b6aca4f7d24ac3b.jpg)
-
 ![]({{ site.url }}/assets/images/d4241f8c8e4aa46ddd6ecedffe5c7dbb.jpg)
 
 ![]({{ site.url }}/assets/images/ef6da1824ef6331d0ebdb86d8be7697d.jpg)
@@ -81,8 +79,6 @@ Daniel Nguyen的发言非常的humble，因为有着移民身份背景，他的�
 
 ![]({{ site.url }}/assets/images/629ca8d0e5fa97af13bd5d5ac17cd70c.jpg)
 
-![]({{ site.url }}/assets/images/d4fc9579ea8d8950beca78499cff7bb3.jpg)
-
 ![]({{ site.url }}/assets/images/3facc3d2f14035f32400425a80757e8c.jpg)
 
 ![]({{ site.url }}/assets/images/20cb9f1a039a36c4068374cdc9d07bdf.jpg)
@@ -96,8 +92,6 @@ Daniel Nguyen的发言非常的humble，因为有着移民身份背景，他的�
 ![]({{ site.url }}/assets/images/ff54e971d091d33c1782f80956bba889.jpg)
 
 ![]({{ site.url }}/assets/images/277ca85b3a56eb35622840cdb7363b9e.jpg)
-
-![]({{ site.url }}/assets/images/5f5ec77b75dcabced8a69a6033b1a067.jpg)
 
 ![]({{ site.url }}/assets/images/38c35c3a7755d946b49525e4865bef43.jpg)
 
