@@ -43,7 +43,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 ![]({{ site.url }}/assets/images/ef6da1824ef6331d0ebdb86d8be7697d.jpg)
 
-![]({{ site.url }}/assets/images/8646b6bb4c461e76d0589d9b36c007c7.jpg)
+![]({{ site.url }}/assets/images/8646b6bb4c461e76d0589d9b36c007c72.jpg)
 
 ![]({{ site.url }}/assets/images/371b9ae83185faa8e8ec6e23a24b784f.jpg)
 
