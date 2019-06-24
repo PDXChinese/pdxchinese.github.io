@@ -161,7 +161,7 @@ Beats of Bethany, Volunteering project of young musicians, founded in 2017.
 
 ![]({{ site.url }}/assets/images/8ad576aa513bf6b29a0f21f5271bc4f6.jpg)
 
-每次大会中场为了活跃气氛，我们都会安排一项轻松的活动。今年的安排是邀请Oregon Middle School Speech and Debate League(OMSSDL)为我们现场的孩子家长们做一场live debate，题目就选定刚刚推出的SAT Adversity Score。OMSSDL对此非常的重视，让参加别论的正反双方（Teddy Gao and Nora Wu）做足了功课。昨天在大会上他们的表现极其出色，让与会者们大开了眼界。我个人从一开始就一直关注着他们，真心为他们所付出的努力和取得的成就深感自豪。相信短短的十几分钟的辩论活动一定会在社区孩子们中激起对这项课外活动的兴趣。
+每次大会中场为了活跃气氛，我们都会安排一项轻松的活动。今年的安排是邀请Oregon Middle School Speech and Debate League(OMSSDL)为我们现场的孩子家长们做一场live debate，题目就选定刚刚推出的SAT Adversity Score。OMSSDL对此非常的重视，让参加别论的正反双方（Teddy Gao and Nora Wu with Stanley as the judge）做足了功课。昨天在大会上他们的表现极其出色，让与会者们大开了眼界。我个人从一开始就一直关注着他们，真心为他们所付出的努力和取得的成就深感自豪。相信短短的十几分钟的辩论活动一定会在社区孩子们中激起对这项课外活动更大的兴趣。
 
 ![]({{ site.url }}/assets/images/a3b16128f2b0e8d5b37a25d85b776896.jpg)
 
