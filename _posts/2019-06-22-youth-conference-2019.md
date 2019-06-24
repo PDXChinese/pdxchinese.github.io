@@ -180,3 +180,5 @@ Beats of Bethany, Volunteering project of young musicians, founded in 2017.
 ![]({{ site.url }}/assets/images/62243542305237430b23c91a362ca0ae.jpg)
 
 最后，再次感谢所有与会的同学及家长们，支持我们的演讲嘉宾，获奖的同学们，筹备组织此次大会的OCC理事们尤其是首次担当此重任的王准勤教练，和现场的义工们。我们2020年再见！
+
+[See 2019 Youth Conference Agenda](http://pdxchinese.org/youthconference/)
