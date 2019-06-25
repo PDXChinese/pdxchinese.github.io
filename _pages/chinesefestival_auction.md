@@ -7,7 +7,7 @@ permalink: /chinesefestival/auction
 
 Please help us raise money by donating auction items and send your bids today via email: [festival@pdxchinese.org](mailto:festival@pdxchinese.org)
 
-This auction has raised **$___** so far, way to go! We will need to have at least $20,000 to have a successful event.
+This auction has raised **$___** so far, way to go! We will need to have at least $15,000 to have a successful event.
 
 | Items | Donated By | Suggested Value | Status |
 | --- | --- | ---: | ---: |
