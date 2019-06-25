@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "首届波特兰华人文化艺术节"
 permalink: /chinesefestival/
 ---
-# <span style="color:red">**2019 Chinese Festival**</span>
+# 2019 Chinese Festival
 
 ![]({{ site.url }}/assets/images/28b96e6e3823bb99a675fdf01c3682a4.jpg)
 
