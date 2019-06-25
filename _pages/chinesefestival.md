@@ -36,14 +36,6 @@ For the first time ever, our local Chinese community will be hosting a Chinese f
 | 19:00 | Singing & Dancing 60min | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) |
 | 20:00 | Conclusion |
 
-## Speeches/Presentations
-
-| Speaker | Topic |
-| --- | --- |
-| | |
-
-Please contact us if you are interested or would like to recommend someone in or outside our community.
-
 ## Kids Friendly Hands-on Crafts and Activities
 
 | Category | Activity | Group |
@@ -98,10 +90,6 @@ Your brands will be exposed to 50,000 visitors that day and more after in the ne
 | Logo placement on banners, which serve as backdrop in all press photo opportunities | X | X | X | X | X |
 
 Please help distribute [sponsorship flyer](/assets/images/festival/sponsorflyer.png).
-
-## Event Fundraising Auction
-
-Please help us raise money by donating auction items to us. Visit the auction page: [http://pdxchinese.org/chinesefestival/auction]({{ site.url }}/chinesefestival/auction) for auction items and send your bids today.
 
 ## Contact Us
 
