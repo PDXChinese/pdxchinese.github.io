@@ -77,8 +77,7 @@ From time to time, we gladly accepted such deals with fundraising purpose from c
 
 ### Vacation Home in Waldport, Oregon Coast
 
-Sleeps up to 11 - 5 Bedrooms, 5 Kings, 1 twin futon, 1 full futon, 1 twin daybed, 1 sleeper sofa, 4  Bath.  
+Sleeps up to 11 - 5 Bedrooms, 4 Bath.  
 Standard: 2 night minimum; Summer & Holidays: 3-4 night minimum.  
-You save 40% off management company's price.  
 
 [Click here for the details and inquiry info](https://docs.google.com/forms/d/e/1FAIpQLSe6O1vz82OydnkZjX2zPweaGWW1eb-O0fKW0hC06WWhn0LLuA/viewform?usp=sf_link)
