@@ -73,7 +73,7 @@ By the end of each school year, one scholarship will be awarded to a student of 
 
 # Special Fundraising Deals
 
-From time to time, we gladly accepted such deals with fundraising purpose from corporates and individuals. We are not in the position to give any recommendation to the quality of the products or services, although we have tried out best to provide community members with quality as promised in the flyers.
+From time to time, we gladly accepted such deals with fundraising purpose from corporates and individuals. We are not in the position to give any recommendation to the quality of the products or services, although we have tried our best to provide community members with quality as promised in the flyers.
 
 ### Vacation Home in Waldport, Oregon Coast
 
