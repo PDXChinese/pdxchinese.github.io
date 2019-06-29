@@ -1,0 +1,35 @@
+---
+title: "与美国奥数队教练罗博深教授见面会"
+author: XiBei Zhao
+excerpt: "第三届社区青少年大会昨天胜利落下了帷幕，最后一刻，组织者们，也就是OCC的理事们禁不住相互击掌祝贺，What a blast! 整个会场并没有出现“惊心动魄”的时刻，更没有“波澜壮阔”的场面，但是所有来宾的演讲，他们给现场孩子们传达的信息，释放出来的正能量，无不感染者与会的每一个人，包括家长们。回顾近两个月的筹备，新任OCC理事的王准勤为大会的每一个细节都做了大量的工作，在所有理事们的积极配合之下，我们可以说大会再次超出了预期的效果。"
+date: "2019-06-28"
+---
+The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is shown below.
+
+—————  2019-06-28  —————
+
+今天与美国奥数队教练罗博深(Po-Shen Loh)教授见面会非常的成功！感谢所有报名并到场的孩子和家长们，有些人可能还是去了原来公布的地方，结果扑了空，真心抱歉。
+
+今天领教了罗教授的天赋，尤其是与孩子们沟通深奥的数学问题的能力，只能用eye opening来形容，怪不得无数的人如此膜拜这位奥数总教练。能有机会欣赏到他的风采，真的是天上飞来的幸福。
+
+我们的孩子们今天也是顶呱呱的表现，很多回答都让罗教授感到吃惊。这是罗教授刚刚从机场发来的微信，
+
+“谢谢你今天办活动！我回到飞机场了，飞往中国。我觉得你的地区的人对数学教育特别热情。。。我今天也很喜欢跟你们地区的华人孩子交流。美国出生长大的ABC有自己的文化。我也想让他们有更好的方向。”
+
+我们会继续与罗教授保持联系，看看如何能帮助到社区的孩子们，尤其是在数学竞赛方面。
+
+![]({{ site.url }}/assets/images/ec17da9d591b34b30a3706882fc8355d.jpg)
+
+![]({{ site.url }}/assets/images/a474545ac124952fe73b31b0f87ebecc.jpg)
+
+![]({{ site.url }}/assets/images/4ff5b4158d20b801ff42e5bcf9fd052c.jpg)
+
+![]({{ site.url }}/assets/images/01d2e87f2c66aae77819e6c666d82071.jpg)
+
+![]({{ site.url }}/assets/images/a4a9b9eef0d7f337bf9b98be1bc9d06c.jpg)
+
+![]({{ site.url }}/assets/images/287d0f7e07a81f288507728eeeee5a38.jpg)
+
+对了，罗教授对如何学好数学的回答就是，It's nice to always know how to solve a problem. 这也是他在读7年级的女儿赢得宾州mathcounts后说的话。
+
+私下问过罗教授，他推荐的准备数学竞赛的书是，Competition Math for Middle School，是Art of Problem Solving出版的。罗教授“没找到别的真的根据他的想法的课程”，现在开了自己的网课([https://daily.poshenloh.com](https://daily.poshenloh.com)) 。
