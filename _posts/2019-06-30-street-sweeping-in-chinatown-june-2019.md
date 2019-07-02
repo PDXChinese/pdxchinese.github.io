@@ -67,8 +67,6 @@ xiaojian  18:42
 
 ![]({{ site.url }}/assets/images/45849d54776cfd5e511659625393a7c9.jpg)
 
-![]({{ site.url }}/assets/images/634855cb9f0804e36eaa7669f8552ccc.jpg)
-
 ![]({{ site.url }}/assets/images/6bc6b34f700e801808596637cefddb1a.jpg)
 
 ![]({{ site.url }}/assets/images/b6a4fdc011a8cd743a9b2f080a966d42.jpg)
