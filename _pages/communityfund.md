@@ -16,11 +16,15 @@ Please choose the way for your most convenience:
 
 Please email to donate@pdxchinese.org for bank account information.
 
+### PayPal
+
+Select 'send to friend' and send to donate@pdxchinese.org 
+
 ### Checks
 
 Please mail checks to: c/o Oregon Chinese Coalition, 219 NW 3rd Ave., #227, Portland, OR 97209
 
-### PayPal or Credit Card
+### Credit Card
 
 Note: 2.2% fee will be deducted from the donation.
 
