@@ -2,7 +2,7 @@
 title: ""
 permalink: /communityfund/
 ---
-Oregon Chinese Coalition is an IRS approved 501c(3) non-profit organization (TAX ID: 82-1027620). Its funding entirely comes from donations from community members. Everyone works in this organization as a volunteer. All donations will be used to fund activities related to the community, including Chinatown Saturday Performance, Job Fair, Youth Conference, volunteering activities, mentoring program, discrimination cases, as well as emergency fund for the community members who are going through financial difficulties.
+Oregon Chinese Coalition is an IRS approved 501c(3) non-profit organization (TAX ID: 82-1027620). Its funding entirely comes from donations from community members. Everyone works in this organization as a volunteer. All donations will be used to fund community activities.
 
 # How to Donate
 
@@ -11,10 +11,6 @@ Thank you for your generosity. Your contribution to OCC is tax-deductible under 
 [https://goo.gl/forms/lwHNjW3kvOuoRamq2](https://goo.gl/forms/lwHNjW3kvOuoRamq2)
 
 Please choose the way for your most convenience:
-
-### Direct Deposit or Fund Transfer
-
-Please email to donate@pdxchinese.org for bank account information.
 
 ### PayPal
 
