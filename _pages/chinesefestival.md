@@ -28,7 +28,7 @@ For the first time ever, our local Chinese community will be hosting a Chinese f
 | 14:30 | Chinese Folk Dance 30min| [East Dream Chinese Dance Group](http://www.eastdreamdance.org/index.html) |
 | 15:00 | Chinese Rose Princess and Queens 10min | [Oceana Blue Productions](http://oceanablueusa.com/) |
 | 15:15 | Chinese Drumbeat 10min | OCC Drum Team |
-| 15:30 | Guzheng Performance 20min | [PSU Confucius Institute](https://www.pdx.edu/confucius-institute/)  |
+| 15:30 | Guzheng Performance 25min | [PSU Confucius Institute](https://www.pdx.edu/confucius-institute/)  |
 | 16:00 | Martial Arts 30min | [U.S. Wushu Center](https://uswushu.com/) |
 | 16:30 | Singing & Dancing 60min| Chinese Cultural Groups from Vancouver |
 | 17:30 | Folk Songs & Instruments 30min | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
