@@ -20,6 +20,7 @@ For the first time ever, our local Chinese community will be hosting a Chinese f
 | 11:00 | Lion Dancing 20min | Dragon & Lion Dance Team of [Lee's Association](http://www.leeondong.org/) |
 | 11:30 | Singing, Dancing & Wushu 60min | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 | 12:30 | Folk Dancing and Singing 40min | NW Chinese Dance Troupe |
+| 13:10 | Violin Solo 5min | Intel Chinese Employee Network |
 | 13:15 | Fashion Show 10min | [Oceana Blue Productions](http://oceanablueusa.com/) |
 | 13:30 | Folk Dance 20min | PSU Student Dance Group |
 | 13:50 | Taiji 10min | Master Lin |
