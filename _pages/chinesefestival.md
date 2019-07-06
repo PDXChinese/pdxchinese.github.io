@@ -75,7 +75,10 @@ Hosting organizations or individuals will have their name tags with social media
 | [Lan Su Chinese Garden](https://lansugarden.org/) | Chinese Garden |Organization |
 | Great Tang | Xian'r Bing | Food Vendor |
 | [Money Bowl](http://www.moneybowlpdx.com/) | Guilin Soup Noodle | Food Vendor |
-| [Sharetea](https://www.facebook.com/ShareteaBeavertonOR/) | Bubble Tea | Food Vendor | 
+| [Sharetea](https://www.facebook.com/ShareteaBeavertonOR/) | Bubble Tea | Food Vendor |
+| [In J Coffee](https://www.injcoffee.com/) | Finely crafted espresso with Asian roots| Food Vendor |
+| [Yi Fang Fruit Tea](https://www.instagram.com/yifangtea.tw/) |Fruit Tea | Food Vendor |
+| more to join... |||
 
 No signup available for the booths. The space is very limited as we will leave more space for activities. please contact us directly if you are interested. Type of vendors we are looking for includes NPOs, Chinese/Asian food, traditional crafts and clothing.
 
