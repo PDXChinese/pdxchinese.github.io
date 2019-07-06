@@ -25,7 +25,7 @@ For the first time ever, our local Chinese community will be hosting a Chinese f
 | 13:30 | Folk Dance 20min | PSU Student Dance Group |
 | 13:50 | Taiji 10min | Master Lin |
 | 14:00 | Folk Songs 20min| Karaoke Singing Group |
-| 14:30 | Chinese Folk Dance 30min| [East Dream Chinese Dance Group](http://www.eastdreamdance.org/index.html) |
+| 14:30 | Chinese Folk Dance 30min| [East Dream Dance/东方舞艺术团](http://www.eastdreamdance.org/index.html) |
 | 15:00 | Chinese Rose Princess and Queens 10min | [Oceana Blue Productions](http://oceanablueusa.com/) |
 | 15:15 | Chinese Drumbeat 10min | OCC Drum Team |
 | 15:30 | Guzheng Performance 25min | [PSU Confucius Institute](https://www.pdx.edu/confucius-institute/)  |
@@ -68,11 +68,10 @@ Hosting organizations or individuals will have their name tags with social media
 
 <a href="https://signup.com/go/qXfhufu" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Volunteer Opportunities on SignUp.com"></a>
 
-## Vendor Lineup
+## Food Vendor Lineup
 
 | Name | Description |Section |
 | --- | --- |
-| [Lan Su Chinese Garden](https://lansugarden.org/) | Chinese Garden |Organization |
 | Great Tang | Xian'r Bing | Food Vendor |
 | [Money Bowl](http://www.moneybowlpdx.com/) | Guilin Soup Noodle | Food Vendor |
 | [Sharetea](https://www.facebook.com/ShareteaBeavertonOR/) | Bubble Tea | Food Vendor |
