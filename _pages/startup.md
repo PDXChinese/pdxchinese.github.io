@@ -14,11 +14,11 @@ Section 1. 来自三个不同专业的本地牙医纵论牙科行业
 
 Panel of Speakers:
 
-Tracy Ouyang, DDS, is an orthodontic specialist serving Portland, Beaverton, and Clackamas regions at her own clinics with 2 locations. She graduated from the University Of Minnesota Medical School in 1995. She has practiced for over two decades.
+**Tracy Ouyang, DDS**, is an orthodontic specialist serving Portland, Beaverton, and Clackamas regions at her own clinics with 2 locations. She graduated from the University Of Minnesota Medical School in 1995. She has practiced for over two decades.
 
-Na Xu, DDS, the dentist at Healthy Smiles Family Dentistry, graduated from Creighton University School of Dentistry in 2007. After graduation she moved to Oregon and joined a group practice for five years. She has now opened her own clinic and serves the local Salem community.
+**Na Xu, DDS**, the dentist at Healthy Smiles Family Dentistry, graduated from Creighton University School of Dentistry in 2007. After graduation she moved to Oregon and joined a group practice for five years. She has now opened her own clinic and serves the local Salem community.
 
-Lin Zhu, DDS, Board Certified Periodontist at Gentle Dental Portland, graduated from UCLA School of Dentistry and completed her residency and specialty training at University of Oklahoma Health Sciences Center.
+**Lin Zhu, DDS**, Board Certified Periodontist at Gentle Dental Portland, graduated from UCLA School of Dentistry and completed her residency and specialty training at University of Oklahoma Health Sciences Center.
 
 Topics:
 
@@ -30,7 +30,7 @@ Topics:
 > Dental care  
 > Q & A  
 
-Section 2. Indoors Nutrient Dense Food Business -- Sero Agriculture by Eric Folsom
+Section 2. Indoors Nutrient Dense Food Business -- Sero Agriculture by **Eric Folsom**
 
 We are a small business that grows indoors and produces nutrient dense food. We specialize in the market of aquaponics and what we call plant cell growing. The focus is to maintain zero-carbon footprints for what we do. Instead having a huge farm using large amounts of power and water to feed our plants we use the natural world to create this environment. We cross aquaculture, Hydroponics and vermiculture in a closed system to achieve a nutrient dense environment. We mitigate risk by dividing the farm into smaller pieces maximizing space and inputs needed to maintain the environment. Through Micro cells we can grow a very diverse set of plants and vegetables while mitigating risk to the entire farm.  We use low managed power systems for the power, recapture the water from the air to minimize the water from the grid as well. We have plans to be zero carbon by next year when we have some changes done to our growing space. In regards to delivery, we use bicycles to maintain a low carbon footprint. As our business grows, we will figure out where to build the second farm to make sure it is within walking distance to our customers. It is a different model from the traditional model and as a collective of farms we will feed information to the cloud to disseminate to our customers in case there is something growing at a different location that they are interested in. Along with growing information we will also have timing for vegetables to be ready and use it for monitoring on the backend. Each Farm will cater to the hyper local market where it is located. Every square foot makes money and is able to be sustainable. With all the above things in place we can provide zero carbon farming from seed to your table... Thank You.
 
