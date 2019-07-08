@@ -11,3 +11,7 @@ A deeply American story - about immigration and national identity, civil rights 
 The Chinese Exclusion Act, explores in riveting detail this little known, yet deeply resonant and revealing episode in American history - one that sheds enormous light on key aspects of the history of American civil liberties, immigration, and culture - during one of the most formative periods of U.S. history."
 
 Source: [https://shop.pbs.org/the-chinese-exclusion-act-dvd/product/AE61702](https://shop.pbs.org/the-chinese-exclusion-act-dvd/product/AE61702)
+
+## Chinese Americans in Oregon
+
+[https://oregonencyclopedia.org/articles/chinese_americans_in_oregon/#.XSNxh-hKi71](https://oregonencyclopedia.org/articles/chinese_americans_in_oregon/#.XSNxh-hKi71)
