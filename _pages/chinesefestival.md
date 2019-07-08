@@ -19,8 +19,8 @@ For the first time ever, our local Chinese community will be hosting a Chinese f
 | 10:45 | Guzheng Performance 10min  | Stoller Middle School Student, Cheery Zhang |
 | 11:00 | Lion Dancing 20min | Dragon & Lion Dance Team of [Lee's Association](http://www.leeondong.org/) |
 | 11:30 | Singing, Dancing & Wushu 60min | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-| 12:30 | Folk Dancing and Singing 40min | NW Chinese Dance Troupe |
-| 13:10 | Violin Solo 5min | Intel Chinese Employee Network |
+| 12:30 | Folk Dancing and Singing 50min | NW Chinese Dance Troupe |
+| 12:30 | Violin Solo 5min | Intel Chinese Employee Network |
 | 13:25 | Fashion Show 10min | [Oceana Blue Productions](http://oceanablueusa.com/) |
 | 13:30 | Traditional Musical Instruments 20min | Yat Sing Music Club |
 | 13:30 | Taiji 20min | Master Lin |
