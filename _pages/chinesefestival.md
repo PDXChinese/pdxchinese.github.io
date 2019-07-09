@@ -77,7 +77,8 @@ Hosting organizations or individuals will have their name tags with social media
 | [Sharetea](https://www.facebook.com/ShareteaBeavertonOR/) | Bubble Tea | Food Vendor |
 | [In J Coffee](https://www.injcoffee.com/) | Chinese Coffee with Chinese Cold Brew | Food Vendor |
 | [Yi Fang Fruit Tea](https://www.instagram.com/yifangtea.tw/) |Fruit Tea | Food Vendor |
-| more to join... |||
+| [Red Robe Tea House & Cafe](http://redrobeteahouse.com/)| Food and Tea | Food Vendor |
+| space is running out, join today... |||
 
 No signup available for the booths. The space is very limited as we will leave more space for activities. please contact us directly if you are interested. Type of vendors we are looking for includes NPOs, Chinese/Asian food, traditional crafts and clothing.
 
