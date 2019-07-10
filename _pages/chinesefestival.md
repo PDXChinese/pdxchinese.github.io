@@ -53,7 +53,6 @@ For the first time ever, our local Chinese community will be hosting a Chinese f
 | Cultural | [Chinese Caligraphy/毛笔字](https://youtu.be/w9zjsTDHCdM) | 6 |
 | | [Ink Painting/水墨画](https://youtu.be/aw4kEVDSx9A) | 6 |
 | | [Paper Cutting/剪纸](https://youtu.be/xB7GbPBNxPE) | 7 |
-| | [Handmade Figurines/面塑艺术](https://youtu.be/6SGuD0Lz9H8) | 8 |
 | | [Chinese Medicine/中医](https://youtu.be/icb6-xC1P-s) | 9 |
 | | [Costume Photo Booth/古装拍照](https://www.amazon.com/slp/chinese-traditional-clothes-for-kids/uyhyxwv4h9my8zp) | 10 |
 | | [Go/围棋](https://youtu.be/JWdgqV-8yVg) | 11 |
@@ -78,6 +77,7 @@ Hosting organizations or individuals will have their name tags with social media
 | [In J Coffee](https://www.injcoffee.com/) | Chinese Coffee with Chinese Cold Brew | Food Vendor |
 | [Yi Fang Fruit Tea](https://www.instagram.com/yifangtea.tw/) |Fruit Tea | Food Vendor |
 | [Red Robe Tea House & Cafe](http://redrobeteahouse.com/)| Food and Tea | Food Vendor |
+| [Hem 23](https://www.hem23.com/) | Vietnamese Food | Food Vendor |
 | space is running out, join today... |||
 
 No signup available for the booths. The space is very limited as we will leave more space for activities. please contact us directly if you are interested. Type of vendors we are looking for includes NPOs, Chinese/Asian food, traditional crafts and clothing.
