@@ -78,9 +78,7 @@ Hosting organizations or individuals will have their name tags with social media
 | [Yi Fang Fruit Tea](https://www.instagram.com/yifangtea.tw/) |Fruit Tea | Food Vendor |
 | [Red Robe Tea House & Cafe](http://redrobeteahouse.com/)| Food and Tea | Food Vendor |
 | [Hem 23](https://www.hem23.com/) | Vietnamese Food | Food Vendor |
-| space is running out, join today... |||
-
-No signup available for the booths. The space is very limited as we will leave more space for activities. please contact us directly if you are interested. Type of vendors we are looking for includes NPOs, Chinese/Asian food, traditional crafts and clothing.
+| [Ichiza Kitchen](https://www.ichizakitchen.com/) | Vegan Pan-Asian Cuisine | Food Vendor |
 
 ## Proud Sponsors
 
