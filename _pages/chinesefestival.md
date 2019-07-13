@@ -1,5 +1,5 @@
 ---
-title: "首届波特兰华人文化艺术节"
+title: "首届波特兰华人文化节"
 permalink: /chinesefestival/
 ---
 # 2019 Chinese Festival
