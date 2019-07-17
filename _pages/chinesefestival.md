@@ -35,7 +35,7 @@ For the first time ever, our local Chinese community will be hosting a Chinese f
 | 18:00 | Singing & Dancing 30min | [Northwest Chinese Academy](https://nwchineseacademy.org/) |
 | 18:30 | Folk Songs 30min | Vintage Chinese Singing Group/春之声组合 |
 | 19:00 | Singing & Dancing 60min | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) |
-| 20:00 | Conclusion |
+| 20:00 | Concluding Solo: Unforgettable | Min Min |
 
 ## Kids Friendly Hands-on Crafts and Activities
 
