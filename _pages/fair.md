@@ -143,7 +143,7 @@ All vendors' names and contacts info will be kept here till next year's communit
 
 **[Engineering for Kids](https://www.engineeringforkids.com/portland/)** We are passionate about our programs because we believe that early exposure to STEM education has a lasting impact on a child’s future. We put the excitement in STEM education by offering fun, hands-on learning for children ages 4 to 14.
 
-**[澜苏园/Lan Su Chinese Garden](http://www.lansugarden.org)** Lan Su Chinese Garden is a member based nonprofit organization. Lan Su is an authentic Chinese garden built by our sister city Suzhou China.
+**[兰苏园/Lan Su Chinese Garden](http://www.lansugarden.org)** Lan Su Chinese Garden is a member based nonprofit organization. Lan Su is an authentic Chinese garden built by our sister city Suzhou China.
 
 ## 公共区域讲座和演出安排，按照时间排序/Programs on Main Stage
 
