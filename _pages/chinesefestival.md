@@ -16,7 +16,6 @@ For the first time ever, our local Chinese community will be hosting a Chinese f
 
 | Time | Program | Presented By |
 | --- | --- | --- | ---: |
-| 10:45 | Guzheng Performance 10min  | Stoller Middle School Student, Cheery Zhang |
 | 11:00 | Lion Dancing 20min | Dragon & Lion Dance Team of [Lee's Association](http://www.leeondong.org/) |
 | 11:30 | Singing, Dancing & Wushu 60min | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 | 12:30 | Folk Dancing and Singing 50min | NW Chinese Dance Troupe |
