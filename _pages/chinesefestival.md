@@ -1,6 +1,9 @@
 ---
 title: "首届波特兰华人文化节"
 permalink: /chinesefestival/
+feature_row1:
+  - image_path: /assets/images/activities/tanhao.jpg
+    title: "Hao Tan, OHSU School of Medicine"
 ---
 # 2019 Chinese Festival
 
@@ -12,6 +15,11 @@ For the first time ever, our local Chinese community will be hosting a Chinese f
 **Place:** [<span style="color:blue">Pioneer Courthouse Square, Portland</span>](https://www.google.com/maps/place/Pioneer+Courthouse+Square/@45.5189095,-122.6795446,19.21z/data=!4m5!3m4!1s0x54950a051d703e13:0xfebc36dc49ec79c7!8m2!3d45.5189217!4d-122.6793478)  
 [Site Map](/assets/images/festival/sitemap.pdf)  :sparkles: <span style="color:green"> Free admission</span> :tada:  
 
+## Master of Ceremonies
+
+{% include feature_row id="feature_row1"%}
+
+{% include feature_row id="feature_row2"%}
 
 ## Committed Programs  
 w/ 200+ Performers  
