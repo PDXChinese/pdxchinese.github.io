@@ -14,7 +14,8 @@ For the first time ever, our local Chinese community will be hosting a Chinese f
 :sparkles: <span style="color:green"> Free admission</span> :tada:  
 
 
-## Committed Programs
+## Committed Programs  
+w/ 200+ Performers  
 
 | Time | Program | Presented By |
 | --- | --- | --- | ---: |
@@ -37,7 +38,8 @@ For the first time ever, our local Chinese community will be hosting a Chinese f
 | 19:00 | Singing & Dancing 60min | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) |
 | 20:00 | Concluding Solo: Unforgettable | Min Min |
 
-## Kids Friendly Hands-on Crafts and Activities
+## Kids Friendly Hands-on Crafts and Activities  
+w/ 100+ volunteers  
 
 | Category | Activity | Table |
 | --- | --- | ---: |
