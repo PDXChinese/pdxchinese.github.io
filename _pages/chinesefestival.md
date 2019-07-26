@@ -71,7 +71,7 @@ Hosting organizations or individuals will have their name tags with social media
 | Great Tang | Xian'r Bing | Food Vendor |
 | [Money Bowl](http://www.moneybowlpdx.com/) | Guilin Soup Noodle | Food Vendor |
 | [Sharetea](https://www.facebook.com/ShareteaBeavertonOR/) | Bubble Tea | Food Vendor |
-| [In J Coffee](https://www.injcoffee.com/) | Chinese Coffee with Chinese Cold Brew | Food Vendor |
+| [In J Coffee](https://www.injcoffee.com/) | Chinese Coffee with Cold Brew (Sampler) | Food Vendor |
 | [Yi Fang Fruit Tea](https://www.instagram.com/yifangtea.tw/) |Fruit Tea | Food Vendor |
 | [Red Robe Tea House & Cafe](http://redrobeteahouse.com/)| Food and Tea | Food Vendor |
 | [Hem 23](https://www.hem23.com/) | Vietnamese Food | Food Vendor |
