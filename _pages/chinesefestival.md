@@ -9,8 +9,9 @@ permalink: /chinesefestival/
 For the first time ever, our local Chinese community will be hosting a Chinese festival filled with non-stop entertainment, delicious Chinese food, fun activities and much more. We are excited to join the  [India Festival](http://www.icaportland.org/), [Festa Italiana](https://www.festa-italiana.org/), [Pan African Festival](http://www.panafricanfestivalor.org/), and [Celebration of Persian New Year](https://www.andisheh.org/events/norouz-2019/) to offer another splendid cultural event in the living room of Portland.
 
 **Date:** <span style="color:blue">August 3, 2019 (Saturday) 11am - 8pm </span>  
-**Place:** <span style="color:blue">Pioneer Courthouse Square, Portland</span>  
+**Place:** [<span style="color:blue">Pioneer Courthouse Square, Portland</span>](https://www.google.com/maps/place/Pioneer+Courthouse+Square/@45.5189095,-122.6795446,19.21z/data=!4m5!3m4!1s0x54950a051d703e13:0xfebc36dc49ec79c7!8m2!3d45.5189217!4d-122.6793478)  
 :sparkles: <span style="color:green"> Free admission</span> :tada:  
+Site Map
 
 ## Committed Programs
 
@@ -48,8 +49,8 @@ For the first time ever, our local Chinese community will be hosting a Chinese f
 | | [Klotski/华容道](https://youtu.be/VX5Jon2YdXQ) | 5 |
 | | [Tangram/七巧板](https://youtu.be/3S_JidggG6g) | 5 |
 | Cultural | [Chinese Caligraphy/毛笔字](https://youtu.be/w9zjsTDHCdM) | 1 |
-| | [Ink Painting/水墨画](https://youtu.be/aw4kEVDSx9A) | 1 |
-| | [Paper Cutting/剪纸](https://youtu.be/xB7GbPBNxPE) | 3 |
+| | [Ink Painting/水墨画](https://youtu.be/aw4kEVDSx9A) | 2 |
+| | [Paper Cutting/剪纸](https://youtu.be/xB7GbPBNxPE) | 2, 3 |
 | | [Chinese Medicine/中医](https://youtu.be/icb6-xC1P-s) | 7 |
 | | [Costume Photo Booth/古装拍照](https://www.amazon.com/slp/chinese-traditional-clothes-for-kids/uyhyxwv4h9my8zp) | 7 |
 | | [Clay Figurine/捏泥人](https://www.youtube.com/watch?v=Da6cfOlniPo) | 4 |
