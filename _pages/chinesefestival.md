@@ -3,7 +3,6 @@ title: "首届波特兰华人文化节"
 permalink: /chinesefestival/
 feature_row1:
   - image_path: /assets/images/activities/tanhao.jpg
-    title: "Hao Tan, OHSU School of Medicine"
 ---
 # 2019 Chinese Festival
 
