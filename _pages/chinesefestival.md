@@ -3,6 +3,8 @@ title: "首届波特兰华人文化节"
 permalink: /chinesefestival/
 feature_row1:
   - image_path: /assets/images/activities/tanhao.jpg
+feature_row2:
+  - image_path: /assets/images/members/Daphne-Wu.jpg
 ---
 # 2019 Chinese Festival
 
