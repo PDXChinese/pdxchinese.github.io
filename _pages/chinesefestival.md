@@ -53,7 +53,7 @@ w/ 100+ volunteers
 | | [Shuttlecock Kicking/踢毽子](https://youtu.be/fOn0DhvInSk) | Ground |
 | | [Turn Handkerchief/转手帕](https://youtu.be/qaxhg49elNg) | Ground |
 | | [Taiji/太极](https://youtu.be/Meq5j26QPWc) | Ground |
-| Brain Teaser | [Interlocking Rings/九连环](https://youtu.be/Twtzc7A9cN8) | 5 |
+| Brain Teaser | [China Ring/九连环](https://youtu.be/Twtzc7A9cN8) | 5 |
 | | [Burr Puzzle/鲁班锁](https://youtu.be/ueV1c9RHC4w?t=74) | 5 |
 | | [Klotski/华容道](https://youtu.be/VX5Jon2YdXQ) | 5 |
 | | [Tangram/七巧板](https://youtu.be/3S_JidggG6g) | 5 |

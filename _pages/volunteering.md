@@ -107,3 +107,5 @@ Address: 239 NW Everett St, Portland, OR 97209
 [Serve in Your Community](https://www.nationalservice.gov/serve)
 
 [List of local programs compiled by OES](https://www.oes.edu/student-life/service-learning/upper-school-service-learning)
+
+[HandsOn Greater Portland](https://www.handsonportland.org/)
