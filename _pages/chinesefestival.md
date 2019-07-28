@@ -4,7 +4,7 @@ permalink: /chinesefestival/
 feature_row1:
   - image_path: /assets/images/activities/tanhao.jpg
 feature_row2:
-  - image_path: /assets/images/activities/daphne.jpg
+  - image_path: /assets/images/activities/daphne1.jpg
   - image_path: /assets/images/activities/nancy.jpg
   - image_path: /assets/images/activities/jackie.jpg
 ---
