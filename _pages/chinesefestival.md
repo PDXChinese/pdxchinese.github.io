@@ -5,9 +5,7 @@ feature_row1:
   - image_path: /assets/images/activities/tanhao.jpg
 feature_row2:
   - image_path: /assets/images/members/Daphne-Wu.jpg
-feature_row2:
   - image_path: /assets/images/activities/nancy.jpg
-feature_row2:
   - image_path: /assets/images/activities/jackie.jpg
 ---
 # 2019 Chinese Festival
