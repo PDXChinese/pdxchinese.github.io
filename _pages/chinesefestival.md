@@ -5,8 +5,11 @@ feature_row1:
   - image_path: /assets/images/activities/tanhao.jpg
 feature_row2:
   - image_path: /assets/images/activities/jackie.jpg
+    title: "11am-2pm"
   - image_path: /assets/images/activities/daphne4.jpg
+    title: "2pm-5pm"
   - image_path: /assets/images/activities/nancy.jpg
+    title: "5pm-8pm"
 ---
 # 2019 Chinese Festival
 
