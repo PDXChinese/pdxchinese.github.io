@@ -4,9 +4,9 @@ permalink: /chinesefestival/
 feature_row1:
   - image_path: /assets/images/activities/tanhao.jpg
 feature_row2:
+  - image_path: /assets/images/activities/jackie.jpg
   - image_path: /assets/images/activities/daphne4.jpg
   - image_path: /assets/images/activities/nancy.jpg
-  - image_path: /assets/images/activities/jackie.jpg
 ---
 # 2019 Chinese Festival
 
@@ -110,6 +110,10 @@ Please help distribute [sponsorship flyer](/assets/images/festival/sponsorflyer.
 ## Contact Us
 
 Please contact us through our [Contact Us](http://pdxchinese.org/contact/) page or email to [festival@pdxchinese.org](mailto:festival@pdxchinese.org).
+
+## Media Coverage
+
+KGW Live Interview
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
