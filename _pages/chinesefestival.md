@@ -43,7 +43,7 @@ w/ 200+ Performers
 | 16:00 | Martial Arts 30min | [U.S. Wushu Center](https://uswushu.com/) |
 | 16:30 | Singing & Dancing 60min| Chinese Cultural Groups from Vancouver |
 | 17:30 | Folk Songs & Instruments 30min | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
-| 18:00 | Singing & Dancing 30min | [Northwest Chinese Academy](https://nwchineseacademy.org/) |
+| 18:10 | Rhythmic Gymnastics and Dance 20min | [Oregon Rhythmic Gymnastics and Dance](https://www.orgdacademy.com/) |
 | 18:30 | Folk Songs 30min | Vintage Chinese Singing Group/春之声组合 |
 | 19:00 | Singing & Dancing 60min | [Goodtime Chinese School](http://www.goodtimechineseschool.org/) |
 | 20:00 | Concluding Solo: Unforgettable | Min Min |
