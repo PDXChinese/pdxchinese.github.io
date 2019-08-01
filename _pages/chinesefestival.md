@@ -3,6 +3,7 @@ title: "首届波特兰华人文化节"
 permalink: /chinesefestival/
 feature_row1:
   - image_path: /assets/images/activities/tanhao.jpg
+    title: "11am-8pm"
 feature_row2:
   - image_path: /assets/images/activities/jackie.jpg
     title: "11am-2pm"
