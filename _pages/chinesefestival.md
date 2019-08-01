@@ -117,7 +117,8 @@ Please contact us through our [Contact Us](http://pdxchinese.org/contact/) page 
 
 ## Media Coverage
 
-KGW Live Interview
+KGW Live Interview  
+[Oregonian / Oregonlive](http://s.oregonlive.com/aNu9zFc)  
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
