@@ -37,7 +37,7 @@ w/ 200+ Performers
 | 11:30 | Singing, Dancing & Wushu 60min | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 | 12:30 | Folk Dancing and Singing 50min | NW Chinese Dance Troupe |
 | 12:30 | Violin Solo 5min | Intel Chinese Employee Network |
-| 13:25 | Fashion Show 10min | [Oceana Blue Productions](http://oceanablueusa.com/) |
+| 13:25 | Fashion Show 5min | [Oceana Blue Productions](http://oceanablueusa.com/) |
 | 13:30 | Taiji 25min | Master Lin |
 | 14:00 | Folk Songs 20min| Karaoke Singing Group |
 | 14:30 | Chinese Folk Dance 30min| [East Dream Dance/东方舞艺术团](http://www.eastdreamdance.org/index.html) |
