@@ -65,7 +65,7 @@ w/ 100+ volunteers
 | | [Burr Puzzle/鲁班锁](https://youtu.be/ueV1c9RHC4w?t=74) | 5 |
 | | [Klotski/华容道](https://youtu.be/VX5Jon2YdXQ) | 5 |
 | | [Tangram/七巧板](https://youtu.be/3S_JidggG6g) | 5 |
-| Cultural | [Chinese Caligraphy/毛笔字](https://youtu.be/w9zjsTDHCdM) | 1 |
+| Cultural | [Chinese Calligraphy/毛笔字](https://youtu.be/w9zjsTDHCdM) | 1 |
 | | [Ink Painting/水墨画](https://youtu.be/aw4kEVDSx9A) | 2 |
 | | [Paper Cutting/剪纸](https://youtu.be/xB7GbPBNxPE) | 2, 3 |
 | | [Chinese Medicine/中医](https://youtu.be/icb6-xC1P-s) | 7 |
