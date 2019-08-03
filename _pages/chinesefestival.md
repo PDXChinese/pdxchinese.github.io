@@ -116,8 +116,9 @@ Please contact us through our [Contact Us](http://pdxchinese.org/contact/) page 
 
 ## Media Coverage
 
-KGW Live Interview  
+[KGW Live Interview](https://www.kgw.com/video/life/first-ever-pdx-chinese-festival-on-the-square/283-21872975-6fee-4122-83d1-a83449b083f5)  
 [Oregonian / Oregonlive](http://s.oregonlive.com/aNu9zFc)  
+Portland State Vanguard 
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
