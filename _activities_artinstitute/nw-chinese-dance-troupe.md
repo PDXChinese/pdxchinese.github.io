@@ -13,6 +13,6 @@ sidebar:
   - title: "Website"
     text: ""
 ---
-Northwest Chinese Dance Troupe was founded in January 2017.All members received ballet training from Oregon International Ballet Academy. They focus on Chinese traditional dances and modern ballet. The Troupe also features a very experienced singer. Since its inception, they have been very active in the community activities. By the summer 2018, they will also represent Oregon Chinese Coalition to reach out to other communities as its cultural ambassador.
+Northwest Chinese Dance Troupe was founded in January 2017.All members received ballet training from Oregon International Ballet Academy. They focus on Chinese traditional dances and modern ballet. The Troupe also features a very experienced singer. Since its inception, they have been very active in the community activities. 
 
 ![]({{ site.url }}/assets/images/activities/nwcdt.jpg)
