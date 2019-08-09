@@ -11,7 +11,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 时间过得好快，刚从[文化节](http://pdxchinese.org/chinesefestival/)那天的极度疲劳中缓过些神儿来，上周六的活动已经是4天前的事情了。好在从那次活动中需要恢复的不是一个两个人，我想很多人都有这个问题，现在可以坐下来做小结了。很多话要说，但也不希望写成马拉松式的东西，尽可能用简短的语言把主要的都能概括住。
 
-![]({{ site.url }}/assets/images/465358765f610043a41d2c2557cb667f.jpg)
+![]({{ site.url }}/assets/images/39b7c0a60a13c0fd38844dcd13f9489b.jpg)
 
 ![]({{ site.url }}/assets/images/85ab41b52d4cc0370eff55375f2fd60d.jpg)
 
@@ -20,8 +20,6 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 从现场的反应到活动之后在微信群里面大家的发言，大家对举办这次活动都是抱着十分肯定的态度的。实际上，我们敢于做这件事，是源于我们经过过去三年多对社区的了解，那就是我们有这个能力，有足够的资源，更有万众一心的信念。当大家都为这次活动Wow的时候，相信很多人，尤其是组织者们，都是热泪盈眶，因为我们从参与的每一个人每一个团体那里深切感受到了大家对这个舞台的重视，对这个机会的珍惜，对我们理念的理解和支持。
 
 ![]({{ site.url }}/assets/images/33c3a8160a96d9edb6797eb3fe4651e1.jpg)
-
-![]({{ site.url }}/assets/images/39b7c0a60a13c0fd38844dcd13f9489b.jpg)
 
 首次在市中心广场举办的俄勒冈华人文化节获得了巨大的成功，彰显了华人励志走上主流舞台，希望进一步增进各族裔的文化交流，沟通，理解的决心。我们不妨再回头总结一下这次活动的几个基本定位。第一，我们要想把自己的声音完完整整发出去，就是要学会搭建我们自己的平台。第二，不再满足于自娱自乐，因为无论规模有多大，我们的影响力也只是在华人社区之内。第三，打破华人社区陋习，整个活动中没有“领导”讲话，没有“领导”为中心的合影，把舞台上的每一分钟都留给了肩负宣传文化使命的社区成员。第四，秉着下一代是我们社区未来的理念，尽可能把年轻人推向前台，敢于让他们担当重任。第五，去政治化，每一个参加活动的个人和团体，都是以社区成员身份出现在那里，演出和摊位的内容完全以文化作为唯一的主题。第六，非赢利性，除了食品摊位外，所有参加活动的个人团体，无论是大师还是世界冠军，全部都是义工。
 
@@ -62,8 +60,6 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 但是无论如何，还是要提到两个团体，一个是来自Corvallis的东方舞艺术团，这是我们社区活动中第一次邀请到Metro之外的华人团体，她们不仅克服了上面提到的团员不齐的问题，对远道而来从没有任何抱怨，只是一再表示能为文化节演出深感荣幸。另一个是高加敏老师的美国武术中心，高老师和女儿前一天刚从国内回来，因为航班的问题，在路途上耽搁了很长时间。旅途劳顿外加天气炎热让高老师的女儿在演出后突然出现了听力问题。高老师心情着急，但是除了一边按人中，还在安慰周边的人。恰巧陈静在旁边，帮助按摩穴位，这才逐渐恢复了听力，大家方如释重负。
 
 ![]({{ site.url }}/assets/images/c82c57a16c8e52b00acbe10b6f89f775.jpg)
-
-![]({{ site.url }}/assets/images/e236119ddebeb0e3beb0dcfde9e5a3eb.jpg)
 
 ![]({{ site.url }}/assets/images/2896aa6a3d85ae6a12c8a57597582834.jpg)
 
@@ -126,8 +122,6 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 ![]({{ site.url }}/assets/images/145bf7fd1fcbf0ea1b9f0b05c18afccd.jpg)
 
 ![]({{ site.url }}/assets/images/e824eecd39eb409b83a154cfd926f38e.jpg)
-
-![]({{ site.url }}/assets/images/663f6979911886220c43582d66fbde1f.jpg)
 
 ![]({{ site.url }}/assets/images/663f6979911886220c43582d66fbde1f.jpg)
 
