@@ -65,6 +65,8 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 ![]({{ site.url }}/assets/images/ffc56827b078d8e8edba188a774295fe.jpg)
 
+![]({{ site.url }}/assets/images/3bc9ec3c12f13b6242a3f9227c9e68a4.jpg)
+
 现在贴出来的是NW Chinese Dance Troupe的演出瞬间，单独提出来不仅仅是作为艺术指导的邵雯雯为了此次活动改变了全家旅行计划，更主要的是临危受命，接受邀请为刚刚成立的击鼓队编排动作并指挥操练。每次都是在舞蹈队练习结束后匆匆赶来，在大鼓声中只能是喊着纠正动作。我想大家也看到了她们的舞蹈队惊艳的演出和击鼓队气壮山河的动作。
 
 ![]({{ site.url }}/assets/images/618894f2c59216b50a7945830f86acff.jpg)
