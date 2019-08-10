@@ -31,8 +31,6 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 ![]({{ site.url }}/assets/images/f57146b3f99f75002f4cf5555d34996c.jpg)
 
-![]({{ site.url }}/assets/images/3ff63e8eba455898c85a10a99dae73d7.jpg)
-
 ![]({{ site.url }}/assets/images/d6fecb71eb8b85da88cde0acd900e512.jpg)
 
 每个到了现场的人都会罗列出几个甚至更多的精彩节目，的确在近9个小时的演出节目中，可以说是精彩纷呈，让现场观众眼花缭乱，应接不暇。但是，我要说的是，每一个节目在我眼里都是极其完美的，他们在台上表现出来的艺术水准和精神魅力都是无与伦比的，更能打动人们的是在这几个月准备过程中大家付出的努力和艰辛。
