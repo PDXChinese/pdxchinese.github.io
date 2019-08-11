@@ -118,7 +118,7 @@ Please contact us through our [Contact Us](http://pdxchinese.org/contact/) page 
 
 [KGW Live Interview](https://www.kgw.com/video/life/first-ever-pdx-chinese-festival-on-the-square/283-21872975-6fee-4122-83d1-a83449b083f5)  
 [Oregonian / Oregonlive](http://s.oregonlive.com/aNu9zFc)  
-[Portland State Vanguard](https://psuvanguard.com/oregon-chinese-coalition-hosts-chinese-festival/) 
+[Portland State Vanguard](https://psuvanguard.com/oregon-chinese-coalition-hosts-chinese-festival/)
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
@@ -129,3 +129,4 @@ Portland Chinatown Saturday performances ([5/14/2016](http://pdxchinese.org/chin
 [Chinatown Flash Mob](http://pdxchinese.org/chinatown/2016-12-21-flash-mob/) (12/21/2016)  
 [Chinatown Chinese New Year Celebration](http://pdxchinese.org/new-year-summary-2018/) (2/18/2018)  
 [Chinese Community Fair](http://pdxchinese.org/2018-community-fair-summary/) (4/14/2018)  
+[Chinese Festival](http://pdxchinese.org/chinese-festival-2019/)
