@@ -53,8 +53,6 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 Daniel Nguyen的发言非常的humble，因为有着移民身份背景，他的经历如同一面镜子，让我们有很多的地方值得学习和思考。他进入City Council还只有半年，马上就意识到Youth Advisory Board的重要性，这也是我们在社区青少年各种聚会中不断提醒大家的一个方面。中场休息的时候，我们私下就这个问题又做了交谈，期待尽快有机会商谈如何为社区青少年提供更多参与社区活动的机会。
 
-![]({{ site.url }}/assets/images/e5b2593fda0b8ef023c802a0f640c63a.jpg)
-
 ![]({{ site.url }}/assets/images/698850d48959660bfffbf433cefc5611.jpg)
 
 ![]({{ site.url }}/assets/images/d57c27f0753d4b13d7661292fac15a26.jpg)
