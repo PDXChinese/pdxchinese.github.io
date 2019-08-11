@@ -4,6 +4,26 @@ title: "华裔青少年年会资料汇总"
 
 链接只分享给与会者 (Only accessible to the event participants)
 
+## 2019年青少年年会
+
+### Presentations
+
+[Dr. William Toepper：Portland Street Medicine](/assets/pdf/toepper_ppt.pdf) (Please do not distribute before obtaining explicit permission from Dr. Toepper)
+
+[https://youtu.be/Z2htIm2d3kQ](https://youtu.be/Z2htIm2d3kQ)  
+[https://youtu.be/EjUk3CniQSc](https://youtu.be/EjUk3CniQSc)  
+
+### Voice of Civic Engagement Award
+
+Jenell Theobld, Whitford Middle School
+
+### Youth Empowerment Award
+
+Marshal Xu, Junior at Lincoln High School  
+Beats of Bethany, Volunteering project of young musicians, founded in 2017.    
+
+![]({{ site.url }}/assets/images/divider.jpg)
+
 ## 2018年青少年年会
 
 ### Presentations
@@ -16,8 +36,6 @@ Aaron Sha, Jesuit High School, Class 2018
 
 ### Youth Empowerment Award
 
-Lindsey Lee, rising Sophomore at David Douglas High School
-
-Kevin Jin, rising Senior at Sunset High School
-
-Elaine Yang, rising Senior at Sunset High School
+Lindsey Lee, rising Sophomore at David Douglas High School  
+Kevin Jin, rising Senior at Sunset High School  
+Elaine Yang, rising Senior at Sunset High School  
