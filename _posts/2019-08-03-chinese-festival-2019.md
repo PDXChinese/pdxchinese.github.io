@@ -15,6 +15,8 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 ![]({{ site.url }}/assets/images/85ab41b52d4cc0370eff55375f2fd60d.jpg)
 
+![]({{ site.url }}/assets/images/0040ab2a719d841a7e16ef08a971f372.jpg)
+
 ![]({{ site.url }}/assets/images/5e2bebbb90cb4174f514ec8f72c1d518.jpg)
 
 从现场的反应到活动之后在微信群里面大家的发言，大家对举办这次活动都是抱着十分肯定的态度的。实际上，我们敢于做这件事，是源于我们经过过去三年多对社区的了解，那就是我们有这个能力，有足够的资源，更有万众一心的信念。当大家都为这次活动Wow的时候，相信很多人，尤其是组织者们，都是热泪盈眶，因为我们从参与的每一个人每一个团体那里深切感受到了大家对这个舞台的重视，对这个机会的珍惜，对我们理念的理解和支持。
