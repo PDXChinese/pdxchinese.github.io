@@ -96,9 +96,9 @@ Hosting organizations or individuals will have their name tags with social media
 
 ## Nonprofit Lineup
 
-| [Lan Su Chinese Garden](https://lansugarden.org/) |
-| [Chinese American Citizens Alliance (CACA)](https://www.cacaportland.com/) |
-| [Portland Chinatown Museum](https://www.portlandchinatownmuseum.org/) |
+[Lan Su Chinese Garden](https://lansugarden.org/)  
+[Chinese American Citizens Alliance (CACA)](https://www.cacaportland.com/)  
+[Portland Chinatown Museum](https://www.portlandchinatownmuseum.org/)  
 
 ## Proud Sponsors
 
