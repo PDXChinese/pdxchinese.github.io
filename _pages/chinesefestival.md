@@ -84,15 +84,21 @@ Hosting organizations or individuals will have their name tags with social media
 
 ## Food Vendor Lineup
 
-| Name | Description |Section |
+| Name | Category |
 | --- | --- |
-| [Great Tang](http://greattang.gt/) | Xian'r Bing | Food Vendor |
-| [Money Bowl](http://www.moneybowlpdx.com/) | Guilin Soup Noodle | Food Vendor |
-| [Sharetea](https://www.facebook.com/ShareteaBeavertonOR/) | Bubble Tea | Food Vendor |
-| [In J Coffee](https://www.injcoffee.com/) | Chinese Coffee with Cold Brew (Sampler) | Food Vendor |
-| [Yi Fang Fruit Tea](https://www.instagram.com/yifangtea.tw/) |Fruit Tea | Food Vendor |
-| [Red Robe Tea House & Cafe](http://redrobeteahouse.com/)| Food and Tea | Food Vendor |
-| [Hem 23](https://www.hem23.com/) | Vietnamese Food | Food Vendor |
+| [Great Tang](http://greattang.gt/) | Xian'r Bing |
+| [Money Bowl](http://www.moneybowlpdx.com/) | Guilin Soup Noodle |
+| [Sharetea](https://www.facebook.com/ShareteaBeavertonOR/) | Bubble Tea |
+| [In J Coffee](https://www.injcoffee.com/) | Chinese Coffee with Cold Brew (Sampler) |
+| [Yi Fang Fruit Tea](https://www.instagram.com/yifangtea.tw/) |Fruit Tea |
+| [Red Robe Tea House & Cafe](http://redrobeteahouse.com/)| Food and Tea |
+| [Hem 23](https://www.hem23.com/) | Vietnamese Food |
+
+## Nonprofit Lineup
+
+| [Lan Su Chinese Garden](https://lansugarden.org/) |
+| [Chinese American Citizens Alliance (CACA)](https://www.cacaportland.com/) |
+| [Portland Chinatown Museum](https://www.portlandchinatownmuseum.org/) |
 
 ## Proud Sponsors
 
@@ -129,4 +135,4 @@ Portland Chinatown Saturday performances ([5/14/2016](http://pdxchinese.org/chin
 [Chinatown Flash Mob](http://pdxchinese.org/chinatown/2016-12-21-flash-mob/) (12/21/2016)  
 [Chinatown Chinese New Year Celebration](http://pdxchinese.org/new-year-summary-2018/) (2/18/2018)  
 [Chinese Community Fair](http://pdxchinese.org/2018-community-fair-summary/) (4/14/2018)  
-[2019 Chinese Festival](http://pdxchinese.org/chinese-festival-2019/) (8/7/2019)  
+[2019 Chinese Festival Recap](http://pdxchinese.org/chinese-festival-2019/) (8/7/2019)  
