@@ -12,100 +12,132 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 时间过得好快，刚从[文化节](http://pdxchinese.org/chinesefestival/)那天的极度疲劳中缓过些神儿来，上周六的活动已经是4天前的事情了。好在从那次活动中需要恢复的不是一个两个人，我想很多人都有这个问题，现在可以坐下来做小结了。很多话要说，但也不希望写成马拉松式的东西，尽可能用简短的语言把主要的都能概括住。
 
 ![]({{ site.url }}/assets/images/39b7c0a60a13c0fd38844dcd13f9489b.jpg)  
-Festival Photo 001  
+Chinese Festival Photo 001  
 
 ![]({{ site.url }}/assets/images/85ab41b52d4cc0370eff55375f2fd60d.jpg)  
-Festival Photo 002  
+Chinese Festival Photo 002  
 
 ![]({{ site.url }}/assets/images/0040ab2a719d841a7e16ef08a971f372.jpg)  
-Festival Photo 003  
+Chinese Festival Photo 003  
 
 ![]({{ site.url }}/assets/images/5e2bebbb90cb4174f514ec8f72c1d518.jpg)  
-Festival Photo 004  
+Chinese Festival Photo 004  
 
 从现场的反应到活动之后在微信群里面大家的发言，大家对举办这次活动都是抱着十分肯定的态度的。实际上，我们敢于做这件事，是源于我们经过过去三年多对社区的了解，那就是我们有这个能力，有足够的资源，更有万众一心的信念。当大家都为这次活动Wow的时候，相信很多人，尤其是组织者们，都是热泪盈眶，因为我们从参与的每一个人每一个团体那里深切感受到了大家对这个舞台的重视，对这个机会的珍惜，对我们理念的理解和支持。
 
-![]({{ site.url }}/assets/images/33c3a8160a96d9edb6797eb3fe4651e1.jpg)
+![]({{ site.url }}/assets/images/33c3a8160a96d9edb6797eb3fe4651e1.jpg)  
+Chinese Festival Photo 005  
 
 首次在市中心广场举办的俄勒冈华人文化节获得了巨大的成功，彰显了华人励志走上主流舞台，希望进一步增进各族裔的文化交流，沟通，理解的决心。我们不妨再回头总结一下这次活动的几个基本定位。第一，我们要想把自己的声音完完整整发出去，就是要学会搭建我们自己的平台。第二，不再满足于自娱自乐，因为无论规模有多大，我们的影响力也只是在华人社区之内。第三，打破华人社区陋习，整个活动中没有“领导”讲话，没有“领导”为中心的合影，把舞台上的每一分钟都留给了肩负宣传文化使命的社区成员。第四，秉着下一代是我们社区未来的理念，尽可能把年轻人推向前台，敢于让他们担当重任。第五，去政治化，每一个参加活动的个人和团体，都是以社区成员身份出现在那里，演出和摊位的内容完全以文化作为唯一的主题。第六，非赢利性，除了食品摊位外，所有参加活动的个人团体，无论是大师还是世界冠军，全部都是义工。
 
 在所有这些问题上，感谢大家的理解和支持，我们基本上都做到了。我想这也是赢得社区内外为这次文化节喝彩点赞的一个深层原因。
 
 ![]({{ site.url }}/assets/images/d923659af22b54605f7b729dc69cfdc6.jpg)
+Chinese Festival Photo 006  
 
-![]({{ site.url }}/assets/images/75c5e210dc2275a438ecd3eaf31b5548.jpg)
+![]({{ site.url }}/assets/images/75c5e210dc2275a438ecd3eaf31b5548.jpg)  
+Chinese Festival Photo 007  
 
-![]({{ site.url }}/assets/images/f57146b3f99f75002f4cf5555d34996c.jpg)
+![]({{ site.url }}/assets/images/f57146b3f99f75002f4cf5555d34996c.jpg)  
+Chinese Festival Photo 008  
 
-![]({{ site.url }}/assets/images/d6fecb71eb8b85da88cde0acd900e512.jpg)
+![]({{ site.url }}/assets/images/d6fecb71eb8b85da88cde0acd900e512.jpg)  
+Chinese Festival Photo 009  
 
 每个到了现场的人都会罗列出几个甚至更多的精彩节目，的确在近9个小时的演出节目中，可以说是精彩纷呈，让现场观众眼花缭乱，应接不暇。但是，我要说的是，每一个节目在我眼里都是极其完美的，他们在台上表现出来的艺术水准和精神魅力都是无与伦比的，更能打动人们的是在这几个月准备过程中大家付出的努力和艰辛。
 
-![]({{ site.url }}/assets/images/51ff3a7a3debf04cc38fcf3ff4a518aa.jpg)
+![]({{ site.url }}/assets/images/51ff3a7a3debf04cc38fcf3ff4a518aa.jpg)  
+Chinese Festival Photo 010  
 
-![]({{ site.url }}/assets/images/b3e893023ada9327028cb581a79848d0.jpg)
+![]({{ site.url }}/assets/images/b3e893023ada9327028cb581a79848d0.jpg)  
+Chinese Festival Photo 011  
 
-![]({{ site.url }}/assets/images/75d89eb64f39608d3cdc13398fac77d8.jpg)
+![]({{ site.url }}/assets/images/75d89eb64f39608d3cdc13398fac77d8.jpg)  
+Chinese Festival Photo 012  
 
-![]({{ site.url }}/assets/images/015526672a68fb50c7593f91d39a5347.jpg)
+![]({{ site.url }}/assets/images/015526672a68fb50c7593f91d39a5347.jpg)  
+Chinese Festival Photo 013  
 
 因为是在人们度假或回国探亲集中的月份，作为演出团体，最大的挑战就是有太多的队员缺席，在决定参加演出的队员中，每次排练也都是很难全体到场。很多团体都是到了最后一次彩排所有的队员才到齐了。这个也是我们作为组织者决定举办这个活动最为头疼的一个方面，去年我们放弃了，今年我们不想再错过，决定把场地定金先交了，然后再开始做动员组织工作。。。完全没有想到的是，在短短一两个星期，9个小时演出时段被“瓜分一空”，最后时间还有些不够了，这可真的是 is good to have such headache!
 
-![]({{ site.url }}/assets/images/6649b4e9ec82740a920bbd3efcdc1757.jpg)
+![]({{ site.url }}/assets/images/6649b4e9ec82740a920bbd3efcdc1757.jpg)  
+Chinese Festival Photo 014  
 
-![]({{ site.url }}/assets/images/ec2f77cea925e100ec25481c6d71b430.jpg)
+![]({{ site.url }}/assets/images/ec2f77cea925e100ec25481c6d71b430.jpg)  
+Chinese Festival Photo 015  
 
-![]({{ site.url }}/assets/images/712b6baf28802bd460111c55ceece338.jpg)
+![]({{ site.url }}/assets/images/712b6baf28802bd460111c55ceece338.jpg)  
+Chinese Festival Photo 016  
 
-![]({{ site.url }}/assets/images/7e4dfbe7904ae2d39a663151b7483bc0.jpg)
+![]({{ site.url }}/assets/images/7e4dfbe7904ae2d39a663151b7483bc0.jpg)  
+Chinese Festival Photo 017  
 
-![]({{ site.url }}/assets/images/4e16b0d01af46a41d955a1b7307e51f2.jpg)
+![]({{ site.url }}/assets/images/4e16b0d01af46a41d955a1b7307e51f2.jpg)  
+Chinese Festival Photo 018  
 
 但是无论如何，还是要提到两个团体，一个是来自Corvallis的东方舞艺术团，这是我们社区活动中第一次邀请到Metro之外的华人团体，她们不仅克服了上面提到的团员不齐的问题，对远道而来从没有任何抱怨，只是一再表示能为文化节演出深感荣幸。另一个是高加敏老师的美国武术中心，高老师和女儿前一天刚从国内回来，因为航班的问题，在路途上耽搁了很长时间。旅途劳顿外加天气炎热让高老师的女儿在演出后突然出现了听力问题。高老师心情着急，但是除了一边按人中，还在安慰周边的人。恰巧陈静在旁边，帮助按摩穴位，这才逐渐恢复了听力，大家方如释重负。
 
-![]({{ site.url }}/assets/images/c82c57a16c8e52b00acbe10b6f89f775.jpg)
+![]({{ site.url }}/assets/images/c82c57a16c8e52b00acbe10b6f89f775.jpg)  
+Chinese Festival Photo 019  
 
-![]({{ site.url }}/assets/images/2896aa6a3d85ae6a12c8a57597582834.jpg)
+![]({{ site.url }}/assets/images/2896aa6a3d85ae6a12c8a57597582834.jpg)  
+Chinese Festival Photo 020  
 
-![]({{ site.url }}/assets/images/ffc56827b078d8e8edba188a774295fe.jpg)
+![]({{ site.url }}/assets/images/ffc56827b078d8e8edba188a774295fe.jpg)  
+Chinese Festival Photo 021  
 
-![]({{ site.url }}/assets/images/3bc9ec3c12f13b6242a3f9227c9e68a4.jpg)
+![]({{ site.url }}/assets/images/3bc9ec3c12f13b6242a3f9227c9e68a4.jpg)  
+Chinese Festival Photo 022  
 
 现在贴出来的是NW Chinese Dance Troupe的演出瞬间，单独提出来不仅仅是作为艺术指导的邵雯雯为了此次活动改变了全家旅行计划，更主要的是临危受命，接受邀请为刚刚成立的击鼓队编排动作并指挥操练。每次都是在舞蹈队练习结束后匆匆赶来，在大鼓声中只能是喊着纠正动作。我想大家也看到了她们的舞蹈队惊艳的演出和击鼓队气壮山河的动作。
 
-![]({{ site.url }}/assets/images/618894f2c59216b50a7945830f86acff.jpg)
+![]({{ site.url }}/assets/images/618894f2c59216b50a7945830f86acff.jpg)  
+Chinese Festival Photo 023  
 
-![]({{ site.url }}/assets/images/8ee29b154fb088d6d03d9f15deb14673.jpg)
+![]({{ site.url }}/assets/images/8ee29b154fb088d6d03d9f15deb14673.jpg)  
+Chinese Festival Photo 024  
 
-![]({{ site.url }}/assets/images/9bd25e57ba6a3291c564125005087662.jpg)
+![]({{ site.url }}/assets/images/9bd25e57ba6a3291c564125005087662.jpg)  
+Chinese Festival Photo 025  
 
-![]({{ site.url }}/assets/images/da02df483159e0bee6d1e9d9e796444e.jpg)
+![]({{ site.url }}/assets/images/da02df483159e0bee6d1e9d9e796444e.jpg)  
+Chinese Festival Photo 026  
 
 上面是我们这次文化节非常unique的部分，就是由义工们负责的动手活动。从照片上看每一项活动都吸引很多游人，尤其是孩子们。值得一提的是，我们为文化节特意制作了50个义工胸牌，因为按照三个时段，每个时段应该在30人左右。没想到开场没几分钟，所有的胸牌就发完了，我们忘了开场前的准备部分的义工就有20人之多。这是我们在现场遇到的第一个glitch。
 
 位于舞台东侧的帐篷，朝外是此次活动的信息中心，朝内则是舞台监督和音响控制。因为我的失误，把大家的分工做了错误的定位。活动前花了大量的功夫为我们的四位主持写流程和需要的主持词，却忘了和担当舞台监督的春香老师沟通，她手里的节目单和我的安排不是一个版本，结果是苦了四位年轻主持，更苦了春香老师。好在春香老师经验丰富，临危不惧，和一旁的刘鸽将一个一个险情逐一排除掉。这在很大程度上归功于刘鸽在活动前做了的大量工作，不仅收集了所有演出节目的配乐，而且全部转换成MP3文件，而且从头到尾听了一遍，这就等于自己对文化节做了一次彩排。
 
-![]({{ site.url }}/assets/images/d6fc6d5040d77d8f9b8f444df75a8b29.jpg)
+![]({{ site.url }}/assets/images/d6fc6d5040d77d8f9b8f444df75a8b29.jpg)  
+Chinese Festival Photo 027  
 
-![]({{ site.url }}/assets/images/4c0a26c4634ed6e04761b8ed3088917f.jpg)
+![]({{ site.url }}/assets/images/4c0a26c4634ed6e04761b8ed3088917f.jpg)  
+Chinese Festival Photo 028  
 
-![]({{ site.url }}/assets/images/0040ab2a719d841a7e16ef08a971f373.jpg)
+![]({{ site.url }}/assets/images/0040ab2a719d841a7e16ef08a971f373.jpg)  
+Chinese Festival Photo 029  
 
-![]({{ site.url }}/assets/images/25d4ec921d6be6db5c277ddb354dc9d8.jpg)
+![]({{ site.url }}/assets/images/25d4ec921d6be6db5c277ddb354dc9d8.jpg)  
+Chinese Festival Photo 030  
 
-![]({{ site.url }}/assets/images/24ceddd1e866d02298036c7a7fdee925.jpg)
+![]({{ site.url }}/assets/images/24ceddd1e866d02298036c7a7fdee925.jpg)  
+Chinese Festival Photo 031  
 
 再说音响，在活动前大家对音响在室外的效果都很担心，加上市政府对室外噪音的控制（70分贝），不知道如何设置最为理想。我第一个联系到了梁风（风子），知道他生意不错，活儿很多，但没想到他一口应承下来。今天才知道，他为此把全家的露营安排也给改了。后来和春香老师见面，春香老师不仅答应做舞台监督，还满口答应出借她的专业级音响和麦克。再后来去参加K歌群活动，张光超特意赶过去和我见面，一是告诉我Gary Lin（新成立的福建商会会长）已经接受风子相邀，共同负责音响控制，同时老张建议把他的音响，加上Gary的音响也带过去，这样有三套音响作保障。结果是现场的外侧的两个主音箱是春香老师的，里面的两个副音响是Gary的。Gary和风子的公子负责音响操作，风子负责设备维护。在这个帐篷下面的所有义工都是从头到尾坚持在那里，知道每个人最后都是极度疲劳。
 
-![]({{ site.url }}/assets/images/ea7b0c5c55ad57859d7ef6b413aaadc1.jpg)
+![]({{ site.url }}/assets/images/ea7b0c5c55ad57859d7ef6b413aaadc1.jpg)  
+Chinese Festival Photo 032  
 
-![]({{ site.url }}/assets/images/4bb9f26847b9f5ff0184c502309fc713.jpg)
+![]({{ site.url }}/assets/images/4bb9f26847b9f5ff0184c502309fc713.jpg)  
+Chinese Festival Photo 033  
 
-![]({{ site.url }}/assets/images/61831cf4248214840d379b1abe7dc11e.jpg)
+![]({{ site.url }}/assets/images/61831cf4248214840d379b1abe7dc11e.jpg)  
+Chinese Festival Photo 034  
 
-![]({{ site.url }}/assets/images/4b433c81ee9b01fe254fedf0e7ce5535.jpg)
+![]({{ site.url }}/assets/images/4b433c81ee9b01fe254fedf0e7ce5535.jpg)  
+Chinese Festival Photo 035  
 
-![]({{ site.url }}/assets/images/f8b1d856218f9f15f59e64bc75495ed0.jpg)
+![]({{ site.url }}/assets/images/f8b1d856218f9f15f59e64bc75495ed0.jpg)  
+Chinese Festival Photo 036  
 
 马上上击鼓队的演出照片了，场面非常的震撼，大家都觉得时间太短，不够过瘾。不过放到计算机上作为桌面，效果肯定不错，每天看着都会让血流加快许多。
 
@@ -113,59 +145,84 @@ Festival Photo 004
 
 孩子们的鼓槌飞起来了，我的腰却接受了考验，每次搬起24寸大鼓，后腰的承受压力还是蛮大的。几次下来，我已经感到了不适。所以，为大鼓和大鼓队找到长期的场地现在变得急迫了起来。我们希望是更多的孩子们（和家长们）在看到这次演出后也想来体验一番，甚至能加入到大鼓队中来。今后我们的动作会更多，编排也会多样。相信明年文化节上，我们的大鼓节目一定会更加壮观。
 
-![]({{ site.url }}/assets/images/34dfbd1245daa96c9056498a9bad3b5f.jpg)
+![]({{ site.url }}/assets/images/34dfbd1245daa96c9056498a9bad3b5f.jpg)  
+Chinese Festival Photo 037  
 
-![]({{ site.url }}/assets/images/50feb0b01941b74a72808399e07bb823.jpg)
+![]({{ site.url }}/assets/images/50feb0b01941b74a72808399e07bb823.jpg)  
+Chinese Festival Photo 038  
 
-![]({{ site.url }}/assets/images/f51cf8af6fef2a7fcd4d9efe51fd12d7.jpg)
+![]({{ site.url }}/assets/images/f51cf8af6fef2a7fcd4d9efe51fd12d7.jpg)  
+Chinese Festival Photo 039  
 
-![]({{ site.url }}/assets/images/532eed46e20ac7114cbe2788a8b51422.jpg)
+![]({{ site.url }}/assets/images/532eed46e20ac7114cbe2788a8b51422.jpg)  
+Chinese Festival Photo 040  
 
-![]({{ site.url }}/assets/images/135938f75b434e0f816ac0a3af841b46.jpg)
+![]({{ site.url }}/assets/images/135938f75b434e0f816ac0a3af841b46.jpg)  
+Chinese Festival Photo 041  
 
-![]({{ site.url }}/assets/images/305af38534e888d9c230fe324bdb017e.jpg)
+![]({{ site.url }}/assets/images/305af38534e888d9c230fe324bdb017e.jpg)  
+Chinese Festival Photo 042  
 
-![]({{ site.url }}/assets/images/30e78292622c92bcfdc005e92db44e23.jpg)
+![]({{ site.url }}/assets/images/30e78292622c92bcfdc005e92db44e23.jpg)  
+Chinese Festival Photo 043  
 
-![]({{ site.url }}/assets/images/39a959cda908b61f71726adbd62570ec.jpg)
+![]({{ site.url }}/assets/images/39a959cda908b61f71726adbd62570ec.jpg)  
+Chinese Festival Photo 044  
 
-![]({{ site.url }}/assets/images/145bf7fd1fcbf0ea1b9f0b05c18afccd.jpg)
+![]({{ site.url }}/assets/images/145bf7fd1fcbf0ea1b9f0b05c18afccd.jpg)  
+Chinese Festival Photo 045  
 
-![]({{ site.url }}/assets/images/3d1772de04fe460e575d509b7510ca07.temp.jpg)
+![]({{ site.url }}/assets/images/3d1772de04fe460e575d509b7510ca07.temp.jpg)  
+Chinese Festival Photo 046  
 
-![]({{ site.url }}/assets/images/e824eecd39eb409b83a154cfd926f38e.jpg)
+![]({{ site.url }}/assets/images/e824eecd39eb409b83a154cfd926f38e.jpg)  
+Chinese Festival Photo 047  
 
-![]({{ site.url }}/assets/images/663f6979911886220c43582d66fbde1f.jpg)
+![]({{ site.url }}/assets/images/663f6979911886220c43582d66fbde1f.jpg)  
+Chinese Festival Photo 048  
 
-![]({{ site.url }}/assets/images/56e819dc40f27dd9ed99e3a775fe5ff4.jpg)
+![]({{ site.url }}/assets/images/56e819dc40f27dd9ed99e3a775fe5ff4.jpg)  
+Chinese Festival Photo 049  
 
-![]({{ site.url }}/assets/images/6e537723f76ed5e0d6254d5c79b35c77.jpg)
+![]({{ site.url }}/assets/images/6e537723f76ed5e0d6254d5c79b35c77.jpg)  
+Chinese Festival Photo 050  
 
-![]({{ site.url }}/assets/images/d95eea6609b23f99e4d32a7d3b4e6c81.jpg)
+![]({{ site.url }}/assets/images/d95eea6609b23f99e4d32a7d3b4e6c81.jpg)  
+Chinese Festival Photo 051  
 
-![]({{ site.url }}/assets/images/f59a3aa1d49d9653589d93286f2ca049.jpg)
+![]({{ site.url }}/assets/images/f59a3aa1d49d9653589d93286f2ca049.jpg)  
+Chinese Festival Photo 052  
 
-![]({{ site.url }}/assets/images/152b5440229cb9abc167e8ea16dafac2.jpg)
+![]({{ site.url }}/assets/images/152b5440229cb9abc167e8ea16dafac2.jpg)  
+Chinese Festival Photo 053  
 
 上面这张是此次活动中唯一安排上台演讲的人
 
 Jenell Theobld, a Whitford Summa student, supports Neurodiverse Children by founding a nonprofit, Let’s Peer it Up. She spoke at 2019 Elks Oregon State Convention on April 27 and received a standing ovation for her work.
 
-![]({{ site.url }}/assets/images/c5d706cd533229cbddb81799d25bf578.jpg)
+![]({{ site.url }}/assets/images/c5d706cd533229cbddb81799d25bf578.jpg)  
+Chinese Festival Photo 054  
 
-![]({{ site.url }}/assets/images/e7fda9a6c74d7208307ddb8614909e78.jpg)
+![]({{ site.url }}/assets/images/e7fda9a6c74d7208307ddb8614909e78.jpg)  
+Chinese Festival Photo 055  
 
-![]({{ site.url }}/assets/images/3f0d2e7210bc0eadf88acc70c54f80e8.jpg)
+![]({{ site.url }}/assets/images/3f0d2e7210bc0eadf88acc70c54f80e8.jpg)  
+Chinese Festival Photo 056  
 
-![]({{ site.url }}/assets/images/99966fef2a52a6041b273e749798d3e0.jpg)
+![]({{ site.url }}/assets/images/99966fef2a52a6041b273e749798d3e0.jpg)  
+Chinese Festival Photo 057  
 
-![]({{ site.url }}/assets/images/73b98f87e9be5d1a480524c2dd3e1139.jpg)
+![]({{ site.url }}/assets/images/73b98f87e9be5d1a480524c2dd3e1139.jpg)  
+Chinese Festival Photo 058  
 
-![]({{ site.url }}/assets/images/14e2a20c56c8ca50ba7924defb40b35f.jpg)
+![]({{ site.url }}/assets/images/14e2a20c56c8ca50ba7924defb40b35f.jpg)  
+Chinese Festival Photo 059  
 
-![]({{ site.url }}/assets/images/b44316ba000e1e8ce22378200bf8e56f.jpg)
+![]({{ site.url }}/assets/images/b44316ba000e1e8ce22378200bf8e56f.jpg)  
+Chinese Festival Photo 060  
 
-![]({{ site.url }}/assets/images/618e881b9ff4060523f958f8907989e6.jpg)
+![]({{ site.url }}/assets/images/618e881b9ff4060523f958f8907989e6.jpg)  
+Chinese Festival Photo 061  
 
 前面说到高老师不顾旅途劳累率队参加文化节演出，实际上我和高老师的对话持续了好几个月了，高老师不仅满腔热情支持这项活动，而且希望能将演出定位在高水平上。为此我们专门加大了舞台，但是最后还是发生了此次活动最大的glitch，现场的舞台台面太硬太滑，使得很多队员，也包括后面上台的Oregon Rhythmic Gymnastics and Dance队员，在演出中出现了皮肤擦伤的问题。在此向两个学校参演的学生们做出诚挚的道歉。活动结束后，已经和舞台公司做了沟通，当天搭建的舞台是他们最新的式样，以后再有活动可以专门提供更为合适的带有地毯的舞台供我们使用。
 
