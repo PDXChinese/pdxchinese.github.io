@@ -230,69 +230,96 @@ Chinese Festival Photo 061
 
 另外在等文旸的照片，她刚搬来社区，提前一天主动联系我愿意为活动拍照，至少前半部分我们会有比较专业的照片。回头她整理完了后，会传上来与大家分享。
 
-![]({{ site.url }}/assets/images/80605f8255c20829ae0f2a01c86f5646.jpg)
+![]({{ site.url }}/assets/images/80605f8255c20829ae0f2a01c86f5646.jpg)  
+Chinese Festival Photo 062  
 
-![]({{ site.url }}/assets/images/474d6587b9c840e23fb21f54d0209179.jpg)
+![]({{ site.url }}/assets/images/474d6587b9c840e23fb21f54d0209179.jpg)  
+Chinese Festival Photo 063  
 
-![]({{ site.url }}/assets/images/272b182dde114d107aa0d3483c83f668.jpg)
+![]({{ site.url }}/assets/images/272b182dde114d107aa0d3483c83f668.jpg)  
+Chinese Festival Photo 064  
 
-![]({{ site.url }}/assets/images/af3524cd2e5a156c5b723c12828f787c.jpg)
+![]({{ site.url }}/assets/images/af3524cd2e5a156c5b723c12828f787c.jpg)  
+Chinese Festival Photo 065  
 
-![]({{ site.url }}/assets/images/4dbf42b1a6ab819365978486211e2bc1.jpg)
+![]({{ site.url }}/assets/images/4dbf42b1a6ab819365978486211e2bc1.jpg)  
+Chinese Festival Photo 066  
 
-![]({{ site.url }}/assets/images/f2bfcab162f25617f2f4aa6571acd4d2.jpg)
+![]({{ site.url }}/assets/images/f2bfcab162f25617f2f4aa6571acd4d2.jpg)  
+Chinese Festival Photo 067  
 
-![]({{ site.url }}/assets/images/2d36179d39ae07f0625351b03bfd0877.jpg)
+![]({{ site.url }}/assets/images/2d36179d39ae07f0625351b03bfd0877.jpg)  
+Chinese Festival Photo 068  
 
-![]({{ site.url }}/assets/images/4a5b6f1a678ca807710f84831cc3a3a2.jpg)
+![]({{ site.url }}/assets/images/4a5b6f1a678ca807710f84831cc3a3a2.jpg)  
+Chinese Festival Photo 069  
 
-![]({{ site.url }}/assets/images/11e593222289efbbe0eb7ba8600c187e.jpg)
+![]({{ site.url }}/assets/images/11e593222289efbbe0eb7ba8600c187e.jpg)  
+Chinese Festival Photo 070  
 
-![]({{ site.url }}/assets/images/8f6c1542ed271bf92204f0580f182032.jpg)
+![]({{ site.url }}/assets/images/8f6c1542ed271bf92204f0580f182032.jpg)  
+Chinese Festival Photo 071  
 
-![]({{ site.url }}/assets/images/4c65d8b90315f09a9b3ed9a685c53ab7.jpg)
+![]({{ site.url }}/assets/images/4c65d8b90315f09a9b3ed9a685c53ab7.jpg)  
+Chinese Festival Photo 072  
 
-![]({{ site.url }}/assets/images/f4b1dc7025521ec946c4a2dcf1ddc3f0.jpg)
+![]({{ site.url }}/assets/images/f4b1dc7025521ec946c4a2dcf1ddc3f0.jpg)  
+Chinese Festival Photo 073  
 
-![]({{ site.url }}/assets/images/2829e04aaa3d582e32fdaac77d0609e3.jpg)
+![]({{ site.url }}/assets/images/2829e04aaa3d582e32fdaac77d0609e3.jpg)  
+Chinese Festival Photo 074  
 
-![]({{ site.url }}/assets/images/54ad0c957e3cc5a513519eec8c1e1550.jpg)
+![]({{ site.url }}/assets/images/54ad0c957e3cc5a513519eec8c1e1550.jpg)  
+Chinese Festival Photo 075  
 
-![]({{ site.url }}/assets/images/e63a7703a061d32ade465e2ab9b04542.jpg)
+![]({{ site.url }}/assets/images/e63a7703a061d32ade465e2ab9b04542.jpg)  
+Chinese Festival Photo 076  
 
-![]({{ site.url }}/assets/images/8d8134fcae1ec7cf8134e197b86b32ed.jpg)
+![]({{ site.url }}/assets/images/8d8134fcae1ec7cf8134e197b86b32ed.jpg)  
+Chinese Festival Photo 077  
 
 最后的《难忘今宵》因为在和几位老侨交谈而错过了拍照，回头看看能不能从Allen那里找到。在此之前是好时光中文学校学生们的精彩演出，和前面的希望中文学校学生家长们的节目遥相呼应，为此次文化节的演出撑起了半边天。两所学校和俄勒冈艺术家学校还承包了三项动手活动，学校老师家长和同学们在那里坚持了一天。感谢社区学校为社区公益的付出。
 
 下面是我收集到的几张照片，可以弥补我的缺失。
 
-![]({{ site.url }}/assets/images/2a0675a21861cc3cc2f47ac0565312f0.jpg)
+![]({{ site.url }}/assets/images/2a0675a21861cc3cc2f47ac0565312f0.jpg)  
+Chinese Festival Photo 078  
 
-![]({{ site.url }}/assets/images/559636b32545873e6750731468141ed9.jpg)
+![]({{ site.url }}/assets/images/559636b32545873e6750731468141ed9.jpg)  
+Chinese Festival Photo 079  
 
-![]({{ site.url }}/assets/images/8ed06c7136a4862bb548322aa75d4ba4.jpg)
+![]({{ site.url }}/assets/images/8ed06c7136a4862bb548322aa75d4ba4.jpg)  
+Chinese Festival Photo 080  
 
-![]({{ site.url }}/assets/images/dc469643df48af445df8b33616c57d6d.jpg)
+![]({{ site.url }}/assets/images/dc469643df48af445df8b33616c57d6d.jpg)  
+Chinese Festival Photo 081  
 
-![]({{ site.url }}/assets/images/6be95450057740188700973091758dd8.jpg)
+![]({{ site.url }}/assets/images/6be95450057740188700973091758dd8.jpg)  
+Chinese Festival Photo 083  
 
-![]({{ site.url }}/assets/images/4980e4e05263722d15d47c6d306754ee.jpg)
+![]({{ site.url }}/assets/images/4980e4e05263722d15d47c6d306754ee.jpg)  
+Chinese Festival Photo 084  
 
-![]({{ site.url }}/assets/images/8e6f919217eebee1ee511eee97310220.temp.jpg)
+![]({{ site.url }}/assets/images/8e6f919217eebee1ee511eee97310220.temp.jpg)  
+Chinese Festival Photo 085  
 
 参加此次活动的三家nonprofit是兰苏园，同源会（CACA）和中国城历史博物馆。因为场地面积的限制，我们只能接纳这几家组织。感谢他们对此次文化节的大力支持。
 
-![]({{ site.url }}/assets/images/96f9e1b490e7bd76b0497a8dcdd0f7c6.jpg)
+![]({{ site.url }}/assets/images/96f9e1b490e7bd76b0497a8dcdd0f7c6.jpg)  
+Chinese Festival Photo 086  
 
 和Elmo合影的Gloria来自同源会，很多人都很熟悉这位老（资深）义工了。这里一个小插曲，Kerry的时装秀需要一个男孩子充当Elmo角色，临时找了几位都不成，抓着了凡草的老大Aaron，当他知道需要救场后，他二话没说就上了台。为如此有担当的二代大大点赞[强]
 
 饮食文化是不可或缺的一部分，我们非常感谢参加此次活动的7个商家。说心里话，他们是不是有赚到钱，除了一芳之外，我心里一点没数，如果回头在survey中知道亏钱了，我绝不会奇怪。这次组织这项活动，方知做为商家的成本该有多高。但是，从一开始每一个商家都是从支持我们自己的文化节角度来参与的。于作华和Mandy（茗迪）给了我大量的细节介绍，基本上是一路扶持我们走过整个过程的，包括最后提醒我把自家的水管子拿过去，解决商家用水的问题，等等，等等。因为西北角的星巴克拥有整个广场咖啡销售的垄断权，In J Coffee的Joe只能在现场赠送自己心爱的云南咖啡。
 
-![]({{ site.url }}/assets/images/0e5fd0bfd83ab32d216614a03827604d.jpg)
+![]({{ site.url }}/assets/images/0e5fd0bfd83ab32d216614a03827604d.jpg)  
+Chinese Festival Photo 087  
 
-![]({{ site.url }}/assets/images/f1854425c47482e42632b12997be57a2.jpg)
+![]({{ site.url }}/assets/images/f1854425c47482e42632b12997be57a2.jpg)  
+Chinese Festival Photo 088  
 
-![]({{ site.url }}/assets/images/b617979f7de9454121457413c6d0efc7.jpg)
+![]({{ site.url }}/assets/images/b617979f7de9454121457413c6d0efc7.jpg)  
+Chinese Festival Photo 089  
 
 一天的喧嚣结束了，广场在夜幕中回到了原有的寂静。Victor很有心，他深夜回到广场，我想他是希望我们华人也是和传说中的一些场合一样，过后不留下一张碎纸片。我们没有让他失望，我们做到了，感谢在整个活动过程中负责清洁的艾力克，感谢坚持到最后离场的义工们。
 
@@ -304,8 +331,11 @@ Chinese Festival Photo 061
 
 从Allen照片中找到了三个Nonprofit组织的照片，正好是每家一张[OK]
 
-![]({{ site.url }}/assets/images/342390d72cf9b1c7b7d85a1633779941.jpg)
+![]({{ site.url }}/assets/images/342390d72cf9b1c7b7d85a1633779941.jpg)  
+Chinese Festival Photo 090  
 
-![]({{ site.url }}/assets/images/63febda7d2494df142fc522308ac08d1.jpg)
+![]({{ site.url }}/assets/images/63febda7d2494df142fc522308ac08d1.jpg)  
+Chinese Festival Photo 091  
 
-![]({{ site.url }}/assets/images/a817f783d73005a3e8944c31d4559deb.jpg)
+![]({{ site.url }}/assets/images/a817f783d73005a3e8944c31d4559deb.jpg)  
+Chinese Festival Photo 092  
