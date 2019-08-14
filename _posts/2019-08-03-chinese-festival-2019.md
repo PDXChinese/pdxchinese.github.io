@@ -48,13 +48,13 @@ Chinese Festival Photo 009
 Chinese Festival Photo 010  
 
 ![]({{ site.url }}/assets/images/36996862ba860c3269e73fbb2197a7ab.jpg)  
-Chinese Festival Photo 0011  
+Chinese Festival Photo 011  
 
 ![]({{ site.url }}/assets/images/f57146b3f99f75002f4cf5555d34996c.jpg)  
-Chinese Festival Photo 0012  
+Chinese Festival Photo 012  
 
 ![]({{ site.url }}/assets/images/d6fecb71eb8b85da88cde0acd900e512.jpg)  
-Chinese Festival Photo 0013  
+Chinese Festival Photo 013  
 
 每个到了现场的人都会罗列出几个甚至更多的精彩节目，的确在近9个小时的演出节目中，可以说是精彩纷呈，让现场观众眼花缭乱，应接不暇。但是，我要说的是，每一个节目在我眼里都是极其完美的，他们在台上表现出来的艺术水准和精神魅力都是无与伦比的，更能打动人们的是在这几个月准备过程中大家付出的努力和艰辛。
 
@@ -135,6 +135,9 @@ Chinese Festival Photo 034
 Chinese Festival Photo 035  
 
 再说音响，在活动前大家对音响在室外的效果都很担心，加上市政府对室外噪音的控制（70分贝），不知道如何设置最为理想。我第一个联系到了梁风（风子），知道他生意不错，活儿很多，但没想到他一口应承下来。今天才知道，他为此把全家的露营安排也给改了。后来和春香老师见面，春香老师不仅答应做舞台监督，还满口答应出借她的专业级音响和麦克。再后来去参加K歌群活动，张光超特意赶过去和我见面，一是告诉我Gary Lin（新成立的福建商会会长）已经接受风子相邀，共同负责音响控制，同时老张建议把他的音响，加上Gary的音响也带过去，这样有三套音响作保障。结果是现场的外侧的两个主音箱是春香老师的，里面的两个副音响是Gary的。Gary和风子的公子负责音响操作，风子负责设备维护。在这个帐篷下面的所有义工都是从头到尾坚持在那里，知道每个人最后都是极度疲劳。
+
+![]({{ site.url }}/assets/images/0040ab2a719d841a7e16ef08a971f375.jpg)  
+Chinese Festival Photo 097  
 
 ![]({{ site.url }}/assets/images/ea7b0c5c55ad57859d7ef6b413aaadc1.jpg)  
 Chinese Festival Photo 036  
