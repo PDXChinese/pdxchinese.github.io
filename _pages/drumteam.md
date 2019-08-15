@@ -14,15 +14,17 @@ Eric Shi
 ### Team Captains
 
 Hao Zhang  
-Jie Tang  
 
 ### Debut Performance
 
 [Chinese Festival](http://pdxchinese.org/chinesefestival/) on August 3, 2019
 
-### Weekly Practice
+![]({{ site.url }}/assets/images/34dfbd1245daa96c9056498a9bad3b5f.jpg)  
 
-Sunday 4-6 pm  
-Goodtime Chinese School  
+![]({{ site.url }}/assets/images/50feb0b01941b74a72808399e07bb823.jpg)  
 
-#### Thank you, Goodtime Chinese School, for providing the practice site!
+![]({{ site.url }}/assets/images/f51cf8af6fef2a7fcd4d9efe51fd12d7.jpg)  
+
+![]({{ site.url }}/assets/images/532eed46e20ac7114cbe2788a8b51422.jpg)  
+
+![]({{ site.url }}/assets/images/135938f75b434e0f816ac0a3af841b46.jpg)  
