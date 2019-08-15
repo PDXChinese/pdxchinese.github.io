@@ -36,19 +36,19 @@ extra:
         url: /youthroundtable/
       - title: "---"
         url:
+      - title: "Entrepreneurs Forum"
+        url: /startup/
       - title: "Commerce Chamber"
         url: /chambercommerce/
       - title: "Community Fair"
         url: /fair/
-      - title: "Entrepreneurs Forum"
-        url: /startup/
       - title: "---"
         url:
       - title: "Chinatown"
         url: /chinatown/
+      - title: "Drum Program"
+        url: /drumteam/
       - title: "Chinese Festival"
         url: /chinesefestival/
       - title: "Chinese New Year"
         url: /lunarnewyear/
-      - title: "Drum Program"
-        url: /drumteam/
