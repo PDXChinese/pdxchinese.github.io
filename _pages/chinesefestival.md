@@ -15,7 +15,7 @@ feature_row2:
 
 ![]({{ site.url }}/assets/images/festival/seeu2020.jpg)
 
-[2019 Chinese Festival Highlights](http://pdxchinese.org/chinese-festival-2019/)
+**[2019 Chinese Festival Highlights](http://pdxchinese.org/chinese-festival-2019/)**
 
 ![]({{ site.url }}/assets/images/activities/festival2019e.jpg)
 
