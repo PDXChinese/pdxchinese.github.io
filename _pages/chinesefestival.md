@@ -15,7 +15,7 @@ feature_row2:
 
 ![]({{ site.url }}/assets/images/festival/seeu2020.jpg)
 
-# 2019 Chinese Festival
+[2019 Chinese Festival Highlights](http://pdxchinese.org/chinese-festival-2019/)
 
 ![]({{ site.url }}/assets/images/activities/festival2019e.jpg)
 
@@ -138,4 +138,4 @@ Portland Chinatown Saturday performances ([5/14/2016](http://pdxchinese.org/chin
 [Chinatown Flash Mob](http://pdxchinese.org/chinatown/2016-12-21-flash-mob/) (12/21/2016)  
 [Chinatown Chinese New Year Celebration](http://pdxchinese.org/new-year-summary-2018/) (2/18/2018)  
 [Chinese Community Fair](http://pdxchinese.org/2018-community-fair-summary/) (4/14/2018)  
-[2019 Chinese Festival Recap](http://pdxchinese.org/chinese-festival-2019/) (8/7/2019)  
+[2019 Chinese Festival Highlights](http://pdxchinese.org/chinese-festival-2019/) (8/7/2019)  
