@@ -36,12 +36,12 @@ extra:
         url: /youthroundtable/
       - title: "---"
         url:
-      - title: "Entrepreneurs Forum"
-        url: /startup/
-      - title: "Commerce Chamber"
-        url: /chambercommerce/
       - title: "Community Fair"
         url: /fair/
+      - title: "Commerce Chamber"
+        url: /chambercommerce/
+      - title: "Entrepreneurs Forum"
+        url: /startup/
       - title: "---"
         url:
       - title: "Chinatown"
