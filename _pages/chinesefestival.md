@@ -1,5 +1,5 @@
 ---
-title: "首届波特兰华人文化节"
+title: ""
 permalink: /chinesefestival/
 feature_row1:
   - image_path: /assets/images/activities/tanhao.jpg
@@ -12,6 +12,9 @@ feature_row2:
   - image_path: /assets/images/activities/nancy.jpg
     title: "5pm-8pm"
 ---
+
+![]({{ site.url }}/assets/images/festival/seeu2020.jpg)
+
 # 2019 Chinese Festival
 
 ![]({{ site.url }}/assets/images/activities/festival2019e.jpg)
