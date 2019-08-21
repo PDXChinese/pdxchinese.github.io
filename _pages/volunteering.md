@@ -37,7 +37,7 @@ We will try to list all activities on our [shared community calendar](http://pdx
 
 ## Monthly Volunteering at [Oregon Food Bank](htts://www.oregonfoodbank.org/about-us/locations/beaverton/)
 
-![]({{ site.url }}/assets/images/814d713f1c945fd4568d87160c2848ab.jpg)
+![]({{ site.url }}/assets/images/814d713f1c945fd4568d87160c2848ab2.jpg)
 
 <a href="http://signup.com/go/RtEtDVp" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Available Spots on SignUp.com"></a>
 
@@ -57,7 +57,7 @@ Nancy会替大家去FB 网站上注册，更新和当天的sign in，也会提�
 
 ## Weekly Volunteering at [Lan Su Chinese Garden](https://lansugarden.org/)
 
-![]({{ site.url }}/assets/images/activities/hanyujiao.jpg)
+![]({{ site.url }}/assets/images/activities/hanyujiao2.jpg)
 
 <a href="http://signup.com/go/xXOohJS" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Available Spots on SignUp.com"></a>
 
@@ -84,7 +84,7 @@ Address: 239 NW Everett St, Portland, OR 97209
 
 ## Monthly Volunteering at Clay Street Table's Asian Brunch
 
-![]({{ site.url }}/assets/images/fc3110b4f05a241f49938d689d64ca10.jpg)
+![]({{ site.url }}/assets/images/fc3110b4f05a241f49938d689d64ca102.jpg)
 
 地点： 1432 SW 13th Ave, Portland, 97201
 
@@ -92,7 +92,7 @@ Address: 239 NW Everett St, Portland, OR 97209
 
 ## Monthly Street Sweeping in Chinatown
 
-![]({{ site.url }}/assets/images/activities/sweeping.jpg)
+![]({{ site.url }}/assets/images/activities/sweeping2.jpg)
 
 确切时间和详情会公布在《PDX 义工群》微信群
 
