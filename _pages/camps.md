@@ -9,13 +9,13 @@ We encourage parents who have the resources to organize the tours/camps in their
 
 To talk about the potential for such tours/camps, please [contact us](http://pdxchinese.org/contact/).
 
-## 2018.03.11 Motion Analysis Center, Shriners Hospitals for Children  
+## 2018.03.11 Motion Analysis Center, [Shriners Hospitals for Children](https://www.shrinershospitalsforchildren.org/shc)  
 ### Thanks to Jing Feng, Ph.D., director of Motion Analysis Center  
 
 ![]({{ site.url }}/assets/images/049251f1873e43066d1e13f0fe321b00.jpg)
 
 ## 2018.08.18 [Touring IBe Electronics Inc.](http://pdxchinese.org/ibe-tour-kids-2018/)  
-### Thanks to Jason Chen, CEO of [IBe Electronics](http://pcbaaa.com/)
+### Thanks to Jason Chen, CEO of [IBe Electronics](http://pcbaaa.com/)  
 
 ![]({{ site.url }}/assets/images/4f53e0550167bd51b0bba82f2d101876.jpg)
 
