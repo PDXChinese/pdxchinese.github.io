@@ -25,3 +25,7 @@ The camps/tours open to all youth in the community. When the space is limited, p
 ### Thanks to Frances Ippolito  
 
 ![]({{ site.url }}/assets/images/9a207f90227e808ae35d9a2eb9ea7c48b.jpg)
+
+## Recommended Tours
+
+[Courthouse tours through classroom project](https://classroomlaw.org/student-programs/courthouse-tours/)
