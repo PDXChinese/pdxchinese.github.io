@@ -9,6 +9,8 @@ We encourage parents who have the resources to organize the tours/camps in their
 
 To talk about the potential for such tours/camps, please [contact us](http://pdxchinese.org/contact/).
 
+The camps/tours open to all youth in the community. When the space is limited, priority will be given to the families who are in several volunteering WeChat groups.
+
 ## 2018.03.11 Motion Analysis Center, [Shriners Hospitals for Children](https://www.shrinershospitalsforchildren.org/shc)  
 ### Thanks to Jing Feng, Ph.D., director of Motion Analysis Center  
 
