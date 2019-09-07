@@ -9,10 +9,10 @@ permalink: /youthroundtable/
 # Oregon Chinese Youth Roundtable
 
 ## Date
-12/29/2018 Saturday 1:00 pm - 4:00 pm
+12/28/2019 Saturday 10:00 pm - 1:00 pm
 
 ## Place
-GRIFFITH BLDG: Room 100 - Court Room (4755 SW Griffith Drive, Beaverton, OR 97005) ([Google map](https://goo.gl/maps/8CKG6jYK3a82))
+Beaverton City Library - Meeting Room A & B, 1st Floor (12375 SW 5th Street, Beaverton, OR 97005) ([Google map]https://www.google.com/maps/place/12375+SW+5th+St,+Beaverton,+OR+97005/@45.4841084,-122.8062115,17z/data=!3m1!4b1!4m5!3m4!1s0x54950c21b4d2e3ad:0x21b979fd65c64c83!8m2!3d45.4841084!4d-122.8040228))
 
 ## Participants
 
@@ -26,42 +26,15 @@ Please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQ
 
 ## Proposed Agenda for Youth
 
-### 12:30 pm - 1:00 pm Checking In
+Meeting Room A
 
-Walk-ins are welcome only if there are spaces available
-
-### 1:00 pm - 1:30 pm Social Time and Opening Remarks
-
-Ice Breaking Activity: [Positively Post It!](https://www.facebook.com/Positively-Post-It-1527356444166258/)
-
-Opening Remarks
-
-Self Introductions
-
-### Suggested Topics
-
-Youth led non-profits  
-Youth participation in gov't (e.g. Youth Advisory Board)  
-Youth in sports  
-Youth in science  
-Youth in business  
-Youth mental health  
-Extra Curriculums in retrospectives  
-
-Career path  
-Classes at colleges  
-Declaring majors and minors  
-Looking for interns  
-Campus and company culture and social life  
-Mentorships  
-Networking  
+Coming soon...
 
 ## Proposed Agenda for Parents
 
-### Suggested Topics
+Meeting Room B
 
-Mental Health Issues on Teens  
-Parenting Issues  
+Coming soon...
 
 ### Co-Hosts
 
@@ -71,6 +44,8 @@ Prof. Qusheng Jin and Zhunqin Wang
 
 ### Archive
 
+2018 Youth Roundtable [Flyer](/assets/pdf/youth-roundtable-2018.pdf)  
+2018 Youth Roundtable [Recap](http://pdxchinese.org/youth-roundtable-2018-recap/)  
 2017 Youth Roundtable [Flyer](/assets/pdf/youth-roundtable-2017.pdf)  
 2017 Youth Roundtable [Recap](http://pdxchinese.org/youth-roundtable-2017-recap/)  
 [Materials distributed at Roundtables](http://pdxchinese.org/resources/benefits_resources/roundtable/)
