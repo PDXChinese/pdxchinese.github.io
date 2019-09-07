@@ -58,7 +58,7 @@ Networking
 
 ## Proposed Agenda for Parents
 
-### Suggested Topica
+### Suggested Topics
 
 Mental Health Issues on Teens  
 Parenting Issues  
