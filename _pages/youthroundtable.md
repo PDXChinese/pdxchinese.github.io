@@ -22,7 +22,7 @@ Profiles of those college students and college graduates will be collected and d
 
 ## Registration (Free)
 
-Please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSe3US3y88Gut91Fc1zL7OabBz-XI-JRAlOepgQqNvGKtvSaFQ/viewform?vc=0&c=0&w=1), parents do not need to register.
+Please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSdwdICtXpzR0W3BzSSQVAR53tuPV07nIF2MDtEXfuo2Pgvl1Q/viewform?usp=sf_link), parents do not need to register.
 
 ## Proposed Agenda for Youth
 
