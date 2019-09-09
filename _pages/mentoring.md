@@ -11,11 +11,11 @@ feature_row1:
 ---
 <p><img src="/assets/images/activities/mentoring3.jpg"></p>
 
+If you want to join our mentorship program, either as a mentor or mentee, please [contact us](http://pdxchinese.org/contact/).
+
 ## Community Mentors
 
 We encourage community members to become a mentor for our kids. Mentoring is always a huge gap in our community. We all know it but always lack of actions. Don't need to be perfect, you can gain experience along the way. Nothing in this world can be more rewarded than growing up with the kids around you.
-
-If you want to join our mentorship program, either as a mentor or mentee, please [contact us](http://pdxchinese.org/contact/).
 
 {% include feature_row id="feature_row1"%}
 
