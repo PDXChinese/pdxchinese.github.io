@@ -2,7 +2,7 @@
 title: "Youth Mentoring"
 permalink: /mentoring/
 feature_row1:
-  - title: "Hui Du          "
+  - title: "Hui Du          ."
     excerpt: "<p>Hui holds degrees in Statistics and Computer Science. She is passionate about education and giving back to her community, including working as volunteer Chinese language teacher for 10 years and hosting a large social media group to support the local Chinese community.</p>"
   - title: "Frances Ippolito"
     excerpt: "<p>Frances currently works for the federal government as a Patent Judge.  Before that, she was a patent attorney, working with many start-ups. Before law school, she was a high school chemistry teacher.  She still enjoys meeting many of the local high school students when she interviews them for her college.</p>"
