@@ -3,7 +3,7 @@ title: "Youth Mentoring"
 permalink: /mentoring/
 feature_row1:
   - title: "Zhunquin Wang"
-    excerpt: "<p>Zhunqing graduated from Tsinghua University and has been a software developer for Oracle. He has been coaching world-class robotics teams for over a dozen years. He was also active in a local Boy Scout troop. His passion is to foster the holistic growth of future technology leaders.</p>"
+    excerpt: "<p>Zhunqing graduated from Tsinghua University and has been a software developer for Oracle since 1997. He has been coaching world-class robotics teams for over a dozen years. He was also active in a local Boy Scout troop. His passion is to foster the holistic growth of future technology leaders.</p>"
   - title: "Hongcheng Zhao"
     excerpt: "<p>Hongcheng had a graduate degree in Economics and worked in healthcare industry for more than 20 years. He had three years of teaching and mentoring experience in college. He has devoted his time to Chinese community in the last 3 years, including helping develop youth programs.</p>"
 ---
