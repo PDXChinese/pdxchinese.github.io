@@ -2,6 +2,8 @@
 title: "Youth Mentoring"
 permalink: /mentoring/
 feature_row1:
+  - title: "Frances Ippolito"
+    excerpt: "<p>Frances currently works for the federal government as a Patent Judge.  Before that, she was a patent attorney, working with many start-ups. Before law school, she was a high school chemistry teacher.  She still enjoys meeting local high school students when she interviews them for her college.</p>"
   - title: "Zhunquin Wang"
     excerpt: "<p>Zhunqing graduated from Tsinghua University and has been a software developer for Oracle since 1997. He has been coaching world-class robotics teams for over a dozen years. He was also active in a local Boy Scout troop. His passion is to foster the holistic growth of future technology leaders.</p>"
   - title: "Hongcheng Zhao"
