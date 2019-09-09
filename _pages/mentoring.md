@@ -3,7 +3,7 @@ title: "Youth Mentoring"
 permalink: /mentoring/
 feature_row1:
   - title: "Hui Du"
-    excerpt: "<p>Hui holds degrees in Statistics and CS from Tsinghua and U-Chicago, having been a data scientist since 1998. She is passionate about education and giving back to her community, including working as volunteer Chinese teacher, serving in PTA board, helping to run NPOs and hosting a large social media group to support local community.</p>"
+    excerpt: "<p>Hui holds degrees in Statistics and CS from Tsinghua and U-Chicago, having been a data scientist since 1998. She is passionate about education and giving back to her community, including working as volunteer Chinese teacher, serving in PTO board, helping to run NPOs and hosting a large social media group to support local community.</p>"
   - title: "Frances Ippolito"
     excerpt: "<p>Frances currently works for the federal government as a Patent Judge.  Before that, she was a patent attorney, working with many start-ups. Before law school, she was a high school chemistry teacher.  She still enjoys meeting many of the local high school students when she interviews them for her college.</p>"
   - title: "Zhunquin Wang"
@@ -21,7 +21,7 @@ We encourage community members to become a mentor for our kids. Mentoring is alw
 
 {% include feature_row id="feature_row1"%}
 
-All mentors are encouraged to have at least one face to face meeting with their mentees and then maintain future communication via social media or emails if needed. 
+All mentors are encouraged to have at least one face to face meeting with their mentees and then maintain future communication via social media or emails if needed.
 
 ## Youth Served
 
