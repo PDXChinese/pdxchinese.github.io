@@ -1,6 +1,11 @@
 ---
 title: "Youth Mentoring"
 permalink: /mentoring/
+feature_row1:
+  - title: "Zhunquin Wang"
+    excerpt: "<p>Zhunqing graduated from Tsinghua University and has been a software developer for Oracle. He has been coaching world-class robotics teams for over a dozen years. He was also active in a local Boy Scout troop. His passion is to foster the holistic growth of future technology leaders.</p>"
+  - title: "Hongcheng Zhao"
+    excerpt: "<p>Hongcheng had a graduate degree in Economics and worked in healthcare industry for more than 20 years. He had three years of teaching and mentoring experience in college. He has devoted his time to Chinese community in the last 3 years, including helping develop youth programs.</p>"
 ---
 <p><img src="/assets/images/activities/mentoring3.jpg"></p>
 
@@ -9,6 +14,8 @@ permalink: /mentoring/
 We encourage community members to become a mentor for our kids. Mentoring is always a huge gap in our community. We all know it but always lack of actions. Don't need to be perfect, you can gain experience along the way. Nothing in this world can be more rewarded than growing up with the kids around you.
 
 If you want to join our mentorship program, either as a mentor or mentee, please [contact us](http://pdxchinese.org/contact/).
+
+{% include feature_row id="feature_row1"%}
 
 ## Youth Served
 
