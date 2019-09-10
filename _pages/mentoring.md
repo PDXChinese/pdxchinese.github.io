@@ -4,6 +4,8 @@ permalink: /mentoring/
 feature_row1:
   - title: "Hui Du"
     excerpt: "<p>Hui holds degrees in Statistics and CS from Tsinghua and U-Chicago, having been a data scientist since 1998. She is passionate about education and giving back to her community, including working as volunteer Chinese teacher, serving in PTO board, helping to run NPOs and hosting a large social media group to support local community.</p>"
+  - title: "Paul Ip"
+    excerpt: "<p>Coming to the U.S. at age 22 wasn’t easy for many reasons.  I graduated in 1982 with a business degree at PSU.  I leveraged my higher education credentials to obtain an entry-level position at HSBC.  Since then, I worked my way up to the Vice President position, managing over a $300 million portfolio in commercial lending until my retirement in 2016.</p>"
   - title: "Frances Ippolito"
     excerpt: "<p>Frances is an administrative patent judge at the US Patent and Trademark Office.  Before her appointment, Frances practiced patent law in private practice.  She has a law degree from UC Davis, a Teaching Certificate (Harvard GSE), and a B.A. in chemistry (Harvard University).  She enjoys volunteering and chasing her two young children.</p>"
   - title: "Zhunquin Wang"
