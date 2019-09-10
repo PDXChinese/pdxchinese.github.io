@@ -5,7 +5,7 @@ feature_row1:
   - title: "Hui Du"
     excerpt: "<p>Hui holds degrees in Statistics and CS from Tsinghua and U-Chicago, having been a data scientist since 1998. She is passionate about education and giving back to her community, including working as volunteer Chinese teacher, serving in PTO board, helping to run NPOs and hosting a large social media group to support local community.</p>"
   - title: "Frances Ippolito"
-    excerpt: "<p>Frances currently works for the federal government as a Patent Judge.  Before that, she was a patent attorney, working with many start-ups. Before law school, she was a high school chemistry teacher.  She still enjoys meeting many of the local high school students when she interviews them for her college.</p>"
+    excerpt: "<p>Frances is an administrative patent judge at the US Patent and Trademark Office.  Before her appointment, Frances practiced patent law in private practice.  She has a law degree from UC Davis, a Teaching Certificate (Harvard GSE), and a B.A. in chemistry (Harvard University).  She enjoys volunteering and chasing her two young children.</p>"
   - title: "Zhunquin Wang"
     excerpt: "<p>Zhunqing graduated from Tsinghua University and has been a software developer for Oracle since 1997. He has been coaching world-class robotics teams for over a dozen years. He was also active in a local Boy Scout troop. His passion is to foster the holistic growth of future technology leaders.</p>"
   - title: "Hongcheng Zhao"
