@@ -25,7 +25,7 @@ Mentors have agreed to follow all [mentoring program guidelines and code of cond
 
 {% include feature_row id="feature_row1"%}
 
-All mentors are encouraged to have at least one face to face meeting with their mentees and then maintain future communication via social media or emails if needed.
+All mentors are encouraged to have at least one face to face meeting with their mentees and then maintain future communication via social media or emails if needed. Considering the capacity of mentors, each mentor may only take a few mentees at a time.
 
 ## Youth Served
 
