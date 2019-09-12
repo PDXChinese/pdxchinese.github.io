@@ -15,7 +15,7 @@ feature_row1:
 ---
 <p><img src="/assets/images/activities/mentoring3.jpg"></p>
 
-If you want to join our mentorship program, either as a mentor or mentee, please [contact us](http://pdxchinese.org/contact/). If prospective mentee is under age 18, parent or guardian needs to fill out the [application](https://docs.google.com/forms/d/e/1FAIpQLSdqvee6XxvmWx8VpyCZu_s-o17OdQXv-5CVznpoapuYV3mRqQ/viewform?usp=sf_link) and then contact us.
+If you want to join our mentorship program, either as a mentor or mentee, please [contact us](http://pdxchinese.org/contact/). All  prospective mentees are required to fill out the [application](https://docs.google.com/forms/d/e/1FAIpQLSdqvee6XxvmWx8VpyCZu_s-o17OdQXv-5CVznpoapuYV3mRqQ/viewform?usp=sf_link) and then contact us.  If prospective mentee is under age 18, parent or guardian needs to fill out the application.
 
 ## Community Mentors
 
