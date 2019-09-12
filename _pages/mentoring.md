@@ -21,11 +21,11 @@ If you want to join our mentorship program, either as a mentor or mentee, please
 
 We encourage community members to become a mentor for our kids. Mentoring is always a huge gap in our community. We all know it but always lack of actions. Don't need to be perfect, you can gain experience along the way. Nothing in this world can be more rewarded than growing up with the kids around you.
 
+| All mentors are encouraged to have one initial face to face meeting with their mentees and then develop future meeting plans including communications via social media or emails if needed. Considering the capacity of mentors, each mentor may only take a few mentees at a time. |
+
 Mentors have agreed to follow all [mentoring program guidelines and code of conduct](/assets/pdf/OCC Mentor Guidances and Code of Conduct.pdf).
 
 {% include feature_row id="feature_row1"%}
-
-| All mentors are encouraged to have one initial face to face meeting with their mentees and then develop future meeting plans including communications via social media or emails if needed. Considering the capacity of mentors, each mentor may only take a few mentees at a time. |
 
 ## Youth Served
 
