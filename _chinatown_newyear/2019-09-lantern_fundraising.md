@@ -2,7 +2,7 @@
 title: "Fundraising Campaign for Chinatown's Red Lanterns"
 ---
 
-![]({{ site.url }}/assets/images/6b82f5b0faf5734a3d914fcaf2036443.jpg)
+![]({{ site.url }}/assets/images/0d89ecb72a36526b4c49962738475946.jpg)
 
 ## Campaign Team
 
