@@ -1,8 +1,8 @@
 ---
-title: "Fundraising campaign for Chinatown's Red Lanterns"
+title: "Fundraising Campaign for Chinatown's Red Lanterns"
 ---
 
-{% include gallery id="main_performance" %}
+![]({{ site.url }}/assets/images/1aef483ef391223cc8cf6b102064b4ad.jpg)
 
 ## Campaign Team
 
@@ -13,4 +13,6 @@ Audrey Hu (West Sylvan Middle School, 6th grade)
 Michelle Wang (International School of Beaverton, 10th grade)  
 Alicia Ye (Stroller Middle School, 8th grade)  
 Nathan Ye (Jacob Elementary School, 5th grade)  
-Cheery Zhang (Westview High school, 9th)  
+Cheery Zhang (Westview High School, 9th grade)  
+
+## Background 
