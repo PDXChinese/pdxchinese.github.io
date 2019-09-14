@@ -2,7 +2,7 @@
 title: "Fundraising Campaign for Chinatown's Red Lanterns"
 ---
 
-![]({{ site.url }}/assets/images/1aef483ef391223cc8cf6b102064b4ad.jpg)
+![]({{ site.url }}/assets/images/6b82f5b0faf5734a3d914fcaf2036443.jpg)
 
 ## Campaign Team
 
@@ -15,4 +15,4 @@ Alicia Ye (Stroller Middle School, 8th grade)
 Nathan Ye (Jacob Elementary School, 5th grade)  
 Cheery Zhang (Westview High School, 9th grade)  
 
-## Background 
+## Background
