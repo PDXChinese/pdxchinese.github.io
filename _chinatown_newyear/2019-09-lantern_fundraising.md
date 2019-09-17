@@ -47,6 +47,8 @@ The sun was brutal to the materials on those lanterns. The color started to fade
 
 We were in action: hanging lanterns in Chinatown during [2018 CNY](http://pdxchinese.org/chinatown/newyear/2018-02-13-red_lanterns_in_chinatown_2018/) and [2019 CNY](http://pdxchinese.org/chinatown/newyear/2019-01-20-red_lanterns_in_chinatown_2019/)
 
+![]({{ site.url }}/assets/images/misc/lantern.png)
+
 ## Thank You, Donors!
 
 [Chinese Consolidated Benevolent Association (CCBA)](https://www.oregonccba.org/)  
