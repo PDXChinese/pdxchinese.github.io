@@ -1,5 +1,5 @@
 ---
-title: "Hanging Red Lanterns in Chinatown 2/13/2018"
+title: "Hanging Red Lanterns in Chinatown (02.13.2018)"
 ---
 
 ![]({{ site.url }}/assets/images/927a2f6996fc6d6893eedda57f375299.jpg)
