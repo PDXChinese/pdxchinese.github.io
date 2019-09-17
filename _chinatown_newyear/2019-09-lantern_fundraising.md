@@ -35,6 +35,11 @@ Note: 2.2% fee will be deducted from the donation.
 
 [![paypal](/assets/images/activities/paypal3.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GWHJ99U9AEFFN)
 
-## Red Lantern Story
+## Red Lantern Story, Our Story
+
+Hanging lanterns in Chinatown in [2018 CNY](http://pdxchinese.org/chinatown/newyear/2018-02-13-red_lanterns_in_chinatown_2018/) and in [2019 CNY](http://pdxchinese.org/chinatown/newyear/2019-01-20-red_lanterns_in_chinatown_2019/)
 
 ## Thank Your, Donors!
+
+[Chinese Consolidated Benevolent Association (CCBA)](https://www.oregonccba.org/)  
+Louis K. Lee, CPA  
