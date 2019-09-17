@@ -37,6 +37,8 @@ Note: 2.2% fee will be deducted from the donation.
 
 [![paypal](/assets/images/activities/paypal3.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GWHJ99U9AEFFN)
 
+<a target='_blank' href='https://www.abcfundraising.com' rel="nofollow"><img src='https://www.abcfundraising.com/thermometer-generator?max=5000&cur=600&symbol=%24&color=purple' alt='Fundraising ideas for schools, churches, and youth sports teams'/></a>Thermometer By <a target='_blank' href='https://www.abcfundraising.com' rel="nofollow"> ABC Fundraising®</a>
+
 ## Red Lantern Story, Our Story
 
 A century ago, Portland had the second largest Chinese population next to San Francisco. It once counted for 10% of population in Portland. Chinatown has been not only one of the prominent landmarks but a legacy for this city. Chinatown had its up and down in the past, but never lost its hope. The Chinese community has pledged to work together to help revitalize Chinatown, to make it great again.
