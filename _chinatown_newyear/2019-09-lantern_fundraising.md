@@ -37,7 +37,7 @@ Note: 2.2% fee will be deducted from the donation.
 
 ## Red Lantern Story, Our Story
 
-Hanging lanterns in Chinatown in [2018 CNY](http://pdxchinese.org/chinatown/newyear/2018-02-13-red_lanterns_in_chinatown_2018/) and in [2019 CNY](http://pdxchinese.org/chinatown/newyear/2019-01-20-red_lanterns_in_chinatown_2019/)
+Hanging lanterns in Chinatown during [2018 CNY](http://pdxchinese.org/chinatown/newyear/2018-02-13-red_lanterns_in_chinatown_2018/) and [2019 CNY](http://pdxchinese.org/chinatown/newyear/2019-01-20-red_lanterns_in_chinatown_2019/)
 
 ## Thank Your, Donors!
 
