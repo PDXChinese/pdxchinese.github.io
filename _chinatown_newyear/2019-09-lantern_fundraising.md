@@ -1,7 +1,10 @@
 ---
 title: "Fundraising Campaign for Chinatown's Red Lanterns (Sept. 2019)"
 ---
+
 ![]({{ site.url }}/assets/images/activities/lantern_fundraising_2019.jpg)
+
+Visit us often at our fundraising site: [http://chinatownlanterns.org](http://chinatownlanterns.org)
 
 ## Community Student Campaign Team
 
@@ -33,3 +36,5 @@ Note: 2.2% fee will be deducted from the donation.
 [![paypal](/assets/images/activities/paypal3.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GWHJ99U9AEFFN)
 
 ## Red Lantern Story
+
+## Thank Your, Donors!
