@@ -37,7 +37,7 @@ Note: 2.2% fee will be deducted from the donation.
 
 [![paypal](/assets/images/activities/paypal3.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GWHJ99U9AEFFN)
 
-<a target='_blank' href='https://www.abcfundraising.com' rel="nofollow"><img src='https://www.abcfundraising.com/thermometer-generator?max=5000&cur=600&symbol=%24&color=purple' alt='Fundraising ideas for schools, churches, and youth sports teams'/></a>Thermometer By <a target='_blank' href='https://www.abcfundraising.com' rel="nofollow"> ABC Fundraising®</a>
+<a target='_blank' href='https://www.abcfundraising.com' rel="nofollow"><img src='https://www.abcfundraising.com/thermometer-generator?max=5000&cur=600&symbol=%24&color=purple' alt='Fundraising ideas for schools, churches, and youth sports teams' style='width:500px;height:600px;'/></a>Thermometer By <a target='_blank' href='https://www.abcfundraising.com' rel="nofollow"> ABC Fundraising®</a>
 
 ## Red Lantern Story, Our Story
 
