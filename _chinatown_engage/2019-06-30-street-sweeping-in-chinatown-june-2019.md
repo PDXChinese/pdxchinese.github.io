@@ -45,9 +45,3 @@ title: "Street Sweeping in Chinatown (06.30.2019)"
 ![]({{ site.url }}/assets/images/6bc6b34f700e801808596637cefddb1a.jpg)
 
 ![]({{ site.url }}/assets/images/b6a4fdc011a8cd743a9b2f080a966d42.jpg)
-
-![]({{ site.url }}/assets/images/20e3d51b32cc0b9ab669069776f300d3.jpg)
-
-![]({{ site.url }}/assets/images/5785f50909c87b61d296ebd05580b46c.jpg)
-
-![]({{ site.url }}/assets/images/5a2fb8b55682dbc39c5ee207ef89d8b5.jpg)

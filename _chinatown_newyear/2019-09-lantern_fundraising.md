@@ -1,10 +1,9 @@
 ---
-title: "Fundraising Campaign for Chinatown's Red Lanterns"
+title: "Fundraising Campaign for Chinatown's Red Lanterns (Sept. 2019)"
 ---
+![]({{ site.url }}/assets/images/activities/lantern_fundraising_2019.jpg)
 
-![]({{ site.url }}/assets/images/0d89ecb72a36526b4c49962738475946.jpg)
-
-## Campaign Team
+## Community Student Campaign Team
 
 Liam Anthony (Cleveland High School, 11th grade)  
 Nancy Bai (Sunset High School)  
