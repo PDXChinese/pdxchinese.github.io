@@ -41,7 +41,7 @@ Note: 2.2% fee will be deducted from the donation.
 
 Hanging lanterns in Chinatown during [2018 CNY](http://pdxchinese.org/chinatown/newyear/2018-02-13-red_lanterns_in_chinatown_2018/) and [2019 CNY](http://pdxchinese.org/chinatown/newyear/2019-01-20-red_lanterns_in_chinatown_2019/)
 
-## Thank Your, Donors!
+## Thank You, Donors!
 
 [Chinese Consolidated Benevolent Association (CCBA)](https://www.oregonccba.org/)  
 Louis K. Lee, CPA  
