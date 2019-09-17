@@ -51,7 +51,6 @@ We were in action: hanging lanterns in Chinatown during [2018 CNY](http://pdxchi
 
 [Chinese Consolidated Benevolent Association (CCBA)](https://www.oregonccba.org/)  
 Louis K. Lee, CPA  
+...  
 
 Your name will be here 👍
-
-![]({{ site.url }}/assets/images/misc/lantern.png)
