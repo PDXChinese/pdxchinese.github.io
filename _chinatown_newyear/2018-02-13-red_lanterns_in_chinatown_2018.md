@@ -1,8 +1,6 @@
 ---
-title: "Hanging Red Lanterns in Chinatown 2018"
+title: "Hanging Red Lanterns in Chinatown 2/13/2018"
 ---
-
-—————  Hanging Lanterns 2018-02-13  —————
 
 ![]({{ site.url }}/assets/images/927a2f6996fc6d6893eedda57f375299.jpg)
 
@@ -25,8 +23,6 @@ title: "Hanging Red Lanterns in Chinatown 2018"
 ![]({{ site.url }}/assets/images/04ef05e2602a049a9fba9a959e25b10b.jpg)
 
 ![]({{ site.url }}/assets/images/2243de3b0d5ab17d2909429dd8ab788e.jpg)
-
-—————  Remove Lanterns 2018-03-03  —————
 
 ![]({{ site.url }}/assets/images/chinatown/1d5c6cfdb1b4d8042650a7a931cc7687.jpg)
 
