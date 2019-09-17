@@ -45,9 +45,11 @@ In ancient China, lanterns were used to provide light and eventually as aspects 
 
 The sun was brutal to the materials on those lanterns. The color started to fade after two years. We wish to purchase new lanterns to replace those and to purchase even more, if there are enough donations, so that we can work with City of Portland and Oldtown/Chinatown Community Association to have lanterns on more lampposts from 2020 Chinese New Year.   
 
-Hanging lanterns in Chinatown during [2018 CNY](http://pdxchinese.org/chinatown/newyear/2018-02-13-red_lanterns_in_chinatown_2018/) and [2019 CNY](http://pdxchinese.org/chinatown/newyear/2019-01-20-red_lanterns_in_chinatown_2019/)
+We were in action: hanging lanterns in Chinatown during [2018 CNY](http://pdxchinese.org/chinatown/newyear/2018-02-13-red_lanterns_in_chinatown_2018/) and [2019 CNY](http://pdxchinese.org/chinatown/newyear/2019-01-20-red_lanterns_in_chinatown_2019/)
 
 ## Thank You, Donors!
 
 [Chinese Consolidated Benevolent Association (CCBA)](https://www.oregonccba.org/)  
 Louis K. Lee, CPA  
+
+Your name will be here 👍
