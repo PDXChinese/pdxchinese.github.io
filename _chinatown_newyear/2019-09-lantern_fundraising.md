@@ -17,9 +17,11 @@ Alicia Ye (Stroller Middle School, 8th grade)
 Nathan Ye (Jacob Elementary School, 5th grade)  
 Cheery Zhang (Westview High School, 9th grade)  
 
+Mentor: Hongcheng Zhao (President of Oregon Chinese Coalition, OCC)
+
 ## The Ways to Donate
 
-Thank you for your generosity. Your contribution to Oregon Chinese Coalition is tax-deductible under IRC Section 170. Please make sure to note in the memo field to indicate Lantern Fundraising Campaign 2019.
+Thank you for your generosity. Your donation is tax-deductible under IRC Section 170. Please make sure to note Lantern Fundraising Campaign 2019 in the memo field.
 
 ### PayPal
 
