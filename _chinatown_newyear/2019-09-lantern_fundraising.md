@@ -8,16 +8,16 @@ Visit us often at our fundraising site: [http://chinatownlanterns.org](http://ch
 
 ## Community Student Campaign Team
 
-Liam Anthony (Cleveland High School, 11th grade)  
-Nancy Bai (Sunset High School, 10th grade)  
-Jason Fu (Sunset High School, 9th)  
-Audrey Hu (West Sylvan Middle School, 6th grade)  
-Michelle Wang (International School of Beaverton, 10th grade)  
-Alicia Ye (Stroller Middle School, 8th grade)  
-Nathan Ye (Jacob Elementary School, 5th grade)  
-Cheery Zhang (Westview High School, 9th grade)  
+**Liam Anthony** (Cleveland High School, 11th grade)  
+**Nancy Bai** (Sunset High School, 10th grade)  
+**Jason Fu** (Sunset High School, 9th)  
+**Audrey Hu** (West Sylvan Middle School, 6th grade)  
+**Michelle Wang** (International School of Beaverton, 10th grade)  
+**Alicia Ye** (Stroller Middle School, 8th grade)  
+**Nathan Ye** (Jacob Elementary School, 5th grade)  
+**Cheery Zhang** (Westview High School, 9th grade)  
 
-Mentor: Hongcheng Zhao (President of Oregon Chinese Coalition, OCC)
+Mentor: **Hongcheng Zhao** (President of Oregon Chinese Coalition, OCC)
 
 ## The Ways to Donate
 
