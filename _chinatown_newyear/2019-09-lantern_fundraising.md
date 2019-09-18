@@ -57,4 +57,4 @@ See us in action: hanging lanterns in Chinatown during [2018 Chinese New Year](h
 Louis K. Lee, CPA  
 ...  
 
-Your name will be here 👍
+Your name will help extend above list 👍
