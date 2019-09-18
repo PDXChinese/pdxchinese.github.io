@@ -9,7 +9,7 @@ Visit us often at our fundraising site: [http://chinatownlanterns.org](http://ch
 ## Community Student Campaign Team
 
 Liam Anthony (Cleveland High School, 11th grade)  
-Nancy Bai (Sunset High School)  
+Nancy Bai (Sunset High School, 10th grade)  
 Jason Fu (Sunset High School, 9th)  
 Audrey Hu (West Sylvan Middle School, 6th grade)  
 Michelle Wang (International School of Beaverton, 10th grade)  
