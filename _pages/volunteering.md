@@ -84,7 +84,9 @@ Address: 239 NW Everett St, Portland, OR 97209
 
 ## Monthly Volunteering at Clay Street Table's Asian Brunch
 
-![]({{ site.url }}/assets/images/fc3110b4f05a241f49938d689d64ca102.jpg)
+![]({{ site.url }}/assets/images/activities/fc3110b4f05a241f49938d689d64ca102.jpg)
+
+<a href="https://signup.com/go/KhUykiz" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Available Spots on SignUp.com"></a>
 
 地点： 1432 SW 13th Ave, Portland, 97201
 
