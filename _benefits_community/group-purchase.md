@@ -77,5 +77,5 @@ Volunteers: @Vicky
 [School of Rockl](https://portland.broadway.com/shows/school-of-rock/)  
 
 ### Nov 5-10, 2019 Keller Auditorium
-Volunteer: @西北兆
-[MISS SAIGON](https://portland.broadway.com/shows/miss-saigon/)
+Volunteer: @西北兆  
+[MISS SAIGON](https://portland.broadway.com/shows/miss-saigon/)  
