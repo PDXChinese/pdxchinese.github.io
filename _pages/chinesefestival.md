@@ -15,7 +15,7 @@ feature_row2:
 
 ![]({{ site.url }}/assets/images/festival/seeu2020.jpg)
 
-Now we have an easy-to-remember website address: [http://pdxchinesefestival.org](http://pdxchinesefestival.org)
+[http://pdxchinesefestival.org](http://pdxchinesefestival.org)
 
 **[2019 Chinese Festival Highlights](http://pdxchinese.org/chinese-festival-2019/)**
 
