@@ -19,6 +19,8 @@ Visit us often at our fundraising site: [http://chinatownlanterns.org](http://ch
 
 Mentor: **Hongcheng Zhao** (President of Oregon Chinese Coalition, OCC)
 
+**Questions?** Please contact us at 503-709-3119 or [festival@pdxchinese.org](mailto:festival@pdxchinese.org)
+
 ## The Ways to Donate
 
 Thank you for your generosity. Your donation is tax-deductible under IRC Section 170. Please make sure to note Lantern Fundraising Campaign 2019 in the memo field.
@@ -57,4 +59,4 @@ See us in action: hanging lanterns in Chinatown during [2018 Chinese New Year](h
 Louis K. Lee, CPA  
 ...  
 
-Your name will help extend above list 👍
+Your name will help extend the list 👍
