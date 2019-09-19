@@ -57,11 +57,9 @@ Opportunity youth
 
 ## Resources
 
-### National Mentoring Month
+### [National Mentoring Month](http://www.mentoring.org/our-work/campaigns/national-mentoring-month/)
 
 The website is full of resources. Both mentors and mentees are encouraged to explore the site to get the most out of this experience.
-
-[website link](http://www.mentoring.org/our-work/campaigns/national-mentoring-month/)
 
 ### [Youth.Gov](https://youth.gov/youth-topics/mentoring/)
 
