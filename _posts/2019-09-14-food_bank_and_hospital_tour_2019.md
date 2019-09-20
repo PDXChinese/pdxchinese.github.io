@@ -1,5 +1,5 @@
 ---
-title: "《You Raised Me Up》"
+title: "《You Raise Me Up》"
 author: XiBei Zhao
 excerpt: "今天和大家分享两张照片，是周末的两个社区公益活动。照片中各有一位大人被孩子们环绕着。一位是社区义工群群主Nancy，她带领社区孩子们在Oregon Food Bank做集体义工超过了一年多时间，而且基本上除了出差就没有中断过。另外一位是孩子的妈妈Jing，为响应社区的号召，她主动组织社区的孩子们来到她所在的医院参观，不仅克服了公司的各种规章制度的限制，而且这已经是第二年组织这项活动了。想起《You Raised Me Up》，她们真正才是带领孩子们成长的那个人。"
 date: "2019-09-15"
@@ -13,7 +13,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 ![]({{ site.url }}/assets/images/0cf787184ea7a36c297c02de5998d8a9.jpg)
 
-我平时很喜欢听《You Raised Me Up》，看到照片中Nancy和孩子们昨天在Food Bank的合影，马上联想到因为有了Nancy的奉献，社区多少孩子们培养了爱心，开阔了视野。She raised many kids up! We all want to thank her for her tireless effort to keep this community project moving.
+我平时很喜欢听《You Raise Me Up》，看到照片中Nancy和孩子们昨天在Food Bank的合影，马上联想到因为有了Nancy的奉献，社区多少孩子们培养了爱心，开阔了视野。She raised many kids up! We all want to thank her for her tireless effort to keep this community project moving.
 
 ![]({{ site.url }}/assets/images/28feeab14fdc4ff3c0639ddaa619b97e.jpg)
 
