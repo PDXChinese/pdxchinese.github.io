@@ -2,7 +2,7 @@
 title: "Fundraising Campaign for Chinatown's Red Lanterns (Sept. 2019)"
 ---
 
-![]({{ site.url }}/assets/images/activities/lantern_fundraising_2019.jpg)
+![]({{ site.url }}/assets/images/activities/red_lanterns_fundraising_2019.jpg)
 
 Visit us often at our fundraising site: [http://chinatownlanterns.org](http://chinatownlanterns.org)
 
