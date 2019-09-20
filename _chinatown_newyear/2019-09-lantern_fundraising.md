@@ -41,7 +41,7 @@ Note: 2.2% fee will be deducted from the donation.
 
 ### A Great Start!
 
-<a target='_blank' href='https://www.abcfundraising.com' rel="nofollow"><img src='https://www.abcfundraising.com/thermometer-generator?max=5000&cur=600&symbol=%24&color=red' alt='Fundraising ideas for schools, churches, and youth sports teams' style='width:200px;height:400px;'/></a>Thermometer By <a target='_blank' href='https://www.abcfundraising.com' rel="nofollow"> ABC Fundraising®</a>
+<a target='_blank' href='https://www.abcfundraising.com' rel="nofollow"><img src='https://www.abcfundraising.com/thermometer-generator?max=5000&cur=690&symbol=%24&color=red' alt='Fundraising ideas for schools, churches, and youth sports teams' style='width:200px;height:400px;'/></a>Thermometer By <a target='_blank' href='https://www.abcfundraising.com' rel="nofollow"> ABC Fundraising®</a>
 
 ## Red Lantern Story, Our Story
 
@@ -55,6 +55,9 @@ The sun was brutal to the materials on those lanterns. The color started to fade
 
 [Chinese Consolidated Benevolent Association (CCBA)](https://www.oregonccba.org/)  
 Louis K. Lee, CPA  
+Yupeng Li  
+Yan Zhao  
+Ma Suming  
 ...  
 
 Your name will help extend the list 👍
