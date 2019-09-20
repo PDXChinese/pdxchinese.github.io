@@ -65,4 +65,4 @@ See us in action: hanging lanterns in Chinatown during [2018 Chinese New Year](h
 
 ![]({{ site.url }}/assets/images/133fd5e3dabbe762a4609895d83ee3c7.temp.jpg)
 
-![]({{ site.url }}/assets/images/7019ab2c5c44afa526f51c6f473e725d.jpg)
+![]({{ site.url }}/assets/images/chinatown/7019ab2c5c44afa526f51c6f473e725d.jpg)
