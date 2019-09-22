@@ -58,6 +58,8 @@ Louis K. Lee, CPA
 Yupeng Li  
 Yan Zhao  
 Ma Suming  
+Li Zhou  
+Portland Chinatown Development 219 LLC  
 ...  
 
 Your name will help extend the list 👍
