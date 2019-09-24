@@ -5,8 +5,6 @@ excerpt: "在Clay Street Table的Asian Brunch昨天是在夏天过后的第一�
 date: "2019-09-21"
 ---
 
-![]({{ site.url }}/assets/images/activities/red_lanterns_fundraising_2019.jpg)
-
 The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is shown below.
 
 —————  2019-09-22  —————
