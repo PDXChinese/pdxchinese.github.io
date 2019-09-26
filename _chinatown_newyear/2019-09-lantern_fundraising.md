@@ -63,6 +63,7 @@ Portland Chinatown Development 219 LLC
 Staff at Chinatown Museum  
 Staff at Produce Portland  
 Vicky Li  
+Ying Wu  
 ...  
 
 Your name will help extend the list 👍
