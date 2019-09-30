@@ -45,8 +45,6 @@ Dove  23:41
 
 ![]({{ site.url }}/assets/images/e2e34ddabd11807f10e451d4bab33a88.jpg)
 
-![]({{ site.url }}/assets/images/19cf9749e2c3b106087cd43caddc049d.jpg)
-
 ![]({{ site.url }}/assets/images/c78f7e65dee541c5aa5210850e02cbd9.jpg)
 
 ![]({{ site.url }}/assets/images/2493c4e90af490730021ea1f744ff2f6.jpg)
