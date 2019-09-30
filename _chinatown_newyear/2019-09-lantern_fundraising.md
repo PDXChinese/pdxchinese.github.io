@@ -41,7 +41,7 @@ Note: 2.2% fee will be deducted from the donation.
 
 ### A Great Start!
 
-<a target='_blank' href='https://www.abcfundraising.com' rel="nofollow"><img src='https://www.abcfundraising.com/thermometer-generator?max=3500&cur=1011&symbol=%24&color=red' alt='Fundraising ideas for schools, churches, and youth sports teams' style='width:200px;height:400px;'/></a>Thermometer By <a target='_blank' href='https://www.abcfundraising.com' rel="nofollow"> ABC Fundraising®</a>
+<a target='_blank' href='https://www.abcfundraising.com' rel="nofollow"><img src='https://www.abcfundraising.com/thermometer-generator?max=3500&cur=1016&symbol=%24&color=red' alt='Fundraising ideas for schools, churches, and youth sports teams' style='width:200px;height:400px;'/></a>Thermometer By <a target='_blank' href='https://www.abcfundraising.com' rel="nofollow"> ABC Fundraising®</a>
 
 ## Red Lantern Story, Our Story
 
