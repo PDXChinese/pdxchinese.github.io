@@ -5,6 +5,8 @@ excerpt: "Yesterday Chinese Conversation Table at Lan Su Chinese Garden came to 
 date: "2019-09-29"
 ---
 
+Yesterday Chinese Conversation Table at Lan Su Chinese Garden came to the end for the season. It has been a great run with the wide support from the community volunteers. There have been so many forgettable moments and those memories will travel to all over the country with more than a thousand of tourists who stopped over when they visited the garden.
+
 The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is shown below.
 
 —————  2019-09-29  —————
