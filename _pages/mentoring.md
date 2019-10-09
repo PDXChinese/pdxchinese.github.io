@@ -9,7 +9,7 @@ feature_row1:
   - title: "Frances Ippolito"
     excerpt: "<p>Frances is an administrative patent judge at the US Patent and Trademark Office.  Before her appointment, Frances practiced patent law in private practice.  She has a law degree from UC Davis, a Teaching Certificate (Harvard GSE), and a B.A. in chemistry (Harvard University).  She enjoys volunteering and chasing her two young children.</p>"
   - title: "Kristy Mao"
-    excerpt: "<p>Kristy is Senior Finance Director at Siemens Product Lifecycle Management Software Company, who is currently responsible to manage $1B revenue portfolio. Kristy graduated from USC majored in business, and received her MBA from Yale University. Kristy has also attended global leadership program at Harvard Business School.</p>"
+    excerpt: "<p>Kristy is Senior Finance Director at Siemens Product Lifecycle Management Software Company, who is currently responsible to manage $1B revenue portfolio. Kristy graduated from USC majored in business, and received her MBA from Yale University. Kristy has been actively mentoring early and mid career professionals in the past three years at work.</p>"
   - title: "Zhunquin Wang"
     excerpt: "<p>Zhunqing graduated from Tsinghua University and has been a software developer for Oracle since 1997. He has been coaching world-class robotics teams for over a dozen years. He was also active in a local Boy Scout troop. His passion is to foster the holistic growth of future technology leaders.</p>"
   - title: "Hongcheng Zhao"
