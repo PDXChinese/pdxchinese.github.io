@@ -26,7 +26,7 @@ We encourage community members to become a mentor for our kids. Mentoring is alw
 
 | All mentors are encouraged to have one initial face to face meeting with their mentees and then develop future meeting plans including communications via social media or emails if needed. Considering the capacity of mentors, each mentor may only take a few mentees at a time. |
 
-Mentors have agreed to follow all [mentoring program guidelines and code of conduct](/assets/pdf/OCC Mentor Guidances and Code of Conduct.pdf).
+Mentors have agreed to follow all [mentoring program guidelines and code of conduct](/assets/pdf/OCC Mentor Guidances and Code of Conduct 2019.pdf).
 
 {% include feature_row id="feature_row1"%}
 
