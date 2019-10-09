@@ -5,6 +5,18 @@ permalink: /startup/
 
 座谈会资料：[http://pdxchinese.org/resources/benefits_resources/own-resources/](http://pdxchinese.org/resources/benefits_resources/own-resources/)
 
+鼓励大家提前报名，方便安排场地，必要的话也可以reschedule：[https://forms.gle/YC2ThqPCnpDnxn988](https://docs.google.com/forms/d/e/1FAIpQLSd-v5WXsz497wPbK-1wNvJaiSfXcQHJJpDOjPgw37mSrSa4_A/viewform?usp=sf_link)
+
+## 社区第十次创业座谈会
+
+【时间】10.29.2019 周二 7:30 pm - 9:30 pm
+【地点】GRIFFITH BLDG: Room 330 (4755 SW Griffith Drive, Beaverton, OR 97005)
+
+Kristy Mao: Experiences of Mentoring Early and Mid Career Professionals
+
+Kristy is Senior Finance Director at Siemens Product Lifecycle Management Software Company, who is currently responsible to manage $1B revenue portfolio. Kristy graduated from USC majored in business, and received her MBA from Yale University. Kristy has been actively mentoring early and mid career professionals in the past three years at work.
+
+
 ## 社区第九次创业座谈会
 
 【时间】7.16.2019 周二 7:00 pm - 9:30 pm
