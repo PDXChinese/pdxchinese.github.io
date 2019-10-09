@@ -1,7 +1,9 @@
 ---
-title: "Entrepreneurs Forum"
+title: ""
 permalink: /startup/
 ---
+
+<p><img src="/assets/images/activities/startup.png"></p>  
 
 座谈会资料：[http://pdxchinese.org/resources/benefits_resources/own-resources/](http://pdxchinese.org/resources/benefits_resources/own-resources/)
 
