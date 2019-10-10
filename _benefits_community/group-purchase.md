@@ -6,7 +6,7 @@ title: "演出团购活动"
 
 华人社区成员均可以团购价自行直接购买Broadway in Portland在Keller Auditorium的所有演出，最后一次组团是11/2019的Miss Saigon。购买手续公布在《PDX 演出团购群》的Group Notice。
 
-有任何好的机会可以推荐，请联系@西北兆，或[info@pdxchinese.org](mailto:info@pdxchinese.org)。团购活动会在微信群中进行。
+有任何好的机会可以推荐，请联系@西北兆，或[hzhao@pdxchinese.org](mailto:hzhao@pdxchinese.org)。团购活动会在微信群中进行。
 
 ### 10/14/2017 Keller Auditorium  
 Volunteers:  
