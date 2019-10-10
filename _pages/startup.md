@@ -18,6 +18,11 @@ Kristy Mao: Experiences of Mentoring Early and Mid Career Professionals
 
 Kristy is Senior Finance Director at Siemens Product Lifecycle Management Software Company, who is currently responsible to manage $1B revenue portfolio. Kristy graduated from USC majored in business, and received her MBA from Yale University. Kristy has been actively mentoring early and mid career professionals in the past three years at work.
 
+在企业内部华人进入管理层的要相对少得多，分析原因的文章却是多如牛毛。林林总总，都有道理，但是华人忽略了mentoring这一块让我们自己损失了多少，那是怎么说都不会过分的。我们在社区内针对青少年开展mentoring活动，是着眼未来。对于我们大人来说，在这方面补补课，也算是亡羊补牢。
+
+我们非常高兴邀请到Kristy Mao，她在主流公司文化中做得非常的成功，更难能可贵的是，她非常重视在公司内部对专业和管理人员的职业初中期培养。不仅带出了更加优秀的团队，也让自己的事业更加的成功。Kristy非常愿意和大家聊聊在这方面的体会，正好她前两个星期刚在本地耶鲁校友会做了这方面的讲座，轻车熟路，相信无论是想创业的，还是想在公司内部有向上努力的群友都会受益于这次与Kristy的交流的。
+
+从这次开始，我们希望愿意参加座谈会的群友能够事先注册一下，不是必须，主要是统计人数和了解听众的构成。
 
 ## 社区第九次创业座谈会
 
