@@ -1,5 +1,5 @@
 ---
-title: "Sunday's series finale of Chinese Conversation Table"
+title: "Sunday's Series Finale of Chinese Conversation Table"
 author: XiBei Zhao
 excerpt: "Yesterday Chinese Conversation Table at Lan Su Chinese Garden came to the end for the season. It has been a great run with the wide support from the community volunteers. There have been so many forgettable moments and those memories will travel to all over the country with more than a thousand of tourists who stopped over when they visited the garden."
 date: "2019-09-29"
