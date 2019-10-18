@@ -32,6 +32,8 @@ Mentors have agreed to follow all [mentoring program guidelines and code of cond
 
 ## Youth Served
 
+Youth, from Chinese community, age 11 or above.
+
 ### School-Related  
 Academically at-risk  
 College/Post-secondary student  
