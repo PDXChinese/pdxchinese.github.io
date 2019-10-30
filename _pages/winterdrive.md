@@ -3,10 +3,10 @@ title: " "
 permalink: /winterdrive/
 ---
 
-# 2018 Community-Wide Winter Drive
+# 2019 Community-Wide Winter Drive
 
-**Date:** November 17, 2018 Saturday, 1:00 pm - 4:00 pm  
-**Place:** 5 drop off locations  
+**Date:** November 16, 2019 Saturday, 1:00 pm - 4:00 pm  
+**Place:** 4 drop off locations  
 
 | Area | School | Spot if Specified |
 | --- | --- | --- |
@@ -19,49 +19,12 @@ Winter Drive flyer ([front page](/assets/images/activities/2018_winter_drive_fro
 
 **Submit [your donation info](https://docs.google.com/forms/d/e/1FAIpQLSct78I3RXGklzBKVtcKeG8pKZFn7iVZHex3PP3HI6wuI1JdJg/viewform?vc=0&c=0&w=1) for receipt from Central City Concern by 11/25/2018**
 
-Daphne Wu, 2018 Chinese Rose Princess, will proudly serve as Goodwill Ambassador.
-
 ## Participating Students
 
-Entirely run by 35+ students from 20+ local schools or student organizations.
+Entirely run by students from local schools or student organizations.
 
 | Name | School/Organization |
-| Barrett Bai | Findley Elementary School |
-| Nancy Bai | Sunset High School |
-| Wendy Du | Beats of Bethany |
-| Kevin Du | Beats of Bethany |
-| Joe Gu | Stoller Middle School |
-| Jay Hempstead | Lake Oswego High School |
-| Audrey Hu | West Sylvan Middle School |
-| Kevin Lin | Stafford Elementary School |
-| Melinda Lin | Athey creek Middle School |
-| Leon Liu | International School of Beaverton |
-| Steven Niu | Catlin Gabel |
-| John Russak | Stoller Middle School |
-| Michael Russak | Sunset High School |
-| Freya Sticka | Rachelle Carson Middle School |
-| Derica Theobald | French American International School |
-| Jenell Theobald | Whitford Middle School |
-| Angela Wang| Lake Grove Elementary School |
-| Christine Wang | Lake Oswego High School |
-| Leonard Wang | Stoller Middle School |
-| Rachel Wang | Stoller Middle School |
-| Ziyue Wang | Forest Park Elementary School|
-| Yalena Guo-Wittenberg | Woodstock Elementary School |
-| Taverick Guo-Wittenberg | David Douglas High School |
-| Daphne Wu, Chinese Rose Princess | Sunset High School |
-| Sally Xiao | Wood Middle School |
-| Arnold Tianyi Yang | Stoller Middle School |
-| Arthur Tianqi Yang | Findley Elementary School |
-| Alicia Ye| Stoller Middle School |
-| Rentian Yu | Lake Oswego High School |
-| Nathan Ye| Jacob Elementary School |
-| Tony Zeng | Oak Greek Elementary School |
-| Cheery Zhang | Stoller Middle School |
-| Fiona Zhang | Bolton Elementary School |
-| Jiahua Zhu | Westview High School |
-| Fiona Zou | Beats of Bethany |
-| Jonathan Zou | Beats of Bethany |
+| | |
 
 ## Donation Items
 
@@ -97,3 +60,8 @@ CCC have partnered with Bikes for Humanity to create Chain Reaction Bike Co-op, 
 
 [Central City Concern](http://www.centralcityconcern.org/)  
 [Clay Street Table](http://claystreettable.org/)  
+
+## Archive
+
+2018 Community-Wide Winter Drive [Agenda](/assets/pdf/community-winter-drive-2018.pdf)
+2018 Community-Wide Winter Drive [Highlight](http://pdxchinese.org/winter-drive-2018/)
