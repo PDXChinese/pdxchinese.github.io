@@ -17,7 +17,7 @@ permalink: /winterdrive/
 
 Winter Drive flyer ([front page](/assets/images/activities/2018_winter_drive_front.jpg), [back page](/assets/images/activities/2018_winter_drive_back.jpg)) designed by Jiahua Zhu
 
-**Submit [your donation info](https://docs.google.com/forms/d/e/1FAIpQLSct78I3RXGklzBKVtcKeG8pKZFn7iVZHex3PP3HI6wuI1JdJg/viewform?vc=0&c=0&w=1) for receipt from Central City Concern by 11/25/2018**
+**Submit [your donation info](https://docs.google.com/forms/d/e/1FAIpQLSct78I3RXGklzBKVtcKeG8pKZFn7iVZHex3PP3HI6wuI1JdJg/viewform?vc=0&c=0&w=1) for receipt from Central City Concern by 11/25/2019**
 
 ## Participating Students
 
