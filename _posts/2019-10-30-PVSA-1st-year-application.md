@@ -27,6 +27,7 @@ Email我们的时候，请（1）在Subject上标明“2019 PVSA”，（2）在
 
 2. 一定是OCC组织的活动吗？不是的，作为Official Certifying Organization，我们的任务就是为社区成员的义工服务做认证。您参加的是社区公益活动或OCC组织的集体义工活动，我们基本上都会有记录，认证起来会很容易。如果您参加的是社区外的活动，您需要提供活动相关的信息并有组织者的签字。
 
-3. 舞蹈队，唱歌班，击鼓队。。。平时的训练/练习算不算一共小时数？一般是不算的，但是如果是*专门*为某一项公益活动准备的节目，而且不会因此得到*任何财务上的收入*，那就可以算。
+3. 舞蹈队，唱歌班，击鼓队。。。平时的训练/练习算不算一共小时数？一般是不算的，但是如果是*专门*为某一项公益活动准备的节目，而且不会因此得到*任何财务上的收入*，那就可以算。Volunteering is generally considered an altruistic activity, intended to promote good or improve human quality of life. While
+singing in the choir, practicing an instrument, participating in sports or dancing are all worthwhile activities, their primary focus is skill development rather than being altruistic in nature.
 
 因为我们是第一年做，也是在学习过程中。这两天又做了不少的homework，尤其是其它Official Certifying Organizations（OCO）的做法。现在概念基本清楚了，作为认证组织我们将负责认证我们所服务的义工所做的义工小时。OCC作为一个non-membership非盈利性组织，"我们所服务的义工"，应该包括所有认同OCC愿景和使命的华人社区成员。这些义工所做的义工活动，无论是否由OCC出面组织，都可以由OCC加以认证，算入义工总小时数。当然，如同我昨天说过的，凡是参加的是社区公益活动或OCC组织的集体义工活动，我们基本上都会有记录，认证起来会很容易。如果您参加的是社区外的活动，您需要提供活动相关的信息并有组织者的签字。
