@@ -69,10 +69,10 @@ The website is full of resources. Both mentors and mentees are encouraged to exp
 
 'Mentoring provides youth with mentors who can develop an emotional bond with the mentee, have greater experience than the mentee, and can provide support, guidance, and opportunities to help youth succeed in life and meet their goals (DuBois and Karcher, 2005).'
 
-### [MasterClass](https://www.masterclass.com/)
+### [MasterClass.com](https://www.masterclass.com/)
 
 A master class is a class given to students of a particular discipline by an expert of that discipline—usually music, but also painting, drama, any of the arts, or on any other occasion where skills are being developed.
 
-### [Mentor](https://www.mentoring.org/)
+### [Mentoring.org](https://www.mentoring.org/)
 
 MENTOR fuels the quantity and quality of mentoring relationships for the world's young people while closing the mentoring gap.
