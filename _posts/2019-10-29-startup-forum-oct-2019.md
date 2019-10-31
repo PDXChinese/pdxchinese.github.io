@@ -2,7 +2,7 @@
 title: "公司高管与社区成员分享Mentoring经历"
 author: XiBei Zhao
 excerpt: "昨天的创业座谈会非常的成功，Kristy现身说法，生动地介绍了自己在大学和公司如何受益于mentoring，现在身居公司管理高层为中底层管理人员的培养积极付出。这几天我一直在到处宣传Phil Knight的理念，就是所谓的成功并非追求得到的（success is a byproduct, not a goal），那些得到成功的人自然不会居功自傲，而是愿意与别人分享，帮助别人。我们非常高兴的看到我们社区有Kristy这样的十分关心社区的成功人士，希望是越多越好。"
-date: "2019-05-21"
+date: "2019-10-29"
 ---
 
 The chatting history for this WeChat group "PDX 华人社区公益一群" is shown below.
