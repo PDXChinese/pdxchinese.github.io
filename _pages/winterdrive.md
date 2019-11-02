@@ -2,7 +2,7 @@
 title: " "
 permalink: /winterdrive/
 ---
-
+<p><img src="/assets/images/activities/winterdrive.jpg"></p>  
 # 2019 Community-Wide Winter Drive
 
 **Date:** November 16, 2019 Saturday, 1:00 pm - 4:00 pm  
@@ -12,6 +12,7 @@ permalink: /winterdrive/
 | --- | --- | --- |
 | Beaverton | [Sunset High School](https://www.google.com/maps/place/Sunset+High+School/@45.5281211,-122.8205103,15z/data=!4m2!3m1!1s0x0:0xee13c5fd283ea1a8?ved=2ahUKEwj2-Mi2udPeAhVKyFQKHigh SchoolB5DhAQ_BIwCnoECAUQCA) | Parking lot next to NW Cornell Rd|
 | Bethany | [Stoller Middle School](https://www.google.com/maps/place/Stoller+Middle+School/@45.557277,-122.822358,15z/data=!4m2!3m1!1s0x0:0x8ed51b34f0447f22?ved=2ahUKEwj43-zdudPeAhVO7VQKHe5DBqkQ_BIwD3oECAYQCA) | |
+| Bridlemile | [Bridlemile Elementary School](https://www.google.com/maps/place/Bridlemile+Elementary+School/@45.4938972,-122.7394808,15z/data=!4m5!3m4!1s0x0:0x8fddf0e8820345a8!8m2!3d45.49172!4d-122.7242933) | |
 | Lake Oswego | [Lake Oswego High School](https://www.google.com/maps/place/Lake+Oswego+Senior+High+School/@45.4275204,-122.7024808,15z/data=!4m5!3m4!1s0x0:0xca28633b2e16a0ea!8m2!3d45.4275204!4d-122.7024808) | |
 | NW Portland | [Forest Park Elementary School](https://www.google.com/maps/place/Forest+Park+Elementary School+School/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
 
@@ -39,8 +40,8 @@ Entirely run by students from local schools or student organizations.
 | Stella Wang | Stoller Middle School | Bethany |
 | Alley Wu | Sunset High School | Beaverton |
 | Daniel Xian | Stoller Middle School | Bethany |
-| Oscar Xu | Bridlemile Elementary School | |
-| Jasper Xu | Bridlemile Elementary School | |
+| Oscar Xu | Bridlemile Elementary School | Bridlemile |
+| Jasper Xu | Bridlemile Elementary School | Bridlemile |
 | Leonard Yan | Stoller Middle School | Bethany |
 | Kevin Yu | Stoller Middle School | Bethany |
 | Tony Zeng | Oake Creek MS| Lake Oswego |
