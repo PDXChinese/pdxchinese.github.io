@@ -38,7 +38,6 @@ Entirely run by students from local schools or student organizations.
 | Derica Theobald | French American International School | |
 | Stella Wang | Stoller MS | Bethany |
 | Alley Wu | Sunset HS | Beaverton |
-| Wen Wu，Sunset HS | Beaverton |
 | Daniel Xian | Stoller MS | Bethany |
 | Oscar Xu | Bridlemile Elementary | |
 | Jasper Xu | Bridlemile Elementary | |
