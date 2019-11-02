@@ -30,7 +30,7 @@ Entirely run by students from local schools or student organizations.
 | Andy Li | Sunset High School | Beaverton |
 | Shengyao Liu | Lake Oswego High School | Lake Oswego |
 | Steven Niu | Catlin Gabel School | Bethany |
-| Zhi Qu | Cedar Mill Middle School | NW Portland |
+| Zhi Qu | Cedar Mill Elementary | NW Portland |
 | Freya Sticka | Rachel Carson Middle School | |
 | Jeff Sun | Lake Oswego High School | Lake Oswego |
 | Megan Tian | Lakeridge High School | Lake Oswego |
