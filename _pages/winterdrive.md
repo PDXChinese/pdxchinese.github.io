@@ -23,8 +23,32 @@ Winter Drive flyer ([front page](/assets/images/activities/2018_winter_drive_fro
 
 Entirely run by students from local schools or student organizations.
 
-| Name | School/Organization |
-| | |
+| Name | School/Organization | Drop Off Location |
+| --- | --- | --- |
+| Michelle Cheng | Forest Park Elementary | NW Portland |
+| Anna Jiang | Stroller MS | Bethany |
+| Andy Li | Sunset HS | Beaverton |
+| Shengyao Liu | Lake Oswego HS | Lake Oswego |
+| Steven Niu | Catlin Gabel School | Bethany |
+| Zhi Qu | Cedar Mill | NW Portland |
+| Freya Sticka | Rachel Carson MS | |
+| Jeff Sun | Lake Oswego HS | Lake Oswego |
+| Megan Tian | Lakeridge HS | Lake Oswego |
+| Jenell Theobald | Whitford MS | |
+| Derica Theobald | French American International School | |
+| Stella Wang | Stoller MS | Bethany |
+| Alley Wu | Sunset HS | Beaverton |
+| Wen Wu，Sunset HS | Beaverton |
+| Daniel Xian | Stoller MS | Bethany |
+| Oscar Xu | Bridlemile Elementary | |
+| Jasper Xu | Bridlemile Elementary | |
+| Leonard Yan | Stoller MS | Bethany |
+| Kevin Yu | Stoller MS | Bethany |
+| Tony Zeng | Oake Creek MS| Lake Oswego |
+| Claire Zhang | Stoller MS | Bethany |
+| Evan Zhang | Stoller MS | Bethany |
+| Lucas Zhang | Forest Park Elementary | NW Portland |
+| James Zou | Cedar Mill Elementary | |
 
 ## Donation Items
 
