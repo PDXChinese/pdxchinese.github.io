@@ -6,7 +6,7 @@ permalink: /winterdrive/
 # 2019 Community-Wide Winter Drive
 
 **Date:** November 16, 2019 Saturday, 1:00 pm - 4:00 pm  
-**Place:** 4 drop off locations  
+**Place:** 5 drop off locations  
 
 | Area | School | Spot if Specified |
 | --- | --- | --- |
