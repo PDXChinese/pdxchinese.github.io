@@ -2,7 +2,7 @@
 title: " "
 permalink: /winterdrive/
 ---
-<p><img src="/assets/images/activities/winterdrive1.jpg"></p>  
+<p><img src="/assets/images/activities/winterdrive3.jpg"></p>  
 
 **Date:** November 16, 2019 Saturday, 1:00 pm - 4:00 pm  
 **Place:** 5 drop off locations  
