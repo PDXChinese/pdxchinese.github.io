@@ -27,6 +27,7 @@ Entirely run by students from local schools or student organizations.
 | --- | --- | --- |
 | Michelle Cheng | Forest Park Elementary School | NW Portland |
 | Anna Jiang | Stroller Middle School | Bethany |
+| Adam Li | Stroller Middle School | Bethany |
 | Andy Li | Sunset High School | Beaverton |
 | Shengyao Liu | Lake Oswego High School | Lake Oswego |
 | Steven Niu | Catlin Gabel School | Bethany |
