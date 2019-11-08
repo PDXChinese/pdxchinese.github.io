@@ -51,6 +51,7 @@ The committee is responsible for quarterly hearing of OCC’s financial operatio
 Ming Brink  
 Xiaohui Chen  
 Hui Du  
+Kent Yu  
 Ge Liu  
 Guangchao Zhang  
 Liwen Zhang  
