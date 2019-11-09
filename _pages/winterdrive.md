@@ -31,6 +31,9 @@ Entirely run by students from local schools or student organizations.
 | Andy Li | Sunset High School | Beaverton |
 | Shengyao Liu | Lake Oswego High School | Lake Oswego |
 | Steven Niu | Catlin Gabel School | Bethany |
+| Daniel Qi | Lake Oswego High School | Lake Oswego |
+| Anthony Qin | Stoller Middle School | Bethany |
+| Ethan Qin | Stoller Middle School | Bethany |
 | Zhi Qu | Cedar Mill Elementary | NW Portland |
 | Freya Sticka | Rachel Carson Middle School | |
 | Jeff Sun | Lake Oswego High School | Lake Oswego |
