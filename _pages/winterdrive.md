@@ -49,8 +49,8 @@ Entirely run by students from local schools or student osunsetns.
 | Leonard Yan | Stoller Middle School | Bethany |
 | Kevin Yu | Stoller Middle School | Bethany |
 | Tony Zeng | Oake Creek MS| Lake Oswego |
-| Claire Zhang | Meadow Park Middle School | Beaverton |
-| Evan Zhang | Meadow Park Middle School | Beaverton |
+| Claire Zhang | Meadow Park Middle School | Bethany |
+| Evan Zhang | Meadow Park Middle School | Bethany |
 | Lucas Zhang | Forest Park Elementary School | NW Portland |
 | James Zou | Cedar Mill Elementary School | |
 
