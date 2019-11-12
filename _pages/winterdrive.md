@@ -42,6 +42,7 @@ Entirely run by students from local schools or student osunsetns.
 | Megan Tian | Lakeridge High School | Lake Oswego |
 | Jenell Theobald | Whitford Middle School | |
 | Derica Theobald | French American International School | |
+| Ethan Wang | Stoller Middle School | Bethany |
 | Rachel Wang | Stoller Middle School | Bethany |
 | Stella Wang | Stoller Middle School | Bethany |
 | Alley Wu | Sunset High School | Beaverton |
@@ -54,6 +55,7 @@ Entirely run by students from local schools or student osunsetns.
 | Tony Zeng | Oake Creek MS| Lake Oswego |
 | Claire Zhang | Meadow Park Middle School | Bethany |
 | Evan Zhang | Meadow Park Middle School | Bethany |
+| Jackie Zhang | Sunset High School | Beaverton |
 | Lucas Zhang | Forest Park Elementary School | NW Portland |
 | James Zou | Cedar Mill Elementary School | |
 
