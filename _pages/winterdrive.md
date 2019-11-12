@@ -42,8 +42,10 @@ Entirely run by students from local schools or student osunsetns.
 | Megan Tian | Lakeridge High School | Lake Oswego |
 | Jenell Theobald | Whitford Middle School | |
 | Derica Theobald | French American International School | |
+| Rachel Wang | Stoller Middle School | Bethany |
 | Stella Wang | Stoller Middle School | Bethany |
 | Alley Wu | Sunset High School | Beaverton |
+| Cindy Wu | Forest Park Elementary School | NW Portland |
 | Daniel Xian | Stoller Middle School | Bethany |
 | Oscar Xu | Bridlemile Elementary School | Bridlemile |
 | Jasper Xu | Bridlemile Elementary School | Bridlemile |
