@@ -94,5 +94,5 @@ CCC have partnered with Bikes for Humanity to create Chain Reaction Bike Co-op, 
 
 ## Archive
 
-2018 Community-Wide Winter Drive [Agenda](/assets/pdf/community-winter-drive-2018.pdf)  
+2018 Community-Wide Winter Drive [Event](/assets/pdf/community-winter-drive-2018.pdf)  
 2018 Community-Wide Winter Drive [Highlight](http://pdxchinese.org/winter-drive-2018/)  
