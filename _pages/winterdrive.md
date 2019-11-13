@@ -4,7 +4,7 @@ permalink: /winterdrive/
 ---
 <p><img src="/assets/images/activities/winter_drive_banner.jpg"></p>  
 
-# 2019 Annual Community Winter Clothing Drive  
+# 2019 Community Winter Clothing Drive  
 **Date:** November 16, 2019 Saturday, 1:00 pm - 4:00 pm  
 **Place:** 5 drop off locations  
 
