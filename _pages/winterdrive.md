@@ -31,6 +31,7 @@ Entirely run by students from local schools or student osunsetns.
 | Anna Jiang | Stroller Middle School | Bethany |
 | Adam Li | Stroller Middle School | Bethany |
 | Andy Li | Sunset High School | Beaverton |
+| Matthew Li | International School of Beaverton | Beaverton |
 | Shengyao Liu | Lake Oswego High School | Lake Oswego |
 | Bruna Luo | Lake Oswego High School | Lake Oswego |
 | Steven Niu | Catlin Gabel School | Bethany |
