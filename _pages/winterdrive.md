@@ -35,7 +35,7 @@ Entirely run by 35 students from 15 local schools student.
 | Matthew Li | International School of Beaverton | Beaverton |
 | Shengyao Liu | Lake Oswego High School | Lake Oswego |
 | Bruna Luo | Lake Oswego High School | Lake Oswego |
-| Steven Niu | Catlin Gabel School | Bethany |
+| Steven Niu | Catlin Gabel School | Bethany #2 |
 | Daniel Qi | Lake Oswego High School | Lake Oswego |
 | Anthony Qin | Stoller Middle School | Bethany |
 | Ethan Qin | Stoller Middle School | Bethany |
