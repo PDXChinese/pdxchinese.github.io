@@ -21,9 +21,9 @@ Winter Drive flyer: [Bridlemile](/assets/images/activities/2019_flyer_bridlemile
 
 **Submit [your donation info](https://docs.google.com/forms/d/e/1FAIpQLSct78I3RXGklzBKVtcKeG8pKZFn7iVZHex3PP3HI6wuI1JdJg/viewform?vc=0&c=0&w=1) for receipt from Central City Concern by 11/25/2019**
 
-## Participating Students
+## Student Volunteers
 
-Entirely run by students from local schools or student osunsetns.
+Entirely run by 35 students from 15 local schools student.
 
 | Name | School/Organization | Drop Off Location |
 | --- | --- | --- |
