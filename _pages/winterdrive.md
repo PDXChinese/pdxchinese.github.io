@@ -19,7 +19,7 @@ permalink: /winterdrive/
 
 Winter Drive flyer: [Bridlemile](/assets/images/activities/2019_flyer_bridlemile.jpg), [Forest Park](/assets/images/activities/2019_flyer_fpe.jpg), [Lake Oswego](/assets/images/activities/2019_flyer_lo.jpg), [Stoller](/assets/images/activities/2019_flyer_stoller.jpg), [Sunset](/assets/images/activities/2019_flyer_sunset.jpg)
 
-**[Donation Receipt](/assets/images/activities/occ_donation_receipt_2019.pdf)**
+**[2019 OCC Donation Receipt](/assets/images/activities/occ_donation_receipt_2019.pdf)**
 
 ## Student Volunteers
 
