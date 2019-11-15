@@ -27,7 +27,7 @@ Entirely run by 35 students from 15 local schools student.
 
 | Name | School/Organization | Drop Off Location |
 | --- | --- | --- |
-| Noah Von Dem Bruch | OES | Bridlemile |
+| Noah Von Dem Bruch | Oregon Episcopal School | Bridlemile |
 | Michelle Cheng | Forest Park Elementary School | NW Portland |
 | Anna Jiang | Stroller Middle School | Bethany #1 |
 | Adam Li | Stroller Middle School | Bethany #2 |
@@ -39,12 +39,12 @@ Entirely run by 35 students from 15 local schools student.
 | Daniel Qi | Lake Oswego High School | Lake Oswego |
 | Anthony Qin | Stoller Middle School | Bethany #1 |
 | Ethan Qin | Stoller Middle School | Bethany #1 |
-| Zhi Qu | Cedar Mill Elementary | NW Portland |
+| Zhi Qu | Cedar Mill Elementary School | NW Portland |
 | Freya Sticka | Rachel Carson Middle School | |
 | Jeff Sun | Lake Oswego High School | Lake Oswego |
 | Megan Tian | Lakeridge High School | Lake Oswego |
-| Jenell Theobald | Whitford Middle School | |
-| Derica Theobald | French American International School | |
+| Jenell Theobald | Whitford Middle School | Bethany #1 |
+| Derica Theobald | French American International School | Bethany #1 |
 | Ethan Wang | Stoller Middle School | Bethany #2 |
 | Rachel Wang | Stoller Middle School | Bethany #1 |
 | Stella Wang | Stoller Middle School | Bethany #1 |
@@ -55,7 +55,7 @@ Entirely run by 35 students from 15 local schools student.
 | Jasper Xu | Bridlemile Elementary School | Bridlemile |
 | Leonard Yan | Stoller Middle School | Bethany #2 |
 | Kevin Yu | Stoller Middle School | Bethany #1 |
-| Tony Zeng | Oake Creek MS| Lake Oswego |
+| Tony Zeng | Oak Creek MS| Lake Oswego |
 | Claire Zhang | Meadow Park Middle School | Bethany #1 |
 | Evan Zhang | Meadow Park Middle School | Bethany #1 |
 | Jackie Zhang | Sunset High School | Beaverton |
