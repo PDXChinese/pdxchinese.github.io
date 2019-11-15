@@ -50,7 +50,7 @@ Entirely run by 35 students from 15 local schools student.
 | Stella Wang | Stoller Middle School | Bethany #1 |
 | Alley Wu | Sunset High School | Beaverton |
 | Cindy Wu | Forest Park Elementary School | NW Portland |
-| Daniel Xian | Stoller Middle School | Bethany #1 |
+| Daniel Xian | Stoller Middle School | Bethany #2 |
 | Oscar Xu | Bridlemile Elementary School | Bridlemile |
 | Jasper Xu | Bridlemile Elementary School | Bridlemile |
 | Leonard Yan | Stoller Middle School | Bethany #2 |
