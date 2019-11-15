@@ -29,7 +29,7 @@ Entirely run by 35 students from 15 local schools student.
 | --- | --- | --- |
 | Noah Von Dem Bruch | OES | Bridlemile |
 | Michelle Cheng | Forest Park Elementary School | NW Portland |
-| Anna Jiang | Stroller Middle School | Bethany |
+| Anna Jiang | Stroller Middle School | Bethany #1 |
 | Adam Li | Stroller Middle School | Bethany #2 |
 | Andy Li | Sunset High School | Beaverton |
 | Matthew Li | International School of Beaverton | Beaverton |
@@ -37,8 +37,8 @@ Entirely run by 35 students from 15 local schools student.
 | Bruna Luo | Lake Oswego High School | Lake Oswego |
 | Steven Niu | Catlin Gabel School | Bethany #2 |
 | Daniel Qi | Lake Oswego High School | Lake Oswego |
-| Anthony Qin | Stoller Middle School | Bethany |
-| Ethan Qin | Stoller Middle School | Bethany |
+| Anthony Qin | Stoller Middle School | Bethany #1 |
+| Ethan Qin | Stoller Middle School | Bethany #1 |
 | Zhi Qu | Cedar Mill Elementary | NW Portland |
 | Freya Sticka | Rachel Carson Middle School | |
 | Jeff Sun | Lake Oswego High School | Lake Oswego |
@@ -46,18 +46,18 @@ Entirely run by 35 students from 15 local schools student.
 | Jenell Theobald | Whitford Middle School | |
 | Derica Theobald | French American International School | |
 | Ethan Wang | Stoller Middle School | Bethany #2 |
-| Rachel Wang | Stoller Middle School | Bethany |
-| Stella Wang | Stoller Middle School | Bethany |
+| Rachel Wang | Stoller Middle School | Bethany #1 |
+| Stella Wang | Stoller Middle School | Bethany #1 |
 | Alley Wu | Sunset High School | Beaverton |
 | Cindy Wu | Forest Park Elementary School | NW Portland |
-| Daniel Xian | Stoller Middle School | Bethany |
+| Daniel Xian | Stoller Middle School | Bethany #1 |
 | Oscar Xu | Bridlemile Elementary School | Bridlemile |
 | Jasper Xu | Bridlemile Elementary School | Bridlemile |
 | Leonard Yan | Stoller Middle School | Bethany #2 |
-| Kevin Yu | Stoller Middle School | Bethany |
+| Kevin Yu | Stoller Middle School | Bethany #1 |
 | Tony Zeng | Oake Creek MS| Lake Oswego |
-| Claire Zhang | Meadow Park Middle School | Bethany |
-| Evan Zhang | Meadow Park Middle School | Bethany |
+| Claire Zhang | Meadow Park Middle School | Bethany #1 |
+| Evan Zhang | Meadow Park Middle School | Bethany #1 |
 | Jackie Zhang | Sunset High School | Beaverton |
 | Lucas Zhang | Forest Park Elementary School | NW Portland |
 | James Zou | Cedar Mill Elementary School | |
