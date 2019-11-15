@@ -19,7 +19,7 @@ permalink: /winterdrive/
 
 Winter Drive flyer: [Bridlemile](/assets/images/activities/2019_flyer_bridlemile.jpg), [Forest Park](/assets/images/activities/2019_flyer_fpe.jpg), [Lake Oswego](/assets/images/activities/2019_flyer_lo.jpg), [Stoller](/assets/images/activities/2019_flyer_stoller.jpg), [Sunset](/assets/images/activities/2019_flyer_sunset.jpg)
 
-**Submit [your donation info](https://docs.google.com/forms/d/e/1FAIpQLSct78I3RXGklzBKVtcKeG8pKZFn7iVZHex3PP3HI6wuI1JdJg/viewform?vc=0&c=0&w=1) for receipt from Central City Concern by 11/25/2019**
+**[Donation Receipt](/assets/images/activities/occ_donation_receipt_2019.pdf)**
 
 ## Student Volunteers
 
