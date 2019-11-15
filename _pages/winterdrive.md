@@ -30,7 +30,7 @@ Entirely run by 35 students from 15 local schools student.
 | Noah Von Dem Bruch | OES | Bridlemile |
 | Michelle Cheng | Forest Park Elementary School | NW Portland |
 | Anna Jiang | Stroller Middle School | Bethany |
-| Adam Li | Stroller Middle School | Bethany |
+| Adam Li | Stroller Middle School | Bethany #2 |
 | Andy Li | Sunset High School | Beaverton |
 | Matthew Li | International School of Beaverton | Beaverton |
 | Shengyao Liu | Lake Oswego High School | Lake Oswego |
