@@ -60,6 +60,7 @@ Entirely run by students from local schools or student osunsetns.
 | Jackie Zhang | Sunset High School | Beaverton |
 | Lucas Zhang | Forest Park Elementary School | NW Portland |
 | James Zou | Cedar Mill Elementary School | |
+| Qianyi Zou | Lakeridge High School | Lake Oswego |
 
 ## Donation Items
 
