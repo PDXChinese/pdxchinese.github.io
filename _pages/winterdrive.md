@@ -11,7 +11,8 @@ permalink: /winterdrive/
 | Area | School | Spot if Specified |
 | --- | --- | --- |
 | Beaverton | [Sunset High School](https://www.google.com/maps/place/Sunset+High+School/@45.5281211,-122.8205103,15z/data=!4m2!3m1!1s0x0:0xee13c5fd283ea1a8?ved=2ahUKEwj2-Mi2udPeAhVKyFQKHigh SchoolB5DhAQ_BIwCnoECAUQCA) | Parking lot next to NW Cornell Rd|
-| Bethany | [Stoller Middle School](https://www.google.com/maps/place/Stoller+Middle+School/@45.557277,-122.822358,15z/data=!4m2!3m1!1s0x0:0x8ed51b34f0447f22?ved=2ahUKEwj43-zdudPeAhVO7VQKHe5DBqkQ_BIwD3oECAYQCA) | |
+| Bethany #1 | [Stoller Middle School](https://www.google.com/maps/place/Stoller+Middle+School/@45.557277,-122.822358,15z/data=!4m2!3m1!1s0x0:0x8ed51b34f0447f22?ved=2ahUKEwj43-zdudPeAhVO7VQKHe5DBqkQ_BIwD3oECAYQCA) | |
+| Bethany #2 | Bethany Village | [Walgreens](https://www.google.com/maps/place/Walgreens/@45.555242,-122.836414,17.25z/data=!4m5!3m4!1s0x0:0x13e6b71d8ca8bcde!8m2!3d45.5551922!4d-122.8352382) |
 | Bridlemile | [Bridlemile Elementary School](https://www.google.com/maps/place/Bridlemile+Elementary+School/@45.4938972,-122.7394808,15z/data=!4m5!3m4!1s0x0:0x8fddf0e8820345a8!8m2!3d45.49172!4d-122.7242933) | Hamilton Park Playground |
 | Lake Oswego | [Lake Oswego High School](https://www.google.com/maps/place/Lake+Oswego+Senior+High+School/@45.4275204,-122.7024808,15z/data=!4m5!3m4!1s0x0:0xca28633b2e16a0ea!8m2!3d45.4275204!4d-122.7024808) | |
 | NW Portland | [Forest Park Elementary School](https://www.google.com/maps/place/Forest+Park+Elementary School+School/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
@@ -44,7 +45,7 @@ Entirely run by students from local schools or student osunsetns.
 | Megan Tian | Lakeridge High School | Lake Oswego |
 | Jenell Theobald | Whitford Middle School | |
 | Derica Theobald | French American International School | |
-| Ethan Wang | Stoller Middle School | Bethany |
+| Ethan Wang | Stoller Middle School | Bethany #2 |
 | Rachel Wang | Stoller Middle School | Bethany |
 | Stella Wang | Stoller Middle School | Bethany |
 | Alley Wu | Sunset High School | Beaverton |
@@ -52,7 +53,7 @@ Entirely run by students from local schools or student osunsetns.
 | Daniel Xian | Stoller Middle School | Bethany |
 | Oscar Xu | Bridlemile Elementary School | Bridlemile |
 | Jasper Xu | Bridlemile Elementary School | Bridlemile |
-| Leonard Yan | Stoller Middle School | Bethany |
+| Leonard Yan | Stoller Middle School | Bethany #2 |
 | Kevin Yu | Stoller Middle School | Bethany |
 | Tony Zeng | Oake Creek MS| Lake Oswego |
 | Claire Zhang | Meadow Park Middle School | Bethany |
