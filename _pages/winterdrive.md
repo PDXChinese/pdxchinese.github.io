@@ -14,7 +14,7 @@ permalink: /winterdrive/
 | Bethany #1 | [Stoller Middle School](https://www.google.com/maps/place/Stoller+Middle+School/@45.557277,-122.822358,15z/data=!4m2!3m1!1s0x0:0x8ed51b34f0447f22?ved=2ahUKEwj43-zdudPeAhVO7VQKHe5DBqkQ_BIwD3oECAYQCA) | |
 | Bethany #2 | Bethany Village | [Walgreens](https://www.google.com/maps/place/Walgreens/@45.555242,-122.836414,17.25z/data=!4m5!3m4!1s0x0:0x13e6b71d8ca8bcde!8m2!3d45.5551922!4d-122.8352382) |
 | Bridlemile | [Bridlemile Elementary School](https://www.google.com/maps/place/Bridlemile+Elementary+School/@45.4938972,-122.7394808,15z/data=!4m5!3m4!1s0x0:0x8fddf0e8820345a8!8m2!3d45.49172!4d-122.7242933) | Hamilton Park Playground |
-| Lake Oswego | [Lake Oswego High School](https://www.google.com/maps/place/Lake+Oswego+Senior+High+School/@45.4275204,-122.7024808,15z/data=!4m5!3m4!1s0x0:0xca28633b2e16a0ea!8m2!3d45.4275204!4d-122.7024808) | |
+| Lake Oswego | Lake Oswego High School | [Westlake Park (next to play structure)](https://www.google.com/maps/place/Westlake+Park/@45.4240433,-122.738775,16z/data=!4m5!3m4!1s0x0:0xf92db3a1fa94a97e!8m2!3d45.4253979!4d-122.726774) |
 | NW Portland | [Forest Park Elementary School](https://www.google.com/maps/place/Forest+Park+Elementary School+School/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
 
 Winter Drive flyer: [Bridlemile](/assets/images/activities/2019_flyer_bridlemile.jpg), [Forest Park](/assets/images/activities/2019_flyer_fpe.jpg), [Lake Oswego](/assets/images/activities/2019_flyer_lo.jpg), [Stoller](/assets/images/activities/2019_flyer_stoller.jpg), [Sunset](/assets/images/activities/2019_flyer_sunset.jpg)
