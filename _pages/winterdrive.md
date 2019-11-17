@@ -40,7 +40,7 @@ Entirely run by 35 students from 16 local schools student.
 | Anthony Qin | Stoller Middle School | Bethany #1 |
 | Ethan Qin | Stoller Middle School | Bethany #1 |
 | Zhi Qu | Cedar Mill Elementary School | NW Portland |
-| Freya Sticka | Rachel Carson Middle School | |
+| Freya Sticka | Rachel Carson Middle School | Bethany #1 |
 | Jeff Sun | Lake Oswego High School | Lake Oswego |
 | Megan Tian | Lakeridge High School | Lake Oswego |
 | Jenell Theobald | Whitford Middle School | Bethany #1 |
@@ -60,7 +60,7 @@ Entirely run by 35 students from 16 local schools student.
 | Evan Zhang | Meadow Park Middle School | Bethany #1 |
 | Jackie Zhang | Sunset High School | Beaverton |
 | Lucas Zhang | Forest Park Elementary School | NW Portland |
-| James Zou | Cedar Mill Elementary School | |
+| James Zou | Cedar Mill Elementary School | NW Portland |
 | Qianyi Zou | Lakeridge High School | Lake Oswego |
 
 ## Donation Items
