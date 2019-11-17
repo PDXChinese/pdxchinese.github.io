@@ -23,7 +23,7 @@ Winter Drive flyer: [Bridlemile](/assets/images/activities/2019_flyer_bridlemile
 
 ## Student Volunteers
 
-Entirely run by 35 students from 15 local schools student.
+Entirely run by 35 students from 16 local schools student.
 
 | Name | School/Organization | Drop Off Location |
 | --- | --- | --- |
@@ -48,7 +48,7 @@ Entirely run by 35 students from 15 local schools student.
 | Ethan Wang | Stoller Middle School | Bethany #2 |
 | Rachel Wang | Stoller Middle School | Bethany #1 |
 | Stella Wang | Stoller Middle School | Bethany #1 |
-| Alley Wu | Sunset High School | Beaverton |
+| Alley Wu | Valley Catholic High School | Beaverton |
 | Cindy Wu | Forest Park Elementary School | NW Portland |
 | Daniel Xian | Stoller Middle School | Bethany #2 |
 | Oscar Xu | Bridlemile Elementary School | Bridlemile |
