@@ -24,6 +24,8 @@ extra:
     children:
       - title: "Volunteering"
         url: /volunteering/
+      - title: "PVSA Honorees"
+        url: /pvsa/
       - title: "Winter Drive"
         url: /winterdrive/
       - title: "---"
