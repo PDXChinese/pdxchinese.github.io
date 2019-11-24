@@ -5,13 +5,16 @@ feature_row:
   - image_path: /assets/images/activities/pvsa_logo.jpg
 feature_row1:
   - image_path: /assets/images/activities/pvsacertorg1.gif
-    title: "[Honoree 1]((http://pdxchinese.org/)"
+    title: "Gold"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsa/'>Honoree 1</a></p>"
 feature_row1:
   - image_path: /assets/images/activities/pvsacertorg1.gif
-    title: "Honoree 2"
+    title: "Silver"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsa/'>Honoree 2</a></p>"
 feature_row1:
   - image_path: /assets/images/activities/pvsacertorg1.gif
-    title: "Honoree 3"
+    title: "Bronze"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsa/'>Honoree 3</a></p>"
 ---
 
 {% include feature_row id="feature_row"%}
