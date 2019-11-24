@@ -1,24 +1,22 @@
 ---
 title: " "
 permalink: /pvsa/
-feature_row:
-  - image_path: /assets/images/activities/pvsa_logo.jpg
 feature_row1:
+  - image_path: /assets/images/activities/pvsa_logo.jpg
+feature_row2:
   - image_path: /assets/images/activities/pvsacertorg1.gif
     title: "Gold"
     excerpt: "<p><a href='http://pdxchinese.org/pvsa/'>Honoree 1</a></p>"
-feature_row1:
   - image_path: /assets/images/activities/pvsacertorg1.gif
     title: "Silver"
     excerpt: "<p><a href='http://pdxchinese.org/pvsa/'>Honoree 2</a></p>"
-feature_row1:
   - image_path: /assets/images/activities/pvsacertorg1.gif
     title: "Bronze"
     excerpt: "<p><a href='http://pdxchinese.org/pvsa/'>Honoree 3</a></p>"
 ---
 
-{% include feature_row id="feature_row"%}
+{% include feature_row id="feature_row1"%}
 
 # 2019 President's Volunteer Service Award Honorees
 
-{% include feature_row id="feature_row1"%}
+{% include feature_row id="feature_row2"%}
