@@ -14,6 +14,6 @@ feature_row2:
 
 {% include feature_row id="feature_row1"%}
 
-# 2019 President's Volunteer Service Award Honorees
+# 2019 President's Volunteer Service Award
 
 {% include feature_row id="feature_row2"%}
