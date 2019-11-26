@@ -1,6 +1,6 @@
 ---
 title: " "
-permalink: /pvsa_honorees/
+permalink: /pvsa/
 feature_row1:
   - image_path: /assets/images/activities/pvsa_logo.jpg
 feature_row2:
