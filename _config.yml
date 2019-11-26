@@ -364,6 +364,10 @@ collections:
   youthconf:
     output: true
     permalink: /youthconference/:path/
+  pvsa:
+    output: true
+    permalink: /pvsa/:path/
+
 
 # Defaults
 defaults:
@@ -690,6 +694,13 @@ defaults:
   - scope:
       path: ""
       type: youthconf
+    values:
+      layout: single
+      author_profile: false
+  # pvsa
+  - scope:
+      path: ""
+      type: pvsa
     values:
       layout: single
       author_profile: false
