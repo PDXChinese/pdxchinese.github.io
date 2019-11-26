@@ -364,7 +364,7 @@ collections:
   youthconf:
     output: true
     permalink: /youthconference/:path/
-  pvsa:
+  pvsafiles:
     output: true
     permalink: /pvsa/:path/
 
@@ -697,10 +697,10 @@ defaults:
     values:
       layout: single
       author_profile: false
-  # pvsa
+  # pvsafiles
   - scope:
       path: ""
-      type: pvsa
+      type: pvsafiles
     values:
       layout: single
       author_profile: false
