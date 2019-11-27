@@ -7,7 +7,8 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Ruolan Nancy Bai (Gold Award)
+# Ruolan Nancy Bai
+## Community Volunteer Service Gold Award  
 
 **School: Sunset High School**  
 **Category: Teens (11-15)**  
