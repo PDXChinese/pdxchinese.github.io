@@ -8,30 +8,30 @@ feature_row2:
   - image_path: /assets/images/activities/pvsacertorg1.gif
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Maggie_Bao/'>Maggie Bao, Sunset High School (Gold Award)</a></p>"
   - image_path: /assets/images/activities/pvsacertorg1.gif
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_honoree1/'>Honoree 2 (Gold)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Victor_Li/'>Victor Li, Jesuit High School (Gold Award)</a></p>"
+  - image_path: /assets/images/activities/pvsacergif
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_David_Sha/'>David Sha, Sunset High School (Gold Award)</a></p>"
   - image_path: /assets/images/activities/pvsacertorg1.gif
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_honoree1/'>Honoree 3 (Gold)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Derica_Theobald/'>Derica Theobald, French American Int'l School (Gold Award)</a></p>"    
   - image_path: /assets/images/activities/pvsacertorg1.gif
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_honoree1/'>Honoree 4 (Gold)</a></p>"    
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Jenell_Theobald/'>Jenell Theobald, Whitford Middle School (Gold Award)</a></p>"
   - image_path: /assets/images/activities/pvsacertorg1.gif
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_honoree1/'>Honoree 5 (Gold)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Qiyue_Zhang/'>Qiyue Zhang, Westview High School (Gold Award)</a></p>"
   - image_path: /assets/images/activities/pvsacertorg1.gif
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_honoree1/'>Honoree 6 (Gold)</a></p>"
-  - image_path: /assets/images/activities/pvsacertorg1.gif
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_honoree1/'>Honoree 7 (Silver)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Jenny_Jiang/'>Jenny Jiang, Sunset High School (Silver Award)</a></p>"
   - image_path: /assets/images/activities/pvsacertorg1.gif
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Danica_Leung/'>Danica Leung, Lincoln High School (Silver Award)</a></p>"
   - image_path: /assets/images/activities/pvsacertorg1.gif
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_honoree1/'>Honoree 9 (Silver)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Laura_Qin/'>Laura Qin, Westview High School (Silver Award)</a></p>"
   - image_path: /assets/images/activities/pvsacertorg1.gif
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_honoree1/'>Honoree 10 (Silver)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Jiaqi_Zhang/'>Jiaqi Zhang, Sunset High School (Silver Award)</a></p>"
   - image_path: /assets/images/activities/pvsacertorg1.gif
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_honoree1/'>Honoree 11 (Bronze)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Owen_Shen/'>Owen Shen, The Emerson School (Bronze Award)</a></p>"
   - image_path: /assets/images/activities/pvsacertorg1.gif
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_honoree1/'>Honoree 12 (Bronze)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Eleanor_Song/'>Eleanor Song, Stoller Middle School (Bronze Award)</a></p>"
 feature_row3:
   - image_path: /assets/images/activities/pvsacertorg1.gif
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_honoree1/'>Honoree 13 (Gold)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Ruolan_Bai/'>Ruolan Bai, Sunset High School (Gold Award)</a></p>"
 ---
 
 {% include feature_row id="feature_row1"%}
