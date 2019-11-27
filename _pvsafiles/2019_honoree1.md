@@ -9,7 +9,7 @@ feature_row1:
 
 ### Name:  
 ### School:  
-### Category:  
 ### Award:  
+### Category:  
 ### Hours:
 ### Year:    
