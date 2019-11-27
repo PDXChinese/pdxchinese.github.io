@@ -7,9 +7,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-### Name:  
-### School:  
-### Award:  
-### Category:  
-### Hours:
-### Year:    
+| Name | | School | |  
+| Award | | Category | |
+| Hours | | Year | 2019 |
+    
