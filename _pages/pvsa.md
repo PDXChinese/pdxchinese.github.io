@@ -6,7 +6,7 @@ feature_row1:
   - image_path: /assets/images/activities/year_2019.jpg
 feature_row2:
   - image_path: /assets/images/activities/pvsacertorg1.gif
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_honoree1/'>Honoree 1 (Gold)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Maggie_Bao/'>Maggie Bao (Gold Award)</a></p>"
   - image_path: /assets/images/activities/pvsacertorg1.gif
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_honoree1/'>Honoree 2 (Gold)</a></p>"
   - image_path: /assets/images/activities/pvsacertorg1.gif
