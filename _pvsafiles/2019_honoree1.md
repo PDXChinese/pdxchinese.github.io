@@ -7,6 +7,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-| Name | Maggie Bao | School | Sunset High School |  
-| Award | Gold | Category | Teens (11-15) |
-| Hours | 182 | Year | 2019 |
+# Maggie Bao (Gold Award)
+
+**School: Sunset High School  **
+**Hours: 182  **
