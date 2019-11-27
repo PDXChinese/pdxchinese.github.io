@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "President's Volunteer Service Award"
 feature_row1:
   - image_path: /assets/images/activities/jackie.jpg
   - image_path: /assets/images/activities/year_2019.jpg
@@ -7,8 +7,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Jiaqi Jackie Zhang  
-## President's Volunteer Service Silver Award  
+# Jiaqi Jackie Zhang (Silver Award)
 
 **School: Sunset High School**  
 **Category: Teens (11-15)**  
