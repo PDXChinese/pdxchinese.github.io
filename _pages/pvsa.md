@@ -20,7 +20,7 @@ feature_row2:
   - image_path: /assets/images/activities/pvsacertorg1.gif
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_honoree1/'>Honoree 7 (Silver)</a></p>"
   - image_path: /assets/images/activities/pvsacertorg1.gif
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Danica_Leung/'>Danica Leung (Silver)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Danica_Leung/'>Danica Leung (Silver Award)</a></p>"
   - image_path: /assets/images/activities/pvsacertorg1.gif
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_honoree1/'>Honoree 9 (Silver)</a></p>"
   - image_path: /assets/images/activities/pvsacertorg1.gif
