@@ -23,14 +23,14 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Danica_Leung/'>Danica Leung, Lincoln High School (Silver Award)</a></p>"
   - image_path: /assets/images/activities/pvsacertorg1.gif
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Laura_Qin/'>Laura Qin, Westview High School (Silver Award)</a></p>"
-  - image_path: /assets/images/activities/pvsacertorg1.gif
+  - image_path: /assets/images/activities/jackie.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Jiaqi_Zhang/'>Jiaqi Zhang, Sunset High School (Silver Award)</a></p>"
   - image_path: /assets/images/activities/pvsacertorg1.gif
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Owen_Shen/'>Owen Shen, The Emerson School (Bronze Award)</a></p>"
   - image_path: /assets/images/activities/pvsacertorg1.gif
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Eleanor_Song/'>Eleanor Song, Stoller Middle School (Bronze Award)</a></p>"
 feature_row3:
-  - image_path: /assets/images/activities/pvsacertorg1.gif
+  - image_path: /assets/images/activities/nancy.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Ruolan_Bai/'>Ruolan Bai, Sunset High School (Gold Award)</a></p>"
 ---
 
