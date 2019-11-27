@@ -9,5 +9,5 @@ feature_row1:
 
 # Maggie Bao (Gold Award)
 
-**School: Sunset High School  **
-**Hours: 182  **
+**School: Sunset High School**  
+**Hours: 182**  
