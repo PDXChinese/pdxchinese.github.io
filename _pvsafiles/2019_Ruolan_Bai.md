@@ -1,5 +1,5 @@
 ---
-title: "Community Volunteer Service Award"
+title: " "
 feature_row1:
   - image_path: /assets/images/activities/nancy.jpg
   - image_path: /assets/images/activities/year_2019.jpg
