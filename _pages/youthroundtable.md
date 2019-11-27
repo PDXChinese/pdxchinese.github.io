@@ -28,13 +28,23 @@ Please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQ
 
 Meeting Room A
 
-Coming soon...
+10:00am - 12:00pm Roundtable Discussion (Topics TBD)
+
+12:00pm - 12:45pm Meeting with Mentors (Paul Ip, Kristy Mao, Frances Ippolito)
+
+12:45pm - 1:00pm President's Volunteer Service Award Presentation Ceremony
 
 ## Proposed Agenda for Parents
 
 Meeting Room B
 
-Coming soon...
+10:00am - 11:00am (Topics TBD)
+
+11:00am - 12:00pm Meeting with Mentors (Paul Ip, Kristy Mao, Frances Ippolito)
+
+12:00pm - 12:45pm Roundtable Discussion
+
+12:45pm - 1:00pm President's Volunteer Service Award Presentation Ceremony
 
 ### Co-Hosts
 
