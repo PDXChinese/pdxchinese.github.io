@@ -10,7 +10,7 @@ feature_row2:
   - image_path: /assets/images/activities/pvsacertorg1.gif
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_honoree1/'>Honoree 2 (Gold)</a></p>"
   - image_path: /assets/images/activities/pvsacertorg1.gif
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_honoree1/'>Honoree 3 (Gold)</a_</p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_honoree1/'>Honoree 3 (Gold)</a></p>"
   - image_path: /assets/images/activities/pvsacertorg1.gif
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_honoree1/'>Honoree 4 (Gold)</a></p>"    
   - image_path: /assets/images/activities/pvsacertorg1.gif
