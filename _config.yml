@@ -366,7 +366,7 @@ collections:
     permalink: /youthconference/:path/
   pvsafiles:
     output: true
-    permalink: /pvsa_honorees/:path/
+    permalink: /pvsafiles/:path/
 
 
 # Defaults
