@@ -2,6 +2,7 @@
 title: " "
 feature_row1:
   - image_path: /assets/images/activities/pvsa_logo.jpg
+  - image_path: /assets/images/activities/year_2019.jpg
 
 ---
 
