@@ -8,7 +8,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Qiyue Cheery Zhang - Gold Award Recipient
+# Qiyue Cheery Zhang - Gold Award
 
 **School: Westview High School**  
 **Category: Teens (11-15)**  
