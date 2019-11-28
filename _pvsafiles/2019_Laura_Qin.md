@@ -8,7 +8,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Laura Qin (Silver Award)
+# Laura Qin - Silver Award Recipient
 
 **School: Westview High School**  
 **Category: Teens (11-15)**  

@@ -7,7 +7,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Danica Leung (Silver Award)
+# Danica Leung - Silver Award Recipient
 
 **School: Lincoln High School**  
 **Category: Teens (11-15)**  

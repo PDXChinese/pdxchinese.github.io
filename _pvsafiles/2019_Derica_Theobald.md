@@ -8,7 +8,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Derica Theobald (Gold Award)
+# Derica Theobald - Gold Award Recipient
 
 **School: French American International School**  
 **Category: Kids (5-10)**  

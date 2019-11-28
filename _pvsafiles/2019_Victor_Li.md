@@ -8,7 +8,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Victor Zelin Li (Gold Award)
+# Victor Zelin Li - Gold Award Recipient
 
 **School: Jesuit High School**  
 **Category: Teens (11-15)**  

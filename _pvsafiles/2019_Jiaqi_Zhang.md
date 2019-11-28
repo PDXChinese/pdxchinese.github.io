@@ -7,9 +7,8 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Jiaqi Jackie Zhang 
+# Jiaqi Jackie Zhang - Silver Award Recipient
 
 **School: Sunset High School**  
 **Category: Teens (11-15)**  
-**Award: Silver**  
 **Hours: 89**  

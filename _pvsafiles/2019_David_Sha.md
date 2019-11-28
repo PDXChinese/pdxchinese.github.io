@@ -8,7 +8,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# David Dahui Sha (Gold Award)
+# David Dahui Sha - Gold Award Recipient
 
 **School: Sunset High School**  
 **Category: Teens (11-15)**  

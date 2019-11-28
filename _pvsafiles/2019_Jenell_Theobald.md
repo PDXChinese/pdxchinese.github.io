@@ -8,7 +8,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Jenell Theobald (Gold Award)
+# Jenell Theobald - Gold Award Recipient
 
 **School: Whitford Middle School**  
 **Category: Teens (11-15)**  

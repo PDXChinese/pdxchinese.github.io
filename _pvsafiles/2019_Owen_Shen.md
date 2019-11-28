@@ -8,7 +8,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Owen Shen (Bronze Award)
+# Owen Shen - Bronze Award Recipient
 
 **School: The Emerson School**  
 **Category: Kids (5-10)**  

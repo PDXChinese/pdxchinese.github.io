@@ -8,7 +8,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Jenny Jiang (Silver Award)
+# Jenny Jiang - Gold Award Recipient
 
 **School: Sunset High School**  
 **Category: Teens (11-15)**  
