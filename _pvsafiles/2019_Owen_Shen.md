@@ -11,4 +11,5 @@ feature_row1:
 # Owen Shen (Bronze Award)
 
 **School: The Emerson School**  
+**Category: Kids (5-10)**  
 **Hours: 27**  

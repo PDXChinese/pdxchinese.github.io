@@ -11,4 +11,5 @@ feature_row1:
 # Jenny Jiang (Silver Award)
 
 **School: Sunset High School**  
+**Category: Teens (11-15)**  
 **Hours: 78**  

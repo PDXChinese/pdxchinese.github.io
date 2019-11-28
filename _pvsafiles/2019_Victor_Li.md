@@ -11,4 +11,5 @@ feature_row1:
 # Victor Zelin Li (Gold Award)
 
 **School: Jesuit High School**  
+**Category: Teens (11-15)**  
 **Hours: 113**  

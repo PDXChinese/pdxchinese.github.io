@@ -11,4 +11,5 @@ feature_row1:
 # Jenell Theobald (Gold Award)
 
 **School: Whitford Middle School**  
+**Category: Teens (11-15)**  
 **Hours: 139**  

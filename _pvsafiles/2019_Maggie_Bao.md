@@ -11,4 +11,5 @@ feature_row1:
 # Maggie Bao (Gold Award)
 
 **School: Sunset High School**  
+**Category: Teens (11-15)**  
 **Hours: 182**  

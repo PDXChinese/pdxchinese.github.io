@@ -11,4 +11,5 @@ feature_row1:
 # Qiyue Cheery Zhang (Gold Award)
 
 **School: Westview High School**  
+**Category: Teens (11-15)**  
 **Hours: 108**  

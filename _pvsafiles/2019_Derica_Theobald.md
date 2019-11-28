@@ -11,4 +11,5 @@ feature_row1:
 # Derica Theobald (Gold Award)
 
 **School: French American International School**  
+**Category: Kids (5-10)**  
 **Hours: 94**  

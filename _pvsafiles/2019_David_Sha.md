@@ -11,4 +11,5 @@ feature_row1:
 # David Dahui Sha (Gold Award)
 
 **School: Sunset High School**  
+**Category: Teens (11-15)**  
 **Hours: 113**  
