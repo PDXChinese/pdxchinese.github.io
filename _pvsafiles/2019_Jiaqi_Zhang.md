@@ -2,7 +2,7 @@
 title: " "
 feature_row1:
   - image_path: /assets/images/activities/jackie.jpg
-  - image_path: /assets/images/activities/year2019medal3.jpg
+  - image_path: /assets/images/activities/year2019medal4.jpg
 ---
 
 {% include feature_row id="feature_row1"%}
