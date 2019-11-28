@@ -19,7 +19,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Qiyue_Zhang/'>Qiyue Zhang, Westview High School (Gold Award)</a></p>"
   - image_path: /assets/images/activities/pvsacertorg1.gif
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Jenny_Jiang/'>Jenny Jiang, Sunset High School (Silver Award)</a></p>"
-  - image_path: /assets/images/activities/pvsacertorg1.gif
+  - image_path: /assets/images/activities/danica.gif
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Danica_Leung/'>Danica Leung, Lincoln High School (Silver Award)</a></p>"
   - image_path: /assets/images/activities/pvsacertorg1.gif
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Laura_Qin/'>Laura Qin, Westview High School (Silver Award)</a></p>"
