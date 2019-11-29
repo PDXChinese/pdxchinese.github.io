@@ -8,8 +8,10 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Victor Zelin Li - Gold Award 
+# Victor Zelin Li - Gold Award
 
 **School: Jesuit High School**  
 **Category: Teens (11-15)**  
 **Hours: 113**  
+
+Oregon Chinese Coalition is proud to join the President of the United States in recognizing the volunteers who consistently take the time to make a difference in the lives of others. Therefore, it is a great honor to present the President's Volunteer Service Award (PVSA) to Victor Li.

@@ -13,3 +13,5 @@ feature_row1:
 **School: Westview High School**  
 **Category: Teens (11-15)**  
 **Hours: 108**  
+
+Oregon Chinese Coalition is proud to join the President of the United States in recognizing the volunteers who consistently take the time to make a difference in the lives of others. Therefore, it is a great honor to present the President's Volunteer Service Award (PVSA) to Qiyue Zhang.
