@@ -32,6 +32,8 @@ Co-Hosts: Prof. Qusheng Jin and Zhunqin Wang
 
 10:00am - 12:00pm Roundtable Discussion with College Students and Graduates
 
+Each college student and graduate will give a 3-min presentation one area he/she wants to share with the middle and high school participants, followed by roundtable discussions.
+
 > Andrew Jin, Columbia University, Freshman, Math  
 > Keven Jin, UC berkeley, Freshman, CS  
 > Bryan Lee, Harvard University, Junior, CS  
@@ -41,6 +43,8 @@ Co-Hosts: Prof. Qusheng Jin and Zhunqin Wang
 > more to add...  
 
 12:00pm - 12:45pm Meeting with Mentors
+
+Each mentor will give a 5-min presentation, followed by roundtable discussions. 
 
 > Paul Ip, Former VP at HSBC  
 > Frances Ippolito, Judge at the US Patent and Trademark Office  
