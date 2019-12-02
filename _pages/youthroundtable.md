@@ -32,19 +32,19 @@ Co-Hosts: Prof. Qusheng Jin and Zhunqin Wang
 
 10:00am - 12:00pm Roundtable Discussion with College Students and Graduates
 
-> Andrew Jin, Columbia University, Freshman, Math
-> Keven Jin, UC berkeley, Freshman, CS
-> Bryan Lee, Harvard University, Junior, CS
-> Willers Yang, MIT, Sophomore, Physics & Math
-> Alisha Zhao, Stanford University, Junior, Pol Sci
-> Isabelle Zheng, Harvard University, Sophomore, CS
-> more to add...
+> Andrew Jin, Columbia University, Freshman, Math  
+> Keven Jin, UC berkeley, Freshman, CS  
+> Bryan Lee, Harvard University, Junior, CS  
+> Willers Yang, MIT, Sophomore, Physics & Math  
+> Alisha Zhao, Stanford University, Junior, Pol Sci  
+> Isabelle Zheng, Harvard University, Sophomore, CS  
+> more to add...  
 
 12:00pm - 12:45pm Meeting with Mentors
 
-> Paul Ip, Former VP at HSBC
-> Frances Ippolito, Judge at the US Patent and Trademark Office
-> Kristy Mao, Senior Finance Director at Siemens
+> Paul Ip, Former VP at HSBC  
+> Frances Ippolito, Judge at the US Patent and Trademark Office  
+> Kristy Mao, Senior Finance Director at Siemens  
 
 12:45pm - 1:00pm President's Volunteer Service Award Presentation Ceremony
 
@@ -58,9 +58,9 @@ Co-Hosts: Hongcheng Zhao and Hui Du
 
 11:00am - 12:00pm Meeting with Mentors
 
-> Paul Ip, Former VP at HSBC
-> Frances Ippolito, Judge at the US Patent and Trademark Office
-> Kristy Mao, Senior Finance Director at Siemens
+> Paul Ip, Former VP at HSBC  
+> Frances Ippolito, Judge at the US Patent and Trademark Office  
+> Kristy Mao, Senior Finance Director at Siemens  
 
 12:00pm - 12:45pm Roundtable Discussion
 
