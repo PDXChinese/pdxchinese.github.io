@@ -70,7 +70,7 @@ Update on community  drum team
 
 ### 12:00pm - 12:45pm Roundtable Discussion
 
-College application and readiness -- view from parents
+College application and readiness -- the view from parents
 
 ### 12:45pm - 1:00pm President's Volunteer Service Award Presentation Ceremony
 
