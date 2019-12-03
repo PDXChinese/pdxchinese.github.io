@@ -30,9 +30,9 @@ Meeting Room A
 
 Co-Hosts: Prof. Qusheng Jin and Zhunqin Wang
 
-10:00am - 12:00pm Roundtable Discussion with College Students and Graduates
+### 10:00am - 12:00pm Roundtable Discussion with College Students and Graduates
 
-Each college student and graduate will give a 3-min presentation one area he/she wants to share with the middle and high school participants, followed by roundtable discussions.
+Each college student and graduate will give a 3-min presentation in one or two areas he/she wants to share with the middle and high school participants, followed by roundtable discussions.
 
 > Andrew Jin, Columbia University, Freshman, Math  
 > Keven Jin, UC berkeley, Freshman, CS  
@@ -42,15 +42,15 @@ Each college student and graduate will give a 3-min presentation one area he/she
 > Isabelle Zheng, Harvard University, Sophomore, CS  
 > more to add...  
 
-12:00pm - 12:45pm Meeting with Mentors
+### 12:00pm - 12:45pm Meeting with Mentors
 
-Each mentor will give a 5-min presentation, followed by roundtable discussions. 
+Each mentor will give a 5-min presentation, followed by roundtable discussions.
 
 > Paul Ip, Former VP at HSBC  
 > Frances Ippolito, Judge at the US Patent and Trademark Office  
 > Kristy Mao, Senior Finance Director at Siemens  
 
-12:45pm - 1:00pm President's Volunteer Service Award Presentation Ceremony
+### 12:45pm - 1:00pm President's Volunteer Service Award Presentation Ceremony
 
 ## Proposed Agenda for Parents
 
@@ -58,25 +58,27 @@ Meeting Room B
 
 Co-Hosts: Hongcheng Zhao and Hui Du
 
-10:00am - 11:00am (Topics TBD)
+### 10:00am - 11:00am Update and Discussion
 
-11:00am - 12:00pm Meeting with Mentors
+Update on this year's President's Volunteer Service Award application  
+Update on mentoring pilot project  
+Update on community  drum team  
+
+### 11:00am - 12:00pm Meeting with Mentors
 
 > Paul Ip, Former VP at HSBC  
 > Frances Ippolito, Judge at the US Patent and Trademark Office  
 > Kristy Mao, Senior Finance Director at Siemens  
 
-12:00pm - 12:45pm Roundtable Discussion
+### 12:00pm - 12:45pm Roundtable Discussion
 
-12:45pm - 1:00pm President's Volunteer Service Award Presentation Ceremony
+College application and readiness -- view from parents
 
-### Co-Hosts
-
-Prof. Qusheng Jin and Zhunqin Wang
+### 12:45pm - 1:00pm President's Volunteer Service Award Presentation Ceremony
 
 ### Logo designed by Olando Lin
 
-### Archive
+## Archive
 
 2018 Youth Roundtable [Flyer](/assets/pdf/youth-roundtable-2018.pdf)  
 2018 Youth Roundtable [Recap](http://pdxchinese.org/youth-roundtable-2018-recap/)  
