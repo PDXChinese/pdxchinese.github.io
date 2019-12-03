@@ -3,14 +3,18 @@ title: ""
 permalink: /chinesefestival/
 feature_row1:
   - image_path: /assets/images/activities/tanhao.jpg
-    title: "11am-8pm"
+    title: "Hao Tan"
+    excerpt: "11am-8pm"
 feature_row2:
   - image_path: /assets/images/activities/jackie.jpg
-    title: "11am-2pm"
+    title: "Jackie Zhang"
+    excerpt: "11am-2pm"
   - image_path: /assets/images/activities/daphne4.jpg
-    title: "2pm-5pm"
+    title: "Daphne Wu"
+    excerpt: "2pm-5pm"
   - image_path: /assets/images/activities/nancy.jpg
-    title: "5pm-8pm"
+    title: "Nancy Bai"
+    excerpt: "5pm-8pm"
 ---
 
 ![]({{ site.url }}/assets/images/festival/seeu2020.jpg)
