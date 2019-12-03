@@ -9,7 +9,7 @@ permalink: /youthroundtable/
 # Oregon Chinese Youth Roundtable
 
 ## Date
-12/28/2019 Saturday 10:00 pm - 1:00 pm
+12/28/2019 Saturday 10:00 pm - 1:00 pm (Lunch will be provided)
 
 ## Place
 Beaverton City Library - Meeting Room A & B, 1st Floor (12375 SW 5th Street, Beaverton, OR 97005) ([Google map](https://www.google.com/maps/place/12375+SW+5th+St,+Beaverton,+OR+97005/@45.4841084,-122.8062115,17z/data=!3m1!4b1!4m5!3m4!1s0x54950c21b4d2e3ad:0x21b979fd65c64c83!8m2!3d45.4841084!4d-122.8040228))
