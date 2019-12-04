@@ -33,10 +33,11 @@ Co-Hosts: Prof. Qusheng Jin and Zhunqin Wang
 Each college student and graduate will give a 3-min presentation in one or two areas he/she wants to share with the middle and high school participants, followed by roundtable discussions.
 
 > Andrew Jin, Columbia University, Freshman, Math  
-> Keven Jin, UC berkeley, Freshman, CS  
+> Keven Jin, UC Berkeley, Freshman, CS  
 > Bryan Lee, Harvard University, Junior, CS  
 > Willers Yang, MIT, Sophomore, Physics & Math  
 > Alisha Zhao, Stanford University, Junior, Pol Sci  
+> Andrew Zhao, UC Berkeley '17 (CS), Blizzard Entertainment
 > Isabelle Zheng, Harvard University, Sophomore, CS  
 > more to add...  
 
