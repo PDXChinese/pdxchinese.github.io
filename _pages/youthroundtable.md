@@ -33,6 +33,7 @@ Each college student and graduate will give a 3-min presentation in one or two a
 > Andrew Jin, Columbia University, Freshman, Math  
 > Keven Jin, UC Berkeley, Freshman, CS  
 > Bryan Lee, Harvard University, Junior, CS  
+> Henry Li, Harvard University '16 (Hist & Lit), U of Virginia Law School
 > Willers Yang, MIT, Sophomore, Physics & Math  
 > Alisha Zhao, Stanford University, Junior, Pol Sci  
 > Andrew Zhao, UC Berkeley '17 (CS), Blizzard Entertainment  
