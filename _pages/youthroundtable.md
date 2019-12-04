@@ -37,7 +37,7 @@ Each college student and graduate will give a 3-min presentation in one or two a
 > Bryan Lee, Harvard University, Junior, CS  
 > Willers Yang, MIT, Sophomore, Physics & Math  
 > Alisha Zhao, Stanford University, Junior, Pol Sci  
-> Andrew Zhao, UC Berkeley '17 (CS), Blizzard Entertainment
+> Andrew Zhao, UC Berkeley '17 (CS), Blizzard Entertainment  
 > Isabelle Zheng, Harvard University, Sophomore, CS  
 > more to add...  
 
