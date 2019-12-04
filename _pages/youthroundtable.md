@@ -22,9 +22,7 @@ Middle and high school students, college students, and college graduates
 
 Please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSdwdICtXpzR0W3BzSSQVAR53tuPV07nIF2MDtEXfuo2Pgvl1Q/viewform?usp=sf_link), parents do not need to register.
 
-## Proposed Agenda for Youth
-
-Meeting Room A
+## Agenda for Youth @ Meeting Room A
 
 Co-Hosts: Prof. Qusheng Jin and Zhunqin Wang
 
@@ -51,17 +49,15 @@ Each mentor will give a 5-min presentation, followed by roundtable discussions.
 
 ### 12:45pm - 1:00pm President's Volunteer Service Award Presentation Ceremony
 
-## Proposed Agenda for Parents
-
-Meeting Room B
+## Agenda for Parents @ Meeting Room B
 
 Co-Hosts: Hongcheng Zhao and Hui Du
 
 ### 10:00am - 11:00am Update and Discussion
 
-Update on this year's President's Volunteer Service Award application  
-Update on mentoring pilot project  
-Update on community  drum team  
+Update on Community Youth Initiatives and Activities: President's Volunteer Service Award, Community's Mentoring Pilot Project, Winter Drive, Community Drum Team, Fundraising, and Youth Camps.
+
+Discussion on unmet needs
 
 ### 11:00am - 12:00pm Meeting with Mentors
 
