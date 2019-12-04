@@ -40,7 +40,7 @@ Each college student and graduate will give a 3-min presentation in one or two a
 > Isabelle Zheng, Harvard University, Sophomore, CS  
 > more to add...  
 
-### 12:00pm - 12:45pm Meeting with Mentors
+### 12:00pm - 12:45pm Meeting with [Mentors](http://pdxchinesementoring.org)
 
 Each mentor will give a 5-min presentation, followed by roundtable discussions.
 
@@ -60,7 +60,7 @@ Update on Community Youth Initiatives and Activities: President's Volunteer Serv
 
 Discussion on unmet needs
 
-### 11:00am - 12:00pm Meeting with Mentors
+### 11:00am - 12:00pm Meeting with [Mentors](http://pdxchinesementoring.org)
 
 > Paul Ip, Former VP at HSBC  
 > Frances Ippolito, Judge at the US Patent and Trademark Office  
