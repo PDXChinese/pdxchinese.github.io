@@ -30,14 +30,14 @@ Co-Hosts: Prof. Qusheng Jin and Zhunqin Wang
 
 Each college student and graduate will give a 3-min presentation in one or two areas he/she wants to share with the middle and high school participants, followed by roundtable discussions.
 
-> Andrew Jin, Columbia University, Freshman, Math  
-> Keven Jin, UC Berkeley, Freshman, CS  
-> Bryan Lee, Harvard University, Junior, CS  
-> Henry Li, Harvard University '16 (Hist & Lit), U of Virginia Law School
+> [Andrew Jin](https://www.linkedin.com/in/andrew-jin-524293180/), Columbia University, Freshman, Math  
+> [Kevin Jin](https://www.linkedin.com/in/kevin-jin-5304a8b6/), UC Berkeley, Freshman, CS  
+> [Bryan Lee](https://www.linkedin.com/in/bryan-lee-029325118/), Harvard University, Junior, CS  
+> [Henry Li](https://www.linkedin.com/in/henry-li-economic-justice/), Harvard University '16 (Hist & Lit), U of Virginia Law School
 > Willers Yang, MIT, Sophomore, Physics & Math  
-> Alisha Zhao, Stanford University, Junior, Pol Sci  
-> Andrew Zhao, UC Berkeley '17 (CS), Blizzard Entertainment  
-> Isabelle Zheng, Harvard University, Sophomore, CS  
+> [Alisha Zhao](https://www.linkedin.com/in/alishazhao/), Stanford University, Junior, Pol Sci  
+> [Andrew Zhao](https://www.linkedin.com/in/zhaoandrew/), UC Berkeley '17 (CS), Blizzard Entertainment  
+> [Isabelle Zheng](https://www.linkedin.com/in/isabellez/), Harvard University, Sophomore, CS  
 > more to add...  
 
 ### 12:00pm - 12:45pm Meeting with [Mentors](http://pdxchinesementoring.org)
