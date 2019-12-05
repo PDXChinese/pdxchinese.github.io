@@ -34,7 +34,7 @@ Each college student and graduate will give a 3-min presentation in one or two a
 > [Kevin Jin](https://www.linkedin.com/in/kevin-jin-5304a8b6/), UC Berkeley, Freshman, CS  
 > [Bryan Lee](https://www.linkedin.com/in/bryan-lee-029325118/), Harvard University, Junior, CS  
 > [Henry Li](https://www.linkedin.com/in/henry-li-economic-justice/), Harvard University '16 (Hist & Lit), U of Virginia Law School
-> Willers Yang, MIT, Sophomore, Physics & Math  
+> [Willers Yang](https://www.facebook.com/profile.php?id=100005490436518), MIT, Sophomore, Physics & Math  
 > [Alisha Zhao](https://www.linkedin.com/in/alishazhao/), Stanford University, Junior, Pol Sci  
 > [Andrew Zhao](https://www.linkedin.com/in/zhaoandrew/), UC Berkeley '17 (CS), Blizzard Entertainment  
 > [Isabelle Zheng](https://www.linkedin.com/in/isabellez/), Harvard University, Sophomore, CS  
@@ -44,9 +44,9 @@ Each college student and graduate will give a 3-min presentation in one or two a
 
 Each mentor will give a 5-min presentation, followed by roundtable discussions.
 
-> Paul Ip, Former VP at HSBC  
-> Frances Ippolito, Judge at the US Patent and Trademark Office  
-> Kristy Mao, Senior Finance Director at Siemens  
+> [Paul Ip](https://www.linkedin.com/in/paul-ip-a1544744/), Former VP at HSBC  
+> [Frances Ippolito](https://www.linkedin.com/in/frances-ippolito-58670225/), Judge at the US Patent and Trademark Office  
+> [Kristy Mao](https://www.linkedin.com/in/kristy-mao-5627192/), Senior Finance Director at Siemens  
 
 ### 12:45pm - 1:00pm President's Volunteer Service Award Presentation Ceremony
 
@@ -62,9 +62,9 @@ Discussion on unmet needs
 
 ### 11:00am - 12:00pm Meeting with [Mentors](http://pdxchinesementoring.org)
 
-> Paul Ip, Former VP at HSBC  
-> Frances Ippolito, Judge at the US Patent and Trademark Office  
-> Kristy Mao, Senior Finance Director at Siemens  
+> [Paul Ip](https://www.linkedin.com/in/paul-ip-a1544744/), Former VP at HSBC  
+> [Frances Ippolito](https://www.linkedin.com/in/frances-ippolito-58670225/), Judge at the US Patent and Trademark Office  
+> [Kristy Mao](https://www.linkedin.com/in/kristy-mao-5627192/), Senior Finance Director at Siemens  
 
 ### 12:00pm - 12:45pm Roundtable Discussion
 
