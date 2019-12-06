@@ -74,13 +74,12 @@ College application and readiness -- the view from parents
 
 ### 12:45pm - 1:00pm President's Volunteer Service Award Presentation Ceremony
 
-## Social Hour @ [Roastery & Tasting Room](https://www.google.com/maps/place/Ava+Roasteria+-+Roastery+and+Tasting+Room/@45.484718,-122.8044149,18.75z/data=!4m5!3m4!1s0x0:0x15dc61306b314792!8m2!3d45.484964!4d-122.8042378)
+## Social Hour After the Roundtable
 
 Only for the college students and graduates at the Roundtable
 
-After the Roundtable
-
-4770 SW Hall Blvd, Beaverton, OR 97005
+Place: [Roastery & Tasting Room](https://www.avaroasteria.com/)  
+Address: 4770 SW Hall Blvd, Beaverton, OR 97005 [Map](https://www.google.com/maps/place/Ava+Roasteria+-+Roastery+and+Tasting+Room/@45.484718,-122.8044149,18.75z/data=!4m5!3m4!1s0x0:0x15dc61306b314792!8m2!3d45.484964!4d-122.8042378)  
 
 ### Logo designed by Olando Lin
 
