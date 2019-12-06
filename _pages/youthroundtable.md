@@ -26,7 +26,7 @@ Please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQ
 
 Co-Hosts: Prof. Qusheng Jin and Zhunqin Wang
 
-### 10:00am - 12:00pm Roundtable Discussion with College Students and Graduates
+### 10:00am - 11:30am Roundtable Discussion with College Students and Graduates
 
 Each college student and graduate will give a 3-min presentation in one or two areas he/she wants to share with the middle and high school participants, followed by roundtable discussions.
 
@@ -39,6 +39,8 @@ Each college student and graduate will give a 3-min presentation in one or two a
 > [Andrew Zhao](https://www.linkedin.com/in/zhaoandrew/), UC Berkeley '17 (CS), Blizzard Entertainment  
 > [Isabelle Zheng](https://www.linkedin.com/in/isabellez/), Harvard University, Sophomore, CS  
 > more to add...  
+
+### 11:30am - 12:00pm Lunch and Mingling Hour
 
 ### 12:00pm - 12:45pm Meeting with [Mentors](http://pdxchinesementoring.org)
 
@@ -71,6 +73,14 @@ Discussion on unmet needs
 College application and readiness -- the view from parents
 
 ### 12:45pm - 1:00pm President's Volunteer Service Award Presentation Ceremony
+
+## Social Hour @ [Roastery & Tasting Room](https://www.google.com/maps/place/Ava+Roasteria+-+Roastery+and+Tasting+Room/@45.484718,-122.8044149,18.75z/data=!4m5!3m4!1s0x0:0x15dc61306b314792!8m2!3d45.484964!4d-122.8042378)
+
+Only for the college students and graduates at the Roundtable
+
+After the Roundtable
+
+4770 SW Hall Blvd, Beaverton, OR 97005
 
 ### Logo designed by Olando Lin
 
