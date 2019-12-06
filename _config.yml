@@ -241,6 +241,9 @@ collections:
   chinatown_engage:
     output: true
     permalink: /chinatown/engage/:path/
+  chinatown_wonglaundry:
+    output: true
+    permalink: /chinatown/wonglaundry/:path/
   chinatown_newyear:
     output: true
     permalink: /chinatown/newyear/:path/
@@ -407,6 +410,13 @@ defaults:
   - scope:
       path: ""
       type: chinatown_engage
+    values:
+      layout: single
+      author_profile: false
+  # chinatown_wonglaundry
+  - scope:
+      path: ""
+      type: chinatown_wonglaundry
     values:
       layout: single
       author_profile: false
