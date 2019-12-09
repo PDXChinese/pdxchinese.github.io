@@ -36,6 +36,16 @@ feature_row3:
 
 {% include feature_row id="feature_row1"%}
 
+Congratulations to the following thirteen outstanding youth from our community recognized as recipients of President's Volunteer Service Award and Community Volunteer Service Award for completing a combined 1,420 volunteer hours in a year.
+
+Receiving the gold award are Qiyue Zhang of Westview High School, David Sha, Maggie Bao, Ruolan Bai of Sunset High School, Victor Li of Jesuit High School, Derica Theibald of French American International School, and Jenell Theobald of Whitford Middle School.
+
+Silver award recipients are Danica Leung of Lincoln High School, Jenny Jiang and Jiaqi Zhang of Sunset High School, and Maggie Bao of Westview High School.
+
+Bronze awards go to Eleanor Song of Stoller Middle School and Owen Shen of The Emerson School.
+
+These awards honor individuals whose service positively impacts communities and inspires those around them to take action, too. Oregon Chinese Coalition is honored to have the opportunity to help community youth earn the well-deserved recognition.
+
 {% include feature_row id="feature_row2"%}
 
 ### Community Volunteer Service Award  
