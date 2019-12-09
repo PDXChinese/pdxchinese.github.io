@@ -1,7 +1,7 @@
 ---
 title: " "
 feature_row1:
-  - image_path: /assets/images/activities/jackie.jpg
+  - image_path: /assets/images/pvsa/2019_jiaqi.jpg
   - image_path: /assets/images/activities/year_2019.jpg
 ---
 
