@@ -28,7 +28,7 @@ feature_row2:
   - image_path: /assets/images/pvsa/2019_owen.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Owen_Shen/'>Owen Shen, The Emerson School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2019_eleanor.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Eleanor_Song/'>Eleanor Song, Stoller Middle School (Bronze Award)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Eleanor_Song/'>Eleanor Leran Song, Stoller Middle School (Bronze Award)</a></p>"
 feature_row3:
   - image_path: /assets/images/pvsa/2019_roland.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Ruolan_Bai/'>Ruolan Bai, Sunset High School (Gold Award)</a></p>"
