@@ -30,7 +30,7 @@ feature_row2:
   - image_path: /assets/images/activities/blank1.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Eleanor_Song/'>Eleanor Song, Stoller Middle School (Bronze Award)</a></p>"
 feature_row3:
-  - image_path: /assets/images/activities/nancy.jpg
+  - image_path: /assets/images/pvsa/2019_roland.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Ruolan_Bai/'>Ruolan Bai, Sunset High School (Gold Award)</a></p>"
 ---
 
