@@ -38,7 +38,7 @@ feature_row3:
 
 Congratulations to the following thirteen outstanding youths from our community recognized as recipients of President’s Volunteer Service Award and Community Volunteer Service Award for completing a combined 1,420 volunteer hours in a single year.
 
-Receiving the gold award are Qiyue Zhang of Westview High School, David Sha, Maggie Bao, Ruolan Bai of Sunset High School, Victor Li of Jesuit High School, Derica Theibald of French American International School, and Jenell Theobald of Whitford Middle School.
+Receiving the gold award are Qiyue Zhang of Westview High School, David Sha, Maggie Bao, Ruolan Bai of Sunset High School, Victor Li of Jesuit High School, Derica Theobald of French American International School, and Jenell Theobald of Whitford Middle School.
 
 Silver award recipients are Danica Leung of Lincoln High School, Jenny Jiang and Jiaqi Zhang of Sunset High School, and Laura Qin of Westview High School.
 
