@@ -9,7 +9,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Maggie_Bao/'>Maggie Bao, Sunset High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2019_victor.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Victor_Li/'>Victor Li, Jesuit High School (Gold Award)</a></p>"
-  - image_path: /assets/images/activities/blank1.jpg
+  - image_path: /assets/images/pvsa/2019_david.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_David_Sha/'>David Sha, Sunset High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2019_derica.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Derica_Theobald/'>Derica Theobald, French American Int'l School (Gold Award)</a></p>"    
