@@ -5,7 +5,7 @@ feature_row1:
   - image_path: /assets/images/activities/pvsa_logo.jpg
   - image_path: /assets/images/activities/year_2019.jpg
 feature_row2:
-  - image_path: /assets/images/activities/blank1.jpg
+  - image_path: /assets/images/pvsa/2019_maggie.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Maggie_Bao/'>Maggie Bao, Sunset High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2019_victor.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Victor_Li/'>Victor Li, Jesuit High School (Gold Award)</a></p>"
