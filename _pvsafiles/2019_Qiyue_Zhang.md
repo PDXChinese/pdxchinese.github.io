@@ -1,7 +1,7 @@
 ---
 title: " "
 feature_row1:
-  - image_path: /assets/images/pvsa/2019_cheery.jpg
+  - image_path: /assets/images/pvsa/2019_qiyue.jpg
   - image_path: /assets/images/activities/year_2019.jpg
 
 ---
