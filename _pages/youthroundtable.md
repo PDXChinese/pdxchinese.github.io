@@ -18,7 +18,7 @@ Beaverton City Library - Meeting Room A & B, 1st Floor (12375 SW 5th Street, Bea
 
 Middle and high school students, college students, and college graduates
 
-## Registration (Free)
+## Registration (Full)
 
 Please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSdwdICtXpzR0W3BzSSQVAR53tuPV07nIF2MDtEXfuo2Pgvl1Q/viewform?usp=sf_link), parents do not need to register.
 
