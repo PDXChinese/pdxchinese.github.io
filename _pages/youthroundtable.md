@@ -33,8 +33,9 @@ Each college student and graduate will give a 3-min presentation in one or two a
 > [Andrew Jin](https://www.linkedin.com/in/andrew-jin-524293180/), Columbia University, Freshman, Math  
 > [Kevin Jin](https://www.linkedin.com/in/kevin-jin-5304a8b6/), UC Berkeley, Freshman, CS  
 > [Bryan Lee](https://www.linkedin.com/in/bryan-lee-029325118/), Harvard University, Junior, CS  
-> [Hao Tan](https://www.linkedin.com/in/hao-tan/), U of Oregon '18(Human Physiology), OHSU Medical School  
 > [Henry Li](https://www.linkedin.com/in/henry-li-economic-justice/), Harvard University '16 (Hist & Lit), U of Virginia Law School  
+> [Aaron Sha](http://pdxchinese.org/youthroundtable/), University of Southern California, Sophomore, Biology Sci.  
+> [Hao Tan](https://www.linkedin.com/in/hao-tan/), U of Oregon '18(Human Physiology), OHSU Medical School  
 > [Willers Yang](https://www.facebook.com/profile.php?id=100005490436518), MIT, Sophomore, Physics & Math  
 > [Alisha Zhao](https://www.linkedin.com/in/alishazhao/), Stanford University, Junior, Pol Sci  
 > [Andrew Zhao](https://www.linkedin.com/in/zhaoandrew/), UC Berkeley '17 (CS), Blizzard Entertainment  
