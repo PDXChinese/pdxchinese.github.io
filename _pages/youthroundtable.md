@@ -43,7 +43,6 @@ Each college student and graduate will give a 3-min presentation in one or two a
 > [Alisha Zhao](https://www.linkedin.com/in/alishazhao/), Stanford University, Junior, PoliSci & Human Rights  
 > [Andrew Zhao](https://www.linkedin.com/in/zhaoandrew/), UC Berkeley '17 (CS), Blizzard Entertainment  
 > [Isabelle Zheng](https://www.linkedin.com/in/isabellez/), Harvard University, Sophomore, CS  
-> more to add...  
 
 ### 11:30am - 12:00pm Lunch and Mingling Hour
 
