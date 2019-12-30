@@ -18,7 +18,11 @@ Select 'send to friend' and send to donate@pdxchinese.org
 
 ### Checks
 
-Please mail checks to: c/o Oregon Chinese Coalition, 219 NW 3rd Ave., #227, Portland, OR 97209
+Please make checks payable to Oregon Chinese Coalition and mail to:
+
+Oregon Chinese Coalition  
+PO Box 1675  
+Beaverton, OR 97075  
 
 ### Credit Card
 
