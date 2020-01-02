@@ -19,10 +19,10 @@ Audition将安排在一月下旬。Audition Requirements:
 3. Sight reading: reading material will be provided by the orchestra  
 4. Minimal age to join the orchestra is 6 years old  
 
-![]({{ site.url }}/assets/images84c64aa47b84344ee5806b86505a3ad0.jpg)
+![]({{ site.url }}/assets/images/84c64aa47b84344ee5806b86505a3ad0.jpg)
 
-![]({{ site.url }}/assets/imagesf55af4f713905c9d2813960afc369c86.jpg)
+![]({{ site.url }}/assets/images/f55af4f713905c9d2813960afc369c86.jpg)
 
-![]({{ site.url }}/assets/images37f0bcb3f0817575ce6332a1c0151e96.jpg)
+![]({{ site.url }}/assets/images/37f0bcb3f0817575ce6332a1c0151e96.jpg)
 
-![]({{ site.url }}/assets/images1c6e9f13386879155b51c8faad3afa25.jpg)
+![]({{ site.url }}/assets/images/1c6e9f13386879155b51c8faad3afa25.jpg)
