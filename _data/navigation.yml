@@ -24,10 +24,10 @@ extra:
     children:
       - title: "Volunteering"
         url: /volunteering/
-      - title: "PVSA Honorees"
-        url: /pvsa/
       - title: "Winter Drive"
         url: /winterdrive/
+      - title: "PVSA Honorees"
+        url: /pvsa/
       - title: "---"
         url:
       - title: "Youth Camps"
@@ -36,6 +36,8 @@ extra:
         url: /mentoring/
       - title: "Youth Orchestra"
         url: /youthorchestra/
+      - title: "Youth Drum Team"
+        url: /drumteam/
       - title: "Youth Conference"
         url: /youthconference/
       - title: "Youth Roundtable"
@@ -52,8 +54,6 @@ extra:
         url:
       - title: "Chinatown"
         url: /chinatown/
-      - title: "Drum Program"
-        url: /drumteam/
       - title: "Chinese Festival"
         url: /chinesefestival/
       - title: "Chinese New Year"
