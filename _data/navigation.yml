@@ -34,10 +34,10 @@ extra:
         url: /camps/
       - title: "Youth Orchestra"
         url: /youthorchestra/
-      - title: "Youth Drum Team"
-        url: /drumteam/
       - title: "Youth Mentoring"
         url: /mentoring/
+      - title: "Youth Drum Team"
+        url: /drumteam/
       - title: "Youth Conference"
         url: /youthconference/
       - title: "Youth Roundtable"
