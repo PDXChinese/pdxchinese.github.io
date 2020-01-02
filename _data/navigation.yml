@@ -22,32 +22,32 @@ main:
 extra:
   - title: Programs
     children:
+      - title: "PVSA Honorees"
+        url: /pvsa/
       - title: "Volunteering"
         url: /volunteering/
       - title: "Winter Drive"
         url: /winterdrive/
-      - title: "PVSA Honorees"
-        url: /pvsa/
       - title: "---"
         url:
       - title: "Youth Camps"
         url: /camps/
-      - title: "Youth Orchestra"
-        url: /youthorchestra/
-      - title: "Youth Mentoring"
-        url: /mentoring/
-      - title: "Youth Drum Team"
-        url: /drumteam/
       - title: "Youth Conference"
         url: /youthconference/
+      - title: "Youth Drum Team"
+        url: /drumteam/
+      - title: "Youth Mentoring"
+        url: /mentoring/
+      - title: "Youth Orchestra"
+        url: /youthorchestra/
       - title: "Youth Roundtable"
         url: /youthroundtable/
       - title: "---"
         url:
-      - title: "Community Fair"
-        url: /fair/
       - title: "Commerce Chamber"
         url: /chambercommerce/
+      - title: "Community Fair"
+        url: /fair/
       - title: "Entrepreneurs Forum"
         url: /startup/
       - title: "---"
