@@ -32,12 +32,12 @@ extra:
         url:
       - title: "Youth Camps"
         url: /camps/
-      - title: "Youth Mentoring"
-        url: /mentoring/
       - title: "Youth Orchestra"
         url: /youthorchestra/
       - title: "Youth Drum Team"
         url: /drumteam/
+      - title: "Youth Mentoring"
+        url: /mentoring/
       - title: "Youth Conference"
         url: /youthconference/
       - title: "Youth Roundtable"
