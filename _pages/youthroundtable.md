@@ -91,8 +91,10 @@ Free [Registration](https://docs.google.com/forms/d/e/1FAIpQLSflI-0Qw4XNLZb-m3ej
 
 ## Archive
 
-2018 Youth Roundtable [Flyer](/assets/pdf/youth-roundtable-2018.pdf)  
+2019 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2019.pdf)  
+2019 Youth Roundtable [Recap](http://pdxchinese.org/youth-roundtable-2019-recap/)  
+2018 Youth Roundtable [Agenmda](/assets/pdf/youth-roundtable-2018.pdf)  
 2018 Youth Roundtable [Recap](http://pdxchinese.org/youth-roundtable-2018-recap/)  
-2017 Youth Roundtable [Flyer](/assets/pdf/youth-roundtable-2017.pdf)  
+2017 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2017.pdf)  
 2017 Youth Roundtable [Recap](http://pdxchinese.org/youth-roundtable-2017-recap/)  
 [Materials distributed at Roundtables](http://pdxchinese.org/resources/benefits_resources/roundtable/)
