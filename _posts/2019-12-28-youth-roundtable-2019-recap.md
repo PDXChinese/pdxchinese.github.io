@@ -9,7 +9,7 @@ The chatting history for this WeChat group "PDX 华人社区公益一群" is sho
 
 —————  2019-12-31  —————
 
-社区第三届青少年圆桌会上个周六在Beaverton图书馆成功举办，也为2019年社区大公益画上了圆满的句号。
+[社区第三届青少年圆桌会](http://pdxchinese.org/youthroundtable/)上个周六在Beaverton图书馆成功举办，也为2019年社区大公益画上了圆满的句号。
 
 OCC为准备此次活动也算是做足了功课，在借鉴前两次活动的基础上，力争从形式到内容都有所突破。增加了今年刚刚开始的mentoring program的mentor见面部分，和OCC第一次帮助社区孩子们申请总统义工奖的颁奖仪式。从到到尾每个环节都非常的紧凑，活动结束大家走出会场都还有意犹未尽的感觉。
 
