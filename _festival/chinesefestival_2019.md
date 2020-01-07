@@ -1,6 +1,5 @@
 ---
 title: ""
-permalink: /chinesefestival/
 feature_row1:
   - image_path: /assets/images/activities/tanhao.jpg
     title: "Hao Tan"
