@@ -370,7 +370,9 @@ collections:
   pvsafiles:
     output: true
     permalink: /pvsafiles/:path/
-
+  festival:
+    output: true
+    permalink: /chinesefestival/:path/
 
 # Defaults
 defaults:
@@ -711,6 +713,13 @@ defaults:
   - scope:
       path: ""
       type: pvsafiles
+    values:
+      layout: single
+      author_profile: false
+  # festival
+  - scope:
+      path: ""
+      type: festival
     values:
       layout: single
       author_profile: false
