@@ -17,12 +17,6 @@ feature_row2:
     excerpt: "5pm-8pm"
 ---
 
-![]({{ site.url }}/assets/images/festival/seeu2020.jpg)
-
-[http://pdxchinesefestival.org](http://pdxchinesefestival.org)
-
-**[2019 Chinese Festival Highlights](http://pdxchinese.org/chinese-festival-2019/)**
-
 ![]({{ site.url }}/assets/images/activities/festival2019e.jpg)
 
 For the first time ever, our local Chinese community will be hosting a Chinese festival filled with non-stop entertainment, delicious Chinese food, fun activities and much more. We are excited to join the  [India Festival](http://www.icaportland.org/), [Festa Italiana](https://www.festa-italiana.org/), [Pan African Festival](http://www.panafricanfestivalor.org/), and [Celebration of Persian New Year](https://www.andisheh.org/events/norouz-2019/) to offer another splendid cultural event in the living room of Portland.

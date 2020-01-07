@@ -137,11 +137,8 @@ Please contact us through our [Contact Us](http://pdxchinese.org/contact/) page 
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
-### Recent public cultural events Oregon Chinese Coalition organized
+## Archive
 
-Portland Chinatown Saturday performances ([5/14/2016](http://pdxchinese.org/chinatown/2016-05-14-saturday-performance/), [5/21/2016](http://pdxchinese.org/chinatown/2016-05-21-saturday-performance/), [5/28/2016](http://pdxchinese.org/chinatown/2016-05-28-saturday-performance/))  
-[Chinatown Mid-Autumn Festival Performance](http://pdxchinese.org/chinatown/2016-09-10-saturday-performance/) (9/10/2016)  
-[Chinatown Flash Mob](http://pdxchinese.org/chinatown/2016-12-21-flash-mob/) (12/21/2016)  
-[Chinatown Chinese New Year Celebration](http://pdxchinese.org/new-year-summary-2018/) (2/18/2018)  
-[Chinese Community Fair](http://pdxchinese.org/2018-community-fair-summary/) (4/14/2018)  
-[2019 Chinese Festival Highlights](http://pdxchinese.org/chinese-festival-2019/) (8/7/2019)  
+[2019 Chinese Festival](http://pdxchinese.org/chinesefestival/chinesefestival_2019/)
+
+[2019俄勒冈华人文化节圆满落幕/Summary and Reflection](http://pdxchinese.org/chinese-festival-2019/)
