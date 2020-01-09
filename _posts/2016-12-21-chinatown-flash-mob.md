@@ -322,3 +322,5 @@ Kitson Yu 余仕維  04:09
 Kitson Yu 余仕維  04:09
 
 謝謝各位在今天各盡所長為中華民旅表揚美德。
+
+<iframe width="1141" height="642" src="https://www.youtube.com/embed/JwJUAobs-Os" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
