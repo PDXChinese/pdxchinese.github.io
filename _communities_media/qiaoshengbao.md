@@ -8,9 +8,9 @@ sidebar:
   - title: "WeChat ID"
     text: ""
   - title: "Phone"
-    text: "(503)788-8688"
+    text: " (503)380-3838"
   - title: "Website"
-    text: "[www.thechinamedia.com](http:///www.thechinamedia.com/)"
+    text: "[http://www.portlandcn.com/](http://www.portlandcn.com/)"
 ---
 
 《侨声报》（周报）创刊于2007年6月22日，逢周五出版，为4开24版，主要在美国俄勒冈州发行。
