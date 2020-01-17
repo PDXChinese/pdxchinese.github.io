@@ -17,4 +17,4 @@ To contact us: [festival@pdxchinese.org](mailto:festival@pdxchinese.org)
 ### Archive
 
 [2019 Chinese Festival](http://pdxchinese.org/chinesefestival/chinesefestival_2019/)  
-[2019俄勒冈华人文化节圆满落幕/2019 Chinese Festival Highlights](http://pdxchinese.org/chinese-festival-2019/)  
+[2019 Chinese Festival Highlights](http://pdxchinese.org/chinese-festival-2019/)  
