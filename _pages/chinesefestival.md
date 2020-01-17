@@ -18,4 +18,4 @@ To contact us: [festival@pdxchinese.org](mailto:festival@pdxchinese.org)
 
 [2019 Chinese Festival](http://pdxchinese.org/chinesefestival/chinesefestival_2019/)  
 [2019 Chinese Festival Highlights](http://pdxchinese.org/chinese-festival-2019/)  
-Media Coverage: [KGW mLive Interview](https://www.kgw.com/video/life/first-ever-pdx-chinese-festival-on-the-square/283-21872975-6fee-4122-83d1-a83449b083f5), [Portland State Vanguard](https://psuvanguard.com/oregon-chinese-coalition-hosts-chinese-festival/)
+Media Coverage: [KGW Live Interview](https://www.kgw.com/video/life/first-ever-pdx-chinese-festival-on-the-square/283-21872975-6fee-4122-83d1-a83449b083f5), [Portland State Vanguard](https://psuvanguard.com/oregon-chinese-coalition-hosts-chinese-festival/)
