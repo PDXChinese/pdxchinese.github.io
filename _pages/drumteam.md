@@ -23,8 +23,10 @@ Hao Zhang
 
 ![]({{ site.url }}/assets/images/50feb0b01941b74a72808399e07bb823.jpg)  
 
-![]({{ site.url }}/assets/images/f51cf8af6fef2a7fcd4d9efe51fd12d7.jpg)  
-
-![]({{ site.url }}/assets/images/532eed46e20ac7114cbe2788a8b51422.jpg)  
-
 ![]({{ site.url }}/assets/images/135938f75b434e0f816ac0a3af841b46.jpg)  
+
+### Performance in Oregon Convention Center Chinese New Year Gala
+
+<iframe width="1228" height="691" src="https://www.youtube.com/embed/HF3sbTZpyM0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="1228" height="691" src="https://www.youtube.com/embed/YKhchAJ1O4A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
