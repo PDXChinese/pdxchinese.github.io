@@ -54,7 +54,6 @@ The sun was brutal to the materials on those lanterns. The color started to fade
 ## Thank You, Donors!
 
 [Chinese Consolidated Benevolent Association (CCBA)](https://www.oregonccba.org/)  
-Louis K. Lee, CPA  
 Yupeng Li  
 Yan Zhao  
 Ma Suming  
@@ -64,6 +63,7 @@ Staff at Chinatown Museum
 Staff at Produce Portland  
 Vicky Li  
 Ying Wu  
+Deadstock Coffee
 Sales of Weathered Lanterns  
 ...  
 
