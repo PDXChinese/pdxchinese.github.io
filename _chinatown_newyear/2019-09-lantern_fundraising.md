@@ -59,11 +59,11 @@ Yan Zhao
 Ma Suming  
 Li Zhou  
 Portland Chinatown Development 219 LLC  
-Staff at Chinatown Museum  
-Staff at Produce Portland  
+Staff at [Chinatown Museum](https://www.portlandchinatownmuseum.org/)  
+Staff at [Produce Portland](https://produceportland.com/)  
 Vicky Li  
 Ying Wu  
-Deadstock Coffee
+[Deadstock Coffee](http://www.deadstockcoffee.com/)  
 Sales of Weathered Lanterns  
 ...  
 
