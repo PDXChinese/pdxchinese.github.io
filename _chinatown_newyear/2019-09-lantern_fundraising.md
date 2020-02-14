@@ -41,7 +41,7 @@ Note: 2.2% fee will be deducted from the donation.
 
 ### A Great Start!
 
-<a target='_blank' href='https://www.abcfundraising.com' rel="nofollow"><img src='https://www.abcfundraising.com/thermometer-generator?max=3500&cur=1050&symbol=%24&color=red' alt='Fundraising ideas for schools, churches, and youth sports teams' style='width:200px;height:400px;'/></a>Thermometer By <a target='_blank' href='https://www.abcfundraising.com' rel="nofollow"> ABC Fundraising®</a>
+<a target='_blank' href='https://www.abcfundraising.com' rel="nofollow"><img src='https://www.abcfundraising.com/thermometer-generator?max=3500&cur=1850&symbol=%24&color=red' alt='Fundraising ideas for schools, churches, and youth sports teams' style='width:200px;height:400px;'/></a>Thermometer By <a target='_blank' href='https://www.abcfundraising.com' rel="nofollow"> ABC Fundraising®</a>
 
 ## Red Lantern Story, Our Story
 
@@ -64,6 +64,7 @@ Staff at [Produce Portland](https://produceportland.com/)
 Vicky Li  
 Ying Wu  
 [Deadstock Coffee](http://www.deadstockcoffee.com/)  
+[Neighbors West-Northwest](http://nwnw.org/)  
 Sales of Weathered Lanterns  
 ...  
 
