@@ -4,7 +4,7 @@ title: "Fundraising Campaign for Chinatown's Red Lanterns (Sept. 2019)"
 
 ![]({{ site.url }}/assets/images/activities/red_lanterns_fundraising_2019.jpg)
 
-Visit us often at our fundraising site: [http://chinatownlanterns.org](http://chinatownlanterns.org)
+Visit the lantern festival website: [http://chinatownlanterns.org](http://chinatownlanterns.org)
 
 ## Community Student Campaign Team
 
