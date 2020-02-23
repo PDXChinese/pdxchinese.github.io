@@ -2,6 +2,8 @@
 title: "Youth Mentoring Pilot Project"
 permalink: /mentoring/
 feature_row1:
+  - title: "Marcus Chan"
+    excerpt: "<p>Marcus is the President of Venli Consulting Group, a sales training firm that has trained thousands internationally. Prior to this, Marcus was a top Director at Cintas Corporation, a $6.8B Fortune 500 company leading a team of 110+ employees. Marcus is passionate about helping others achieve their dreams through impactful mentorship.</p>"
   - title: "Hui Du"
     excerpt: "<p>Hui holds degrees in Statistics and CS from Tsinghua and U-Chicago, having been a data scientist since 1998. She is passionate about education and giving back to her community, including working as volunteer Chinese teacher, serving in PTO board, helping to run NPOs and hosting a large social media group to support local community.</p>"
   - title: "Paul Ip"
