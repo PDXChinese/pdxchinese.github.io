@@ -8,7 +8,7 @@ feature_row:
 ---
 
 # Portland Chinatown Lantern Festival  
-[http://chinatownlanterns.org](http://chinatownlanterns.org)
+[http://chinatownlanterns.org](http://chinatownlanterns.org)  
 
 ![]({{ site.url }}/assets/images/activities/lanternposter.jpg)
 
