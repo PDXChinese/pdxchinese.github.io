@@ -4,7 +4,7 @@ permalink: /lanternfestival/
 feature_row:
 - image_path: /assets/images/logo/occ.png
 - image_path: /assets/images/logo/ccba.jpg
-- image_path: /assets/images/logo/nwnw.jpg
+- image_path: /assets/images/logo/nwnw1.jpg
 ---
 
 ![]({{ site.url }}/assets/images/activities/lanternposter.jpg)
