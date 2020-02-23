@@ -29,6 +29,6 @@ Removing Red Lanterns in Chinatown ([02.17.2020](http://pdxchinese.org/chinatown
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
-Portland Chinatown Lantern Festival has been made possible by the financial support from Oregon Chinese Coalition (OCC), Oregon Chinese Consolidated Benevolent Association (CCBA) and the City of Portland, Office of Community & Civic Life. To support the festival, please visit the [fundraising page](http://pdxchinese.org/chinatown/newyear/2019-09-lantern_fundraising/).
+Portland Chinatown Lantern Festival has been made possible by the financial support from Oregon Chinese Coalition (OCC), Oregon Chinese Consolidated Benevolent Association (CCBA) and the City of Portland, Office of Community & Civic Life. To learn how to support the festival, please visit the [fundraising page](http://pdxchinese.org/chinatown/newyear/2019-09-lantern_fundraising/).
 
 {% include feature_row id="feature_row"%}
