@@ -7,9 +7,9 @@ permalink: /drumteam/
 
 The earliest known drums in China date back nearly four thousand years ago. Historically, Chinese drums have been used in celebration and in conflict. As a result Chinese drums are often the color red which has long time been associated with power and luck. Nowadays, drumming is used primarily for festivities and events.
 
-The purposes of forming our community drum team are to provide the community members especially youth an opportunity of playing on such beautiful and powerful traditional instruments, to learn to appreciate the cultural tradition, and to contribute to the local community for diversity, equity, and inclusion.
+The purposes of forming our community drum team are to provide the community members especially youth an opportunity of playing on such beautiful and powerful traditional instrument, to learn to appreciate the cultural tradition, and to contribute to the local community for diversity, equity, and inclusion.
 
-To have us perform in your events, please [contact us](http://pdxchinese.org/contact/). 
+To have us perform in your events, please [contact us](http://pdxchinese.org/contact/).
 
 ### Debut Performance
 
