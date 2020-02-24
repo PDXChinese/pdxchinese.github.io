@@ -51,10 +51,10 @@ The chatting history for this WeChat group "PDX 华人社区公益一群" is sho
 
 ![]({{ site.url }}/assets/images/97e739b871e863511b834841b93cf685.jpg)
 
-![]({{ site.url }}/assets/images/e59dc58f17110acfe8fb316e1b81beed.jpg)
-
-![]({{ site.url }}/assets/images/84d054d31dc3c6914ec3cbac43af2bd2.jpg)
-
 ![]({{ site.url }}/assets/images/fe9fe4d7615bc801b2c8c40d272fdc75.jpg)
 
 ![]({{ site.url }}/assets/images/740204347189f25ec8cd499b1ca657b6.jpg)
+
+![]({{ site.url }}/assets/images/e59dc58f17110acfe8fb316e1b81beed.jpg)
+
+![]({{ site.url }}/assets/images/84d054d31dc3c6914ec3cbac43af2bd2.jpg)
