@@ -59,6 +59,11 @@ The chatting history for this WeChat group "PDX 华人社区公益一群" is sho
 
 ![]({{ site.url }}/assets/images/84d054d31dc3c6914ec3cbac43af2bd2.jpg)
 
+![]({{ site.url }}/assets/images/3cd69b260f4e5b17cf58f1cf16d33452.jpg)
+
+医生拿着的是波特兰West Sylvan初中老师们的留言，为疫区医护人员加油！
+
+
 <iframe width="1189" height="673" src="https://www.youtube.com/embed/Q8uRwvDbAe0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="1189" height="673" src="https://www.youtube.com/embed/X5v8STDuKP4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
