@@ -67,3 +67,5 @@ The chatting history for this WeChat group "PDX 华人社区公益一群" is sho
 <iframe width="1189" height="673" src="https://www.youtube.com/embed/Q8uRwvDbAe0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="1189" height="673" src="https://www.youtube.com/embed/X5v8STDuKP4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+在这里人传人不再是病毒，传递的是来自海外华人对疫区医护人员的一份关爱。
