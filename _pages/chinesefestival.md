@@ -8,8 +8,7 @@ permalink: /chinesefestival/
 
 **Official Site:** [http://pdxchinesefestival.org](http://pdxchinesefestival.org)
 
-<iframe width="1141" height="642" src="https://www.youtube.com/embed/hnP0JJmgZ7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="1189" height="669" src="https://www.youtube.com/embed/hOMUih0WrLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 To contact us: [festival@pdxchinese.org](mailto:festival@pdxchinese.org)  
 
