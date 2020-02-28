@@ -3,8 +3,7 @@ title: "2020 Oregon Chinese Festival"
 permalink: /chinesefestival/
 ---
 
-**Date:** <span style="color:blue">August 1, 2020 (Saturday) 11am - 8pm </span>  
-**Place:** [<span style="color:blue">Pioneer Courthouse Square, Portland</span>](https://www.google.com/maps/place/Pioneer+Courthouse+Square/@45.5189095,-122.6795446,19.21z/data=!4m5!3m4!1s0x54950a051d703e13:0xfebc36dc49ec79c7!8m2!3d45.5189217!4d-122.6793478)  
+![]({{ site.url }}/assets/images/festival/festival2020.jpg)
 
 **Official Site:** [http://pdxchinesefestival.org](http://pdxchinesefestival.org)
 
