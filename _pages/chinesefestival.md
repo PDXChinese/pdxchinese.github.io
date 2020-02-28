@@ -1,5 +1,5 @@
 ---
-title: "2020 Oregon Chinese Festival"
+title: ""
 permalink: /chinesefestival/
 ---
 
