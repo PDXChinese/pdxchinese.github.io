@@ -64,7 +64,7 @@ b) 直接接触COVID-19患者的传染性分泌物(例如咳嗽飞沫)
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
-What you really should stock in preparation for the pandemic spread to the US:
+What you really should stock up in preparation for the pandemic spread to the US:
 
 1) Latex or nitrile latex disposable gloves for use when going shopping, using the gasoline pump, and all other outside activity when you come in contact with contaminated areas.
 
