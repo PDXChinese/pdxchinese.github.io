@@ -1,5 +1,5 @@
 ---
-title: "抗击冠状病毒信息集总"
+title: "抗击冠状病毒信息汇总"
 permalink: /eventnow/
 ---
 
