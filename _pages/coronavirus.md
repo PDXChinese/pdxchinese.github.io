@@ -52,7 +52,17 @@ Not every area can be delivered. Please check the availability before ordering.
 [QFC Home Delivery](https://www.qfc.com/i/ways-to-shop/delivery)  
 [Safeway](https://www.safeway.com/?cmpid=ps_swy_spi_ecom_goo&s_kwcid=AL!10316!3!343532355727!e!!g!!safeway%20grocery%20delivery&ds_rl=1274059&gclid=Cj0KCQiAtOjyBRC0ARIsAIpJyGNZNXjtJGitSvPYhRnVRX1mG1qOzPLNOYHYzh3HB379ALiUYpdctRUaAj8gEALw_wcB&gclsrc=aw.ds)  
 
-## 爱护社区，从我做起
+## 这些是我们大家应该知道或注意的
+
+密切接触的定义是—
+
+a) 长时间位于COVID-19患者周围约6英尺(2米)的范围内；在照顾COVID-19患者、与其同住、探访或共用医疗候诊区或房间时，可能会发生密切接触
+
+– 或者 –
+
+b) 直接接触COVID-19患者的传染性分泌物(例如咳嗽飞沫)
+
+![]({{ site.url }}/assets/images/divider.jpg)
 
 有心人善意提醒大家，“有部分人估计囤了些Costco食物，如果以后发现吃不完请不要去退货，Costco退的食品即便未开封也是全部丢弃，非常浪费。建议可以捐赠给慈善机构，给需要的低收入家庭。请正确使用Costco给消费者的利益条款。”
 
