@@ -36,9 +36,13 @@ For 24/7 Disease Reporting: Contact ACDP by phone at 971-673-1111.
 
 # 网课资源
 
-### Zoom
+### Zoom video
 
-### Google Hangout
+[Zoom Meeting Plans for Your Business](https://zoom.us/pricing/?zcid=1173&creative=372727188207&keyword=zoom%20conferencing&matchtype=e&network=g&device=c&gclid=Cj0KCQiAtOjyBRC0ARIsAIpJyGM2mCb13c8btM37KoSr1del8LUuJvqEBKmMekuMNdOGAhUyU0RIohQaAieFEALw_wcB)
+
+### Google Hangouts
+
+[Get Started](https://gsuite.google.com/products/meet/?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-e-dr-1008072&utm_content=text-ad-none-any-DEV_c-CRE_421690103164-ADGP_Hybrid%20%7C%20AW%20SEM%20%7C%20BKWS%20~%20EXA%20%2F%2F%20Hangouts%20%5B1:1%5D%20Google%20Hangouts-KWID_43700015211414153-kwd-362516399437&utm_term=KW_google%20hangouts-ST_google%20hangouts&gclid=Cj0KCQiAtOjyBRC0ARIsAIpJyGPZgVkdW7AdV5MSedOd13YmMF7kOl2xjqkNf0JBRU-OJstajgyZ7_IaAtJ8EALw_wcB&gclsrc=aw.ds)
 
 # 网购资源
 
