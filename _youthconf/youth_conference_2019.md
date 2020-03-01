@@ -7,7 +7,7 @@ permalink: /youthconference/
 
 ## Date
 
-6/28/2019 12:00 pm - 5:00 pm
+6/22/2019 1:00 pm - 5:00 pm
 
 ## Place
 
@@ -89,13 +89,12 @@ Dr. Toepper, former Legacy Hospital emergency physician, organized and led Portl
 
 ## Archive
 
-[2019 Youth Conference](http://pdxchinese.org/youthconference/youth_conference_2019/)  
-[2019俄勒冈华裔青少年年会成功举办/Summary and Reflection](http://pdxchinese.org/youth-conference-2019/)  
+[2018 Youth Conference](http://pdxchinese.org/youthconference/youth_conference_2018/)
 
-[2018 Youth Conference](http://pdxchinese.org/youthconference/youth_conference_2018/)  
-[2018俄勒冈华裔青少年年会成功举办/Summary and Reflection](http://pdxchinese.org/youth-conference-2018/)  
+[2018俄勒冈华裔青少年年会成功举办/Summary and Reflection](http://pdxchinese.org/youth-conference-2018/)
 
-[2017 Youth Conference](http://pdxchinese.org/youthconference/youth_conference_2017/)  
-[2017俄勒冈华裔青少年年会成功举办/Summary and Reflection](http://pdxchinese.org/youth-conference-2017/)  
+[2017 Youth Conference](http://pdxchinese.org/youthconference/youth_conference_2017/)
+
+[2017俄勒冈华裔青少年年会成功举办/Summary and Reflection](http://pdxchinese.org/youth-conference-2017/)
 
 [Youth Conference Files](http://pdxchinese.org/resources/benefits_resources/youthconference/)
