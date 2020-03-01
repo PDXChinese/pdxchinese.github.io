@@ -52,6 +52,6 @@ Not every area can be delivered. Please check the availability before ordering.
 
 ## 爱护社区，从我做起
 
-有人善意提醒大家，“有部分人估计囤了些Costco食物，如果以后发现吃不完请不要去退货，Costco退的食品即便未开封也是全部丢弃，非常浪费。建议可以捐赠给慈善机构，给需要的低收入家庭。请正确使用Costco给消费者的利益条款。”
+有心人善意提醒大家，“有部分人估计囤了些Costco食物，如果以后发现吃不完请不要去退货，Costco退的食品即便未开封也是全部丢弃，非常浪费。建议可以捐赠给慈善机构，给需要的低收入家庭。请正确使用Costco给消费者的利益条款。”
 
 <iframe width="555" height="312" src="https://www.youtube.com/embed/r5r4g7KWuts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
