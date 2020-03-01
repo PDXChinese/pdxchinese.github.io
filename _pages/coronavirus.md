@@ -13,9 +13,11 @@ PDX Westside: @凡草 @Julia J @Maggie @杜晖 @Nancy @刘鸽 @西北兆
 
 [加入Email/Text即时提醒系统](https://public.govdelivery.com/accounts/ORDHS/subscriber/new?topic_id=ORDHS_816)
 
-## 州政府联系电话
+## 州政府疫情热线电话
 
-For general information on novel coronavirus, call 211. If you are having a medical emergency, call 911.
+For general information on novel coronavirus, call 211.
+
+If you are having a medical emergency, call 911.
 
 OHA Acute and Communicable Disease Prevention Section
 
@@ -27,7 +29,7 @@ For 24/7 Disease Reporting: Contact ACDP by phone at 971-673-1111.
 
 ## CDC指南
 
-[CDC预防冠状病毒疾病2019(COVID-19)在家庭和住宅社区中传播的暂行指南](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread-chinese.html)
+预防冠状病毒疾病2019(COVID-19)在家庭和住宅社区中传播的暂行指南[English](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html)[中文](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread-chinese.html)
 
 ## 政府国外旅行警告
 
