@@ -11,8 +11,6 @@ PDX Westside: @凡草 @Julia J @Maggie @杜晖 @Nancy @刘鸽 @西北兆
 
 俄勒冈州冠状肺炎个案[即时更新，](https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx)[加入Email/Text通知名单](https://public.govdelivery.com/accounts/ORDHS/subscriber/new?topic_id=ORDHS_816)
 
-## 州政府疫情热线电话
-
 For general information on novel coronavirus, call 211.
 
 If you are having a medical emergency, call 911.
@@ -25,13 +23,13 @@ Phone: 971-673-1111
 
 For 24/7 Disease Reporting: Contact ACDP by phone at 971-673-1111.
 
-## CDC指南
+## CDC即时更新
 
-预防冠状病毒疾病2019(COVID-19)在家庭和住宅社区中传播的暂行指南: [English Version, ](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html)[中文版本](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread-chinese.html)
+预防冠状病毒疾病2019(COVID-19)在家庭和住宅社区中传播的暂行指南: [English, ](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html)[中文](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread-chinese.html)
 
-## 政府相应旅行规定
+冠状病毒疾病专题页面：[Englis](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 
-[境外旅行警告](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/)
+[境外旅行警告]https://wwwnc.cdc.gov/travel/notices)
 
 [对来自中国旅客的入境限制](https://www.whitehouse.gov/presidential-actions/proclamation-suspension-entry-immigrants-nonimmigrants-persons-pose-risk-transmitting-2019-novel-coronavirus/)
 
@@ -41,7 +39,7 @@ For 24/7 Disease Reporting: Contact ACDP by phone at 971-673-1111.
 
 [Google Hangouts](https://gsuite.google.com/products/meet/?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-e-dr-1008072&utm_content=text-ad-none-any-DEV_c-CRE_421690103164-ADGP_Hybrid%20%7C%20AW%20SEM%20%7C%20BKWS%20~%20EXA%20%2F%2F%20Hangouts%20%5B1:1%5D%20Google%20Hangouts-KWID_43700015211414153-kwd-362516399437&utm_term=KW_google%20hangouts-ST_google%20hangouts&gclid=Cj0KCQiAtOjyBRC0ARIsAIpJyGPZgVkdW7AdV5MSedOd13YmMF7kOl2xjqkNf0JBRU-OJstajgyZ7_IaAtJ8EALw_wcB&gclsrc=aw.ds)
 
-## 网购资源
+## 网购信息
 
 Please check the availability in your area before ordering.
 
