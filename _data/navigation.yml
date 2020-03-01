@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Resources"
     url: /resources/
-  #- title: "Events"
-  #  url: /eventnow/
+  - title: "COVID-19"
+    url: /eventnow/
   - title: "Donate"
     url: /communityfund/
   - title: "Contact Us"

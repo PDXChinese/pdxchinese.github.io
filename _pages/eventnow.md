@@ -1,19 +1,43 @@
 ---
-title: ""
+title: "抗击冠状病毒信息集总"
 permalink: /eventnow/
 ---
 
-For regular events including volunteering, seminars, conferences, please check out the submenus on the left of the [front page](http://pdxchinese.org/).
+# 华人社区互助小组
 
-For more complete event schedule, please click on [Shared Community Calendar](http://pdxchinese.org/events/) on the [front page](http://pdxchinese.org/).
+抗击疫情 PDX Westside 互助小组：@凡草 @Julia J @Maggie @杜晖 @Nancy @刘鸽 @西北兆
+
+欢迎每个小区成立自己的互助小组，成立后，都集中列在这里。
+
+# 俄勒冈州疫情更新
+
+[俄勒冈州冠状肺炎更新](https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx)
+
+        [Email订阅](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread-chinese.html)
+
+### 联系电话
 
 
-![]({{ site.url }}/assets/images/divider.jpg)
 
-# <span style="color:red">**2019 Chinese Festival**</span>
+# CDC指南
 
-For the first time ever, our local Chinese community will be hosting a Chinese festival filled with non-stop entertainment, delicious Chinese food, fun activities and much more. We are excited to join the  [India Festival](http://www.icaportland.org/), [Festa Italiana](https://www.festa-italiana.org/), [Pan African Festival](http://www.panafricanfestivalor.org/), and [Celebration of Persian New Year](https://www.andisheh.org/events/norouz-2019/) to offer another splendid cultural event in the living room of Portland.
+[CDC预防冠状病毒疾病2019(COVID-19)在家庭和住宅社区中传播的暂行指南](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread-chinese.html)
 
-> <span style="color:blue">August 3, 2019 (Saturday) 11am - 8pm @ Pioneer Courthouse Square, Portland</span>   :sparkles: <span style="color:green"> Free admission</span> :tada:
+# 美国政府旅行建议
 
-Please follow up with event details by visiting [2019 Chinese Festival](http://pdxchinese.org/chinesefestival/) page.
+[https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/)
+
+
+# 网课资源
+
+### Zoom
+
+### Google Hangout
+
+# 网购资源
+
+# 爱护社区，从我做起
+
+有部分人估计囤了些Costco食物，如果以后发现吃不完请不要去退货，Costco退的食品即便未开封也是全部丢弃，非常浪费。建议可以捐赠给慈善机构，给需要的低收入家庭。请正确使用Costco给消费者的利益条款。
+
+<iframe width="555" height="312" src="https://www.youtube.com/embed/r5r4g7KWuts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
