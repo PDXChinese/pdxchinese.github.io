@@ -45,7 +45,7 @@ For 24/7 Disease Reporting: Contact ACDP by phone at 971-673-1111.
 
 Not every area can be delivered. Please check the availability before ordering.
 
-[Buy Groceries on Amazon, Free 2-hr delivery with Prime‎](https://www.amazon.com/fmc/learn-more?tag=googhydr-20&hvadid=393036419508&hvpos=&hvexid=&hvnetw=g&hvrand=8912707584283355947&hvpone=&hvptwo=&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061078&hvtargid=aud-646675774026:kwd-297107986473&ref=pd_sl_8bies8siiy_b)  
+[Buy Groceries on Amazon, Free 2-hr delivery with Prime‎, Select Fresh or Whole Foods](https://www.amazon.com/fmc/learn-more?tag=googhydr-20&hvadid=393036419508&hvpos=&hvexid=&hvnetw=g&hvrand=8912707584283355947&hvpone=&hvptwo=&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061078&hvtargid=aud-646675774026:kwd-297107986473&ref=pd_sl_8bies8siiy_b)  
 [QFC Home Delivery](https://www.qfc.com/i/ways-to-shop/delivery)  
 [Safeway](https://www.safeway.com/?cmpid=ps_swy_spi_ecom_goo&s_kwcid=AL!10316!3!343532355727!e!!g!!safeway%20grocery%20delivery&ds_rl=1274059&gclid=Cj0KCQiAtOjyBRC0ARIsAIpJyGNZNXjtJGitSvPYhRnVRX1mG1qOzPLNOYHYzh3HB379ALiUYpdctRUaAj8gEALw_wcB&gclsrc=aw.ds)  
 
