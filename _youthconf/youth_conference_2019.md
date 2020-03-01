@@ -37,17 +37,9 @@ _2:30 pm - 2:45 pm Taking group photos of participating students and guest speak
 
 ### 2:45 pm - 3:15 pm Awards Ceremony
 
-* Victoria Ren Scholarship
-
-To let Victoria's sweetest smile brighten other children in the community who need assistance emotionally and/or financially.
-
-* Voice of Civic Engagement Award
-
-To encourage more youth to take a stand in public hearings or on any community platforms.
-
-* Youth Empowerment Award
-
-To acknowledge those who step out to bring others to grow and excel with them.
+| Victoria Ren Scholarship | To let Victoria's sweetest smile brighten other children in the community who need assistance emotionally and/or financially. |
+| Voice of Civic Engagement Award | To encourage more youth to take a stand in public hearings or on any community platforms. |
+| Youth Empowerment Award | To acknowledge those who step out to bring others to grow and excel with them. |
 
 ### 3:15 pm - 3:30 pm Live debate session on SAT adversity score by [Oregon Middle School Speech and Debate League(OMSSDL)](https://omssdl.org/)
 
