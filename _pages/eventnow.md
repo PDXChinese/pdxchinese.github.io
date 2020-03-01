@@ -7,7 +7,7 @@ permalink: /eventnow/
 
 抗击疫情 PDX Westside 互助小组：@凡草 @Julia J @Maggie @杜晖 @Nancy @刘鸽 @西北兆
 
-欢迎每个小区成立自己的互助小组，成立后，都集中列在这里。
+(欢迎每个小区成立自己的互助小组，成立后，都集中列在这里。)
 
 # 俄勒冈州疫情更新
 
@@ -17,7 +17,13 @@ permalink: /eventnow/
 
 ### 联系电话
 
+**Acute and Communicable Disease Prevention Section**
 
+Contact Us  
+E-mail: [ohd.acdp@state.or.us](wmailto:ohd.acdp@state.or.us)  
+Phone: 971-673-1111  
+
+For 24/7 Disease Reporting: Contact ACDP by phone at 971-673-1111.
 
 # CDC指南
 
