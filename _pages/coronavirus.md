@@ -64,6 +64,18 @@ b) 直接接触COVID-19患者的传染性分泌物(例如咳嗽飞沫)
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
+What you really should stock in preparation for the pandemic spread to the US:
+
+1) Latex or nitrile latex disposable gloves for use when going shopping, using the gasoline pump, and all other outside activity when you come in contact with contaminated areas.
+
+2) Stock up now with disposable surgical masks and use them to prevent you from touching your nose and/or mouth.
+
+3) Stock up now with hand sanitizers. The hand sanitizers must be alcohol-based and greater than 60% alcohol to be effective.
+
+4) Stock up now with zinc lozenges. These lozenges have been proven to be effective in blocking coronavirus (and most other viruses) from multiplying in your throat and nasopharynx.
+
+![]({{ site.url }}/assets/images/divider.jpg)
+
 有心人善意提醒大家，“有部分人估计囤了些Costco食物，如果以后发现吃不完请不要去退货，Costco退的食品即便未开封也是全部丢弃，非常浪费。建议可以捐赠给慈善机构，给需要的低收入家庭。请正确使用Costco给消费者的利益条款。”
 
 <iframe width="555" height="312" src="https://www.youtube.com/embed/r5r4g7KWuts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
