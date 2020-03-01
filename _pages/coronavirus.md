@@ -1,6 +1,6 @@
 ---
 title: "抗击冠状病毒信息汇总"
-permalink: /eventnow/
+permalink: /coronavirus/
 ---
 
 ## 华人社区互助小组
