@@ -31,9 +31,11 @@ For 24/7 Disease Reporting: Contact ACDP by phone at 971-673-1111.
 
 预防冠状病毒疾病2019(COVID-19)在家庭和住宅社区中传播的暂行指南: [English Version, ](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html)[中文版本](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread-chinese.html)
 
-## 政府国外旅行警告
+## 政府相应旅行规定
 
-[https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/)
+[境外旅行警告](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/)
+
+[对来自中国旅客的入境限制](https://www.whitehouse.gov/presidential-actions/proclamation-suspension-entry-immigrants-nonimmigrants-persons-pose-risk-transmitting-2019-novel-coronavirus/)
 
 ## 网课资源
 
