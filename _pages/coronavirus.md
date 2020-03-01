@@ -9,7 +9,7 @@ PDX Westside: @凡草 @Julia J @Maggie @杜晖 @Nancy @刘鸽 @西北兆
 
 ## 俄勒冈州疫情即时更新
 
-俄勒冈州冠状肺炎个案[即时更即,](https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx)[加入Email/Text通知名单](https://public.govdelivery.com/accounts/ORDHS/subscriber/new?topic_id=ORDHS_816)
+俄勒冈州冠状肺炎个案[即时更新，](https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx)[加入Email/Text通知名单](https://public.govdelivery.com/accounts/ORDHS/subscriber/new?topic_id=ORDHS_816)
 
 ## 州政府疫情热线电话
 
