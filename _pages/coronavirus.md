@@ -3,9 +3,9 @@ title: "抗击冠状病毒信息汇总"
 permalink: /coronavirus/
 ---
 
-## 华人社区互助小组
+## 华人社区抗击疫情互助小组
 
-抗击疫情 PDX Westside 互助小组：@凡草 @Julia J @Maggie @杜晖 @Nancy @刘鸽 @西北兆
+PDX Westside: @凡草 @Julia J @Maggie @杜晖 @Nancy @刘鸽 @西北兆
 
 (鼓励每个小区成立自己的互助小组，成立后，可以集中列在这里。)
 
