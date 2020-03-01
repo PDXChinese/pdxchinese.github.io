@@ -3,11 +3,9 @@ title: "抗击冠状病毒信息汇总"
 permalink: /coronavirus/
 ---
 
-## 华人社区抗击疫情互助小组
+## 社区抗击疫情互助小组
 
 PDX Westside: @凡草 @Julia J @Maggie @杜晖 @Nancy @刘鸽 @西北兆
-
-(鼓励每个小区成立自己的互助小组，成立后，可以集中列在这里。)
 
 ## 俄勒冈州疫情更新
 
@@ -31,7 +29,7 @@ For 24/7 Disease Reporting: Contact ACDP by phone at 971-673-1111.
 
 [CDC预防冠状病毒疾病2019(COVID-19)在家庭和住宅社区中传播的暂行指南](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread-chinese.html)
 
-## 美国政府旅行建议
+## 政府旅行建议
 
 [https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/)
 
@@ -51,7 +49,6 @@ Not every ara can be delivered. Please check the availability before ordering.
 [Home Chef](https://www.homechef.com/)  
 [QFC Home Delivery](https://www.qfc.com/i/ways-to-shop/delivery)  
 [Safeway](https://www.safeway.com/?cmpid=ps_swy_spi_ecom_goo&s_kwcid=AL!10316!3!343532355727!e!!g!!safeway%20grocery%20delivery&ds_rl=1274059&gclid=Cj0KCQiAtOjyBRC0ARIsAIpJyGNZNXjtJGitSvPYhRnVRX1mG1qOzPLNOYHYzh3HB379ALiUYpdctRUaAj8gEALw_wcB&gclsrc=aw.ds)  
-
 
 ## 爱护社区，从我做起
 
