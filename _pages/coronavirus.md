@@ -7,13 +7,13 @@ permalink: /coronavirus/
 
 PDX Westside: @凡草 @Julia J @Maggie @杜晖 @Nancy @刘鸽 @西北兆
 
-## 俄勒冈州疫情更新
+## 俄勒冈州疫情即时更新
 
 [俄勒冈州冠状肺炎更新](https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx)
 
 [加入Email/Text即时提醒系统](https://public.govdelivery.com/accounts/ORDHS/subscriber/new?topic_id=ORDHS_816)
 
-## 联系电话
+## 州政府联系电话
 
 For general information on novel coronavirus, call 211. If you are having a medical emergency, call 911.
 
@@ -29,7 +29,7 @@ For 24/7 Disease Reporting: Contact ACDP by phone at 971-673-1111.
 
 [CDC预防冠状病毒疾病2019(COVID-19)在家庭和住宅社区中传播的暂行指南](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread-chinese.html)
 
-## 政府旅行建议
+## 政府国外旅行警告
 
 [https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/)
 
@@ -41,7 +41,7 @@ For 24/7 Disease Reporting: Contact ACDP by phone at 971-673-1111.
 
 ## 网购资源
 
-Not every ara can be delivered. Please check the availability before ordering.
+Not every area can be delivered. Please check the availability before ordering.
 
 [Instacart Grocery Delivery, In As Fast As 1 Hour](https://www.instacart.com/store/qfc/storefront)  
 [Fresh or Whole Foods, Free 2-hr delivery with Prime‎](https://www.amazon.com/fmc/learn-more?tag=googhydr-20&hvadid=393036419508&hvpos=&hvexid=&hvnetw=g&hvrand=8912707584283355947&hvpone=&hvptwo=&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061078&hvtargid=aud-646675774026:kwd-297107986473&ref=pd_sl_8bies8siiy_b)  
@@ -52,6 +52,6 @@ Not every ara can be delivered. Please check the availability before ordering.
 
 ## 爱护社区，从我做起
 
-有部分人估计囤了些Costco食物，如果以后发现吃不完请不要去退货，Costco退的食品即便未开封也是全部丢弃，非常浪费。建议可以捐赠给慈善机构，给需要的低收入家庭。请正确使用Costco给消费者的利益条款。
+有网友善意提醒大家，“有部分人估计囤了些Costco食物，如果以后发现吃不完请不要去退货，Costco退的食品即便未开封也是全部丢弃，非常浪费。建议可以捐赠给慈善机构，给需要的低收入家庭。请正确使用Costco给消费者的利益条款。”
 
 <iframe width="555" height="312" src="https://www.youtube.com/embed/r5r4g7KWuts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
