@@ -45,7 +45,7 @@ For 24/7 Disease Reporting: Contact ACDP by phone at 971-673-1111.
 
 ## 网购资源
 
-Not every area can be delivered. Please check the availability before ordering.
+Please check the availability in your area before ordering.
 
 [Instacart Grocery Delivery, In As Fast As 1 Hour](https://www.instacart.com/store/qfc/storefront)  
 [Fresh or Whole Foods, Free 2-hr delivery with Prime‎](https://www.amazon.com/fmc/learn-more?tag=googhydr-20&hvadid=393036419508&hvpos=&hvexid=&hvnetw=g&hvrand=8912707584283355947&hvpone=&hvptwo=&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061078&hvtargid=aud-646675774026:kwd-297107986473&ref=pd_sl_8bies8siiy_b)  
