@@ -7,6 +7,10 @@ permalink: /coronavirus/
 
 PDX Westside: @凡草 @Julia J @Maggie @杜晖 @Nancy @刘鸽 @西北兆
 
+## 一亩三分地: 新型冠状病毒肺炎疫情实时动态
+
+[北美](https://coronavirus.1point3acres.com/)
+
 ## 俄勒冈州疫情即时更新
 
 俄勒冈州冠状肺炎个案[即时更新，](https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx)[加入Email/Text通知名单](https://public.govdelivery.com/accounts/ORDHS/subscriber/new?topic_id=ORDHS_816)
@@ -50,30 +54,5 @@ Please check the availability in your area before ordering.
 [QFC Home Delivery](https://www.qfc.com/i/ways-to-shop/delivery)  
 [Safeway](https://www.safeway.com/?cmpid=ps_swy_spi_ecom_goo&s_kwcid=AL!10316!3!343532355727!e!!g!!safeway%20grocery%20delivery&ds_rl=1274059&gclid=Cj0KCQiAtOjyBRC0ARIsAIpJyGNZNXjtJGitSvPYhRnVRX1mG1qOzPLNOYHYzh3HB379ALiUYpdctRUaAj8gEALw_wcB&gclsrc=aw.ds)  
 
-## 这些是我们大家应该知道或注意的
-
-密切接触的定义是—
-
-a) 长时间位于COVID-19患者周围约6英尺(2米)的范围内；在照顾COVID-19患者、与其同住、探访或共用医疗候诊区或房间时，可能会发生密切接触
-
-– 或者 –
-
-b) 直接接触COVID-19患者的传染性分泌物(例如咳嗽飞沫)
-
-![]({{ site.url }}/assets/images/divider.jpg)
-
-What you really should stock up in preparation for the pandemic spread to the US:
-
-1) Latex or nitrile latex disposable gloves for use when going shopping, using the gasoline pump, and all other outside activity when you come in contact with contaminated areas.
-
-2) Stock up now with disposable surgical masks and use them to prevent you from touching your nose and/or mouth.
-
-3) Stock up now with hand sanitizers. The hand sanitizers must be alcohol-based and greater than 60% alcohol to be effective.
-
-4) Stock up now with zinc lozenges. These lozenges have been proven to be effective in blocking coronavirus (and most other viruses) from multiplying in your throat and nasopharynx.
-
-![]({{ site.url }}/assets/images/divider.jpg)
-
-有心人善意提醒大家，“有部分人估计囤了些Costco食物，如果以后发现吃不完请不要去退货，Costco退的食品即便未开封也是全部丢弃，非常浪费。建议可以捐赠给慈善机构，给需要的低收入家庭。请正确使用Costco给消费者的利益条款。”
 
 <iframe width="555" height="312" src="https://www.youtube.com/embed/r5r4g7KWuts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
