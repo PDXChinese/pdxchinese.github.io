@@ -3,13 +3,19 @@ title: "抗击冠状病毒信息汇总"
 permalink: /coronavirus/
 ---
 
-## 社区抗击疫情互助小组
+## CDC即时更新
 
-PDX Westside: @凡草 @Julia J @Maggie @杜晖 @Nancy @刘鸽 @西北兆
+**冠状病毒疾病专题页面：** [English, ](https://www.cdc.gov/coronavirus/2019-ncov/index.html) [中文](https://www.cdc.gov/coronavirus/2019-ncov/index-Chinese.html)
+
+预防冠状病毒疾病2019(COVID-19)在家庭和住宅社区中传播的暂行指南: [English, ](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html)[中文](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread-chinese.html)
+
+[境外旅行警告](https://wwwnc.cdc.gov/travel/notices)
+
+[对来自中国旅客入境限制的行政令](https://www.whitehouse.gov/presidential-actions/proclamation-suspension-entry-immigrants-nonimmigrants-persons-pose-risk-transmitting-2019-novel-coronavirus/)
 
 ## 一亩三分地: 新型冠状病毒肺炎疫情实时动态
 
-[北美](https://coronavirus.1point3acres.com/)
+[北美疫情更新](https://coronavirus.1point3acres.com/)
 
 ## 俄勒冈州疫情即时更新
 
@@ -18,24 +24,6 @@ PDX Westside: @凡草 @Julia J @Maggie @杜晖 @Nancy @刘鸽 @西北兆
 For general information on novel coronavirus, call 211.
 
 If you are having a medical emergency, call 911.
-
-OHA Acute and Communicable Disease Prevention Section
-
-Contact Us  
-E-mail: [ohd.acdp@state.or.us](wmailto:ohd.acdp@state.or.us)  
-Phone: 971-673-1111  
-
-For 24/7 Disease Reporting: Contact ACDP by phone at 971-673-1111.
-
-## CDC即时更新
-
-预防冠状病毒疾病2019(COVID-19)在家庭和住宅社区中传播的暂行指南: [English, ](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html)[中文](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread-chinese.html)
-
-冠状病毒疾病专题页面：[English](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
-
-[境外旅行警告](https://wwwnc.cdc.gov/travel/notices)
-
-[对来自中国旅客入境限制的行政令](https://www.whitehouse.gov/presidential-actions/proclamation-suspension-entry-immigrants-nonimmigrants-persons-pose-risk-transmitting-2019-novel-coronavirus/)
 
 ## 网课资源
 
@@ -54,5 +42,8 @@ Please check the availability in your area before ordering.
 [QFC Home Delivery](https://www.qfc.com/i/ways-to-shop/delivery)  
 [Safeway](https://www.safeway.com/?cmpid=ps_swy_spi_ecom_goo&s_kwcid=AL!10316!3!343532355727!e!!g!!safeway%20grocery%20delivery&ds_rl=1274059&gclid=Cj0KCQiAtOjyBRC0ARIsAIpJyGNZNXjtJGitSvPYhRnVRX1mG1qOzPLNOYHYzh3HB379ALiUYpdctRUaAj8gEALw_wcB&gclsrc=aw.ds)  
 
+## 社区抗击疫情互助小组
+
+PDX Westside: @凡草 @Julia J @Maggie @杜晖 @Nancy @刘鸽 @西北兆
 
 <iframe width="555" height="312" src="https://www.youtube.com/embed/r5r4g7KWuts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
