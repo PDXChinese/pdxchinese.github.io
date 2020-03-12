@@ -66,7 +66,7 @@ CORONAVIRUS
 
 8. Wash your hands frequently as the virus can only live on your hands for 5-10 minutes, but - a lot can happen during that time - you can rub your eyes, pick your nose unwittingly and so on.
 
-9. You should also gargle as a prevention. A simple solution of salt in warm water will suffice. 10. Can't emphasis enough - drink plenty of water! 
+9. You should also gargle as a prevention. A simple solution of salt in warm water will suffice. 10. Can't emphasis enough - drink plenty of water!
 
 THE SYMPTOMS
 
