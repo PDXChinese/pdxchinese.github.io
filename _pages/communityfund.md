@@ -10,6 +10,8 @@ Thank you for your generosity. Your contribution to OCC is tax-deductible under 
 
 [https://goo.gl/forms/lwHNjW3kvOuoRamq2](https://goo.gl/forms/lwHNjW3kvOuoRamq2)
 
+> All donations from 3/22/2022 - 4/21/2022 will be considered as special contribution to coronavirus fund.
+
 Please choose the way for your most convenience:
 
 ### PayPal
