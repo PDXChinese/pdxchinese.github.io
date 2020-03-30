@@ -31,7 +31,7 @@ Aris群友提醒让医生开处方的时候开90天，价格和30天是一样的
 
 这次筹款将不仅仅是为了物资采购，余留款项将会用于与此次疫情相关的支出，包括为社区成员提供紧急救助。在此也希望所有社区成员严格遵守政府有关规定，并注意自身安全（不被感染，不成为侵犯目标）。Viruses come and go, we will survive and thrive!
 
-[OCC Coronavirus Relief Fund]
+**[OCC Coronavirus Relief Fund]**
 
 PayPal: Select ‘send to friend’ and send to donate@pdxchinese.org
 Zelle: donate@pdxchinese.org
