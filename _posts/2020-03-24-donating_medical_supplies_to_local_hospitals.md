@@ -1,9 +1,17 @@
 ---
-title: "社区为本地医院捐赠医疗物资活动"
+title: "华人社区积极为本地医院捐赠医疗物资"
 author: XiBei Zhao
 excerpt: "很高兴看到社区个人和团体自发组织起来为本地医院捐献急需的物资，与此同时我们也一直在努力着，非常高兴告诉大家，我们已经订购了首批10,000个Halyard Fluidshield N95口罩。这次订货从联系货源，物流，清关，现场验货，资金预付完全依赖本地群友提供的资源。"
 date: "2020-03-24"
 ---
+
+【社区捐赠医疗物资活动进展4/1】 今天，前往Kaiser Westside Medical Center，将转运中国(uszcn.com)和京华楼(mandarinhousepo.com)东家丛迅捐赠的120付护目镜和100件防护服送给了战斗在抗击疫情一线的医护人员，这两样物品正是医护人员最缺的。感谢徐风平医生从中安排并介绍医院为应对疫情而采取的各项措施，期间也提到医院对医生使用N95几近'吝啬'的程度，令人不胜唏嘘。希望我们订购的口罩能尽快顺利到达，早日送到他们手中。
+
+目前我们的捐款缺口依然很大，我们建立的Coronavirus Relief Fund，除了用来购买一万N95口罩外，希望能有剩余资金，以帮助到因疫情出现生活困难的社区家庭。
+
+![]({{ site.url }}/assets/images/kaiser_donation_04012020a.jpg)
+
+![]({{ site.url }}/assets/images/kaiser_donation_04012020b.jpg)
 
 **【社区捐赠医疗物资活动进展3/29】** 我们订的一万N95口罩还在集结过程中，物流公司已经有些紧张了，我们只能是祈祷这批货能顺利启程。与此同时，我们的筹款活动仍在继续，到今晚为止，大家的捐款已经达到$14,480！ 刘鲁粤群友出手帮助设立了[gofundme page](https://www.gofundme.com/f/xrp4ks-fund-raising-for-purchase-masks-for-local-hospital?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet)，请大家帮助散发，尤其是社区外的朋友。
 
