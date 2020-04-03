@@ -51,8 +51,8 @@ Aris群友提醒让医生开处方的时候开90天，价格和30天是一样的
 
 **[OCC Coronavirus Relief Fund]**
 
-PayPal: Select ‘send to friend’ and send to donate@pdxchinese.org
-Zelle: donate@pdxchinese.org
+PayPal: Select 'send to friend' and send to donate@pdxchinese.org  
+Zelle: donate@pdxchinese.org  
 
-公司matching请选择Oregon Chinese Coalition, Tax ID: 82-1027620
-支票和信用卡捐赠，请见: [http://pdxchinese.org/communityfund/](http://pdxchinese.org/communityfund/)
+公司matching请选择Oregon Chinese Coalition, Tax ID: 82-1027620  
+支票和信用卡捐赠，请见: [http://pdxchinese.org/communityfund/](http://pdxchinese.org/communityfund/)  
