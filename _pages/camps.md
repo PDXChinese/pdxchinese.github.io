@@ -12,7 +12,7 @@ To talk about the potential for such tours/camps, please [contact us](http://pdx
 The camps/tours open to all youth in the community. When the space is limited, priority will be given to the families who are in several volunteering WeChat groups.
 
 ## 2018.03.11 Motion Analysis Center, [Shriners Hospitals for Children](https://www.shrinershospitalsforchildren.org/shc)  
-### Thanks to Jing Feng, Ph.D., director of Motion Analysis Center  
+### Thanks to Jing Feng, Ph.D., Director of Motion Analysis Center  
 
 ![]({{ site.url }}/assets/images/049251f1873e43066d1e13f0fe321b00.jpg)
 
@@ -25,6 +25,17 @@ The camps/tours open to all youth in the community. When the space is limited, p
 ### Thanks to Frances Ippolito  
 
 ![]({{ site.url }}/assets/images/9a207f90227e808ae35d9a2eb9ea7c48b.jpg)
+
+## 2019.09.15 Motion Analysis Center, [Shriners Hospitals for Children](https://www.shrinershospitalsforchildren.org/shc)   
+### Thanks to Jing Feng, Ph.D., Director of Motion Analysis Center  
+
+![]({{ site.url }}/assets/images/activities/WeChat Image_20191013212703.jpg)
+
+## 2019.10.11 [Oregon State University Rotics Laboratory](https://mime.oregonstate.edu/research/drl/)   
+### Thanks to Zhunqing Wang, Coach of FTC Robotics Team 12808 RevAmped  
+
+![]({{ site.url }}/assets/images/e8412acd478a29aa118e9e7d1162d38f.jpg)
+
 
 ## Recommended Tours
 

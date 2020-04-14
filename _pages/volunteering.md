@@ -17,15 +17,13 @@ OCC has been approved as an official Certifying Organization for The President's
 
 To be qualified as a volunteer for PVSA awards under OCC, you will have to (1) meet the [requirements by PVSA](https://www.presidentialserviceawards.gov/the-award) **AND** (2) fill out and sign OCC's [PVSA Volunteer Supplemental Form](https://docs.google.com/forms/d/e/1FAIpQLSdn2_Mz3uZ6ghY64BRqC696LkbrRbGoJEH2eRUdX33zT_Fedw/viewform?c=0&w=1).
 
-To start, please [register as a volunteer at PVSA](https://www.presidentialserviceawards.gov/register-vo). Please link your profile with OCC's ROS Key (NJE-6463) so that your hours will be counted under OCC when calculating for the awards.
+You will be responsible for recording hours after each volunteer activity. Also please keep the volunteer hour logs for future verification. OCC provides you an [hour log sheet](/assets/pdf/volunteer_hour_log_sheet.pdf) for your convenience.
 
-*Note：大人一注册就可以在Profile(点击屏幕上自己的名字才能看到)上链接OCC ROS Key，但是小孩子不可以，要注册时填上的家长(必须先申请)在收邮件后consent才可以。*
-
-You will be responsible for entering hours on PVSA's website after each volunteer activity. Also please keep the volunteer hour logs for future verification. OCC provides you an [hour log sheet](/assets/pdf/volunteer_hour_log_sheet.pdf) for your convenience.
-
-What counts as volunteer hours? We recommend an online [article](https://www.realizedworth.com/2018/07/19/what-counts-as-volunteer-time/) for your reference. Even though we request supervisor's signature and possible hour log verification, it is still up to the volunteers themselves to report hours with the highest level of integrity.
+What counts as volunteer hours? We recommend a few online articles ([No.1](https://www.realizedworth.com/2018/07/19/what-counts-as-volunteer-time/), [No.2](https://www.gswny.org/content/dam/girlscouts-gswny/documents/presidents%20volunteer%20service%20award%20service%20hours%20guidelines.pdf), [No.3](http://www.gscwm.org/content/dam/girlscouts-gscwm/documents/GSCWM%20guidelines%20for%20Hours%20for%20PVSA.pdf)) for your reference. Even though we request supervisor's signature and possible hour log verification, it is still up to the volunteers themselves to report hours with the highest level of integrity.
 
 Hours are measured over a 12-month period (Oct 27 through Oct 26) and awards are designated based on cumulative hours. The awards are offered in multiple levels and are designed to recognize each milestone of your service achievement. Levels include bronze, silver, gold and the highest honor, the President’s Lifetime Achievement Award for those who contribute more than 4,000 hours of service in their lifetime.
+
+Once the documentation is received (not postmarked) by announced deadline, OCC will verify all records and confirm that the candidate has completed the number of service hours in good standing as required to earn a President’s Volunteer Service Award.
 
 ![]({{ site.url }}/assets/images/communities/pvsa_award.jpg)
 
@@ -84,7 +82,9 @@ Address: 239 NW Everett St, Portland, OR 97209
 
 ## Monthly Volunteering at Clay Street Table's Asian Brunch
 
-![]({{ site.url }}/assets/images/fc3110b4f05a241f49938d689d64ca102.jpg)
+![]({{ site.url }}/assets/images/activities/fc3110b4f05a241f49938d689d64ca102.jpg)
+
+<a href="https://signup.com/go/KhUykiz" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Available Spots on SignUp.com"></a>
 
 地点： 1432 SW 13th Ave, Portland, 97201
 
@@ -109,3 +109,5 @@ Address: 239 NW Everett St, Portland, OR 97209
 [List of local programs compiled by OES](https://www.oes.edu/student-life/service-learning/upper-school-service-learning)
 
 [HandsOn Greater Portland](https://www.handsonportland.org/)
+
+[The Complete List of Community Service Scholarships](https://blog.prepscholar.com/community-service-scholarships-complete-list)

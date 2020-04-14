@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Resources"
     url: /resources/
-  #- title: "Events"
-  #  url: /eventnow/
+  - title: "COVID-19"
+    url: /coronavirus/
   - title: "Donate"
     url: /communityfund/
   - title: "Contact Us"
@@ -22,6 +22,8 @@ main:
 extra:
   - title: Programs
     children:
+      - title: "PVSA Honorees"
+        url: /pvsa/
       - title: "Volunteering"
         url: /volunteering/
       - title: "Winter Drive"
@@ -30,27 +32,31 @@ extra:
         url:
       - title: "Youth Camps"
         url: /camps/
+      - title: "<b>Youth Conference</b>"
+        url: /youthconference/
+      - title: "Youth Drum Team"
+        url: /drumteam/
       - title: "Youth Mentoring"
         url: /mentoring/
-      - title: "Youth Conference"
-        url: /youthconference/
+      - title: "Youth Orchestra"
+        url: /youthorchestra/
       - title: "Youth Roundtable"
         url: /youthroundtable/
       - title: "---"
         url:
-      - title: "Community Fair"
-        url: /fair/
       - title: "Commerce Chamber"
         url: /chambercommerce/
+      - title: "Community Fair"
+        url: /fair/
       - title: "Entrepreneurs Forum"
         url: /startup/
       - title: "---"
         url:
       - title: "Chinatown"
         url: /chinatown/
-      - title: "Drum Program"
-        url: /drumteam/
-      - title: "Chinese Festival"
+      - title: "<b>Chinese Festival</b>"
         url: /chinesefestival/
       - title: "Chinese New Year"
         url: /lunarnewyear/
+      - title: "Lantern Festival"
+        url: /lanternfestival/

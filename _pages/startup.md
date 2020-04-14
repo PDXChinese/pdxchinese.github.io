@@ -1,14 +1,33 @@
 ---
-title: "Entrepreneurs Forum"
+title: ""
 permalink: /startup/
 ---
 
+<p><img src="/assets/images/activities/startup.jpg"></p>  
+
 座谈会资料：[http://pdxchinese.org/resources/benefits_resources/own-resources/](http://pdxchinese.org/resources/benefits_resources/own-resources/)
+
+鼓励大家提前报名，方便安排场地，必要的话也可以reschedule：[https://forms.gle/YC2ThqPCnpDnxn988](https://docs.google.com/forms/d/e/1FAIpQLSd-v5WXsz497wPbK-1wNvJaiSfXcQHJJpDOjPgw37mSrSa4_A/viewform?usp=sf_link)
+
+## 社区第十次创业座谈会
+
+【时间】10.29.2019 周二 7:30 pm - 9:30 pm  
+【地点】GRIFFITH BLDG: Room 330 (4755 SW Griffith Drive, Beaverton, OR 97005)  
+
+Kristy Mao: Experiences of Mentoring Early and Mid Career Professionals
+
+Kristy is Senior Finance Director at Siemens Product Lifecycle Management Software Company, who is currently responsible to manage $1B revenue portfolio. Kristy graduated from USC majored in business, and received her MBA from Yale University. Kristy has been actively mentoring early and mid career professionals in the past three years at work.
+
+在企业内部华人进入管理层的要相对少得多，分析原因的文章却是多如牛毛。林林总总，都有道理，但是华人忽略了mentoring这一块让我们自己损失了多少，那是怎么说都不会过分的。我们在社区内针对青少年开展mentoring活动，是着眼未来。对于我们大人来说，在这方面补补课，也算是亡羊补牢。
+
+我们非常高兴邀请到Kristy Mao，她在主流公司文化中做得非常的成功，更难能可贵的是，她非常重视在公司内部对专业和管理人员的职业初中期培养。不仅带出了更加优秀的团队，也让自己的事业更加的成功。Kristy非常愿意和大家聊聊在这方面的体会，正好她前两个星期刚在本地耶鲁校友会做了这方面的讲座，轻车熟路，相信无论是想创业的，还是想在公司内部有向上努力的群友都会受益于这次与Kristy的交流的。
+
+从这次开始，我们希望愿意参加座谈会的群友能够事先注册一下，不是必须，主要是统计人数和了解听众的构成。
 
 ## 社区第九次创业座谈会
 
-【时间】7.16.2019 周二 7:00 pm - 9:30 pm
-【地点】GRIFFITH BLDG: Room 100 (4755 SW Griffith Drive, Beaverton, OR 97005)
+【时间】7.16.2019 周二 7:00 pm - 9:30 pm  
+【地点】GRIFFITH BLDG: Room 100 (4755 SW Griffith Drive, Beaverton, OR 97005)  
 
 Section 1. 来自三个不同专业的本地牙医纵论牙科行业
 
@@ -37,8 +56,8 @@ We are a small business that grows indoors and produces nutrient dense food. We 
 
 ## 社区第八次创业座谈会
 
-【时间】5.21.2019 周二 7:00 pm - 9:30 pm
-【地点】GRIFFITH BLDG: Room 150 (4755 SW Griffith Drive, Beaverton, OR 97005)
+【时间】5.21.2019 周二 7:00 pm - 9:30 pm  
+【地点】GRIFFITH BLDG: Room 150 (4755 SW Griffith Drive, Beaverton, OR 97005)  
 
 Section 1. 杨新乐: PAS-厘米级高精度地理位置网络
 
@@ -58,8 +77,8 @@ Jie Lian, currently a patent agent at Klarquist Sparkman, LLP, a top tier intell
 
 ## 社区第七次创业座谈会
 
-【时间】4.30.2019 周二 7:00 pm - 9:30 pm
-【地点】GRIFFITH BLDG: Room 150 (4755 SW Griffith Drive, Beaverton, OR 97005)
+【时间】4.30.2019 周二 7:00 pm - 9:30 pm  
+【地点】GRIFFITH BLDG: Room 150 (4755 SW Griffith Drive, Beaverton, OR 97005)  
 
 此次创业座谈会将由在IBM任职的本地群友张凯主讲，他给自己的讲座起了一个很有意思的名字 -- 云计算的前世今生。他发给了我一个简介，本想按照惯例翻译成中文发出来，但是怕是把他的幽默 get lost in translation，所以，就照搬过来了。
 
@@ -73,8 +92,8 @@ Look forward to discussing the topics with you. Thanks!'
 
 ## 社区第六次创业座谈会
 
-【时间】3.19.2019 周二 7:00 pm - 9:30 pm
-【地点】GRIFFITH BLDG: Room 300 (4755 SW Griffith Drive, Beaverton, OR 97005)
+【时间】3.19.2019 周二 7:00 pm - 9:30 pm  
+【地点】GRIFFITH BLDG: Room 300 (4755 SW Griffith Drive, Beaverton, OR 97005)  
 
 华人创业第一行业肯定是餐饮业了，老一代华人几代人在餐馆打拼生活，中国城和华人积聚的地方无不是餐馆林立。即便是新一代移民，很多人还是酷爱饮食行业，先是在郊区开起了比较讲究的餐馆，现在又开始利用微信平台做起来特色食品。慢慢认识了不少餐馆老板，发现他们真的是一批有抱负有理想也敢冒险敢付出的人。他们可能没有机会像其他行业的一些成功华人生活得那么的光鲜，但是，一分耕耘一分收获，他们的生活事业也是五彩缤纷，每每和他们聊起来，都是满脸的眉飞色舞。
 

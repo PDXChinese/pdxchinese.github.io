@@ -5,15 +5,11 @@ permalink: /drumteam/
 
 # 社区击鼓队/Community Drum Team
 
->OCC 一直想成立一支有精神内涵的击鼓队，通过很长一段时间的探索，感觉时机成熟了。争取今年8月3日能在先锋广场举办第一场演出。感谢@ACT心理咨询师唐捷 @奇葩大冒险[ 张昊]{日天大侠} 俩位支持OCC创立击鼓队，你俩的加入使我们这支击鼓队的成立变成了现实！ -- 艾力克
+The earliest known drums in China date back nearly four thousand years ago. Historically, Chinese drums have been used in celebration and in conflict. As a result Chinese drums are often the color red which has long time been associated with power and luck. Nowadays, drumming is used primarily for festivities and events.
 
-### Team Leader
+The purposes of forming our community drum team are to provide the community members especially youth an opportunity of playing on such beautiful and powerful traditional instrument, to learn to appreciate the cultural tradition, and to contribute to the local community for diversity, equity, and inclusion.
 
-Eric Shi
-
-### Team Captains
-
-Hao Zhang  
+To have us perform in your events, please [contact us](http://pdxchinese.org/contact/).
 
 ### Debut Performance
 
@@ -23,8 +19,18 @@ Hao Zhang
 
 ![]({{ site.url }}/assets/images/50feb0b01941b74a72808399e07bb823.jpg)  
 
-![]({{ site.url }}/assets/images/f51cf8af6fef2a7fcd4d9efe51fd12d7.jpg)  
-
-![]({{ site.url }}/assets/images/532eed46e20ac7114cbe2788a8b51422.jpg)  
-
 ![]({{ site.url }}/assets/images/135938f75b434e0f816ac0a3af841b46.jpg)  
+
+### Performance in Chinese New Year Cultural Fair
+
+Oregon Convention Center on January 25, 2020
+
+<iframe width="1228" height="691" src="https://www.youtube.com/embed/HF3sbTZpyM0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="1228" height="691" src="https://www.youtube.com/embed/YKhchAJ1O4A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Performance in Springville Cultural Celebration Night
+
+Springville K-8 School on February 21, 2020
+
+<iframe width="1189" height="673" src="https://www.youtube.com/embed/Yk-jwg_HBxI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

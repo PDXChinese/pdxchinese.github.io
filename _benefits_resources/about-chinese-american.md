@@ -15,3 +15,9 @@ Source: [https://shop.pbs.org/the-chinese-exclusion-act-dvd/product/AE61702](htt
 ## Chinese Americans in Oregon
 
 [https://oregonencyclopedia.org/articles/chinese_americans_in_oregon/#.XSNxh-hKi71](https://oregonencyclopedia.org/articles/chinese_americans_in_oregon/#.XSNxh-hKi71)
+
+[Archived historical documents and photographs](https://efiles.portlandoregon.gov/Record?q=recAnyWord%3Achinese&sortBy=recCreatedOn&pagesize=100&filter=electronic ) by City of Portland Archives & Records Center
+
+## Timeline of Chinese Immigration to the United States
+
+[https://bancroft.berkeley.edu/collections/chinese-immigration-to-the-united-states-1884-1944/timeline.html](https://bancroft.berkeley.edu/collections/chinese-immigration-to-the-united-states-1884-1944/timeline.html)

@@ -238,9 +238,12 @@ collections:
   chinatown_gallery:
     output: true
     permalink: /chinatown/:path/
-  chinatown_sayno:
+  chinatown_engage:
     output: true
-    permalink: /chinatown/sayno/:path/
+    permalink: /chinatown/engage/:path/
+  chinatown_wonglaundry:
+    output: true
+    permalink: /chinatown/wonglaundry/:path/
   chinatown_newyear:
     output: true
     permalink: /chinatown/newyear/:path/
@@ -364,6 +367,12 @@ collections:
   youthconf:
     output: true
     permalink: /youthconference/:path/
+  pvsafiles:
+    output: true
+    permalink: /pvsafiles/:path/
+  festival:
+    output: true
+    permalink: /chinesefestival/:path/
 
 # Defaults
 defaults:
@@ -399,10 +408,17 @@ defaults:
     values:
       layout: single
       author_profile: false
-  # chinatown_sayno
+  # chinatown_engage
   - scope:
       path: ""
-      type: chinatown_sayno
+      type: chinatown_engage
+    values:
+      layout: single
+      author_profile: false
+  # chinatown_wonglaundry
+  - scope:
+      path: ""
+      type: chinatown_wonglaundry
     values:
       layout: single
       author_profile: false
@@ -690,6 +706,20 @@ defaults:
   - scope:
       path: ""
       type: youthconf
+    values:
+      layout: single
+      author_profile: false
+  # pvsafiles
+  - scope:
+      path: ""
+      type: pvsafiles
+    values:
+      layout: single
+      author_profile: false
+  # festival
+  - scope:
+      path: ""
+      type: festival
     values:
       layout: single
       author_profile: false

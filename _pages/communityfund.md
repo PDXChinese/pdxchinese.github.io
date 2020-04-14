@@ -10,6 +10,8 @@ Thank you for your generosity. Your contribution to OCC is tax-deductible under 
 
 [https://goo.gl/forms/lwHNjW3kvOuoRamq2](https://goo.gl/forms/lwHNjW3kvOuoRamq2)
 
+> All donations between 3/22/2022 and 4/21/2022 will be considered as special contribution to coronavirus relief fund.
+
 Please choose the way for your most convenience:
 
 ### PayPal
@@ -18,7 +20,11 @@ Select 'send to friend' and send to donate@pdxchinese.org
 
 ### Checks
 
-Please mail checks to: c/o Oregon Chinese Coalition, 219 NW 3rd Ave., #227, Portland, OR 97209
+Please make checks payable to Oregon Chinese Coalition and mail to:
+
+Oregon Chinese Coalition  
+PO Box 1675  
+Beaverton, OR 97075  
 
 ### Credit Card
 
@@ -51,6 +57,7 @@ The committee is responsible for quarterly hearing of OCC’s financial operatio
 Ming Brink  
 Xiaohui Chen  
 Hui Du  
+Kent Yu  
 Ge Liu  
 Guangchao Zhang  
 Liwen Zhang  

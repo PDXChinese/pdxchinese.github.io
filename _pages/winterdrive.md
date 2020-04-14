@@ -2,66 +2,66 @@
 title: " "
 permalink: /winterdrive/
 ---
+<p><img src="/assets/images/activities/winter_drive_banner.jpg"></p>  
 
-# 2018 Community-Wide Winter Drive
-
-**Date:** November 17, 2018 Saturday, 1:00 pm - 4:00 pm  
-**Place:** 5 drop off locations  
+# 2019 Community Winter Clothing Drive  
+**Date:** November 16, 2019 Saturday, 1:00 pm - 4:00 pm  
+**Place:** 6 drop off locations  
 
 | Area | School | Spot if Specified |
 | --- | --- | --- |
-| Beaverton | [Sunset High School](https://www.google.com/maps/place/Sunset+High+School/@45.5281211,-122.8205103,15z/data=!4m2!3m1!1s0x0:0xee13c5fd283ea1a8?ved=2ahUKEwj2-Mi2udPeAhVKyFQKHSB5DhAQ_BIwCnoECAUQCA) | Parking lot next to NW Cornell Rd|
-| Bethany | [Stoller Middle School](https://www.google.com/maps/place/Stoller+Middle+School/@45.557277,-122.822358,15z/data=!4m2!3m1!1s0x0:0x8ed51b34f0447f22?ved=2ahUKEwj43-zdudPeAhVO7VQKHe5DBqkQ_BIwD3oECAYQCA) | |
-| Lake Oswego | [Lake Oswego High School](https://www.google.com/maps/place/Lake+Oswego+Senior+High+School/@45.4275204,-122.7024808,15z/data=!4m5!3m4!1s0x0:0xca28633b2e16a0ea!8m2!3d45.4275204!4d-122.7024808) | |
-| NW Portland | [Forest Park Elementary](https://www.google.com/maps/place/Forest+Park+Elementary+School/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
+| Beaverton | [Sunset High School](https://www.google.com/maps/place/Sunset+High+School/@45.5281211,-122.8205103,15z/data=!4m2!3m1!1s0x0:0xee13c5fd283ea1a8?ved=2ahUKEwj2-Mi2udPeAhVKyFQKHigh SchoolB5DhAQ_BIwCnoECAUQCA) | Parking lot next to NW Cornell Rd|
+| Bethany #1 | [Stoller Middle School](https://www.google.com/maps/place/Stoller+Middle+School/@45.557277,-122.822358,15z/data=!4m2!3m1!1s0x0:0x8ed51b34f0447f22?ved=2ahUKEwj43-zdudPeAhVO7VQKHe5DBqkQ_BIwD3oECAYQCA) | |
+| Bethany #2 | Bethany Village | [Outside Walgreens](https://www.google.com/maps/place/Walgreens/@45.555242,-122.836414,17.25z/data=!4m5!3m4!1s0x0:0x13e6b71d8ca8bcde!8m2!3d45.5551922!4d-122.8352382) |
+| Bridlemile | [Bridlemile Elementary School](https://www.google.com/maps/place/Bridlemile+Elementary+School/@45.4938972,-122.7394808,15z/data=!4m5!3m4!1s0x0:0x8fddf0e8820345a8!8m2!3d45.49172!4d-122.7242933) | Hamilton Park Playground |
+| Lake Oswego | Lake Oswego High School | [Westlake Park (next to play structure)](https://www.google.com/maps/place/Westlake+Park/@45.4240433,-122.738775,16z/data=!4m5!3m4!1s0x0:0xf92db3a1fa94a97e!8m2!3d45.4253979!4d-122.726774) |
+| NW Portland | [Forest Park Elementary School](https://www.google.com/maps/place/Forest+Park+Elementary School+School/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
 
-Winter Drive flyer ([front page](/assets/images/activities/2018_winter_drive_front.jpg), [back page](/assets/images/activities/2018_winter_drive_back.jpg)) designed by Jiahua Zhu
+Winter Drive flyer: [Bridlemile](/assets/images/activities/2019_flyer_bridlemile.jpg), [Forest Park](/assets/images/activities/2019_flyer_fpe.jpg), [Lake Oswego](/assets/images/activities/2019_flyer_lo.jpg), [Stoller](/assets/images/activities/2019_flyer_stoller.jpg), [Sunset](/assets/images/activities/2019_flyer_sunset.jpg)
 
-**Submit [your donation info](https://docs.google.com/forms/d/e/1FAIpQLSct78I3RXGklzBKVtcKeG8pKZFn7iVZHex3PP3HI6wuI1JdJg/viewform?vc=0&c=0&w=1) for receipt from Central City Concern by 11/25/2018**
+**[2019 OCC Donation Receipt](/assets/images/activities/occ_donation_receipt_2019.pdf)**
 
-Daphne Wu, 2018 Chinese Rose Princess, will proudly serve as Goodwill Ambassador.
+## Student Volunteers
 
-## Participating Students
+Entirely run by 35 students from 16 local schools student.
 
-Entirely run by 35+ students from 20+ local schools or student organizations.
-
-| Name | School/Organization |
-| Barrett Bai | Findley Elementary School |
-| Nancy Bai | Sunset High School |
-| Wendy Du | Beats of Bethany |
-| Kevin Du | Beats of Bethany |
-| Joe Gu | Stoller Middle School |
-| Jay Hempstead | Lake Oswego High School |
-| Audrey Hu | West Sylvan Middle School |
-| Kevin Lin | Stafford Elementary School |
-| Melinda Lin | Athey creek Middle School |
-| Leon Liu | International School of Beaverton |
-| Steven Niu | Catlin Gabel |
-| John Russak | Stoller Middle School |
-| Michael Russak | Sunset High School |
-| Freya Sticka | Rachelle Carson Middle School |
-| Derica Theobald | French American International School |
-| Jenell Theobald | Whitford Middle School |
-| Angela Wang| Lake Grove Elementary School |
-| Christine Wang | Lake Oswego High School |
-| Leonard Wang | Stoller Middle School |
-| Rachel Wang | Stoller Middle School |
-| Ziyue Wang | Forest Park Elementary School|
-| Yalena Guo-Wittenberg | Woodstock Elementary School |
-| Taverick Guo-Wittenberg | David Douglas High School |
-| Daphne Wu, Chinese Rose Princess | Sunset High School |
-| Sally Xiao | Wood Middle School |
-| Arnold Tianyi Yang | Stoller Middle School |
-| Arthur Tianqi Yang | Findley Elementary School |
-| Alicia Ye| Stoller Middle School |
-| Rentian Yu | Lake Oswego High School |
-| Nathan Ye| Jacob Elementary School |
-| Tony Zeng | Oak Greek Elementary School |
-| Cheery Zhang | Stoller Middle School |
-| Fiona Zhang | Bolton Elementary School |
-| Jiahua Zhu | Westview High School |
-| Fiona Zou | Beats of Bethany |
-| Jonathan Zou | Beats of Bethany |
+| Name | School/Organization | Drop Off Location |
+| --- | --- | --- |
+| Noah Von Dem Bruch | Oregon Episcopal School | Bridlemile |
+| Michelle Cheng | Forest Park Elementary School | NW Portland |
+| Anna Jiang | Stroller Middle School | Bethany #1 |
+| Adam Li | Stroller Middle School | Bethany #2 |
+| Andy Li | Sunset High School | Beaverton |
+| Matthew Li | International School of Beaverton | Beaverton |
+| Shengyao Liu | Lake Oswego High School | Lake Oswego |
+| Bruna Luo | Lake Oswego High School | Lake Oswego |
+| Steven Niu | Catlin Gabel School | Bethany #2 |
+| Daniel Qi | Lake Oswego High School | Lake Oswego |
+| Anthony Qin | Stoller Middle School | Bethany #1 |
+| Ethan Qin | Stoller Middle School | Bethany #1 |
+| Zhi Qu | Cedar Mill Elementary School | NW Portland |
+| Freya Sticka | Rachel Carson Middle School | Bethany #1 |
+| Jeff Sun | Lake Oswego High School | Lake Oswego |
+| Megan Tian | Lakeridge High School | Lake Oswego |
+| Jenell Theobald | Whitford Middle School | Bethany #1 |
+| Derica Theobald | French American International School | Bethany #1 |
+| Ethan Wang | Stoller Middle School | Bethany #2 |
+| Rachel Wang | Stoller Middle School | Bethany #1 |
+| Stella Wang | Stoller Middle School | Bethany #1 |
+| Alley Wu | Valley Catholic High School | Beaverton |
+| Cindy Wu | Forest Park Elementary School | NW Portland |
+| Daniel Xian | Stoller Middle School | Bethany #2 |
+| Oscar Xu | Bridlemile Elementary School | Bridlemile |
+| Jasper Xu | Bridlemile Elementary School | Bridlemile |
+| Leonard Yan | Stoller Middle School | Bethany #2 |
+| Kevin Yu | Stoller Middle School | Bethany #1 |
+| Tony Zeng | Oak Creek MS| Lake Oswego |
+| Claire Zhang | Meadow Park Middle School | Bethany #1 |
+| Evan Zhang | Meadow Park Middle School | Bethany #1 |
+| Jackie Zhang | Sunset High School | Beaverton |
+| Lucas Zhang | Forest Park Elementary School | NW Portland |
+| James Zou | Cedar Mill Elementary School | NW Portland |
+| Qianyi Zou | Lakeridge High School | Lake Oswego |
 
 ## Donation Items
 
@@ -97,3 +97,10 @@ CCC have partnered with Bikes for Humanity to create Chain Reaction Bike Co-op, 
 
 [Central City Concern](http://www.centralcityconcern.org/)  
 [Clay Street Table](http://claystreettable.org/)  
+
+## Archive
+
+2018 Community-Wide Winter Drive [Event](/assets/pdf/community-winter-drive-2018.pdf)  
+2018 Community-Wide Winter Drive [Highlight](http://pdxchinese.org/winter-drive-2018/)  
+2019 Community-Wide Winter Drive [Event](/assets/pdf/community-winter-drive-2019.pdf)  
+2019 Community-Wide Winter Drive [Highlight](http://pdxchinese.org/winter-drive-2019/)  
