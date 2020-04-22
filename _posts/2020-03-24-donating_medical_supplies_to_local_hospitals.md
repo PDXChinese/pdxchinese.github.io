@@ -5,6 +5,51 @@ excerpt: "很高兴看到社区个人和团体自发组织起来为本地医院�
 date: "2020-03-24"
 ---
 
+【社区捐赠医疗物资活动进展4/21】 无论过去一个月多么的难熬，今天是最开心的一天了，昨天收到用大家捐款购买来的N95口罩，不想耽搁一天，所以一大早便踏上了捐赠之路。 第一站是位于Sunnyside的Kaiser，我们放下了1,830个N95。接受捐赠部门的员工很会摆pose，拍出来了一幅画面非常棒的照片。紧接着驱车南下，在Salem Fire Station 6 与OCC理事，也是UO教授的老金碰面，在那里给消防队留下了700个一次性口罩和KN95。也是在那里，Salem当地报纸记者对我们做了现场采访。之后我们来到Salem Hospital，他们对之前大王群友捐赠仍然感激不尽，这次我们的到来更加强化了华人社区对当地医护人员支持的良好印象。在那里我们捐赠了2,310个N95和40个隔离面罩。
+
+下午来到波特兰城东边的Providence办公楼，他们把我们这次定位成为一个High Profile捐赠，所以，特意安排Chief Nursing Officer出面接待，并安排现场录像并接收采访。我们留给了他们5,040个N95，希望在那里工作的华人医生们能很快使用上这些口罩。
+
+此后的几天，金教授将继续沿着5号高速南下，把余下的N95捐赠给当地两家医院，同时会把手上一次性口罩捐赠给坚守岗位的市政职工们。
+
+![]({{ site.url }}/assets/images/d8148685a81de85c7b490042ceabed15.jpg)
+
+![]({{ site.url }}/assets/images/ae9d2a43c71583e7ba806e4ec77c4ce3.jpg)
+
+![]({{ site.url }}/assets/images/036610271adb98329537d55eb73ffb6c.jpg)
+
+![]({{ site.url }}/assets/images/3e7b8e5f7dacea0eb94d0f27ec4d089f.jpg)
+
+【社区捐赠医疗物资活动进展4/20】 抗疫征途上，never a dull moment！州长的stay at home行政令下，大家呆在家里就等于save lives。但是，那些不是很幸运的人们现在更需要别人的关照，有那么一些人，他们置自己的安危而不顾，比平时更加忙碌着。大家熟悉的Clay Street Table的Paul就是这样的人，他与HomePDX的Bruce和The Giving Tree的Gloria合作，为众多街友和低收入及老人公寓的住户提供份饭。当我联系到他们的时候，他们非常的兴奋，正打算为这个人群提供口罩，但是口罩自然是无从寻觅。
+
+我问他们需要多少的时候，他们很谦虚地说，有可能的话。。。当我说会在第二天（周日）送过来他们理想的数字的时候，他们的感激和惊喜隔着Email完全能体会得到。正好有一位“方大圣”群友刚送来1000个质量很好的口罩，我便“慷慨”地把其中的800送给了他们。
+
+前一天晚上，突发奇想，想做一个什么东西，可以让人们能再握起手来，这就成了照片里的样子。两个袖子是West Coast Handmade Alliance技术骨干桂香连夜缝制出来的。
+
+![]({{ site.url }}/assets/images/8f9cd2676c055e883b42acad30144c04.jpg)
+
+![]({{ site.url }}/assets/images/80f4dee414da350034be9d683a5e3b63.jpg)
+
+![]({{ site.url }}/assets/images/ec31a5263208323e3388522b0fe91949.jpg)
+
+![]({{ site.url }}/assets/images/8ddad7917101dd48cd356c9323ae1d7d.jpg)
+
+![]({{ site.url }}/assets/images/7bdd28244e97a2d48201f4b3f5dc09c9.jpg)
+
+![]({{ site.url }}/assets/images/a4c6a59b14e0785583ee1e524adc3c60.jpg)
+
+今天早上如期收到了FedEx送过来的N95口罩。白天剩下的时间就忙活落实捐赠医院，明天一天就会载着我们全社区的爱心在捐赠路上。。。
+
+![]({{ site.url }}/assets/images/78b4dfb5ecdf85da27b5d339ecf75742.jpg)
+
+![]({{ site.url }}/assets/images/04c1524242926cfb9e5f9ef7cb147961.jpg)
+
+![]({{ site.url }}/assets/images/6c5a77929b8911ab5796213cdbae5728.jpg)
+
+
+【社区捐赠医疗物资活动进展4/17】 几天没上来，因为的确是分秒必争。首先要和大家说的是我们社区的口罩捐赠活动即将告一段落，向社区家庭征集的口罩已经超过了一万！除了已经介绍过的捐赠活动之外，上个周二驱车到Hillsboro两家WinCo店(SW Oak St and NE Butler St)，向他们各赠送了350只口罩。这个周末会赠送800只口罩给Clay Street Table，他们和HomePdx，The Giving Tree一起会为住在低收入公寓家庭送食品袋中各装入一只口罩。
+
+最令人兴奋的是我们一直在运作的12,390只N95口罩即将在周一抵达波特兰，说经历了无数的“艰难险阻”不为过，好在这种疫情百年不遇，这辈子希望就这一次了。但是，我要说的是，这件事最终能做成，第一有大家无条件的支持，无数群友甘愿做无名英雄，为的是华人社区和群体的名誉；第二来自国内很多普通人的理解和支持，使得我们能享受到非常合理价格并能够顺利清关；第三是联邦众议员Bonamici办公室每天的沟通和提供有力的支持；第四是美国海关边境保护局（CBP）的直接参与协调，第五是FedEx的全方位配合，不仅破了报关速度，最后在回复的Email中还写道，“Thank you for your acts of kindness in these troubling times!  Stay safe!” 看到这句话，再回想整个经历，非常的感慨，能为战胜疫情，每一个人都尽了力，我们为所做的一切应该感到骄傲。
+
 【社区捐赠医疗物资活动进展4/13】 一天仍然离不开口罩，上午继续跟踪那些N95，下午首先从Julie家取到了印有龙的图案的handmade口罩，然后便直接前往Clackamas County Health Center参加今天的捐赠活动。感谢Aicon Biotech Inc. 再次慷慨解囊，提供了500个KN95口罩。Chenglan Huang夫妇也捐出了12件防护服。杨欣乐夫妇指导的FLL队则用3D打印机打出了50个隔离面罩，为那里的牙医解决了燃眉之急。
 
 回来的路上，先后在Tigard和Beaverton两家WinCo店停留，给那里的员工留下了一共700只口罩。明天还会去Hillsboro的两家店。在此之前，乘shopping的机会和店员聊天，在店里不提供口罩的情况下，他们只能四处寻找，幸运得到的并不多，即便如此，应该也是重复使用。希望我们的捐赠能为员工们多少解除一些后顾之忧。
