@@ -10,7 +10,7 @@ date: "2020-04-22"
 
 ![]({{ site.url }}/assets/images/activities/statesman_article.png)
 
-在KOIN 6 TV播出我们的捐赠活动后，很快就收到一封来信。实际上我们也是再看到这封来信的时候才知道我们的捐赠活动上了电视新闻。
+在KOIN 6 TV播出我们的捐赠活动后，很快就收到一封来信。实际上我们也是再看到这封来信的时候才知道捐赠活动上了电视新闻。
 
 Dear Oregon Chinese Coalition,
 
