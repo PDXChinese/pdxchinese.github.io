@@ -5,6 +5,23 @@ excerpt: "很高兴看到社区个人和团体自发组织起来为本地医院�
 date: "2020-03-24"
 ---
 
+【社区捐赠医疗物资活动进展4/24】 承载着大家的期望，我们把口罩捐赠活动扩展到了大波特兰地区之外的医院和公共部门。在Salem Hospital和消防队的捐赠活动之后的第二天，当地报纸statesman journal便发表了详尽的报道。
+
+[COVID-19 in Oregon: Chinese nonprofit donates 3,000 N95 masks to Salem Health](https://www.statesmanjournal.com/story/news/2020/04/22/oregon-coronavirus-donation-chinese-nonprofit-n-95-masks-salem-health/5169051002/?fbclid=IwAR06vNm9nnZdPbLIXIRd5BwSHw6uiuO6jgUDz9tV2aD4r5VVbrrfpCSi-ek)
+
+沿着I-5高速继续南下，周四金教授专程赶到PeaceHealth Sacred Heart Medical Center at Riverbend，得到了院方的热情接待。金教授回来后介绍说，离开了大都市，医院很难会在spotlight之下，尽管我们只留下了1,890个N95口罩，但当地人的盛情实在是令人难却。今天一大早就看到了地方报纸的报道，读完之后，觉得记者在写这篇报道的时候十分的用心，对于我们捐赠活动的理解也非常的到位。
+
+[Everybody’s fight: How Oregon’s Chinese community rallied to donate more than 22,000 respirator masks](https://www.registerguard.com/news/20200424/everybodys-fight-how-oregons-chinese-community-rallied-to-donate-more-than-22000-respirator-masks?fbclid=IwAR1JS2RdMD4Q7CI8sYDZBo5U9wWwLy-pM0qpYEC1el5RpzwWpkk-nVh-SBo)
+
+今天，金教授不辞辛苦，驱车3个多小时来到Medford，拜访了Asante Foundation。那里的PPE供应问题更加的严重，她们动员本地900个家庭缝制口罩。金教授深受感动，给她们留下了1,260个N95和500多个一次性口罩。
+
+![]({{ site.url }}/assets/images/15fa8b4971e363e7d988533a6855078d.jpg)
+
+![]({{ site.url }}/assets/images/a5924f41a480796d02669437e0d91b56.jpg)
+
+这次整个南下捐赠活动一共分发出去5,460个N95口罩和1,900多个各式医用口罩。
+
+
 【社区捐赠医疗物资活动进展4/21】 无论过去一个月多么的难熬，今天是最开心的一天了，昨天收到用大家捐款购买来的N95口罩，不想耽搁一天，所以一大早便踏上了捐赠之路。 第一站是位于Sunnyside的Kaiser，我们放下了1,830个N95。接受捐赠部门的员工很会摆pose，拍出来了一幅画面非常棒的照片。紧接着驱车南下，在Salem Fire Station 6 与OCC理事，也是UO教授的老金碰面，在那里给消防队留下了700个一次性口罩和KN95。也是在那里，Salem当地报纸记者对我们做了现场采访。之后我们来到Salem Hospital，他们对之前大王群友捐赠仍然感激不尽，这次我们的到来更加强化了华人社区对当地医护人员支持的良好印象。在那里我们捐赠了2,310个N95和40个隔离面罩。
 
 下午来到波特兰城东边的Providence办公楼，他们把我们这次定位成为一个High Profile捐赠，所以，特意安排Chief Nursing Officer出面接待，并安排现场录像并接收采访。我们留给了他们5,040个N95，希望在那里工作的华人医生们能很快使用上这些口罩。
