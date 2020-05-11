@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andrew Zhao"
-  avatar           : /assets/images/authors/Zhao-Andrew.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a full-stack software engineer."
-  location         : "Irvine, CA"
-  email            : "andrewz@berkeley.edu"
+  name             : 
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : 
+  location         : 
+  email            :
   uri              :
   bitbucket        :
   codepen          :
@@ -94,7 +94,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zhaoandrew"
+  linkedin         : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
