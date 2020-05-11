@@ -50,6 +50,8 @@ extra:
         url: /fair/
       - title: "Entrepreneurs Forum"
         url: /startup/
+      - title: "Weekly Talk"
+        url: /weeklytalk/
       - title: "---"
         url:
       - title: "Chinatown"
