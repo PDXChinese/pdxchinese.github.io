@@ -18,7 +18,7 @@ For mobile users, to find your local number: [https://us02web.zoom.us/u/kdZLsZ3L
 
 ### Weekly Talk May 6, 2020 3pm
 
-Reflection of My Life under Spotlight 
+Reflection of My Life under Spotlight
 
 **[Vincent Zhou](https://en.wikipedia.org/wiki/Vincent_Zhou)** is an American figure skater. He is the 2019 World bronze medalist, the 2019 Four Continents bronze medalist, the 2018 CS Tallinn Trophy silver medalist, the 2017 CS Finlandia Trophy silver medalist, and a two-time U.S. national silver medalist.
 
@@ -41,4 +41,4 @@ TBD
 How to Successfully Run Students-Led NPO
 
 Kyler Wang from [Spark Teen](https://sparkteen.org/)  
-Jenell Theobald from Let Peer Up(https://www.letspeerup.org/)  
+Jenell Theobald from [Let's Peer Up](https://www.letspeerup.org/)  
