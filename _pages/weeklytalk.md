@@ -22,7 +22,7 @@ For mobile users, to find your local number: [https://us02web.zoom.us/u/kdZLsZ3L
 
 ### Weekly Talk May 23, 2020 3pm
 
-[Spark Technology Education](http://www.sparkteched.org/)
+TBD 
 
 ### Weekly Talk May 30, 2020 3pm
 
