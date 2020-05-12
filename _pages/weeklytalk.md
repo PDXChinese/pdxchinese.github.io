@@ -3,11 +3,11 @@ title: "Stay Connected: Weekly Talk"
 permalink: /weeklytalk/
 ---
 
-在疫情严重限制了人们生活的情况下，如何让我们大家能够Stay Connected，既可以利用好大把的时间，又能充分利用网络资源，做一些平时难以做到的事情。我们给出的答案是在Zoom平台上举办Weekly Talk，主讲人不限社区内外，主题也不设限，听众可以是青少年，也可以是大人。
+Under the circumstances that the epidemic severely limits people's lives, how can we all be able to stay connected, not only can make use of ample time, but also take advantage of virtual resources to do some things that are usually difficult to do. The answer we give is to organize Weekly Talk on the Zoom platform. The presenter can be from inside or outside of the community, and the topic is not limited. The audience can be young people or adults.
 
-为了能让如此难得的交流更加的有效率，欢迎大家提前[提交自己感兴趣的问题](https://docs.google.com/forms/d/e/1FAIpQLSfPfuYiRfTxqsVoEgDNwbDOHnLIXmmv6z4EgSsUWgFwjT7QkA/viewform?usp=sf_link).
+In order to make the communication more efficient, you are welcome to [submit your questions in advance](https://docs.google.com/forms/d/e/1FAIpQLSfPfuYiRfTxqsVoEgDNwbDOHnLIXmmv6z4EgSsUWgFwjT7QkA/viewform?usp=sf_link).
 
-除非特别安排，所有的Talk都会安排在周六下午三点，时间一般会控制在一个小时。下面是Zoom Meeting的登陆信息：
+Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and the time will generally be controlled at one hour. The following is the login information of Zoom Meeting:
 
 [https://us02web.zoom.us/j/85402361404?pwd=N00wbWcxSGxDWkdPc0J0WkY4TUNOUT09](https://us02web.zoom.us/j/85402361404?pwd=N00wbWcxSGxDWkdPc0J0WkY4TUNOUT09)
 
