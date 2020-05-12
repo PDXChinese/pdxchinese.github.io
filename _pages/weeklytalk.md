@@ -36,7 +36,7 @@ TBD
 
 ### June 13, 2020 3pm
 
-How to Successfully Run Students-Led NPO
+How to Successfully Run a Student-Led NPO
 
-Kyler Wang from [Spark Teen](https://sparkteen.org/)  
-Jenell Theobald from [Let's Peer Up](https://www.letspeerup.org/)  
+Kyler Wang, Lincoln High School, Co-Founder of [Spark Teen](https://sparkteen.org/)  
+Jenell Theobald, Whitford Middle School, Co-Founder of [Let's Peer Up](https://www.letspeerup.org/)  
