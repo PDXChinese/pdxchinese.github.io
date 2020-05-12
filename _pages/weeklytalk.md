@@ -13,7 +13,7 @@ permalink: /weeklytalk/
 
 [https://us02web.zoom.us/j/85402361404?pwd=N00wbWcxSGxDWkdPc0J0WkY4TUNOUT09](https://us02web.zoom.us/j/85402361404?pwd=N00wbWcxSGxDWkdPc0J0WkY4TUNOUT09)
 
-Meeting ID: 854 0236 1404
-Password: 791641
+Meeting ID: 854 0236 1404  
+Password: 791641  
 
-我们的Talk不会限制subject，听众也不只是青少年。希望大家利用自己的资源为我们介绍主讲人，利用Zoom这个平台最大的好处就是主讲人可以来自各地，这是我们平时完全做不到的。
+除非特别安排，所有的Talk都会安排在周六下午三点，时间一般会控制在一个小时。我们的Talk不会限制subject，听众也不是只是青少年。希望大家利用自己的资源为我们介绍主讲人，利用Zoom这个平台最大的好处就是主讲人可以来自各地，这是我们平时完全做不到的。
