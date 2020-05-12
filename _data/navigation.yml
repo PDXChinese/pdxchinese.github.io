@@ -32,7 +32,7 @@ extra:
         url:
       - title: "Youth Camps"
         url: /camps/
-      - title: "<b>Youth Conference</b>"
+      - title: "Youth Conference"
         url: /youthconference/
       - title: "Youth Drum Team"
         url: /drumteam/
@@ -50,7 +50,7 @@ extra:
         url: /fair/
       - title: "Entrepreneurs Forum"
         url: /startup/
-      - title: "Weekly Talk"
+      - title: ""<b>Weekly Talk</b>"
         url: /weeklytalk/
       - title: "---"
         url:
