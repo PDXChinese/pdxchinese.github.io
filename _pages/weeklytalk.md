@@ -16,7 +16,7 @@ For mobile users, find your local number [here](https://us02web.zoom.us/u/kdZLsZ
 
 ### May 6, 2020 3pm
 
-Pursuing Perfection: Cost and Reward
+On the Road to Pursue Perfection
 
 **[Vincent Zhou](https://en.wikipedia.org/wiki/Vincent_Zhou)** is an American figure skater. He is the 2019 World bronze medalist, the 2019 Four Continents bronze medalist, the 2018 CS Tallinn Trophy silver medalist, the 2017 CS Finlandia Trophy silver medalist, and a two-time U.S. national silver medalist.
 
