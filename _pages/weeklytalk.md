@@ -16,19 +16,21 @@ For mobile users, find your local number [here](https://us02web.zoom.us/u/kdZLsZ
 
 ### May 6, 2020 3pm
 
-On the Road to Pursue Perfection
+Sweats, Sacrifice and Tough Choices behind the Glory On the Ice
 
 **[Vincent Zhou](https://en.wikipedia.org/wiki/Vincent_Zhou)** is an American figure skater. He is the 2019 World bronze medalist, the 2019 Four Continents bronze medalist, the 2018 CS Tallinn Trophy silver medalist, the 2017 CS Finlandia Trophy silver medalist, and a two-time U.S. national silver medalist.
 
 ### May 23, 2020 3pm
 
-TBD
+What is First Tech Challenge (FTC) and Why It is not Just about STEM
+
+[Spark Technology Education](http://www.sparkteched.org/), World's champion team from Bethanhy, Oregon.
 
 ### May 30, 2020 3pm
 
 How can She Pursue her Writing Passion while Majoring in Math at MIT
 
-**[Rona Wang](https://www.linkedin.com/in/rona-wang-a06694147)** is a sophomore at the Massachusetts Institute of Technology. For her writing, she has been named a HerCampus 22 Under 22 and nominated for the Best of the Net Anthology. She is originally from Portland, Oregon.
+**[Rona Wang](https://www.linkedin.com/in/rona-wang-a06694147)** is a junior at the Massachusetts Institute of Technology. For her writing, she has been named a HerCampus 22 Under 22 and nominated for the Best of the Net Anthology. She is originally from Portland, Oregon.
 
 ### June 6, 2020 3pm
 
