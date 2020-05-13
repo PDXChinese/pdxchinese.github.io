@@ -8,18 +8,17 @@ Under the circumstances that the epidemic severely limits people's lives, how ca
 
 In order to make the communication more efficient, you are welcome to [submit your questions in advance](https://docs.google.com/forms/d/e/1FAIpQLSfPfuYiRfTxqsVoEgDNwbDOHnLIXmmv6z4EgSsUWgFwjT7QkA/viewform?usp=sf_link).
 
-Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and the time will generally be controlled at one hour. The following is the [login information of Zoom Meeting](https://us02web.zoom.us/j/85402361404?pwd=N00wbWcxSGxDWkdPc0J0WkY4TUNOUT09).
-
-Meeting ID: 854 0236 1404  
-Password: 791641  
-
-For mobile users, find your local number [here](https://us02web.zoom.us/u/kdZLsZ3L34).
+Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and the time will generally be controlled at one hour. The registration is required for each event.
 
 ### 05.16.2020, 2020 3pm
 
-Sweats, Sacrifice and Tough Choices behind the Glory On the Ice
+Sweats, Sacrifice and Tough Choices behind the Glory on the Ice
 
 **[Vincent Zhou](https://en.wikipedia.org/wiki/Vincent_Zhou)** is an American figure skater. He is the 2019 World bronze medalist, the 2019 Four Continents bronze medalist, the 2018 CS Tallinn Trophy silver medalist, the 2017 CS Finlandia Trophy silver medalist, and a two-time U.S. national silver medalist.
+
+[Click here to register](https://us02web.zoom.us/meeting/register/tZEpd-urqDouGtBClQZ4l8UVplpG3M8yBtgP)
+
+After registering, you will receive a confirmation email containing information about joining the meeting.
 
 ### 05.23.2020 3pm
 
