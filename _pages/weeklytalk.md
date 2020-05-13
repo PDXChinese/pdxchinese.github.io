@@ -1,7 +1,8 @@
 ---
-title: "Stay Connected: Weekly Talk"
+title: ""
 permalink: /weeklytalk/
 ---
+<p><img src="/assets/images/activities/weeklytalk.jpg"></p>  
 
 Under the circumstances that the epidemic severely limits people's lives, how can we all be able to stay connected, not only can make use of ample time, but also take advantage of virtual resources to do some things that are usually difficult to do. The answer we give is to organize Weekly Talk on the Zoom platform. The presenter can be from inside or outside of the community, and the topic is not limited. The audience can be young people or adults.
 
@@ -14,29 +15,29 @@ Password: 791641
 
 For mobile users, find your local number [here](https://us02web.zoom.us/u/kdZLsZ3L34).
 
-### May 6, 2020 3pm
+### 05.16.2020, 2020 3pm
 
 Sweats, Sacrifice and Tough Choices behind the Glory On the Ice
 
 **[Vincent Zhou](https://en.wikipedia.org/wiki/Vincent_Zhou)** is an American figure skater. He is the 2019 World bronze medalist, the 2019 Four Continents bronze medalist, the 2018 CS Tallinn Trophy silver medalist, the 2017 CS Finlandia Trophy silver medalist, and a two-time U.S. national silver medalist.
 
-### May 23, 2020 3pm
+### 05.23.2020 3pm
 
 What is First Tech Challenge (FTC) and Why It is not Just about STEM
 
 [Spark Technology Education](http://www.sparkteched.org/), World's champion team from Bethanhy, Oregon.
 
-### May 30, 2020 3pm
+### 05.30.2020 3pm
 
 How can She Pursue her Writing Passion while Majoring in Math at MIT
 
 **[Rona Wang](https://www.linkedin.com/in/rona-wang-a06694147)** is a junior at the Massachusetts Institute of Technology. For her writing, she has been named a HerCampus 22 Under 22 and nominated for the Best of the Net Anthology. She is originally from Portland, Oregon.
 
-### June 6, 2020 3pm
+### 06.06.2020 3pm
 
 TBD
 
-### June 13, 2020 3pm
+### 06.13.2020 3pm
 
 How to Successfully Run a Student-Led NPO
 
