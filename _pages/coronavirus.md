@@ -3,33 +3,30 @@ title: "抗击冠状病毒信息汇总"
 permalink: /coronavirus/
 ---
 
-## CDC即时更新
+## Initiative from Local Chinese American Community
 
-**冠状病毒疾病专题页面：** [English, ](https://www.cdc.gov/coronavirus/2019-ncov/index.html) [中文](https://www.cdc.gov/coronavirus/2019-ncov/index-Chinese.html)
+**Disclaimer** This is a collection of public data for the benefit of getting the words out. There is no implication of OCC affiliation for the listed organzations on this page.
 
-预防冠状病毒疾病2019(COVID-19)在家庭和住宅社区中传播的暂行指南: [English, ](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html)[中文](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread-chinese.html)
+### [Locals for Locals](https://www.locals-for-locals.com/)
 
-[境外旅行警告](https://wwwnc.cdc.gov/travel/notices)
+'My name is Philippe and I'm currently a junior at Oregon Episcopal School. I've started Locals for Locals, a nonprofit organization, in hopes of helping local businesses during the Coronavirus outbreak, while also helping the local community heal and grow.'
 
-[对来自中国旅客入境限制的行政令](https://www.whitehouse.gov/presidential-actions/proclamation-suspension-entry-immigrants-nonimmigrants-persons-pose-risk-transmitting-2019-novel-coronavirus/)
+'We're are currently donating all proceeds to Clay Street Table, a wonderful place that I have been volunteering.'
 
-## 一亩三分地: 新型冠状病毒肺炎疫情实时动态
+### [Letter For Gratitude](https://www.lettersforgratitude.org/)
 
-[北美疫情更新](https://coronavirus.1point3acres.com/)
+'Letters for Gratitude started out of a desire to help those in need during a time of global lockdown and self-isolation. Our mission is to thank those on the front lines fighting the COVID-19 pandemic who have been providing services and medical help for those affected by COVID-19. While we are unable to thank workers in person, Letters for Gratitude is dedicated to helping our community show appreciation for those that risk their lives every day through hand-written cards.'
 
-## 俄勒冈州疫情即时更新
+### [Students For Students (SFS)](https://docs.google.com/document/d/1FnNTd8uwLypFoekChfXVAoxT28Gc9ate-FXUZzC6DaU/edit?ts=5e810876)
 
-俄勒冈州冠状肺炎个案[即时更新，](https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx)[加入Email/Text通知名单](https://public.govdelivery.com/accounts/ORDHS/subscriber/new?topic_id=ORDHS_816)
+'What We Do: Our organization offers private tutoring in multiple subjects of various levels for free. We can teach students ranging from kindergarten all the way up to 9th grade. The teachers are all student volunteers who have first hand experience and expertise in the subjects they teach. Lessons are 30 - 60 minutes long (depends on subject and difficulty). Lessons will be taught using the Zoom app. We are a non-profit free of charge organization. Our program depends on student and teacher cooperation.'
 
-For general information on novel coronavirus, call 211.
 
-If you are having a medical emergency, call 911.
+## Latest Updates on Cases
 
-## 网课资源
-
-[Zoom Video](https://zoom.us/pricing/?zcid=1173&creative=372727188207&keyword=zoom%20conferencing&matchtype=e&network=g&device=c&gclid=Cj0KCQiAtOjyBRC0ARIsAIpJyGM2mCb13c8btM37KoSr1del8LUuJvqEBKmMekuMNdOGAhUyU0RIohQaAieFEALw_wcB)
-
-[Google Hangouts](https://gsuite.google.com/products/meet/?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-e-dr-1008072&utm_content=text-ad-none-any-DEV_c-CRE_421690103164-ADGP_Hybrid%20%7C%20AW%20SEM%20%7C%20BKWS%20~%20EXA%20%2F%2F%20Hangouts%20%5B1:1%5D%20Google%20Hangouts-KWID_43700015211414153-kwd-362516399437&utm_term=KW_google%20hangouts-ST_google%20hangouts&gclid=Cj0KCQiAtOjyBRC0ARIsAIpJyGPZgVkdW7AdV5MSedOd13YmMF7kOl2xjqkNf0JBRU-OJstajgyZ7_IaAtJ8EALw_wcB&gclsrc=aw.ds)
+[State of Oregon](https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx)  
+[US and Rest of World](https://coronavirus.1point3acres.com/)  
+[CDC Update on Coronavirus](https://www.cdc.gov/coronavirus/2019-ncov/index.html)  
 
 ## 网购信息
 
@@ -45,9 +42,3 @@ Please check the availability in your area before ordering.
 [QFC Home Delivery](https://www.qfc.com/i/ways-to-shop/delivery)  
 [Safeway](https://www.safeway.com/?cmpid=ps_swy_spi_ecom_goo&s_kwcid=AL!10316!3!343532355727!e!!g!!safeway%20grocery%20delivery&ds_rl=1274059&gclid=Cj0KCQiAtOjyBRC0ARIsAIpJyGNZNXjtJGitSvPYhRnVRX1mG1qOzPLNOYHYzh3HB379ALiUYpdctRUaAj8gEALw_wcB&gclsrc=aw.ds)  
 [99 Ranch Market](https://www.99ranch.com/same-day-delivery)  
-
-## 社区抗击疫情互助小组
-
-PDX Westside: @凡草 @Julia J @Maggie @杜晖 @Nancy @刘鸽 @西北兆
-
-<iframe width="555" height="312" src="https://www.youtube.com/embed/r5r4g7KWuts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
