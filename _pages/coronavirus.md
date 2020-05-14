@@ -1,11 +1,19 @@
 ---
-title: "抗击冠状病毒信息汇总"
+title: "We're All In This Together"
 permalink: /coronavirus/
 ---
 
 ## Initiative from Local Chinese American Community
 
 **Disclaimer** This is a collection of public data for the benefit of helping getting the words out. There is no implication of OCC affiliation for the listed organzations on this page.
+
+### [Stay Connected -- Weekly talk](http://pdxchinese.org/weeklytalk/)
+
+'Under the circumstances that the epidemic severely limits people’s lives, how can we all be able to stay connected, not only can make use of ample time, but also take advantage of virtual resources to do some things that are usually difficult to do. The answer we give is to organize Weekly Talk on the Zoom platform.'
+
+###() [Talent Show: Stay at Home, Save Lives](http://pdxchinese.org/stay_at_home_save_lives/)
+
+'In order to better fight the epidemic, our responsibility is to stay at home. To make life as colorful as the color of spring in the outdoor, why don't we engage in a Cloud Talent Show, whether it is an adult or a child, you can come up with what you are good at. It can be singing, dancing, opera, musical instruments, cooking, crafts, gardens, and even poetry and wine tasting. While entertaining yourself, spread the full of positive energy ...'
 
 ### [Locals for Locals](https://www.locals-for-locals.com/)
 
@@ -21,14 +29,13 @@ permalink: /coronavirus/
 
 'What We Do: Our organization offers private tutoring in multiple subjects of various levels for free. We can teach students ranging from kindergarten all the way up to 9th grade. The teachers are all student volunteers who have first hand experience and expertise in the subjects they teach. Lessons are 30 - 60 minutes long (depends on subject and difficulty). Lessons will be taught using the Zoom app. We are a non-profit free of charge organization. Our program depends on student and teacher cooperation.'
 
-
 ## Latest Updates on Cases
 
 [State of Oregon](https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx)  
 [US and Rest of World](https://coronavirus.1point3acres.com/)  
 [CDC Update on Coronavirus](https://www.cdc.gov/coronavirus/2019-ncov/index.html)  
 
-## 网购信息
+## Online Grocery Shopping
 
 Please check the availability in your area before ordering.
 
