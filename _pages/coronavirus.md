@@ -11,7 +11,7 @@ permalink: /coronavirus/
 
 'Under the circumstances that the epidemic severely limits people’s lives, how can we all be able to stay connected, not only can make use of ample time, but also take advantage of virtual resources to do some things that are usually difficult to do. The answer we give is to organize Weekly Talk on the Zoom platform.'
 
-###() [Talent Show: Stay at Home, Save Lives](http://pdxchinese.org/stay_at_home_save_lives/)
+### [Talent Show: Stay at Home, Save Lives](http://pdxchinese.org/stay_at_home_save_lives/)
 
 'In order to better fight the epidemic, our responsibility is to stay at home. To make life as colorful as the color of spring in the outdoor, why don't we engage in a Cloud Talent Show, whether it is an adult or a child, you can come up with what you are good at. It can be singing, dancing, opera, musical instruments, cooking, crafts, gardens, and even poetry and wine tasting. While entertaining yourself, spread the full of positive energy ...'
 
