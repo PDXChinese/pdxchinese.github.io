@@ -4,9 +4,9 @@ permalink: /weeklytalk/
 ---
 <p><img src="/assets/images/activities/weeklytalk.jpg"></p>  
 
-Under the circumstances that the epidemic severely limits people's lives, how can we all be able to stay connected, not only can make use of ample time, but also take advantage of virtual resources to do some things that are usually difficult to do. The answer we give is to organize Weekly Talk on the Zoom platform. The presenter can be from inside or outside of the community, and the topic is not limited. The audience can be young people or adults.
+Under the circumstances that the epidemic severely limits people's lives, how can we all be able to stay connected, not only can make use of ample time, but also take advantage of virtual resources to do some things that are usually difficult to do. The answer we give is to organize Weekly Talk on the Zoom platform. The presenter can be from inside or outside of the community, and the topic is not limited. The audience can be all ages.
 
-In order to make the communication more efficient, you are welcome to [submit your questions in advance](https://docs.google.com/forms/d/e/1FAIpQLSfPfuYiRfTxqsVoEgDNwbDOHnLIXmmv6z4EgSsUWgFwjT7QkA/viewform?usp=sf_link).
+In order to make the interaction more efficient, you are welcome to [submit your questions in advance](https://docs.google.com/forms/d/e/1FAIpQLSfPfuYiRfTxqsVoEgDNwbDOHnLIXmmv6z4EgSsUWgFwjT7QkA/viewform?usp=sf_link).
 
 Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and the time will generally be controlled at one hour. The registration is required for each event.
 
