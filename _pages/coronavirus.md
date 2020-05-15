@@ -3,7 +3,7 @@ title: "We're All In This Together"
 permalink: /coronavirus/
 ---
 
-## Initiative from Local Chinese American Community
+## Initiatives from Local Chinese American Community
 
 **Disclaimer** This is a collection of public data for the benefit of helping getting the words out. There is no implication of OCC affiliation for the listed organzations on this page.
 
