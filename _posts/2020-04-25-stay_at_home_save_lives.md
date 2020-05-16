@@ -6,6 +6,9 @@ date: "2020-04-25"
 ---
 录像版权属于原作者 (Copyrights belongs to the original author of the video)
 
+<iframe width="1189" height="684" src="https://www.youtube.com/embed/IFMUZU76U5Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+酷爱武术的希望中文学校的学生们在Rogers教练的指导下继续在家中联系武术基本动作，他们这种勤学苦练也正是武术之道。
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_diSiw1VaZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 在小温哥华的evergreen 学区，有一群热爱中国文化和中国语言的家长和孩子，今天在陈松老师的带领下，他们也制作了一个小视频献给大家，为支持抗疫居家令作出贡献。 4/25/2020
 
