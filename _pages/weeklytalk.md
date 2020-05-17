@@ -22,9 +22,11 @@ After registering, you will receive a confirmation email containing information 
 
 ### 05.23.2020 3pm
 
-What is First Tech Challenge (FTC) and Why It is not Just about STEM
+Life with FTC Robotics -- Stay Connected Series
 
 [Spark Technology Education](http://www.sparkteched.org/), World's champion team from Bethanhy, Oregon.
+
+[Click here to register](https://us02web.zoom.us/meeting/register/tZAvcemrqTojG9AyK5mPbrgxuv5gLXfJzU1g)
 
 ### 05.30.2020 3pm
 
