@@ -12,7 +12,7 @@ feature_row4:
   - image_path: /assets/images/activities/talk_liaobing.jpg
 feature_row5:
     - image_path: /assets/images/activities/talk_kyler.jpg
-    - image_path: /assets/images/activities/talk_lpu.jpg
+    - image_path: /assets/images/pvsa/2019_jenell.jpg
 ---
 <p><img src="/assets/images/activities/weeklytalk.jpg"></p>  
 
@@ -54,7 +54,7 @@ How can She Pursue her Writing Passion while Majoring in Math at MIT
 
 How to Cope With the Stress with Kids under Lockdown?
 
-**[Bonnie Liao](https://www.linkedin.com/in/bonnieliao)** is a well-known educator in Chinese American community for her EQ Parenting lectures. She is working on her graduate studies, aiming to become a LCSW. 
+**[Bonnie Liao](https://www.linkedin.com/in/bonnieliao)** is a well-known educator in Chinese American community for her EQ Parenting lectures. She is working on her graduate studies, aiming to become a LCSW.
 
 {% include feature_row id="feature_row5"%}
 ### 06.13.2020 3pm
