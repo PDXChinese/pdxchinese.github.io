@@ -1,6 +1,18 @@
 ---
 title: ""
 permalink: /weeklytalk/
+feature_row1:
+  - image_path: /assets/images/activities/talk_vincent.jpg
+feature_row2:
+  - image_path: /assets/images/activities/talk_ftc1.jpg
+  - image_path: /assets/images/activities/talk_ftc2.jpg
+feature_row3:
+  - image_path: /assets/images/activities/talk_rona.jpg
+feature_row4:
+  - image_path: /assets/images/activities/talk_liaobing.jpg
+feature_row5:
+    - image_path: /assets/images/activities/talk_kyler.jpg
+    - image_path: /assets/images/activities/talk_lpu.jpg
 ---
 <p><img src="/assets/images/activities/weeklytalk.jpg"></p>  
 
@@ -10,6 +22,7 @@ In order to make the interaction more efficient, you are welcome to [submit your
 
 Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and the time will generally be controlled at one hour. The registration is required for each event.
 
+{% include feature_row id="feature_row1"%}
 ### 05.16.2020, 2020 3pm
 
 Sweats, Sacrifice and Tough Choices behind the Glory on the Ice
@@ -20,6 +33,7 @@ Sweats, Sacrifice and Tough Choices behind the Glory on the Ice
 
 After registering, you will receive a confirmation email containing information about joining the meeting.
 
+{% include feature_row id="feature_row2"%}
 ### 05.23.2020 3pm
 
 Life with FTC Robotics -- Stay Connected Series
@@ -28,16 +42,21 @@ Life with FTC Robotics -- Stay Connected Series
 
 [Click here to register](https://us02web.zoom.us/meeting/register/tZAvcemrqTojG9AyK5mPbrgxuv5gLXfJzU1g)
 
+{% include feature_row id="feature_row3"%}
 ### 05.30.2020 3pm
 
 How can She Pursue her Writing Passion while Majoring in Math at MIT
 
 **[Rona Wang](https://www.linkedin.com/in/rona-wang-a06694147)** is a junior at the Massachusetts Institute of Technology. For her writing, she has been named a HerCampus 22 Under 22 and nominated for the Best of the Net Anthology. She is originally from Portland, Oregon.
 
+{% include feature_row id="feature_row4"%}
 ### 06.06.2020 3pm
 
-TBD
+How to Cope With the Stress with Kids under Lockdown?
 
+**[Bonnie Liao](https://www.linkedin.com/in/bonnieliao)** is a well-known educator in Chinese American community for her EQ Parenting lectures. She is working on her graduate studies, aiming to become a LCSW. 
+
+{% include feature_row id="feature_row5"%}
 ### 06.13.2020 3pm
 
 How to Successfully Run a Student-Led NPO
