@@ -2,16 +2,15 @@
 title: ""
 permalink: /weeklytalk/
 feature_row1:
-  - image_path: /assets/images/activities/talk_vincent.jpg
+  - image_path: /assets/images/activities/talk_vincent2.jpg
 feature_row2:
-  - image_path: /assets/images/activities/talk_ftc1.jpg
   - image_path: /assets/images/activities/talk_ftc2.jpg
 feature_row3:
   - image_path: /assets/images/activities/talk_rona.jpg
 feature_row4:
   - image_path: /assets/images/activities/talk_liaobing.jpg
 feature_row5:
-    - image_path: /assets/images/activities/talk_kyler.jpg
+    - image_path: /assets/images/activities/talk_kyler2.jpg
     - image_path: /assets/images/activities/talk_jenell.jpg
 ---
 <p><img src="/assets/images/activities/weeklytalk.jpg"></p>  
