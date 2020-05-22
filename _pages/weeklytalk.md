@@ -12,7 +12,7 @@ feature_row4:
   - image_path: /assets/images/activities/talk_liaobing.jpg
 feature_row5:
     - image_path: /assets/images/activities/talk_kyler.jpg
-    - image_path: /assets/images/pvsa/2019_jenell.jpg
+    - image_path: /assets/images/activities/talk_jenell.jpg
 ---
 <p><img src="/assets/images/activities/weeklytalk.jpg"></p>  
 
