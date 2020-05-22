@@ -4,7 +4,7 @@ permalink: /weeklytalk/
 feature_row1:
   - image_path: /assets/images/activities/talk_vincent2.jpg
 feature_row2:
-  - image_path: /assets/images/activities/talk_ftc2.jpg
+  - image_path: /assets/images/activities/talk_ftc3.jpg
 feature_row3:
   - image_path: /assets/images/activities/talk_rona.jpg
 feature_row4:
