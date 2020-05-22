@@ -37,7 +37,7 @@ After registering, you will receive a confirmation email containing information 
 
 Life with FTC Robotics -- Stay Connected Series
 
-[Spark Technology Education](http://www.sparkteched.org/), World's champion team from Bethanhy, Oregon.
+Zhunquin Wang, FTC World Championship coach, along with his passionate teams, will talk about teamwork, leadership, and happiness as FTChallengers.
 
 [Click here to register](https://us02web.zoom.us/meeting/register/tZAvcemrqTojG9AyK5mPbrgxuv5gLXfJzU1g)
 
