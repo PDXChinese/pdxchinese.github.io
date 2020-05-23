@@ -23,10 +23,11 @@ In order to make the interaction more efficient, you are welcome to [submit your
 
 Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and the time will generally be controlled at one hour. The registration is required for each event.
 
-{% include feature_row id="feature_row1"%}
 ### 05.16.2020, 2020 3pm
 
 Sweats, Sacrifice and Tough Choices behind the Glory on the Ice
+
+{% include feature_row id="feature_row1"%}
 
 **[Vincent Zhou](https://en.wikipedia.org/wiki/Vincent_Zhou)** is an American figure skater. He is the 2019 World bronze medalist, the 2019 Four Continents bronze medalist, the 2018 CS Tallinn Trophy silver medalist, the 2017 CS Finlandia Trophy silver medalist, and a two-time U.S. national silver medalist.
 
@@ -34,40 +35,45 @@ Sweats, Sacrifice and Tough Choices behind the Glory on the Ice
 
 After registering, you will receive a confirmation email containing information about joining the meeting.
 
-{% include feature_row id="feature_row2"%}
 ### 05.23.2020 3pm
 
 Life with FTC Robotics -- Stay Connected Series
+
+{% include feature_row id="feature_row2"%}
 
 Zhunquin Wang, FTC World Championship coach, along with his passionate teams, will talk about teamwork, leadership, and happiness as FTChallengers.
 
 [Click here to register](https://us02web.zoom.us/meeting/register/tZAvcemrqTojG9AyK5mPbrgxuv5gLXfJzU1g)
 
-{% include feature_row id="feature_row3"%}
 ### 05.30.2020 3pm
 
 How can She Pursue her Writing Passion while Majoring in Math at MIT
 
+{% include feature_row id="feature_row3"%}
+
 **[Rona Wang](https://www.linkedin.com/in/rona-wang-a06694147)** is a junior at the Massachusetts Institute of Technology. For her writing, she has been named a HerCampus 22 Under 22 and nominated for the Best of the Net Anthology. She is originally from Portland, Oregon.
 
-{% include feature_row id="feature_row4"%}
 ### 06.06.2020 3pm
 
 How to Cope With the Stress with Kids under Lockdown?
 
+{% include feature_row id="feature_row4"%}
+
 **[Bonnie Liao](https://www.linkedin.com/in/bonnieliao)** is a well-known educator in Chinese American community for her EQ Parenting lectures. She is working on her graduate studies, aiming to become a LCSW.
 
-{% include feature_row id="feature_row5"%}
 ### 06.13.2020 3pm
 
 How to Successfully Run a Student-Led NPO
 
+{% include feature_row id="feature_row5"%}
+
 Kyler Wang, Lincoln High School, Co-Founder of [Spark Teen](https://sparkteen.org/)  
 Jenell Theobald, Whitford Middle School, Founder of [Let's Peer Up](https://www.letspeerup.org/)  
 
-{% include feature_row id="feature_row6"%}
 ### 06.20.2020 3pm
 
 Why did I Choose to be a Journalist?
+
+{% include feature_row id="feature_row6"%}
 
 **[Christine Pitawanich](https://www.kgw.com/article/about-us/team-bios/christine-pitawanich-kgw-reporter/283-1145738)** joined the KGW team in July 2015 as a reporter specializing in general assignment reporting. Some days she works with a photographer, other days she shoots video, edits and writes stories herself.
