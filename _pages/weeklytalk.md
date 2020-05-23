@@ -8,7 +8,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/activities/talk_rona1.jpg
 feature_row4:
-  - image_path: /assets/images/activities/talk_liaobing.jpg
+  - image_path: /assets/images/activities/talk_liaobing1.jpg
 feature_row5:
     - image_path: /assets/images/activities/talk_kyler2.jpg
     - image_path: /assets/images/activities/talk_jenell.jpg
@@ -57,7 +57,7 @@ How to Cope With the Stress with Kids under Lockdown?
 
 {% include feature_row id="feature_row4"%}
 
-**[Bonnie Liao](https://www.linkedin.com/in/bonnieliao)** is a well-known educator in Chinese American community for her EQ Parenting lectures. She is working on her graduate studies, aiming to become a LCSW.
+**[Bonnie Liao](https://www.linkedin.com/in/bonnieliao)** received her master's degree in social work and PhD in Physics. She founded nonprofit YingHua Language School, YingHua International School, and two leadership summer programs. Since 2004, she has given 100+ talks on parent-child relationships.
 
 ### 06.13.2020 3pm
 
