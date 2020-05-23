@@ -6,7 +6,7 @@ feature_row1:
 feature_row2:
   - image_path: /assets/images/activities/talk_ftc3.jpg
 feature_row3:
-  - image_path: /assets/images/activities/talk_rona.jpg
+  - image_path: /assets/images/activities/talk_rona1.jpg
 feature_row4:
   - image_path: /assets/images/activities/talk_liaobing.jpg
 feature_row5:
@@ -49,7 +49,7 @@ How can She Pursue her Writing Passion while Majoring in Math at MIT
 
 {% include feature_row id="feature_row3"%}
 
-**[Rona Wang](https://www.linkedin.com/in/rona-wang-a06694147)** is a junior at the Massachusetts Institute of Technology. For her writing, she has been named a HerCampus 22 Under 22 and nominated for the Best of the Net Anthology. She is originally from Portland, Oregon.
+**[Rona Wang](https://www.linkedin.com/in/rona-wang-a06694147)** is a junior at MIT studying math. Her debut novel YOU HAD ME AT HELLO WORLD will be published by Simon & Schuster in 2022. Her first book, CRANESONG, can be found here: [halfmystic.com/bookshop/cranesong](https://www.halfmystic.com/bookshop/cranesong).
 
 ### 06.06.2020 3pm
 
