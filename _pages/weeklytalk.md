@@ -31,10 +31,6 @@ Sweats, Sacrifice and Tough Choices behind the Glory on the Ice
 
 **[Vincent Zhou](https://en.wikipedia.org/wiki/Vincent_Zhou)** is an American figure skater. He is the 2019 World bronze medalist, the 2019 Four Continents bronze medalist, the 2018 CS Tallinn Trophy silver medalist, the 2017 CS Finlandia Trophy silver medalist, and a two-time U.S. national silver medalist.
 
-[Click here to register](https://us02web.zoom.us/meeting/register/tZEpd-urqDouGtBClQZ4l8UVplpG3M8yBtgP)
-
-After registering, you will receive a confirmation email containing information about joining the meeting.
-
 ### 05.23.2020 3pm
 
 Life with FTC Robotics -- Stay Connected Series
@@ -44,6 +40,8 @@ Life with FTC Robotics -- Stay Connected Series
 Zhunquin Wang, FTC World Championship coach, along with his passionate teams, will talk about teamwork, leadership, and happiness as FTChallengers.
 
 [Click here to register](https://us02web.zoom.us/meeting/register/tZAvcemrqTojG9AyK5mPbrgxuv5gLXfJzU1g)
+
+After registering, you will receive a confirmation email containing information about joining the meeting.
 
 ### 05.30.2020 3pm
 
