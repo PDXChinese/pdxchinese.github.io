@@ -39,17 +39,17 @@ Life with FTC Robotics -- Stay Connected Series
 
 Zhunquin Wang, FTC World Championship coach, along with his passionate teams, will talk about teamwork, leadership, and happiness as FTChallengers.
 
-[Click here to register](https://us02web.zoom.us/meeting/register/tZAvcemrqTojG9AyK5mPbrgxuv5gLXfJzU1g)
-
-After registering, you will receive a confirmation email containing information about joining the meeting.
-
 ### 05.30.2020 3pm
 
-How can She Pursue her Writing Passion while Majoring in Math at MIT
+Pursuing Weird
 
 {% include feature_row id="feature_row3"%}
 
 **[Rona Wang](https://www.linkedin.com/in/rona-wang-a06694147)** is a junior at MIT studying math. Her debut novel YOU HAD ME AT HELLO WORLD will be published by Simon & Schuster in 2022. Her first book, CRANESONG, can be found here: [halfmystic.com/bookshop/cranesong](https://www.halfmystic.com/bookshop/cranesong).
+
+[Click here to register](https://us02web.zoom.us/meeting/register/tZApd--vpzIjEtGFM-V_OFFXF294QNo-Pklf)
+
+After registering, you will receive a confirmation email containing information about joining the meeting.
 
 ### 06.06.2020 3pm
 
@@ -58,6 +58,10 @@ How to Cope With the Stress with Kids under Lockdown?
 {% include feature_row id="feature_row4"%}
 
 **[Bonnie Liao](https://www.linkedin.com/in/bonnieliao)** received her master's degree in social work and PhD in Physics. She founded nonprofit YingHua Language School, YingHua International School, and two leadership summer programs. Since 2004, she has given 100+ talks on parent-child relationships.
+
+[Click here to register](https://us02web.zoom.us/meeting/register/tZAtdu2urT0vGtGI0TFO1voiBinH-fKrNY81)
+
+After registering, you will receive a confirmation email containing information about joining the meeting.
 
 ### 06.13.2020 3pm
 
