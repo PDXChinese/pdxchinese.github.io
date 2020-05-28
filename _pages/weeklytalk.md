@@ -49,7 +49,7 @@ Pursuing Weird
 
 **[Rona Wang](https://www.linkedin.com/in/rona-wang-a06694147)** is a junior at MIT studying math. Her debut novel YOU HAD ME AT HELLO WORLD will be published by Simon & Schuster in 2022. Her first book, CRANESONG, can be found here: [halfmystic.com/bookshop/cranesong](https://www.halfmystic.com/bookshop/cranesong).
 
-Rescheduled due to conflict with SpaceX Launch live coverage event.
+*Rescheduled due to conflict with SpaceX Launch live coverage event.*
 
 ### 06.06.2020 3pm
 
