@@ -86,4 +86,4 @@ From Math Contests to Fighting Covid-19
 
 {% include feature_row id="feature_row7"%}
 
-Speaker **[Po-Shen](https://www.poshenloh.com/)** Loh is well-known in the academic competition circle. He now supports the community as an educator and coach. Academic competitions instill a spirit of restlessness and ambition, which never quite goes away. In this interactive talk, he will discuss some of his story, and how it led him to his most recent endeavor: to use math to fight the spread of COVID-19 with the free [NOVID](https://www.novid.org/) app.
+Speaker **[Po-Shen Loh](https://www.poshenloh.com/)** is well-known in the academic competition circle. He now supports the community as an educator and coach. Academic competitions instill a spirit of restlessness and ambition, which never quite goes away. In this interactive talk, he will discuss some of his story, and how it led him to his most recent endeavor: to use math to fight the spread of COVID-19 with the free [NOVID](https://www.novid.org/) app.
