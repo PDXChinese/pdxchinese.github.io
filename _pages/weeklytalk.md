@@ -14,6 +14,8 @@ feature_row5:
     - image_path: /assets/images/activities/talk_jenell.jpg
 feature_row6:
     - image_path: /assets/images/activities/talk_christine.jpg
+feature_row7:
+    - image_path: /assets/images/activities/talk_loh.jpg
 ---
 <p><img src="/assets/images/activities/weeklytalk.jpg"></p>  
 
@@ -47,9 +49,7 @@ Pursuing Weird
 
 **[Rona Wang](https://www.linkedin.com/in/rona-wang-a06694147)** is a junior at MIT studying math. Her debut novel YOU HAD ME AT HELLO WORLD will be published by Simon & Schuster in 2022. Her first book, CRANESONG, can be found here: [halfmystic.com/bookshop/cranesong](https://www.halfmystic.com/bookshop/cranesong).
 
-[Click here to register](https://us02web.zoom.us/meeting/register/tZApd--vpzIjEtGFM-V_OFFXF294QNo-Pklf)
-
-After registering, you will receive a confirmation email containing information about joining the meeting.
+Rescheduled due to conflict with SpaceX Launch live coverage event.
 
 ### 06.06.2020 3pm
 
@@ -79,3 +79,11 @@ Why did I Choose to be a Journalist?
 {% include feature_row id="feature_row6"%}
 
 **[Christine Pitawanich](https://www.kgw.com/article/about-us/team-bios/christine-pitawanich-kgw-reporter/283-1145738)** joined the KGW team in July 2015 as a reporter specializing in general assignment reporting. Some days she works with a photographer, other days she shoots video, edits and writes stories herself.
+
+### 06.27.2020 3pm
+
+From Math Contests to Fighting Covid-19
+
+{% include feature_row id="feature_row7"%}
+
+Speaker **[Po-Shen](https://www.poshenloh.com/)** Loh is well-known in the academic competition circle. He now supports the community as an educator and coach. Academic competitions instill a spirit of restlessness and ambition, which never quite goes away. In this interactive talk, he will discuss some of his story, and how it led him to his most recent endeavor: to use math to fight the spread of COVID-19 with the free [NOVID](https://www.novid.org/) app.
