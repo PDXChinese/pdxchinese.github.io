@@ -18,6 +18,10 @@ permalink: /coronavirus/
 
 'We're are currently donating all proceeds to Clay Street Table, a wonderful place that I have been volunteering.'
 
+### [Project Lotus](https://www.theprojectlotus.org/)
+
+'Our organization focuses on destigmatizing mental health in Asian-American communities by tackling the model minority stereotype through educating the community and empowering voices. With COVID-19 having a large scale impact on everyone's mental health, we're teaming up with Asian-American mental health professionals who understand our culture and community to provide completely free webinars for the community on the Zoom platform.'
+
 ### [Stay Connected -- Weekly talk](http://pdxchinese.org/weeklytalk/)
 
 'Under the circumstances that the epidemic severely limits people’s lives, how can we all be able to stay connected, not only can make use of ample time, but also take advantage of virtual resources to do some things that are usually difficult to do. The answer we give is to organize Weekly Talk on the Zoom platform.'
