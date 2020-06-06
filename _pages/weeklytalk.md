@@ -11,7 +11,7 @@ feature_row4:
   - image_path: /assets/images/activities/talk_liaobing1.jpg
 feature_row5:
     - image_path: /assets/images/activities/talk_kyler2.jpg
-    - image_path: /assets/images/activities/talk_jenell.jpg
+    - image_path: /assets/images/activities/talk_jenell1.jpg
 feature_row6:
     - image_path: /assets/images/activities/talk_christine.jpg
 feature_row7:
