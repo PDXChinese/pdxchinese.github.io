@@ -59,10 +59,6 @@ How to Cope With the Stress with Kids under Lockdown?
 
 **[Bonnie Liao](https://www.linkedin.com/in/bonnieliao)** received her master's degree in social work and PhD in Physics. She founded nonprofit YingHua Language School, YingHua International School, and two leadership summer programs. Since 2004, she has given 100+ talks on parent-child relationships.
 
-[Click here to register](https://us02web.zoom.us/meeting/register/tZAtdu2urT0vGtGI0TFO1voiBinH-fKrNY81)
-
-After registering, you will receive a confirmation email containing information about joining the meeting.
-
 ### 06.13.2020 3pm
 
 How to Successfully Run a Student-Led NPO
@@ -71,6 +67,10 @@ How to Successfully Run a Student-Led NPO
 
 Kyler Wang, Lincoln High School, Co-Founder of [Spark Teen](https://sparkteen.org/)  
 Jenell Theobald, Whitford Middle School, Founder of [Let's Peer Up](https://www.letspeerup.org/)  
+
+[Click here to register](https://us02web.zoom.us/meeting/register/tZMrduisrjooGdXhE1nnFUVsoY1JyHrq4knU)
+
+After registering, you will receive a confirmation email containing information about joining the meeting.
 
 ### 06.20.2020 3pm
 
