@@ -68,9 +68,9 @@ How to Successfully Run a Student-Led NPO
 Kyler Wang, Lincoln High School, Co-Founder of [Spark Teen](https://sparkteen.org/)  
 Jenell Theobald, Whitford Middle School, Founder of [Let's Peer Up](https://www.letspeerup.org/)  
 
-[Click here to register](https://us02web.zoom.us/meeting/register/tZMrduisrjooGdXhE1nnFUVsoY1JyHrq4knU)
+[Click here to register](https://us02web.zoom.us/meeting/register/tZMrduisrjooGdXhE1nnFUVsoY1JyHrq4knU). After registering, you will receive a confirmation email containing information about joining the meeting.
 
-After registering, you will receive a confirmation email containing information about joining the meeting.
+[Eight Steps to Setting Up a Nonprofit](https://drive.google.com/file/d/1F5pXE9Ml0s2EY1s2_lgn2_IfSTszVgOO/view), by Xibei Zhao
 
 ### 06.20.2020 3pm
 
