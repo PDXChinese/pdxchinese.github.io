@@ -68,10 +68,6 @@ How to Successfully Run a Student-Led NPO
 Kyler Wang, Lincoln High School, Co-Founder of [Spark Teen](https://sparkteen.org/)  
 Jenell Theobald, Whitford Middle School, Founder of [Let's Peer Up](https://www.letspeerup.org/)  
 
-[Click here to register](https://us02web.zoom.us/meeting/register/tZMrduisrjooGdXhE1nnFUVsoY1JyHrq4knU). After registering, you will receive a confirmation email containing information about joining the meeting.
-
-[Eight Steps to Setting Up a Nonprofit](https://drive.google.com/file/d/1F5pXE9Ml0s2EY1s2_lgn2_IfSTszVgOO/view), by Xibei Zhao
-
 ### 06.20.2020 3pm
 
 Why did I Choose to be a Journalist?
@@ -79,6 +75,8 @@ Why did I Choose to be a Journalist?
 {% include feature_row id="feature_row6"%}
 
 **[Christine Pitawanich](https://www.kgw.com/article/about-us/team-bios/christine-pitawanich-kgw-reporter/283-1145738)** joined the KGW team in July 2015 as a reporter specializing in general assignment reporting. Some days she works with a photographer, other days she shoots video, edits and writes stories herself.
+
+[Click here to register](https://us02web.zoom.us/meeting/register/tZwocumprT8vEtMhYgl7WjXRlCmktzXuW3MD). After registering, you will receive a confirmation email containing information about joining the meeting.
 
 ### 06.27.2020 3pm
 
