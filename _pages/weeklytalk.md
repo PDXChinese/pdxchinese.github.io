@@ -90,11 +90,11 @@ Speaker **[Po-Shen Loh](https://www.poshenloh.com/)** is well-known in the acade
 
 ### 07.04.2020 3pm
 
-TBD
+Observe Independence Day 
 
 ### 07.11.2020 3pm
 
-How Journalism has Evolved during Pandemic and Upcoming Election Year?
+How Journalism has Evolved during Pandemic and Upcoming Election Year
 
 {% include feature_row id="feature_row9"%}
 
