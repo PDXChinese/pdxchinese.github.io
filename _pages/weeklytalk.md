@@ -90,7 +90,7 @@ Speaker **[Po-Shen Loh](https://www.poshenloh.com/)** is well-known in the acade
 
 ### 07.04.2020 3pm
 
-Observe Independence Day 
+*Observe Independence Day* 
 
 ### 07.11.2020 3pm
 
