@@ -7,6 +7,15 @@ permalink: /coronavirus/
 
 **Disclaimer** This is a collection of public data for the benefit of helping getting the words out. There is no implication of OCC affiliation for the listed organzations on this page.
 
+### Beauty -- Life Series  
+
+In these uncertain times, it is especially important that we take moments to celebrate together, to explore the beauty of life, and to create memories where we support each other.
+
+This series of events will be focused on adding more joy and vibrancy to our lives. The events planned include Teaching Modeling for Photography, Wine Tasting Workshop, Coffee Time, Language of the Jewelry and more.
+
+The sessions will be held over ZOOM meetings. Meeting ID: 839 4024 5269.
+
+Event Organizer: ZuoAn
 
 ### [Letter For Gratitude](https://www.lettersforgratitude.org/)
 
