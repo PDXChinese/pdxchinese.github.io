@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Cancelled due to Pandemic"
 permalink: /chinesefestival/
 ---
 
