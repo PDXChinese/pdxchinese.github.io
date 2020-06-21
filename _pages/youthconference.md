@@ -9,6 +9,8 @@ permalink: /youthconference/
 
 6/28/2019 1:00 pm - 5:00 pm
 
+*On-site meeting was cancelled due to pandemic. Speeches have been arranged under [Weekly Talk](http://pdxchinese.org/weeklytalk/) and will last until the pandemic is officially over.*
+
 ## Place
 
 Beaverton City Library - Meeting Room A & B, 1st Floor (12375 SW 5th Street, Beaverton, OR 97005) ([Google map](https://www.google.com/maps/place/12375+SW+5th+St,+Beaverton,+OR+97005/@45.4841084,-122.8062115,17z/data=!3m1!4b1!4m5!3m4!1s0x54950c21b4d2e3ad:0x21b979fd65c64c83!8m2!3d45.4841084!4d-122.8040228))
