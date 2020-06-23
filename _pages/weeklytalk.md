@@ -80,8 +80,6 @@ Why did I Choose to be a Journalist?
 
 **[Christine Pitawanich](https://www.kgw.com/article/about-us/team-bios/christine-pitawanich-kgw-reporter/283-1145738)** joined the KGW team in July 2015 as a reporter specializing in general assignment reporting. Some days she works with a photographer, other days she shoots video, edits and writes stories herself.
 
-[Click here to register](https://us02web.zoom.us/meeting/register/tZwocumprT8vEtMhYgl7WjXRlCmktzXuW3MD). After registering, you will receive a confirmation email containing information about joining the meeting.
-
 ### 06.27.2020 3pm
 
 Life Can be a Jigsaw Puzzle
@@ -89,6 +87,8 @@ Life Can be a Jigsaw Puzzle
 {% include feature_row id="feature_row8"%}
 
 [Frances Ippolito](https://www.linkedin.com/in/frances-ippolito-58670225) works as an administrative patent judge at the [United States Patent and Trademark Office](https://www.uspto.gov/). She earned her law degree from the University of California Davis School of Law, a Teaching Certificate in Secondary Education from Harvard Graduate School of Education, and a Bachelor of Arts degree in Chemistry from Harvard University.  Before law, she was a high school chemistry teacher who occasionally set the chalkboard on fire to get her students’ attention. 
+
+[Click here to register](https://us02web.zoom.us/meeting/register/tZUld-2qpzgpE9RXYkvx36Ln30wDO-8Ai5Zh). After registering, you will receive a confirmation email containing information about joining the meeting.
 
 ### 07.04.2020 3pm
 
