@@ -16,6 +16,8 @@ feature_row6:
     - image_path: /assets/images/activities/talk_christine.jpg
 feature_row7:
     - image_path: /assets/images/activities/talk_loh.jpg
+feature_row8:
+    - image_path: /assets/images/activities/talk_frances.jpg
 feature_row9:
     - image_path: /assets/images/activities/talk_irene.jpg
 ---
@@ -82,7 +84,11 @@ Why did I Choose to be a Journalist?
 
 ### 06.27.2020 3pm
 
-TBD
+Life Can be a Jigsaw Puzzle
+
+{% include feature_row id="feature_row8"%}
+
+[Frances Ippolito](https://www.linkedin.com/in/frances-ippolito-58670225) works as an administrative patent judge at the [United States Patent and Trademark Office](https://www.uspto.gov/). She earned her law degree from the University of California Davis School of Law, a Teaching Certificate in Secondary Education from Harvard Graduate School of Education, and a Bachelor of Arts degree in Chemistry from Harvard University.  Before law, she was a high school chemistry teacher who occasionally set the chalkboard on fire to get her students’ attention. 
 
 ### 07.04.2020 3pm
 
