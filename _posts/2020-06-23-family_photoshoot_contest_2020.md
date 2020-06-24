@@ -1,8 +1,8 @@
 ---
 title: "“瞧这一家子”创意照片有奖征集活动结果揭晓"
 author: XiBei Zhao
-excerpt: 为了帮助波特兰华人家庭在新冠居家生活的环境中丰富家庭情趣，Oceana Blue Production公司特主办此次名为“瞧这一家子“ 创意主题照片有奖征集活动。今天结果揭晓，祝贺获奖的三家人。"
-date: "2020-06-023"
+excerpt: "为了帮助波特兰华人家庭在新冠居家生活的环境中丰富家庭情趣，Oceana Blue Production公司特主办此次名为“瞧这一家子“ 创意主题照片有奖征集活动。今天结果揭晓，祝贺获奖的三家人。"
+date: "2020-06-23"
 ---
 
 ![]({{ site.url }}/assets/images/WeChat Image_20200623192953.jpg)
