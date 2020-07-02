@@ -4,6 +4,18 @@ title: "华裔青少年年会资料汇总"
 
 链接只分享给与会者 (Only accessible to the event participants)
 
+## 2020年青少年年会
+
+### Voice of Civic Engagement Award
+
+Edward Sun, Rising 8th Grader at West Sylvan Middle School  
+Jiaqi (Jackie) Zhang, Rising Junior at Sunset High School  
+
+### Youth Empowerment Award
+
+Danica Leung, Rising Junior at Lincoln High School  
+Qiyue (Cheery) Zhang, Rising Sophomore at Westview High School  
+
 ## 2019年青少年年会
 
 ### Presentations
