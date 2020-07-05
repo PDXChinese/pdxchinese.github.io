@@ -96,8 +96,6 @@ From Math Contests to Fighting Covid-19
 
 Speaker **[Po-Shen Loh](https://www.poshenloh.com/)** is well-known in the academic competition circle. He now supports the community as an educator and coach. Academic competitions instill a spirit of restlessness and ambition, which never quite goes away. In this interactive talk, he will discuss some of his story, and how it led him to his most recent endeavor: to use math to fight the spread of COVID-19 with the free [NOVID](https://www.novid.org/) app.
 
-[Click here to register](https://us02web.zoom.us/meeting/register/tZUqdeivqzojHdWVy8jwkxsz9Vmdisb5uuQR). After registering, you will receive a confirmation email containing information about joining the meeting.
-
 ### 07.11.2020 3pm
 
 How Journalism has Evolved during Pandemic and Upcoming Election Year
@@ -107,3 +105,5 @@ How Journalism has Evolved during Pandemic and Upcoming Election Year
 [Irene Noguchi](https://www.linkedin.com/in/irenenoguchi) is the Executive Producer in charge of running the audio and podcasting department at [POLITICO](https://www.politico.com/) in Washington, D.C., where she launched the daily podcast "[POLITICO Dispatch](https://www.politico.com/podcasts)".   
 
 She previously co-created and launched Vox Media's popular daily news podcast "Today, Explained", taking it to more than 90 million downloads within a two-year span. Prior to that, she produced news shows for NPR stations in Seattle, San Francisco, and Las Vegas, and has participated in journalism fellowships in Rwanda, Germany, and South Korea. She is a former corporate lawyer and a graduate of Stanford University and the University of Virginia School of Law.
+
+[Click here to register](https://us02web.zoom.us/meeting/register/tZUqdOiurD0pE9S1yo0BDvkkM59GGIBT5a83). After registering, you will receive a confirmation email containing information about joining the meeting.
