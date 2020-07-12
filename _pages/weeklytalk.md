@@ -114,7 +114,7 @@ From [Massacred for Gold](https://books.google.com/books/about/Massacred_for_Gol
 
 {% include feature_row id="feature_row10"%}
 
-[Gregory Nokes](http://gregnokes.com/bio-r_gregory_nokes/) retired in 2003 after 43 years in journalism, including 25 years with The Associated Press and 15 years with The Oregonian in Portland. While with The AP, he was stationed in New York, San Juan, Buenos Aires and Washington, D.C., where he served as both an economics and diplomatic correspondent. He traveled to more than 50 countries during his career.
+[R. Gregory Nokes](http://gregnokes.com/bio-r_gregory_nokes/) retired in 2003 after 43 years in journalism, including 25 years with The Associated Press and 15 years with The Oregonian in Portland. While with The AP, he was stationed in New York, San Juan, Buenos Aires and Washington, D.C., where he served as both an economics and diplomatic correspondent. He traveled to more than 50 countries during his career.
 
 Nokes graduated from Willamette University and attended Harvard University as a 1972 Nieman Fellow. Since retiring from journalism, he has embarked on a second career as a writer and lecturer on events in the history of the Pacific Northwest. Nokes and his wife, Candise, live in West Linn, Oregon.
 
