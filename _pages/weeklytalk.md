@@ -20,6 +20,8 @@ feature_row8:
     - image_path: /assets/images/activities/talk_frances.jpg
 feature_row9:
     - image_path: /assets/images/activities/talk_irene.jpg
+feature_row10:
+    - image_path: /assets/images/activities/talk_nokes.jpg
 ---
 <p><img src="/assets/images/activities/weeklytalk.jpg"></p>  
 
@@ -106,4 +108,14 @@ How Journalism has Evolved during Pandemic and Upcoming Election Year
 
 She previously co-created and launched Vox Media's popular daily news podcast "Today, Explained", taking it to more than 90 million downloads within a two-year span. Prior to that, she produced news shows for NPR stations in Seattle, San Francisco, and Las Vegas, and has participated in journalism fellowships in Rwanda, Germany, and South Korea. She is a former corporate lawyer and a graduate of Stanford University and the University of Virginia School of Law.
 
-[Click here to register](https://us02web.zoom.us/meeting/register/tZUqdOiurD0pE9S1yo0BDvkkM59GGIBT5a83). After registering, you will receive a confirmation email containing information about joining the meeting.
+### 07.18.2020 3pm
+
+From [Massacred for Gold](https://books.google.com/books/about/Massacred_for_Gold.html?id=W9HS9Ivie30C&source=kp_cover) to [Breaking Chains](https://books.google.com/books/about/Breaking_Chains.html?id=xoHDNAEACAAJ&source=kp_cover)
+
+{% include feature_row id="feature_row10"%}
+
+[Gregory Nokes](http://gregnokes.com/bio-r_gregory_nokes/) retired in 2003 after 43 years in journalism, including 25 years with The Associated Press and 15 years with The Oregonian in Portland. While with The AP, he was stationed in New York, San Juan, Buenos Aires and Washington, D.C., where he served as both an economics and diplomatic correspondent. He traveled to more than 50 countries during his career.
+
+Nokes graduated from Willamette University and attended Harvard University as a 1972 Nieman Fellow. Since retiring from journalism, he has embarked on a second career as a writer and lecturer on events in the history of the Pacific Northwest. Nokes and his wife, Candise, live in West Linn, Oregon.
+
+[Click here to register](https://us02web.zoom.us/meeting/register/tZErdO-hrzwjG9dVw7dNIUHwSPMZoJb5U1RB). After registering, you will receive a confirmation email containing information about joining the meeting.
