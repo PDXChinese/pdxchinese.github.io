@@ -22,6 +22,8 @@ feature_row9:
     - image_path: /assets/images/activities/talk_irene.jpg
 feature_row10:
     - image_path: /assets/images/activities/talk_nokes.jpg
+feature_row11:
+    - image_path: /assets/images/activities/talk_chris.jpg
 ---
 <p><img src="/assets/images/activities/weeklytalk.jpg"></p>  
 
@@ -118,4 +120,12 @@ From [Massacred for Gold](https://books.google.com/books/about/Massacred_for_Gol
 
 Nokes graduated from Willamette University and attended Harvard University as a 1972 Nieman Fellow. Since retiring from journalism, he has embarked on a second career as a writer and lecturer on events in the history of the Pacific Northwest. Nokes and his wife, Candise, live in West Linn, Oregon.
 
-[Click here to register](https://us02web.zoom.us/meeting/register/tZErdO-hrzwjG9dVw7dNIUHwSPMZoJb5U1RB). After registering, you will receive a confirmation email containing information about joining the meeting.
+### 07.25.2020 3pm
+
+All Politics is Local -- How to Get Involved in Local Politics
+
+{% include feature_row id="feature_row11"%}
+
+Chris Wig serves as Chair of the [Democratic Party of Lane County](https://www.dplc.org/) and as a Member of the Board of Directors for Willamalane Park and Recreation District. He works as the Director of the Focus Treatment Court program at Emergence Addiction and Behavioral Therapies, and he is licensed as a Certified Alcohol and Drug Counselor (CADC II) and Qualified Mental Health Associate (QMHA). He received his undergraduate degree in cultural anthropology from the University of Toronto and his master’s degree from the University of Oregon School of Journalism and Communication. Chris and his fiance Celine love living in Springfield, and on the weekends you can find them enjoying coffee at the Washburne Cafe or walking Willamalane's 29 miles of paths and trails.
+
+[Click here to register](https://us02web.zoom.us/meeting/register/tZwsce2urDsoHN1HM329A6F2Ajg9zqKs1V38). After registering, you will receive a confirmation email containing information about joining the meeting.
