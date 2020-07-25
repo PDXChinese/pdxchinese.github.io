@@ -30,6 +30,8 @@ extra:
         url: /winterdrive/
       - title: "---"
         url:
+      - title: "Youth Ambassadors"
+        url: /youthambassadors/
       - title: "Youth Camps"
         url: /camps/
       - title: "Youth Conference"
@@ -38,8 +40,6 @@ extra:
         url: /drumteam/
       - title: "Youth Mentoring"
         url: /mentoring/
-      - title: "Youth Orchestra"
-        url: /youthorchestra/
       - title: "Youth Roundtable"
         url: /youthroundtable/
       - title: "---"
