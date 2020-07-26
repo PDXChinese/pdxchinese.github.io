@@ -15,12 +15,10 @@ permalink: /youthambassadors/
 
 ### [Suggesting General Meetings for Youth Ambassadors](https://docs.google.com/forms/d/e/1FAIpQLScxoVxLLtxuexSsiGcNMlHHqwM0lBC8eAOPJIAn0q0CdzjVmQ/viewform?usp=sf_link)
 
-### Submit Meeting Summary to [youth@pdxchinese.org](mailto:youth@pdxchinese.org)
-
-Please follow the email format:
+### Submit Meeting Summary to [youth@pdxchinese.org](mailto:youth@pdxchinese.org), with following format:
 
 Put meeting name and date on Subject line  
 Summary limited to 300 words with a few exceptions on email Body   
 Attach your signature with your name and school after the summary  
 
-### Current List of Attendees
+### Current List of Selected Meetings with Attendees
