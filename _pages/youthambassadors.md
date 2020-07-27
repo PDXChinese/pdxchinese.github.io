@@ -9,7 +9,7 @@ permalink: /youthambassadors/
 
 暑期中孩子们的时间会充裕一些，疫情使得几乎所有的会议都是在Zoom里进行，所以，我们可以很快开始。有意参加这一计划的，在征求好孩子们的意见之后，请加入《OCC Youth Ambassadors》小群。
 
-您如果有任何问题，请联系[杜辉](mailto:oregonchinesecoalition@gmail.com)或[西北兆](mailto:hzhao@pdxchinese.org)。
+您如果有任何问题，请联系[杜晖](mailto:oregonchinesecoalition@gmail.com)或[西北兆](mailto:hzhao@pdxchinese.org)。
 
 ### [OCC Youth Ambassadors 报名表](https://docs.google.com/forms/d/e/1FAIpQLSe1EF7A_RiS6q8fAk0rltDLPp_Gtii6VBpyUaQmKuOH5mp0Sg/viewform?usp=sf_link)
 
