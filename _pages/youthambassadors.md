@@ -15,6 +15,8 @@ permalink: /youthambassadors/
 
 ### [Suggesting General Meetings for Youth Ambassadors](https://docs.google.com/forms/d/e/1FAIpQLScxoVxLLtxuexSsiGcNMlHHqwM0lBC8eAOPJIAn0q0CdzjVmQ/viewform?usp=sf_link)
 
+[Current list of meetings](https://docs.google.com/spreadsheets/d/1Oe5eFbY02rZMq_pgHrWSFpxqio3Tmulwai3poJnO49g/edit?usp=sharing) (sorted by submission date)
+
 ### Submit Meeting Summary to [youth@pdxchinese.org](mailto:youth@pdxchinese.org) with following format:
 
 Put meeting name and date on Subject line  
