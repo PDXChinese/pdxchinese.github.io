@@ -24,6 +24,8 @@ feature_row10:
     - image_path: /assets/images/activities/talk_nokes.jpg
 feature_row11:
     - image_path: /assets/images/activities/talk_chris.jpg
+feature_row12:
+    - image_path: /assets/images/activities/talk_eric.jpg
 ---
 <p><img src="/assets/images/activities/weeklytalk.jpg"></p>  
 
@@ -128,4 +130,12 @@ All Politics is Local -- How to Get Involved in Local Politics
 
 Chris Wig serves as Chair of the [Democratic Party of Lane County](https://www.dplc.org/) and as a Member of the Board of Directors for Willamalane Park and Recreation District. He works as the Director of the Focus Treatment Court program at Emergence Addiction and Behavioral Therapies, and he is licensed as a Certified Alcohol and Drug Counselor (CADC II) and Qualified Mental Health Associate (QMHA). He received his undergraduate degree in cultural anthropology from the University of Toronto and his master’s degree from the University of Oregon School of Journalism and Communication. Chris and his fiance Celine love living in Springfield, and on the weekends you can find them enjoying coffee at the Washburne Cafe or walking Willamalane's 29 miles of paths and trails.
 
-[Click here to register](https://us02web.zoom.us/meeting/register/tZwsce2urDsoHN1HM329A6F2Ajg9zqKs1V38). After registering, you will receive a confirmation email containing information about joining the meeting.
+### 08.01.2020 3pm
+
+How to Pursue Your Passion and Reach Your Full Potential
+
+{% include feature_row id="feature_row12"%}
+
+Eric Priest is a professor at the University of Oregon School of Law, but he took an unusual route to get there. After graduating from high school, Eric took time off to pursue his passion: writing and recording music. He worked multiple jobs as a daycare teacher and cook to save money to build a home recording studio. In the end, he spent a decade as a songwriter and music producer with multiple hit songs in the 1990s. In his late 20s, he moved to China to study Mandarin and Chinese culture. In the years that followed, he attended law school in the U.S., worked as an intellectual property attorney, returned to school to earn a graduate degree at Harvard Law School, and was sent back to China to be CEO of a Harvard spin-off company in Beijing. Since joining the faculty at Oregon Law, his research has combined his greatest interests—music, copyright law, and China—and he has become one of the U.S.'s foremost experts on Chinese copyright law.
+
+[Click here to register](https://us02web.zoom.us/meeting/register/tZEpc-mvrDMpHNYmsdQSdAxvY1GGnYc9h-tB). After registering, you will receive a confirmation email containing information about joining the meeting.
