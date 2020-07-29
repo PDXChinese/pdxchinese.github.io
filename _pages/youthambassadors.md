@@ -11,9 +11,9 @@ permalink: /youthambassadors/
 
 您如果有任何问题，请联系[杜晖](mailto:oregonchinesecoalition@gmail.com)或[西北兆](mailto:hzhao@pdxchinese.org)。
 
-### [Table 1] [OCC Youth Ambassadors 报名表](https://docs.google.com/forms/d/e/1FAIpQLSe1EF7A_RiS6q8fAk0rltDLPp_Gtii6VBpyUaQmKuOH5mp0Sg/viewform?usp=sf_link)
+### 【表格一】 [OCC Youth Ambassadors 报名表](https://docs.google.com/forms/d/e/1FAIpQLSe1EF7A_RiS6q8fAk0rltDLPp_Gtii6VBpyUaQmKuOH5mp0Sg/viewform?usp=sf_link)
 
-### [Table 2] [Suggesting General Meetings for Youth Ambassadors](https://docs.google.com/forms/d/e/1FAIpQLScxoVxLLtxuexSsiGcNMlHHqwM0lBC8eAOPJIAn0q0CdzjVmQ/viewform?usp=sf_link)
+### 【表格二】 [Suggesting General Meetings for Youth Ambassadors](https://docs.google.com/forms/d/e/1FAIpQLScxoVxLLtxuexSsiGcNMlHHqwM0lBC8eAOPJIAn0q0CdzjVmQ/viewform?usp=sf_link)
 
 > [Current list of meetings suggested](https://docs.google.com/spreadsheets/d/1Oe5eFbY02rZMq_pgHrWSFpxqio3Tmulwai3poJnO49g/edit?usp=sharing) (sorted by submission date, to be considered)
 
