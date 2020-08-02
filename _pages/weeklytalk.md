@@ -26,6 +26,9 @@ feature_row11:
     - image_path: /assets/images/activities/talk_chris.jpg
 feature_row12:
     - image_path: /assets/images/activities/talk_eric.jpg
+feature_row13:
+    - image_path: /assets/images/activities/talk_kyu.jpg
+    - image_path: /assets/images/activities/talk_kathy.jpg
 ---
 <p><img src="/assets/images/activities/weeklytalk.jpg"></p>  
 
@@ -138,4 +141,14 @@ How to Pursue Your Passion and Reach Your Full Potential
 
 Eric Priest is a professor at the University of Oregon School of Law, but he took an unusual route to get there. After graduating from high school, Eric took time off to pursue his passion: writing and recording music. He worked multiple jobs as a daycare teacher and cook to save money to build a home recording studio. In the end, he spent a decade as a songwriter and music producer with multiple hit songs in the 1990s. In his late 20s, he moved to China to study Mandarin and Chinese culture. In the years that followed, he attended law school in the U.S., worked as an intellectual property attorney, returned to school to earn a graduate degree at Harvard Law School, and was sent back to China to be CEO of a Harvard spin-off company in Beijing. Since joining the faculty at Oregon Law, his research has combined his greatest interests—music, copyright law, and China—and he has become one of the U.S.'s foremost experts on Chinese copyright law.
 
-[Click here to register](https://us02web.zoom.us/meeting/register/tZEpc-mvrDMpHNYmsdQSdAxvY1GGnYc9h-tB). After registering, you will receive a confirmation email containing information about joining the meeting.
+### 08.08.2020 3pm
+
+Asian American Music Representation
+
+{% include feature_row id="feature_row13"%}
+
+Kyu Hun Han is a Korean-American singer from Los Angeles, CA. Having originally studied choral and classical voice, music has always been a great passion in Kyu Hun's life. Currently, he is a student intern at 5A Label and pursuing a B.S. in Music Industry at the University of Southern California. Kyu is also President of USC’s music networking club, the FAM, and the Co-President of USC Songwriters’ Forum.
+
+Katherine Ho is a singer/songwriter from Thousand Oaks, CA whose voice has been featured in national commercials, TV shows, and feature films. She is best known for her Mandarin cover of Coldplay’s “Yellow” by Zheng Jun (郑钧) based on the Li Wenqi (李文琦) version that was featured on the soundtrack of the hit Hollywood film, Crazy Rich Asians. She is currently a rising senior at the University of Southern California (USC) where she studies Human Biology and pursues her interests in a cappella and Asian culture through her involvement in Trogons, USC’s East-Asian a cappella group.
+
+[Click here to register](https://us02web.zoom.us/meeting/register/tZIpfuGtrTgoH9P8BA4YCvXrHWvSUU-Z2ogB). After registering, you will receive a confirmation email containing information about joining the meeting.
