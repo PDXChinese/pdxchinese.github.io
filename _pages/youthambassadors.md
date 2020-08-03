@@ -17,10 +17,8 @@ permalink: /youthambassadors/
 
 > [Current list of meetings suggested](https://docs.google.com/spreadsheets/d/1Oe5eFbY02rZMq_pgHrWSFpxqio3Tmulwai3poJnO49g/edit?usp=sharing) (sorted by submission date, to be considered)
 
-### Submit Meeting Summary to [youth@pdxchinese.org](mailto:youth@pdxchinese.org) with following format:
+### Submit Meeting Summary to Google Classroom with following information:
 
 Put meeting name and date on Subject line  
 Summary limited to 300 words with a few exceptions on email Body   
 Attach your signature with your name and school after the summary  
-
-### Current List of Selected Meetings with Assigned Youth Ambassadors
