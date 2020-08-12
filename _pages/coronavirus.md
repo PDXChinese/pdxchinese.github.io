@@ -5,7 +5,7 @@ feature_row1:
   - image_path: /assets/images/activities/COVIDTips.jpg
 ---
 
-{% include feature_row id="feature_row1"%}
+![]({{ site.url }}/assets/images/activities/COVIDTips.jpg)
 
 在新冠病毒传播速度逐渐加快之际，州政府决定动员社区组织（CBO），希望通过社区的力量做到宣传与服务无死角。借助全社区公益活动积累下来影响力，OCC的申请已经得到批准，在年底前将得到近八万美元资金，为Metro三个县的华人提供防疫宣传教育和对需要隔离低收入个人和家庭提供帮助。为此，OCC已经成立了Task Force，并正在积极搭建框架，包括电话专线，专职人员的聘用等。所有信息将会在OCC网站上 ([http://pdxchinese.org/coronavirus/](http://pdxchinese.org/coronavirus/))持续公布更新。
 
