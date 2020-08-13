@@ -32,10 +32,10 @@ feature_row1:
 
 ## 面向高中生和大学生的实习机会
 
-为失去各种活动的学生们提供一个社会实践机会，OCC决定设立COVID-19 Community Response Internship，向16周岁以上的高年级高中生和在校大学生开放。录取的学生将获得一次性500美元的stipend，活动有关的花销会得到全额报销。录取会采取rolling admissions方式。请填写[报名表格](https://docs.google.com/forms/d/e/1FAIpQLSfkQbyH2lc3voR0aCBaZae0ZcndOnwwR5iFYxThN3jxoJNJ6Q/viewform?usp=sf_link)。
+华人联盟(OCC)决定设立COVID-19 Community Response Internship，向16周岁以上的高年级高中生和在校大学生开放。录取的学生将获得一次性500美元的stipend，活动有关的花销会得到全额报销。录取会采取rolling admissions方式。请填写[报名表格](https://docs.google.com/forms/d/e/1FAIpQLSfkQbyH2lc3voR0aCBaZae0ZcndOnwwR5iFYxThN3jxoJNJ6Q/viewform?usp=sf_link)。
 
 ## 鸣谢
 
-诚挚感谢联邦政府CARES Act提供的资金支持和俄勒冈州卫生局(OHA)选定华人联盟(OCC)作为专门服务华人的社区组织
+诚挚感谢联邦政府CARES Act提供的资金支持和俄勒冈州卫生局(OHA)选定华人联盟(OCC)服务华人社区
 
 {% include feature_row id="feature_row1"%}
