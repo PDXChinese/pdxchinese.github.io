@@ -2,7 +2,7 @@
 title: ""
 permalink: /coronavirus/
 feature_row1:
-  - image_path: /assets/images/activities/COVIDTips.jpg
+  - image_path: /assets/images/activities/oha.jpg
 ---
 
 ![]({{ site.url }}/assets/images/activities/COVIDTips.jpg)
@@ -20,7 +20,7 @@ feature_row1:
 
 > 利用各种形式向社区成员宣传疫情相关信息，包括本周疫情发展动向，州政府最新规定，冠状病毒和防疫知识。
 
-> 向因为测试呈阳性或高风险人群而需要隔离的低收入个人或家庭提供全方位的支持，包括安排协调吃住行，并提供相关的费用，需要的话，负责联系其他地方公共卫生和福利部门。
+> 如果检测呈阳性，或接触到了高风险人群，您可能需要接受隔离，在收入满足州政府要求阿情况下，我们会负责为您或家人在隔离期间提供全方位的支持，包括安排协调吃住行，符合规定的费用会由州政府实报实销。有进一步需要的话，我们也会负责联系其他地方公共卫生和福利部门。
 
 ## 项目期限
 
@@ -32,4 +32,10 @@ feature_row1:
 
 ## 面向高中生和大学生的实习机会
 
-我们现在讨论最多的是如何利用这个项目为失去各种活动的学生们提供一个社会实践机会，因而决定设立COVID-19 Community Response Internship，向16周岁以上的高年级高中生和在校大学生开放。录取的学生将获得一次性500美元的stipend，活动有关的花销会得到全额报销。我们的录取会采取rolling admissions方式。请填写[报名表格](https://docs.google.com/forms/d/e/1FAIpQLSfkQbyH2lc3voR0aCBaZae0ZcndOnwwR5iFYxThN3jxoJNJ6Q/viewform?usp=sf_link)。
+为失去各种活动的学生们提供一个社会实践机会，OCC决定设立COVID-19 Community Response Internship，向16周岁以上的高年级高中生和在校大学生开放。录取的学生将获得一次性500美元的stipend，活动有关的花销会得到全额报销。录取会采取rolling admissions方式。请填写[报名表格](https://docs.google.com/forms/d/e/1FAIpQLSfkQbyH2lc3voR0aCBaZae0ZcndOnwwR5iFYxThN3jxoJNJ6Q/viewform?usp=sf_link)。
+
+## 鸣谢
+
+联邦政府CARES ACT提供的资金支持和俄勒冈州卫生局(OHA)选定华人联盟(OCC)作为专门服务华人的社区组织
+
+{% include feature_row id="feature_row1"%}
