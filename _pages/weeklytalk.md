@@ -79,7 +79,7 @@ How to Successfully Run a Student-Led NPO
 {% include feature_row id="feature_row5"%}
 
 Kyler Wang, Lincoln High School, Co-Founder of [Spark Teen](https://sparkteen.org/)  
-Jenell Theobald, Whitford Middle School, Founder of [Let's Peer Up](https://www.letspeerup.org/)  
+Jenell Theobald, Whitford Middle School, Founder of [Let's Peer Up](http://www.letspeerup.org/)  
 
 ### 06.20.2020 3pm
 
