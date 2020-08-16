@@ -164,7 +164,7 @@ Local College Student Meetup
 
 What difficulties did you face transitioning from high school to college? How has college altered your worldviews, passions, and academic ambitions? How did COVID affect summer plans? How has your universities responded to COVID for the Fall term? Where do you think Asian Americans fit into the current cultural and racial discourse? Where do you think America will be at the beginning of next year regarding COVID and BLM? What long term changes to American society will there be at the end of this pandemic?
 
-Thanks Britney He from Georgetown, Chelsea Li from OHS, Keven Jin from Berkeley, Aaron Sha from USA and Alisha Zhao from Stanford for sharing their answers to above questions with us.
+Thanks Britney He from Georgetown, Chelsea Li from OSU, Keven Jin from Berkeley, Aaron Sha from USC and Alisha Zhao from Stanford for sharing their thoughts with us.
 
 ### 08.22.2020 3pm
 
