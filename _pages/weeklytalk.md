@@ -29,6 +29,11 @@ feature_row12:
 feature_row13:
     - image_path: /assets/images/activities/talk_kyu.jpg
     - image_path: /assets/images/activities/talk_kathy.jpg
+feature_row14:
+    - image_path: /assets/images/activities/talk_students1.jpg
+    - image_path: /assets/images/activities/talk_students.jpg
+feature_row15:
+    - image_path: /assets/images/activities/talk_justin.jpg
 ---
 <p><img src="/assets/images/activities/weeklytalk.jpg"></p>  
 
@@ -151,4 +156,24 @@ Kyu Hun Han is a Korean-American singer from Los Angeles, CA. Having originally 
 
 Katherine Ho is a singer/songwriter from Thousand Oaks, CA whose voice has been featured in national commercials, TV shows, and feature films. She is best known for her Mandarin cover of Coldplay’s “[Yellow](https://youtu.be/SSc98cdb7Ig)” by Zheng Jun (郑钧) based on the Li Wenqi (李文琦) version that was featured on the soundtrack of the hit Hollywood film, Crazy Rich Asians. She is currently a rising senior at the University of Southern California (USC) where she studies Human Biology and pursues her interests in a cappella and Asian culture through her involvement in Trogons, USC’s East-Asian a cappella group.
 
-[Click here to register](https://us02web.zoom.us/meeting/register/tZIpfuGtrTgoH9P8BA4YCvXrHWvSUU-Z2ogB). After registering, you will receive a confirmation email containing information about joining the meeting.
+### 08.15.2020 3pm
+
+Local College Student Meetup
+
+{% include feature_row id="feature_row14"%}
+
+What difficulties did you face transitioning from high school to college? How has college altered your worldviews, passions, and academic ambitions? How did COVID affect summer plans? How has your universities responded to COVID for the Fall term? Where do you think Asian Americans fit into the current cultural and racial discourse? Where do you think America will be at the beginning of next year regarding COVID and BLM? What long term changes to American society will there be at the end of this pandemic?
+
+Thanks Britney He from Georgetown, Chelsea Li from OHS, Keven Jin from Berkeley, Aaron Sha from USA and Alisha Zhao from Stanford for sharing their answers to above questions with us.
+
+### 08.22.2020 3pm
+
+Why I want to Run for Public Office
+
+{% include feature_row id="feature_row15"%}
+
+'Justin Hwang, who is running as a Republican, was born in South Korea and earned his U.S. citizenship in 2006 where he was 18 years old. He graduated with a degree in culinary arts and hospitality management from the Art Institute and Le Cordon Bleu, respectively. He opened his first restaurant, Joy Teriyaki, in 2006 and eventually expanded with another business, called Joy Poké. Today he owns 27 restaurants and manages every one, on his own.' (cited from [advocate-online.net](http://www.advocate-online.net/qa-race-for-oregon-senate-district-25/))
+
+He is hoping to contribute to more diversity in the legislature with his background as a Korean-American and as a young candidate. With this ambitious goal in mind, Justin will share with us more on why and how he made this decision.
+
+[Click here to register](https://us02web.zoom.us/meeting/register/tZ0qdemgrjkqGd1T4G5wGXIhZw_rKQevPj0a). After registering, you will receive a confirmation email containing information about joining the meeting.
