@@ -11,11 +11,11 @@ date: "2020-09-01"
 
 [1] 目前OCC有在其中的微信群包括
 
-PDX 华人社区公益一群
-PDX 华人社区公益二群
-Bethany 居委会 -- 万能的群
-Forest Heights Community
-大波特兰地区侨友会
-华盛顿西南生活资讯群
-直通波特兰---华人互动 2群
-LOCC居民群
+PDX 华人社区公益一群  
+PDX 华人社区公益二群  
+Bethany 居委会 -- 万能的群  
+Forest Heights Community  
+大波特兰地区侨友会  
+华盛顿西南生活资讯群  
+直通波特兰---华人互动 2群  
+LOCC居民群  
