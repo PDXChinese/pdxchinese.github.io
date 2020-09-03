@@ -25,13 +25,13 @@ feature_row1:
 
 > 穆鲁玛郡(Multnomah County)居民房屋租金补助计划 ([接受问卷](https://www.portland.gov/sites/default/files/2020-08/cvrrp-intake-form_city-expanded-partners-and-wsi_pdf-fillable.pdf))
 
-> 穆鲁玛郡(Multnomah County)居民一次性现金补助计划
+> 波特兰市(City of Portland)居民一次性现金补助计划
 
 ## 服务期限
 
 > 隔离期间全方位支持： 2020年7月1日 - 2020年12月31日
 
-> 穆鲁玛郡(Multnomah County)居民补助计划: 2020年9月1日 - 2020年12月31日
+> 居民补助计划: 2020年9月1日 - 2020年12月31日
 
 ## 联系我们
 
