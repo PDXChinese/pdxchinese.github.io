@@ -3,6 +3,7 @@ title: ""
 permalink: /coronavirus/
 feature_row1:
   - image_path: /assets/images/activities/oha.jpg
+  - image_path: /assets/images/activities/cityofportland.png
 ---
 
 ![]({{ site.url }}/assets/images/activities/COVIDTips.jpg)
@@ -14,17 +15,23 @@ feature_row1:
 ## 热线电话
 
 > (503)686-5490 (普通话)  
-> (503)833-2128 (广东话)  
+> (971)330-0253 (广东话)  
 
 ## 服务内容
 
 > 利用各种形式向社区成员宣传疫情相关信息，包括本地疫情发展动向，州政府最新规定，冠状病毒和防疫知识。
 
-> 通过检测证实携带病毒，或因为接触而有可能被病毒感染，都需要自我隔离。在隔离期间我们会负责提供全方位的支持，包括协调吃住行，符合规定的费用(包括但不限于旅馆，食物，通讯，水电气等)会由州政府实报实销。在有需要的情况下，我们会帮助联系其他地方公共卫生和福利部门。
+> 通过检测证实携带病毒，或因为接触而有可能被病毒感染，都需要自我隔离。在隔离期间我们会负责提供全方位的支持，包括协调吃住行，符合规定的费用(包括但不限于旅馆，食物，通讯，水电气等)会实报实销。在有需要的情况下，我们会帮助联系其他地方公共卫生和福利部门。
+
+> 穆鲁玛郡(Multnomah County)居民房屋租金补助计划 ([接受问卷](https://www.portland.gov/sites/default/files/2020-08/cvrrp-intake-form_city-expanded-partners-and-wsi_pdf-fillable.pdf))
+
+> 穆鲁玛郡(Multnomah County)居民一次性现金补助计划
 
 ## 服务期限
 
-> 2020年7月1日 - 2020年12月31日
+> 隔离期间全方位支持： 2020年7月1日 - 2020年12月31日
+
+> 穆鲁玛郡(Multnomah County)居民补助计划: 2020年9月1日 - 2020年12月31日
 
 ## 联系我们
 
@@ -36,6 +43,6 @@ feature_row1:
 
 ## 鸣谢
 
-诚挚感谢联邦政府CARES Act提供的资金支持和俄勒冈州卫生局(OHA)选定华人联盟(OCC)服务华人社区
+诚挚感谢联邦政府CARES Act提供的资金支持，和俄勒冈州卫生局(OHA)及波特兰市政府选定华人联盟(OCC)服务华人社区
 
 {% include feature_row id="feature_row1"%}
