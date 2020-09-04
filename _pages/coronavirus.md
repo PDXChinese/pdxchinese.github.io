@@ -4,6 +4,7 @@ permalink: /coronavirus/
 feature_row1:
   - image_path: /assets/images/activities/oha1.jpg
   - image_path: /assets/images/activities/cityofportland.png
+  - image_path: /assets/images/activities/caresact.jpg
 ---
 
 ![]({{ site.url }}/assets/images/activities/COVIDTips.jpg)
