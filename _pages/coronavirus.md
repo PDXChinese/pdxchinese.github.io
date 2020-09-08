@@ -9,7 +9,7 @@ feature_row1:
 
 ![]({{ site.url }}/assets/images/activities/COVIDTips.jpg)
 
-州政府官方中文宣传材料  
+州政府官方中文宣传材料:  
 [如何保护自己和他人免受COVID-19感染](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served//LN2681.pdf)  
 [为您的家庭应对疫情做好准备](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ln3225.pdf)  
 
