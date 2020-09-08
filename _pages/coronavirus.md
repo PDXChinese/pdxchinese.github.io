@@ -9,6 +9,9 @@ feature_row1:
 
 ![]({{ site.url }}/assets/images/activities/COVIDTips.jpg)
 
+[如何保护自己和他人免受COVID-19感染](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served//LN2681.pdf)  
+[为您的家庭应对疫情做好准备](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ln3225.pdf)  
+
 # 华人联盟(OCC)主持的华人社区疫情应对计划
 
 在新冠病毒传播速度逐渐加快之际，各级政府决定动员社区组织（CBOs），希望通过社区的力量做到宣传与服务无死角。借助全社区公益活动积累下来的影响力，华人联盟(OCC)接连获得针对COVID-19的专项基金，为Metro三个县的华人提供服务，包括防疫宣传教育，对需要隔离低收入个人和家庭提供帮助，和帮助分发住房租金和现金卡。为此，OCC已经成立了社区疫情应对小组，并正在积极搭建框架，包括电话专线，专职人员的聘用等。所有信息将会在OCC网站上 ([http://OCCResponse.org/](http://occresponse.org/))持续公布更新。
