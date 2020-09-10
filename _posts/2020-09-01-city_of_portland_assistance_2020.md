@@ -17,5 +17,5 @@ Bethany 居委会 -- 万能的群
 Forest Heights Community  
 大波特兰地区侨友会  
 华盛顿西南生活资讯群  
-直通波特兰---华人互动 2群  
+SE 华人社区  
 LOCC居民群  
