@@ -32,6 +32,10 @@ feature_row1:
 
 OCC会继续为华人社区申请政府补贴计划，与此同时，如果我们的支持计划暂时无法帮助到您，您可以访问[211网站](https://covid19.211info.org/)，那上面有当地最新最全的补助计划。
 
+## 核酸检测
+
+乘坐飞机回中国大陆需要做核酸检测，因为在起飞前一定时间内得到的检测结果才被接受，我们联系了本地的 Molecular Vision Laboratory，他们可以满足您在这方面的要求。详情请见：[https://www.molecularvisionlab.com/covid19-testing/](https://www.molecularvisionlab.com/covid19-testing/)。
+
 ## 联系我们
 
 如果您希望进一步了解这个项目，或者是提出建议，欢迎联系我们，除了拨打热线电话之外，也可以联系 (503)709-3119。我们保证您的所有信息都会得到保护，您的隐私权会得到充分的尊重。
