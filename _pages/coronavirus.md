@@ -34,7 +34,7 @@ OCC会继续为华人社区申请政府补贴计划，与此同时，如果我�
 
 ## 核酸检测
 
-乘坐飞机回中国大陆需要做核酸检测，因为在起飞前一定时间内得到的检测结果才被接受，我们联系了本地的 [Molecular Vision Laboratory]((https://www.molecularvisionlab.com/covid19-testing/)，他们可以满足您在这方面的要求。我们为大家整理好了[预约程序](http://pdxchinese.org/assets/pdf/mvisionlab.pdf)。
+乘坐飞机回中国大陆需要做核酸检测，因为在起飞前一定时间内得到的检测结果才被接受，我们联系了本地的 [Molecular Vision Laboratory](https://www.molecularvisionlab.com/covid19-testing/)，他们可以满足您在这方面的要求。我们为大家整理好了更加简单易懂的[预约程序](http://pdxchinese.org/assets/pdf/mvisionlab.pdf)。
 
 ## 联系我们
 
