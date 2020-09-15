@@ -28,7 +28,7 @@ feature_row1:
 
 > 穆鲁玛郡(Multnomah County)居民1-3个月房屋租金补助计划 (9/1/2020 - 12/31/2020)，现在OCC开始接受预申请: [中文版本](https://docs.google.com/forms/d/e/1FAIpQLSe5WHMfQ4_tijMdnE0bTaGSInvCGc44cCO2nL1wPoBvhULSLQ/viewform?usp=sf_link), [English Version](https://docs.google.com/forms/d/e/1FAIpQLSccr3Mxmuce_pYT1JFJRUldTuhyiun6LlZ1aPAtS05_DGLELw/viewform?usp=sf_link)。
 
-> 波特兰市(City of Portland)居民$500一次性现金补贴计划 (9/1/2020 - 12/31/2020)，OCC[预申请](https://docs.google.com/forms/d/e/1FAIpQLSe5lfro8MBMNG2bJqLfOHhW3UXCLpVMiksLucla9uruv_nC9A/viewform?usp=sf_link)因为申请人数超过了名额，暂时停止接收。
+> 波特兰市(City of Portland)居民$500一次性现金补贴计划 (9/1/2020 - 12/31/2020)，OCC预申请因为申请人数超过了名额，暂时停止接收。
 
 OCC会继续为华人社区申请政府补贴计划，与此同时，如果我们的支持计划暂时无法帮助到您，您可以访问[211网站](https://covid19.211info.org/)，那上面有当地最新最全的补助计划。
 
