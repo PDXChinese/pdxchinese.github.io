@@ -12,6 +12,7 @@ feature_row1:
 州政府官方中文宣传材料:  
 [如何保护自己和他人免受COVID-19感染](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served//LN2681.pdf)  
 [为您的家庭应对疫情做好准备](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ln3225.pdf)  
+[关于野火烟雾和公共卫生的常见问题](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ln8626.pdf)  
 
 # 华人联盟(OCC)主持的华人社区疫情应对计划
 
