@@ -25,11 +25,13 @@ feature_row1:
 
 ## 服务内容
 
-> 病毒检测结果为阳性，或因为近距离接触检测结果为阳性的社区成员，都需要自我隔离14天。在隔离期间我们会负责提供全方位的支持，包括协调吃住行，几乎全部费用(包括但不限于旅馆，食物，通讯，水电气，托儿费等)都会由州政府支付。 (7/1/2020 - 12/31/2020)
+> 病毒检测结果为阳性，或因为近距离接触检测结果为阳性的社区成员，都需要自我隔离14天。在隔离期间我们会负责提供全方位的支持，包括协调吃住行，几乎全部费用(包括但不限于旅馆，食物，通讯，水电气，托儿费等)都会由州政府支付。 (7/1/2020 - 12/30/2020)
 
-> 穆鲁玛郡(Multnomah County)居民1-3个月房屋租金补助计划 (9/1/2020 - 12/31/2020)，现在OCC开始接受预申请: [中文版本](https://docs.google.com/forms/d/e/1FAIpQLSe5WHMfQ4_tijMdnE0bTaGSInvCGc44cCO2nL1wPoBvhULSLQ/viewform?usp=sf_link), [English Version](https://docs.google.com/forms/d/e/1FAIpQLSccr3Mxmuce_pYT1JFJRUldTuhyiun6LlZ1aPAtS05_DGLELw/viewform?usp=sf_link)。
+> 穆鲁玛郡(Multnomah County)居民1-3个月房屋租金补助计划 (9/1/2020 - 12/30/2020)，现在OCC开始接受预申请: [中文版本](https://docs.google.com/forms/d/e/1FAIpQLSe5WHMfQ4_tijMdnE0bTaGSInvCGc44cCO2nL1wPoBvhULSLQ/viewform?usp=sf_link), [English Version](https://docs.google.com/forms/d/e/1FAIpQLSccr3Mxmuce_pYT1JFJRUldTuhyiun6LlZ1aPAtS05_DGLELw/viewform?usp=sf_link)。
 
-> 波特兰市(City of Portland)居民$500一次性现金补贴计划 (9/1/2020 - 12/31/2020)，OCC预申请因为申请人数超过了名额，暂时停止接收。
+> 波特兰市(City of Portland)居民$500一次性现金补贴计划 (9/1/2020 - 12/30/2020)，OCC预申请因为申请人数超过了名额，暂时停止接收。
+
+> 健康公平(Health Equity)拨款 (3/1/2020 - 12/30/2020), 拨款用途比较宽泛，方便帮助到我们社区的家庭和个人甚至机构。有任何需求和建议请寄送至info@pdxchinese.org。
 
 OCC会继续为华人社区申请政府补贴计划，与此同时，如果我们的支持计划暂时无法帮助到您，您可以访问[211网站](https://covid19.211info.org/)，那上面有当地最新最全的补助计划。
 
