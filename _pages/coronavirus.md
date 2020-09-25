@@ -35,6 +35,10 @@ feature_row1:
 
 OCC会继续为华人社区申请政府补贴计划，与此同时，如果我们的支持计划暂时无法帮助到您，您可以访问[211网站](https://covid19.211info.org/)，那上面有当地最新最全的补助计划。
 
+## 现场活动
+
+我们会连续三天（9/25-9/27）参加在Oldtown/Chinatown举办的[My People's Market](https://www.mypeoplesmarket.com/)，如果您需要咨询上述服务内容，欢迎来现场与我们详细交谈。
+
 ## 核酸检测
 
 乘坐飞机回中国大陆需要做核酸检测，因为在起飞前一定时间内得到的检测结果才被接受([常见问题解答](https://mp.weixin.qq.com/s/KxMzeGApwlbRlvxA0DLMSA))，我们联系了本地的 [Molecular Vision Laboratory](https://www.molecularvisionlab.com/covid19-testing/)，他们可以满足您在这方面的要求。我们为大家整理好了更加简单易懂的[预约及检测程序](http://pdxchinese.org/assets/pdf/mvisionlab1.pdf)。
