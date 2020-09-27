@@ -1,10 +1,30 @@
 ---
-title: "填写人口普查即可获得$10奖励"
+title: "Response Team参加My People's Market"
 author: XiBei Zhao
-excerpt: "配合同源会(CACA)在动员社区成员积极填写人口普查问卷，联邦政府突然决定提前一个月结束此次人口普查，还剩最后7天时间。从现在开始，您填写完后把confirmation page，连同您的PayPal信息寄到: outreach@pdxchinese.org，即会赠送您$10，以感谢您的支持。此次活动总额$500，发完为止。仅限于PayPal付款。"
-date: "2020-09-23"
+excerpt: "上个周日在中国城悬挂灯笼的谜底可以揭开了，组织方是Prosper Portland和Travel Portland，为了给这个连续三天的活动增加喜庆气氛，他们请求我们能提前悬挂灯笼。我们借此机会，联合CCBA共同说服市府让我们可以常年悬挂，此项建议得到了各方的支持。毋庸置疑，能被大家的接受和认可，肯定是因为过去三年我们悬挂灯笼活动取得了很好的效果，所以，要感谢所有社区成员的捐款支持，众多义工的奉献精神和背后的英雄们，当然不会忘记早期参与蚂蚁搬家的每一位。"
+date: "2020-09-26"
 ---
 
-配合同源会(CACA)在动员社区成员积极填写人口普查问卷，联邦政府突然决定提前一个月结束此次人口普查，还剩最后7天时间。从现在开始，您填写完后把confirmation page，连同您的PayPal信息寄到: outreach@pdxchinese.org，即会赠送您$10，以感谢您的支持。此次活动总额$500，发完为止。仅限于PayPal付款。 问卷链接： [https://2020census.gov/](https://2020census.gov/)，填写时间不会超过10分钟。
+上个周日在中国城悬挂灯笼的谜底可以揭开了，组织方是Prosper Portland和Travel Portland，为了给这个连续三天的活动增加喜庆气氛，他们请求我们能提前悬挂灯笼。我们借此机会，联合CCBA共同说服市府让我们可以常年悬挂，此项建议得到了各方的支持。毋庸置疑，能被大家的接受和认可，肯定是因为过去三年我们悬挂灯笼活动取得了很好的效果，所以，要感谢所有社区成员的捐款支持，众多义工的奉献精神和背后的英雄们，包括项小柔在淘宝网上找货源并和与厂家的沟通细节，陈总提供后期免费运输，当然不会忘记早期参与蚂蚁搬家的每一位。大家可以浏览过去活动的照片，都是难忘的回忆： [http://pdxchinese.org/lanternfestival/](http://pdxchinese.org/lanternfestival/)。
 
-![]({{ site.url }}/assets/images/activities/caca_2020_census.jpg)
+作为回报，组织方很慷慨让我们在market设立摊位，宣传我们的COVID-19项目，顺便为筹款也会卖一些旧的灯笼和很具文化特色的小礼物。有希望和我们面谈的社区成员，欢迎来中国城。进入Market免费，但需要事先“购票”，是为了更好的控制人数。购票链接： [https://www.eventbrite.com/e/my-peoples-market-6-tickets-118358329951](https://www.eventbrite.com/e/my-peoples-market-6-tickets-118358329951)
+
+![]({{ site.url }}/assets/images/4f402c1eb82284b5062c0ab2b5e67ff5.jpg)
+
+![]({{ site.url }}/assets/images/93a8e5e2172b4f782edb7f2489366e85.jpg)
+
+![]({{ site.url }}/assets/images/f9e6e8d2291b37399c7297d7157e85bd.jpg)
+
+![]({{ site.url }}/assets/images/a740c4079a6aecb2fd17561209b8bf9a.jpg)
+
+![]({{ site.url }}/assets/images/119b8b215ea522bd2007ac2d2720845f.jpg)
+
+![]({{ site.url }}/assets/images/29ec7f7c1f08ea87c46760077752b48d.jpg)
+
+![]({{ site.url }}/assets/images/913ac4eb47f14be95d9ce5e50c0c55a7.jpg)
+
+![]({{ site.url }}/assets/images/2bdfba0d8d530f955aacc2dcdd12a4f0.jpg)
+
+![]({{ site.url }}/assets/images/1ff50fd52ddbfc17b77e7f7ef8ab9410.jpg)
+
+![]({{ site.url }}/assets/images/58b404da44d474d7992a02160dabfcd5.temp.jpg)
