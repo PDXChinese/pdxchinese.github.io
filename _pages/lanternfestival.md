@@ -25,7 +25,7 @@ Hanging Red Lanterns in Chinatown ([01.20.2019](http://pdxchinese.org/chinatown/
 
 Hanging Red Lanterns in Chinatown ([01.08.2020](http://pdxchinese.org/chinatown/newyear/2020-01-09-chinatown_lantern_festival_2020a/))  
 Hanging Red Lanterns in Chinatown ([02.12.2020](http://pdxchinese.org/chinatown/newyear/2020-01-12-chinatown_lantern_festival_2020b/))  
-Removing Red Lanterns in Chinatown ([02.17.2020](http://pdxchinese.org/chinatown/newyear/lanterns_street_sweeping_photos/))  
+Removing Red Lanterns in Chinatown ([02.17.2020](http://pdxchinese.org/chinatown/newyear/2020-02-17-lanterns_street_sweeping_photos/))  
 Hanging Red Lanterns in Chinatown ([09.20.2020](http://pdxchinese.org/chinatown/newyear/2020-09-20-chinatown_lantern_2020/))  
 
 ![]({{ site.url }}/assets/images/divider.jpg)
