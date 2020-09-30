@@ -10,7 +10,7 @@ feature_row:
 # Portland Chinatown Lantern Festival  
 [http://chinatownlanterns.org](http://chinatownlanterns.org)  
 
-![]({{ site.url }}/assets/images/activities/lanternposter.jpg)
+![]({{ site.url }}/assets/images/activities/lanternfest_2020.jpg)
 
 ### 2018
 
