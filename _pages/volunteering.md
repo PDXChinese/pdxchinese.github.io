@@ -23,7 +23,7 @@ What counts as volunteer hours? We recommend a few online articles ([No.1](https
 
 Hours are measured over a 12-month period (Oct 27 through Oct 26) and awards are designated based on cumulative hours. The awards are offered in multiple levels and are designed to recognize each milestone of your service achievement. Levels include bronze, silver, gold and the highest honor, the President’s Lifetime Achievement Award for those who contribute more than 4,000 hours of service in their lifetime.
 
-Once the documentation is received (not postmarked) by announced deadline, OCC will verify all records and confirm that the candidate has completed the number of service hours in good standing as required to earn a President’s Volunteer Service Award.
+Once the documentation is received via email ([volunteer@pdxchinese.org](mailto:volunteer@pdxchinese.org)) by announced deadline, OCC will verify all records and confirm that the candidate has completed the number of service hours in good standing as required to earn a President’s Volunteer Service Award.
 
 ![]({{ site.url }}/assets/images/communities/pvsa_award.jpg)
 
