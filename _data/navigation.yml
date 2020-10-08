@@ -22,9 +22,9 @@ main:
 extra:
   - title: Programs
     children:
-      - title: "PVSA Honorees"
+      - title: "<b>PVSA Honorees</b>"
         url: /pvsa/
-      - title: "Volunteering"
+      - title: "<b>Volunteering</b>"
         url: /volunteering/
       - title: "Winter Drive"
         url: /winterdrive/
@@ -60,5 +60,5 @@ extra:
         url: /chinesefestival/
       - title: "Chinese New Year"
         url: /lunarnewyear/
-      - title: "<b>Lantern Festival</b>"
+      - title: "Lantern Festival"
         url: /lanternfestival/
