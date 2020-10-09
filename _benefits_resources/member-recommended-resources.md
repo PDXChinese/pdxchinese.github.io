@@ -14,6 +14,10 @@ Disclaimer: The views and opinions expressed in the articles and on the websites
 
 [https://www.cancer.org/treatment/finding-and-paying-for-treatment/choosing-your-treatment-team.html](https://www.cancer.org/treatment/finding-and-paying-for-treatment/choosing-your-treatment-team.html)
 
+### 有色人种皮肤癌的防护
+
+[https://thedermreview.com/skin-cancer-awareness-prevention-for-people-of-color/](https://thedermreview.com/skin-cancer-awareness-prevention-for-people-of-color/)
+
 # 商务
 
 “最近看听了很多Deloitte 的Webcast，可以免费拿到CPE for CPA license maintenance requirement，但更重要的是紧跟时代，了解当下的各种商业和科技的趋势。对于不上班的朋友们，我非常推荐这个难得的免费的资料库。所有以前的Webcast 都可以随时打开再听再看，只是拿不到CPE Credit。
