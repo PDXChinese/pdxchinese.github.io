@@ -31,7 +31,7 @@ feature_row1:
 
 > 波特兰市(City of Portland)居民$500一次性现金补贴计划 (9/1/2020 - 12/30/2020)，OCC预申请因为申请人数超过了名额，暂时停止接收。
 
-> 健康公平(Health Equity)拨款 (3/1/2020 - 12/30/2020), 拨款用途比较宽泛，方便帮助到我们社区的家庭和个人甚至机构。有任何需求和建议请寄送至[info@pdxchinese.org](mailto:info@pdxchinese.org)。
+> 健康公平(Health Equity)拨款 (3/1/2020 - 12/30/2020), 拨款用途比较宽泛，方便帮助到我们社区的家庭和个人甚至机构。现在开始接受申请：[中文版本申请表](https://docs.google.com/forms/d/e/1FAIpQLSfIuhaY3yFAW1zkrO-XFvqFddinVGnfzwvu9pFN1eROkjb5Mw/viewform?usp=sf_link)。
 
 OCC会继续为华人社区申请政府补贴计划，与此同时，如果我们的支持计划暂时无法帮助到您，您可以访问[211网站](https://covid19.211info.org/)，那上面有当地最新最全的补助计划。
 
