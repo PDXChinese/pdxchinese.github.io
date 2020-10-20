@@ -33,7 +33,7 @@ feature_row1:
 
 > 卫生健康公平(Health Equity)拨款 (3/1/2020 - 12/30/2020), 拨款用途比较宽泛，方便帮助到我们社区的家庭和个人甚至机构。现在OCC开始接受申请：[中文版本申请表](https://docs.google.com/forms/d/e/1FAIpQLSfIuhaY3yFAW1zkrO-XFvqFddinVGnfzwvu9pFN1eROkjb5Mw/viewform?usp=sf_link)。
 
-> 精神心理健康救助计划(Mental Health & Behavior Health Fund)将用于帮助社区成员因为受疫情影响而引起的精神心理健康问题，我们会展开多方面活动，请大家及时关注。招聘人员表格(专业人员每星期讲座，青少年互助计划，家长互助计划，网站开发项目，受影响家庭救助金申请)会在近日完成并会将链接放在这里。
+> 精神心理健康救助计划(Mental Health & Behavior Health Fund)将用于帮助社区成员因为受疫情影响而引起的精神心理健康问题，我们会展开多方面活动，包括专业人员每星期讲座，青少年互助计划，家长互助计划，网站开发项目，受影响家庭救助计划等。招聘人员表格会在近日完成并会将链接放在这里。
 
 OCC会继续为华人社区申请政府补贴计划，与此同时，如果我们的支持计划暂时无法帮助到您，您可以访问[211网站](https://covid19.211info.org/)，那上面有当地最新最全的补助计划。
 
