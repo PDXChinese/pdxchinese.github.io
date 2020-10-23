@@ -20,7 +20,7 @@ date: "2020-10-21"
 
 ![]({{ site.url }}/assets/images/P1550452.jpg)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201021102152.jpg)
+![]({{ site.url }}/assets/images/WeChat Image_20201021102152a.jpg)
 
 ![]({{ site.url }}/assets/images/WeChat Image_20201022120136.jpg)
 
