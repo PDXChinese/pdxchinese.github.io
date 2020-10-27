@@ -24,8 +24,6 @@ date: "2020-10-25"
 
 ![]({{ site.url }}/assets/images/WeChat Image_20201025223121a.jpg)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201022120136.jpg)
-
 ![]({{ site.url }}/assets/images/WeChat Image_20201025223801a.jpg)
 
 ![]({{ site.url }}/assets/images/WeChat Image_20201025223846.jpg)
