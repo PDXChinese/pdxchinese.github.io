@@ -53,7 +53,7 @@ Common Psychological Problems and Preventive Measures for Chinese Children
 
 Maggie got two Master’s degrees in Educational Psychology and Counseling respectively. Right now she is a Licensed Professional Counselor practicing in Pennsylvania. She has more than 10 years experience of providing counseling services to people from different ethnic backgrounds, both face to face and remotely. In 2018, Maggie founded her online private practice Talking to Maggie, LLC, focusing on improving mental health for the Asian/Chinese population through counseling and coaching. She helps Asian/Chinese people with issues in parenting, couple’s relationship, acculturation, and emotional regulation, etc. She’s been married for 18 years and is the mother of a 13-year-old boy and 8-year-old girl.
 
-Maggie will talk about 1. internet addiction, 2. why do children hurt themselves, 3. what lessons can adults learn from children who commit suicide.
+Maggie's topics will include 1. internet addiction, 2. why do children hurt themselves, 3. what lessons can adults learn from children who commit suicide.
 
 [Click here to register](https://us02web.zoom.us/meeting/register/tZcldOysqj8qE9fJGnwwM3s7M4J2wsSHkfHT). After registering, you will receive a confirmation email containing information about joining the meeting.
 

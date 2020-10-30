@@ -7,15 +7,13 @@ Youth mental and behavioral health in Chinese American community is more serious
 
 ### For Peer Advisors
 
-[OCC Peer Advisor Application](https://docs.google.com/forms/d/e/1FAIpQLSfKewGqu-TrfPFfXdYIskGurJAz92ayYWHML2Wj4VKN3xqOIA/viewform?usp=sf_link)
-
-[Reimbursement by Peer Advisors](http://)
+[OCC Peer Advisor Application](https://docs.google.com/forms/d/e/1FAIpQLSfKewGqu-TrfPFfXdYIskGurJAz92ayYWHML2Wj4VKN3xqOIA/viewform?usp=sf_link) (Accepting new applications)  
+Reimbursement Form  
 
 ### For the Youth Looking for Peer Advisors
 
-[Updated List of OCC Peer Advisors with Time Available](https://)
-
-[Feedback on Peer Advisors](mailto:info@pdxchinese.org?subject=Feedback on Peer Advisors)
+Updated List of OCC Peer Advisors  
+[Feedback on Peer Advisors](mailto:info@pdxchinese.org?subject=Feedback on Peer Advisors)  
 
 
 If you have any questions, please contact us at [info@pdxchinese.org](mailto:info@pdxchinese.org)。
