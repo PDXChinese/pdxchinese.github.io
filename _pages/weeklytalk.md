@@ -47,11 +47,15 @@ Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and th
 
 ### 10.31.2020
 
-How to Survive in Pandemic, Mentally and Psychologically?
+Common Psychological Problems and Preventive Measures for Chinese Children
 
 {% include feature_row id="feature_row16"%}
 
 Maggie got two Master’s degrees in Educational Psychology and Counseling respectively. Right now she is a Licensed Professional Counselor practicing in Pennsylvania. She has more than 10 years experience of providing counseling services to people from different ethnic backgrounds, both face to face and remotely. In 2018, Maggie founded her online private practice Talking to Maggie, LLC, focusing on improving mental health for the Asian/Chinese population through counseling and coaching. She helps Asian/Chinese people with issues in parenting, couple’s relationship, acculturation, and emotional regulation, etc. She’s been married for 18 years and is the mother of a 13-year-old boy and 8-year-old girl.
+
+Maggie will talk about 1. internet addiction, 2. why do children hurt themselves, 3. what lessons can adults learn from children who commit suicide.
+
+[Click here to register](https://us02web.zoom.us/meeting/register/tZcldOysqj8qE9fJGnwwM3s7M4J2wsSHkfHT). After registering, you will receive a confirmation email containing information about joining the meeting.
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
@@ -64,8 +68,6 @@ Why I want to Run for Public Office
 'Justin Hwang, who is running as a Republican, was born in South Korea and earned his U.S. citizenship in 2006 where he was 18 years old. He graduated with a degree in culinary arts and hospitality management from the Art Institute and Le Cordon Bleu, respectively. He opened his first restaurant, Joy Teriyaki, in 2006 and eventually expanded with another business, called Joy Poké. Today he owns 27 restaurants and manages every one, on his own.' (cited from [advocate-online.net](http://www.advocate-online.net/qa-race-for-oregon-senate-district-25/))
 
 He is hoping to contribute to more diversity in the legislature with his background as a Korean-American and as a young candidate. With this ambitious goal in mind, Justin will share with us more on why and how he made this decision.
-
-[Click here to register](https://us02web.zoom.us/meeting/register/tZ0qdemgrjkqGd1T4G5wGXIhZw_rKQevPj0a). After registering, you will receive a confirmation email containing information about joining the meeting.
 
 ### 08.15.2020 3pm
 
