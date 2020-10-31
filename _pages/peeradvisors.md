@@ -10,6 +10,10 @@ The **purpose** of the Peer Advisory Program is to work towards de-stigmatizing 
 [OCC Peer Advisor Application](https://docs.google.com/forms/d/e/1FAIpQLSfKewGqu-TrfPFfXdYIskGurJAz92ayYWHML2Wj4VKN3xqOIA/viewform?usp=sf_link) (Accepting new applications)  
 Reimbursement Form  
 
+**Readings:**
+
+[Advocating and Planning for a Behavioral Health Peer Support Program](http://peersforprogress.org/wp-content/uploads/2014/03/20140313_advocating_and_planning_for_a_behavioral_health_peer_support_program.pdf)
+
 ### For the Youth Looking for Peer Advisors
 
 Updated List of OCC Peer Advisors (to be avail soon)  
