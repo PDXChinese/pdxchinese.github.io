@@ -30,8 +30,6 @@ extra:
         url: /winterdrive/
       - title: "---"
         url:
-      - title: "<b>Peer Advisors</b>"
-        url: /peeradvisors/
       - title: "<b>Youth Ambassadors</b>"
         url: /youthambassadors/
       - title: "Youth Camps"
@@ -52,6 +50,8 @@ extra:
         url: /fair/
       - title: "Entrepreneurs Forum"
         url: /startup/
+      - title: "<b>Mental Health</b>"
+        url: /mentalhealth/
       - title: "<b>Weekly Talk</b>"
         url: /weeklytalk/
       - title: "---"

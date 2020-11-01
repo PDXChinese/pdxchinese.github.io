@@ -1,23 +1,37 @@
 ---
-title: "OCC Peer Advisory Program"
-permalink: /peeradvisors/
+title: "OCC Mental Health Advocacy Program"
+permalink: /mentalhealth/
 ---
 
-The **purpose** of the Peer Advisory Program is to work towards de-stigmatizing mental health and giving Chinese American youth a safe and confidential opportunity to seek support from Peer Advisors. It is important to note that our Peer Advisors are nonclinical, so they are not able to fill the gap of mental health professionals and treatment. However, they are available to provide encouragement and resources to help peers create goals and navigate stressful situations and experiences, and they are also available to simply provide an empathetic ear. Peer-supported mental health care has been shown to improve mental and physical health among youth, and the OHA grant makes this important effort possible.
+The **purpose** of the Mental Health Advocacy Program is to work towards de-stigmatizing mental health and giving Chinese American youth a safe and confidential opportunity to seek support from peers or experts. It is important to note that our advocates are nonclinical, so they are not able to fill the gap of mental health professionals and treatment. However, they are available to provide encouragement and resources to help peers create goals and navigate stressful situations and experiences, and they are also available to simply provide an empathetic ear. Peer-supported mental health care has been shown to improve mental and physical health among youth, and the OHA grant makes this important effort possible.
 
-### For Peer Advisors
+### For Peer/Parents/Expert Advisors
 
-[OCC Peer Advisor Application](https://docs.google.com/forms/d/e/1FAIpQLSfKewGqu-TrfPFfXdYIskGurJAz92ayYWHML2Wj4VKN3xqOIA/viewform?usp=sf_link) (Accepting new applications)  
-Reimbursement Form  
+[OCC Advisor Application](https://docs.google.com/forms/d/e/1FAIpQLSfKewGqu-TrfPFfXdYIskGurJAz92ayYWHML2Wj4VKN3xqOIA/viewform?usp=sf_link) (Accepting new applications)  
+[Reimbursement Form](![]({{ site.url }}/assets/images/activities/reimbursement_form_advocacy.pdf))  
 
-**Readings:**
+### For the Youth and Parents Looking for Advisors
+
+**Peer Advisors**
+
+to be available soon
+
+**Parent Advisors**
+
+to be available soon
+
+**Expert Advisors**
+
+to be available soon 
+
+[Feedback on Advisors](mailto:info@pdxchinese.org?subject=Feedback on Peer Advisors)  
+
+### Useful Information
+
+[How to Get Help in Portland, Oregon](https://www.mentalhealthportland.org/need-help/)
 
 [Advocating and Planning for a Behavioral Health Peer Support Program](http://peersforprogress.org/wp-content/uploads/2014/03/20140313_advocating_and_planning_for_a_behavioral_health_peer_support_program.pdf)
 
-### For the Youth Looking for Peer Advisors
-
-Updated List of OCC Peer Advisors (to be avail soon)  
-[Feedback on Peer Advisors](mailto:info@pdxchinese.org?subject=Feedback on Peer Advisors)  
 
 ### More Background
 
