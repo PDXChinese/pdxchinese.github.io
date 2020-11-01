@@ -8,7 +8,7 @@ The **purpose** of the Mental Health Advocacy Program is to work towards de-stig
 ### For Peer/Parents/Expert Advisors
 
 [OCC Advisor Application](https://docs.google.com/forms/d/e/1FAIpQLSfKewGqu-TrfPFfXdYIskGurJAz92ayYWHML2Wj4VKN3xqOIA/viewform?usp=sf_link) (Accepting new applications)  
-[Reimbursement Form](![]({{ site.url }}/assets/images/activities/reimbursement_form_advocacy.pdf))  
+[Reimbursement Form](![]({{ site.url }}/assets/pdf/reimbursement_form_advocacy.pdf))  
 
 ### For the Youth and Parents Looking for Advisors
 
