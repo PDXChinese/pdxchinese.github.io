@@ -24,7 +24,7 @@ Expert Advisors
 ### More Programs from OCC under COVID-19 Grants
 
 [Weekly Talk on Mental Health](http://pdxchinese.org/weeklytalk/)  
-[Request for Paid Visits (up to 5 visits before 12/30/2020) to Mental Health Providers](mailto:info@pdxchinese.org?subject=Request for Visits)  
+[Request for Paid Visits (before 12/30/2020) to Mental Health Providers](mailto:info@pdxchinese.org?subject=Request for Visits)  
 [Assistance Programs](http://OCCResponse.org)  
 
 ### Useful Information
