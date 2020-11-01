@@ -29,9 +29,8 @@ Expert Advisors
 
 ### Useful Information
 
-[How to Get Help in Portland, Oregon](https://www.mentalhealthportland.org/need-help/)
-
-[Advocating and Planning for a Behavioral Health Peer Support Program](http://peersforprogress.org/wp-content/uploads/2014/03/20140313_advocating_and_planning_for_a_behavioral_health_peer_support_program.pdf)
+[How to Get Help in Portland, Oregon](https://www.mentalhealthportland.org/need-help/)  
+[Advocating and Planning for a Behavioral Health Peer Support Program](http://peersforprogress.org/wp-content/uploads/2014/03/20140313_advocating_and_planning_for_a_behavioral_health_peer_support_program.pdf)  
 
 
 ### More Background
