@@ -12,19 +12,20 @@ The **purpose** of the Mental Health Advocacy Program is to work towards de-stig
 
 ### For the Youth and Parents Looking for Advisors
 
-**Peer Advisors**
-
-to be available soon
-
-**Parent Advisors**
-
-to be available soon
-
-**Expert Advisors**
-
-to be available soon 
-
+[Request Form]()  
 [Feedback on Advisors](mailto:info@pdxchinese.org?subject=Feedback on Peer Advisors)  
+
+Peer Advisors
+
+Parent Advisors
+
+Expert Advisors
+
+### More Programs from OCC under COVID-19 Grants
+
+[Weekly Talk on Mental Health](http://pdxchinese.org/weeklytalk/)  
+[Request for Paid Visits (up to 5 visits before 12/30/2020) to Mental Health Providers](mailto:info@pdxchinese.org?subject=Request for Visits)
+[Assistance Programs](http://OCCResponse.org)
 
 ### Useful Information
 
