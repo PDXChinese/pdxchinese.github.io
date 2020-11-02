@@ -25,8 +25,13 @@ Expert Advisors
 ### More Programs from OCC under COVID-19 Grants
 
 [Weekly Talk on Mental Health](http://pdxchinese.org/weeklytalk/)  
+We will host weekly talks on mental health by inviting professionals in the field till end of 2020.  
+
 [Request for Paid Visits (before 12/30/2020) to Mental Health Providers](mailto:info@pdxchinese.org?subject=Request for Visits)  
+For office visits only and possible outpatient treatments depending on cost. You are encouraged to get the cost estimate first and contact us for securing the funding. However, contacting us is not required.  
+
 [Assistance Programs](http://OCCResponse.org)  
+Some funding is available specifically for the families suffered from mental health issues. Other funding is also available to the families who feel the impact from COVID-19.  
 
 ### Useful Information
 
