@@ -8,11 +8,12 @@ The **purpose** of the Mental Health Advocacy Program is to work towards de-stig
 ### For Peer/Parents/Expert Advisors
 
 [OCC Advisor Application](https://docs.google.com/forms/d/e/1FAIpQLSfKewGqu-TrfPFfXdYIskGurJAz92ayYWHML2Wj4VKN3xqOIA/viewform?usp=sf_link) (Accepting new applications)  
-[Reimbursement Form](/assets/pdf/reimbursement_form_advocacy.pdf)  
+[Reimbursement Form](/assets/pdf/reimbursement_form_advocacy fillable.pdf)  
+[W-9 Form](https://www.irs.gov/pub/irs-pdf/fw9.pdf)  
 
 ### For the Youth and Parents Looking for Advisors
 
-[Request Form]()  
+[Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeaGQKfpCcHl4o3WRhlV-EPVaH20t5mFhddQbEXhrwpTmmmvg/viewform?usp=sf_link)  
 [Feedback on Advisors](mailto:info@pdxchinese.org?subject=Feedback on Peer Advisors)  
 
 Peer Advisors
