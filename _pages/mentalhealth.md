@@ -36,6 +36,8 @@ Some funding is available specifically for the families suffered from mental ill
 ### Useful References
 
 [How to Get Help in Portland, Oregon](https://www.mentalhealthportland.org/need-help/)  
+National Alliance on Mental Illness (NAMI): [National](https://www.nami.org/Home), [Oregon](https://namior.org/), [Multnomah County](https://www.namimultnomah.org/), [Washington County](https://www.washconami.org/), [Clackamas County](https://www.namicc.org/)  
+[National Institute of Mental Health](https://www.nimh.nih.gov/index.shtml)  
 [Advocating and Planning for a Behavioral Health Peer Support Program](http://peersforprogress.org/wp-content/uploads/2014/03/20140313_advocating_and_planning_for_a_behavioral_health_peer_support_program.pdf)  
 
 
