@@ -3,17 +3,17 @@ title: "OCC Mental Health Advocacy Program"
 permalink: /mentalhealth/
 ---
 
-The **purpose** of the Mental Health Advocacy Program is to work towards de-stigmatizing mental health and giving Chinese American youth a safe and confidential opportunity to seek support from peers or experts. It is important to note that our advocates are nonclinical, so they are not able to fill the gap of mental health professionals and treatment. However, they are available to provide encouragement and resources to help peers create goals and navigate stressful situations and experiences, and they are also available to simply provide an empathetic ear. Peer-supported mental health care has been shown to improve mental and physical health among youth, and the OHA grant makes this important effort possible.
+OCC is so grateful to Oregon Health Authority (OHA) with a very generous grant to tackle mental and behavioral health crisis under pandemic in Chinese American community. We will use the grant to make a big push in the community to look into mental health issues and come out with solutions that can last beyond grant period. 
 
-### For Peer/Parents/Expert Advisors
+### Peer/Parents/Expert Advisors
+
+The purpose of advisory program is to work towards de-stigmatizing mental health and giving Chinese American youth a safe and confidential opportunity to seek support from peers or experts. It is important to note that our advisors are nonclinical, so they are not able to fill the gap of mental health professionals and treatment. However, they are available to provide encouragement and resources to help create goals and navigate stressful situations and experiences, and they are also available to simply provide an empathetic ear.
 
 [OCC Advisor Application](https://docs.google.com/forms/d/e/1FAIpQLSfKewGqu-TrfPFfXdYIskGurJAz92ayYWHML2Wj4VKN3xqOIA/viewform?usp=sf_link) (Accepting new applications)  
 [Reimbursement Form](/assets/pdf/reimbursement_form_advocacy_fillable.pdf)  
 [W-9 Form](https://www.irs.gov/pub/irs-pdf/fw9.pdf)  
 
-### For the Youth and Parents Looking for Advisors
-
-[Meeting Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeaGQKfpCcHl4o3WRhlV-EPVaH20t5mFhddQbEXhrwpTmmmvg/viewform?usp=sf_link)  
+[Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeaGQKfpCcHl4o3WRhlV-EPVaH20t5mFhddQbEXhrwpTmmmvg/viewform?usp=sf_link) for youth and parents looking for advisors   
 [Feedback on Advisors](mailto:info@pdxchinese.org?subject=Feedback on Peer Advisors)  
 
 Peer Advisors
@@ -27,13 +27,13 @@ Expert Advisors
 [Weekly Talk on Mental Health](http://pdxchinese.org/weeklytalk/)  
 We will host weekly talks on mental health by inviting professionals in the field till end of 2020.  
 
-[Request for Paid Visits (before 12/30/2020) to Mental Health Providers](mailto:info@pdxchinese.org?subject=Request for Visits)  
-For office visits only and possible outpatient treatments depending on cost. You are encouraged to get the cost estimate first and contact us for securing the funding. However, contacting us is not required.  
+[Request for Paid Visits (before 12/30/2020) to Licensed Mental Health Providers](mailto:info@pdxchinese.org?subject=Request for Visits)  
+For office/virtual visits only and possibly outpatient treatment. You are encouraged to get the fee estimate first and contact us for securing the funding. However, contacting us beforehand is not mandatory.  
 
 [Assistance Programs](http://OCCResponse.org)  
-Some funding is available specifically for the families suffered from mental health issues. Other funding is also available to the families who feel the impact from COVID-19.  
+Some funding is available specifically for the families suffered from mental illnesses.  
 
-### Useful Information
+### Useful References
 
 [How to Get Help in Portland, Oregon](https://www.mentalhealthportland.org/need-help/)  
 [Advocating and Planning for a Behavioral Health Peer Support Program](http://peersforprogress.org/wp-content/uploads/2014/03/20140313_advocating_and_planning_for_a_behavioral_health_peer_support_program.pdf)  
