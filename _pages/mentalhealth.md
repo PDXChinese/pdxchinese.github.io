@@ -5,16 +5,16 @@ permalink: /mentalhealth/
 
 OCC is so grateful to Oregon Health Authority (OHA) with a very generous grant to tackle mental and behavioral health crisis under pandemic in Chinese American community. We will use the grant to make a big push in the community to look into mental health issues and come out with solutions that can last beyond grant period.
 
-### Peer/Parents/Expert Advisors
+### Peer Advisors
 
-The purpose of advisory program is to work towards de-stigmatizing mental health and giving Chinese American youth a safe and confidential opportunity to seek support from peers or experts. It is important to note that our advisors are nonclinical, so they are not able to fill the gap of mental health professionals and treatment. However, they are available to provide encouragement and resources to help create goals and navigate stressful situations and experiences, and they are also available to simply provide an empathetic ear.
+The purpose of peer advisory program is to work towards de-stigmatizing mental health and giving Chinese American youth a safe and confidential opportunity to seek support from peers or experts. It is important to note that our advisors are nonclinical, so they are not able to fill the gap of mental health professionals and treatment. However, they are available to provide encouragement and resources to help create goals and navigate stressful situations and experiences, and they are also available to simply provide an empathetic ear. Peer-supported mental health care has been shown to improve mental and physical health among youth, and the OHA grant makes this important effort possible.s
 
 [OCC Advisor Application](https://docs.google.com/forms/d/e/1FAIpQLSfKewGqu-TrfPFfXdYIskGurJAz92ayYWHML2Wj4VKN3xqOIA/viewform?usp=sf_link) (Accepting new applications)  
 [Reimbursement Form](/assets/pdf/reimbursement_form_advocacy_fillable.pdf)  
 [W-9 Form](https://www.irs.gov/pub/irs-pdf/fw9.pdf)  
 
-[Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeaGQKfpCcHl4o3WRhlV-EPVaH20t5mFhddQbEXhrwpTmmmvg/viewform?usp=sf_link) for youth and parents looking for advisors   
-[Feedback on Advisors](mailto:health@pdxchinese.org?subject=Feedback on Peer Advisors)  
+[Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeaGQKfpCcHl4o3WRhlV-EPVaH20t5mFhddQbEXhrwpTmmmvg/viewform?usp=sf_link) for youth and parents looking for peer advisors   
+[Feedback on Advisors](mailto:health@pdxchinese.org?subject=[Feedback on Peer Advisors])  
 
 Peer Advisors
 
@@ -27,7 +27,7 @@ Expert Advisors
 [Weekly Talk on Mental Health](http://pdxchinese.org/weeklytalk/)  
 We will host weekly talks on mental health by inviting professionals in the field till end of 2020.  
 
-[Request for Paid Visits to Licensed Mental Health Providers](mailto:health@pdxchinese.org?subject=Request for Visits)  
+[Request for Paid Visits to Licensed Mental Health Providers](mailto:health@pdxchinese.org?subject=[Request for Visits])  
 For office/virtual visits only and possibly outpatient treatment. You are encouraged to get the fee estimate first and contact us for securing the funding. However, contacting us beforehand is not mandatory. Funding will be available for services dated before 12/31/2020.
 
 [Assistance Programs](http://OCCResponse.org)  
