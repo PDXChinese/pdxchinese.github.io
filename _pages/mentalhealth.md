@@ -3,7 +3,7 @@ title: "OCC Mental Health Advocacy Program"
 permalink: /mentalhealth/
 ---
 
-OCC is so grateful to Oregon Health Authority (OHA) with a very generous grant to tackle mental and behavioral health crisis under pandemic in Chinese American community. We will use the grant to make a big push in the community to look into mental health issues and come out with solutions that can last beyond grant period. 
+OCC is so grateful to Oregon Health Authority (OHA) with a very generous grant to tackle mental and behavioral health crisis under pandemic in Chinese American community. We will use the grant to make a big push in the community to look into mental health issues and come out with solutions that can last beyond grant period.
 
 ### Peer/Parents/Expert Advisors
 
@@ -27,8 +27,8 @@ Expert Advisors
 [Weekly Talk on Mental Health](http://pdxchinese.org/weeklytalk/)  
 We will host weekly talks on mental health by inviting professionals in the field till end of 2020.  
 
-[Request for Paid Visits (before 12/30/2020) to Licensed Mental Health Providers](mailto:info@pdxchinese.org?subject=Request for Visits)  
-For office/virtual visits only and possibly outpatient treatment. You are encouraged to get the fee estimate first and contact us for securing the funding. However, contacting us beforehand is not mandatory.  
+[Request for Paid Visits to Licensed Mental Health Providers](mailto:info@pdxchinese.org?subject=Request for Visits)  
+For office/virtual visits only and possibly outpatient treatment. You are encouraged to get the fee estimate first and contact us for securing the funding. However, contacting us beforehand is not mandatory. Funding will be available for services dated before 12/31/2020.
 
 [Assistance Programs](http://OCCResponse.org)  
 Some funding is available specifically for the families suffered from mental illnesses.  
