@@ -14,7 +14,7 @@ The purpose of advisory program is to work towards de-stigmatizing mental health
 [W-9 Form](https://www.irs.gov/pub/irs-pdf/fw9.pdf)  
 
 [Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeaGQKfpCcHl4o3WRhlV-EPVaH20t5mFhddQbEXhrwpTmmmvg/viewform?usp=sf_link) for youth and parents looking for advisors   
-[Feedback on Advisors](mailto:info@pdxchinese.org?subject=Feedback on Peer Advisors)  
+[Feedback on Advisors](mailto:health@pdxchinese.org?subject=Feedback on Peer Advisors)  
 
 Peer Advisors
 
@@ -27,7 +27,7 @@ Expert Advisors
 [Weekly Talk on Mental Health](http://pdxchinese.org/weeklytalk/)  
 We will host weekly talks on mental health by inviting professionals in the field till end of 2020.  
 
-[Request for Paid Visits to Licensed Mental Health Providers](mailto:info@pdxchinese.org?subject=Request for Visits)  
+[Request for Paid Visits to Licensed Mental Health Providers](mailto:health@pdxchinese.org?subject=Request for Visits)  
 For office/virtual visits only and possibly outpatient treatment. You are encouraged to get the fee estimate first and contact us for securing the funding. However, contacting us beforehand is not mandatory. Funding will be available for services dated before 12/31/2020.
 
 [Assistance Programs](http://OCCResponse.org)  
@@ -53,4 +53,4 @@ Mental health stigma continues to persist in Chinese culture, particularly among
 
 ### Contact Us
 
-If you have any questions, please contact us at [info@pdxchinese.org](mailto:info@pdxchinese.org)。
+If you have any questions, please contact us at [info@pdxchinese.org](mailto:health@pdxchinese.org)。
