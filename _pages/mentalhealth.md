@@ -7,16 +7,18 @@ OCC is so grateful to Oregon Health Authority (OHA) with a very generous grant t
 
 ### Peer Advisors
 
-The purpose of peer advisory program is to work towards de-stigmatizing mental health and giving Chinese American youth a safe and confidential opportunity to seek support from peers or experts. It is important to note that our advisors are nonclinical, so they are not able to fill the gap of mental health professionals and treatment. However, they are available to provide encouragement and resources to help create goals and navigate stressful situations and experiences, and they are also available to simply provide an empathetic ear. Peer-supported mental health care has been shown to improve mental and physical health among youth, and the OHA grant makes this important effort possible.s
+So many times, children just need a hand to get over with the challenges in their school work, family life and emotional needs. It is important to note that our advising program is nonclinical, so the advisors are not able to fill the gap of mental health professionals and treatment. However, they are available to provide encouragement and resources to help peers create goals and navigate stressful situations and experiences, and they are also available to simply provide an empathetic ear. 
 
-[OCC Advisor Application](https://docs.google.com/forms/d/e/1FAIpQLSfKewGqu-TrfPFfXdYIskGurJAz92ayYWHML2Wj4VKN3xqOIA/viewform?usp=sf_link) (Accepting new applications)  
+All meetings are offered free of charge. OCC and the advisors will make the best efforts to preserve the confidentiality of any information relating to people being advised and the meetings.
+
+[OCC Peer Advisor Application](https://docs.google.com/forms/d/e/1FAIpQLSfKewGqu-TrfPFfXdYIskGurJAz92ayYWHML2Wj4VKN3xqOIA/viewform?usp=sf_link) (Accepting new applications)  
 [Reimbursement Form](/assets/pdf/reimbursement_form_advocacy_fillable.pdf)  
 [W-9 Form](https://www.irs.gov/pub/irs-pdf/fw9.pdf)  
 
 [Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeaGQKfpCcHl4o3WRhlV-EPVaH20t5mFhddQbEXhrwpTmmmvg/viewform?usp=sf_link) for youth and parents looking for peer advisors   
-[Feedback on Advisors](mailto:health@pdxchinese.org?subject=[Feedback on Peer Advisors])  
+[Feedback on Peer Advisors](mailto:health@pdxchinese.org?subject=[Feedback on Peer Advisors])  
 
-Peer Advisors
+Youth Advisors
 
 Parent Advisors
 
@@ -35,10 +37,10 @@ Some funding is available specifically for the families suffered from mental ill
 
 ### Useful References
 
-[How to Get Help in Portland, Oregon](https://www.mentalhealthportland.org/need-help/)  
-National Alliance on Mental Illness (NAMI): [National](https://www.nami.org/Home), [Oregon](https://namior.org/), [Multnomah County](https://www.namimultnomah.org/), [Washington County](https://www.washconami.org/), [Clackamas County](https://www.namicc.org/)  
-[National Institute of Mental Health](https://www.nimh.nih.gov/index.shtml)  
-[Advocating and Planning for a Behavioral Health Peer Support Program](http://peersforprogress.org/wp-content/uploads/2014/03/20140313_advocating_and_planning_for_a_behavioral_health_peer_support_program.pdf)  
+:information_source: [How to Get Help in Portland, Oregon](https://www.mentalhealthportland.org/need-help/)  
+:information_source: National Alliance on Mental Illness (NAMI): [National](https://www.nami.org/Home), [Oregon](https://namior.org/), [Multnomah County](https://www.namimultnomah.org/), [Washington County](https://www.washconami.org/), [Clackamas County](https://www.namicc.org/)  
+:information_source: [National Institute of Mental Health](https://www.nimh.nih.gov/index.shtml)  
+:information_source: [Advocating and Planning for a Behavioral Health Peer Support Program](http://peersforprogress.org/wp-content/uploads/2014/03/20140313_advocating_and_planning_for_a_behavioral_health_peer_support_program.pdf)  
 
 
 ### More Background
