@@ -7,9 +7,9 @@ OCC is so grateful to Oregon Health Authority (OHA) with a very generous grant t
 
 ### Peer Advisors
 
-So many times, children just need a hand to get over with the challenges in their school work, family life and emotional needs. It is important to note that our advising program is nonclinical, so the advisors are not able to fill the gap of mental health professionals and treatment. However, they are available to provide encouragement and resources to help peers create goals and navigate stressful situations and experiences, and they are also available to simply provide an empathetic ear. 
+Peer support can be an important tool in helping children and youth overcome personal challenges they are facing at school or at home. Our Peer Advisors are available to provide encouragement and resources to help their peers create goals and navigate stressful situations and experiences, and they are also available to simply provide an empathetic ear.
 
-All meetings are offered free of charge. OCC and the advisors will make the best efforts to preserve the confidentiality of any information relating to people being advised and the meetings.
+All meetings are offered free of charge. It is important to note that our advising program is nonclinical, so our Peer Advisors are not able to fill the gap of mental health professionals and treatment. OCC and our Peer Advisors are committed to confidentiality unless the participating youth or others may be harmed significantly if the information is not disclosed.
 
 [OCC Peer Advisor Application](https://docs.google.com/forms/d/e/1FAIpQLSfKewGqu-TrfPFfXdYIskGurJAz92ayYWHML2Wj4VKN3xqOIA/viewform?usp=sf_link) (Accepting new applications)  
 [Reimbursement Form](/assets/pdf/reimbursement_form_advocacy_fillable.pdf)  
