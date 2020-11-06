@@ -36,6 +36,8 @@ feature_row15:
     - image_path: /assets/images/activities/talk_justin.jpg
 feature_row16:
     - image_path: /assets/images/activities/talk_maggie.jpg
+eature_row17:
+    - image_path: /assets/images/activities/talk_arlene.jpg
 ---
 <p><img src="/assets/images/activities/weeklytalk1.jpg"></p>  
 
@@ -44,6 +46,19 @@ Under the circumstances that the epidemic severely limits people's lives, how ca
 In order to make the interaction more efficient, you are welcome to [submit your questions in advance](https://docs.google.com/forms/d/e/1FAIpQLSfPfuYiRfTxqsVoEgDNwbDOHnLIXmmv6z4EgSsUWgFwjT7QkA/viewform?usp=sf_link).
 
 Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and the time will generally be controlled at one hour. The registration is required for each event.
+
+### 11.07.2020
+
+Welcome to Braingystics
+
+{% include feature_row id="feature_row17"%}
+
+Arlene Strugar, as a Doctor of Psychology, also carries the following titles: Innovation Research Psychologist, Social Scientist, Certified Brain Health Coach, Cognitive and Learning Specialist, Sports Psychologist, Certified Mental Trainer
+Holistic Nutritionist, ABD Certified Fitness Trainer. Join Me and Arlene Strugar, Psy-D for an afternoon of learning and growth.
+
+To know her better, here is [her clinic](https://braingystics.com/) and [her book](https://www.amazon.com/Success-Unlimited-Arlene-Binoya-Strugar-Psy/dp/1732635374). 
+
+[Click here to register](https://us02web.zoom.us/meeting/register/tZYod-2rrTsoEtLOiHJrpaqO-ieQOCWUHTll). After registering, you will receive a confirmation email containing information about joining the meeting.
 
 ### 10.31.2020
 
@@ -54,8 +69,6 @@ Common Psychological Problems and Preventive Measures for Chinese Children
 Maggie got two Master’s degrees in Educational Psychology and Counseling respectively. Right now she is a Licensed Professional Counselor practicing in Pennsylvania. She has more than 10 years experience of providing counseling services to people from different ethnic backgrounds, both face to face and remotely. In 2018, Maggie founded her online private practice Talking to Maggie, LLC, focusing on improving mental health for the Asian/Chinese population through counseling and coaching. She helps Asian/Chinese people with issues in parenting, couple’s relationship, acculturation, and emotional regulation, etc. She’s been married for 18 years and is the mother of a 13-year-old boy and 8-year-old girl.
 
 Maggie's topics will include 1. internet addiction, 2. why do children hurt themselves, 3. what lessons can adults learn from children who commit suicide.
-
-[Click here to register](https://us02web.zoom.us/meeting/register/tZcldOysqj8qE9fJGnwwM3s7M4J2wsSHkfHT). After registering, you will receive a confirmation email containing information about joining the meeting.
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
