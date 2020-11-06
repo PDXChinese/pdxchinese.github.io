@@ -36,7 +36,7 @@ feature_row15:
     - image_path: /assets/images/activities/talk_justin.jpg
 feature_row16:
     - image_path: /assets/images/activities/talk_maggie.jpg
-eature_row17:
+feature_row17:
     - image_path: /assets/images/activities/talk_arlene.jpg
 ---
 <p><img src="/assets/images/activities/weeklytalk1.jpg"></p>  
@@ -56,7 +56,7 @@ Welcome to Braingystics
 Arlene Strugar, as a Doctor of Psychology, also carries the following titles: Innovation Research Psychologist, Social Scientist, Certified Brain Health Coach, Cognitive and Learning Specialist, Sports Psychologist, Certified Mental Trainer
 Holistic Nutritionist, ABD Certified Fitness Trainer. Join Me and Arlene Strugar, Psy-D for an afternoon of learning and growth.
 
-To know her better, here is [her clinic](https://braingystics.com/) and [her book](https://www.amazon.com/Success-Unlimited-Arlene-Binoya-Strugar-Psy/dp/1732635374). 
+To know her better, here is [her clinic](https://braingystics.com/) and [her book](https://www.amazon.com/Success-Unlimited-Arlene-Binoya-Strugar-Psy/dp/1732635374).
 
 [Click here to register](https://us02web.zoom.us/meeting/register/tZYod-2rrTsoEtLOiHJrpaqO-ieQOCWUHTll). After registering, you will receive a confirmation email containing information about joining the meeting.
 
