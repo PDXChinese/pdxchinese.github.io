@@ -24,13 +24,13 @@ extra:
     children:
       - title: "<b>PVSA Honorees</b>"
         url: /pvsa/
-      - title: "<b>Volunteering</b>"
+      - title: "Volunteering"
         url: /volunteering/
       - title: "<b>Winter Drive</b>"
         url: /winterdrive/
       - title: "---"
         url:
-      - title: "<b>Youth Ambassadors</b>"
+      - title: "Youth Ambassadors"
         url: /youthambassadors/
       - title: "Youth Camps"
         url: /camps/
@@ -40,7 +40,7 @@ extra:
         url: /drumteam/
       - title: "Youth Mentoring"
         url: /mentoring/
-      - title: "Youth Roundtable"
+      - title: "<b>Youth Roundtable</b>"
         url: /youthroundtable/
       - title: "---"
         url:
