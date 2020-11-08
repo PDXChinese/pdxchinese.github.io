@@ -4,8 +4,8 @@ permalink: /winterdrive/
 ---
 <p><img src="/assets/images/activities/winter_drive_banner.jpg"></p>  
 
-# 2019 Community Winter Clothing Drive  
-**Date:** November 16, 2019 Saturday, 1:00 pm - 4:00 pm  
+# 2020 Community Winter Clothing Drive  
+**Date:** November 21, 2020 Saturday, 1:00 pm - 4:00 pm  
 **Place:** 6 drop off locations  
 
 | Area | School | Spot if Specified |
@@ -19,49 +19,14 @@ permalink: /winterdrive/
 
 Winter Drive flyer: [Bridlemile](/assets/images/activities/2019_flyer_bridlemile.jpg), [Forest Park](/assets/images/activities/2019_flyer_fpe.jpg), [Lake Oswego](/assets/images/activities/2019_flyer_lo.jpg), [Stoller](/assets/images/activities/2019_flyer_stoller.jpg), [Sunset](/assets/images/activities/2019_flyer_sunset.jpg)
 
-**[2019 OCC Donation Receipt](/assets/images/activities/occ_donation_receipt_2019.pdf)**
+**[2020 OCC Donation Receipt](/assets/images/activities/occ_donation_receipt_2020.pdf)**
 
 ## Student Volunteers
 
-Entirely run by 35 students from 16 local schools student.
+Entirely run by students from local schools.
 
 | Name | School/Organization | Drop Off Location |
 | --- | --- | --- |
-| Noah Von Dem Bruch | Oregon Episcopal School | Bridlemile |
-| Michelle Cheng | Forest Park Elementary School | NW Portland |
-| Anna Jiang | Stroller Middle School | Bethany #1 |
-| Adam Li | Stroller Middle School | Bethany #2 |
-| Andy Li | Sunset High School | Beaverton |
-| Matthew Li | International School of Beaverton | Beaverton |
-| Shengyao Liu | Lake Oswego High School | Lake Oswego |
-| Bruna Luo | Lake Oswego High School | Lake Oswego |
-| Steven Niu | Catlin Gabel School | Bethany #2 |
-| Daniel Qi | Lake Oswego High School | Lake Oswego |
-| Anthony Qin | Stoller Middle School | Bethany #1 |
-| Ethan Qin | Stoller Middle School | Bethany #1 |
-| Zhi Qu | Cedar Mill Elementary School | NW Portland |
-| Freya Sticka | Rachel Carson Middle School | Bethany #1 |
-| Jeff Sun | Lake Oswego High School | Lake Oswego |
-| Megan Tian | Lakeridge High School | Lake Oswego |
-| Jenell Theobald | Whitford Middle School | Bethany #1 |
-| Derica Theobald | French American International School | Bethany #1 |
-| Ethan Wang | Stoller Middle School | Bethany #2 |
-| Rachel Wang | Stoller Middle School | Bethany #1 |
-| Stella Wang | Stoller Middle School | Bethany #1 |
-| Alley Wu | Valley Catholic High School | Beaverton |
-| Cindy Wu | Forest Park Elementary School | NW Portland |
-| Daniel Xian | Stoller Middle School | Bethany #2 |
-| Oscar Xu | Bridlemile Elementary School | Bridlemile |
-| Jasper Xu | Bridlemile Elementary School | Bridlemile |
-| Leonard Yan | Stoller Middle School | Bethany #2 |
-| Kevin Yu | Stoller Middle School | Bethany #1 |
-| Tony Zeng | Oak Creek MS| Lake Oswego |
-| Claire Zhang | Meadow Park Middle School | Bethany #1 |
-| Evan Zhang | Meadow Park Middle School | Bethany #1 |
-| Jackie Zhang | Sunset High School | Beaverton |
-| Lucas Zhang | Forest Park Elementary School | NW Portland |
-| James Zou | Cedar Mill Elementary School | NW Portland |
-| Qianyi Zou | Lakeridge High School | Lake Oswego |
 
 ## Donation Items
 
@@ -89,14 +54,10 @@ Holiday gifts and gift cards for children living in our alcohol- and drug-free f
 
 Soap, shampoo, tooth brush, tooth paste, feminine hygiene items, toilet paper, etc.
 
-### Bikes!
-
-CCC have partnered with Bikes for Humanity to create Chain Reaction Bike Co-op, which allows CCC clients to refurbish donated bicycles and receive bike mechanic training, earning a free bike through sweat equity!
-
 ## Agencies to Receive our Donations
 
-[Central City Concern](http://www.centralcityconcern.org/)  
 [Clay Street Table](http://claystreettable.org/)  
+[Central City Concern](http://www.centralcityconcern.org/)  
 
 ## Archive
 
