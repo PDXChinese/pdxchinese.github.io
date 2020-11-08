@@ -12,7 +12,7 @@ Peer support can be an important tool in helping children and youth overcome per
 All meetings are offered free of charge. It is important to note that our advising program is nonclinical, so our Peer Advisors are not able to fill the gap of mental health professionals and treatment. OCC and our Peer Advisors are committed to confidentiality unless the participating youth or others may be harmed significantly if the information is not disclosed.
 
 [OCC Peer Advisor Application](https://docs.google.com/forms/d/e/1FAIpQLSfKewGqu-TrfPFfXdYIskGurJAz92ayYWHML2Wj4VKN3xqOIA/viewform?usp=sf_link) (Accepting new applications)  
-[Reimbursement Form](/assets/pdf/reimbursement_form_advocacy_fillable.pdf)  
+[Reimbursement Form](/assets/pdf/reimbursement_form_advocacy_fillable.pdf) (Category: Peer Advisors)  
 [W-9 Form](https://www.irs.gov/pub/irs-pdf/fw9.pdf)  
 
 [Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeaGQKfpCcHl4o3WRhlV-EPVaH20t5mFhddQbEXhrwpTmmmvg/viewform?usp=sf_link) for youth and parents looking for peer advisors   
@@ -30,7 +30,8 @@ Expert Advisors
 We will host weekly talks on mental health by inviting professionals in the field till end of 2020.  
 
 [Request for Paid Visits to Licensed Mental Health Providers](mailto:health@pdxchinese.org?subject=[Request for Visits])  
-For office/virtual visits only and possibly outpatient treatment. You are encouraged to get the fee estimate first and contact us for securing the funding. However, contacting us beforehand is not mandatory. Funding will be available for services dated before 12/31/2020.
+For office/virtual visits only and possibly outpatient treatment. You are encouraged to get the fee estimate first and contact us for securing the funding. However, contacting us beforehand is not mandatory. Funding will be available for services dated before 12/31/2020.  
+[Reimbursement Form](/assets/pdf/reimbursement_form_advocacy_fillable.pdf) (Category: Visits to Mental Health Providers)  
 
 [Assistance Programs](http://OCCResponse.org)  
 Some funding is available specifically for the families suffered from mental illnesses.  
