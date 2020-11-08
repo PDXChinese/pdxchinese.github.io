@@ -24,7 +24,7 @@ Winter Drive flyer: [Bridlemile](/assets/images/activities/2019_flyer_bridlemile
 
 ## Student Volunteers
 
-Entirely run by students from local schools.
+Entirely run by students from local schools. To join, please [register here](https://docs.google.com/forms/d/e/1FAIpQLScNv3SAGXxOYZFPEJMtfDZnlTVV7GHj8dxl6AWPjlyQeC9HDg/viewform?usp=sf_link).
 
 | Name | School/Organization | Drop Off Location |
 | --- | --- | --- |
