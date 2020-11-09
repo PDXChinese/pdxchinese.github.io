@@ -8,6 +8,9 @@ feature_row1:
   - image_path: /assets/images/activities/pa_danny_luo.jpg
     title: "Danny Luo"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_danny_luo/'>My name is Danny and I am a sophomore at the University of Southern California (USC). I am currently on the pre-med track, majoring in global health and double minoring in international relations and natural science. I play tennis and guitar and I'm a huge music nerd!</a></p>"
+  - image_path: /assets/images/activities/pa_aaron_sha.jpg
+    title: "Alisha Zhao"
+    excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_aaron_sha/'>Aaron Sha is a 3rd year attending USC as a Pre-Dental major with a Computational Biology Minor. Outside of class, he enjoys singing with his A Cappella group, writing for his science-communications journal, and producing music. Quarantine permitting, he also loves cooking with his friends and exploring local food venues.</a></p>"
   - image_path: /assets/images/activities/pa_alisha_zhao.jpg
     title: "Alisha Zhao"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_alisha_zhao/'>Alisha is a senior at Stanford University majoring in Political Science with minors in History and Human Rights. She is passionate about the intersection between human rights and government, particularly issues of affordable housing and homelessness. Alisha enjoys hiking, reading ethnographies, and, most recently, binge watching Scandal.</a></p>"
