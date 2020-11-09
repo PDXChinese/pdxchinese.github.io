@@ -8,6 +8,9 @@ feature_row1:
   - image_path: /assets/images/activities/pa_danny_luo.jpg
     title: "Danny Luo"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_danny_luo/'>My name is Danny and I am a sophomore at the University of Southern California (USC). I am currently on the pre-med track, majoring in global health and double minoring in international relations and natural science. I play tennis and guitar and I'm a huge music nerd!</a></p>"
+  - image_path: /assets/images/activities/pa_alisha_zhao.jpg
+    title: "Alisha Zhao"
+    excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_alisha_zhao/'>Alisha is a senior at Stanford University majoring in Political Science with minors in History and Human Rights. She is passionate about the intersection between human rights and government, particularly issues of affordable housing and homelessness. Alisha enjoys hiking, reading ethnographies, and, most recently, binge watching Scandal.</a></p>"
 ---
 
 OCC is so grateful to Oregon Health Authority (OHA) with a very generous grant to tackle mental and behavioral health crisis under pandemic in Chinese American community. We will use the grant to make a big push in the community to look into mental health issues and come out with solutions that can last beyond grant period.
