@@ -7,7 +7,7 @@ feature_row1:
     excerpt: "Justin is a current junior at the University of Washington. Justin is pursuing a dual degree in Computer Science and Informatics, passionate about tech innovation for social good and impacting as many people as possible. He is also an Officer for the Chinese Student Association at UW, a CSE Peer Advisor, and a podcast host."
   - image_path: /assets/images/activities/pa_danny_luo.jpg
     title: "Danny Luo"
-    excerpt: "My name is Danny Luo and I am a sophomore at the University of Southern California (USC). I am currently on the pre-med track, majoring in global health and double minoring in international relations and natural science. I play tennis and guitar and I'm a huge music nerd!"
+    excerpt: "My name is Danny and I am a sophomore at the University of Southern California (USC). I am currently on the pre-med track, majoring in global health and double minoring in international relations and natural science. I play tennis and guitar and I'm a huge music nerd!"
 ---
 
 OCC is so grateful to Oregon Health Authority (OHA) with a very generous grant to tackle mental and behavioral health crisis under pandemic in Chinese American community. We will use the grant to make a big push in the community to look into mental health issues and come out with solutions that can last beyond grant period.
