@@ -6,7 +6,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Danica Leung - Silver Award
+# Justin Bao
 
 **School: University of Washington**  
 **Class: 2022**
