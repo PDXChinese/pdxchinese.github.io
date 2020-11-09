@@ -9,8 +9,8 @@ feature_row1:
 # Justin Bao
 
 **School: University of Washington**  
-**Class: 2022**
-**High School:**
+**Class: 2022**  
+**High School:**  
 **Category: Peer Advisor**  
 **Hours/Week: 6**  
 

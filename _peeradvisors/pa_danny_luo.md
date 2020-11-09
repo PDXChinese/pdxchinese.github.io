@@ -9,8 +9,8 @@ feature_row1:
 # Danny Luo
 
 **School: University of Southern California (USC)**  
-**Class: 2023**
-**High School: Lincoln High School**
+**Class: 2023**  
+**High School: Lincoln High School**  
 **Category: Peer Advisor**  
 **Hours/Week: 5-10**  
 

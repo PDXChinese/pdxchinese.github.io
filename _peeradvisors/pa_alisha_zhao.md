@@ -9,8 +9,8 @@ feature_row1:
 # Alisha Zhao
 
 **School: Stanford University**  
-**Class: 2024**
-**High School: Lincoln High School**
+**Class: 2024**  
+**High School: Lincoln High School**  
 **Category: Peer Advisor**  
 **Hours/Week: 5**  
 
