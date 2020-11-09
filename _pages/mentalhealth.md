@@ -1,6 +1,10 @@
 ---
 title: "OCC Mental Health Advocacy Program"
 permalink: /mentalhealth/
+feature_row1:
+  - image_path: /assets/images/activities/pa_danny_luo.jpg
+    title: "Danny Luo"
+    excerpt: "My name is Danny Luo and I am a sophomore at the University of Southern California (USC). I am currently on the pre-med track, majoring in global health and double minoring in international relations and natural science. I play tennis and guitar and I'm a huge music nerd!"
 ---
 
 OCC is so grateful to Oregon Health Authority (OHA) with a very generous grant to tackle mental and behavioral health crisis under pandemic in Chinese American community. We will use the grant to make a big push in the community to look into mental health issues and come out with solutions that can last beyond grant period.
@@ -19,6 +23,8 @@ All meetings are offered free of charge. It is important to note that our advisi
 [Feedback on Peer Advisors](mailto:health@pdxchinese.org?subject=[Feedback on Peer Advisors])  
 
 Youth Advisors
+
+{% include feature_row id="feature_row1"%}
 
 Parent Advisors
 
