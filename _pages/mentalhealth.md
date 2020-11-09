@@ -4,7 +4,7 @@ permalink: /mentalhealth/
 feature_row1:
   - image_path: /assets/images/activities/pa_justin_bao.jpg
     title: "Justin Bao"
-    excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_justing_bao/'>Justin is a current junior at the University of Washington. Justin is pursuing a dual degree in Computer Science and Informatics, passionate about tech innovation for social good and impacting as many people as possible. He is also an Officer for the Chinese Student Association at UW, a CSE Peer Advisor, and a podcast host.</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_justin_bao/'>Justin is a current junior at the University of Washington. Justin is pursuing a dual degree in Computer Science and Informatics, passionate about tech innovation for social good and impacting as many people as possible. He is also an Officer for the Chinese Student Association at UW, a CSE Peer Advisor, and a podcast host.</a></p>"
   - image_path: /assets/images/activities/pa_danny_luo.jpg
     title: "Danny Luo"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_danny_luo/'>My name is Danny and I am a sophomore at the University of Southern California (USC). I am currently on the pre-med track, majoring in global health and double minoring in international relations and natural science. I play tennis and guitar and I'm a huge music nerd!</a></p>"
