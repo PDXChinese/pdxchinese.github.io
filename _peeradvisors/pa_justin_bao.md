@@ -11,6 +11,7 @@ feature_row1:
 **School: University of Washington**  
 **Class: 2022**  
 **High School: Westview High School**  
+**Middle School: Stoller Middle School**  
 **Category: Peer Advisor**  
 **Hours/Week Available: 6**  
 
