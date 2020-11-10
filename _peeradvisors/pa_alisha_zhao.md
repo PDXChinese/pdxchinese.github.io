@@ -9,7 +9,7 @@ feature_row1:
 # Alisha Zhao
 
 **School: Stanford University**  
-**Class: 2024**  
+**Class: 2023**  
 **High School: Lincoln High School**  
 **Middle School: West Sylvan Middle School**  
 **Category: Peer Advisor**  
