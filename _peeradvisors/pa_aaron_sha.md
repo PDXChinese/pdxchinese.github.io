@@ -11,7 +11,10 @@ feature_row1:
 **School: University of Washington**  
 **Class: 2022**  
 **High School: Jesuit High School**  
+**Middle School: Stoller Middle School**  
 **Category: Peer Advisor**  
 **Hours/Week Available: 2-3**  
 
-Aaron Sha is a 3rd year attending USC as a Pre-Dental major with a Computational Biology Minor. Outside of class, he enjoys singing with his A Cappella group, writing for his science-communications journal, and producing music. Quarantine permitting, he also loves cooking with his friends and exploring local food venues. 
+Aaron is a Junior attending the University of Southern California as a major in Human Biology and a minor in Bioinformatics. Outside of class, he enjoys singing with his A Cappella group, writing for his science-communications journal, and producing R&B music. Quarantine permitting, he also loves cooking with his friends and exploring local food venues.
+
+Aaron's childhood in Portland mirrors the experience of many Chinese Americans. The struggle to balance the cultural strain of growing up in a deeply Chinese family while participating in American institutions contributed to internal conflict that has carried on with him into early adulthood. He hopes to apply his experience tutoring, mentoring, and connecting with youth with his own reflections to give back to his local community.
