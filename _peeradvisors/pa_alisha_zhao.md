@@ -11,6 +11,7 @@ feature_row1:
 **School: Stanford University**  
 **Class: 2024**  
 **High School: Lincoln High School**  
+**Middle School: West Sylvan Middle School**
 **Category: Peer Advisor**  
 **Hours/Week Available: 5**  
 
