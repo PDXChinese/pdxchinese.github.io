@@ -28,11 +28,11 @@ Peer support can be an important tool in helping children and youth overcome per
 
 All meetings are offered free of charge. It is important to note that our advising program is nonclinical, so our Peer Advisors are not able to fill the gap of mental health professionals and treatment. OCC and our Peer Advisors are committed to confidentiality unless the participating youth or others may be harmed significantly if the information is not disclosed.
 
-:green_book: [OCC Peer Advisor Application](https://docs.google.com/forms/d/e/1FAIpQLSfKewGqu-TrfPFfXdYIskGurJAz92ayYWHML2Wj4VKN3xqOIA/viewform?usp=sf_link) (Accepting new applications)  
+:blue_book: [OCC Peer Advisor Application](https://docs.google.com/forms/d/e/1FAIpQLSfKewGqu-TrfPFfXdYIskGurJAz92ayYWHML2Wj4VKN3xqOIA/viewform?usp=sf_link) (Accepting new applications)  
 [Reimbursement Form](/assets/pdf/reimbursement_form_advocacy_fillable.pdf) (Category: Peer Advisors)  
 [W-9 Form](https://www.irs.gov/pub/irs-pdf/fw9.pdf)  
 
-:blue_book: [Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeaGQKfpCcHl4o3WRhlV-EPVaH20t5mFhddQbEXhrwpTmmmvg/viewform?usp=sf_link) for youth and parents looking for peer advisors   
+:green_book: [Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeaGQKfpCcHl4o3WRhlV-EPVaH20t5mFhddQbEXhrwpTmmmvg/viewform?usp=sf_link) for youth and parents looking for peer advisors   
 [Feedback on Peer Advisors](mailto:health@pdxchinese.org?subject=[Feedback on Peer Advisors])  
 
 Youth Advisors
