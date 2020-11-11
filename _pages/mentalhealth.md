@@ -11,6 +11,9 @@ feature_row1:
   - image_path: /assets/images/activities/pa_aaron_sha.jpg
     title: "Aaron Sha"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_aaron_sha/'>Aaron Sha is a 3rd year attending USC as a Pre-Dental major with a Computational Biology Minor. Outside of class, he enjoys singing with his A Cappella group, writing for his science-communications journal, and producing music. Quarantine permitting, he also loves cooking with his friends and exploring local food venues.</a></p>"
+  - image_path: /assets/images/activities/pa_jackie_zhang.jpg
+    title: "Jackie Zhang"
+    excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_jackie_zhang/'>Jackie is a Junior at Sunset High School. She loves to learn about Psychology and Neurology, and hopes to pursue this field in the future. Her interests in these topics led to a passion for working with others and volunteering with social works organizations. Jackie enjoys dancing, binging shows, and spending time with her friends.</a></p>"
   - image_path: /assets/images/activities/pa_alisha_zhao.jpg
     title: "Alisha Zhao"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_alisha_zhao/'>Alisha is a senior at Stanford University majoring in Political Science with minors in History and Human Rights. She is passionate about the intersection between human rights and government, particularly issues of affordable housing and homelessness. Alisha enjoys hiking, reading ethnographies, and, most recently, binge watching Scandal.</a></p>"

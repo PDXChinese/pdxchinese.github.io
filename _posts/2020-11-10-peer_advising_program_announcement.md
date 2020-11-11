@@ -18,4 +18,4 @@ Peer Advising is another project aimed at community youth. The diagnosis and tre
 
 We are very grateful to the high school students and college students who signed up. They are all outstanding youth and willing to take time to give back to the community.
 
-Children in the community can start to fill out the Request Form. More info is available at: [http://pdxchinese.org/mentalhealth/](http://pdxchinese.org/mentalhealth/). 
+Children in the community can start to fill out the Request Form. More info is available at: [http://pdxchinese.org/mentalhealth/](http://pdxchinese.org/mentalhealth/).
