@@ -11,6 +11,7 @@ feature_row1:
 **School: University of Southern California (USC)**  
 **Class: 2023**  
 **High School: Lincoln High School**  
+**Middle School: ACCESS Academy**  
 **Category: Peer Advisor**  
 **Hours/Week Available: 5-10**  
 
