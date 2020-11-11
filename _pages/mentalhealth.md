@@ -14,6 +14,7 @@ feature_row1:
   - image_path: /assets/images/activities/pa_alisha_zhao.jpg
     title: "Alisha Zhao"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_alisha_zhao/'>Alisha is a senior at Stanford University majoring in Political Science with minors in History and Human Rights. She is passionate about the intersection between human rights and government, particularly issues of affordable housing and homelessness. Alisha enjoys hiking, reading ethnographies, and, most recently, binge watching Scandal.</a></p>"
+  - image_path: /assets/images/activities/pa_more.jpg
 ---
 
 OCC is so grateful to Oregon Health Authority (OHA) with a very generous grant to tackle mental and behavioral health crisis under pandemic in Chinese American community. We will use the grant to make a big push in the community to look into mental health issues and come out with solutions that can last beyond grant period.
