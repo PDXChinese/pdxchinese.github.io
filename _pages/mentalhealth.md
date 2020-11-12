@@ -55,8 +55,9 @@ For office/virtual visits only and possibly outpatient treatment. You are encour
 [Assistance Programs](http://OCCResponse.org)  
 Some funding is available specifically for the families suffered from mental illnesses.  
 
-### Useful References
+### Other Useful Resources
 
+:information_source: [YouthLine, a free and confidential teen-to-teen crisis and help line.](https://oregonyouthline.org/)
 :information_source: [How to Get Help in Portland, Oregon](https://www.mentalhealthportland.org/need-help/)  
 :information_source: National Alliance on Mental Illness (NAMI): [National](https://www.nami.org/Home), [Oregon](https://namior.org/), [Multnomah County](https://www.namimultnomah.org/), [Washington County](https://www.washconami.org/), [Clackamas County](https://www.namicc.org/)  
 :information_source: [National Institute of Mental Health](https://www.nimh.nih.gov/index.shtml)  
