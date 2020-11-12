@@ -29,6 +29,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 | --- | --- | --- |
 | Alley Wu | Valley Catholic High School | Sunset High School |
 | Anna Jiang | Sunset High School | Sunset High School |
+| Annie Cai | Lakeridge High School | Lake Oswego High School |
 | Anthony Qin | Westview High School | Stoller Middle School |
 | Daniel Xian | Catlin Gable | Bethany Village |
 | Ethan Qin | Westview High School | Stoller Middle School |
