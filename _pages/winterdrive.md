@@ -27,6 +27,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 
 | Name | School/Organization | Drop Off Location |
 | --- | --- | --- |
+| Aaron HSU | Lincoln High School | Forest Park Elementary School (NW PDX) |
 | Alley Wu | Valley Catholic High School | Sunset High School |
 | Anna Jiang | Sunset High School | Sunset High School |
 | Annie Cai | Lakeridge High School | Lake Oswego High School |
@@ -50,6 +51,8 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Roger Li | Sunset High School | Sunset High School |
 | Sophia Wang | Lake Oswego High School | Lake Oswego High School |
 | Winston Zhang | Stoller Middle School | Stoller Middle School |
+| Zhi Qu | Oregon Episcopal School | Forest Park Elementary School (NW PDX) |
+| Zong Qu | FLEX School | Forest Park Elementary School (NW PDX) |
 
 
 ## Donation Items
