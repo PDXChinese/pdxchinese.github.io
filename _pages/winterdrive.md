@@ -28,6 +28,25 @@ Entirely run by students from local schools. To join, please [register here](htt
 
 | Name | School/Organization | Drop Off Location |
 | --- | --- | --- |
+| Alley Wu | Valley Catholic High School | Sunset High School |
+| Anna Jiang | Sunset High School | Sunset High School |
+| Anthony Qin | Westview High School | Stoller Middle School |
+| Daniel Xian | Catlin Gable | Bethany Village |
+| Ethan Qin | Westview High School | Stoller Middle School |
+| Fiona Wang | Sunset High School | Stoller Middle School |
+| Ivan Li | Sunset High School | Sunset High School |
+| Jennifer Qian | St Marry Academy High School | SE Portland (TBD) |
+| Kevin Yu | Sunset High School | Stoller Middle School |
+| Leon Liu | International School of Beaverton | Lake Oswego High School |
+| Lucas Zhang | Access Academy | Forest Park Elementary School (NW PDX) |
+| Maggie Zhou | Lincoln High School | Forest Park Elementary School (NW PDX) |
+| Nancy Yang | Sunset High School | Stoller Middle School |
+| Nicholas Peng | Stoller Middle School | Stoller Middle School |
+| Nora Wu | Lincoln High School | Forest Park Elementary School (NW PDX) |
+| Raymond Shi | Lake Oswego High School | Lake Oswego High School |
+| Roger Li | Sunset High School | Sunset High School |
+| Sophia Wang | Lake Oswego High School | Lake Oswego High School |
+
 
 ## Donation Items
 
