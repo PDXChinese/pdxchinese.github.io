@@ -39,10 +39,6 @@ Youth Advisors
 
 {% include feature_row id="feature_row1"%}
 
-Parent Advisors
-
-Expert Advisors
-
 ### More Programs from OCC under COVID-19 Grants
 
 [Weekly Talk on Mental Health](http://pdxchinese.org/weeklytalk/)  
