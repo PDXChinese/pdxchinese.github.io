@@ -17,7 +17,7 @@ permalink: /winterdrive/
 | NW Portland | [Forest Park Elementary School](https://www.google.com/maps/place/Forest+Park+Elementary School+School/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
 | SE Portland | TBD | |
 
-Winter Drive flyer: [Bridlemile](/assets/images/activities/2019_flyer_bridlemile.jpg), [Forest Park](/assets/images/activities/2019_flyer_fpe.jpg), [Lake Oswego](/assets/images/activities/2019_flyer_lo.jpg), [Stoller](/assets/images/activities/2019_flyer_stoller.jpg), [Sunset](/assets/images/activities/2019_flyer_sunset.jpg)
+Winter Drive flyer: [Forest Park](/assets/images/activities/2019_flyer_fpe.jpg), [Lake Oswego](/assets/images/activities/2019_flyer_lo.jpg), [Stoller](/assets/images/activities/2020_flyer_stoller.jpg), [Sunset](/assets/images/activities/2019_flyer_sunset.jpg)
 
 **[2020 OCC Donation Receipt](/assets/images/activities/occ_donation_receipt_2020.pdf)**
 
