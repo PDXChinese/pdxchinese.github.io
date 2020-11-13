@@ -38,6 +38,9 @@ feature_row16:
     - image_path: /assets/images/activities/talk_maggie.jpg
 feature_row17:
     - image_path: /assets/images/activities/talk_arlene.jpg
+feature_row18:
+    - image_path: /assets/images/activities/talk_eva_lu1.jpg
+    - image_path: /assets/images/activities/talk_joseph_yang.jpg
 ---
 <p><img src="/assets/images/activities/weeklytalk1.jpg"></p>  
 
@@ -46,6 +49,18 @@ Under the circumstances that the epidemic severely limits people's lives, how ca
 In order to make the interaction more efficient, you are welcome to [submit your questions in advance](https://docs.google.com/forms/d/e/1FAIpQLSfPfuYiRfTxqsVoEgDNwbDOHnLIXmmv6z4EgSsUWgFwjT7QkA/viewform?usp=sf_link).
 
 Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and the time will generally be controlled at one hour. The registration is required for each event.
+
+### 11.14.2020
+
+Culturally Congruent Integrative Health/Mental Health Healing Model for Chinese and other Asian American populations, Asians, and beyond.  (东西融合的精神與心理療癒)
+
+{% include feature_row id="feature_row18"%}
+
+[Prof. Eva Lu](http://socialwork.nyu.edu/faculty-and-research/our-faculty/yuwha-eva-lu.html)'s presentation will aim to help audience grasp information about current research, best practices, evidence based interventions and ways to support culturally humble holistic care; and will purposely explore the idea what it means to provide Asian culturally relevant care in the 21st Century.
+
+[Dr. Joseph Yang](http://www.aimhtcm.org/biography-of-joseph-yang.html)'s lecture will explain the characteristics and systems of TCM treatment of various mental diseases. It will also explain the four basic treatment methods of traditional Chinese medicine and how to cooperate with modern medicine to treat various psychological and mental illnesses.
+
+[Click here to register](https://us02web.zoom.us/meeting/register/tZckduyopjgpH9dsF-47BvSpc-LMaNbSdKPn). After registering, you will receive a confirmation email containing information about joining the meeting.
 
 ### 11.07.2020
 
@@ -57,8 +72,6 @@ Arlene Strugar, as a Doctor of Psychology, also carries the following titles: In
 Holistic Nutritionist, ABD Certified Fitness Trainer. Join Me and Arlene Strugar, Psy-D for an afternoon of learning and growth.
 
 To know her better, here is [her clinic](https://braingystics.com/) and [her book](https://www.amazon.com/Success-Unlimited-Arlene-Binoya-Strugar-Psy/dp/1732635374).
-
-[Click here to register](https://us02web.zoom.us/meeting/register/tZYod-2rrTsoEtLOiHJrpaqO-ieQOCWUHTll). After registering, you will receive a confirmation email containing information about joining the meeting.
 
 ### 10.31.2020
 
