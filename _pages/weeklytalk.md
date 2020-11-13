@@ -42,7 +42,6 @@ feature_row18:
     - image_path: /assets/images/activities/talk_eva_lu1.jpg
     - image_path: /assets/images/activities/talk_joseph_yang.jpg
 ---
-<p><img src="/assets/images/activities/weeklytalk1.jpg"></p>  
 
 Under the circumstances that the epidemic severely limits people's lives, how can we all be able to stay connected, not only can make use of ample time, but also take advantage of virtual resources to do some things that are usually difficult to do. The answer we give is to organize Weekly Talk on the Zoom platform. The presenter can be from inside or outside of the community, and the topic is not limited. The audience can be all ages.
 
