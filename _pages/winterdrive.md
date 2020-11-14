@@ -17,7 +17,7 @@ permalink: /winterdrive/
 | NW Portland | [Forest Park Elementary School](https://www.google.com/maps/place/Forest+Park+Elementary School+School/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
 | SE Portland | [Woodstock Elementary](https://www.google.com/maps/@45.4826914,-122.6113733,3a,75y,345.06h,103.47t/data=!3m6!1e1!3m4!1sB68Lfe4g0Fuzlo0V6pfItQ!2e0!7i16384!8i8192) | On south side of the building |
 
-Winter Drive flyer: [Forest Park](/assets/images/activities/2020_flyer_fpe.jpg), [Lake Oswego](/assets/images/activities/2020_flyer_lo.jpg), [Stoller, Bethany, Sunset](/assets/images/activities/2020_flyer_bethany.jpg)
+Winter Drive flyer: [Forest Park](/assets/images/activities/2020_flyer_fpe.jpg), [Lake Oswego](/assets/images/activities/2020_flyer_lo.jpg), [Stoller, Bethany, Sunset](/assets/images/activities/2020_flyer_bethany.jpg), [Woodstock](/assets/images/activities/2020_flyer_woodstock.png)
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DDGcnMkl_hOzU-W7GuZiZ8RI-FF91bFS" width="640" height="480"></iframe>
 
