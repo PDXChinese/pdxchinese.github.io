@@ -27,16 +27,20 @@ Entirely run by students from local schools. To join, please [register here](htt
 
 | Name | School/Organization | Drop Off Location |
 | --- | --- | --- |
-| Aaron HSU | Lincoln High School | Forest Park Elementary School (NW PDX) |
+| Aaron Hsu | Lincoln High School | Forest Park Elementary School (NW PDX) |
 | Alley Wu | Valley Catholic High School | Sunset High School |
 | Anna Jiang | Sunset High School | Sunset High School |
 | Annie Cai | Lakeridge High School | Lake Oswego High School |
 | Anthony Qin | Westview High School | Stoller Middle School |
 | Breanna Li | Lakeridge High School | Lake Oswego High School |
+| Claudia Zhuge | Meadow Park Middle School | Stoller Middle School |
 | Daniel Xian | Catlin Gable | Bethany Village |
+| Erika Leung | Lincoln High School | Forest Park Elementary School (NW PDX) |
 | Ethan Qin | Westview High School | Stoller Middle School |
 | Fiona Wang | Sunset High School | Stoller Middle School |
+| Ian Teh | Sunset High School | Sunset High School |
 | Ivan Li | Sunset High School | Sunset High School |
+| Jeffrey Teh | Sunset High School | Sunset High School |
 | Jenell Theobald | Whitford Middle School | Bethany Village |
 | Jennifer Qian | St Marry Academy High School | SE Portland (TBD) |
 | Kevin Yu | Sunset High School | Stoller Middle School |
@@ -50,9 +54,11 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Raymond Shi | Lake Oswego High School | Lake Oswego High School |
 | Roger Li | Sunset High School | Sunset High School |
 | Sophia Wang | Lake Oswego High School | Lake Oswego High School |
+| Steven Niu | Catlin Gable | Stoller Middle School |
 | Winston Zhang | Stoller Middle School | Stoller Middle School |
 | Zhi Qu | Oregon Episcopal School | Forest Park Elementary School (NW PDX) |
 | Zong Qu | FLEX School | Forest Park Elementary School (NW PDX) |
+
 
 
 ## Donation Items
