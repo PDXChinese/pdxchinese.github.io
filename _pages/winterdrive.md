@@ -21,6 +21,8 @@ Winter Drive flyer: [Forest Park](/assets/images/activities/2020_flyer_fpe.jpg),
 
 **[2020 OCC Donation Receipt](/assets/images/activities/occ_donation_receipt_2020.pdf)**
 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DDGcnMkl_hOzU-W7GuZiZ8RI-FF91bFS" width="640" height="480"></iframe>
+
 ## Student Volunteers
 
 Entirely run by students from local schools. To join, please [register here](https://docs.google.com/forms/d/e/1FAIpQLScNv3SAGXxOYZFPEJMtfDZnlTVV7GHj8dxl6AWPjlyQeC9HDg/viewform?usp=sf_link).
