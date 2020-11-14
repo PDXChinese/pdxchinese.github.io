@@ -15,7 +15,7 @@ permalink: /winterdrive/
 | Bethany #2 | Bethany Village | [QFC parking lot](https://www.google.com/maps/place/Walgreens/@45.555242,-122.836414,17.25z/data=!4m5!3m4!1s0x0:0x13e6b71d8ca8bcde!8m2!3d45.5551922!4d-122.8352382) |
 | Lake Oswego | Lake Oswego High School | [Westlake Park (next to play structure)](https://www.google.com/maps/place/Westlake+Park/@45.4240433,-122.738775,16z/data=!4m5!3m4!1s0x0:0xf92db3a1fa94a97e!8m2!3d45.4253979!4d-122.726774) |
 | NW Portland | [Forest Park Elementary School](https://www.google.com/maps/place/Forest+Park+Elementary School+School/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
-| SE Portland | [Woodstock Elementary](https://www.google.com/maps/@45.4826914,-122.6113733,3a,75y,345.06h,103.47t/data=!3m6!1e1!3m4!1sB68Lfe4g0Fuzlo0V6pfItQ!2e0!7i16384!8i8192) | Next to tennis court |
+| SE Portland | [Woodstock Elementary](https://www.google.com/maps/@45.4826914,-122.6113733,3a,75y,345.06h,103.47t/data=!3m6!1e1!3m4!1sB68Lfe4g0Fuzlo0V6pfItQ!2e0!7i16384!8i8192) | On south side of the building |
 
 Winter Drive flyer: [Forest Park](/assets/images/activities/2020_flyer_fpe.jpg), [Lake Oswego](/assets/images/activities/2020_flyer_lo.jpg), [Stoller, Bethany, Sunset](/assets/images/activities/2020_flyer_bethany.jpg)
 
