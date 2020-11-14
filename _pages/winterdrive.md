@@ -19,9 +19,9 @@ permalink: /winterdrive/
 
 Winter Drive flyer: [Forest Park](/assets/images/activities/2020_flyer_fpe.jpg), [Lake Oswego](/assets/images/activities/2020_flyer_lo.jpg), [Stoller, Bethany, Sunset](/assets/images/activities/2020_flyer_bethany.jpg)
 
-**[2020 OCC Donation Receipt](/assets/images/activities/occ_donation_receipt_2020.pdf)**
-
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DDGcnMkl_hOzU-W7GuZiZ8RI-FF91bFS" width="640" height="480"></iframe>
+
+**[2020 OCC Donation Receipt](/assets/images/activities/occ_donation_receipt_2020.pdf)**
 
 ## Student Volunteers
 
