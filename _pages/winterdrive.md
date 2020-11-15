@@ -48,6 +48,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Jenell Theobald | Whitford Middle School | Bethany Village |
 | Jennifer Qian | St Marry Academy High School | Woodstock Elementary (SE PDX) |
 | Kevin Yu | Sunset High School | Stoller Middle School |
+| Kiki Chiang | Lakeridge High School | Lake Oswego High School |
 | LanHong Huang | Lakeridge High School | Lake Oswego High School |
 | Leon Liu | International School of Beaverton | Lake Oswego High School |
 | Lucas Zhang | Access Academy | Forest Park Elementary School (NW PDX) |
