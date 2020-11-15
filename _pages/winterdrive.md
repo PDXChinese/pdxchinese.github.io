@@ -30,6 +30,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Name | School/Organization | Drop Off Location |
 | --- | --- | --- |
 | Aaron Hsu | Lincoln High School | Forest Park Elementary School (NW PDX) |
+| Alexander Cai | Woodstock Elementary | Woodstock Elementary (SE PDX) |
 | Alley Wu | Valley Catholic High School | Sunset High School |
 | Amy Zou | River Grove Elementary School | Lake Oswego High School |
 | Anna Jiang | Sunset High School | Sunset High School |
@@ -51,6 +52,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Leon Liu | International School of Beaverton | Lake Oswego High School |
 | Lucas Zhang | Access Academy | Forest Park Elementary School (NW PDX) |
 | Maggie Zhou | Lincoln High School | Forest Park Elementary School (NW PDX) |
+| Michelle Lu | Woodstock Elementary | Woodstock Elementary (SE PDX) |
 | Michelle Wang | International School of Beaverton | Bethany Village |
 | Nancy Yang | Sunset High School | Stoller Middle School |
 | Nicholas Peng | Stoller Middle School | Stoller Middle School |
@@ -61,6 +63,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Sophia Wang | Lake Oswego High School | Lake Oswego High School |
 | Steven Niu | Catlin Gable | Stoller Middle School |
 | Winston Zhang | Stoller Middle School | Stoller Middle School |
+| Xinyi Lu | Woodstock Elementary | Woodstock Elementary (SE PDX) |
 | Zhi Qu | Oregon Episcopal School | Forest Park Elementary School (NW PDX) |
 | Zong Qu | FLEX School | Forest Park Elementary School (NW PDX) |
 
