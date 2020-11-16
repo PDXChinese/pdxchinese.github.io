@@ -1,7 +1,7 @@
 ---
 title: " "
 feature_row1:
-  - image_path: /assets/images/activities/pa_jenny_jiang.jpeg
+  - image_path: /assets/images/activities/pa_jenny_jiang.jpg
 ---
 
 {% include feature_row id="feature_row1"%}
