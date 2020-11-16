@@ -8,7 +8,7 @@ feature_row1:
   - image_path: /assets/images/activities/pa_allina_chang.jpg
     title: "Allina Chang"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_allina_chang/'>Allina is a first year Masters student at the Harvard Chan School of Public Health and a recent graduate of the University of Michigan, where she earned a B.S. in Neuroscience. She is passionate about improving mental health in young adult populations. Allina enjoys baking, the outdoors, and staying active.</a></p>"
-  - image_path: /assets/images/activities/pa_kevin_gan.jpg
+  - image_path: /assets/images/activities/pa_kevin_gan.jpeg
     title: "Kevin Gan"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_kevin_gan/'>Kevin is a sophomore at Purdue University, majoring in finance with a minor in statistics. He has a passion for entrepreneurship and hopes to start his own business. He is involved on campus as consultant for the Boilermaker Consulting Group. Kevin loves to play soccer and has been playing ever since he was 7 years old.</a></p>"
   - image_path: /assets/images/activities/pa_danny_luo.jpg
