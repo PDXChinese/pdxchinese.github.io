@@ -10,7 +10,7 @@ feature_row1:
 
 **School: Harvard University**  
 **Class: 2022**  
-**College: University of Michigan – Ann Arbor**
+**College: University of Michigan – Ann Arbor**  
 **High School: Sunset High School**  
 **Middle School: Stoller Middle School**  
 **Category: Peer Advisor**  
