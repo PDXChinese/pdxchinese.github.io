@@ -14,6 +14,9 @@ feature_row1:
   - image_path: /assets/images/activities/pa_kevin_gan.jpeg
     title: "Kevin Gan"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_kevin_gan/'>Kevin is a sophomore at Purdue University, majoring in finance with a minor in statistics. He has a passion for entrepreneurship and hopes to start his own business. He is involved on campus as consultant for the Boilermaker Consulting Group. Kevin loves to play soccer and has been playing ever since he was 7 years old.</a></p>"
+  - image_path: /assets/images/activities/pa_jenny_jiang.jpg
+    title: "Jenny Jiang"
+    excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_jenny_jiang/'>Jenny is a junior at Sunset High School. Jenny face-paints and reads storytimes at the Portland's Children Museum, and she also leads an after-school club to volunteer with children. Jenny enjoys performing monologues for Speech and Debate. She hopes to study an interdisciplinary major between coding and art!</a></p>"  
   - image_path: /assets/images/activities/pa_danny_luo.jpg
     title: "Danny Luo"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_danny_luo/'>My name is Danny and I am a sophomore at the University of Southern California (USC). I am currently on the pre-med track, majoring in global health and double minoring in international relations and natural science. I play tennis and guitar and I'm a huge music nerd!</a></p>"
