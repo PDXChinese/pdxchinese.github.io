@@ -11,6 +11,9 @@ feature_row1:
   - image_path: /assets/images/activities/pa_iris_chang.jpg
     title: "Iris Chang"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_iris_chang/'>Iris is a sophomore at Sunset High School. She is passionate about helping others and making an impact on the Chinese community. Iris is interested in psychology and software engineering. She loves to play soccer, bake, shop, and watch Netflix. She is looking forward to talking to you! :)</a></p>"
+  - image_path: /assets/images/activities/pa_laura_epperson.jpeg
+    title: "Laura Epperson"
+    excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_laura_epperson/'>Laura is a senior at Scripps College majoring in Economics. She is passionate about environmental economics and hopes to pursue a career in sustainable finance in the future. Laura enjoys photography, playing guitar, spending time with family and friends, and traveling the world.</a></p>"
   - image_path: /assets/images/activities/pa_kevin_gan.jpeg
     title: "Kevin Gan"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_kevin_gan/'>Kevin is a sophomore at Purdue University, majoring in finance with a minor in statistics. He has a passion for entrepreneurship and hopes to start his own business. He is involved on campus as consultant for the Boilermaker Consulting Group. Kevin loves to play soccer and has been playing ever since he was 7 years old.</a></p>"
