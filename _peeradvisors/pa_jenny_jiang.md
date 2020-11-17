@@ -14,4 +14,6 @@ feature_row1:
 **Category: Peer Advisor**  
 **Hours/Week Available: 2**  
 
-Jenny is a junior at Sunset High School. She loves interacting with youth! Jenny face-paints and reads storytimes at the Portland's Children Museum, and she also leads an after-school club to volunteer with children. Jenny also enjoys performing monologues for Speech and Debate. She hopes to study an interdisciplinary major between coding and art!
+Jenny is a junior at Sunset, where she co-founded Helping Hands, an after school club for her members to interact with children and seniors in memory care. They have face-painted, made arts and crafts, swam, and made cookies with the children. She also coordinated an Intro to Web Design bootcamp this past summer, teaching middle schoolers how to code and design a website. She admired their hard work in coding. Jenny enjoys the energy and light-heartedness that youth bring and is excited to continue interacting with youth as a peer advisor. 
+
+Apart from youth interaction, Jenny also loves painting art centered around valuable social issues, like climate change, violence from war, and mental health. Her favorite medium to use is acrylic. When Jenny is stressed, her methods of relaxing include painting, listening to music, going out in nature, reading a paper book, and most importantly, talking with her friends. As a peer advisor, she is looking forward to using the latter method to help you guys destress. She is so excited to talk to you!
