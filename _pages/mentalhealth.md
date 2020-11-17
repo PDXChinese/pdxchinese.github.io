@@ -11,6 +11,9 @@ feature_row1:
   - image_path: /assets/images/activities/pa_iris_chang.jpg
     title: "Iris Chang"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_iris_chang/'>Iris is a sophomore at Sunset High School. She is passionate about helping others and making an impact on the Chinese community. Iris is interested in psychology and software engineering. She loves to play soccer, bake, shop, and watch Netflix. She is looking forward to talking to you! :)</a></p>"
+  - image_path: /assets/images/activities/pa_jenny_duan.jpg
+    title: "Jenny Duan"
+    excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_jenny_duan/'>Jenny is a junior at Jesuit High School, where she plays piano in the jazz band and leads the Asian Student Union club. She is highly interested in advocacy pursuits, specifically in regards to diversity and housing and education equity. Jenny enjoys listening to music, practicing the sport of fencing, and watching anime.</a></p>"
   - image_path: /assets/images/activities/pa_laura_epperson.jpg
     title: "Laura Epperson"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_laura_epperson/'>Laura is a senior at Scripps College majoring in Economics. She is passionate about environmental economics and hopes to pursue a career in sustainable finance in the future. Laura enjoys photography, playing guitar, spending time with family and friends, and traveling the world.</a></p>"
