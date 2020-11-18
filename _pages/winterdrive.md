@@ -2,6 +2,9 @@
 title: " "
 permalink: /winterdrive/
 ---
+
+We will operate under the [Statewide Freeze Guidance for Retail](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le2342A.pdf). When dropping off in each location, please keep 6 feet of distance from the volunteers. Donation Receipts will be available in marked box or tray for you to pick up. You may not see the smiles from our volunteers but they will do whatsoever they can to show you our appreciation and express our gratitude.
+
 <p><img src="/assets/images/activities/winter_drive_banner.jpg"></p>  
 
 # 2020 Community Winter Drive  
