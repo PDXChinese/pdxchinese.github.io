@@ -14,4 +14,6 @@ feature_row1:
 **Category: Peer Advisor**  
 **Hours/Week Available: 2-3**  
 
-Steven is a junior at Catlin Gabel School. He is fascinated by neuroscience and behavioral science, and hopes to pursue a career in neurology. He is passionate about assisting with social work, helping people through tough times, and doing all he can to make the world a better place. Steven enjoys reading, playing D&D with friends, and sleeping.
+Steven is a junior at Catlin Gabel School. He is fascinated by neuroscience and behavioral science, and hopes to pursue a career in neurology. He is passionate about helping others dealing with mental health issues and doing all he can to make the world a better place. Steven enjoys reading, playing D&D with friends, and sleeping.
+
+Steven has been tutoring middle schoolers at Catlin in math for the past few years, and has spent three summers as a camp counselor for the CREST summer camp program in the WLWV district. He has worked with children of all ages, regularly helps his friends get through hard times, and understands the importance of support and compassion.
