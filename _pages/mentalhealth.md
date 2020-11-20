@@ -35,6 +35,9 @@ feature_row1:
   - image_path: /assets/images/activities/pa_connor_shu.jpeg
     title: "Connor Shu"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_connor_shu/'>Connor is currently a freshman at the University of Pennsylvania. He is pursuing a BA in Physics and a BSE in Systems Science and Engineering as part of the VIPER. Connor is passionate about building a sustainable future and preserving this beautiful planet of ours. He loves nature and is always down for a hike!</a></p>"  
+  - image_path: /assets/images/activities/pa_ina_wang.jpg
+    title: "Ina Wang"
+    excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_ina_wang/'>Ina is currently a senior at USC studying neuroscience. She is driven towards her goal of improving access to vision care in underserved communities and hopes to open her own optometry clinic in the future. Some of her hobbies include dancing, hiking across the PNW, and discovering new music. </a></p>"
   - image_path: /assets/images/activities/pa_jasmine_wang.jpg
     title: "Jasmine Wang"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_jasmine_wang/'>Jasmine is a freshman at UC Berkeley double majoring in business and data science. She wants to work in tech and business. In high school, she was involved in DECA, mock trial, cross country, and volunteering with PERIOD and NHS. In her free time, she likes to watch anime and draw.</a></p>"
