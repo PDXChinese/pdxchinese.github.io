@@ -32,7 +32,7 @@ feature_row1:
   - image_path: /assets/images/activities/pa_aaron_sha.jpg
     title: "Aaron Sha"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_aaron_sha/'>Aaron Sha is a 3rd year attending USC as a Pre-Dental major with a Computational Biology Minor. Outside of class, he enjoys singing with his A Cappella group, writing for his science-communications journal, and producing music. Quarantine permitting, he also loves cooking with his friends and exploring local food venues.</a></p>"
-  - image_path: /assets/images/activities/pa_connor_shu.jpg
+  - image_path: /assets/images/activities/pa_connor_shu.jpeg
     title: "Connor Shu"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_connor_shu/'>Connor is currently a freshman at the University of Pennsylvania. He is pursuing a BA in Physics and a BSE in Systems Science and Engineering as part of the VIPER. Connor is passionate about building a sustainable future and preserving this beautiful planet of ours. He loves nature and is always down for a hike!</a></p>"  
   - image_path: /assets/images/activities/pa_jasmine_wang.jpg
