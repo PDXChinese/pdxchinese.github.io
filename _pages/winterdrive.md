@@ -61,6 +61,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Nancy Yang | Sunset High School | Stoller Middle School |
 | Nicholas Peng | Stoller Middle School | Stoller Middle School |
 | Nora Wu | Lincoln High School | Forest Park Elementary School (NW PDX) |
+| Ophilia Lu |  Lake Oswego High School | Lake Oswego High School |
 | Qianyi Zou | Lakeridge High School | Lake Oswego High School |
 | Raymond Shi | Lake Oswego High School | Lake Oswego High School |
 | Roger Li | Sunset High School | Sunset High School |
@@ -70,7 +71,6 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Xinyi Lu | Woodstock Elementary | Woodstock Elementary (SE PDX) |
 | Zhi Qu | Oregon Episcopal School | Forest Park Elementary School (NW PDX) |
 | Zong Qu | FLEX School | Forest Park Elementary School (NW PDX) |
-
 
 ## Donation Items
 
