@@ -25,7 +25,7 @@ feature_row1:
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_jenny_jiang/'>Jenny is a junior at Sunset High School. Jenny face-paints and reads storytimes at the Portland's Children Museum, and she also leads an after-school club to volunteer with children. Jenny enjoys performing monologues for Speech and Debate. She hopes to study an interdisciplinary major between coding and art!</a></p>"  
   - image_path: /assets/images/activities/pa_danny_luo.jpg
     title: "Danny Luo"
-    excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_danny_luo/'Danny Luo is a sophomore at the University of Southern California (USC) and is currently on the pre-med track. He is majoring in global health with a double minor in international relations and natural science. He plays tennis and guitar and is a huge music nerd!</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_danny_luo/'>Danny Luo is a sophomore at the University of Southern California (USC) and is currently on the pre-med track. He is majoring in global health with a double minor in international relations and natural science. He plays tennis and guitar and is a huge music nerd!</a></p>"
   - image_path: /assets/images/activities/pa_aaron_sha.jpg
     title: "Aaron Sha"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_aaron_sha/'>Aaron Sha is a 3rd year attending USC as a Pre-Dental major with a Computational Biology Minor. Outside of class, he enjoys singing with his A Cappella group, writing for his science-communications journal, and producing music. Quarantine permitting, he also loves cooking with his friends and exploring local food venues.</a></p>"
@@ -34,7 +34,7 @@ feature_row1:
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_jasmine_wang/'>Jasmine is a freshman at UC Berkeley double majoring in business and data science. She wants to work in tech and business. In high school, she was involved in DECA, mock trial, cross country, and volunteering with PERIOD and NHS. In her free time, she likes to watch anime and draw.</a></p>"
   - image_path: /assets/images/activities/pa_nova_wu.jpg
     title: "Nova Wu"
-    excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_nova_wu/'>I’m Nova, I am a materials science and engineering student and freshman at Stanford. My passion lies in creating more efficient and accessible energy materials. In high school, I cofounded and led the Oregon Middle School Speech and Debate League. I enjoy drawing, folding origami, playing Minecraft, and hiking.</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_nova_wu/'>I’m Nova, I am a materials science and engineering student and freshman at Stanford. My passion lies in creating more efficient and accessible energy materials. In high school, I cofounded and led the Oregon Middle School Speech and Debate League. I enjoy drawing, folding origami, playing Minecraft, and hiking as the ways to interact with my friends.</a></p>"
   - image_path: /assets/images/activities/pa_alex_yao.png
     title: "Alexander Yao"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_alex_yao/'>Alex is a pre-med senior majoring in Human Biology at the University of Southern California. Alex serves as the president of USC’s Soul Cal Breaking team, tutors as the vice president of Teach for Los Angeles, and volunteers in a research lab. Besides these activities, he also enjoys working out, breakdancing, and watching anime.</a></p>"
