@@ -29,6 +29,9 @@ feature_row1:
   - image_path: /assets/images/activities/pa_aaron_sha.jpg
     title: "Aaron Sha"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_aaron_sha/'>Aaron Sha is a 3rd year attending USC as a Pre-Dental major with a Computational Biology Minor. Outside of class, he enjoys singing with his A Cappella group, writing for his science-communications journal, and producing music. Quarantine permitting, he also loves cooking with his friends and exploring local food venues.</a></p>"
+  - image_path: /assets/images/activities/pa_nova_wu.png
+    title: "Nova Wu"
+    excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_nova_wu/'>I’m Nova, I am a materials science and engineering student and freshman at Stanford. My passion lies in creating more efficient and accessible energy materials. In high school, I cofounded and led the Oregon Middle School Speech and Debate League. I enjoy drawing, folding origami, playing Minecraft, and hiking.</a></p>"
   - image_path: /assets/images/activities/pa_alex_yao.png
     title: "Alexander Yao"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_alex_yao/'>Alex is a pre-med senior majoring in Human Biology at the University of Southern California. Alex serves as the president of USC’s Soul Cal Breaking team, tutors as the vice president of Teach for Los Angeles, and volunteers in a research lab. Besides these activities, he also enjoys working out, breakdancing, and watching anime.</a></p>"
