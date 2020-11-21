@@ -43,6 +43,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Breanna Li | Lakeridge High School | Lake Oswego High School |
 | Claudia Zhuge | Meadow Park Middle School | Stoller Middle School |
 | Daniel Xian | Catlin Gable | Bethany Village |
+| Dorothy Cui | West Sylvan Middle School | Forest Park Elementary School (NW PDX) |
 | Erika Leung | Lincoln High School | Forest Park Elementary School (NW PDX) |
 | Ethan Qin | Westview High School | Stoller Middle School |
 | Fiona Wang | Sunset High School | Stoller Middle School |
