@@ -39,6 +39,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Anna Jiang | Sunset High School | Sunset High School |
 | Annie Cai | Lakeridge High School | Lake Oswego High School |
 | Anthony Qin | Westview High School | Stoller Middle School |
+| Austin  Yan | Lincoln High School | Forest Park Elementary School (NW PDX) |
 | Breanna Li | Lakeridge High School | Lake Oswego High School |
 | Claudia Zhuge | Meadow Park Middle School | Stoller Middle School |
 | Daniel Xian | Catlin Gable | Bethany Village |
@@ -66,7 +67,9 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Raymond Shi | Lake Oswego High School | Lake Oswego High School |
 | Roger Li | Sunset High School | Sunset High School |
 | Sophia Wang | Lake Oswego High School | Lake Oswego High School |
+| Stella Wang | Jesuit High School | Stoller Middle School |
 | Steven Niu | Catlin Gable | Stoller Middle School |
+| Vivian Tan | Sunset High School | Sunset High School |
 | Winston Zhang | Stoller Middle School | Stoller Middle School |
 | Xinyi Lu | Woodstock Elementary | Woodstock Elementary (SE PDX) |
 | Zhi Qu | Oregon Episcopal School | Forest Park Elementary School (NW PDX) |
