@@ -55,6 +55,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Kiki Chiang | Lakeridge High School | Lake Oswego High School |
 | LanHong Huang | Lakeridge High School | Lake Oswego High School |
 | Leon Liu | International School of Beaverton | Lake Oswego High School |
+| Lucas Wang | Hope Chinese Chartered School | Stoller Middle School |
 | Lucas Zhang | Access Academy | Forest Park Elementary School (NW PDX) |
 | Maggie Zhou | Lincoln High School | Forest Park Elementary School (NW PDX) |
 | Michelle Lu | Woodstock Elementary | Woodstock Elementary (SE PDX) |
@@ -62,7 +63,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Nancy Yang | Sunset High School | Stoller Middle School |
 | Nicholas Peng | Stoller Middle School | Stoller Middle School |
 | Nora Wu | Lincoln High School | Forest Park Elementary School (NW PDX) |
-| Ophilia Lu |  Lake Oswego High School | Lake Oswego High School |
+| Ophilia Lu |  Lake Oswego Junior High School | Lake Oswego High School |
 | Qianyi Zou | Lakeridge High School | Lake Oswego High School |
 | Raymond Shi | Lake Oswego High School | Lake Oswego High School |
 | Roger Li | Sunset High School | Sunset High School |
