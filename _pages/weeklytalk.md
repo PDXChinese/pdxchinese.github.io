@@ -41,6 +41,8 @@ feature_row17:
 feature_row18:
     - image_path: /assets/images/activities/talk_eva_lu1.jpg
     - image_path: /assets/images/activities/talk_joseph_yang.jpg
+feature_row19:
+    - image_path: /assets/images/activities/talk_zhen_cheng.jpg
 ---
 
 Under the circumstances that the epidemic severely limits people's lives, how can we all be able to stay connected, not only can make use of ample time, but also take advantage of virtual resources to do some things that are usually difficult to do. The answer we give is to organize Weekly Talk on the Zoom platform. The presenter can be from inside or outside of the community, and the topic is not limited. The audience can be all ages.
@@ -49,7 +51,19 @@ In order to make the interaction more efficient, you are welcome to [submit your
 
 Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and the time will generally be controlled at one hour. The registration is required for each event.
 
-### 11.14.2020
+### 11.28.2020 3pm
+
+How to Manage Your Emotions and Sleep Like a Baby
+
+{% include feature_row id="feature_row19"%}
+
+[Dr. Zhen Cheng](https://www.drzhencounseling.com/) is a licensed psychologist, psychology educator, and diversity consultant located in Portland, Oregon. She received her BS in Education and Social Policy from Northwestern University and her MS and PhD in Clinical Psychology from the University of Oregon. She offers emotional health classes to the community and is passionate about diversity science and making psychology accessible.
+
+In this talk, you will gain important tools to manage your emotions and get good sleep. Come prepared to learn and to practice some relaxation exercises! You will 1) understand and practice breathing mindfulness and progressive muscle relaxation, 2) learn the difference between natural and manufactured emotions, 3) understand the connections between your thoughts, emotions, and behaviors, and 4) apply the principles behind Cognitive Behavioral Therapy (CBT) and CBT for Insomnia to improve your mood and get restful sleep.
+
+[Click here to register](https://us02web.zoom.us/meeting/register/tZAtce2qrT8oGNdqpTf04faBHbd8-yjEsImq). After registering, you will receive a confirmation email containing information about joining the meeting.
+
+### 11.14.2020 3pm
 
 Culturally Congruent Integrative Health/Mental Health Healing Model for Chinese and other Asian American populations, Asians, and beyond.  (东西融合的精神與心理療癒)
 
@@ -59,9 +73,7 @@ Culturally Congruent Integrative Health/Mental Health Healing Model for Chinese 
 
 [Dr. Joseph Yang](http://www.aimhtcm.org/biography-of-joseph-yang.html)'s lecture will explain the characteristics and systems of TCM treatment of various mental diseases. It will also explain the four basic treatment methods of traditional Chinese medicine and how to cooperate with modern medicine to treat various psychological and mental illnesses.
 
-[Click here to register](https://us02web.zoom.us/meeting/register/tZckduyopjgpH9dsF-47BvSpc-LMaNbSdKPn). After registering, you will receive a confirmation email containing information about joining the meeting.
-
-### 11.07.2020
+### 11.07.2020 3pm
 
 Welcome to Braingystics
 
@@ -72,7 +84,7 @@ Holistic Nutritionist, ABD Certified Fitness Trainer. Join Me and Arlene Strugar
 
 To know her better, here is [her clinic](https://braingystics.com/) and [her book](https://www.amazon.com/Success-Unlimited-Arlene-Binoya-Strugar-Psy/dp/1732635374).
 
-### 10.31.2020
+### 10.31.2020 3pm
 
 Common Psychological Problems and Preventive Measures for Chinese Children
 
