@@ -35,6 +35,8 @@ feature_row1:
 
 > 精神心理健康救助计划(Mental Health & Behavior Health Grant)将用于帮助社区成员因为受疫情影响而引起的精神心理健康问题，我们会展开多方面活动，包括专业人员[每星期讲座](http://pdxchinese.org/weeklytalk/)，[互助计划](http://pdxchinese.org/mentalhealth/)，网站开发项目，[受影响家庭救助计划](mailto:health@pdxchinese.org?subject=[Mental Health Assistance)等。
 
+> 俄勒冈健康共享(Health Share of Oregon)拨款 (1/1/2021 - 12/31/2021)，会用来帮助完善社区防疫基础设施和对受到疫情影响的社区成员提供一次性救助。
+
 OCC会继续为华人社区申请政府补贴计划，与此同时，如果我们的支持计划暂时无法帮助到您，您可以访问[211网站](https://covid19.211info.org/)，那上面有当地最新最全的补助计划。
 
 ## 现场活动
