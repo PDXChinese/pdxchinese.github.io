@@ -82,7 +82,7 @@ Youth Advisors
 [Weekly Talk on Mental Health](http://pdxchinese.org/weeklytalk/)  
 We will host weekly talks on mental health by inviting professionals in the field till end of 2020.  
 
-[Request for Paid Visits to Licensed Mental Health Providers](mailto:health@pdxchinese.org?subject=[Request for Visits])  
+[Request for Paid Visits to Licensed Mental Health Providers](mailto:oregonchinesecoalition@gmail.com)  
 For office/virtual visits only and possibly outpatient treatment. You are encouraged to get the fee estimate first and contact us for securing the funding. However, contacting us beforehand is not mandatory. Funding will be available for services dated before 12/31/2020.  
 [Reimbursement Form](/assets/pdf/reimbursement_form_advocacy_fillable.pdf) (Category: Visits to Mental Health Providers)  
 
