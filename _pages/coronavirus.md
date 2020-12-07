@@ -5,6 +5,9 @@ feature_row1:
   - image_path: /assets/images/activities/oha1.jpg
   - image_path: /assets/images/activities/cityofportland.png
   - image_path: /assets/images/activities/caresact.jpg
+  - image_path: /assets/images/activities/healthshare.jpg
+  - image_path: /assets/images/activities/ocf.jpg
+  - image_path: /assets/images/activities/communityaction.jpg
 ---
 
 ![]({{ site.url }}/assets/images/activities/interndrawing1.jpg)
