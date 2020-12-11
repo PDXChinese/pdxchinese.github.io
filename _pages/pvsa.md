@@ -33,3 +33,7 @@ feature_row3:
   - image_path: /assets/images/pvsa/2019_roland.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Ruolan_Bai/'>Ruolan Bai, Sunset High School (Gold Award)</a></p>"
 ---
+
+{% include feature_row id="feature_row1"%}
+
+Congratulations to the following thirteen outstanding youths from our community recognized as recipients of President’s Volunteer Service Award and Community Volunteer Service Award for completing a combined 1,420 volunteer hours in a single year.
