@@ -3,7 +3,7 @@ title: " "
 permalink: /pvsa/
 feature_row1:
   - image_path: /assets/images/activities/pvsa_logo.jpg
-  - image_path: /assets/images/activities/year_2019.jpg
+  - image_path: /assets/images/activities/year_2020.jpg
 feature_row2:
   - image_path: /assets/images/pvsa/2019_maggie.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Maggie_Bao/'>Maggie Bao, Sunset High School (Gold Award)</a></p>"
@@ -33,24 +33,3 @@ feature_row3:
   - image_path: /assets/images/pvsa/2019_roland.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Ruolan_Bai/'>Ruolan Bai, Sunset High School (Gold Award)</a></p>"
 ---
-
-{% include feature_row id="feature_row1"%}
-
-Congratulations to the following thirteen outstanding youths from our community recognized as recipients of President’s Volunteer Service Award and Community Volunteer Service Award for completing a combined 1,420 volunteer hours in a single year.
-
-Receiving the gold award are Qiyue Zhang of Westview High School, David Sha, Maggie Bao, Ruolan Bai of Sunset High School, Victor Li of Jesuit High School, Derica Theobald of French American International School, and Jenell Theobald of Whitford Middle School.
-
-Silver award recipients are Danica Leung of Lincoln High School, Jenny Jiang and Jiaqi Zhang of Sunset High School, and Laura Qin of Westview High School.
-
-Bronze awards go to Eleanor Song of Stoller Middle School and Owen Shen of The Emerson School.
-
-These awards acknowledge individuals whose service positively impacts communities and inspires those around them to take action as well. The Oregon Chinese Coalition is honored to have the opportunity to help community youth earn this well-deserved recognition.
-
-{% include feature_row id="feature_row2"%}
-
-### Community Volunteer Service Award  
-(PVSA Equivalent Award for Non-Resident Volunteers)
-
-{% include feature_row id="feature_row3"%}
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jBv5XGSxijM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
