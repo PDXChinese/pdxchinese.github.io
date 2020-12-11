@@ -41,3 +41,4 @@ Congratulations to the following thirteen outstanding youths from our community 
 ### Archive
 
 [2019 PVSA Recipients](http://pdxchinese.org/pvsafiles/pvsa_2019/)
+[Students in BSD were recognized by School District School Board](http://pdxchinese.org/bsd_board_recognition_2020/)
