@@ -38,6 +38,10 @@ feature_row3:
 
 Congratulations to the following twenty eight outstanding youths from our community recognized as recipients of President’s Volunteer Service Award and Community Volunteer Service Award for completing a combined 3,913 volunteer hours in a single year.
 
+The accomplishments didn't come easy because most part of the year was under the influence of pandemic. These students demonstrated the resilience in difficult times. They knew their volunteering work meant even more with elders needing groceries to be delivered, peers struggling with remote learning, and growing population in shelters.
+
+These awards acknowledge individuals whose service positively impacts communities and inspires those around them to take action as well. The Oregon Chinese Coalition is honored to have the opportunity to help community youth earn this well-deserved recognition.
+
 ### Archive
 
 [2019 PVSA Recipients](http://pdxchinese.org/pvsafiles/pvsa_2019/)  
