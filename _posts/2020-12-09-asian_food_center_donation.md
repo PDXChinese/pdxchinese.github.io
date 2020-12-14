@@ -12,4 +12,4 @@ date: "2020-12-09"
 
 周日(12/13)OCC理事王琰前往本地（Corvallis）的HK Asian Market，为那里当日值班的5位一线员工送上我们的一份衷心感谢！
 
-![]({{ site.url }}/assets/images/hk_asian_market_grant.jpg)
+![]({{ site.url }}/assets/images/hk_asian_market_grant.jpeg)
