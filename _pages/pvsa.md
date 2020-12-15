@@ -20,7 +20,7 @@ feature_row2:
   - image_path: /assets/images/pvsa/2020_danica_leung.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Danica_Leung/'>Danica Leugn, Lincoln High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2020_erik_liang.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Erik_Liang/'>Erick Liang, Tigard High School (Gold Award)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Erik_Liang/'>Erik Liang, Tigard High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2020_renee_liu.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Renee_Liu/'>Renee Liu, Lake Oswego High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2020_megan_tian.jpg
