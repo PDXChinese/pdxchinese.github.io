@@ -19,3 +19,5 @@ Jenell Theobald is an eighth grade Summa student at Whitford Middle School. Her 
 Jenell has won several awards, including a feature in the 2020 Amazing Kids magazine.
 
 Besides her work on LPU, Jenell has also done many volunteer projects for the Oregon Elks and Oregon Chinese Coalition, including fundraising for Camp Meadowood Springs, helping Vincent Chan memorial service, hanging lanterns in Chinatown, attending city board meetings and writing summaries for the community as a Youth Ambassador. Jenell volunteer earnestly, and influence many people around her.
+
+Oregon Chinese Coalition is proud to join the President of the United States in recognizing the volunteers who consistently take the time to make a difference in the lives of others. Therefore, it is a great honor to present the President's Volunteer Service Award (PVSA) to Jenell Theobald.
