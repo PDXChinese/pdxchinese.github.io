@@ -89,6 +89,13 @@ For office/virtual visits only and possibly outpatient treatment. You are encour
 [Assistance Programs](http://OCCResponse.org)  
 Some funding is available specifically for the families suffered from mental illnesses.  
 
+[Books on Mental Health](mailto:oregonchinesecoalition@gmail.com)  
+We have purchased books on mental health based on the recommendations from professionals and readers in the community. All the books are distributed to anyone who have requested.  
+
+[Practice English with Bryce](https://signup.com/go/bEMkVvo)  
+Staying at home led to another unexpected consequence -- oral English becomes rusty. To address the concerns from the community members who worry about their readinewss to go back to workplace, we have opened up this English conversation sessions.
+
+
 ### Other Useful Resources
 
 :information_source: [YouthLine, a free and confidential teen-to-teen crisis and help line.](https://oregonyouthline.org/)  

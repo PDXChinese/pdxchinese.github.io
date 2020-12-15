@@ -5,33 +5,63 @@ feature_row1:
   - image_path: /assets/images/activities/pvsa_logo.jpg
   - image_path: /assets/images/activities/year_2020.jpg
 feature_row2:
-  - image_path: /assets/images/pvsa/2019_maggie.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Maggie_Bao/'>Maggie Bao, Sunset High School (Gold Award)</a></p>"
-  - image_path: /assets/images/pvsa/2019_victor.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Victor_Li/'>Victor Li, Jesuit High School (Gold Award)</a></p>"
-  - image_path: /assets/images/pvsa/2019_david.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_David_Sha/'>David Sha, Sunset High School (Gold Award)</a></p>"
-  - image_path: /assets/images/pvsa/2019_derica.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Derica_Theobald/'>Derica Theobald, French American Int'l School (Gold Award)</a></p>"    
-  - image_path: /assets/images/pvsa/2019_jenell.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Jenell_Theobald/'>Jenell Theobald, Whitford Middle School (Gold Award)</a></p>"
-  - image_path: /assets/images/pvsa/2019_qiyue.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Qiyue_Zhang/'>Qiyue Zhang, Westview High School (Gold Award)</a></p>"
-  - image_path: /assets/images/pvsa/2019_jenny.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Jenny_Jiang/'>Jenny H Jiang, Sunset High School (Silver Award)</a></p>"
-  - image_path: /assets/images/pvsa/2019_danica.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Danica_Leung/'>Danica Leung, Lincoln High School (Silver Award)</a></p>"
-  - image_path: /assets/images/pvsa/2019_laura.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Laura_Qin/'>Laura Qin, Westview High School (Silver Award)</a></p>"
-  - image_path: /assets/images/pvsa/2019_jiaqi.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Jiaqi_Zhang/'>Jiaqi Jackie Zhang, Sunset High School (Silver Award)</a></p>"
-  - image_path: /assets/images/pvsa/2019_owen.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Owen_Shen/'>Owen Shen, The Emerson School (Bronze Award)</a></p>"
-  - image_path: /assets/images/pvsa/2019_eleanor.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Eleanor_Song/'>Eleanor Leran Song, Stoller Middle School (Bronze Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Maggie_Bao.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Maggie_Bao/'>Maggie Bao, Sunset High School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Roselyn_Dai.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Roselyn_Dai/'>Roselyn Dai, Lakeridge High School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Wendy_Du.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Wendy_Du/'>Wendy Du, Sunset High School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Jenny_Duan.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Jenny_Duan/'>Jenny Duan, Jesuit High School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Jason_Fu.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Jason_Fu/'>Jason Fu, Sunset High School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Jenny_Jiang.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Jenny_Jiang/'>Jenny Jiang, Sunset High School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Danica_Leung.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Danica_Leung/'>Danica Leugn, Lincoln High School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Erik_Liang.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Erik_Liang/'>Erick Liang, Tigard High School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Renee_Liu.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Renee_Liu/'>Renee Liu, Lake Oswego High School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Megan_Tian.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Megan_Tian/'>Megan Tian, Lakeridge High School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Stella_Wang.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Stella_Wang/'>Stella Wang, Jesuit High School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Daniel_Xian.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Daniel_Xian/'>Daniel Xian, Catlin High School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_jiaqi_zhang.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Jackie_Zhang/'>Jackie Zhang, Sunset High School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Cheery_Zhang.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Cheery_Zhang/'>Cheery Zhang, Westview High School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Audrey_Zhao.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Audrey_Zhao/'>Audrey Zhao, Sunset High School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Fiona_Zou.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Fiona_Zou/'>Fiona Zou, ISB (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Erika_Leung.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Erika_Leung/'>Erika Leung, Lincoln High School (Silver Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Ray_Yang.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Zixuang_Ray_Yang/'>Zixuang Ray Yang, Westview High School (Silver Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Jenell_Theobald.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Jenell_Theobald/'>Jenell Theobald, Whitford Middle School (Silver Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Lele_Yang.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Lele_Yang/'>Lele Yang, Sunset High School (Silver Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Jayden_Huang.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Jayden_Huang/'>Jayden Huang, Sunset High School (Bronze Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Colin_Liu.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Colin_Liu/'>Colin Liu, Westview High School (Bronze Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Leon_Liu.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Leon_Liu/'>Leon Liu, ISB (Bronze Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Ethan_Qin.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Ethan_Qin/'>Ethan Qin, Westview High School (Bronze Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Laura_Qin.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Laura_Qin/'>Laura Qin, Westview High School (Bronze Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Derica_Theobald.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Derica_Theobald/'>Derica Theobald, Sexton Mountain School (Bronze Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Ethan_Zhang.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Ethan_Zhang/'>Ethan Zhang, Stoller Middle School (Bronze Award)</a></p>"
 feature_row3:
-  - image_path: /assets/images/pvsa/2019_roland.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2019_Ruolan_Bai/'>Ruolan Bai, Sunset High School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_Nancy_Bai.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Nancy_Bai/'>Nancy Bai, Sunset High School (Gold Award)</a></p>"
 ---
 
 {% include feature_row id="feature_row1"%}
@@ -41,6 +71,13 @@ Congratulations to the following twenty eight outstanding youths from our commun
 The accomplishments didn't come easy because most part of the year was under the influence of pandemic. These students demonstrated the resilience in difficult times. They knew their volunteering work meant even more with elders needing groceries to be delivered, peers struggling with remote learning, and growing population in shelters.
 
 These awards acknowledge individuals whose service positively impacts communities and inspires those around them to take action as well. The Oregon Chinese Coalition is honored to have the opportunity to help community youth earn this well-deserved recognition.
+
+{% include feature_row id="feature_row2"%}
+
+### Community Volunteer Service Award  
+(PVSA Equivalent Award for Non-Resident Volunteers)
+
+{% include feature_row id="feature_row3"%}
 
 ### Archive
 
