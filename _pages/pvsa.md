@@ -9,11 +9,11 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_maggie_bao/'>Maggie Bao, Sunset High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2020_roselyn_dai.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_roselyn_dai/'>Roselyn Dai, Lakeridge High School (Gold Award)</a></p>"
-  - image_path: /assets/images/pvsa/2020_wendy_du.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_wendy_du/'>Wendy Du, Sunset High School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_shunyi_du.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_wendy_du/'>Shunyi Du, Sunset High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2020_jenny_duan.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_jenny_duan/'>Jenny Duan, Jesuit High School (Gold Award)</a></p>"
-  - image_path: /assets/images/pvsa/2020_Jason_fu.jpg
+  - image_path: /assets/images/pvsa/2020_jason_fu.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_jason_fu/'>Jason Fu, Sunset High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2020_jenny_jiang.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_jenny_jiang/'>Jenny Jiang, Sunset High School (Gold Award)</a></p>"
@@ -47,7 +47,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_lele_yang/'>Lele Yang, Sunset High School (Silver Award)</a></p>"
   - image_path: /assets/images/pvsa/2020_jayden_huang.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_jayden_huang/'>Jayden Huang, Sunset High School (Bronze Award)</a></p>"
-  - image_path: /assets/images/pvsa/2020_colin_liu.jpg
+  - image_path: /assets/images/pvsa/2020_colin_liu.png
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_colin_liu/'>Colin Liu, Westview High School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2020_leon_liu.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_leon_liu/'>Leon Liu, ISB (Bronze Award)</a></p>"
