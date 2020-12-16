@@ -18,7 +18,7 @@ feature_row2:
   - image_path: /assets/images/pvsa/2020_jenny_jiang.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Jenny_Jiang/'>Jenny Jiang, Sunset High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2020_danica_leung.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Danica_Leung/'>Danica Leugn, Lincoln High School (Gold Award)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Danica_Leung/'>Danica Leung, Lincoln High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2020_erik_liang.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Erik_Liang/'>Erik Liang, Tigard High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2020_renee_liu.jpg
