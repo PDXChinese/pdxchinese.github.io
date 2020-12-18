@@ -34,7 +34,7 @@ feature_row2:
   - image_path: /assets/images/pvsa/2020_cheery_zhang.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Cheery_Zhang/'>Cheery Zhang, Westview High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2020_audrey_zhao.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Audrey_Zhao/'>Audrey Zhao, Sunset High School (Gold Award)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Audrey_Zhao/'>Audrey Zhao, Westview High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2020_fiona_zou.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Fiona_Zou/'>Fiona Zou, ISB (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2020_erika_leung.jpg
