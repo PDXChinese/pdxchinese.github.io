@@ -11,7 +11,7 @@ feature_row1:
 
 **School: Jesuit High School**  
 **Category: Teens (11-15)**  
-**Hours: 199**  
+**Hours: 282**  
 
 Jenny Duan is a current junior at Jesuit High School, where she furthers her passion for social advocacy through the Rose Haven Club, Asian Student Union, and Mental Health Awareness Club, which she founded. This past summer, she volunteered with the Youth-Link program by teaching free SAT and Ethics classes. Promoting access to education resources is an important cause for her, and she also volunteers at OMSI to share science information with the public through the facilitation of demos. Additionally, Jenny is a Youth Outreach Board leader at Rose Haven, a day shelter downtown serving women, children, and gender diverse folks suffering from houselessness and domestic violence. There, she advocates through direct service, social media, grant-writing, and fundraising campaigns. Jenny believes that service should be rooted in service and developing community connections, and she aims to bring this zeal to work in partnership with community organizations. She loves being involved with local efforts through
 volunteering efforts, and strives to continue her passion for service throughout her life.
