@@ -39,12 +39,14 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Fiona_Zou/'>Fiona Zou, ISB (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2020_erika_leung.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Erika_Leung/'>Erika Leung, Lincoln High School (Silver Award)</a></p>"
-  - image_path: /assets/images/pvsa/2020_ray_yang.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Ray_Yang/'>Ray Yang, Westview High School (Silver Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_kevin_qiu.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Kevin_Qiu/'>Kevin Qiu, Lincoln High School (Silver Award)</a></p>"
   - image_path: /assets/images/pvsa/2020_jenell_theobald.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Jenell_Theobald/'>Jenell Theobald, Whitford Middle School (Silver Award)</a></p>"
   - image_path: /assets/images/pvsa/2020_lele_yang.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Lele_Yang/'>Lele Yang, Sunset High School (Silver Award)</a></p>"
+  - image_path: /assets/images/pvsa/2020_ray_yang.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Ray_Yang/'>Ray Yang, Westview High School (Silver Award)</a></p>"
   - image_path: /assets/images/pvsa/2020_jayden_huang.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Jayden_Huang/'>Jayden Huang, Sunset High School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2020_colin_liu.png
