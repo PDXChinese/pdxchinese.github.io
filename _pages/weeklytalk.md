@@ -53,6 +53,22 @@ In order to make the interaction more efficient, you are welcome to [submit your
 
 Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and the time will generally be controlled at one hour. The registration is required for each event.
 
+### 12.19.2020 3pm
+
+Parenting under the Pandemic -- 7 Habits of Highly Effective Parents
+
+{% include feature_row id="feature_row20"%}
+
+Under the sudden epidemic, home isolation has entered its tenth month, and normal school is still nowhere in sight. The results statistics of the fall semester show that the drawbacks of distance education are gradually emerging. For example, a report released by the Sequoia Union High School District in Silicon Valley shows that the number of students who failed at least one course has soared from 19.7% in 2019 to the current 29%, a growth rate of nearly 50%. The failure rate of high school students in the Healdsburg Unified School District is currently 39%, almost twice that of normal years. Distance teaching poses great challenges for most students, and it also challenges the patience and love of Chinese parents who have always valued education.
+
+### 12.12.2020 3pm
+
+Way to Happiness-Family Psychological Self-Help Guide
+
+{% include feature_row id="feature_row20"%}
+
+Tomorrow's talk can also be seen as an extension of last week's topic, which will delve into happiness. Because more than 60 years of research has found that happiness is significantly positively correlated with academic performance and drive. Under positive emotions, the thinking from four-year-old children to adults is more open, more creative, more efficient in learning, more tolerant and friendly, and more popular with people around them. A positive family environment can help children reach their full potential! Therefore, in order to cultivate happy children, parents must improve their wellbeing. The talk is to help you how to apply the scientific findings of positive psychology in parenting practice, especially to maintain optimism under the pressure of the epidemic, improve physical and mental health, and set an example for children.
+
 ### 12.05.2020 3pm
 
 What Doesn’t Kill You Makes You Stronger! -	Youth Suicide Prevention
@@ -66,8 +82,6 @@ Suicide is not caused by one "reason", but has different risk factors, and then 
 We cannot keep our children living in a vacuum and block out all stress and failure forever. Resilience is the process of adapting well in the face of adversity, trauma, tragedy, threats, or significant sources of stress. Resilience involves not only “bouncing back” from these difficult experiences, but also profound personal growth.
 
 How to strengthen our children’s resilience, enhancing the joy and meaning of life while defending the inevitable frustrations and adversity that comes with being?
-
-[Click here to register](https://us02web.zoom.us/meeting/register/tZAqduuvpjgpGtaB-20b9SRS2tfW7J3bPCxY). After registering, you will receive a confirmation email containing information about joining the meeting.
 
 ### 11.28.2020 3pm
 
