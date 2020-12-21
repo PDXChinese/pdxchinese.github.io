@@ -89,7 +89,7 @@ Staying at home led to another unexpected consequence -- oral English becomes ru
 [Headspace Membership](https://work.headspace.com/oregonchinesecoalition/member-enroll?utm_medium=email&_hsmi=77283528&_hsenc=p2ANqtz-88UDOik4Z_O9-jdo1Us7sryMJyrmKzONEViJQlpiiZ7GQ1s0SMFja13DX3pmYYBjxMnevhO-dVp4uAM3vGwZXWiDG8Mg&utm_content=77283528&utm_source=hs_automation)  
 Get Headspace for free, 1000+ hours of mindfulness and sleep content, Mini exercises for busy schedules, Proven to reduce stress in just 10 days.
 
-Mental Health Access  
+[Mental Health Access](http://)  
 A web portal containing mental health resources which are more relevant to Chinese American community is being developed by four COVID-19 Response Interns.
 
 ### Other Useful Resources
