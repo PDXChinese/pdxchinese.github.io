@@ -36,7 +36,7 @@ Promote and Encourage Youth NPO (10 min)
 
 [President's Volunteer Service Award](http://pdxchinese.org/pvsa/) (20 min)
 
-## Social Hour After the Roundtable
+## Social Hour at [White Elephant Online](https://www.whiteelephantonline.com/)
 
 All roundtable participants are welcome to join. Details will be emailed to the roundtable registered participants later.
 
