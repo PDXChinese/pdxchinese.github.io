@@ -26,15 +26,15 @@ Please register at [Zoom](https://us02web.zoom.us/meeting/register/tZUof--uqT4tG
 
 OCC introduction (12 min)
 
-Youth Ambassador (15 min)
+[Youth Ambassador](http://pdxchinese.org/youthambassadors/) (15 min)
 
-Peer Advisor  (15 min)
+[Peer Advisor](http://pdxchinese.org/peeradvisors/)  (15 min)
 
-COVID-19 Response Internship (15 min)
+[COVID-19 Response Internship](http://pdxchinese.org/coronavirus/) (15 min)
 
 Promote and Encourage Youth NPO (10 min)
 
-President's Volunteer Service Award (20 min)
+[President's Volunteer Service Award](http://pdxchinese.org/pvsa/) (20 min)
 
 ## Social Hour After the Roundtable
 
