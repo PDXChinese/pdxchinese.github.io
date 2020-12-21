@@ -9,10 +9,10 @@ permalink: /youthroundtable/
 # 4th Annual Oregon Chinese Youth Roundtable
 
 ## Date
-12/26/2020 Saturday 10:00 pm - 1:00 pm (Lunch will be provided)
+12/26/2020 Saturday 2:00 pm - 4:00 pm
 
 ## Place
-Jenkins Estate (8005 SW Grabhorn Rd, Beaverton, OR 97007) ([Google map](https://www.google.com/maps/place/Jenkins+Estate/@45.4627396,-122.8948271,16z/data=!4m5!3m4!1s0x0:0x9601b30bc1ad668c!8m2!3d45.461845!4d-122.8914252))
+Virtual Event
 
 ## Participants
 
@@ -20,16 +20,25 @@ Middle and high school students, college students, and college graduates
 
 ## Registration
 
+Please register at [Zoom](https://us02web.zoom.us/meeting/register/tZUof--uqT4tG9cdBi4M8RH_p_c1wY0QVrMZ), you will receive the login information for the event.
 
 ## Agenda
 
+OCC introduction (12 min)
 
-### President's Volunteer Service Award Presentation Ceremony
+Youth Ambassador (15 min)
 
+Peer Advisor  (15 min)
+
+COVID-19 Response Internship (15 min)
+
+Promote and Encourage Youth NPO (10 min)
+
+President's Volunteer Service Award (20 min)
 
 ## Social Hour After the Roundtable
 
-Only for the college students and graduates at the Roundtable
+All roundtable participants are welcome to join. Details will be emailed to the roundtable registered participants later.
 
 
 ### Logo designed by Olando Lin
