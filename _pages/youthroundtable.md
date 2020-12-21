@@ -40,6 +40,7 @@ Promote and Encourage Youth NPO (10 min)
 
 All roundtable participants are welcome to join. Details will be emailed to the roundtable registered participants later.
 
+[How to Video](https://www.whiteelephantonline.com/how-to-play)
 
 ### Logo designed by Olando Lin
 
