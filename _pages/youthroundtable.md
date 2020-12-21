@@ -46,7 +46,7 @@ All roundtable participants are welcome to join. Details will be emailed to the 
 
 ## Archive
 
-2019 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2019.pdf) [Recap](http://pdxchinese.org/youth-roundtable-2019-recap/)  
-2018 Youth Roundtable [Agenmda](/assets/pdf/youth-roundtable-2018.pdf) [Recap](http://pdxchinese.org/youth-roundtable-2018-recap/)  
-2017 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2017.pdf) [Recap](http://pdxchinese.org/youth-roundtable-2017-recap/)  
+2019 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2019.pdf) | [Recap](http://pdxchinese.org/youth-roundtable-2019-recap/)  
+2018 Youth Roundtable [Agenmda](/assets/pdf/youth-roundtable-2018.pdf) | [Recap](http://pdxchinese.org/youth-roundtable-2018-recap/)  
+2017 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2017.pdf) | [Recap](http://pdxchinese.org/youth-roundtable-2017-recap/)  
 [Materials distributed at Roundtables](http://pdxchinese.org/resources/benefits_resources/roundtable/)
