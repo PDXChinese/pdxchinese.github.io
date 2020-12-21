@@ -60,7 +60,7 @@ feature_row1:
 
 OCC is so grateful to Oregon Health Authority (OHA) with a very generous grant to tackle mental and behavioral health crisis under pandemic in Chinese American community. We will use the grant to make a big push in the community to look into mental health issues and come out with solutions that can last beyond grant period.
 
-### Peer Advisors
+[Peer Advisors](http://pdxchinese.org/peeradvisors/)
 
 Peer support can be an important tool in helping children and youth overcome personal challenges they are facing at school or at home. Our Peer Advisors are available to provide encouragement and resources to help their peers create goals and navigate stressful situations and experiences, and they are also available to simply provide an empathetic ear.
 
@@ -72,12 +72,6 @@ All meetings are offered free of charge. It is important to note that our advisi
 
 :green_book: [Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeaGQKfpCcHl4o3WRhlV-EPVaH20t5mFhddQbEXhrwpTmmmvg/viewform?usp=sf_link) for youth and parents looking for peer advisors   
 [Feedback on Peer Advisors](mailto:health@pdxchinese.org?subject=[Feedback on Peer Advisors])  
-
-Youth Advisors
-
-{% include feature_row id="feature_row1"%}
-
-### More Programs from OCC under COVID-19 Grants
 
 [Weekly Talk on Mental Health](http://pdxchinese.org/weeklytalk/)  
 We will host weekly talks on mental health by inviting professionals in the field till end of 2020.  
