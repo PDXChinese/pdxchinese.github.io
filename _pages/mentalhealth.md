@@ -60,17 +60,14 @@ feature_row1:
 
 OCC is so grateful to Oregon Health Authority (OHA) with a very generous grant to tackle mental and behavioral health crisis under pandemic in Chinese American community. We will use the grant to make a big push in the community to look into mental health issues and come out with solutions that can last beyond grant period.
 
-[Peer Advisors](http://pdxchinese.org/peeradvisors/)
+[Peer Advisors](http://pdxchinese.org/peeradvisors/)  
+Peer support can be an important tool in helping children and youth overcome personal challenges they are facing at school or at home. Our Peer Advisors are available to provide encouragement and resources to help their peers create goals and navigate stressful situations and experiences, and they are also available to simply provide an empathetic ear.  
 
-Peer support can be an important tool in helping children and youth overcome personal challenges they are facing at school or at home. Our Peer Advisors are available to provide encouragement and resources to help their peers create goals and navigate stressful situations and experiences, and they are also available to simply provide an empathetic ear.
-
-All meetings are offered free of charge. It is important to note that our advising program is nonclinical, so our Peer Advisors are not able to fill the gap of mental health professionals and treatment. OCC and our Peer Advisors are committed to confidentiality unless the participating youth or others may be harmed significantly if the information is not disclosed.
-
-:blue_book: [OCC Peer Advisor Application](https://docs.google.com/forms/d/e/1FAIpQLSfKewGqu-TrfPFfXdYIskGurJAz92ayYWHML2Wj4VKN3xqOIA/viewform?usp=sf_link) (Accepting new applications)  
+:blue_book: [Becoming Peer Advisor](https://docs.google.com/forms/d/e/1FAIpQLSfKewGqu-TrfPFfXdYIskGurJAz92ayYWHML2Wj4VKN3xqOIA/viewform?usp=sf_link)  
 [Reimbursement Form](/assets/pdf/reimbursement_form_advocacy_fillable.pdf) (Category: Peer Advisors)  
 [W-9 Form](https://www.irs.gov/pub/irs-pdf/fw9.pdf)  
 
-:green_book: [Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeaGQKfpCcHl4o3WRhlV-EPVaH20t5mFhddQbEXhrwpTmmmvg/viewform?usp=sf_link) for youth and parents looking for peer advisors   
+:green_book: [Meeting Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeaGQKfpCcHl4o3WRhlV-EPVaH20t5mFhddQbEXhrwpTmmmvg/viewform?usp=sf_link) for youth and parents looking for peer advisors   
 [Feedback on Peer Advisors](mailto:health@pdxchinese.org?subject=[Feedback on Peer Advisors])  
 
 [Weekly Talk on Mental Health](http://pdxchinese.org/weeklytalk/)  
