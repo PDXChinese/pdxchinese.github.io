@@ -96,7 +96,7 @@ We have purchased books on mental health based on the recommendations from profe
 Staying at home led to another unexpected consequence -- oral English becomes rusty. To address the concerns from the community members who worry about their readinewss to go back to workplace, we have opened up this English conversation sessions.
 
 [Headspace Membership](https://work.headspace.com/oregonchinesecoalition/member-enroll?utm_medium=email&_hsmi=77283528&_hsenc=p2ANqtz-88UDOik4Z_O9-jdo1Us7sryMJyrmKzONEViJQlpiiZ7GQ1s0SMFja13DX3pmYYBjxMnevhO-dVp4uAM3vGwZXWiDG8Mg&utm_content=77283528&utm_source=hs_automation)  
-Get Headspace for free, 1000+ hours of mindfulness and sleep content, Mini exercises for busy schedules, Proven to reduce stress in just 10 days,
+Get Headspace for free, 1000+ hours of mindfulness and sleep content, Mini exercises for busy schedules, Proven to reduce stress in just 10 days.
 
 
 ### Other Useful Resources
