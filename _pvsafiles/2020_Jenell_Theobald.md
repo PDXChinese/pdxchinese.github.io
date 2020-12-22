@@ -1,7 +1,7 @@
 ---
 title: " "
 feature_row1:
-  - image_path: /assets/images/pvsa/2020_Jenell_Theobald.jpg
+  - image_path: /assets/images/pvsa/2020_jenell_theobald.jpg
   - image_path: /assets/images/activities/year_2020.jpg
 
 ---
