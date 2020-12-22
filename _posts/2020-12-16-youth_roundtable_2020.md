@@ -17,7 +17,7 @@ date: "2020-12-21"
 
 4th Annual Oregon Chinese Youth Roundtable will be held on 12/26/2020 from 2:00 pm.
 
-Teenagers have always been the top priority of our community. Advisors, Ambassadors, Mentoring, Conferences, Roundtable, PVSA... while we continue to develop new projects, we also make great efforts to make these routine programs so that the impact can last.
+Youth has always been the top priority of our community. Advisors, Ambassadors, Mentoring, Conferences, Roundtable, PVSA... while we continue to develop new projects, we also make great efforts to make these routine programs so that the impact can last.
 
 In this year's roundtable, since everyone will meet each other through the screen, the difficulty of communication will definitely increase. Therefore, we decided to choose a few topics that are closely related to community's focus to provide a guide for everyone's participation. It is hoped that around these topics, more community youths can learn about these opportunities and platforms.
 
