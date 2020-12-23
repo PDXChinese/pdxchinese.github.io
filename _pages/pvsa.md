@@ -81,6 +81,8 @@ These awards acknowledge individuals whose service positively impacts communitie
 
 {% include feature_row id="feature_row3"%}
 
+<iframe width="969" height="545" src="https://www.youtube.com/embed/78rfL5ReGVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Archive
 
 [2019 PVSA Recipients](http://pdxchinese.org/pvsafiles/pvsa_2019/)  
