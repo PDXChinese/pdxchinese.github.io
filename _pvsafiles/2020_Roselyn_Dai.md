@@ -7,7 +7,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Erik Liang - Gold Award
+# Roselyn Dai - Gold Award
 
 **School: Lakeridge High School**  
 **Category: Young Adults (16-25)**  
