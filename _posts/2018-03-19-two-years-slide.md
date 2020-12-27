@@ -11,9 +11,9 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  16:07
 
-OCC主导和参与下的社区公益已经进入了第三个年头，为了配合周末的讲座，特意把过去两年活动的照片整理出来，制作成了一个MP4文件。现在放在了Google Drive上，链接是：
+OCC主导和参与下的社区公益已经进入了第三个年头，为了配合周末的讲座，特意把过去两年活动的照片整理出来，制作成了一个MP4文件。
 
-[https://drive.google.com/file/d/1jjXz5Su3S0YCKXwV2cycF3NkcOPhYie7/view](https://drive.google.com/file/d/1jjXz5Su3S0YCKXwV2cycF3NkcOPhYie7/view)
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FOregonChineseCoalition%2Fvideos%2F569411256764779%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 没有来得及配上背景音乐，只是基本上按照时间顺序做了编排。即便如此，也是七八个小时的工作，而且是连续的，因为我的编辑软件在过程中没法存档。
 
