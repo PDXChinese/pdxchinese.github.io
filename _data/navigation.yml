@@ -32,7 +32,7 @@ extra:
         url:
       - title: "<b>Peer Advisors</b>"
         url: /peeradvisors/
-      - title: "Youth Ambassadors"
+      - title: "<b>Youth Ambassadors</b>"
         url: /youthambassadors/
       - title: "Youth Camps"
         url: /camps/
@@ -42,7 +42,7 @@ extra:
         url: /drumteam/
       - title: "Youth Mentoring"
         url: /mentoring/
-      - title: "<b>Youth Roundtable</b>"
+      - title: "Youth Roundtable"
         url: /youthroundtable/
       - title: "---"
         url:
@@ -52,9 +52,9 @@ extra:
         url: /fair/
       - title: "Entrepreneurs Forum"
         url: /startup/
-      - title: "<b>Mental Health</b>"
+      - title: "Mental Health"
         url: /mentalhealth/
-      - title: "<b>Weekly Talk</b>"
+      - title: "Weekly Talk"
         url: /weeklytalk/
       - title: "---"
         url:
