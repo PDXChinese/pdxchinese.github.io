@@ -16,8 +16,10 @@ date: "2020-12-27"
 
 <iframe width="969" height="545" src="https://www.youtube.com/embed/78rfL5ReGVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+![]({{ site.url }}/assets/images/roundtable_2020_1.jpg)
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![]({{ site.url }}/assets/images/roundtable_2020_2.jpg)
+
 
 ### 背景
 
