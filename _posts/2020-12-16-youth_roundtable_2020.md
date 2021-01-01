@@ -1,7 +1,7 @@
 ---
 title: "社区成功举办第四届青少年圆桌会"
 author: XiBei Zhao
-excerpt: "因为圆桌变成了屏幕，这样的一个会议真的是不到结束都没敢有把握，最后还是出人意料的圆满，全程进度掌握恰到好处，每个人尤其是同学们的发言十分流畅，对过去一年社区在青少年培养方面做出的努力做了一个非常好的介绍和总结。曾经参加过Winter Drive的义工, Youth Ambassadors, COVID-19 Response Interns, Peer Advisors 和总统/社区义工奖获得者绝大多数都出席了圆桌会，"
+excerpt: "因为圆桌变成了屏幕，这样的一个会议真的是不到结束都没敢有把握，最后还是出人意料的圆满，全程进度掌握恰到好处，每个人尤其是同学们的发言十分流畅，对过去一年社区在青少年培养方面做出的努力做了一个非常好的介绍和总结。曾经参加过Winter Drive的义工, Youth Ambassadors, COVID-19 Response Interns, Peer Advisors 和总统/社区义工奖获得者绝大多数都出席了圆桌会。"
 date: "2020-12-27"
 ---
 
