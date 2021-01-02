@@ -6,6 +6,10 @@ layout: archive
   <img src="{{page.announcement_image}}">
 {% endif %}
 
+{% if page.announcement_video %}
+  <iframe width="969" height="545" src="{{page.announcement_video}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% endif %}
+
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% for post in paginator.posts %}
