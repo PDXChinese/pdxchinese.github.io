@@ -28,12 +28,12 @@ extra:
         url: /volunteering/
       - title: "Weekly Talk"
         url: /weeklytalk/
-      - title: "Winter Drive"
-        url: /winterdrive/
       - title: "---"
         url:
       - title: "PVSA Honorees"
         url: /pvsa/
+      - title: "Winter Drive"
+        url: /winterdrive/
       - title: "Youth Peer Advisors"
         url: /peeradvisors/
       - title: "Youth Ambassadors"
