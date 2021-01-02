@@ -22,13 +22,17 @@ main:
 extra:
   - title: Programs
     children:
+      - title: "Mental Health Portal"
+        url: /mentalhealth/
       - title: "PVSA Honorees"
         url: /pvsa/
       - title: "Volunteering"
         url: /volunteering/
+      - title: "Weekly Talk"
+        url: /weeklytalk/
       - title: "Winter Drive"
         url: /winterdrive/
-      - title: "---"
+      - title: "- Youth Programs -"
         url:
       - title: "Youth Peer Advisors"
         url: /peeradvisors/
@@ -46,19 +50,7 @@ extra:
         url: /youthroundtable/
       - title: "Youth Vlog"
         url: /youthvlog/
-      - title: "---"
-        url:
-      - title: "Commerce Chamber"
-        url: /chambercommerce/
-      - title: "Community Fair"
-        url: /fair/
-      - title: "Entrepreneurs Forum"
-        url: /startup/
-      - title: "Mental Health"
-        url: /mentalhealth/
-      - title: "Weekly Talk"
-        url: /weeklytalk/
-      - title: "---"
+      - title: "- Cultural Programs -"
         url:
       - title: "Chinatown"
         url: /chinatown/
@@ -68,3 +60,11 @@ extra:
         url: /lunarnewyear/
       - title: "Lantern Festival"
         url: /lanternfestival/
+      - title: "- Archived Programs -"
+        url:
+      - title: "Commerce Chamber"
+        url: /chambercommerce/
+      - title: "Community Fair"
+        url: /fair/
+      - title: "Entrepreneurs Forum"
+        url: /startup/
