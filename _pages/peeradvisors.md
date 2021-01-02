@@ -1,5 +1,5 @@
 ---
-title: "OCC Peer Advising Program"
+title: "OCC Youth Peer Advising Program"
 permalink: /peeradvisors/
 feature_row1:
   - image_path: /assets/images/activities/pa_justin_bao.jpg
