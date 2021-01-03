@@ -44,12 +44,12 @@ extra:
         url: /youthconference/
       - title: "Youth Drum Team"
         url: /drumteam/
+      - title: "Youth Lens"
+        url: /youthlens/
       - title: "Youth Mentoring"
         url: /mentoring/
       - title: "Youth Roundtable"
         url: /youthroundtable/
-      - title: "Youth Vlog"
-        url: /youthvlog/
       - title: "---"
         url:
       - title: "Chinatown"

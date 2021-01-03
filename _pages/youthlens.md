@@ -1,14 +1,16 @@
 ---
 title: ""
-permalink: /youthvlog/
+permalink: /youthlens/
 ---
 
-# 社区青少年视频博客/Community Youth Vlog
+# 青少年视角/Youth Lens
 
 Technical Supervisors: Guangchao Zhang and Ni Xu  
 Contents Director: Hongcheng Zhao  
 
-### Vloggers
+[Application Form](https://docs.google.com/forms/d/e/1FAIpQLScK3ahKKd_XjBtZNlOqSQhaRgjLDolodXpg9dIBx3lLu3mbWg/viewform?usp=sf_link)
+
+### Youth Journalists
 
 Jenny Duan, Jesuit High School
 
@@ -20,3 +22,8 @@ Roselyn Dai, Lakeridge High School
 > PPS Plan to Relocate Woodstock Mandarin Program  
 > Group Purchasing and Retail Business  
 > Asian Pantry under pandemic   
+
+### Useful Resources
+
+[The Youth's Lens](https://theyouthslens.com/videography/)  
+[Youth Journalism International](http://www.youthjournalism.org/)  
