@@ -15,11 +15,14 @@ Contents Director: Hongcheng Zhao
 [Application Form](https://docs.google.com/forms/d/e/1FAIpQLScK3ahKKd_XjBtZNlOqSQhaRgjLDolodXpg9dIBx3lLu3mbWg/viewform?usp=sf_link)
 
 
-**Jenny Duan** and **Michelle Wang**, Jesuit High School
+**Jenny Duan**, Jesuit High School  
+**Michelle Wang**, International School of Beaverton  
 
 > Chinese Restaurants in Pandemic  
 
 **Roselyn Dai**, Lakeridge High School
+
+> 
 
 To be Assigned
 
