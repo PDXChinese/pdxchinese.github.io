@@ -1,7 +1,11 @@
 ---
 title: ""
 permalink: /youthlens/
+feature_row1:
+  - image_path: /assets/images/activities/logo_lens.jpg
 ---
+
+{% include feature_row id="feature_row1"%}
 
 # 青少年视角/Youth Lens
 
@@ -12,11 +16,11 @@ Contents Director: Hongcheng Zhao
 
 ### Youth Journalists
 
-Jenny Duan and Michelle Wang, Jesuit High School
+**Jenny Duan** and **Michelle Wang**, Jesuit High School
 
 > Chinese Restaurants in Pandemic  
 
-Roselyn Dai, Lakeridge High School
+**Roselyn Dai**, Lakeridge High School
 
 ### Proposed Topics
 
