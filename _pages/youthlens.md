@@ -12,11 +12,13 @@ Contents Director: Hongcheng Zhao
 
 ### Youth Journalists
 
-Jenny Duan, Jesuit High School
+Jenny Duan and Michelle Wang, Jesuit High School
 
 > Chinese Restaurants in Pandemic  
 
 Roselyn Dai, Lakeridge High School
+
+### Proposed Topics
 
 > The Challenges Faced by Bulk Order Buyers  
 > PPS Plan to Relocate Woodstock Mandarin Program  
