@@ -2,7 +2,7 @@
 title: ""
 permalink: /youthlens/
 feature_row1:
-  - image_path: /assets/images/activities/logo_lens.jpg
+  - image_path: /assets/images/activities/logo-lens.jpg
 ---
 
 {% include feature_row id="feature_row1"%}
@@ -14,7 +14,6 @@ Contents Director: Hongcheng Zhao
 
 [Application Form](https://docs.google.com/forms/d/e/1FAIpQLScK3ahKKd_XjBtZNlOqSQhaRgjLDolodXpg9dIBx3lLu3mbWg/viewform?usp=sf_link)
 
-### Youth Journalists
 
 **Jenny Duan** and **Michelle Wang**, Jesuit High School
 
@@ -22,14 +21,14 @@ Contents Director: Hongcheng Zhao
 
 **Roselyn Dai**, Lakeridge High School
 
-### Proposed Topics
+To be Assigned
 
 > The Challenges Faced by Bulk Order Buyers  
 > PPS Plan to Relocate Woodstock Mandarin Program  
 > Group Purchasing and Retail Business  
 > Asian Pantry under pandemic   
 
-### Useful Resources
+Resources
 
-[The Youth's Lens](https://theyouthslens.com/videography/)  
-[Youth Journalism International](http://www.youthjournalism.org/)  
+> [The Youth's Lens](https://theyouthslens.com/videography/)  
+> [Youth Journalism International](http://www.youthjournalism.org/)  
