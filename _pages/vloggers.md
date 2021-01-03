@@ -10,10 +10,13 @@ Contents Director: Hongcheng Zhao
 
 ### Vloggers
 
-Group 1: Roselyn Dai and Jenny Duan
+Jenny Duan, Jesuit High School
+
+> Chinese Restaurants in Pandemic  
+
+Roselyn Dai, Lakeridge High School
 
 > The Challenges Faced by Bulk Order Buyers  
 > PPS Plan to Relocate Woodstock Mandarin Program  
-> Chinese Restaurants in Pandemic  
 > Group Purchasing and Retail Business  
 > Asian Pantry under pandemic   
