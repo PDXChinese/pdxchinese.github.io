@@ -9,8 +9,10 @@ feature_row1:
 
 # 青少年视角/Youth Lens
 
-Technical Supervisors: Guangchao Zhang and Ni Xu  
 Contents Director: Hongcheng Zhao  
+Journalism Mentor:  
+Production Directors: Guangchao Zhang and Ni Xu  
+
 
 [Application Form](https://docs.google.com/forms/d/e/1FAIpQLScK3ahKKd_XjBtZNlOqSQhaRgjLDolodXpg9dIBx3lLu3mbWg/viewform?usp=sf_link)
 
@@ -22,7 +24,7 @@ Contents Director: Hongcheng Zhao
 
 **Roselyn Dai**, Lakeridge High School
 
-> 
+>
 
 To be Assigned
 
