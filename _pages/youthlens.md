@@ -26,7 +26,7 @@ Government Relations Liaisons:
 
 >
 
-To be Assigned
+Topics Suggested
 
 > The Challenges Faced by Bulk Order Buyers  
 > PPS Plan to Relocate Woodstock Mandarin Program  
