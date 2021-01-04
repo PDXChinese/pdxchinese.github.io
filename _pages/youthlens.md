@@ -10,7 +10,8 @@ feature_row1:
 # 青少年视角/Youth Lens
 
 Content Supervisor: Hongcheng Zhao  
-Production Directors: Guangchao Zhang and Ni Xu  
+Production Directors: Ni Xu  
+Production Manager: Guangchao Zhang  
 Journalism Mentors:  
 Government Relations Liaisons:  
 
