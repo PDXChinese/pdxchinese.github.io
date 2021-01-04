@@ -37,3 +37,11 @@ Resources
 
 > [The Youth's Lens](https://theyouthslens.com/videography/)  
 > [Youth Journalism International](http://www.youthjournalism.org/)  
+
+TV and Movie Making Tutorials
+
+> [How to Write a Movie Script](https://www.studiobinder.com/blog/how-to-write-a-screenplay/)  
+> [Making It: Pre-Production to Post](https://www.studiobinder.com/making-it-s1/)  
+> [Intro to Filmmaking Techniques](https://www.studiobinder.com/filmmaking-techniques/)  
+> [Stages of Film Editing](https://www.studiobinder.com/blog/what-is-a-rough-cut-in-film/)  
+> [TV Writing & Development](https://www.studiobinder.com/tv-writing/)  
