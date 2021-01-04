@@ -17,7 +17,7 @@ Support Team
 > Journalism Mentors:  
 > Government Relations Liaisons:  
 
-[Youth Application Form](https://docs.google.com/forms/d/e/1FAIpQLScK3ahKKd_XjBtZNlOqSQhaRgjLDolodXpg9dIBx3lLu3mbWg/viewform?usp=sf_link) (Opens to high school and college students only)
+:green_book: [Youth Journalist Application](https://docs.google.com/forms/d/e/1FAIpQLScK3ahKKd_XjBtZNlOqSQhaRgjLDolodXpg9dIBx3lLu3mbWg/viewform?usp=sf_link) (Opens to high school and college students only)
 
 
 **Jenny Duan**, Jesuit High School  
