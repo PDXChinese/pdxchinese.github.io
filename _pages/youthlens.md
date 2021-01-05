@@ -42,4 +42,6 @@ Resources
 TV and Newscast Making Tutorials
 
 > [Guide to Broadcast/Video](https://www.jeadigitalmedia.org/guide-to-broadcast-video/)  
-> [TV Writing & Development](https://www.studiobinder.com/tv-writing/)    
+> [TV Writing & Development](https://www.studiobinder.com/tv-writing/)  
+> [Creating a News Report](https://youtu.be/8_NmVtnEEA8)
+> [How to Write a News Story](https://youtu.be/flq29zwRrZA)
