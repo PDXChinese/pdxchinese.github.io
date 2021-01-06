@@ -12,7 +12,7 @@ feature_row1:
 Content Supervisor: Hongcheng Zhao  
 Production Director: Ni Xu  
 Production Manager: Guangchao Zhang  
-Journalism Mentors:  
+Journalism Mentors: Christine Pitawanich  
 Government Relations Liaisons:  
 
 [Youth Journalist Application](https://docs.google.com/forms/d/e/1FAIpQLScK3ahKKd_XjBtZNlOqSQhaRgjLDolodXpg9dIBx3lLu3mbWg/viewform?usp=sf_link) (Highschool and college students only)
