@@ -7,7 +7,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Zixuan Erika Leung - Silver Award
+# Erika Leung - Silver Award
 
 **School: Lincoln High School**  
 **Category: Teens (11-15)**  

@@ -7,7 +7,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Erik Liang - Gold Award
+# Danica Leung - Gold Award
 
 **School: Lincoln High School**  
 **Category: Young Adults (16-25)**  
