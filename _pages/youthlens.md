@@ -50,3 +50,4 @@ TV and Newscast Making Tutorials
 Writing Lessons
 
 > [LEADERSHIP LAB: The Craft of Writing Effectively](https://youtu.be/vtIzMaLkCaM)  
+> [LEADERSHIP LAB: Writing Beyond the Academy](https://youtu.be/aFwVf5a3pZM)  
