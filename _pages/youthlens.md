@@ -46,3 +46,7 @@ TV and Newscast Making Tutorials
 > [Creating a News Report](https://youtu.be/8_NmVtnEEA8)  
 > [How to Write a News Story](https://youtu.be/flq29zwRrZA)  
 > [Basic News Writing](https://youtu.be/xo-PpA4H_Bk)  
+
+Writing Lessons
+
+> [LEADERSHIP LAB: The Craft of Writing Effectively](https://youtu.be/vtIzMaLkCaM)  
