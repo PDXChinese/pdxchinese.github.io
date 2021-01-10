@@ -25,7 +25,7 @@ Government Relations Liaisons:
 
 **Roselyn Dai**, Lakeridge High School
 
->
+> To be assigned
 
 Topics Suggested
 
@@ -36,7 +36,7 @@ Topics Suggested
 
 Resources
 
-> [The Youth's Lens](https://theyouthslens.com/videography/)  
+> [The Youth's Lens](https://theyouthslens.com/)  
 > [Youth Journalism International](http://www.youthjournalism.org/)  
 
 TV and Newscast Making Tutorials
@@ -45,3 +45,4 @@ TV and Newscast Making Tutorials
 > [TV Writing & Development](https://www.studiobinder.com/tv-writing/)  
 > [Creating a News Report](https://youtu.be/8_NmVtnEEA8)  
 > [How to Write a News Story](https://youtu.be/flq29zwRrZA)  
+> [Basic News Writing](https://youtu.be/xo-PpA4H_Bk)  
