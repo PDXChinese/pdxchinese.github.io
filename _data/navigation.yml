@@ -20,7 +20,7 @@ main:
   #   url: /sitemap/
 
 extra:
-  - title: Programs
+  - title: 
     children:
       - title: "Mental Health"
         url: /mentalhealth/
