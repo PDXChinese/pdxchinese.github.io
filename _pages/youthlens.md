@@ -52,6 +52,6 @@ Writing Lessons
 > [LEADERSHIP LAB: The Craft of Writing Effectively](https://youtu.be/vtIzMaLkCaM)  
 > [LEADERSHIP LAB: Writing Beyond the Academy](https://youtu.be/aFwVf5a3pZM)  
 
-Exemplary News Report
+Exemplary News Video
 
 <iframe width="640" height="360" style="border:1px solid #e6e6e6" src="https://kgw.com/embeds/video/283-fd901048-d28b-49e8-ba7b-9ec611a83a7d/iframe" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
