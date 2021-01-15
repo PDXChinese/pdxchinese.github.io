@@ -28,7 +28,7 @@ feature_row2:
   - image_path: /assets/images/pvsa/2020_stella_wang.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Stella_Wang/'>Stella Wang, Jesuit High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2020_daniel_xian.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Daniel_Xian/'>Daniel Xian, Catlin High School (Gold Award)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Daniel_Xian/'>Daniel Xian, Catlin Gabel School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2020_jiaqi_zhang.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2020_Jackie_Zhang/'>Jackie Zhang, Sunset High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2020_cheery_zhang.jpg
