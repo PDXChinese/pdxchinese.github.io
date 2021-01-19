@@ -59,9 +59,9 @@ How to Shoot General Video and Write News Story
 
 {% include feature_row id="feature_row6"%}
 
-**[Christine Pitawanich](https://www.kgw.com/article/about-us/team-bios/christine-pitawanich-kgw-reporter/283-1145738)** is coming back but this time as a journalism mentor for our Youth Lens program. She will introduce how to shoot general video, what to look for what shooting video, and how to frame interviewees with the camera. She will also talk about the important aspects to remember when writing a news story (who/what/when/why/where, etc.).
+**[Christine Pitawanich](https://www.kgw.com/article/about-us/team-bios/christine-pitawanich-kgw-reporter/283-1145738)** is coming back but this time as a journalism mentor for our [Youth Lens](http://pdxchinese.org/youthlens/) program. She will introduce how to shoot general video, what to look for when shooting video, and how to frame interviewees with the camera. She will also talk about the important aspects to remember when writing a news story (who/what/when/why/where, etc.).
 
-This talk opens to all youth who are interested in this topic. [Registration](https://us02web.zoom.us/meeting/register/tZIodOirrzkjGdGp3blx7J3WhwkmuGGDn09V) is required. 
+This talk opens to all youth who are interested in this topic. [Registration](https://us02web.zoom.us/meeting/register/tZIodOirrzkjGdGp3blx7J3WhwkmuGGDn09V) is required.
 
 ### 12.19.2020 3pm
 
