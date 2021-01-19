@@ -23,9 +23,10 @@ Government Relations Liaisons:
 
 > Chinese Restaurants in Pandemic  
 
-**Roselyn Dai**, Lakeridge High School
+**Kyle Chen**, Lincoln High School  
+**Ray Yang**, Westview High School  
 
-> To be assigned
+> Portland Cultural Heritage Garden -- Last Respect to Chinese Railroad Labors
 
 Topics Suggested
 
