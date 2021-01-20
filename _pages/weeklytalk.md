@@ -45,13 +45,40 @@ feature_row19:
     - image_path: /assets/images/activities/talk_zhen_cheng.jpg
 feature_row20:
     - image_path: /assets/images/activities/talk_xiegang.jpg
+feature_row21:
+    - image_path: /assets/images/activities/talk_carl_shan.jpg
 ---
 
 Under the circumstances that the epidemic severely limits people's lives, how can we all be able to stay connected, not only can make use of ample time, but also take advantage of virtual resources to do some things that are usually difficult to do. The answer we give is to organize Weekly Talk on the Zoom platform. The presenter can be from inside or outside of the community, and the topic is not limited. The audience can be all ages.
 
-In order to make the interaction more efficient, you are welcome to [submit your questions in advance](https://docs.google.com/forms/d/e/1FAIpQLSfPfuYiRfTxqsVoEgDNwbDOHnLIXmmv6z4EgSsUWgFwjT7QkA/viewform?usp=sf_link).
-
 Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and the time will generally be controlled at one hour. The registration is required for each event.
+
+
+### 01.23.2021 3pm
+
+How To Talk So Your Teen Will Listen
+
+{% include feature_row id="feature_row21"%}
+
+Bio: Carl Shan is the son of immigrants from mainland China. His family moved to the Bay Area when he was 5 years old. He grew up navigating the two different cultures, and often fought with his parents. Now that Carl is an older (and slightly wiser) 28 years-old, he volunteers as a workshop leader to help parents understand their teens and build stronger, healthier relationships. He spent 3 years working as a high school teacher, where he developed many techniques for supporting teens while holding them accountable.
+
+He holds a BA in Statistics from UC Berkeley and works as a Senior Data Scientist at LinkedIn. His workshops have reached over 1,500 parents.
+
+Description:
+
+"How come my teen is on their phone and computer so much?"  
+"Why doesn't my daughter share about her life with me?"  
+"Why does my teen make so may bad decisions?"  
+
+This workshop is intended for parents who struggle to understand their teen. The workshop is led by former teens who want to see parents and their children build healthier relationships. The workshop will cover the following topics:
+
+1. Why do teenagers behave badly?  
+2. Five techniques to get your teen to listen to you  
+3. Q&A with former teens  
+
+The audience is more for parents. [Registration](https://us02web.zoom.us/meeting/register/tZIodOirrzkjGdGp3blx7J3WhwkmuGGDn09V) is required.
+
+In order to make the interaction more efficient, you are welcome to [submit your questions in advance](https://docs.google.com/forms/d/e/1FAIpQLSfPfuYiRfTxqsVoEgDNwbDOHnLIXmmv6z4EgSsUWgFwjT7QkA/viewform?usp=sf_link).
 
 ### 01.16.2021 3pm
 
