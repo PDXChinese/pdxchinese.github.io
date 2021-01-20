@@ -28,6 +28,10 @@ Government Relations Liaisons:
 
 > Portland Cultural Heritage Garden -- Last Respect to Chinese Railroad Labors
 
+**Austin Yan**, Lincoln High School
+
+> Pandemic's Impact on Youth Mental Health
+
 Topics Suggested
 
 > The Challenges Faced by Bulk Order Buyers  
