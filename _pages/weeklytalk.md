@@ -47,6 +47,11 @@ feature_row20:
     - image_path: /assets/images/activities/talk_xiegang.jpg
 feature_row21:
     - image_path: /assets/images/activities/talk_carl_shan.jpg
+      excerpt: "<p>Carl Shan</p>"
+    - image_path: /assets/images/activities/talk_christie_lin.jpg
+      excerpt: "<p>Christie Lin</p>"
+    - image_path: /assets/images/activities/talk_chloe_lim.jpg
+      excerpt: "<p>Chloe Lim</p>"
 ---
 
 Under the circumstances that the epidemic severely limits people's lives, how can we all be able to stay connected, not only can make use of ample time, but also take advantage of virtual resources to do some things that are usually difficult to do. The answer we give is to organize Weekly Talk on the Zoom platform. The presenter can be from inside or outside of the community, and the topic is not limited. The audience can be all ages.
@@ -63,6 +68,10 @@ How To Talk So Your Teen Will Listen
 Carl Shan is the son of immigrants from mainland China. His family moved to the Bay Area when he was 5 years old. He grew up navigating the two different cultures, and often fought with his parents. Now that Carl is an older (and slightly wiser) 28 years-old, he volunteers as a workshop leader to help parents understand their teens and build stronger, healthier relationships. He spent 3 years working as a high school teacher, where he developed many techniques for supporting teens while holding them accountable.
 
 He holds a BA in Statistics from UC Berkeley and works as a Senior Data Scientist at LinkedIn. His workshops have reached over 1,500 parents.
+
+Christie Lin grew up in the Bay Area and Taipei before moving to the East Coast to attend Harvard. While in college, she encountered many Asian American peers who struggled with mental health despite their outward “success.” Many of their challenges were tied to their relationships with their parents, and she began to see intergenerational communication as critical to the mental wellbeing of many young adults. After graduating, Christie moved back to the Bay Area, where she ran panels and other initiatives to share the 2nd generation experience with parents. She now works at BetterUp, a startup that helps individuals build self-awareness and communication skills through coaching.
+
+Chloe grew up in the East Bay, studied Statistics and Computer Science at UC Berkeley, and now works as a Senior Software Engineer at a nonprofit tech company. As a teen, Chloe had repeated awful fights with her mother over small things and felt a deep loss of connection. Now, after having spent many years improving communication with her parents and healing wounds from her teenage years, she is passionate about helping other families similarly rebuild their relationships. She has previously conducted workshops with parents in the Bay Area on how to connect with their teenage children across generational and cultural gaps.
 
 Here are the typical questions from concerned parents:
 
