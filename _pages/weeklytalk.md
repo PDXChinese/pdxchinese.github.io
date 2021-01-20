@@ -76,7 +76,7 @@ This workshop is intended for parents who struggle to understand their teen. The
 2. Five techniques to get your teen to listen to you  
 3. Q&A with former teens  
 
-The talk is more for parents. [Registration](https://us02web.zoom.us/meeting/register/tZIodOirrzkjGdGp3blx7J3WhwkmuGGDn09V) is required.
+The talk is more for parents. [Registration](https://us02web.zoom.us/meeting/register/tZcpf-ygrj8vE9LBjo7OlWkhZCTFSxLDU8E_) is required.
 
 In order to make the interaction more efficient, you are welcome to [submit your questions in advance](https://docs.google.com/forms/d/e/1FAIpQLSfPfuYiRfTxqsVoEgDNwbDOHnLIXmmv6z4EgSsUWgFwjT7QkA/viewform?usp=sf_link).
 
