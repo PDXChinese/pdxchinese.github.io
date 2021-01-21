@@ -28,8 +28,8 @@ Government Relations Liaisons:
 
 > Portland Cultural Heritage Garden -- Last Respect to Chinese Railroad Labors
 
-**Austin Yan**, Lincoln High School
-**Daniel Xian**, Catlin Gabe School
+**Austin Yan**, Lincoln High School  
+**Daniel Xian**, Catlin Gabe School  
 
 > Pandemic's Impact on Youth Mental Health
 
