@@ -29,10 +29,11 @@ Government Relations Liaisons:
 > Portland Cultural Heritage Garden -- Last Respect to Chinese Railroad Labors
 
 **Austin Yan**, Lincoln High School
+**Daniel Xian**, Catlin Gabe School
 
 > Pandemic's Impact on Youth Mental Health
 
-Topics Suggested
+Other Topics Suggested
 
 > The Challenges Faced by Bulk Order Buyers  
 > PPS Plan to Relocate Woodstock Mandarin Program  
