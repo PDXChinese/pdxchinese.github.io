@@ -52,12 +52,52 @@ feature_row21:
       excerpt: "<p>Christie Lin</p>"
     - image_path: /assets/images/activities/talk_chloe_lim.jpg
       excerpt: "<p>Chloe Lim</p>"
+feature_row22:
+    - image_path: /assets/images/activities/talk_raymond_chong1.jpg
+    - image_path: /assets/images/activities/talk_raymond_chong2.jpg
+    - image_path: /assets/images/activities/talk_raymond_chong3.jpg
 ---
 
 Under the circumstances that the epidemic severely limits people's lives, how can we all be able to stay connected, not only can make use of ample time, but also take advantage of virtual resources to do some things that are usually difficult to do. The answer we give is to organize Weekly Talk on the Zoom platform. The presenter can be from inside or outside of the community, and the topic is not limited. The audience can be all ages.
 
 Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and the time will generally be controlled at one hour. The registration is required for each event.
 
+### 01.30.2021 3pm
+
+My Odyssey - Between Two Worlds  
+One Family Tale between Cathay and Gold Mountain  
+
+{% include feature_row id="feature_row22"%}
+
+Raymond Douglas Chong (Zhang Weiming) tells an epic saga of the Zhang Clan from Kaiping at Jiangmen in Guangdong of China, from 1849 to now, 172 years, seven generations of sojourners and pioneers, on Gold Mountain (America). They include:
+
+1. Cheun Saan Jeung
+> Miner during the California Gold Rush (1849-1855)
+
+2. Bein Yiu Chung
+> Worker on the First Transcontinental Railroad (1865-1869)
+
+3. Hoy Lun Chung
+> Merchant in gambling and opium at Boston Chinatown midst Tong Wars (1891-1926)
+
+4. Moi Chung
+> Owner of Chop Suey house in Cambridge Central Square (1923-1936)
+
+5. Gim Suey Chong
+> Navy mechanic for seaplanes, including China Clipper, during World War II (1943-1945)  
+> Minor partner of Chinese nightclub at San Francisco Chinatown (1946-1950)  
+> Waiter at famous Chop Suey house in Little Tokyo of Los Angeles (1950-1974)  
+
+6. Raymond Douglas Chong
+> Writer, poet, lyricist, filmmaker, historian of Chinese American experience (2003-now)
+
+7. Kenji Kaio Chong
+> Filmmaker and multimedia director of rising Hollywood pop star (2020-now)
+
+
+The talk is more for parents and their children. [Registration](https://us02web.zoom.us/meeting/register/tZYld--rrDguE9cm3aKQVifcPtE81BOK0lp2) is required.
+
+You are welcome to [submit your questions in advance](https://docs.google.com/forms/d/e/1FAIpQLSfPfuYiRfTxqsVoEgDNwbDOHnLIXmmv6z4EgSsUWgFwjT7QkA/viewform?usp=sf_link).
 
 ### 01.23.2021 3pm
 
@@ -84,10 +124,6 @@ This workshop is intended for parents who struggle to understand their teen. The
 1. Why do teenagers behave badly?  
 2. Five techniques to get your teen to listen to you  
 3. Q&A with former teens  
-
-The talk is more for parents. [Registration](https://us02web.zoom.us/meeting/register/tZcpf-ygrj8vE9LBjo7OlWkhZCTFSxLDU8E_) is required.
-
-In order to make the interaction more efficient, you are welcome to [submit your questions in advance](https://docs.google.com/forms/d/e/1FAIpQLSfPfuYiRfTxqsVoEgDNwbDOHnLIXmmv6z4EgSsUWgFwjT7QkA/viewform?usp=sf_link).
 
 ### 01.16.2021 3pm
 
