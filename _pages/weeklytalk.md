@@ -2,7 +2,7 @@
 title: ""
 permalink: /weeklytalk/
 feature_row0:
-  - image_path: /assets/images/logo/talk_logo.jpg
+  - image_path: /assets/images/logo/talk_logo1.jpg
 feature_row1:
   - image_path: /assets/images/activities/talk_vincent2.jpg
 feature_row2:
@@ -88,9 +88,9 @@ Raymond Douglas Chong (Zhang Weiming) tells an epic saga of the Zhang Clan from 
 > Owner of Chop Suey house in Cambridge Central Square (1923-1936)
 
 5. Gim Suey Chong
-> Navy mechanic for seaplanes, including China Clipper, during World War II (1943-1945)  
-> Minor partner of Chinese nightclub at San Francisco Chinatown (1946-1950)  
-> Waiter at famous Chop Suey house in Little Tokyo of Los Angeles (1950-1974)  
+> - Navy mechanic for seaplanes, including China Clipper, during World War II (1943-1945)  
+> - Minor partner of Chinese nightclub at San Francisco Chinatown (1946-1950)  
+> - Waiter at famous Chop Suey house in Little Tokyo of Los Angeles (1950-1974)  
 
 6. Raymond Douglas Chong
 > Writer, poet, lyricist, filmmaker, historian of Chinese American experience (2003-now)
