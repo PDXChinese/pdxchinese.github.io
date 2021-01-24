@@ -98,6 +98,7 @@ Raymond Douglas Chong (Zhang Weiming) tells an epic saga of the Zhang Clan from 
 7. Kenji Kaio Chong
 > Filmmaker and multimedia director of rising Hollywood pop star (2020-now)
 
+Youi are welcome to check out the Zhang Clan Odyssey [website](https://www.mychinaroots.com/samples/zhang-odyssey/).
 
 The talk is more for parents and their children. [Registration](https://us02web.zoom.us/meeting/register/tZYld--rrDguE9cm3aKQVifcPtE81BOK0lp2) is required.
 
