@@ -63,3 +63,7 @@ Exemplary News Video
 <iframe width="640" height="360" style="border:1px solid #e6e6e6" src="https://kgw.com/embeds/video/283-fd901048-d28b-49e8-ba7b-9ec611a83a7d/iframe" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 More work from Christine Pitawanich are available at her [Facebook page](https://www.facebook.com/cpitawanich/)
+
+Blogs
+
+> [First Interview of Youth Lens](http://pdxchinese.org/launching_youth_lens/)  
