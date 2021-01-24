@@ -66,4 +66,4 @@ More work from Christine Pitawanich are available at her [Facebook page](https:/
 
 Blogs
 
-> [First Interview of Youth Lens](http://pdxchinese.org/launching_youth_lens/)  
+> [First Interview of Youth Lens](http://pdxchinese.org/launching_youth_lens/) (01.22.2021)  
