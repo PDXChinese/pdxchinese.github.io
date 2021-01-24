@@ -75,28 +75,28 @@ One Family Tale between Cathay and Gold Mountain
 
 Raymond Douglas Chong (Zhang Weiming) tells an epic saga of the Zhang Clan from Kaiping at Jiangmen in Guangdong of China, from 1849 to now, 172 years, seven generations of sojourners and pioneers, on Gold Mountain (America). They include:
 
-1. Cheun Saan Jeung
-> Miner during the California Gold Rush (1849-1855)
+1. Cheun Saan Jeung  
+- Miner during the California Gold Rush (1849-1855)  
 
-2. Bein Yiu Chung
-> Worker on the First Transcontinental Railroad (1865-1869)
+2. Bein Yiu Chung  
+- Worker on the First Transcontinental Railroad (1865-1869)  
 
-3. Hoy Lun Chung
-> Merchant in gambling and opium at Boston Chinatown midst Tong Wars (1891-1926)
+3. Hoy Lun Chung  
+- Merchant in gambling and opium at Boston Chinatown midst Tong Wars (1891-1926)  
 
-4. Moi Chung
-> Owner of Chop Suey house in Cambridge Central Square (1923-1936)
+4. Moi Chung  
+- Owner of Chop Suey house in Cambridge Central Square (1923-1936)  
 
-5. Gim Suey Chong
-> - Navy mechanic for seaplanes, including China Clipper, during World War II (1943-1945)  
-> - Minor partner of Chinese nightclub at San Francisco Chinatown (1946-1950)  
-> - Waiter at famous Chop Suey house in Little Tokyo of Los Angeles (1950-1974)  
+5. Gim Suey Chong  
+- Navy mechanic for seaplanes, including China Clipper, during World War II (1943-1945)  
+- Minor partner of Chinese nightclub at San Francisco Chinatown (1946-1950)  
+- Waiter at famous Chop Suey house in Little Tokyo of Los Angeles (1950-1974)  
 
-6. Raymond Douglas Chong
-> Writer, poet, lyricist, filmmaker, historian of Chinese American experience (2003-now)
+6. Raymond Douglas Chong  
+- Writer, poet, lyricist, filmmaker, historian of Chinese American experience (2003-now)  
 
-7. Kenji Kaio Chong
-> Filmmaker and multimedia director of rising Hollywood pop star (2020-now)
+7. Kenji Kaio Chong  
+- Filmmaker and multimedia director of rising Hollywood pop star (2020-now)  
 
 You are welcome to check out the Zhang Clan Odyssey [website](https://www.mychinaroots.com/samples/zhang-odyssey/).
 
