@@ -15,7 +15,7 @@ feature_row1:
 州政府官方中文宣传材料:  
 [如何保护自己和他人免受COVID-19感染](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served//LN2681.pdf)  
 [为您的家庭应对疫情做好准备](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ln3225.pdf)  
-[11/18开始的两周活动限制范围](https://www.oregon.gov/oha/ERD/COVID19Social/freeze-simpchinese.png)  
+[Multnomah County免费病毒测试](https://multco.us/file/93346/download)  
 
 # 华人联盟(OCC)主持的华人社区疫情应对计划
 
