@@ -17,3 +17,11 @@ date: "2021-01-25"
 目前已经超过60个家庭报名参加写信给Metro活动，大家热情如此之高反映出华人对历史和社区的关注，真正的把这里当成我们的家！在小群里分享了一些资料，估计还会有不少问题，今晚8点我们请到了Lone Fir Foundation的两位成员上线和我们大家交流。与此同时，更为令人激动的是昨晚本地Raymond Chong先生主动联系上我，他本人就是筑路华工的第6代。更加Amazing的是，他把自己的[家谱](https://www.mychinaroots.com/samples/zhang-odyssey/ancestors.html)追溯到了158代，昨晚一边聊一边看，太有价值了，通过一个家庭把中国史和华人史浓缩在一个家族中。 我认为所有的华人和我们的孩子们都应该阅读一遍。今晚他说会尽可能上来和大家打个招呼，1/30的[weekly talk](http://pdxchinese.org/weeklytalk/)会邀请他做一个专题演讲。我们也已经安排了参加[Youth Lens](http://pdxchinese.org/youthlens/)的两位同学对此做一个专题节目。
 
 写信给Metro，我们鼓励作为一个家庭活动，如果孩子还小，那家长们就可以来写这封信了。我们的目标是争取能有超过100封信来自我们的社区，已显示出We Care!
+
+One letter from a student with his family
+
+<iframe src="{{ site.url }}/assets/pdf/letter-to-metro-1.pdf" style="width: 100%; height: 600px"></iframe>
+
+A response from Metro Councilor
+
+<iframe src="{{ site.url }}/assets/pdf/letter-to-metro-2.pdf" style="width: 100%; height: 600px"></iframe>
