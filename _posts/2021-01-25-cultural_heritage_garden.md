@@ -18,10 +18,10 @@ date: "2021-01-25"
 
 写信给Metro，我们鼓励作为一个家庭活动，如果孩子还小，那家长们就可以来写这封信了。我们的目标是争取能有超过100封信来自我们的社区，已显示出We Care!
 
-One letter from a student with his family
+One letter from a student with his family --
 
 <iframe src="{{ site.url }}/assets/pdf/letter-to-metro-1.pdf" style="width: 100%; height: 600px"></iframe>
 
-A response from Metro Councilor
+A response from Metro Councilor --
 
 <iframe src="{{ site.url }}/assets/pdf/letter-to-metro-2.pdf" style="width: 100%; height: 600px"></iframe>
