@@ -8,17 +8,19 @@ date: "2021-01-21"
 【1/21 亚裔老人公寓食物分发义工活动】  
 First Christian Church  
 1314 SW Park Ave, Portland, 97201  
-分装食品：每个时段三个义工。  
+分装食品：每个时段三个义工  
 10am - 1pm  
 - Jennifer 筱坚  
 -  Bryce 海晨  (10am - 11:30am)  
 -  Henry W  
 -  Anna  
-运送食品： 两个时段，每个时段三个义工。  
+
+运送食品： 两个时段，每个时段三个义工  
 11am - 2pm  
 - 西北兆  
 - Jin Liu  
 -  
+
 12:30pm - 3:30pm  
 - Jennifer 筱坚  
 - Kelly  
