@@ -5,31 +5,31 @@ excerpt: "这个活动在疫情期间显得十分的必要，社区义工们报�
 date: "2021-01-21"
 ---
 
-【1/21 亚裔老人公寓食物分发义工活动】
-First Christian Church
+【1/21 亚裔老人公寓食物分发义工活动】  
+First Christian Church  
 1314 SW Park Ave, Portland, 97201  
-分装食品：每个时段三个义工。
-10am - 1pm
-- Jennifer 筱坚
--  Bryce 海晨  (10am - 11:30am)
--  Henry W
--  Anna
-运送食品： 两个时段，每个时段三个义工。
-11am - 2pm
-- 西北兆
-- Jin Liu
+分装食品：每个时段三个义工。  
+10am - 1pm  
+- Jennifer 筱坚  
+-  Bryce 海晨  (10am - 11:30am)  
+-  Henry W  
+-  Anna  
+运送食品： 两个时段，每个时段三个义工。  
+11am - 2pm  
+- 西北兆  
+- Jin Liu  
 -  
-12:30pm - 3:30pm
-- Jennifer 筱坚
-- Kelly
-- 礼静 （1:30pm-3:30pm)
+12:30pm - 3:30pm  
+- Jennifer 筱坚  
+- Kelly  
+- 礼静 （1:30pm-3:30pm)  
 
 ![]({{ site.url }}/assets/images/141198349_1319004395138791_5363970992185100905_o.jpg)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210127092750.jpg)
+![]({{ site.url }}/assets/images/WeChat Image_20210127092750.png)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210127092742.jpg)
+![]({{ site.url }}/assets/images/WeChat Image_20210127092742.png)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210127092726.jpg)
+![]({{ site.url }}/assets/images/WeChat Image_20210127092726.png)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210127092713.jpg)
+![]({{ site.url }}/assets/images/WeChat Image_20210127092713.png)
