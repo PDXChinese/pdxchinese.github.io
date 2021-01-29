@@ -5,15 +5,17 @@ excerpt: "这个活动在疫情期间显得十分的必要，社区义工们报�
 date: "2021-01-21"
 ---
 
+把这次活动接龙直接贴过来，以纪念这个时期华人社区活动的一个主要组织方式。
+
 【1/21 亚裔老人公寓食物分发义工活动】  
 First Christian Church  
 1314 SW Park Ave, Portland, 97201  
 分装食品：每个时段三个义工  
 10am - 1pm  
 - Jennifer 筱坚  
--  Bryce 海晨  (10am - 11:30am)  
--  Henry W  
--  Anna  
+- Bryce 海晨  (10am - 11:30am)  
+- Henry W  
+- Anna  
 
 运送食品： 两个时段，每个时段三个义工  
 11am - 2pm  
