@@ -10,7 +10,7 @@ A deeply American story - about immigration and national identity, civil rights 
 
 The Chinese Exclusion Act, explores in riveting detail this little known, yet deeply resonant and revealing episode in American history - one that sheds enormous light on key aspects of the history of American civil liberties, immigration, and culture - during one of the most formative periods of U.S. history."
 
-Source: [https://shop.pbs.org/the-chinese-exclusion-act-dvd/product/AE61702](https://shop.pbs.org/the-chinese-exclusion-act-dvd/product/AE61702)
+Source: https://shop.pbs.org/WB0102.html](https://shop.pbs.org/WB0102.html)
 
 ## Chinese Americans in Oregon
 
@@ -19,6 +19,8 @@ Source: [https://shop.pbs.org/the-chinese-exclusion-act-dvd/product/AE61702](htt
 [Archived historical documents and photographs](https://efiles.portlandoregon.gov/Record?q=recAnyWord%3Achinese&sortBy=recCreatedOn&pagesize=100&filter=electronic ) by City of Portland Archives & Records Center
 
 “[The Zhang Clan Odyssey](https://www.mychinaroots.com/samples/zhang-odyssey/#1)” is the intimate pursuit by Raymond Douglas Chong (Zhang Weiming) at Gold Mountain (America) to discover his Zhang clan ancestral roots in Cathay (China).
+
+[The Zhang Clan Odyssey on Gold Mountain (悲欢离合在金山-张氏家族史)](https://onedrive.live.com/?authkey=%21AJ1sHeq3yoh%2DijA&cid=A368ED90C002B794&id=A368ED90C002B794%216357&parId=A368ED90C002B794%216356&o=OneUp)
 
 ## Timeline of Chinese Immigration to the United States
 
