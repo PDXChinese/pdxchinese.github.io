@@ -28,7 +28,7 @@ OHA疫苗接种[链接](https://covidvaccine.oregon.gov/) (点击 Let's get Star
 [为您的家庭应对疫情做好准备](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ln3225.pdf)  
 [Multnomah County免费病毒测试](https://multco.us/file/93346/download)  
 [新冠疫苗的工作原理](https://multco.us/file/94743/download)  
-[OHA对接种疫苗优先顺序的安排](https://covidvaccine.oregon.gov/)  
+[OHA对接种疫苗优先顺序的安排及接种链接](https://covidvaccine.oregon.gov/)  
 
 # 华人联盟(OCC)主持的华人社区疫情应对计划
 
