@@ -18,7 +18,7 @@ feature_row1:
 | 2/22/2021 | 1B 第4组 | 70岁或以上人群 |
 | 3/1/2021 | 1B 第5组 | 65岁或以上人群 |
 
-OHA疫苗接种[链接](https://covidvaccine.oregon.gov/) (点击 Let's get Started)  
+OHA疫苗接种[预约网站](https://getvaccinated.oregon.gov/)及[相关信息](https://covidvaccine.oregon.gov/)  
 如果您需要OCC团队帮助，请填写[表格](https://docs.google.com/forms/d/e/1FAIpQLSeh1GA2vDd_X68ugZkP3JCuc7WlYso7IONE3tmB4vMc7Wabhg/viewform?usp=sf_link)。  
 
 ![]({{ site.url }}/assets/images/activities/interndrawing1.jpg)
