@@ -19,7 +19,7 @@ feature_row1:
 | 3/1/2021 | 1B 第5组 | 65岁或以上人群 |
 
 OHA疫苗接种[预约网站](https://getvaccinated.oregon.gov/)及[相关信息](https://covidvaccine.oregon.gov/)  
-连锁药店合作伙伴接种疫苗预约链接：[Walgreen](https://www.walgreens.com/findcare/vaccination/covid-19), [CVS](https://www.cvs.com/immunizations/covid-19-vaccine), [Walmart](https://www.walmart.com/cp/1228302)  
+连锁药店合作伙伴接种疫苗预约链接：[Walgreen](https://www.walgreens.com/findcare/vaccination/covid-19), [CVS](https://www.cvs.com/immunizations/covid-19-vaccine), [Walmart](https://www.walmart.com/cp/1228302)，[FredMeyer](https://www.fredmeyer.com/health/clinic/vaccinations)  
 如果您需要OCC团队帮助，请填写[表格](https://docs.google.com/forms/d/e/1FAIpQLSeh1GA2vDd_X68ugZkP3JCuc7WlYso7IONE3tmB4vMc7Wabhg/viewform?usp=sf_link)。  
 
 ![]({{ site.url }}/assets/images/activities/interndrawing1.jpg)
