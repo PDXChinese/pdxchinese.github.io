@@ -1,7 +1,15 @@
 ---
-title: "2018 Portland Chinatown Chinese New Year Celebration "
+title: ""
 permalink: /lunarnewyear/
 ---
+
+# 2021 Lifting Hope -- Celebrating Chinese New Year
+
+![]({{ site.url }}/assets/images/activities/lifting_hope_2021.jpg)
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FOregonChineseCoalition%2Fposts%2F1330277750678122&width=500&show_text=true&height=787&appId" width="500" height="787" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+# 2018 Portland Chinatown Chinese New Year Celebration
 
 ![]({{ site.url }}/assets/images/de218e5e4a36b6490560f64da2444cd8.jpg)
 
@@ -53,7 +61,7 @@ NW Davis Festival Street and Circling Chinatown
 
 至考篤親公所 Gee How Oak Tin Assn., 26 NW 4th Ave.
 
-朔源堂 Soo Yuen Assn. 317 NW 4th Ave. 
+朔源堂 Soo Yuen Assn. 317 NW 4th Ave.
 
 Please follow the route and no photograph inside buildings.
 
