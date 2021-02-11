@@ -33,6 +33,11 @@ Government Relations Liaisons:
 
 > Pandemic's Impact on Youth Mental Health
 
+**Jason Fu**, Sunset High School  
+**Wendy Du**, Sunset High School  
+
+> How Did the Pandemic Affect the Mental Health of Students?
+
 Other Topics Suggested
 
 > The Challenges Faced by Bulk Order Buyers  
