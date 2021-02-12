@@ -1,142 +1,58 @@
 ---
-title: "Lifting Hope 2021 成功举办"
+title: "LCoach Outlet事件回顾及代购问卷调查"
 author: XiBei Zhao
-excerpt: "周五下午由THPRD，BSD和OCC共同主办的庆祝华人春节活动获得圆满成功！当天气温非常宜人，不仅没有雨，还出现了满天的火烧云，更为幸运的是没有风。 这样，所有的孔明灯冉冉升起，再悠悠飘向西北方向，便构成了一幅幅极其浪漫的画面。当然，对当地居民，可能是生平第一次见到，有的甚至以为是外星人侵入了进来。 经历了2020，再发生什么都不会觉得有什么奇怪的了。"
-date: "2021-02-05"
+excerpt: "社区很多人对代购多有成见，这是不争事实。通过参与这个事件，有机会比较深入了解代购这个行业和从事这项工作的人们。下面展示有30人参加的问卷调查结果，希望能够给大家一个客观和全面了解的机会。"
+date: "2021-02-11"
 ---
 
-周五下午由[THPRD](http://www.thprd.org/)，[BSD](https://www.beaverton.k12.or.us/)和OCC共同主办的庆祝华人春节活动获得圆满成功！ 因为这次活动的主要内容是放孔明灯，这对天气和场地有不小的要求，感谢THPRD的决断力，把活动安排在了刚刚完工的[Cedar Hills Park](https://www.google.com/maps/place/Cedar+Hills+Park/@45.5018393,-122.8030372,17.54z/data=!4m5!3m4!1s0x0:0xe5da33b7b8c54665!8m2!3d45.5024818!4d-122.803294)，也方便了周边居民参与和欣赏。当天气温非常宜人，不仅没有雨，还出现了满天的火烧云，更为幸运的是没有风。 这样，所有的孔明灯冉冉升起，再悠悠飘向西北方向，便构成了一幅幅极其浪漫的画面。 当然，对当地居民，可能是生平第一次见到，有的甚至以为是外星人侵入了进来。 经历了2020，再发生什么都不会觉得有什么奇怪的了。
+### 背景
 
-因为疫情的原因，活动过程不得不严格控制参加人数，感谢所有积极报名的家庭，相信在松手放灯的时刻，既享受了新年许愿的美好心情，也随着天灯的升起，寄托了对来年的祝福。 也是因为人数限制，无法邀请更多的社区团队参加演出，感谢OCC大鼓队，希望中文学校武术队，演示转手绢和带领大家起舞的几位义工。 [Youth Lens](http://pdxchinese.org/youthlens/)的两位同学希望尽快完成现场活动视频，与大家分享。 社区的所有活动都离不开来自义工们的奉献，感谢每一位台前幕后的义工！
+12/26/2020
+向种族歧视说不。现在针对华人的歧视行为已经表面化。 三个星期前在Woodburn购物区的Coach店，在开门的头一个小时，公然把来自社区的华人挡在门外，而只让非华人进店采购。
 
-这次活动是社区庆祝农历新年的一个新尝试。 通过社区组织之间合作，也成为庆祝社区文化多样性卓有成效的努力。在现场，三个组织已经一致表示明年我们再聚，而且在疫情得到控制的情况下，一定会办成一个大规模社区聚会。
+12/29/2020
 
-在我们的文化中，牛被认为是勤奋，积极和诚实的象征。相信没有更好的方式来描述作为华裔美国人的我们。2021年是牛年，在此祝大家新年快乐，身体健康。
+今天下午和Coach西北总部的负责人就12/2发生的事件做了一次长谈，双方开诚布公，把彼此的想法完全摆在了桌面上，事先他们也调出了当天的录影带和销售记录。
 
-![]({{ site.url }}/assets/images/lifting_up_202100.jpg)
+我们聊了很多细节和店方为满足代购的需求这些年来做出的努力，我个人表示理解的同时，认为店方还是没有根本上解决问题，这也是出现这次事件的最主要原因。即便负责人做了解释，但是对方还是接受了我的说法，那就是刻意让代购晚进入店内本身就是一种心理暗示，让人感到不是歧视都难。同时，让认为是代购的人在外面“排队”等候，更是向不明缘由的其他顾客传递一个错误讯息，那就是可以区别对待华人，这在目前大的形势下，对于华人更是十分的不利。
 
-![]({{ site.url }}/assets/images/lifting_up_202101.jpg)
+我们都认为开启这个对话很有必要，也期待着通过与代购们深入沟通，希望能够找出一个切实可行但又合情合理的方法。过几个星期店方会邀请我在有新产品进货的周三做一次实地考察。我希望在此之前，我们内部能够有一个实实在在的对话/讨论，拿出一些方案出来。我相信最终这个新的方案不会以牺牲任何一方为代价，应该是双方认可且都能够受益。
 
-![]({{ site.url }}/assets/images/lifting_up_202102.jpg)
+代购问卷调查结果
 
-![]({{ site.url }}/assets/images/lifting_up_202103.JPG)
+社区很多人对代购多有成见，这是不争事实。通过参与这个事件，有机会比较深入了解代购这个行业和从事这项工作的人们。下面展示有30人参加的问卷调查结果，希望能够给大家一个客观和全面了解的机会。
 
-![]({{ site.url }}/assets/images/lifting_up_202104.JPG)
+代购们的性别一边倒以女性为主，从居住年数看，多为近几年搬倒波特兰，问卷没有直接问年龄，但是从居住时间看，应该基本上以年轻人居多。
 
-![]({{ site.url }}/assets/images/lifting_up_202105.jpg)
+![]({{ site.url }}/assets/images/daigo_survey01.jpg)
 
-![]({{ site.url }}/assets/images/lifting_up_202106.jpg)
+![]({{ site.url }}/assets/images/daigo_survey02.jpg)
 
-![]({{ site.url }}/assets/images/lifting_up_202107.jpg)
 
-![]({{ site.url }}/assets/images/lifting_up_202108.jpg)
+从参加问卷的人看，所有人都是已婚，其中绝大多数又都是有家有口的家庭主妇。令人吃惊的是，这些人中的90%都有至少大学本科教育背景。
 
-![]({{ site.url }}/assets/images/lifting_up_202109.jpg)
+![]({{ site.url }}/assets/images/daigo_survey03.jpg)
 
-![]({{ site.url }}/assets/images/lifting_up_202110.jpg)
+![]({{ site.url }}/assets/images/daigo_survey04.jpg)
 
-![]({{ site.url }}/assets/images/lifting_up_202111.jpg)
+下一个问题是，他们为什么选择这个“职业”？在对“您做代购对家庭收入的影响程度”问题回答中，我们看到了近30%的人通过代购为家庭提供了全部或大部分收入来源，如果加上部分补充了家庭收入的人，就等于说超过2/3的人是通过代购讨生计的。这个和在高科技公司做工程师，或者别的职业，是没有任何本质性区别的。
 
-![]({{ site.url }}/assets/images/lifting_up_202112.jpg)
+![]({{ site.url }}/assets/images/daigo_survey05.jpg)
 
-![]({{ site.url }}/assets/images/lifting_up_202113.jpg)
+那么代购们在商店购物活动中的体验如何呢？回答感受到歧视的人数是回答没有感受到的人数的一倍，所以，在开头背景中提到的店方存在带有歧视性的做法就不足以为奇了。大家似乎只能接受着这么一个现实，这也能从对“在Coach店购物体验觉得愉快吗”的问题回答中体现出来。代购们为了生计，不接受这个现实似无别的选择，再者，基本上作为“个体户”的代购们，也没有什么底气能做些什么。
 
-![]({{ site.url }}/assets/images/lifting_up_202114.jpg)
+![]({{ site.url }}/assets/images/daigo_survey06.jpg)
 
-![]({{ site.url }}/assets/images/lifting_up_202115.jpg)
+![]({{ site.url }}/assets/images/daigo_survey07.jpg)
 
-![]({{ site.url }}/assets/images/lifting_up_202116.jpg)
+![]({{ site.url }}/assets/images/daigo_survey08.jpg)
 
-![]({{ site.url }}/assets/images/lifting_up_202117.jpg)
+### 最新进展
 
-![]({{ site.url }}/assets/images/lifting_up_202118.jpg)
+1/12/2021
 
-![]({{ site.url }}/assets/images/lifting_up_202119.jpg)
+就上次发生的事件，在代购群大家做了算是非常充分的讨论，通过问卷调查，超过60%的代购均表示在店里有被歧视的经历或感受。西北区经理告知， Outlet店店长已经换人，为解决排队的问题店里也提出了预先登记的措施。对此，我们还会继续沟通，包括Zoom会议和实地考察。
 
-![]({{ site.url }}/assets/images/lifting_up_202120.JPG)
+1/27/2021
 
-![]({{ site.url }}/assets/images/lifting_up_202121.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202122.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202123.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202124.JPG)
-
-![]({{ site.url }}/assets/images/lifting_up_202125.JPG)
-
-![]({{ site.url }}/assets/images/lifting_up_202126.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202127.JPG)
-
-![]({{ site.url }}/assets/images/lifting_up_202128.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202129.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202130.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202131.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202132.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202133.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202134.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202135.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202136.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202137.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202138.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202139.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202140.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202141.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202142.JPG)
-
-![]({{ site.url }}/assets/images/lifting_up_202143.JPG)
-
-![]({{ site.url }}/assets/images/lifting_up_202144.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202145.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202146.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202147.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202148.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202149.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202150.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202151.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202152.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202154.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202155.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202156.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202157.JPG)
-
-![]({{ site.url }}/assets/images/lifting_up_202158.JPG)
-
-![]({{ site.url }}/assets/images/lifting_up_202159.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202160.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202161.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202162.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202163.jpg)
-
-![]({{ site.url }}/assets/images/lifting_up_202164.jpg)
+今天是Woodburn Coach Outlet店上新货的日子，收到西北区主管邀请上午和Laura Lin特意前往，可能是天冷，顾客和代购都不多，我们在店外店内观察了一段时间，并和店员和新上任的经理做了交谈。商店的确非常重视我们反映的情况，更换了经理并改变了做事方法，不会再有店外排队的现象出现。现场给我们的印象不错，我们在了解代购们对新做法的反应后会进一步和店方沟通。
