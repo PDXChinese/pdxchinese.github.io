@@ -1,0 +1,142 @@
+---
+title: "Lifting Hope 2021 成功举办"
+author: XiBei Zhao
+excerpt: "周五下午由THPRD，BSD和OCC共同主办的庆祝华人春节活动获得圆满成功！当天气温非常宜人，不仅没有雨，还出现了满天的火烧云，更为幸运的是没有风。 这样，所有的孔明灯冉冉升起，再悠悠飘向西北方向，便构成了一幅幅极其浪漫的画面。当然，对当地居民，可能是生平第一次见到，有的甚至以为是外星人侵入了进来。 经历了2020，再发生什么都不会觉得有什么奇怪的了。"
+date: "2021-02-05"
+---
+
+周五下午由[THPRD](http://www.thprd.org/)，[BSD](https://www.beaverton.k12.or.us/)和OCC共同主办的庆祝华人春节活动获得圆满成功！ 因为这次活动的主要内容是放孔明灯，这对天气和场地有不小的要求，感谢THPRD的决断力，把活动安排在了刚刚完工的[Cedar Hills Park](https://www.google.com/maps/place/Cedar+Hills+Park/@45.5018393,-122.8030372,17.54z/data=!4m5!3m4!1s0x0:0xe5da33b7b8c54665!8m2!3d45.5024818!4d-122.803294)，也方便了周边居民参与和欣赏。当天气温非常宜人，不仅没有雨，还出现了满天的火烧云，更为幸运的是没有风。 这样，所有的孔明灯冉冉升起，再悠悠飘向西北方向，便构成了一幅幅极其浪漫的画面。 当然，对当地居民，可能是生平第一次见到，有的甚至以为是外星人侵入了进来。 经历了2020，再发生什么都不会觉得有什么奇怪的了。
+
+因为疫情的原因，活动过程不得不严格控制参加人数，感谢所有积极报名的家庭，相信在松手放灯的时刻，既享受了新年许愿的美好心情，也随着天灯的升起，寄托了对来年的祝福。 也是因为人数限制，无法邀请更多的社区团队参加演出，感谢OCC大鼓队，希望中文学校武术队，演示转手绢和带领大家起舞的几位义工。 [Youth Lens](http://pdxchinese.org/youthlens/)的两位同学希望尽快完成现场活动视频，与大家分享。 社区的所有活动都离不开来自义工们的奉献，感谢每一位台前幕后的义工！
+
+这次活动是社区庆祝农历新年的一个新尝试。 通过社区组织之间合作，也成为庆祝社区文化多样性卓有成效的努力。在现场，三个组织已经一致表示明年我们再聚，而且在疫情得到控制的情况下，一定会办成一个大规模社区聚会。
+
+在我们的文化中，牛被认为是勤奋，积极和诚实的象征。相信没有更好的方式来描述作为华裔美国人的我们。2021年是牛年，在此祝大家新年快乐，身体健康。
+
+![]({{ site.url }}/assets/images/lifting_up_202100.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202101.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202102.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202103.JPG)
+
+![]({{ site.url }}/assets/images/lifting_up_202104.JPG)
+
+![]({{ site.url }}/assets/images/lifting_up_202105.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202106.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202107.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202108.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202109.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202110.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202111.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202112.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202113.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202114.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202115.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202116.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202117.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202118.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202119.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202120.JPG)
+
+![]({{ site.url }}/assets/images/lifting_up_202121.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202122.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202123.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202124.JPG)
+
+![]({{ site.url }}/assets/images/lifting_up_202125.JPG)
+
+![]({{ site.url }}/assets/images/lifting_up_202126.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202127.JPG)
+
+![]({{ site.url }}/assets/images/lifting_up_202128.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202129.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202130.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202131.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202132.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202133.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202134.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202135.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202136.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202137.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202138.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202139.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202140.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202141.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202142.JPG)
+
+![]({{ site.url }}/assets/images/lifting_up_202143.JPG)
+
+![]({{ site.url }}/assets/images/lifting_up_202144.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202145.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202146.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202147.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202148.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202149.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202150.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202151.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202152.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202154.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202155.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202156.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202157.JPG)
+
+![]({{ site.url }}/assets/images/lifting_up_202158.JPG)
+
+![]({{ site.url }}/assets/images/lifting_up_202159.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202160.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202161.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202162.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202163.jpg)
+
+![]({{ site.url }}/assets/images/lifting_up_202164.jpg)
