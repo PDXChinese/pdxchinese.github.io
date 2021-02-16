@@ -14,7 +14,7 @@ feature_row1:
 **High School: Sunset High School**  
 **Middle School: Stoller Middle School**  
 **Category: Peer Advisor**  
-**Hours/Week Available: 5**  
+**Hours/Week Available: 5-10**  
 
 Allina is a first year Masters student at Harvard Chan where she is pursuing a degree in Epidemiology with a neuropsychiatric concentration. She is passionate about reducing the stigmatization around mental health issues, and in turn, bettering mental health in youth and young adult populations.
 

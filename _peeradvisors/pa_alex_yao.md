@@ -13,7 +13,7 @@ feature_row1:
 **High School: Westview High School**  
 **Middle School: Stoller Middle School**  
 **Category: Peer Advisor**  
-**Hours/Week Available: 6-10**  
+**Hours/Week Available: 4**  
 
 Alex is a pre-med senior majoring in Human Biology at the University of Southern California. Outside of class, Alex serves as the president of USC’s Soul Cal Breaking team, tutors as the vice president of Teach for Los Angeles, and volunteers in a research lab. Besides these activities, he also enjoys working out, breakdancing, and watching anime.
 

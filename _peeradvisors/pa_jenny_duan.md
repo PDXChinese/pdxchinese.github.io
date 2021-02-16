@@ -12,7 +12,7 @@ feature_row1:
 **Class: 2022**  
 **Middle School: Cedar Park School**  
 **Category: Peer Advisor**  
-**Hours/Week Available: 5+**  
+**Hours/Week Available: 5**  
 
 Jenny Duan is a junior at Jesuit High School, where she plays the piano in the jazz band! She is a co-leader of the Asian Student Union, and is a member of the Diversity and Inclusion Student Council. She is motivated by the community and people around her, and is highly interested in identifying and breaking down systemic barriers through advocacy with Rose Haven, a local
 women’s shelter, and OMSI. Outside of school, Jenny loves to explore new restaurants in Portland, watch anime, and read books.

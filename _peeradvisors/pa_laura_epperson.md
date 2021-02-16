@@ -12,7 +12,7 @@ feature_row1:
 **Class: 2021**  
 **High School: Lincoln High School**  
 **Category: Peer Advisor**  
-**Hours/Week Available: 10**  
+**Hours/Week Available: 2-3**  
 
 Laura is a senior at Scripps College majoring in Economics. She is passionate about environmental economics and hopes to pursue a career in sustainable finance in the future. Laura enjoys photography, playing guitar, spending time with family and friends, and traveling the world.
 

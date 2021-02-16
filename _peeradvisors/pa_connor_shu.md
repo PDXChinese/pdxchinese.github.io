@@ -13,7 +13,7 @@ feature_row1:
 **High School: Sunset High School**  
 **Middle School: Stoller Middle School**  
 **Category: Peer Advisor**  
-**Hours/Week Available: 2**  
+**Hours/Week Available: 3**  
 
 Connor is currently a freshman at the University of Pennsylvania. He is pursuing a BA in Physics and a BSE in Systems Science and Engineering as part of the Vagelos Integrated Program in Energy Research (VIPER). Connor is passionate about building a sustainable future and preserving this beautiful planet of ours. He loves nature and is always down for a hike!
 
