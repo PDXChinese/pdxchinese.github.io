@@ -12,7 +12,7 @@ feature_row1:
 **Class: 2022**  
 **Middle School: Athey Creek Middle School**  
 **Category: Peer Advisor**  
-**Hours/Week Available: 2-3**  
+**Hours/Week Available: 3-4**  
 
 Steven is a junior at Catlin Gabel School. He is fascinated by neuroscience and behavioral science, and hopes to pursue a career in neurology. He is passionate about helping others dealing with mental health issues and doing all he can to make the world a better place. Steven enjoys reading, playing D&D with friends, and sleeping.
 
