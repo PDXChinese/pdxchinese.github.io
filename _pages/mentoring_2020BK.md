@@ -1,6 +1,6 @@
 ---
 title: "Youth Mentoring Pilot Project"
-permalink: /mentoring/
+permalink: /mentoring_20230BK/
 feature_row1:
   - title: "Marcus Chan"
     excerpt: "<p>Marcus is the President of Venli Consulting Group, a sales training firm that has trained thousands internationally. Prior to this, Marcus was a top Director at Cintas Corporation, a $6.8B Fortune 500 company leading a team of 110+ employees. Marcus is passionate about helping others achieve their dreams through impactful mentorship.</p>"
@@ -14,6 +14,8 @@ feature_row1:
     excerpt: "<p>Kristy is Senior Finance Director at Siemens Product Lifecycle Management Software Company, who is currently responsible to manage $1B revenue portfolio. Kristy graduated from USC majored in business, and received her MBA from Yale University. Kristy has been actively mentoring early and mid career professionals in the past three years at work.</p>"
   - title: "Zhunquin Wang"
     excerpt: "<p>Zhunqing graduated from Tsinghua University and has been a software developer for Oracle since 1997. He has been coaching world-class robotics teams for over a dozen years. He was also active in a local Boy Scout troop. His passion is to foster the holistic growth of future technology leaders.</p>"
+  - title: "Hongcheng Zhao"
+    excerpt: "<p>Hongcheng has a graduate degree in Economics and worked in healthcare industry for more than 20 years. He had three years of teaching and mentoring experience in college. He has devoted his time to Chinese community in the last 3 years, including helping develop youth programs.</p>"
 ---
 <p><img src="/assets/images/activities/mentorheader.jpg"></p>  
 [http://pdxchinesementoring.org](http://www.pdxchinesementoring.org)  
