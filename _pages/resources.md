@@ -6,10 +6,7 @@ feature_row1:
     excerpt: "<p><a href='(http://pdxchinese.org/hall_of_fame/'>Oregon Chinese American Hall of Fame</a></p>"
 ---
 
-{% include feature_row id="feature_row1"%}
-
 # Resources ABC
-
 
 ## (A)ctivities
 - <a href="{{ site.url }}/resources/activities/academies/">Academies</a> ({{ site.activities_academies | size }})
