@@ -1,9 +1,11 @@
 ---
-title: "Resources ABC"
+title: ""
 permalink: /resources/
 ---
 
-[Oregon Chinese American Hall of Fame](http://pdxchinese.org/hall_od_fame/)
+[Oregon Chinese American Hall of Fame](http://pdxchinese.org/hall_of_fame/)
+
+# Resources ABC
 
 
 ## (A)ctivities
