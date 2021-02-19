@@ -103,14 +103,6 @@ Mr. Zhao attended Peking University in China. He came to the States as a Visitin
 
 {% include feature_row id="feature_row1"%}
 
-## Oregon Chinese American Hall of Fame
-
-Marshall Scholars
-
-Prudential Community Service Awards
-
-Regeneron Science Talent Search
-
 
 ## Featured Community Members
 

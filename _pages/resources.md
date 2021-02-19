@@ -3,6 +3,9 @@ title: "Resources ABC"
 permalink: /resources/
 ---
 
+[Oregon Chinese American Hall of Fame](http://pdxchinese.org/hall_od_fame/)
+
+
 ## (A)ctivities
 - <a href="{{ site.url }}/resources/activities/academies/">Academies</a> ({{ site.activities_academies | size }})
 - <a href="{{ site.url }}/resources/activities/artinstitute/">Art, Music, Dance</a> ({{ site.activities_artinstitute | size }})
