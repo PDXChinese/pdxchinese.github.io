@@ -6,22 +6,18 @@ permalink: /resources/
 ## (A)ctivities
 - <a href="{{ site.url }}/resources/activities/academies/">Academies</a> ({{ site.activities_academies | size }})
 - <a href="{{ site.url }}/resources/activities/artinstitute/">Art, Music, Dance</a> ({{ site.activities_artinstitute | size }})
-- <a href="{{ site.url }}/resources/activities/afterschool/">Camps & After School Programs</a> ({{ site.activities_afterschool | size }})
 - <a href="{{ site.url }}/resources/activities/clubs/">Clubs</a> ({{ site.activities_clubs | size }})
-- <a href="{{ site.url }}/resources/activities/healthy/">Healthy Life Style</a> ({{ site.activities_healthy | size }})
 - <a href="{{ site.url }}/resources/activities/sports/">Sports</a> ({{ site.activities_sports | size }})
 
 ## (B)enefits/Resources
 - <a href="{{ site.url }}/resources/benefits/community/">Community-based Benefits</a> ({{ site.benefits_community | size }})
 - <a href="{{ site.url }}/resources/benefits/resources/">Resources for Community Members</a> ({{ site.benefits_resources | size }})
 
-## (C)ommunities
+## (C)ommunity
 - <a href="{{ site.url }}/resources/communities/organizations/">Community Organizations</a> ({{ site.communities_organizations | size }})
 - <a href="{{ site.url }}/resources/communities/culture/">Culture</a> ({{ site.communities_culture | size }})
-- <a href="{{ site.url }}/resources/communities/media/">Media</a> ({{ site.communities_media | size }})
 - <a href="{{ site.url }}/resources/communities/nonprofits/">Nonprofit Organizations</a> ({{ site.communities_nonprofits | size }})
 - <a href="{{ site.url }}/resources/communities/religious/">Religious Groups/Churches</a> ({{ site.communities_religious | size }})
-- <a href="{{ site.url }}/resources/communities/wechat/">WeChat Groups</a> ({{ site.communities_wechat | size }})
 
 <!-- ## Professionals
 社区网站保留移除任何条目的权利，无需给出理由。
