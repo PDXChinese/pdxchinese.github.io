@@ -20,7 +20,13 @@ Congratulations to following Chinese Americans who won national recognitions!
 
 2020 Isaac Cui ’20 at Pomona College, from Beaverton [[News](https://www.pomona.edu/news/2019/12/09-isaac-cui-20-awarded-prestigious-marshall-scholarship-study-uk)]
 
+### Scholastic Art & Writing Awards National Winners
+
+2016 Sophia Mautz, Junior at Lincoln High School, from Portland [[News](https://oomscholasticblog.com/post/scholastic-art-writing-awards-2016-national-winners-announced)]
+
 [List of Scholarship with Deadlines](https://willamette.edu/offices/saga/students/external/index.html)
+
+![]({{ site.url }}/assets/images/divider.jpg)
 
 ## Timeline of Chinese Immigration to the United States
 
