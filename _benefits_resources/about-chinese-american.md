@@ -6,6 +6,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
+List of Chinese Americans who won national recognitions over years... coming soon
 
 ## Timeline of Chinese Immigration to the United States
 
@@ -21,6 +22,4 @@ feature_row1:
 
 [Archived historical documents and photographs](https://efiles.portlandoregon.gov/Record?q=recAnyWord%3Achinese&sortBy=recCreatedOn&pagesize=100&filter=electronic ) by City of Portland Archives & Records Center
 
-“[The Zhang Clan Odyssey](https://www.mychinaroots.com/samples/zhang-odyssey/#1)” by Raymond Douglas Chong (Zhang Weiming)
-
-[The Zhang Clan Odyssey on Gold Mountain]({{ site.url }}/assets/pdf/zhang_clan_odyssey.pdf) by Raymond Douglas Chong (Zhang Weiming)
+[The Zhang Clan Odyssey](https://www.mychinaroots.com/samples/zhang-odyssey/#1) and [The Zhang Clan Odyssey on Gold Mountain]({{ site.url }}/assets/pdf/zhang_clan_odyssey.pdf) by Raymond Douglas Chong (Zhang Weiming)
