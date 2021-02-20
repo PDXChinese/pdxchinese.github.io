@@ -107,3 +107,23 @@ Mr. Zhao attended Peking University in China. He came to the States as a Visitin
 ## Featured Community Members
 
 {% include feature_row id="feature_row2"%}
+
+![]({{ site.url }}/assets/images/logo/halloffame.png)
+
+Congratulations to following Chinese Americans who won national recognitions!
+
+### Marshall Scholarship
+
+2020 Isaac Cui ’20 at Pomona College, from Beaverton [News](https://www.pomona.edu/news/2019/12/09-isaac-cui-20-awarded-prestigious-marshall-scholarship-study-uk)
+
+### Prudential Community Service Award National Honorees
+
+2016 Alisha Zhao, Junior at Lincoln High School, from Portland [News](https://spirit.prudential.com/honoree/2016/or/alisha-zhao)
+
+### Regeneron Science Talent Search (STS) Top 10 Winners
+
+2020 Rupert Li, Senior at Jesuit High School, from Portland [News](https://www.societyforscience.org/press-release/virtual-regeneron-science-talent-search-2020-winners/)
+
+### Scholastic Art & Writing Awards National Winners
+
+2016 Sophia Mautz, Junior at Lincoln High School, from Portland [News](https://oomscholasticblog.com/post/scholastic-art-writing-awards-2016-national-winners-announced)
