@@ -28,15 +28,15 @@ Congratulations to following Chinese Americans who won national recognitions!
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
-## Timeline of Chinese Immigration to the United States
+### Timeline of Chinese Immigration to the United States
 
 [UC Berkeley](https://bancroft.berkeley.edu/collections/chinese-immigration-to-the-united-states-1884-1944/timeline.html)
 
-## The Chinese Exclusion Act DVD
+### The Chinese Exclusion Act DVD
 
 [PBS Online Bookstore](https://shop.pbs.org/WB0102.html)
 
-## Chinese Americans in Oregon
+### Chinese Americans in Oregon
 
 [Oregon Encyclopedia](https://oregonencyclopedia.org/articles/chinese_americans_in_oregon/#.XSNxh-hKi71)
 
