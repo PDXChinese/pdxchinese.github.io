@@ -4,11 +4,17 @@ feature_row1:
   - image_path: /assets/images/logo/halloffame.png
 ---
 
-{% include feature_row id="feature_row1"%}
-
 ![]({{ site.url }}/assets/images/logo/halloffame.png)
 
-List of Chinese Americans who won national recognitions over years... coming soon
+List of Chinese Americans who won national recognitions over years
+
+### Prudential Community Service Award
+
+2016 Alisha Zhao, Lincoln High School, Portland [News](https://spirit.prudential.com/honoree/2016/or/alisha-zhao)
+
+### Marshall Scholarship
+
+2020 Isaac Cui ’20 at Pomona College, from Beaverton [News](https://www.pomona.edu/news/2019/12/09-isaac-cui-20-awarded-prestigious-marshall-scholarship-study-uk)
 
 ## Timeline of Chinese Immigration to the United States
 
