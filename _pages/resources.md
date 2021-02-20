@@ -1,9 +1,6 @@
 ---
 title: ""
 permalink: /resources/
-feature_row1:
-  - image_path: /assets/images/logo/fame.png
-    excerpt: "<p><a href='(http://pdxchinese.org/hall_of_fame/'>Oregon Chinese American Hall of Fame</a></p>"
 ---
 
 # Resources ABC

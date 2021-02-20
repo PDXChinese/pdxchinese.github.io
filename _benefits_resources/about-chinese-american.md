@@ -1,10 +1,12 @@
 ---
-title: ""
+title: "Chinese American in Oregon"
 feature_row1:
   - image_path: /assets/images/logo/halloffame.png
 ---
 
 {% include feature_row id="feature_row1"%}
+
+![]({{ site.url }}/assets/images/logo/halloffame.png)
 
 List of Chinese Americans who won national recognitions over years... coming soon
 
