@@ -12,7 +12,7 @@ Congratulations to following Chinese Americans who won national recognitions!
 
 2016 Alisha Zhao, Junior at Lincoln High School, from Portland [[News](https://spirit.prudential.com/honoree/2016/or/alisha-zhao)]
 
-## Regeneron Science Talent Search (STS) Top 10 Winners
+### Regeneron Science Talent Search (STS) Top 10 Winners
 
 2020 Rupert Li, Senior at Jesuit High School, from Portland [[News](https://www.societyforscience.org/press-release/virtual-regeneron-science-talent-search-2020-winners/)]
 
