@@ -1,6 +1,6 @@
 ---
 title: "Oregon Chinese American Hall of Fame"
-permalink: /halloffame/
+permalink: /hall_of_fame/
 ---
 
 Marshall Scholars

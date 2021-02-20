@@ -2,19 +2,17 @@
 title: "About Chinese American"
 ---
 
+## Oregon Chinese American Hall of Fame
+
+
+
 ## Timeline of Chinese Immigration to the United States
 
 [https://bancroft.berkeley.edu/collections/chinese-immigration-to-the-united-states-1884-1944/timeline.html](https://bancroft.berkeley.edu/collections/chinese-immigration-to-the-united-states-1884-1944/timeline.html)
 
 ## The Chinese Exclusion Act DVD
 
-"Chinese Exclusion Act On May 6th, 1882 - on the eve of the greatest wave of immigration in American history - President Chester A. Arthur signed into law a unique piece of federal legislation. Called the Chinese Exclusion Act, it singled out as never before a specific race and nationality for exclusion - making it illegal for Chinese workers to come to America - and for Chinese nationals already here ever to become citizens of the United States.
-
-A deeply American story - about immigration and national identity, civil rights and human justice; about how we define who can be an American, and what being an American means - the film examines the economic, cultural, social, legal, racial and political dimensions of the law; the forces and events that gave rise to it; and the effect it had, and continues to have, on American culture and identity.
-
-The Chinese Exclusion Act, explores in riveting detail this little known, yet deeply resonant and revealing episode in American history - one that sheds enormous light on key aspects of the history of American civil liberties, immigration, and culture - during one of the most formative periods of U.S. history."
-
-Source: [https://shop.pbs.org/WB0102.html](https://shop.pbs.org/WB0102.html)
+[https://shop.pbs.org/WB0102.html](https://shop.pbs.org/WB0102.html)
 
 ## Chinese Americans in Oregon
 
@@ -22,8 +20,6 @@ Source: [https://shop.pbs.org/WB0102.html](https://shop.pbs.org/WB0102.html)
 
 [Archived historical documents and photographs](https://efiles.portlandoregon.gov/Record?q=recAnyWord%3Achinese&sortBy=recCreatedOn&pagesize=100&filter=electronic ) by City of Portland Archives & Records Center
 
-“[The Zhang Clan Odyssey](https://www.mychinaroots.com/samples/zhang-odyssey/#1)” is the intimate pursuit by Raymond Douglas Chong (Zhang Weiming) at Gold Mountain (America) to discover his Zhang clan ancestral roots in Cathay (China).
-
-The Zhang Clan Odyssey on Gold Mountain (悲欢离合在金山-张氏家族史)
+“[The Zhang Clan Odyssey](https://www.mychinaroots.com/samples/zhang-odyssey/#1)” by Raymond Douglas Chong (Zhang Weiming)
 
 <iframe src="{{ site.url }}/assets/pdf/zhang_clan_odyssey.pdf" style="width: 100%; height: 600px"></iframe>

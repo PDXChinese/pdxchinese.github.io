@@ -16,6 +16,8 @@ Jiaqi (Jackie) Zhang, Rising Junior at Sunset High School
 Danica Leung, Rising Junior at Lincoln High School  
 Qiyue (Cheery) Zhang, Rising Sophomore at Westview High School  
 
+![]({{ site.url }}/assets/images/divider.jpg)
+
 ## 2019年青少年年会
 
 ### Presentations
