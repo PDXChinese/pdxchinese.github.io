@@ -24,9 +24,6 @@ feature_row2:
   - image_path: /assets/images/members/Ni-Xu3.jpg
     title: "Ni Xu"
     excerpt: "<p>Ni was a graduate from Beijing Film Academy, majoring in film script writing.  He had an extensive experience in the film industry, working as a screenwriter, photographer, documentary and film director.</p><p>In 2012, Ni and his family came to the United States, eventually settled in Portland, hoping to do their part to record the revival of the Chinese community in Portland.</p><p>Ni’s wife, Faye, is a marketing guru, who was directly responsible for directing Portland Chinatown Saturday Performance series.</p>"
-  - image_path: /assets/images/members/Yu-Kent.jpg
-    title: "Kent Yu"
-    excerpt: "<p>Kent is the Principal & owner of <a href='http://seftconsulting.com/'>Seft Consulting Group</a>, specialized in earthquake and tsunami risk mitigation for buildings and infrastructure systems. He received MS from Tongji University in 1994 and PhD from UCSD in 1999.  He is an adjunct professor at PSU and OSU. From 2007 to 2015, Kent also served in Oregon Seismic Safety Policy Advisory Commission and was its Chairperson for one term.</p><p>Kent has two kids. When he is not accompanying them, he enjoys socializing with friends. He also has hobbies in golfing and fishing.</p>"
 ---
 ![]({{ site.url }}/assets/images/bbe6f25c77ca030fbcd56311dbff79de.jpg)
 
