@@ -86,7 +86,7 @@ Mr. Zhao attended Peking University in China. He came to the States as a Visitin
 
 ![]({{ site.url }}/assets/images/logo/halloffame.png)
 
-Congratulations to following Chinese Americans who won national recognitions!
+Congratulations to following Chinese Americans who won national recognitions in recent years!
 
 ### Marshall Scholarship
 
@@ -103,3 +103,5 @@ Congratulations to following Chinese Americans who won national recognitions!
 ### Scholastic Art & Writing Awards National Winners
 
 2016 Sophia Mautz, Junior at Lincoln High School, from Portland [News](https://oomscholasticblog.com/post/scholastic-art-writing-awards-2016-national-winners-announced)
+
+*There is no implication of OCC affiliation or sponsorship for the Hall of Famers.*
