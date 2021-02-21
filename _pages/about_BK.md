@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-permalink: /about/
+permalink: /about)BK/
 feature_row1:
   - image_path: /assets/images/members/james.jpg
     title: "James E. McCandlish"
@@ -18,15 +18,36 @@ feature_row2:
   - image_path: /assets/images/members/Neil-Lee.jpg
     title: "Neil Lee"
     excerpt: "<p>Born and raised in Portland Oregon, Mr. Lee represents the American born Chinese community. An Architect by profession, he owns and operates <a href='http://www.leekainc.com/'>LEEKA Architecture and Planning</a>. Mr. Lee is also very active in the Chinese Community. He is currently holding the leadership positions in various Chinese organizations including CCBA, Bing Kong Tong Association, and Lee's Association. Mr. Lee is committed to improving and uniting our Chinese community through collaboration and cooperation despite language, political, and geographic barriers.</p>"
+  - image_path: /assets/images/members/Tadjiki-Maya.jpg
+    title: "Maya Tadjiki"
+    excerpt: "<p>Maya was born in Chongqing, China. She was adopted in 2004 and lives with her family in Central Oregon. Maya has been an active board member of <a href='http://echoinchina.org/'>Education for Chinese Orphans</a> for two years, including updating social media sites and sending emails to sponsors. She especially loves getting updated information and new photos of the orphans, and passing that on to sponsors. She hopes to go back to China someday to visit, along with her little sister, also born in China. In the meantime, Maya enjoys playing volleyball, movies with friends, and is an avid baker.</p>"
   - image_path: /assets/images/members/andy-wong2.jpg
     title: "Andy Wong"
     excerpt: "<p>Andy is the founder of <a href='http://www.wongsking.com/'>Wong's King Seafood Restaurant</a> in Portland, Oregon. He has a very long list of titles, including World Master Chef, China’s Golden Chef, Honorable Chairman of International Chef Association in France, The Top Entrepreneurs in China, Visiting Professor in Fujian Chef College, and member of China’s All-Star Chefs.</p><p>The Restaurant received many awards over the years, in particular, named as “Top 100 Chinese Restaurant in the U.S.A” for 4 years in a row. It is one of the most popular places to host community events.</p>"
+  - image_path: /assets/images/members/Daphne-Wu.jpg
+    title: "Daphne Wu"
+    excerpt: "<p>Daphne, 2018 Chinese Rose Princess, is a junior at Sunset High School with a passion for not only books but also humanity, sports, performing arts and traveling. While maintaining a straight A at school, she enjoys volunteering around the community, going to the studio to practice ballet, or heading out to the tennis courts with friends.</p><p>She once practiced Rhythmic Gymnastics and won 1st place individual at a national competition. Currently she is a varsity tennis player for school’s team. She enjoys the process of pursuing whichever route that will make a positive impact to the people around her.</p>"
   - image_path: /assets/images/members/Ni-Xu3.jpg
     title: "Ni Xu"
     excerpt: "<p>Ni was a graduate from Beijing Film Academy, majoring in film script writing.  He had an extensive experience in the film industry, working as a screenwriter, photographer, documentary and film director.</p><p>In 2012, Ni and his family came to the United States, eventually settled in Portland, hoping to do their part to record the revival of the Chinese community in Portland.</p><p>Ni’s wife, Faye, is a marketing guru, who was directly responsible for directing Portland Chinatown Saturday Performance series.</p>"
   - image_path: /assets/images/members/Yu-Kent.jpg
     title: "Kent Yu"
     excerpt: "<p>Kent is the Principal & owner of <a href='http://seftconsulting.com/'>Seft Consulting Group</a>, specialized in earthquake and tsunami risk mitigation for buildings and infrastructure systems. He received MS from Tongji University in 1994 and PhD from UCSD in 1999.  He is an adjunct professor at PSU and OSU. From 2007 to 2015, Kent also served in Oregon Seismic Safety Policy Advisory Commission and was its Chairperson for one term.</p><p>Kent has two kids. When he is not accompanying them, he enjoys socializing with friends. He also has hobbies in golfing and fishing.</p>"
+  - image_path: /assets/images/members/Cheery_Zhang.jpg
+    title: "Cheery Zhang"
+    excerpt: "<p>Cheery, a freshman at Westview High School, has practiced Guzheng since she was six. She came to the States when she was in the third grade. She was a member of the Tian Yun Girls' Group in the Bay Area of ​​San Francisco. The girls regularly held Guzheng performances, participated in Chinese New Year celebrations, visited community senior centers. Three years later, she moved to Portland. In addition to continue her  <a href='https://www.youtube.com/watch?v=ENTeyNkHxH8'>guzheng hobby</a>, She started to show off her talents in <a href='https://www.fws.gov/oregonfwo/documents/JDS/2017/JDSGallery2017.pdf'>painting</a> and <a href='https://www.facebook.com/PaddlePalaceClub/videos/906822842813543'>sports</a> as well.</p>"
+  - image_path: /assets/images/members/Zhang-Yongtian.jpg
+    title: "Yongtian Zhang"
+    excerpt: "Yongtian is a Sr. Security Consultant in Kaiser Permanente. He graduated from USTC (University of Science and Technology of China) and received a Master degree in Information Security. His career covers Internet security, application security and network security. He is an enthusiastic community volunteer actively participating in all kinds of community services."
+  - image_path: /assets/images/members/Alisha-Zhao.jpg
+    title: "Alisha Zhao"
+    excerpt: "<p>Alisha, a junior and also Liman Fellow and Cameron Impact Scholar at Stanford University, was named one of the nation's 10 top teen volunteers in 2016, and one of Women of Worth honorees in 2018. She has created and led a nonprofit, <a href='http://kidsfirstproject.org/'>Kids First Project</a>, devoted to helping homeless youth break the generational cycle of poverty.</p><p>She was appointed by Mayor Hales to be the first high school student in history to serve as City of Portland’s Human Rights Commissioner.</p>"
+  - image_path: /assets/images/members/naomi-zhao.jpg
+    title: "Naomi Zhao"
+    excerpt: "<p>Naomi, graduated from OES in 2016, is a senior at Georgetown University. She is on the leadership team of Hoyas for Choice, an advocacy group for women's reproductive rights. She also tutors for STEM After School, a program to foster interest in STEM fields for low-income neighborhoods in D.C. This summer, Naomi is excited to be interning with Representative Ann Lininger, who represents District 38 in the Oregon House of Representatives. In her free time, she enjoys traveling, scrapbooking, spinning, and spending time with friends.</p>"
+  - image_path: /assets/images/members/Isabelle-Zheng2.jpg
+    title: "Isabelle Zheng"
+    excerpt: "<p>Isabelle, a freshman at Harvard University, is the co-founder and executive director of <a href='http://projectprelude.org'>Project Prelude</a>, a non-profit organization she started with a fellow musician that provides free after-school group violin lessons to dozens of fourth- through sixth-graders in the Portland area. She is also a dedicated flutist in her youth orchestra, an advocate of youth entrepreneurship, and active club leader at her school.</p><p>Isabelle is the distinguished finalist for 2017 Prudential Spirit of Community Awards.</p>"
 ---
 ![]({{ site.url }}/assets/images/bbe6f25c77ca030fbcd56311dbff79de.jpg)
 
