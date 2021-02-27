@@ -10,8 +10,9 @@ feature_row1:
 
 **School: Catlin Gabel School**  
 **Class: 2022**  
+**Middle School: Lake Oswego Junior High School**  
 **Category: Peer Advisor**  
-**Hours/Week Available: 5-10**  
+**Hours/Week Available: 3**  
 
 Sarah Yu is currently a Junior at Catlin Gabel School where she serves as a class president on the student association, is a leader in the Environmental Action Team, and a member of Asian Affinity. Sarah’s entrepreneurial and creative pursuits manifest in her small business—SublimitiesbySarah—and she hopes to study business and philosophy in the future.
 

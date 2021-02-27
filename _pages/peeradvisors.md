@@ -29,12 +29,18 @@ feature_row1:
   - image_path: /assets/images/activities/pa_connor_shu.jpeg
     title: "Connor Shu"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_connor_shu/'>Connor is currently a freshman at the University of Pennsylvania. He is pursuing a BA in Physics and a BSE in Systems Science and Engineering as part of the VIPER. Connor is passionate about building a sustainable future and preserving this beautiful planet of ours. He loves nature and is always down for a hike!</a></p>"  
+  - image_path: /assets/images/activities/pa_senna_titcomb.jpg
+    title: "Senna Titcomb"
+    excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_senna_titcomb/'>Senna is currently a sophomore at Oregon State University. She is majoring in computer science and would like to have a career in the technological field. At her college, she is currently in the process of starting her club called GLTCH that focuses on girls in STEM. In her free time, she likes to hike and read.</a></p>"  
   - image_path: /assets/images/activities/pa_jasmine_wang.jpg
     title: "Jasmine Wang"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_jasmine_wang/'>Jasmine is a freshman at UC Berkeley double majoring in business and data science. She wants to work in tech and business. In high school, she was involved in DECA, mock trial, cross country, and volunteering with PERIOD and NHS. In her free time, she likes to watch anime and draw.</a></p>"
   - image_path: /assets/images/activities/pa_alex_yao.png
     title: "Alexander Yao"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_alex_yao/'>Alex is a pre-med senior majoring in Human Biology at the University of Southern California. Alex serves as the president of USC’s Soul Cal Breaking team, tutors as the vice president of Teach for Los Angeles, and volunteers in a research lab. Besides these activities, he also enjoys working out, breakdancing, and watching anime.</a></p>"
+  - image_path: /assets/images/activities/pa_peter_ye.png
+    title: "Peter Ye"
+    excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_peter_ye/'>Peter is a junior at Catlin Gabel school where he is involved in Mock Trial and science bowl. In his free time, he enjoys playing tennis, reading manga, and exploring YouTube. He hopes to uplift his community through social work and volunteering.</a></p>"
   - image_path: /assets/images/activities/pa_sarah_yu.jpg
     title: "Sarah Yu"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_sarah_yu/'>Sarah is junior at Catlin Gabel School where she serves as a class president on the student association. She is passionate about uncovering her own identity while connecting to and helping the local Chinese community. When she is not at school or dance you can find her reading, running her small business, or watching cdramas.</a></p>"
