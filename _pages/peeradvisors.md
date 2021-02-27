@@ -23,6 +23,9 @@ feature_row1:
   - image_path: /assets/images/activities/pa_steven_niu.jpg
     title: "Steven Niu"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_steven_niu/'>Steven is a junior at Catlin Gabel School. He is fascinated by neuroscience and behavioral science, and hopes to pursue a career in neurology. He is passionate about assisting with social work, helping people through tough times, and doing all he can to make the world a better place. Steven enjoys reading, playing D&D with friends, and sleeping.</a></p>"  
+  - image_path: /assets/images/activities/pa_sophia_pi.jpg
+    title: "Sophia Pi"
+    excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_sophia_pi/'>Sophia is a junior at Jesuit High School, where she is the Editor-in-Chief of Jesuit’s newsletter, The Pulse. She is passionate about equity in education and about making meaningful connections with communities through service and volunteerism. In her free time, she enjoys reading, figure skating, traveling, and photography.</a></p>"  
   - image_path: /assets/images/activities/pa_aaron_sha.jpg
     title: "Aaron Sha"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_aaron_sha/'>Aaron Sha is a 3rd year attending USC as a Pre-Dental major with a Computational Biology Minor. Outside of class, he enjoys singing with his A Cappella group, writing for his science-communications journal, and producing music. Quarantine permitting, he also loves cooking with his friends and exploring local food venues.</a></p>"
