@@ -13,9 +13,9 @@ date: "2021-02-18"
 
 ![]({{ site.url }}/assets/images/WeChat Image_20210224095348.jpg)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210303095201.JPG)
+![]({{ site.url }}/assets/images/WeChat Image_20210303095201.jpg)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210303095154.JPG)
+![]({{ site.url }}/assets/images/WeChat Image_20210303095154.jpg)
 
 ![]({{ site.url }}/assets/images/WeChat Image_20210303095148.jpg)
 
