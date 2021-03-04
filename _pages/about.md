@@ -47,14 +47,6 @@ Ms. Du holds a M.S. degree in Statistics from the University of Chicago. She als
 
 Mr. Jin graduated from Nanjing University with BS degree in 1994 and then received his MS degree from Chinese Academy of Science and Ph.D. from UIUC. He has been a faculty in University of Oregon since 2005. As an Oregonian, biking is his biggest hobby. He and his wife have two sons, one enjoys swimming and the other is big fan of Youtube.
 
-### Eric Shi
-
-Mr. Shi received his B.S. from Shanghai U. of Sci. & Tech. After he came to the U.S. in 1989, he has obtained his M.S. from Oregon State and attended OGI for management courses. He devotes his time to support and promote small/startup companies in product development and market penetration. Making himself a home in Oregon with his wife and two boys, he wishes to make use of his skillset and contribute to the good of the community.
-
-### Jue Shi
-
-Mr. Shi graduated from Peking University with B.S. and M.S. degree, both in electrical engineering field. He was a senior electrical engineer, worked for 17 years in Maxim integrated products,inc. He loves technologies and organizes a tech solon for local engineers with weekly seminars on broad topics. He and his wife live in Portland, OR with two sons.
-
 ### Miaolian Wang
 
 Mrs. Wang earned Computer Science degrees from McMaster University (MS) and Central South University (BS).  She has helped at CEC Chinese school as a teaching assistant, served at her children's school as a board member on the parent-teacher committee, and devoted her time in various community services.  She and her husband moved to Oregon 14 years ago.  She lives with her husband and two daughters in Beaverton.  She likes traveling, and socializing with friends.
@@ -74,6 +66,17 @@ Mrs. Wu has a BA in Genetics and an MBA. Utilizing her biotech background, she c
 ### Hongcheng Zhao
 
 Mr. Zhao attended Peking University in China. He came to the States as a Visiting Scholar in Harvard University in 1989. He has been working in the healthcare industry for more than twenty years. He and his wife chose Portland to raise their family. They have three children who are all very passionate about community services and social justice.
+
+## Board of Directors at Large
+
+### Eric Shi
+
+Mr. Shi received his B.S. from Shanghai U. of Sci. & Tech. After he came to the U.S. in 1989, he has obtained his M.S. from Oregon State and attended OGI for management courses. He devotes his time to support and promote small/startup companies in product development and market penetration. Making himself a home in Oregon with his wife and two boys, he wishes to make use of his skillset and contribute to the good of the community.
+
+### Jue Shi
+
+Mr. Shi graduated from Peking University with B.S. and M.S. degree, both in electrical engineering field. He was a senior electrical engineer, worked for 17 years in Maxim integrated products,inc. He loves technologies and organizes a tech solon for local engineers with weekly seminars on broad topics. He and his wife live in Portland, OR with two sons.
+
 
 ## Legal Counsel
 
