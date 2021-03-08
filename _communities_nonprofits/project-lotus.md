@@ -3,7 +3,7 @@ title: "The Project Lotus"
 sidebar:
 - title: "Address"
   text: "Portland, Oregon 97229"
-  image: "/assets/images/activities/project_lotus_logo.jpg"
+  image: "/assets/images/activities/project_lotus_logo.png"
 - title: "Email"
   text: "[info@contactprojectlotus.org](mailto:info@contactprojectlotus.org)"
 - title: "Website"
