@@ -1,5 +1,5 @@
 ---
-title: "華賢勵志基金會（ACHIEF）"
+title: "ACHIEF/華賢勵志基金會"
 sidebar:
   - title: "Email"
     text: "[info@achiefpdx.org](mailto:info@achiefpdx.org)"
