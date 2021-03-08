@@ -10,3 +10,5 @@ date: "2021-03-07"
 下面是两个小组委员会成员，我们的组织名字似乎有些个“扎眼”。 但是，这个时候，我们已经不再是为华人自己谋取最大利益，而是用我们的聪明才智服务整个社区。为了能够做好这项工作，希望能集思广益，使得我能有机会把来自我们社区的建议带到会上，争取最终体现在计划之中。 欢迎有兴趣并有这方面专长的群友加入我们的工作微信群。
 
 ![]({{ site.url }}/assets/images/WeChat Image_20210307182715.png)
+
+Source: [https://www.oregon.gov/oha/PH/ABOUT/Documents/phab/2021-02-18-PHAB-packet.pdf](https://www.oregon.gov/oha/PH/ABOUT/Documents/phab/2021-02-18-PHAB-packet.pdf)
