@@ -4,7 +4,6 @@ feature_row1:
   - image_path: /assets/images/logo/halloffame.png
 ---
 
-
 ### Timeline of Chinese Immigration to the United States
 
 [UC Berkeley](https://bancroft.berkeley.edu/collections/chinese-immigration-to-the-united-states-1884-1944/timeline.html)
