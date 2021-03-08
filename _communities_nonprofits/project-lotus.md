@@ -1,22 +1,21 @@
 ---
-title: "Let's Peer Up"
+title: "The Project Lotus"
 sidebar:
 - title: "Address"
-  text: "Portland, Oregon, USA"
-  image: "/assets/images/activities/lpu_logo.png"
+  text: "Portland, Oregon 97229"
+  image: "/assets/images/activities/project_lotus_logo.jpg"
 - title: "Email"
-  text: "[letspeerup@gmail.com](mailto:letspeerup@gmail.com)"
+  text: "[info@contactprojectlotus.org](mailto:info@contactprojectlotus.org)"
 - title: "Website"
-  text: "[letspeerup.org](https://letspeerup.godaddysites.com/)"
+  text: "[theprojectlotus.org](https://www.theprojectlotus.org/)"
 ---
 
-![]({{ site.url }}/assets/images/activities/letspeerup.jpg)
+![]({{ site.url }}/assets/images/activities/project_lotus.jpg)
 
 
-##VISION
+## Our Mission
 
-Let's Peer Up (LPU) is for neurodiverse children with social communication challenges to learn important social skills and feel confident around others, while neurotypical children gain a greater understanding of people with minds different from theirs.
 
-##MISSION
+Project Lotus destigmatizes mental health in Asian-American communities by tackling the model minority stereotype through culturally-relevant education for the community and the empowerment of voices.
 
-Let's Peer Up (LPU) was founded to facilitate socializing and bonding between neurotypical and neurodiverse children, promote greater awareness of neurodiversity, and advocate for the needs of neurodiverse children. The organization supports members to form school or neighborhood clubs. Members form neurotypical/neurodiverse pairs and enjoy time together in fun activities. This helps people to understand those with different minds, and to prepare them for their future social lives.
+Project Lotus advances the movement for Asian Americans to be able to discuss, care for, and advocate mental health freely, without shame or stigma.
