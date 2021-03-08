@@ -15,3 +15,8 @@ If you want to contribute, here is the [Google form](https://goo.gl/5HpKVU). Tha
 ## 2018年圆桌会
 
 沿用去年的课外活动列表
+
+
+## General
+
+[List of Scholarship with Deadlines](https://willamette.edu/offices/saga/students/external/index.html)
