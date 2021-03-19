@@ -5,7 +5,14 @@ excerpt: "5年前我们为司法不公聚在一起，今天华裔乃至整个亚
 date: "2021-03-21"
 ---
 
-### 组织社区抗议活动安排
+## 周日上街抗议具体信息/Sunday Protest Info
+
+Places: See Google Map (coming soon)
+
+Time: 3/21/2021 11am - 1pm
+
+
+## 组织社区抗议活动安排/Protest Activities
 
 5年前我们为司法不公聚在一起，今天华裔乃至整个亚裔的安全受到了前所未有的挑战，为抗议种族歧视与暴力我们必须行动起来。 经过5年的社区活动，相信我们今天可以显示出更强大的力量，我们是本地社区的一员，愿意与所有主持正义的人们一道寻求正义与公平。 是时候向racism, xenophobia, and misogyny说不了，为此，我们建议并出面组织以下4项活动，希望得到社区成员最大程度的支持与参与。
 
@@ -18,3 +25,28 @@ date: "2021-03-21"
 4. 在自己的公司和机构主动与leadership沟通，尤其是那些还没有做出官方声明的那些公司和机构。PGE就是在我们一位华人员工的督促下表了态，说明我们每一个人都是有影响力的。
 
 欢迎大家立即加入《3.21.2021抗议活动群》
+
+## 推荐的标语牌用语
+
+Feminism Category:  
+
+Women's Lives Matter  
+Stop Shoot Women  
+Women Are Humans  
+Stop Hate On Women  
+Say NO to Women Haters  
+
+Crime Category:
+
+Stop Gun Violence  
+Stop Hate Crime  
+Call Justice to Stop Crime  
+"A Bad Day" Does NOT Justify Crime  
+"Sex Addiction" = Excuse For Hate Crime  
+
+Racism Category:
+
+Stop Asian Hate  
+We Belong To Here  
+This Is Our Home Too  
+Stop Racism  
