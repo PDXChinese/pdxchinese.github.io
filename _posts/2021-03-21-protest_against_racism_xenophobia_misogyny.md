@@ -26,7 +26,7 @@ Time: 3/21/2021 11am - 1pm
 
 欢迎大家立即加入《3.21.2021抗议活动群》
 
-## 推荐的标语牌用语
+## 推荐的标语牌用语/Suggested for Posters and Signs
 
 Feminism Category:  
 
