@@ -7,7 +7,9 @@ date: "2021-03-21"
 
 ## 周日上街抗议具体信息/Sunday Protest Info
 
-Places: See Google Map (coming soon)
+Places:
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1heQFgwgsOcUGljAZKq6CEl1FPgGAOk-k" width="640" height="480"></iframe>
 
 
 Time: 3/21/2021 11am - 1pm
