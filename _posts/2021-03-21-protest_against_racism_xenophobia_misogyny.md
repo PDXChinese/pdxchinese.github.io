@@ -9,8 +9,11 @@ date: "2021-03-21"
 
 Places: See Google Map (coming soon)
 
+
 Time: 3/21/2021 11am - 1pm
 
+
+[周日街头举牌抗议地点统计表/Collecting Protest Location Information](https://docs.google.com/forms/d/e/1FAIpQLScQG4xdFvNqY_5s1FEFGeOaHrlM63zIM07A4uIfUth3-FR1_Q/viewform?usp=sf_link)
 
 ## 组织社区抗议活动安排/Protest Activities
 
