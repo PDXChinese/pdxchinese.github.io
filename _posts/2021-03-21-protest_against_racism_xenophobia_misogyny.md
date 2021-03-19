@@ -41,7 +41,6 @@ Say NO to Women Haters
 
 Crime Category:
 
-Stop Gun Violence  
 Stop Hate Crime  
 Call Justice to Stop Crime  
 "A Bad Day" Does NOT Justify Crime  
