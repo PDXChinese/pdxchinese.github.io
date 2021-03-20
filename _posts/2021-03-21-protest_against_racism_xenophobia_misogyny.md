@@ -87,7 +87,7 @@ Stop Racism
 
 ## QR Codes for Groups
 
-{% include feature_row id="feature_row1"%}
+![]({{ site.url }}/assets/images/activities/qr_code.jpg)
 
 ## Contact Us
 
