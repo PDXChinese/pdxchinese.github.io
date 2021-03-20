@@ -1,20 +1,32 @@
 ---
 title: "Protest Against Racism, Xenophobia, and Misogyny!"
 author: XiBei Zhao
-excerpt: "5年前我们为司法不公聚在一起，今天华裔乃至整个亚裔的安全受到了前所未有的挑战，为抗议种族歧视与暴力我们必须行动起来。 经过5年的社区活动，相信我们今天可以显示出更强大的力量，我们是本地社区的一员，愿意与所有主持正义的人们一道寻求正义与公平。 是时候向racism, xenophobia, and misogyny说不了，为此，我们建议并出面组织以下4项活动，希望得到社区成员最大程度的支持与参与。"
+excerpt: "In the year of Covid 19, we have witnessed the rising pandemic of anti-Asian racism. The cold-blooded murder of Asian American women in Atlanta is only a culmination of nation-wide racial violence against Americans of Asian descent since the presidential slur of “China virus” and “Kungflu.” We stand in solidarity with American of all races, genders, and creeds, who’d join our fight against racism, xenophobia, misogyny and for social justice and equality."
 date: "2021-03-21"
 ---
 
-## 周日上街抗议具体信息/Sunday Protest Info
+## Sunday Protest Info/周日上街抗议具体信息
 
 At various locations (see Google Map) at 3/21/2021 (Sunday) 11am - 1pm
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1heQFgwgsOcUGljAZKq6CEl1FPgGAOk-k" width="640" height="480"></iframe>
 
 
-[周日街头举牌抗议地点统计表/Collecting Protest Location Information](https://docs.google.com/forms/d/e/1FAIpQLScQG4xdFvNqY_5s1FEFGeOaHrlM63zIM07A4uIfUth3-FR1_Q/viewform?usp=sf_link)
+[Collecting Protest Location Information/周日街头举牌抗议地点统计表](https://docs.google.com/forms/d/e/1FAIpQLScQG4xdFvNqY_5s1FEFGeOaHrlM63zIM07A4uIfUth3-FR1_Q/viewform?usp=sf_link)
 
-## 组织社区抗议活动安排/Protest Activities
+## Protest Activities/组织社区抗议活动安排
+
+
+In the year of Covid 19, we have witnessed the rising pandemic of anti-Asian racism. The cold-blooded murder of Asian American women in Atlanta is only a culmination of nation-wide racial violence against Americans of Asian descent since the presidential slur of “China virus” and “Kungflu.” We stand in solidarity with American of all races, genders, and creeds, who’d join our fight against racism, xenophobia, misogyny and for social justice and equality.
+
+Five years ago, we established Oregon Chinese Coalition in response to American judicial injustice. The challenge of racial discrimination and violence demands our continuous collective action. As citizens of greater Portland and southern Washington, we call on our community to fight together against the revival of virulent racism, xenophobia, and misogyny for American justice and equality. We ask your participation and support for the following events:
+
+1.	Sunday Street Protest: Rally simultaneously 11am—1pm at any major city streets of your choices with poster-boards. OOC will be responsible for the organization and funding of poster-production. Please register at the [Google form](https://docs.google.com/forms/d/e/1FAIpQLScQG4xdFvNqY_5s1FEFGeOaHrlM63zIM07A4uIfUth3-FR1_Q/viewform?usp=sf_link).
+2.	Post-rally distribution of protest posters in the public. OCC will be responsible for content and production costs.
+3.	OCC encourage high school students and parents petition governments, schools, and media and convey our message against racism, xenophobia, and misogyny. We want to gain a public hearing and ensure protection of our children on resumption of normal schooling.
+4.	Voice our concerns to our employers, companies, non-governmental and social institutions, as well as local and state governments. Unite, we shall succeed in our endeavors. We welcome participation of all interested organizations and communities.
+
+We will update all activities on this page.
 
 5年前我们为司法不公聚在一起，今天华裔乃至整个亚裔的安全受到了前所未有的挑战，为抗议种族歧视与暴力我们必须行动起来。 经过5年的社区活动，相信我们今天可以显示出更强大的力量，我们是本地社区的一员，愿意与所有主持正义的人们一道寻求正义与公平。 是时候向racism, xenophobia, and misogyny说不了，为此，我们建议并出面组织以下4项活动，希望得到社区成员最大程度的支持与参与。
 
@@ -28,19 +40,7 @@ At various locations (see Google Map) at 3/21/2021 (Sunday) 11am - 1pm
 
 欢迎大家立即加入《3.21.2021抗议活动群》
 
-In the year of Covid 19, we have witnessed the rising pandemic of anti-Asian racism. The cold-blooded murder of Asian American women in Atlanta is only a culmination of nation-wide racial violence against Americans of Asian descent since the presidential slur of “China virus” and “Kungflu.” We stand in solidarity with American of all races, genders, and creeds, who’d join our fight against racism, xenophobia, misogyny and for social justice and equality.
-
-Five years ago, we established Oregon Chinese Coalition in response to American judicial injustice. The challenge of racial discrimination and violence demands our continuous collective action. As citizens of greater Portland and southern Washington, we call on our community to fight together against the revival of virulent racism, xenophobia, and misogyny for American justice and equality. We ask your participation and support for the following events:
-
-1.	Sunday Street Protest: Rally simultaneously 11am—1pm at any major city streets of your choices with poster-boards. OOC will be responsible for the organization and funding of poster-production. Please register at the [Google form](https://docs.google.com/forms/d/e/1FAIpQLScQG4xdFvNqY_5s1FEFGeOaHrlM63zIM07A4uIfUth3-FR1_Q/viewform?usp=sf_link).
-2.	Post-rally distribution of protest posters in the public. OCC will be responsible for content and production costs.
-3.	OCC encourage high school students and parents petition governments, schools, and media and convey our message against racism, xenophobia, and misogyny. We want to gain a public hearing and ensure protection of our children on resumption of normal schooling.
-4.	Voice our concerns to our employers, companies, non-governmental and social institutions, as well as local and state governments. Unite, we shall succeed in our endeavors. We welcome participation of all interested organizations and communities.
-
-We will update all activities on this page.
-
-
-## 推荐的标语牌用语/Suggested for Posters and Signs
+## Suggested for Posters and Signs/推荐的标语牌用语
 
 Feminism Category:  
 
