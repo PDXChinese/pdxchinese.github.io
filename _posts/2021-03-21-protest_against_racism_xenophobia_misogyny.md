@@ -33,7 +33,6 @@ At various locations (see Google Map) at 3/21/2021 (Sunday) 11am - 1pm
 Feminism Category:  
 
 Women's Lives Matter  
-Stop Shoot Women  
 Women Are Humans  
 Stop Hate On Women  
 Say NO to Women Haters  
