@@ -17,6 +17,23 @@ At various locations (see Google Map) at 3/21/2021 (Sunday) 11am - 1pm
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1heQFgwgsOcUGljAZKq6CEl1FPgGAOk-k" width="640" height="480"></iframe>
 
+| Chinatown (next to Gate) | Downtown Portland |
+| Powell's City of Books | Downtown Portland |
+| NE 82nd Ave & NE Glisan St | SE Portland |
+| SE Division St & SE 87th Ave | SE Portland |
+| SE Johnson Creek Blvd & I-213 | Happy Valley |
+| Saturday Market @ 120 SW Ankeny St | Downtown Portland |
+| Vancouver I-5 Bridge | Vancouver |
+| SW Hall& SW Scholls Ferry | Tigard |
+| Carman Drive & Kruse Way | Lake Oswego |
+| Zupan’s Markets | Lake Oswego |
+| Safeway @ 401 A Ave | Lake Oswego |
+| OR-8 & I-217 | Beaverton |
+| NW Cornell & NW Murray | Beaverton |
+| Benton County Circuit Court | Corvallis|
+| Eugene Federal Building @ 405 E 8th Ave | Eugene |
+| Salem State Capitol Building | Salem |
+
 [Sunday Protest Participants Survey/参加活动人数统计表](https://docs.google.com/forms/d/e/1FAIpQLSexaGTcueXzEEBHRvceZFhBbm7fff7DZVA45hNuI8-ZutspgQ/viewform?usp=sf_link)  
 
 ## Protest Activities/组织社区抗议活动安排
