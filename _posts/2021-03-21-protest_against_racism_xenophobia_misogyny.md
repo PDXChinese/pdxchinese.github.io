@@ -3,6 +3,8 @@ title: "Protest Against Racism, Xenophobia, and Misogyny!"
 author: XiBei Zhao
 excerpt: "In the year of Covid 19, we have witnessed the rising pandemic of anti-Asian racism. The cold-blooded murder of Asian American women in Atlanta is only a culmination of nation-wide racial violence against Americans of Asian descent since the presidential slur of “China virus” and “Kungflu.” We stand in solidarity with American of all races, genders, and creeds, who’d join our fight against racism, xenophobia, misogyny and for social justice and equality."
 date: "2021-03-21"
+feature_row1:
+  - image_path: /assets/images/activities/protest_page.png
 ---
 
 ## Sunday Protest Info/周日上街抗议具体信息
@@ -61,3 +63,7 @@ Stop Asian Hate
 We Belong To Here  
 This Is Our Home Too  
 Stop Racism  
+
+## QR Code for this Page
+
+{% include feature_row id="feature_row1"%}
