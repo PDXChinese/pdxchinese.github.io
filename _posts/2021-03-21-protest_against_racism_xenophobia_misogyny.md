@@ -12,7 +12,7 @@ At various locations (see Google Map) at 3/21/2021 (Sunday) 11am - 1pm
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1heQFgwgsOcUGljAZKq6CEl1FPgGAOk-k" width="640" height="480"></iframe>
 
 [Collecting Protest Location Information/周日街头举牌抗议地点统计表](https://docs.google.com/forms/d/e/1FAIpQLScQG4xdFvNqY_5s1FEFGeOaHrlM63zIM07A4uIfUth3-FR1_Q/viewform?usp=sf_link)  
-[Sunday Protest Participants Survey](https://docs.google.com/forms/d/e/1FAIpQLSexaGTcueXzEEBHRvceZFhBbm7fff7DZVA45hNuI8-ZutspgQ/viewform?usp=sf_link)  
+[Sunday Protest Participants Survey/参加活动人数统计表](https://docs.google.com/forms/d/e/1FAIpQLSexaGTcueXzEEBHRvceZFhBbm7fff7DZVA45hNuI8-ZutspgQ/viewform?usp=sf_link)  
 
 ## Protest Activities/组织社区抗议活动安排
 
