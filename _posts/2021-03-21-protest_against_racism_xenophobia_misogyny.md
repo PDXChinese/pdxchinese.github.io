@@ -85,7 +85,7 @@ We Belong To Here
 This Is Our Home Too  
 Stop Racism  
 
-## QR Codes for Groups
+## QR Codes for Working Groups
 
 ![]({{ site.url }}/assets/images/activities/qr_code.jpg)
 
