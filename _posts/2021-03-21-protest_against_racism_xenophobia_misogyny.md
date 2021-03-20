@@ -88,3 +88,7 @@ Stop Racism
 ## QR Codes for Groups
 
 {% include feature_row id="feature_row1"%}
+
+## Contact Us
+
+[info@pdxchinese.org](mailto:info@pdxchinese.org)
