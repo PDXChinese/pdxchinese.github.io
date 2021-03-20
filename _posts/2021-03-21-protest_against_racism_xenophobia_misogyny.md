@@ -1,5 +1,5 @@
 ---
-title: Protest Against Racism, Xenophobia, and Misogyny!"
+title: "Protest Against Racism, Xenophobia, and Misogyny!"
 author: XiBei Zhao
 excerpt: "5年前我们为司法不公聚在一起，今天华裔乃至整个亚裔的安全受到了前所未有的挑战，为抗议种族歧视与暴力我们必须行动起来。 经过5年的社区活动，相信我们今天可以显示出更强大的力量，我们是本地社区的一员，愿意与所有主持正义的人们一道寻求正义与公平。 是时候向racism, xenophobia, and misogyny说不了，为此，我们建议并出面组织以下4项活动，希望得到社区成员最大程度的支持与参与。"
 date: "2021-03-21"
@@ -7,7 +7,7 @@ date: "2021-03-21"
 
 ## 周日上街抗议具体信息/Sunday Protest Info
 
-Places and Time: 3/21/2021 (Sunday) 11am - 1pm
+At various locations (see Google Map) at 3/21/2021 (Sunday) 11am - 1pm
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1heQFgwgsOcUGljAZKq6CEl1FPgGAOk-k" width="640" height="480"></iframe>
 
