@@ -4,18 +4,11 @@ author: XiBei Zhao
 excerpt: "In the year of Covid 19, we have witnessed the rising pandemic of anti-Asian racism. The cold-blooded murder of Asian American women in Atlanta is only a culmination of nation-wide racial violence against Americans of Asian descent since the presidential slur of “China virus” and “Kungflu.” We stand in solidarity with American of all races, genders, and creeds, who’d join our fight against racism, xenophobia, misogyny and for social justice and equality."
 date: "2021-03-21"
 feature_row1:
-  - image_path: /assets/images/activities/protest_page.png
-    title: "This Page"
   - image_path: /assets/images/activities/protest_chinatown.jpg
-    title: "Chinatown"
   - image_path: /assets/images/activities/protest_division_87.jpg
-    title: "SE Division & 87"
   - image_path: /assets/images/activities/protest_happy_valley.jpg
-    title: "Happy Valley"
   - image_path: /assets/images/activities/protest_tvhw_217.jpg
-    title: "Beaverton @ I-217"
   - image_path: /assets/images/activities/protest_washington_square.jpg
-    title: "Washington Square"
 ---
 
 ## Sunday Protest Info/周日上街抗议具体信息
