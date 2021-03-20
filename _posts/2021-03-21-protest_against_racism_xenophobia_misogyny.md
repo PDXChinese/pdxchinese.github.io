@@ -11,7 +11,6 @@ At various locations (see Google Map) at 3/21/2021 (Sunday) 11am - 1pm
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1heQFgwgsOcUGljAZKq6CEl1FPgGAOk-k" width="640" height="480"></iframe>
 
-[Collecting Protest Location Information/周日街头举牌抗议地点统计表](https://docs.google.com/forms/d/e/1FAIpQLScQG4xdFvNqY_5s1FEFGeOaHrlM63zIM07A4uIfUth3-FR1_Q/viewform?usp=sf_link)  
 [Sunday Protest Participants Survey/参加活动人数统计表](https://docs.google.com/forms/d/e/1FAIpQLSexaGTcueXzEEBHRvceZFhBbm7fff7DZVA45hNuI8-ZutspgQ/viewform?usp=sf_link)  
 
 ## Protest Activities/组织社区抗议活动安排
@@ -19,7 +18,7 @@ At various locations (see Google Map) at 3/21/2021 (Sunday) 11am - 1pm
 
 In the year of Covid 19, we have witnessed the rising pandemic of anti-Asian racism. The cold-blooded murder of Asian American women in Atlanta is only a culmination of nation-wide racial violence against Americans of Asian descent since the presidential slur of “China virus” and “Kungflu.” We stand in solidarity with American of all races, genders, and creeds, who’d join our fight against racism, xenophobia, misogyny and for social justice and equality.
 
-Five years ago, we established Oregon Chinese Coalition in response to American judicial injustice. The challenge of racial discrimination and violence demands our continuous collective action. As citizens of greater Portland and southern Washington, we call on our community to fight together against the revival of virulent racism, xenophobia, and misogyny for American justice and equality. We ask your participation and support for the following events:
+Five years ago, we established Oregon Chinese Coalition in response to American judicial injustice. The challenge of racial discrimination and violence demands our continuous collective action. As fellow Oregonians, we call on our community to fight together against the revival of virulent racism, xenophobia, and misogyny for American justice and equality. We ask your participation and support for the following events:
 
 1.	Sunday Street Protest: Rally simultaneously 11am—1pm at any major city streets of your choices with poster-boards. OOC will be responsible for the organization and funding of poster-production. Please register at the [Google form](https://docs.google.com/forms/d/e/1FAIpQLScQG4xdFvNqY_5s1FEFGeOaHrlM63zIM07A4uIfUth3-FR1_Q/viewform?usp=sf_link).
 2.	Post-rally distribution of protest posters in the public. OCC will be responsible for content and production costs.
