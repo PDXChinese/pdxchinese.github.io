@@ -17,7 +17,7 @@ feature_row1:
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1heQFgwgsOcUGljAZKq6CEl1FPgGAOk-k" width="640" height="480"></iframe>
 
-| Chinatown (next to Gate) | Downtown Portland |
+| Pioneer Courthouse Square | Downtown Portland |
 | Powell's City of Books | Downtown Portland |
 | NE 82nd Ave & NE Glisan St | SE Portland |
 | SE Division St & SE 87th Ave | SE Portland |
