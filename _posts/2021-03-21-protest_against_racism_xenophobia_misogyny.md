@@ -22,7 +22,7 @@ In the year of Covid 19, we have witnessed the rising pandemic of anti-Asian rac
 
 Five years ago, we established Oregon Chinese Coalition in response to American judicial injustice. The challenge of racial discrimination and violence demands our continuous collective action. As fellow Oregonians, we call on our community to fight together against the revival of virulent racism, xenophobia, and misogyny for American justice and equality. We ask your participation and support for the following events:
 
-1.	Sunday Street Protest: Rally simultaneously 11am—1pm at any major city streets of your choices with poster-boards. OOC will be responsible for the organization and funding of poster-production. Please register at the [Google form](https://docs.google.com/forms/d/e/1FAIpQLScQG4xdFvNqY_5s1FEFGeOaHrlM63zIM07A4uIfUth3-FR1_Q/viewform?usp=sf_link).
+1.	Sunday Street Protest: Rally simultaneously 11am—1pm at any major city streets of your choices with poster-boards. OOC will be responsible for the organization and funding of poster-production. 
 2.	Post-rally distribution of protest posters in the public. OCC will be responsible for content and production costs.
 3.	OCC encourage high school students and parents petition governments, schools, and media and convey our message against racism, xenophobia, and misogyny. We want to gain a public hearing and ensure protection of our children on resumption of normal schooling.
 4.	Voice our concerns to our employers, companies, non-governmental and social institutions, as well as local and state governments. Unite, we shall succeed in our endeavors. We welcome participation of all interested organizations and communities.
