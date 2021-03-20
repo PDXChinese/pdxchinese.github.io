@@ -75,6 +75,6 @@ We Belong To Here
 This Is Our Home Too  
 Stop Racism  
 
-## QR Code for this Page
+## QR Codes for Groups
 
 {% include feature_row id="feature_row1"%}
