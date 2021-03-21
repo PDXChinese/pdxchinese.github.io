@@ -90,6 +90,10 @@ Stop Racism
 
 ![]({{ site.url }}/assets/images/activities/qr_code.jpg)
 
+## Press Release
+
+[March 21, 2021](/assets/activities/press_release_03_21_2021.pdf)
+
 ## Contact Us
 
 Emaill: [info@pdxchinese.org](mailto:info@pdxchinese.org)
