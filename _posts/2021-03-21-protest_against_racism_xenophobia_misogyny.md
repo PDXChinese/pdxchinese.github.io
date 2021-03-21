@@ -13,7 +13,7 @@ feature_row1:
 
 ## Sunday Protest Info/周日上街抗议具体信息
 
-3/21/2021 (Sunday) 11am - 1pm @ various locations (see Google Map)
+3/21/2021 (Sunday) 11am - 1pm @ 17 locations (see Google Map)
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1heQFgwgsOcUGljAZKq6CEl1FPgGAOk-k" width="640" height="480"></iframe>
 
