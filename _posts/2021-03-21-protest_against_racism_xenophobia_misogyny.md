@@ -19,10 +19,10 @@ feature_row1:
 
 | Pioneer Courthouse Square | Downtown Portland |
 | Powell's City of Books | Downtown Portland |
+| Saturday Market @ 120 SW Ankeny St | Downtown Portland |
 | NE 82nd Ave & NE Glisan St | SE Portland |
 | SE Division St & SE 87th Ave | SE Portland |
 | SE Johnson Creek Blvd & I-213 | Happy Valley |
-| Saturday Market @ 120 SW Ankeny St | Downtown Portland |
 | Vancouver I-5 Bridge | Vancouver |
 | SW Hall& SW Scholls Ferry | Tigard |
 | SW Greenburg Rd & OR-217 | Tigard |
@@ -40,7 +40,7 @@ feature_row1:
 ## Protest Activities/组织社区抗议活动安排
 
 
-In the year of Covid 19, we have witnessed the rising pandemic of anti-Asian racism. The cold-blooded murder of Asian American women in Atlanta is only a culmination of nation-wide racial violence against Americans of Asian descent since the presidential slur of “China virus” and “Kungflu.” We stand in solidarity with American of all races, genders, and creeds, who’d join our fight against racism, xenophobia, misogyny and for social justice and equality.
+In the year of Covid 19, we have witnessed the rising pandemic of anti-Asian racism. The cold-blooded murder of Asian American women in Atlanta is only a culmination of nation-wide racial violence against Americans of Asian descent. We stand in solidarity with American of all races, genders, and creeds, who’d join our fight against racism, xenophobia, misogyny and for social justice and equality.
 
 Five years ago, we established Oregon Chinese Coalition in response to American judicial injustice. The challenge of racial discrimination and violence demands our continuous collective action. As fellow Oregonians, we call on our community to fight together against the revival of virulent racism, xenophobia, and misogyny for American justice and equality. We ask your participation and support for the following events:
 
