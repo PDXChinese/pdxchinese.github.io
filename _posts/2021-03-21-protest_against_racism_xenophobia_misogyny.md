@@ -92,7 +92,7 @@ Stop Racism
 
 ## Press Release
 
-[March 21, 2021](/assets/activities/press_release_03_21_2021.pdf)
+[March 21, 2021](/assets/images/activities/press_release_03_21_2021.pdf)
 
 ## Contact Us
 
