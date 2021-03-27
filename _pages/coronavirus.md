@@ -11,12 +11,22 @@ feature_row1:
 ---
 ## [最新符合疫苗接种资格人群](https://covidvaccine.oregon.gov/)
 
-| 12/12/2020 | 1A | 各类医护人员 |
-| 1/25/2021 | 1B 第1组 | 教育工作者，学校幼儿园的工作人员 |
-| 2/8/2021 | 1B 第2组 | 80岁或以上人群 |
-| 2/15/2021 | 1B 第3组 | 75岁或以上人群 |
-| 2/22/2021 | 1B 第4组 | 70岁或以上人群 |
-| 3/1/2021 | 1B 第5组 | 65岁或以上人群 |
+| March 29 | Phase 1B, Group 6 |
+| | •	Adults 45-64 with underlying health conditions |
+| | •	Migrant and seasonal farm workers |
+| | •	Seafood and agricultural workers |
+| | •	Food processing workers |
+| | •	People living in low-income senior housing |
+| | •	People experiencing homelessness |
+| | •	People currently displaced by wildfires |
+| | •	Wildland firefighters |
+| | •	Pregnant people 16 and older |
+| April 5 | Phase 1B, Group 7 |
+| | •	[Frontline workers](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3527A.pdf) |
+| | •	Multigenerational household |
+| | •	Adults 16 and older with [underlying health conditions](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3527A.pdf) |
+
+
 
 OHA疫苗接种[预约网站](https://covidvaccine.oregon.gov/)及[相关信息](https://getvaccinated.oregon.gov/)  
 连锁药店合作伙伴接种疫苗预约链接：[Walgreen](https://www.walgreens.com/findcare/vaccination/covid-19), [CVS](https://www.cvs.com/immunizations/covid-19-vaccine), [Walmart](https://www.walmart.com/cp/1228302), [FredMeyer](https://www.fredmeyer.com/health/clinic/vaccinations), [Safeway/Albertsons](https://www.safeway.com/pharmacy/covid-19.html), [Costco](https://www.costco.com/covid-vaccine.html), [Health Mart](https://www.healthmartcovidvaccine.com)   
