@@ -1,5 +1,5 @@
 ---
-title: "OCC Statement and Response to Mr. Hutchens' Sentencing"
+title: "Statement and Response to Mr. Hutchens' Sentencing"
 author: XiBei Zhao
 excerpt: "We are not fearful of confrontation with any type of violence or hatred toward Asian Americans but at the same time, it is not our intention to let individual persons shoulder the consequences of social injustice which has deeper roots in our society."
 date: "2021-04-02"
