@@ -11,14 +11,14 @@ date: "2021-04-02"
 
 这次社区成员积极参与案件审理为这个方案的形成奠定了基础，我们将继续依赖社区的集体智慧把这件事情做成做好。 有兴趣参加讨论的群友，欢迎加入《PDX 法律信息互助群》。
 
-[DA Office Press Release](https://www.mcda.us/index.php/news/bias-crime-case-ends-with-restorative-justice-agreement/)
+### [DA Office Press Release](https://www.mcda.us/index.php/news/bias-crime-case-ends-with-restorative-justice-agreement/)
 
 
-OCC Statement on Mr. Hutchens' Sentencing
+### OCC Statement on Mr. Hutchens' Sentencing
 
-> As Portland and America suffer from elevated rates of racial prejudice, it is of the utmost importance to call out, address, and mitigate the hate crimes which have directly harmed our communities. Cases involving anti-Asian hate crimes such as Mr. Hutchens's act of criminality reflect growing trends of racial biases plaguing America since its inception, with this recent wave of anti-Asian sentiment simply manifesting age-old biases in contemporary discourse. The city of Portland prides itself as a haven of inclusivity and diversity, so to see anti-Asian sentiment adulterate its social landscape is a threat to not only the Asian community but the identity of the city itself. By holding the defendant accountable for his reprehensible actions, the DA office is taking a righteous step to address anti-Asian injustice. Racially motivated violence will not be tolerated at any time, but education through accountability is one of the first steps we, as a city, can take towards resolving these injustices.
+> As Portland and America suffer from elevated rates of racial prejudice, it is of the utmost importance to call out, address, and mitigate the hate crimes which have directly harmed our communities. Cases involving anti-Asian hate crimes such as Mr. Hutchens's act of criminality reflect growing trends of racial biases plaguing America since its inception, with this recent wave of anti-Asian sentiment simply manifesting age-old biases in contemporary discourse. The city of Portland prides itself as a haven of inclusivity and diversity, so to see anti-Asian sentiment adulterate its social landscape is a threat to not only the Asian community but the identity of the city itself. By holding the defendant accountable for his reprehensible actions, the DA office is taking a righteous step to address anti-Asian injustice. Racially motivated violence will not be tolerated at any time, but education through accountability is one of the first steps we, as a city, can take towards addressing these injustices.
 
-The following response is prepared for media inquiries. 
+### The following response is prepared for media inquiries.
 
 
 > We could not appreciate more Multnomah County DA Office for sending out such thoughtful message to the community.  
