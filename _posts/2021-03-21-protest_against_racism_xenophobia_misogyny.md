@@ -97,5 +97,3 @@ Stop Racism
 ## Contact Us
 
 Emaill: [info@pdxchinese.org](mailto:info@pdxchinese.org)
-
-Phone: 503-548-3310 & 503-962-9739
