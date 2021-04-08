@@ -58,6 +58,8 @@ feature_row22:
     - image_path: /assets/images/activities/talk_raymond_chong1.jpg
     - image_path: /assets/images/activities/talk_raymond_chong2.jpg
     - image_path: /assets/images/activities/talk_raymond_chong3.jpg
+feature_row23:
+    - image_path: /assets/images/activities/talk_bjpark.jpg
 ---
 
 {% include feature_row id="feature_row0"%}
@@ -65,6 +67,18 @@ feature_row22:
 Under the circumstances that the epidemic severely limits people's lives, how can we all be able to stay connected, not only can make use of ample time, but also take advantage of virtual resources to do some things that are usually difficult to do. The answer we give is to organize Weekly Talk on the Zoom platform. The presenter can be from inside or outside of the community, and the topic is not limited. The audience can be all ages.
 
 Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and the time will generally be controlled at one hour. The registration is required for each event.
+
+### 04.11.2021 3pm
+
+Talk With District Attorney BJ Park on Mr. Hutchens' Case
+
+{% include feature_row id="feature_row23"%}
+
+BJ Park serves as the Multnomah County District Attorney’s Office hate crimes prosecutor. BJ will discuss the laws that cover hate crimes and current prosecutorial efforts as well as how to report hate crimes within Multnomah County. He in particular encourages people to report if they experience a hate crime. Also BJ will talk about the difference between people experiencing racism versus an actual hate crime. Since BJ once also worked as a prosecutor in Chicago, he will share his experiences as a prosecutor in those many years in both Oregon and Chicago.
+
+The registration link to the Zoom meeting is https://us02web.zoom.us/meeting/register/tZYld--rrDguE9cm3aKQVifcPtE81BOK0lp2
+
+You are welcome to [submit your questions in advance](https://docs.google.com/forms/d/e/1FAIpQLSfPfuYiRfTxqsVoEgDNwbDOHnLIXmmv6z4EgSsUWgFwjT7QkA/viewform?usp=sf_link).
 
 ### 01.30.2021 3pm
 
@@ -100,9 +114,6 @@ Raymond Douglas Chong (Zhang Weiming) tells an epic saga of the Zhang Clan from 
 
 You are welcome to check out the Zhang Clan Odyssey [website](https://www.mychinaroots.com/samples/zhang-odyssey/).
 
-The talk is more for parents and their children. [Registration](https://us02web.zoom.us/meeting/register/tZYld--rrDguE9cm3aKQVifcPtE81BOK0lp2) is required.
-
-You are welcome to [submit your questions in advance](https://docs.google.com/forms/d/e/1FAIpQLSfPfuYiRfTxqsVoEgDNwbDOHnLIXmmv6z4EgSsUWgFwjT7QkA/viewform?usp=sf_link).
 
 ### 01.23.2021 3pm
 
