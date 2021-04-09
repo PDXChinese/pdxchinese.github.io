@@ -59,7 +59,7 @@ feature_row22:
     - image_path: /assets/images/activities/talk_raymond_chong2.jpg
     - image_path: /assets/images/activities/talk_raymond_chong3.jpg
 feature_row23:
-    - image_path: /assets/images/activities/talk_bjpark.jpg
+    - image_path: /assets/images/activities/talk_bjpark.JPG
 ---
 
 {% include feature_row id="feature_row0"%}
