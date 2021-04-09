@@ -76,7 +76,7 @@ Talk With District Attorney BJ Park on Mr. Hutchens' Case
 
 BJ Park serves as the Multnomah County District Attorney’s Office hate crimes prosecutor. BJ will discuss the laws that cover hate crimes and current prosecutorial efforts as well as how to report hate crimes within Multnomah County. He in particular encourages people to report if they experience a hate crime. Also BJ will talk about the difference between people experiencing racism versus an actual hate crime. Since BJ once also worked as a prosecutor in Chicago, he will share his experiences as a prosecutor in those many years in both Oregon and Chicago.
 
-[The registration](https://us02web.zoom.us/meeting/register/tZYld--rrDguE9cm3aKQVifcPtE81BOK0lp2) is required.
+[The registration](https://us02web.zoom.us/meeting/register/tZAsd-ihpzMoE9Ec3d8Drw4A7ZCJT9WLp_lK) is required.
 
 You are welcome to [submit your questions in advance](https://docs.google.com/forms/d/e/1FAIpQLSfPfuYiRfTxqsVoEgDNwbDOHnLIXmmv6z4EgSsUWgFwjT7QkA/viewform?usp=sf_link).
 
