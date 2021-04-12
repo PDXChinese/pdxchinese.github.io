@@ -11,21 +11,10 @@ feature_row1:
 ---
 ## [最新符合疫苗接种资格人群](https://covidvaccine.oregon.gov/)
 
-| March 29 | Phase 1B, Group 6 |
-| | •	Adults 45-64 with underlying health conditions |
-| | •	Migrant and seasonal farm workers |
-| | •	Seafood and agricultural workers |
-| | •	Food processing workers |
-| | •	People living in low-income senior housing |
-| | •	People experiencing homelessness |
-| | •	People currently displaced by wildfires |
-| | •	Wildland firefighters |
-| | •	Pregnant people 16 and older |
 | April 5 | Phase 1B, Group 7 |
 | | •	[Frontline workers](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3527A.pdf) |
 | | •	Multigenerational household |
 | | •	Adults 16 and older with [underlying health conditions](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3527A.pdf) |
-
 
 
 OHA疫苗接种[预约网站](https://covidvaccine.oregon.gov/)及[相关信息](https://getvaccinated.oregon.gov/)  
@@ -37,9 +26,7 @@ OHA疫苗接种[预约网站](https://covidvaccine.oregon.gov/)及[相关信息]
 州政府官方中文宣传材料:  
 [如何保护自己和他人免受COVID-19感染](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served//LN2681.pdf)  
 [为您的家庭应对疫情做好准备](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ln3225.pdf)  
-[Multnomah County免费病毒测试](https://multco.us/file/93346/download)  
 [新冠疫苗的工作原理](https://multco.us/file/94743/download)  
-[OHA对接种疫苗优先顺序的安排及接种链接](https://covidvaccine.oregon.gov/)  
 
 # 华人联盟(OCC)主持的华人社区疫情应对计划
 
@@ -52,11 +39,11 @@ OHA疫苗接种[预约网站](https://covidvaccine.oregon.gov/)及[相关信息]
 
 ## 服务内容
 
-> 病毒检测结果为阳性，或因为近距离接触检测结果为阳性的社区成员，都需要自我隔离14天。在隔离期间我们会负责提供全方位的支持，包括协调吃住行，几乎全部费用(包括但不限于旅馆，食物，通讯，水电气，托儿费等)都会由州政府支付。 (7/1/2020 - 12/30/2020)
+> 病毒检测结果为阳性，或因为近距离接触检测结果为阳性的社区成员，都需要自我隔离14天。在隔离期间我们会负责提供全方位的支持，包括协调吃住行，几乎全部费用(包括但不限于旅馆，食物，通讯，水电气，托儿费等)都会由州政府支付。 (7/1/2020 - 06/30/2021)
 
-> 穆鲁玛郡(Multnomah County)居民1-3个月房屋租金补助计划 (9/1/2020 - 12/30/2020)，OCC预申请因为申请人数超过了名额，暂时停止接收。
+> 穆鲁玛郡(Multnomah County)居民1-3个月房屋租金补助计划 (9/1/2020 - 06/30/2021)，OCC预申请因为申请人数超过了名额，暂时停止接收。
 
-> 波特兰市(City of Portland)居民$500一次性现金补贴计划 (9/1/2020 - 12/30/2020)，OCC预申请因为申请人数超过了名额，暂时停止接收。
+> 波特兰市(City of Portland)居民$500一次性现金补贴计划 (9/1/2020 - 12/30/2020)，已经结束。
 
 > 卫生健康公平(Health Equity)拨款 (3/1/2020 - 12/30/2020), 拨款用途比较宽泛，方便帮助到我们社区的家庭和个人甚至机构。OCC申请因为申请人数已经远超过了我们将收到的款额，暂时停止接收。
 
