@@ -68,17 +68,28 @@ Under the circumstances that the epidemic severely limits people's lives, how ca
 
 Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and the time will generally be controlled at one hour. The registration is required for each event.
 
-### 04.11.2021 3pm
+### 04.18.2021 Sunday 3pm
+
+Internet Safety for Children by District Attorney BJ Park
+
+{% include feature_row id="feature_row23"%}
+
+Kids today spend and live a huge part of their lives on the internet. This has increased even further due to the unprecedented global pandemic that has gripped the world for the past year. Despite their increased use, many children do not understand or respect the dangers of using the internet. Many of us parents feel helpless in teaching our children about the pitfalls of being online.
+
+BJ Park is a Deputy District Attorney for the Multnomah County DA's Office who specializes in hate crimes and internet crimes against children. BJ will discuss the dangers of the internet and social media for our kids. He will present suggestions on how to approach our kids and talk to them regarding the internet and social media. BJ will present examples from the vast number of cases that he has seen in his position as well as practical recommendations on how to navigate your kids through the online world to keep them safe and preserve their future.
+
+
+[The registration](https://us02web.zoom.us/meeting/register/tZwudu-vqzMuHtZPfCtmGX5A762uS0MfQZcB) is required.
+
+You are welcome to [submit your questions in advance](https://docs.google.com/forms/d/e/1FAIpQLSfPfuYiRfTxqsVoEgDNwbDOHnLIXmmv6z4EgSsUWgFwjT7QkA/viewform?usp=sf_link).
+
+### 04.11.2021 Sunday 3pm
 
 Talk With District Attorney BJ Park on Mr. Hutchens' Case
 
 {% include feature_row id="feature_row23"%}
 
 BJ Park serves as the Multnomah County District Attorney’s Office hate crimes prosecutor. BJ will discuss the laws that cover hate crimes and current prosecutorial efforts as well as how to report hate crimes within Multnomah County. He in particular encourages people to report if they experience a hate crime. Also BJ will talk about the difference between people experiencing racism versus an actual hate crime. Since BJ once also worked as a prosecutor in Chicago, he will share his experiences as a prosecutor in those many years in both Oregon and Chicago.
-
-[The registration](https://us02web.zoom.us/meeting/register/tZAsd-ihpzMoE9Ec3d8Drw4A7ZCJT9WLp_lK) is required.
-
-You are welcome to [submit your questions in advance](https://docs.google.com/forms/d/e/1FAIpQLSfPfuYiRfTxqsVoEgDNwbDOHnLIXmmv6z4EgSsUWgFwjT7QkA/viewform?usp=sf_link).
 
 ### 01.30.2021 3pm
 
