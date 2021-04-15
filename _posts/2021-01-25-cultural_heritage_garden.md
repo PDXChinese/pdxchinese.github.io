@@ -30,3 +30,7 @@ One letter from a student with his family --
 A response from Metro Councilor --
 
 <iframe src="{{ site.url }}/assets/pdf/letter-to-metro-2.pdf" style="width: 100%; height: 600px"></iframe>
+
+![]({{ site.url }}/assets/images/activities/kxlhero.png)
+
+[KXL Everyday Hero with Sophia and Sheng Yao](https://hwcdn.libsyn.com/p/1/1/7/117cfa32f1e40847/HERO_041421.mp3?c_id=100860863&cs_id=100860863&expiration=1618465626&hwt=b32fcb5c9b4a8119b961e89d9f33b544)
