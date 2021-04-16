@@ -9,17 +9,7 @@ feature_row1:
   - image_path: /assets/images/activities/ocf.jpg
   - image_path: /assets/images/activities/communityaction.jpg
 ---
-## [最新符合疫苗接种资格人群](https://covidvaccine.oregon.gov/)
 
-| April 5 | Phase 1B, Group 7 |
-| | •	[Frontline workers](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3527A.pdf) |
-| | •	Multigenerational household |
-| | •	Adults 16 and older with [underlying health conditions](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/le3527A.pdf) |
-
-
-OHA疫苗接种[预约网站](https://covidvaccine.oregon.gov/)及[相关信息](https://getvaccinated.oregon.gov/)  
-[Oregon Health and Human Services Resources During COVID-19](https://govstatus.egov.com/or-dhs-community-resources)  
-连锁药店合作伙伴接种疫苗预约链接：[Walgreen](https://www.walgreens.com/findcare/vaccination/covid-19), [CVS](https://www.cvs.com/immunizations/covid-19-vaccine), [Walmart](https://www.walmart.com/cp/1228302), [FredMeyer](https://www.fredmeyer.com/health/clinic/vaccinations), [Safeway/Albertsons](https://www.safeway.com/pharmacy/covid-19.html), [Costco](https://www.costco.com/covid-vaccine.html), [Health Mart](https://www.healthmartcovidvaccine.com)   
 
 ![]({{ site.url }}/assets/images/activities/interndrawing1.jpg)
 
@@ -39,13 +29,19 @@ OHA疫苗接种[预约网站](https://covidvaccine.oregon.gov/)及[相关信息]
 
 ## 服务内容
 
+> OHA疫苗接种[预约网站](https://covidvaccine.oregon.gov/)及[相关信息](https://getvaccinated.oregon.gov/)  
+> [Oregon Health and Human Services Resources During COVID-19](https://govstatus.egov.com/or-dhs-community-resources)  
+> 连锁药店合作伙伴接种疫苗预约链接：[Walgreen](https://www.walgreens.com/findcare/vaccination/covid-19), [CVS](https://www.cvs.com/immunizations/covid-19-vaccine), [Walmart](https://www.walmart.com/cp/1228302), [FredMeyer](https://www.fredmeyer.com/health/clinic/vaccinations), [Safeway/Albertsons](https://www.safeway.com/pharmacy/covid-19.html), [Costco](https://www.costco.com/covid-vaccine.html), [Health Mart](https://www.healthmartcovidvaccine.com)   
+
+OCC团队将帮助社区成员解决为疫苗接种所在预定，翻译，及交通方面遇到的各种困难，我们的目的就是希望有资格接受疫苗的社区成员都能够尽快接种，最大限度地提高社区成员的群体防疫能力。
+
 > 病毒检测结果为阳性，或因为近距离接触检测结果为阳性的社区成员，都需要自我隔离14天。在隔离期间我们会负责提供全方位的支持，包括协调吃住行，几乎全部费用(包括但不限于旅馆，食物，通讯，水电气，托儿费等)都会由州政府支付。 (7/1/2020 - 06/30/2021)
 
 > 穆鲁玛郡(Multnomah County)居民1-3个月房屋租金补助计划 (9/1/2020 - 06/30/2021)，OCC预申请因为申请人数超过了名额，暂时停止接收。
 
 > 波特兰市(City of Portland)居民$500一次性现金补贴计划 (9/1/2020 - 12/30/2020)，已经结束。
 
-> 卫生健康公平(Health Equity)拨款 (3/1/2020 - 12/30/2020), 拨款用途比较宽泛，方便帮助到我们社区的家庭和个人甚至机构。OCC申请因为申请人数已经远超过了我们将收到的款额，暂时停止接收。
+> 卫生健康公平(Health Equity)拨款 (3/1/2020 - 06/30/2021), 拨款用途比较宽泛，方便帮助到我们社区的家庭和个人甚至机构。OCC申请因为申请人数已经远超过了我们将收到的款额，暂时停止接收。
 
 > 精神心理健康救助计划(Mental Health & Behavior Health Grant)将用于帮助社区成员因为受疫情影响而引起的精神心理健康问题，我们会展开多方面活动，包括专业人员[每星期讲座](http://pdxchinese.org/weeklytalk/)，[互助计划](http://pdxchinese.org/mentalhealth/)，网站开发项目，[受影响家庭救助计划](mailto:health@pdxchinese.org?subject=[Mental Health Assistance)等。
 
