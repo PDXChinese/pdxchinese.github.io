@@ -33,7 +33,7 @@ feature_row1:
 > [Oregon Health and Human Services Resources During COVID-19](https://govstatus.egov.com/or-dhs-community-resources)  
 > 连锁药店合作伙伴接种疫苗预约链接：[Walgreen](https://www.walgreens.com/findcare/vaccination/covid-19), [CVS](https://www.cvs.com/immunizations/covid-19-vaccine), [Walmart](https://www.walmart.com/cp/1228302), [FredMeyer](https://www.fredmeyer.com/health/clinic/vaccinations), [Safeway/Albertsons](https://www.safeway.com/pharmacy/covid-19.html), [Costco](https://www.costco.com/covid-vaccine.html), [Health Mart](https://www.healthmartcovidvaccine.com)   
 
-> 我们会不定时提供给社区Counties为有色人种社区提供的接种疫苗专场信息，包括报名链接。信息会发布在几个公益微信群 (Portland, Salem, Eugune, Corvallis) 和社区微信群 (SE Portland, Bethany, Forest Heights, Lake Oswego, Sherwood)，
+> 我们会不定时提供Counties为有色人种社区提供的接种疫苗专场信息，包括报名链接。信息会发布在几个公益微信群 (Portland, Salem, Eugune, Corvallis) 和社区微信群 (SE Portland, Bethany, Forest Heights, Lake Oswego, Sherwood)，
 
 OCC团队将帮助社区成员解决为疫苗接种所在预定，翻译，及交通方面遇到的各种困难，我们的目的就是希望有资格接受疫苗的社区成员都能够尽快接种，最大限度地提高社区成员的群体防疫能力。
 
