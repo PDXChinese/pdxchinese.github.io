@@ -47,6 +47,9 @@ feature_row1:
   - image_path: /assets/images/activities/pa_sarah_yu.jpg
     title: "Sarah Yu"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_sarah_yu/'>Sarah is junior at Catlin Gabel School where she serves as a class president on the student association. She is passionate about uncovering her own identity while connecting to and helping the local Chinese community. When she is not at school or dance you can find her reading, running her small business, or watching cdramas.</a></p>"
+  - image_path: /assets/images/activities/pa_audrey_zhao.jpg
+    title: "Audrey Zhao"
+    excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_audrey_zhao/'>Audrey is a Junior at Westview High School. She loves to combine her passions for service and creativity to help promote environmental conservation and animal welfare. In her free time, you can find her playing piano, painting, and discussing global issues with her foster cats.</a></p>"
 ---
 
 Peer support can be an important tool in helping children and youth overcome personal challenges they are facing at school or at home. Our Peer Advisors are available to provide encouragement and resources to help their peers create goals and navigate stressful situations and experiences, and they are also available to simply provide an empathetic ear.
