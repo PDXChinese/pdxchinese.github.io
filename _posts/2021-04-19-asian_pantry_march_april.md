@@ -40,3 +40,5 @@ Amber是领导，需要一个能顶替Gloria做事的，所以，就雇了照片
 ![]({{ site.url }}/assets/images/WeChat Image_20210420161826.jpg)
 
 ![]({{ site.url }}/assets/images/WeChat Image_20210420161902.jpg)
+
+![]({{ site.url }}/assets/images/WeChat Image_20210421231512.jpg)
