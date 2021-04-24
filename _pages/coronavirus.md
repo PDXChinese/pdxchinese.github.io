@@ -13,11 +13,6 @@ feature_row1:
 
 ![]({{ site.url }}/assets/images/activities/interndrawing1.jpg)
 
-州政府官方中文宣传材料:  
-[如何保护自己和他人免受COVID-19感染](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served//LN2681.pdf)  
-[为您的家庭应对疫情做好准备](https://sharedsystems.dhsoha.state.or.us/DHSForms/Served/ln3225.pdf)  
-[新冠疫苗的工作原理](https://multco.us/file/94743/download)  
-
 # 华人联盟(OCC)主持的华人社区疫情应对计划
 
 在新冠病毒传播速度逐渐加快之际，各级政府决定动员社区组织（CBOs），希望通过社区的力量做到宣传与服务无死角。借助全社区公益活动积累下来的影响力，华人联盟(OCC)接连获得针对COVID-19的专项基金，为Metro三个县乃至全州华人提供服务，包括防疫宣传教育，对个人家庭团体企业提供资金救助，和帮助分发住房租金和现金卡。所有信息将会在OCC社区疫情应对计划网站上 ([OCCResponse.org](http://occresponse.org/))持续更新。
@@ -27,7 +22,7 @@ feature_row1:
 > (503)686-5490 (普通话，英文)  
 > (971)330-0253 (广东话，英文)  
 
-## 服务内容
+## 疫苗接种相关信息
 
 > OHA疫苗接种[预约网站](https://covidvaccine.oregon.gov/)及[相关信息](https://getvaccinated.oregon.gov/)  
 > [Oregon Health and Human Services Resources During COVID-19](https://govstatus.egov.com/or-dhs-community-resources)  
@@ -35,7 +30,12 @@ feature_row1:
 
 > 我们会不定时提供Counties为有色人种社区提供的接种疫苗专场信息，包括报名链接。信息会发布在几个公益微信群 (Portland, Salem, Eugune, Corvallis) 和社区微信群 (SE Portland, Bethany, Forest Heights, Lake Oswego, Sherwood)，
 
+> 接种疫苗现场义工申请 ([Multnomah County EOC](https://www.volgistics.com/ex/portal.dll/ap?ap=446508818))，义工机会会直接寄到您的信箱，我们也会不定时在义工群分享。
+
+
 OCC团队将帮助社区成员解决为疫苗接种所在预定，翻译，及交通方面遇到的各种困难，我们的目的就是希望有资格接受疫苗的社区成员都能够尽快接种，最大限度地提高社区成员的群体防疫能力。
+
+## 服务内容
 
 > 病毒检测结果为阳性，或因为近距离接触检测结果为阳性的社区成员，都需要自我隔离14天。在隔离期间我们会负责提供全方位的支持，包括协调吃住行，几乎全部费用(包括但不限于旅馆，食物，通讯，水电气，托儿费等)都会由州政府支付。 (7/1/2020 - 06/30/2021)
 
