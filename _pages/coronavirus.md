@@ -59,6 +59,13 @@ OCC会继续为华人社区申请政府补贴计划，与此同时，如果我�
 
 乘坐飞机回中国大陆需要做核酸检测，因为在起飞前一定时间内得到的检测结果才被接受([常见问题解答](https://mp.weixin.qq.com/s/KxMzeGApwlbRlvxA0DLMSA))，我们联系了本地的 [Molecular Vision Laboratory](https://www.molecularvisionlab.com/covid19-testing/)，他们可以满足您在这方面的要求。我们为大家整理好了更加简单易懂的[预约及检测程序](http://pdxchinese.org/assets/pdf/mvisionlab1.pdf)。
 
+## 举报电话
+
+> (844)924-BIAS  
+> (844)924-2427  
+
+如果您遭受到任何形式的种族歧视，包括语言和肢体暴力，鼓励大家拨打上面的举报电话，或者是[网上填写报告](https://justice.oregon.gov/CrimeReporting/BiasCrime)，这些都是州司法部设立的，目的是收集相关信息，为政策制定和资源调配提供依据。 您如果有语言上的不便，请联系OCC，包括此页面最上面的OCC热线电话，我们会帮助您填写报告。
+
 ## 联系我们
 
 如果您希望进一步了解这些项目，或者是提出建议，欢迎联系我们，除了拨打热线电话之外，也可以联系 (503)709-3119。我们保证您的所有信息都会得到保护，您的隐私权会得到充分的尊重。
