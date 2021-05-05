@@ -62,6 +62,8 @@ feature_row23:
     - image_path: /assets/images/activities/talk_bjpark.JPG
 feature_row24:
     - image_path: /assets/images/activities/talk_szu_hui_lee.jpg
+feature_row25:
+    - image_path: /assets/images/activities/talk_nami_class.jpg
 ---
 
 
