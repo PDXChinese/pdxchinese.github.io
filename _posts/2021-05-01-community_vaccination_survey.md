@@ -17,4 +17,4 @@ Community members expressed their gratitude to all the vaccination opportunities
 
 ![]({{ site.url }}/assets/images/WeChat Image_20210505142147.png)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210505143928.png)
+![]({{ site.url }}/assets/images/WeChat Image_20210505143918.png)
