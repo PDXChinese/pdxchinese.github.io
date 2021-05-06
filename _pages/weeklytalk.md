@@ -89,9 +89,9 @@ We are very pleased to offer a popular mini-series classes on caring a family me
 
 Community Safety Awareness Workshop
 
-{% include feature_row id="feature_row25"%}
+{% include feature_row id="feature_row26"%}
 
-OCC and Eugene Police Department are to hold an online safety seminar for the Asian community. The event was led by Captain Meisel, lectured by Dr. Mazzotta, and attended by frontline police officers. The lecture focuses on personal safety and community building. Personal safety covers basic knowledge and advice on home and outdoor safety. Community building includes the handling procedures and typical cases of hate crimes, and community-oriented services and projects.
+OCC and Eugene Police Department are to hold an online safety seminar for the Asian community. The event is going to be led by Captain Meisel, lectured by Dr. Mazzotta, and attended by frontline police officers. The lecture focuses on personal safety and community building. Personal safety covers basic knowledge and advice on home and outdoor safety. Community building includes the handling procedures and typical cases of hate crimes, and community-oriented services and projects.
 
 Please register [here](https://us02web.zoom.us/meeting/register/tZItf--rrTwqHtGIbID1RjwKMjM-Yb1YcSYx) to reserve your spot.
 
