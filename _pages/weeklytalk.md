@@ -78,13 +78,6 @@ Under the circumstances that the epidemic severely limits people's lives, how ca
 
 Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and the time will generally be controlled at one hour. The registration is required for each event.
 
-
-### 05.16, 05.23, 05.30, 06.06.2021 Sundays 2pm
-
-{% include feature_row id="feature_row25"%}
-
-We are very pleased to offer a popular [mini-series classes on caring a family member who suffers from mental health illness](https://www.facebook.com/OregonChineseCoalition/photos/a.569398046766100/1386227885083108/) by partnering with Mental Health Association for Chinese Communities. If you are a member of Chinese American community, please email to health@pdxchinese.org for the priority code.
-
 ### 05.10.2021 Monday 6:30pm
 
 Community Safety Awareness Workshop
@@ -94,6 +87,13 @@ Community Safety Awareness Workshop
 OCC and Eugene Police Department are to hold an online safety seminar for the Asian community. The event is going to be led by Captain Meisel, lectured by Dr. Mazzotta, and attended by frontline police officers. The lecture focuses on personal safety and community building. Personal safety covers basic knowledge and advice on home and outdoor safety. Community building includes the handling procedures and typical cases of hate crimes, and community-oriented services and projects.
 
 Please register [here](https://us02web.zoom.us/meeting/register/tZItf--rrTwqHtGIbID1RjwKMjM-Yb1YcSYx) to reserve your spot.
+
+### 05.16, 05.23, 05.30, 06.06.2021 Sundays 2pm
+
+{% include feature_row id="feature_row25"%}
+
+We are very pleased to offer a popular [mini-series classes on caring a family member who suffers from mental health illness](https://www.facebook.com/OregonChineseCoalition/photos/a.569398046766100/1386227885083108/) by partnering with Mental Health Association for Chinese Communities. If you are a member of Chinese American community, please email to health@pdxchinese.org for the priority code.
+
 
 ### 04.24.2021 Saturday 3pm
 
