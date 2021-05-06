@@ -83,7 +83,7 @@ Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and th
 
 {% include feature_row id="feature_row25"%}
 
-We are very pleased to offer a popular mini-series classes on caring a family member who suffers from mental health illness by partnering with Mental Health Association for Chinese Communities. If you are a member of Chinese American community, please email to health@pdxchinese.org for the priority code.
+We are very pleased to offer a popular [mini-series classes on caring a family member who suffers from mental health illness](https://www.facebook.com/OregonChineseCoalition/photos/a.569398046766100/1386227885083108/) by partnering with Mental Health Association for Chinese Communities. If you are a member of Chinese American community, please email to health@pdxchinese.org for the priority code.
 
 ### 05.10.2021 Monday 6:30pm
 
