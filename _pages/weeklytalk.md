@@ -68,7 +68,7 @@ feature_row26:
     - image_path: /assets/images/activities/talk_meisel.jpg
     - image_path: /assets/images/activities/talk_mazzotta.jpg
 feature_row27:
-    - image_path: /assets/images/activities/weeklytalk_tkxu.jpg
+    - image_path: /assets/images/activities/talk_tkxu.jpg
 ---
 
 {% include feature_row id="feature_row0"%}
