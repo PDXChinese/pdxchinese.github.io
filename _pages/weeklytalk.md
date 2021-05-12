@@ -81,15 +81,15 @@ Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and th
 
 {% include feature_row id="feature_row27"%}
 
-Outline:
-1. Personality traits of violent criminals and their targets
-2. Two principles of street self-defense
-3. Four stages of street self-defense
-4. Six methods of non-compliance
-5. Self defense tools and their limitations
-6. Q&A
+Outline:  
+1. Personality traits of violent criminals and their targets  
+2. Two principles of street self-defense  
+3. Four stages of street self-defense  
+4. Six methods of non-compliance  
+5. Self defense tools and their limitations  
+6. Q&A  
 
-TK Xu Bio:
+TK Xu Bio:  
 Founder of Tsing Lung Defense  
 Residence&Business Security Consultant  
 Home Defense Firearm Instructor  
