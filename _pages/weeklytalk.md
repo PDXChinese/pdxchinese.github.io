@@ -67,16 +67,39 @@ feature_row25:
 feature_row26:
     - image_path: /assets/images/activities/talk_meisel.jpg
     - image_path: /assets/images/activities/talk_mazzotta.jpg
-
+feature_row27:
+    - image_path: /assets/images/activities/weeklytalk_tkxu.jpg
 ---
-
-
 
 {% include feature_row id="feature_row0"%}
 
 Under the circumstances that the epidemic severely limits people's lives, how can we all be able to stay connected, not only can make use of ample time, but also take advantage of virtual resources to do some things that are usually difficult to do. The answer we give is to organize Weekly Talk on the Zoom platform. The presenter can be from inside or outside of the community, and the topic is not limited. The audience can be all ages.
 
 Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and the time will generally be controlled at one hour. The registration is required for each event.
+
+### 05.15.2021 Street Crime Prevention & Defense
+
+{% include feature_row id="feature_row27"%}
+
+Outline:
+1. Personality traits of violent criminals and their targets
+2. Two principles of street self-defense
+3. Four stages of street self-defense
+4. Six methods of non-compliance
+5. Self defense tools and their limitations
+6. Q&A
+
+TK Xu Bio:
+Founder of Tsing Lung Defense  
+Residence&Business Security Consultant  
+Home Defense Firearm Instructor  
+Street Self-Defense Instructor  
+U. S. Army Rifle Expert Shooter, Certified Combat Life Saver  
+IDPA Expert Shooter (ESP Division)  
+3rd Degree Black Belt, World Taekwondo Federation  
+YouTube Channel: TK Xu  
+
+Please register [here](https://us02web.zoom.us/meeting/register/tZcoc-uuqjouGtfR3PyhHt4eJnZMfVuTDNk2) to reserve your spot.
 
 ### 05.10.2021 Monday 6:30pm
 
@@ -85,8 +108,6 @@ Community Safety Awareness Workshop
 {% include feature_row id="feature_row26"%}
 
 OCC and Eugene Police Department are to hold an online safety seminar for the Asian community. The event is going to be led by Captain Meisel, lectured by Dr. Mazzotta, and attended by frontline police officers. The lecture focuses on personal safety and community building. Personal safety covers basic knowledge and advice on home and outdoor safety. Community building includes the handling procedures and typical cases of hate crimes, and community-oriented services and projects.
-
-Please register [here](https://us02web.zoom.us/meeting/register/tZItf--rrTwqHtGIbID1RjwKMjM-Yb1YcSYx) to reserve your spot.
 
 ### 05.16, 05.23, 05.30, 06.06.2021 Sundays 2pm
 
