@@ -77,7 +77,9 @@ Under the circumstances that the epidemic severely limits people's lives, how ca
 
 Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and the time will generally be controlled at one hour. The registration is required for each event.
 
-### 05.15.2021 Street Crime Prevention & Defense
+### 05.15.2021 Saturday 3pm
+
+Street Crime Prevention & Defense
 
 {% include feature_row id="feature_row27"%}
 
