@@ -21,7 +21,9 @@ Government Relations Liaisons:
 **[Jenny Duan](http://pdxchinese.org/pvsafiles/2020_Jenny_Duan/)**, Jesuit High School  
 **Michelle Wang**, International School of Beaverton  
 
-> Chinese Restaurants in Pandemic  
+<iframe width="969" height="545" src="https://youtu.be/IPs36aEPRRw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="969" height="545" src="https://youtu.be/N98gtCZJUsU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Kyle Chen**, Lincoln High School  
 **[Ray Yang](http://pdxchinese.org/pvsafiles/2020_Ray_Yang/)**, Westview High School  
