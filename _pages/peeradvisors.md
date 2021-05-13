@@ -58,7 +58,7 @@ All meetings are offered free of charge. OCC and our Peer Advisors are committed
 
 :blue_book: [OCC Peer Advisor Application](https://docs.google.com/forms/d/e/1FAIpQLSfKewGqu-TrfPFfXdYIskGurJAz92ayYWHML2Wj4VKN3xqOIA/viewform?usp=sf_link) (Accepting new applications)  
 [Reimbursement Form](/assets/pdf/reimbursement_form_advocacy_fillable.pdf) (Category: Peer Advisors)  
-[W-9 Form](https://www.irs.gov/pub/irs-pdf/fw9.pdf)  
+[W-9 Form](/assets/pdf/w-9.pdf)  
 
 :green_book: [Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeaGQKfpCcHl4o3WRhlV-EPVaH20t5mFhddQbEXhrwpTmmmvg/viewform?usp=sf_link) for youth and parents looking for peer advisors   
 [Feedback on Peer Advisors](mailto:health@pdxchinese.org?subject=[Feedback on Peer Advisors])  
