@@ -20,7 +20,7 @@ main:
   #   url: /sitemap/
 
 extra:
-  - title: 
+  - title:
     children:
       - title: "Mental Health"
         url: /mentalhealth/
@@ -30,12 +30,12 @@ extra:
         url: /weeklytalk/
       - title: "---"
         url:
+      - title: "Pen Pal Project"
+        url: /penpal/
       - title: "PVSA Honorees"
         url: /pvsa/
       - title: "Winter Drive"
         url: /winterdrive/
-      - title: "Youth Peer Advisors"
-        url: /peeradvisors/
       - title: "Youth Ambassadors"
         url: /youthambassadors/
       - title: "Youth Camps"
@@ -48,10 +48,14 @@ extra:
         url: /youthlens/
       - title: "Youth Mentoring"
         url: /mentoring/
+      - title: "Youth Peer Advisors"
+        url: /peeradvisors/
       - title: "Youth Roundtable"
         url: /youthroundtable/
       - title: "---"
         url:
+      - title: "Art Gallery Exhibit"
+        url: /artexhibit/
       - title: "Chinatown"
         url: /chinatown/
       - title: "Chinese Festival"

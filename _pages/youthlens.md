@@ -17,13 +17,13 @@ Government Relations Liaisons:
 
 [Youth Journalist Application](https://docs.google.com/forms/d/e/1FAIpQLScK3ahKKd_XjBtZNlOqSQhaRgjLDolodXpg9dIBx3lLu3mbWg/viewform?usp=sf_link) (Highschool and college students only)
 
+<iframe width="1070" height="602" src="https://www.youtube.com/embed/N98gtCZJUsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="1070" height="602" src="https://www.youtube.com/embed/IPs36aEPRRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **[Jenny Duan](http://pdxchinese.org/pvsafiles/2020_Jenny_Duan/)**, Jesuit High School  
 **Michelle Wang**, International School of Beaverton  
 
-<iframe width="1070" height="602" src="https://www.youtube.com/embed/N98gtCZJUsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="1070" height="602" src="https://www.youtube.com/embed/IPs36aEPRRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Kyle Chen**, Lincoln High School  
 **[Ray Yang](http://pdxchinese.org/pvsafiles/2020_Ray_Yang/)**, Westview High School  
