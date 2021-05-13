@@ -2,75 +2,38 @@
 title: ""
 permalink: /artexhibit/
 feature_row1:
-  - image_path: /assets/images/activities/logo-lens_v5.jpg
+  - image_path: /assets/images/activities/waynestudiologo1.jpg
+    excerpt: "Wayne H Chin"
 ---
 
-{% include feature_row id="feature_row1"%}
-
-# 青少年视角/Youth Lens
-
-Content Supervisor: Hongcheng Zhao  
-Production Director: Ni Xu  
-Production Manager: Guangchao Zhang  
-Journalism Mentors: Christine Pitawanich  
-Government Relations Liaisons:  
-
-[Youth Journalist Application](https://docs.google.com/forms/d/e/1FAIpQLScK3ahKKd_XjBtZNlOqSQhaRgjLDolodXpg9dIBx3lLu3mbWg/viewform?usp=sf_link) (Highschool and college students only)
-
-<iframe width="1070" height="602" src="https://www.youtube.com/embed/N98gtCZJUsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="1070" height="602" src="https://www.youtube.com/embed/IPs36aEPRRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**[Jenny Duan](http://pdxchinese.org/pvsafiles/2020_Jenny_Duan/)**, Jesuit High School  
-**Michelle Wang**, International School of Beaverton  
+![]({{ site.url }}/assets/images/activities/artshow2021.jpg)
 
 
-**Kyle Chen**, Lincoln High School  
-**[Ray Yang](http://pdxchinese.org/pvsafiles/2020_Ray_Yang/)**, Westview High School  
+### Tie Li
 
-> Portland Cultural Heritage Garden -- Last Respect to Chinese Railroad Labors
+Tie Li was born in Beijing, China during the Cultural Revolution. The mainstream art at that time were heavily influenced by soviet Russia’s social realism. As a young artist, he was attracted by the freedom of artistic expression that filtered in from outside of China during the 1980s, he was deeply affected by the rebellion art movement known in China as "the stars", whose works can be characterized with strong individual styles and socio-political criticism of that time. Tie immigrated to the US in 1987. and earned his MFA degree from the School of Art + Design at San Diego State University in 1997, with a focus in painting and photography.  His immigrant experience in America led him to look closely at the issues of cultural identity in art. His artworks are telling stories of immigrants in general, their nostalgia, forbearance, struggle in life, and resistance to simulation.
 
-**Austin Yan**, Lincoln High School  
-**Daniel Xian**, Catlin Gabe School  
+To learn more about Tie, you may visit [https://www.litiefineart.com/](https://www.litiefineart.com/).
 
-> Pandemic's Impact on Youth Mental Health
+### Wayne Chin
 
-**Jason Fu**, Sunset High School  
-**Wendy Du**, Sunset High School  
+Wayne Chen, born in Guangzhou, China, was interested in drawing at his early age. Under the influence and guidance of his father, who was an Illustration artist, Wayne's painting career began. He attended the Cultural Art College of Guangzhou. After his graduation in 1980, he began working as a movie illustration artist, and it was during that time that his works were first displayed in the exhibition. In 1981, he came to the States and lived in Portland, Oregon. In 1988, he worked at Soderstrom Architects as an Architectural Illustrator for ten years. In 1997, Wayne started his own Art Studio (Wayne Studio) as a freelance artist.
 
-> How Did the Pandemic Affect the Mental Health of Students?
+To learn more about Wayne studio and classes, please visit [http://waynechin.com/](http://waynechin.com/).
 
-Other Topics Suggested
+### Limei Lai
 
-> The Challenges Faced by Bulk Order Buyers  
-> PPS Plan to Relocate Woodstock Mandarin Program  
-> Group Purchasing and Retail Business  
-> Asian Pantry under pandemic   
+Limei Lai is a Portland-based artist and Chinese tutor who enjoys working with oil, acrylic, fabric and embroidery. The use of fabric and thread connects to an embroidery artist, her mother. Her wood works are inspired by her hometown, where wood carvings can be seen in houses and temples. The handling of fabric and embroidery incorporated into her acrylic paintings is distinctive.
 
-Resources
+Limei tells generational stories. Her themes depict the fear of change, weakness and aging. She often uses both animal and botanical figures to demonstrate that humans are not separate from nature, but are nature. Her roots as Chinese with her current experience as an American immigrant are combined in her art. Her message to the public is that facing fears and accepting vulnerability can build positive strength. She emphasizes the beauty of ageing faces,
+showing death as a natural part of human experience. Limei believes that art not only evokes issues and problems in society, it celebrates the beauty of this world in its entirety too.
 
-> [The Youth's Lens](https://theyouthslens.com/)  
-> [Youth Journalism International](http://www.youthjournalism.org/)  
+Currently Limei is working towards gaining her Bachelor’s degree in Fine Art. She is the featured mural artist in the 2020 Fresh Paint mural project. Her works were shown in Local 14 art show, Red E Cafe Gallery, and the Paragon Gallery art show. She states, “Art is to celebrate life and to seal the moments that make us smile with tears.”
 
-TV and Newscast Making Tutorials
+Her Instagram is @meimeilai81981
 
-> [Guide to Broadcast/Video](https://www.jeadigitalmedia.org/guide-to-broadcast-video/)  
-> [TV Writing & Development](https://www.studiobinder.com/tv-writing/)  
-> [Creating a News Report](https://youtu.be/8_NmVtnEEA8)  
-> [How to Write a News Story](https://youtu.be/flq29zwRrZA)  
-> [Basic News Writing](https://youtu.be/xo-PpA4H_Bk)  
+### Yichu Li
 
-Writing Lessons
+"I am a fashion lover, a fashion illustrator and a fashion designer. I have been drawing, designing and teaching fashion for many years. This is a place where you can see how I express my fashion voice through my drawings and designs. A place  where you can learn how to draw and design fashion. And a community where we can support and help each other as fashion illustrators/designers. If you're able to donate you can click the donate button below. Donations are never expected but always appreciated." -- from Yichu's website: [https://www.yidrawing.com/](https://www.yidrawing.com/)
 
-> [LEADERSHIP LAB: The Craft of Writing Effectively](https://youtu.be/vtIzMaLkCaM)  
-> [LEADERSHIP LAB: Writing Beyond the Academy](https://youtu.be/aFwVf5a3pZM)  
-
-Exemplary News Video
-
-<iframe width="640" height="360" style="border:1px solid #e6e6e6" src="https://kgw.com/embeds/video/283-fd901048-d28b-49e8-ba7b-9ec611a83a7d/iframe" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-
-More work from Christine Pitawanich are available at her [Facebook page](https://www.facebook.com/cpitawanich/)
-
-Blogs
-
-> [First Interview of Youth Lens](http://pdxchinese.org/launching_youth_lens/) (01.22.2021)  
+Her Instagram is @yidrawing
