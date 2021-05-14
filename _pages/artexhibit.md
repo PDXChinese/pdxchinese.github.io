@@ -7,7 +7,7 @@ feature_row1:
 ---
 
 ![]({{ site.url }}/assets/images/activities/artshow2021.jpg)
-
+## Free Admission
 
 ### Tie Li
 
