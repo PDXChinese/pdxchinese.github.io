@@ -34,6 +34,8 @@ Her Instagram is @meimeilai81981
 
 ### Yichu Li
 
-"I am a fashion lover, a fashion illustrator and a fashion designer. I have been drawing, designing and teaching fashion for many years. This is a place where you can see how I express my fashion voice through my drawings and designs. A place  where you can learn how to draw and design fashion. And a community where we can support and help each other as fashion illustrators/designers. If you're able to donate you can click the donate button below. Donations are never expected but always appreciated." -- from Yichu's website: [https://www.yidrawing.com/](https://www.yidrawing.com/)
+"I am a fashion lover, a fashion illustrator and a fashion designer. I have been drawing, designing and teaching fashion for many years. This is a place where you can see how I express my fashion voice through my drawings and designs. A place  where you can learn how to draw and design fashion. And a community where we can support and help each other as fashion illustrators/designers. If you're able to donate you can click the donate button below. Donations are never expected but always appreciated."
+
+-- from Yichu's website: [https://www.yidrawing.com/](https://www.yidrawing.com/)
 
 Her Instagram is @yidrawing
