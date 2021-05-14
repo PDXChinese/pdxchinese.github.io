@@ -7,7 +7,11 @@ feature_row1:
 ---
 
 ![]({{ site.url }}/assets/images/activities/artshow2021.jpg)
-## Free Admission    Free Admission
+## Free Admission    Art Wrok For Sale
+
+### Meet With Artists
+
+To be scheduled
 
 ### Tie Li
 
