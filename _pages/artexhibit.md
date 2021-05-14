@@ -7,11 +7,15 @@ feature_row1:
 ---
 
 ![]({{ site.url }}/assets/images/activities/artshow2021.jpg)
-## Free Admission    Art Wrok For Sale
+## :ticket: Free Admission   :heavy_dollar_sign:  Art Wrok For Sale
 
 ### Meet With Artists
 
-To be scheduled
+Tie Li TBD  
+Wayne Chin TBD  
+Limei Lai TBD  
+Yichu Li TBD  
+Li Li TBD  
 
 ### Tie Li
 
