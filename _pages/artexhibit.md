@@ -11,11 +11,7 @@ feature_row1:
 
 ### Meet With Artists
 
-Tie Li TBD  
-Wayne Chin TBD  
-Limei Lai TBD  
-Yichu Li TBD  
-Li Li TBD  
+May 20, 2021 12pm -1pm
 
 ### Tie Li
 
