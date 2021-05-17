@@ -33,13 +33,13 @@ No other communication between pen pals would take place outside of the letters.
 
 For letters, please mail to
 
-Pen Pal Project
-PO Box 1675
-Beaverton, OR 97075
+>Pen Pal Project  
+>PO Box 1675  
+>Beaverton, OR 97075  
 
 For emails, please mail to
 
-[penpal@pdxchinese.org](mailto:penpal@pdxchinese.org)
+>[penpal@pdxchinese.org](mailto:penpal@pdxchinese.org)
 
 ### Free Wushu (Martial  Arts) Lessons to Participants
 
