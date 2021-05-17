@@ -27,7 +27,19 @@ The application form is coming soon.
 
 All participants will need to have the parents or guardians sign the consent form.
 
-No other communication between pen pals would take place outside of the letters. All participants will use a nickname, and all letters will be mailed to central locations where they will be redistributed to the home address by the parent volunteers.
+No other communication between pen pals would take place outside of the letters. All participants will use a nickname, and all letters/emails will be mailed to central location/account where they will be redistributed to the pen pal by the parent volunteers.
+
+### Central Mailing Address
+
+For letters, please mail to
+
+Pen Pal Project
+PO Box 1675
+Beaverton, OR 97075
+
+For emails, please mail to
+
+[penpal@pdxchinese.org](mailto:penpal@pdxchinese.org)
 
 ### Free Wushu (Martial  Arts) Lessons to Participants
 
