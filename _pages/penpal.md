@@ -9,7 +9,7 @@ feature_row3:
   - image_path: /assets/images/activities/apano-logo.png
 ---
 
-![]({{ site.url }}/assets/images/activities/penpallogo2.jpg)
+![]({{ site.url }}/assets/images/activities/penpallogo3.jpg)
 
 # Pen Pal Project for Multiracial Youth Groups
 
