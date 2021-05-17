@@ -7,7 +7,7 @@ feature_row1:
 ---
 
 ![]({{ site.url }}/assets/images/activities/artshow2021.jpg)
-## :ticket: Free Admission   :heavy_dollar_sign:  Art Wrok For Sale
+## :ticket: Free Admission :ticket:  :heavy_dollar_sign: Art Work For Sale :heavy_dollar_sign:
 
 ### Meet With Artists
 
