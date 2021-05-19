@@ -69,6 +69,8 @@ feature_row26:
     - image_path: /assets/images/activities/talk_mazzotta.jpg
 feature_row27:
     - image_path: /assets/images/activities/talk_tkxu.jpg
+feature_row28:
+    - image_path: /assets/images/activities/talk_kim.jpg
 ---
 
 {% include feature_row id="feature_row0"%}
@@ -76,6 +78,18 @@ feature_row27:
 Under the circumstances that the epidemic severely limits people's lives, how can we all be able to stay connected, not only can make use of ample time, but also take advantage of virtual resources to do some things that are usually difficult to do. The answer we give is to organize Weekly Talk on the Zoom platform. The presenter can be from inside or outside of the community, and the topic is not limited. The audience can be all ages.
 
 Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and the time will generally be controlled at one hour. The registration is required for each event.
+
+### 05.22.2021 Saturday 3pm
+
+Navigating Youth Cultural Identity
+
+{% include feature_row id="feature_row28"%}
+
+We are proudly helping [Project Lotus](https://www.theprojectlotus.org/), a local students led nonprofit, promote this upcoming webinar.
+
+After the success of our last webinar, “Stress and Anxiety in Asian Youth,” Project Lotus is happy to announce that we’re hosting a new webinar called “Navigating Youth Cultural Identity” at 3 PM PST/6 PM EST on May 22nd. The webinar will feature Dr. Josephine Kim, the Diversity and Inclusion Training Design Expert for the United Nations, and two panelists. The webinar will detail the impacts of cultural loss on mental health and provide strategies to help youth connect with their culture.
+
+Here is the link to register: [zoom.us/webinar/register/](https://bit.ly/3bkwOPR)
 
 ### 05.15.2021 Saturday 3pm
 
