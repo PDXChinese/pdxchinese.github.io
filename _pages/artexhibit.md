@@ -9,6 +9,10 @@ feature_row1:
 ![]({{ site.url }}/assets/images/activities/artshow2021.jpg)
 ## :ticket: Free Admission :ticket:  :heavy_dollar_sign: Art Work For Sale :heavy_dollar_sign:
 
+### Background
+
+The Art Gallery Exhibit is part of our response to the recent rising anti-Asian hate sentiment. We organized the [March 21 statewide protest](https://youtu.be/J7a-K8JcJcg), which could be the largest one in the history of Chinese American community. However, we believe the most effective way to answer back to the hate crimes is through education. That is why [we initiated the restorative justice in Mr. Hutchens’ sentencing](https://pdxchinese.org/OCC_Statement_and_Response/). We are launching a [Pen Pal project](https://pdxchinese.org/penpal/) with a grant from Multnomah County to help addressing the racially motivated hatred through cross-cultural connections. This art exhibit will serve the same purpose – to shift people’s behavior by changing people’s mind.
+
 ### Meet With Artists
 
 May 20, 2021 12pm -1pm
