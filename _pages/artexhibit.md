@@ -43,3 +43,9 @@ Her Instagram is @meimeilai81981
 -- from Yichu's website: [https://www.yidrawing.com/](https://www.yidrawing.com/)
 
 Her Instagram is @yidrawing
+
+### Junying Li and Li Li
+
+JunYing is a retired Architect from China. She loves to spend time with her daughter and grandkids in Portland. She makes various works of art like the cross stitched (⼗字绣) and hand made bags with traditional Chinese flower prints.
+
+Li is JunYing Li’s daughter. Her art work, promptly named Peking Opera Face was inspired by Peking Opera Makeup. Peking Opera Makeup is traditionally painted on the faces of actors in traditional Chinese operas. Each face painting represents a different character. Li used modern materials and colors to represent traditional Peking Opera Makeup.
