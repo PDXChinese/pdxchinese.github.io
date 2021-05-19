@@ -23,7 +23,7 @@ The pen pal project opens to youth at age 12-18. Currently we accept application
 
 [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSc0d4WQuLi3g14vt3X3CUbjIzki-JTLUWvKXtn48dlmyxVFrA/viewform?usp=sf_link)
 
-The participants need to completet [Pre-Survey](https://docs.google.com/forms/d/e/1FAIpQLSfx1Ccb-3ufzoCoLGll39AQQBPywD5lGp8o7A-W7wzW7-OGUQ/viewform?gxids=7628) and [Release Form](/assets/images/activities/race-vip-release-forms.pdf)
+The participants need to completet [Pre-Survey](https://docs.google.com/forms/d/e/1FAIpQLSfx1Ccb-3ufzoCoLGll39AQQBPywD5lGp8o7A-W7wzW7-OGUQ/viewform?gxids=7628) and [Release Form](/assets/images/activities/race-vip-release-forms.pdf) after the applications being approved.
 
 ### Privacy and Safety
 
