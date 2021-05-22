@@ -7,6 +7,7 @@ feature_row2:
   - image_path: /assets/images/activities/multlogo.png
 feature_row3:
   - image_path: /assets/images/activities/apano-logo.png
+  - image_path: /assets/images/activities/derose.jpg
 ---
 
 ![]({{ site.url }}/assets/images/activities/penpallogo4.jpg)

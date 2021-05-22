@@ -65,3 +65,9 @@ The Chinatown gallery space has been filled up with incredible works from these 
 ![]({{ site.url }}/assets/images/WeChat Image_20210519213243.jpg)
 
 ![]({{ site.url }}/assets/images/WeChat Image_20210519213231.jpg)
+
+![]({{ site.url }}/assets/images/WeChat Image_20210522011611.jpg)
+
+![]({{ site.url }}/assets/images/WeChat Image_20210522011331.jpg)
+
+![]({{ site.url }}/assets/images/WeChat Image_20210522011131.jpg)
