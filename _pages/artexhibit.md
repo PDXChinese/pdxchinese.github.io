@@ -69,3 +69,7 @@ The Chinatown gallery space has been filled up with incredible works from these 
 ![]({{ site.url }}/assets/images/WeChat Image_20210522011131.jpg)
 
 ![]({{ site.url }}/assets/images/WeChat Image_20210522011331.jpg)
+
+### 2021 Art Gallery Exhibit Highlight
+
+[https://pdxchinese.org/asian_heritage_month_art_gallery_2021/](https://pdxchinese.org/asian_heritage_month_art_gallery_2021/)
