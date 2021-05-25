@@ -71,6 +71,11 @@ Steve Chen -- 名称(群名)取得好，希望今后更多新朋友进来，感�
 
 ![]({{ site.url }}/assets/images/2021artgallery_024.jpg)
 
+![]({{ site.url }}/assets/images/2021artgallery_025.jpg)
+
+![]({{ site.url }}/assets/images/2021artgallery_026.jpg)
+
+
 ### 部分参展作品
 
 ![]({{ site.url }}/assets/images/2021artgallery_01.jpg)
