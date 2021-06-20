@@ -53,6 +53,9 @@ feature_row1:
   - image_path: /assets/images/activities/pa_jackie_zhang.jpg
     title: "Jackie Zhang"
     excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_jackie_zhang/'>Jackie (Jiaqi) is a Junior at Sunset High School. She loves to learn about Psychology and Neurology, and hopes to pursue this field in the future. Her interests in these topics led to a passion for working with others and volunteering with social works organizations. Jackie enjoys dancing, binging shows, and spending time with her friends.</a></p>"
+  - image_path: /assets/images/activities/pa_alisha_zhao.jpg
+    title: "Alisha Zhao"
+    excerpt: "<p><a href='http://pdxchinese.org/peeradvisors/pa_alisha_zhao/'>Alisha, a fersh Stanford graduate, has over a decade of experience advising and mentoring peers in various capacities. Some topics she has experience advising on include managing stress, strengthening communication, finding balance, resolving conflict, and developing a bicultural sense of self.</a></p>"
 ---
 
 Peer support can be an important tool in helping children and youth overcome personal challenges they are facing at school or at home. Our Peer Advisors are available to provide encouragement and resources to help their peers create goals and navigate stressful situations and experiences, and they are also available to simply provide an empathetic ear.
