@@ -32,7 +32,7 @@ TBD
 | Voice of Civic Engagement Award | To encourage more youth to take a stand in public hearings or on any community platforms. |
 | Youth Empowerment Award | To acknowledge those who step out to bring others to grow and excel with them. |
 
-### 3:00 pm - 4:00 pm Stay Strong -- Be Proactive and Engaged
+### 3:00 pm - 4:00 pm Stay Strong -- Be Proactive and Stay Engaged
 
 TBD
 
