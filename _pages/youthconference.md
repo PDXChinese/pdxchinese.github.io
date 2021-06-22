@@ -24,11 +24,11 @@ Virtual Conference
 
 ### 1:00 pm - 2:00pm Stay Resilient -- Mental Health Reality and Response
 
-1:00 pm What Douglas has Gone Through in his Last Six Months?
+What Douglas has Gone Through in his Last Six Months?
 
 By Jing Chen, Douglas' Mother
 
-1:30 pm Our Response to Mental Health Stigma for Asian American
+Our Response to Mental Health Stigma for Asian American
 
 By Daniel Gu, Founder of [Project Lotus](https://www.theprojectlotus.org/)
 
@@ -40,7 +40,7 @@ By Daniel Gu, Founder of [Project Lotus](https://www.theprojectlotus.org/)
 
 ### 3:00 pm - 4:00 pm Stay Strong -- Be Proactive and Stay Engaged
 
-3:00 pm Why Did I Want to Run for Corvallis Public School Board?
+Why Did I Want to Run for Corvallis Public School Board?
 
 By [Shauna Tominey, Ph.D.](https://health.oregonstate.edu/people/shauna-tominey), OSU
 
@@ -62,7 +62,7 @@ Daniel Gu
 
 Sophia Pi
 
-<p><img src="/assets/images/activities/pa_sophia_pi.jpg"></p>
+<p><img src="/assets/images/activities/sophia_pi.jpg"></p>
 
 Shauna Tominey, Ph.D.
 
