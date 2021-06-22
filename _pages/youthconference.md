@@ -5,8 +5,6 @@ permalink: /youthconference/
 
 # 第五届俄勒冈华裔青少年年会
 
-Hand in Hand: We Inherit, We Rise.
-
 ## Date
 
 6/26/2021 1:00 pm - 4:00 pm
