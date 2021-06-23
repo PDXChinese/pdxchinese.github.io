@@ -51,9 +51,9 @@ Mr. Jin graduated from Nanjing University with BS degree in 1994 and then receiv
 
 Mrs. Wang earned Computer Science degrees from McMaster University (MS) and Central South University (BS).  She has helped at CEC Chinese school as a teaching assistant, served at her children's school as a board member on the parent-teacher committee, and devoted her time in various community services.  She and her husband moved to Oregon 14 years ago.  She lives with her husband and two daughters in Beaverton.  She likes traveling, and socializing with friends.
 
-### Yan Wang
+### Sophie Wang
 
-Ms. Wang graduated from Beijing Normal University with BA degree and then received MA degree in History from Peking University and MA degree in East Asian Languages and Cultures from Columbia University in 2009. She is an independent researcher and educator in the fields of Sinology and Asian American Studies. She and her husband live in Corvallis with two daughters. Like traditional Chinese literati, she enjoys Qin, Go, Calligraphy, and Painting with family and friends.
+Ms. Wang received B.A. from Beijing Normal University, M.A. degrees from Peking University and Columbia University. Moving to Oregon in 2011, she received MBA from Oregon State University. In addition to her involvement with OCC, she volunteers in local NPOs and school district.   
 
 ### Zhunquin Wang
 
