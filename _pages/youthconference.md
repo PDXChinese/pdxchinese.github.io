@@ -26,11 +26,11 @@ Virtual Conference
 
 What Douglas has Gone Through in his Last Six Months?
 
-By Jing Chen, Douglas' Mother
+  -- By Jing Chen, Douglas' Mother
 
 Our Response to Mental Health Stigma for Asian American
 
-By Daniel Gu, Founder of [Project Lotus](https://www.theprojectlotus.org/)
+  -- By Daniel Gu, Founder of [Project Lotus](https://www.theprojectlotus.org/)
 
 ### 2:00 pm - 3:00 pm Celebration of Youth Achievement
 
@@ -42,11 +42,11 @@ By Daniel Gu, Founder of [Project Lotus](https://www.theprojectlotus.org/)
 
 Why Did I Want to Run for Corvallis Public School Board?
 
-By [Shauna Tominey, Ph.D.](https://health.oregonstate.edu/people/shauna-tominey), OSU
+  -- By [Shauna Tominey, Ph.D.](https://health.oregonstate.edu/people/shauna-tominey), OSU
 
 What Did I Learn from Letter Campaign for the Cultural Heritage Garden?
 
-By [Sophia Pi](http://pdxchinese.org/peeradvisors/pa_sophia_pi/), Jesuit High School
+  -- By [Sophia Pi](http://pdxchinese.org/peeradvisors/pa_sophia_pi/), Jesuit High School
 
 ## Distinguished Guest Speakers
 
