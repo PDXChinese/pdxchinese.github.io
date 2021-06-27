@@ -3,7 +3,7 @@ title: "2021 Chinese Festival"
 permalink: /chinesefestival/
 ---
 
-The Portland Chinese Festival is back!  
+Chinese Festival is back!  
 
 As Oregon reopens, we are returning to Pioneer Courthouse Square this year to once again celebrate culture and community just like we did in 2019.  
 
