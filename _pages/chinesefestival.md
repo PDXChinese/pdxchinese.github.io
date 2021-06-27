@@ -4,8 +4,11 @@ permalink: /chinesefestival/
 ---
 
 The Portland Chinese Festival is back!  
+
 As Oregon reopens, we are returning to Pioneer Courthouse Square this year to once again celebrate culture and community just like we did in 2019.  
+
 We will be bringing back the spectacular performances, delicious Chinese food, music and arts from local artists and more.  
+
 Get ready for a full day of programming suitable for all ages!  
 
 **Official Site:** [http://pdxchinesefestival.org](http://pdxchinesefestival.org)
