@@ -3,7 +3,7 @@ title: "2021 Chinese Festival"
 permalink: /chinesefestival/
 ---
 
-We are returning to Pioneer Courthouse Square, to help lift the spirit of the people after walking out from the pandemic. We will offer the spatacular performances and delicious Chinese food just like what we did back in 2019.
+We are returning to Pioneer Courthouse Square, to help lift the spirit of the people after walking out from the pandemic. We are bringing back cultural performances, musics and arts from local artists, delicious Chinese food and more. Get ready for a full day of programming suitable for all ages.
 
 **Official Site:** [http://pdxchinesefestival.org](http://pdxchinesefestival.org)
 
