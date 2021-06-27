@@ -32,7 +32,7 @@ extra:
         url: /winterdrive/
       - title: "---"
         url:
-      - title: "Pen Pal Project"
+      - title: "<b>Pen Pal Project</b>"
         url: /penpal/
       - title: "PVSA Honorees"
         url: /pvsa/
@@ -40,7 +40,7 @@ extra:
         url: /youthambassadors/
       - title: "Youth Camps"
         url: /camps/
-      - title: "<b>Youth Conference</b>"
+      - title: "Youth Conference"
         url: /youthconference/
       - title: "Youth Drum Team"
         url: /drumteam/
