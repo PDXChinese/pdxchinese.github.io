@@ -8,7 +8,7 @@ permalink: /chinesefestival/
 **Official Site:** [http://pdxchinesefestival.org](http://pdxchinesefestival.org)
 
 ## Committed Programs  
-w/ 200+ Performers  
+Schedules are subject to change  
 
 | Time | Program | Presented By |
 | --- | --- | --- | ---: |
@@ -25,7 +25,7 @@ w/ 200+ Performers
 | 16:30 | Full Length Lion Dance 30min | [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/) |
 | 17:00 | Beijing Opera 20min | Chunxiang Singing Group |
 | 17:20 | Yue Opera 10min | Portland Dancing Group |
-| 17:30 | | |
+| 17:30 | Folk Songs 20min | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
 | 18:00 | Modern Dancing 20min | Dahui Family |
 
 ## Food Vendor Lineup
@@ -43,7 +43,7 @@ w/ 200+ Performers
 
 [festival@pdxchinese.org](mailto:festival@pdxchinese.org)  
 
-### Archive
+## Archive
 
 <iframe width="1189" height="669" src="https://www.youtube.com/embed/hOMUih0WrLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
