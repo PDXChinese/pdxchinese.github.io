@@ -1,29 +1,50 @@
 ---
-title: "2021 Chinese Festival"
+title: " "
 permalink: /chinesefestival/
 ---
 
+![]({{ site.url }}/assets/images/festival/festival2021.jpg)
+
 **Official Site:** [http://pdxchinesefestival.org](http://pdxchinesefestival.org)
 
-Chinese Festival is back!  
+## Committed Programs  
+w/ 200+ Performers  
 
-As Oregon reopens, we are returning to Pioneer Courthouse Square this year to once again celebrate culture and community just like we did in 2019.  
+| Time | Program | Presented By |
+| --- | --- | --- | ---: |
+| 12:00 | Opening Lion Dance 10min | [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/) |
+| 12:10 | Folk Dancing 30min | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+| 12:30 | | |
+| 13:00 | Martial Arts 30min | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+| 13:30 | Taiji 25min | Master Lin |
+| 14:00 | Folk Songs 30min| Karaoke Singing Group |
+| 14:30 | | |
+| 15:00 | Chinese Rose Princess and Queens 10min | [Oceana Blue Productions](http://oceanablueusa.com/) |
+| 15:30 | Guzheng Performance 25min | |
+| 16:00 | Rhythmic Gymnastics and Dance 20min | [Oregon Rhythmic Gymnastics and Dance](https://www.orgdacademy.com/) |
+| 16:30 | Full Length Lion Dance 30min | [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/) |
+| 17:00 | Beijing Opera 20min | Chunxiang Sing Group |
+| 17:20 | Yue Opera 10min | Portland Dancing Group |
+| 17:30 | Modern Dancing | Dahui Family |
 
-We will be bringing back the spectacular performances, delicious Chinese food, music and arts from local artists and more.  
+## Food Vendor Lineup
 
-Get ready for a full day of programming suitable for all ages!  
+| Name | Category |
+| --- | --- |
+| [Great Tang](http://greattang.gt/) | Xian'r Bing |
+| [Red Robe Tea House & Cafe](http://redrobeteahouse.com/)| Food and Tea |
 
-**Date:** <span style="color:blue">August 7, 2021 (Saturday) 12pm - 6pm </span>  
-**Place:** [<span style="color:blue">Pioneer Courthouse Square, Portland</span>](https://www.google.com/maps/place/Pioneer+Courthouse+Square/@45.5189095,-122.6795446,19.21z/data=!4m5!3m4!1s0x54950a051d703e13:0xfebc36dc49ec79c7!8m2!3d45.5189217!4d-122.6793478)  
-<span style="color:green"> Free Admission</span>
+## Nonprofit Lineup
 
+[Lan Su Chinese Garden](https://lansugarden.org/)  
 
-<iframe width="1189" height="669" src="https://www.youtube.com/embed/hOMUih0WrLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Contact Us:
 
-To contact us: [festival@pdxchinese.org](mailto:festival@pdxchinese.org)  
-
+[festival@pdxchinese.org](mailto:festival@pdxchinese.org)  
 
 ### Archive
+
+<iframe width="1189" height="669" src="https://www.youtube.com/embed/hOMUih0WrLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [2019 Chinese Festival](http://pdxchinese.org/chinesefestival/chinesefestival_2019/)  
 [2019 Chinese Festival Highlights](http://pdxchinese.org/chinese-festival-2019/)  
