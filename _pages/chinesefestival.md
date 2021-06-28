@@ -21,7 +21,6 @@ Schedules are subject to change
 | 14:00 | Folk Songs 30min| Karaoke Singing Group |
 | 14:30 | | |
 | 15:00 | Pipa Instrument & Ping Opera 20min | Jie Huang |
-| 15:15 | | |
 | 15:30 | Guzheng Instrument Performance 25min | |
 | 16:00 | Rhythmic Gymnastics and Dance 20min | [Rose City Rhythmic Gymnastics](https://www.rosecityrhythmic.com/) |
 | 16:30 | Full Length Lion Dance 30min | [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/) |
@@ -35,7 +34,7 @@ Schedules are subject to change
 | Name | Category |
 | --- | --- |
 | [Great Tang](http://greattang.gt/) | Xian'r Bing |
-| [Home Taste LLC](http://www.hometaste.org/) | Fried Rice |
+| [Home Taste LLC](http://www.hometaste.org/) | Spam Musubi,  Braised Pork on Rice |
 | [Red Robe Tea House & Cafe](http://redrobeteahouse.com/)| Chinese Cuisines & Tea |
 | [Pot & Spicy](https://potspicytogo.com/) | |
 
