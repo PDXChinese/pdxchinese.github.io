@@ -37,6 +37,7 @@ Schedules are subject to change
 | [Great Tang](http://greattang.gt/) | Xian'r Bing |
 | [Home Taste LLC](http://www.hometaste.org/) | Fried Rice |
 | [Red Robe Tea House & Cafe](http://redrobeteahouse.com/)| Chinese Cuisines & Tea |
+| [Pot & Spicy](https://potspicytogo.com/) | |
 
 
 ## Nonprofit Lineup
