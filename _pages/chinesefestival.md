@@ -14,11 +14,11 @@ w/ 200+ Performers
 | --- | --- | --- | ---: |
 | 12:00 | Opening Lion Dance 10min | [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/) |
 | 12:10 | Folk Dancing 30min | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-| 12:30 | | |
+| 12:30 | Pipa Instrument & Ping Opera 20min | |
 | 13:00 | Martial Arts 30min | |
 | 13:30 | Taiji 25min | Master Lin |
 | 14:00 | Folk Songs 30min| Karaoke Singing Group |
-| 14:30 | Pipa Instrument & Ping Opera| |
+| 14:30 | | |
 | 15:00 | Chinese Rose Princess and Queens 10min | [Oceana Blue Productions](http://oceanablueusa.com/) |
 | 15:30 | Guzheng Instrument Performance 25min | |
 | 16:00 | Rhythmic Gymnastics and Dance 20min | [Oregon Rhythmic Gymnastics and Dance](https://www.orgdacademy.com/) |
