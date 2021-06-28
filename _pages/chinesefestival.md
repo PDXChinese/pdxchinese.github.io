@@ -15,11 +15,13 @@ Schedules are subject to change
 | 12:00 | Opening Lion Dance 10min | [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/) |
 | 12:10 | Folk Dancing 30min | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 | 12:30 | Pipa Instrument & Ping Opera 20min | |
+| 12:55 | Baguazhang(Eight Fixed Palms) 5min | Master Lin |
 | 13:00 | Martial Arts 30min | |
-| 13:30 | Taiji 25min | Master Lin |
+| 13:30 | | |
 | 14:00 | Folk Songs 30min| Karaoke Singing Group |
 | 14:30 | | |
 | 15:00 | Chinese Rose Princess and Queens 10min | [Oceana Blue Productions](http://oceanablueusa.com/) |
+| 15:15 | | |
 | 15:30 | Guzheng Instrument Performance 25min | |
 | 16:00 | Rhythmic Gymnastics and Dance 20min | [Oregon Rhythmic Gymnastics and Dance](https://www.orgdacademy.com/) |
 | 16:30 | Full Length Lion Dance 30min | [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/) |
@@ -33,7 +35,9 @@ Schedules are subject to change
 | Name | Category |
 | --- | --- |
 | [Great Tang](http://greattang.gt/) | Xian'r Bing |
-| [Red Robe Tea House & Cafe](http://redrobeteahouse.com/)| Food and Tea |
+| [Home Taste LLC](http://www.hometaste.org/) | Fried Rice |
+| [Red Robe Tea House & Cafe](http://redrobeteahouse.com/)| Chinese Cuisines & Tea |
+
 
 ## Nonprofit Lineup
 
