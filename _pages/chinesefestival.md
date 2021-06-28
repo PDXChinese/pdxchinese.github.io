@@ -20,10 +20,10 @@ Schedules are subject to change
 | 13:30 | | |
 | 14:00 | Folk Songs 30min| Karaoke Singing Group |
 | 14:30 | | |
-| 15:00 | Pipa Instrument & Ping Opera 20min | |
+| 15:00 | Pipa Instrument & Ping Opera 20min | Jie Huang |
 | 15:15 | | |
 | 15:30 | Guzheng Instrument Performance 25min | |
-| 16:00 | Rhythmic Gymnastics and Dance 20min | [Oregon Rhythmic Gymnastics and Dance](https://www.orgdacademy.com/) |
+| 16:00 | Rhythmic Gymnastics and Dance 20min | [Rose City Rhythmic Gymnastics](https://www.rosecityrhythmic.com/) |
 | 16:30 | Full Length Lion Dance 30min | [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/) |
 | 17:00 | Beijing Opera 20min | Chunxiang Singing Group |
 | 17:20 | Yue Opera 10min | Portland Dancing Group |
