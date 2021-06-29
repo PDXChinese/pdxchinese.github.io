@@ -24,7 +24,8 @@ Schedules are subject to change
 | 14:50 | Duet 5m | Guangchao Zhang & Jennifer Li |
 | 15:00 | Pipa Instrument & Ping Opera 20min | Jie Huang |
 | 15:20 | | |
-| 15:30 | Guzheng Instrument Performance 25min | |
+| 15:30 | Guzheng Instrument Performance 20min | Nancy Bai |
+| 15:50 | | |
 | 16:00 | Rhythmic Gymnastics and Dance 15min | [Rose City Rhythmic Gymnastics](https://www.rosecityrhythmic.com/) |
 | 16:15 | Dulcimer | Jing Lu |
 | 16:30 | Full Length Lion Dance 30min | [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/) |
