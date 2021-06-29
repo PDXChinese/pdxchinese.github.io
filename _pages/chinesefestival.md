@@ -33,15 +33,22 @@ Schedules are subject to change
 | 17:20 | Yue Opera 10min | Portland Dancing Group |
 | 17:30 | Folk Songs 20min | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
 | 17:50 | Modern Dancing 10min | Dahui Family |
+| | Considering to extend to 7pm |
 
 ## Food Vendor Lineup
 
 | Name | Category |
 | --- | --- |
-| [Great Tang](http://greattang.gt/) | Xian'r Bing |
-| [Home Taste LLC](http://www.hometaste.org/) | Spam Musubi,  Braised Pork on Rice |
-| [Red Robe Tea House & Cafe](http://redrobeteahouse.com/)| Chinese Cuisines & Tea |
-| [Pot & Spicy](https://potspicytogo.com/) | |
+| [Great Tang](http://greattang.gt/) | Lamb Skewers, Chicken Skewers, Fried Noodles, Mango Sago |
+| [Home Taste LLC 家乡味](http://www.hometaste.org/) | Taiwanese Braised Pork Rice Bowl/ Spam Musubi |
+| Krusty Krab 小食堂 | Ironed Squid |
+| LoLo 十三鄉家乡美食 | Chinese Piza, Cool Tea |
+| [Mandarin House 京华楼](https://www.mandarinhouse97204.com/) | Barbecued Pork Buns, Steamed Dumplings, Spring Rolls |
+| [Pot & Spicy 冷锅串串](https://potspicytogo.com/) | |
+| [Red Robe Tea House & Cafe 大红袍](http://redrobeteahouse.com/)| Chinese Cuisines & Tea |
+| [Shanghai Restaurant 上海餐馆](http://www.shfood.us/) | Pork, beef, chicken, vegetables |
+| [Sushi Chiyo](https://www.sushichiyo.com/sushi-restaurant-beaverton) | Sushi, Dessert, Cold Beverages |
+| more to come... | |
 
 
 ## Nonprofit Lineup
