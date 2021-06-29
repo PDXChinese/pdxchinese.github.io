@@ -3,7 +3,7 @@ title: " "
 permalink: /chinesefestival/
 ---
 
-![]({{ site.url }}/assets/images/festival/festival2021.jpg)
+![]({{ site.url }}/assets/images/festival/festival2021b.jpg)
 
 **Official Site:** [http://pdxchinesefestival.org](http://pdxchinesefestival.org)
 
