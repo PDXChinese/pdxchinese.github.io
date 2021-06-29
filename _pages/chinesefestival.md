@@ -17,17 +17,21 @@ Schedules are subject to change
 | 12:30 | Chinese Rose Princess and Queens 15min | [Oceana Blue Productions](http://oceanablueusa.com/) |
 | 12:45 | Baguazhang(Eight Fixed Palms) 5min | Master Lin |
 | 13:00 | Martial Arts 30min | |
-| 13:30 | | |
+| 13:30 | Folk Dancing 20m | West Linn Dancing Group |
+| 13:50 | | |
 | 14:00 | Folk Songs 30min| Karaoke Singing Group |
-| 14:30 | | |
+| 14:30 | Folk Dancing 10m | Chinese Golden Willow |
+| 14:50 | Duet 5m | Guangchao Zhang & Jennifer Li |
 | 15:00 | Pipa Instrument & Ping Opera 20min | Jie Huang |
+| 15:20 | | |
 | 15:30 | Guzheng Instrument Performance 25min | |
-| 16:00 | Rhythmic Gymnastics and Dance 20min | [Rose City Rhythmic Gymnastics](https://www.rosecityrhythmic.com/) |
+| 16:00 | Rhythmic Gymnastics and Dance 15min | [Rose City Rhythmic Gymnastics](https://www.rosecityrhythmic.com/) |
+| 16:15 | Dulcimer | Jing Lu |
 | 16:30 | Full Length Lion Dance 30min | [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/) |
 | 17:00 | Beijing Opera 20min | Chunxiang Singing Group |
 | 17:20 | Yue Opera 10min | Portland Dancing Group |
 | 17:30 | Folk Songs 20min | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
-| 18:00 | Modern Dancing 20min | Dahui Family |
+| 17:50 | Modern Dancing 10min | Dahui Family |
 
 ## Food Vendor Lineup
 
