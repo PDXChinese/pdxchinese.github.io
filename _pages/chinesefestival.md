@@ -8,15 +8,14 @@ permalink: /chinesefestival/
 **Official Site:** [http://pdxchinesefestival.org](http://pdxchinesefestival.org)
 
 ## Committed Programs  
-Schedules are subject to change  
 
 | Time | Program | Presented By |
 | --- | --- | --- | ---: |
-| 12:00 | Opening Lion Dance | [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/) |
+| **12:00** | Opening Lion Dance | [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/) |
 | 12:10 | Folk Dancing | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-| 12:30 | Chinese Rose Princess and Queens | [Oceana Blue Productions](http://oceanablueusa.com/) |
-| 12:45 | Baguazhang(Eight Fixed Palms) | Master Lin |
-| 13:00 | Martial Arts | |
+| 12:30 | Martial Arts | [U.S. Wushu Center](https://uswushu.com/) |
+| 13:00 | Chinese Rose Princess and Queens | [Oceana Blue Productions](http://oceanablueusa.com/) |
+| 13:45 | Baguazhang(Eight Fixed Palms) | Master Lin |
 | 13:30 | Folk Dancing | West Linn Dancing Group |
 | 14:00 | Folk Songs | Karaoke Singing Group |
 | 14:30 | Folk Dancing | Chinese Golden Willow |
@@ -31,6 +30,8 @@ Schedules are subject to change
 | 17:30 | Folk Songs | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
 | 18:00 | Ballet | [Haiyan International Dance Academy](http://www.haiyanballet.net/) |
 | 18:30 | Modern Dancing | Dahui Family |
+
+Time in bold are final.
 
 ## Food Vendor Lineup
 
