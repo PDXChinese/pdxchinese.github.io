@@ -25,7 +25,7 @@ permalink: /chinesefestival/
 | 16:00 | Rhythmic Gymnastics and Dance | [Rose City Rhythmic Gymnastics](https://www.rosecityrhythmic.com/) |
 | 16:15 | Dulcimer | Jing Lu |
 | **16:30** | Full Length Lion Dance | [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/) |
-| 17:00 | Folk Dancing | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+| 17:00 | Folk Dancing and Chinese Wushu | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 | 17:20 | Yue Opera | Portland Dancing Group |
 | 17:30 | Folk Songs | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
 | 18:00 | Ballet | [Haiyan International Dance Academy](http://www.haiyanballet.net/) |
