@@ -74,10 +74,11 @@ By the end of each school year, one scholarship will be awarded to a student of 
 
 ### Recipients
 
-2017 Dustin Leung, 7th Grade Student at Stoller Elementary School<br/>
-2018 Ginger Pan, rising 7th grader in Green Hall (SUMMA / TAG program) at Stoller Middle School<br/>
+2021 Yunyan Zhang, rising 7th grader in Spencer Butte Middle School<br/>
+2020 Erik Liang, rising senior student at Tigard High School<br/>
 2019 Nancy Bai, Sophomore student at Sunset High School<br/>
-2020 Erik Liang, rising senior student at Tigard High School
+2018 Ginger Pan, rising 7th grader in Green Hall (SUMMA / TAG program) at Stoller Middle School<br/>
+2017 Dustin Leung, 7th Grade Student at Stoller Elementary School<br/>
 
 # Special Fundraising Deals
 
