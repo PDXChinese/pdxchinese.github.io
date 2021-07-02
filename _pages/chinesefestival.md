@@ -15,8 +15,8 @@ permalink: /chinesefestival/
 | 12:10 | Beijing Opera | Chunxiang Singing Group |
 | **12:30** | World Class Martial Arts | [U.S. Wushu Center](https://uswushu.com/) |
 | 13:00 | Chinese Rose Princess and Queens | [Oceana Blue Productions](http://oceanablueusa.com/) |
-| 13:45 | Baguazhang(Eight Fixed Palms) | Master Lin |
-| 13:30 | Folk Dancing | West Linn Dancing Group |
+| 13:30 | Baguazhang(Eight Fixed Palms) | Master Lin |
+| 13:40 | Folk Dancing | West Linn Dancing Group |
 | 14:00 | Folk Songs | Karaoke Singing Group |
 | 14:30 | Folk Dancing | Chinese Golden Willow (Salem) |
 | 14:50 | Duet | Guangchao Zhang & Jennifer Li |
@@ -29,7 +29,8 @@ permalink: /chinesefestival/
 | 17:20 | Yue Opera | Portland Dancing Group |
 | 17:30 | Folk Songs | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
 | 18:00 | Ballet | [Haiyan International Dance Academy](http://www.haiyanballet.net/) |
-| 18:30 | Modern Dancing | Dahui Family |
+| 18:30 | Martial Arts | [Summit Wushu](http://summitwushu.com/) |
+| 18:50 | Modern Dancing | Dahui Family |
 
 Time in bold are final.
 
@@ -52,6 +53,7 @@ Time in bold are final.
 ## Nonprofit Lineup
 
 [Lan Su Chinese Garden](https://lansugarden.org/)  
+[Portland Street Response](https://www.portland.gov/streetresponse)  
 
 ## Contact Us:
 
