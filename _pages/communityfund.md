@@ -48,21 +48,6 @@ are donations an employer makes to match its employees' charitable contributions
 
  OCC can get ~$10/hour if you report the hours when volunteering in OCC. For entering volunteer hours, go to “report individual hours”,  click on "search the database", using searching for ID 27723 or Name "OREGON CHINESE COALITION".
 
-# Advisory Committee
-
-The committee is responsible for quarterly hearing of OCC’s financial operations, advising the best practice of raising and spending the money, and compliance of any financial regulations for NPO.
-
-### Committee Members:
-
-Ming Brink  
-Xiaohui Chen  
-Hui Du  
-Kent Yu  
-Ge Liu  
-Guangchao Zhang  
-Liwen Zhang  
-Hongcheng Zhao  
-
 # Victoria Ren Scholarship
 
 <p><img src="/assets/images/activities/victoria_scholarship.jpg"></p>
