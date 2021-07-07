@@ -8,11 +8,25 @@ date: "2021-06-26"
 
 第二个话题则是鼓励青少年的社会参与，应对仇视亚裔情绪有很多事情可以做，通过主动参与改变周边生存环境会有一个更加长期持续的效果。 我们有幸邀请到OSU的Tominey博士和我们自己社区的Sophia Pi同学，Tominey博士分享了自己成长经历及对华人参政议政路径的思考，通过大量的图片和数据告诉我们的青少年什么是领导力和社会参与对个人成长的种种好处。 Sophia同学介绍了写信给Metro官员说服他们为华工纪念园拨款的亲身经历。她们的介绍让我们意识到参与是硬道理，如何参与也是值得我们去深度思考的一个问题。
 
-今年的Voice of Civic Engagement Award授予Lincoln High School的Danica Leung同学，Sunset High School的Jason Fu同学，Jesuit High School的Jenny Duan同学，International School of Beaverton的Michelle Wang同学，和Lake Oswego High School的ShengYao Liu同学。
+今年的Voice of Civic Engagement Award 得主
 
-Youth Empowerment Award则授予Lincoln High School的Erika Leung同学，Sunset High School的Jenny Jiang，Julia Lin，Maggie Bao三位同学，和Project Lotus非营利性组织。
+Danica Leung from Lincoln High School  
+Jason Fufrom Sunset High School  
+Jenny Duanfrom from Jesuit High School  
+Michelle Wang from International School of Beaverton  
+ShengYao Liu from Lake Oswego High School  
 
-Victoria Ren Scholarship授予来自Spencer Butte Middle School的Yunyan Zhang同学。
+Youth Empowerment Award 得主
+
+Erika Leung	from Lincoln High School  
+Jenny Jiang	from Sunset High School  
+Julia Lin	from Sunset High School  
+Maggie Baofrom Sunset High School  
+Project Lotus  
+
+Victoria Ren Scholarship 得主
+
+Yunyan Zhang from Spencer Butte Middle School
 
 
 ![]({{ site.url }}/assets/images/WeChat Image_20210704154721.jpg)
