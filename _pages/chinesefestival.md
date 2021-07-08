@@ -12,25 +12,28 @@ permalink: /chinesefestival/
 | Time | Program | Presented By |
 | --- | --- | --- | ---: |
 | **12:00** | Opening Lion Dance | [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/) |
-| 12:10 | Beijing Opera | Chunxiang Singing Group |
+| **12:10** | Tibetain Dance | Portland Chinese Dancing Troupe |
+| **12:15** | Duet | Guangchao Zhang & Jennifer Li |
 | **12:30** | World Class Martial Arts | [U.S. Wushu Center](https://uswushu.com/) |
-| 13:00 | Chinese Rose Princess and Queens | [Oceana Blue Productions](http://oceanablueusa.com/) |
-| 13:30 | Baguazhang(Eight Fixed Palms) | Master Lin |
-| 13:40 | Folk Dancing | West Linn Dancing Group |
-| 14:00 | Folk Songs | Karaoke Singing Group |
-| 14:30 | Folk Dancing | Chinese Golden Willow (Salem) |
-| 14:50 | Duet | Guangchao Zhang & Jennifer Li |
-| 15:00 | Pipa Instrument & Ping Opera | Jie Huang |
-| 15:30 | Guzheng and Drum Performance | Nancy Bai, Erik Liang et al. |
-| 16:00 | Rhythmic Gymnastics and Dance | [Rose City Rhythmic Gymnastics](https://www.rosecityrhythmic.com/) |
-| 16:15 | Dulcimer | Jing Lu |
+| **12:50** | Chinese Rose Princess and Queens | [Oceana Blue Productions](http://oceanablueusa.com/) |
+| **13:05** | Violin Ensemble: Jasmine | [Pacific Violin Academy](https://pacificviolinacademy.com/) |
+| **13:10** | Folk Songs with Pipa Instrument | Jie Huang |
+| **13:15** | Folk Dance | Chinese Golden Willow (Salem) |
+| **13:20** | Guzheng and Drum Performance | Nancy Bai, Erik Liang, Ruolan Bai, Ruoxi Bai |
+| **13:25** | Rhythmic Gymnastics and Dance | [Rose City Rhythmic Gymnastics](https://www.rosecityrhythmic.com/) |
+| Intermission |
+| **14:00** | Modern Dance | [Haiyan International Dance Academy](http://www.haiyanballet.net/) |
+| 14:08 | Dulcimer | Jing Lu |
+| 14:15 | Folk Songs | Karaoke Singing Group |
+| 14:30 | Folk Dance | West Linn Dancing Group |
+| 00:00 | Baguazhang(Eight Fixed Palms) | Master Lin |
+| 00:00 | Beijing Opera | Chunxiang Singing Group |
 | **16:30** | Full Length Lion Dance | [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/) |
-| 17:00 | Folk Dancing and Chinese Wushu | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-| 17:20 | Yue Opera | Portland Dancing Group |
-| 17:30 | Folk Songs | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
-| 18:00 | Ballet | [Haiyan International Dance Academy](http://www.haiyanballet.net/) |
-| 18:30 | Martial Arts | [Summit Wushu](http://summitwushu.com/) |
-| 18:50 | Modern Dancing | Dahui Family |
+| 00:00 | Folk Dancing and Chinese Wushu | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+| 00:00 | Yue Opera | Portland Dancing Group |
+| 00:00 | Folk Songs | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
+| 00:00 | Martial Arts | [Summit Wushu Academy](http://summitwushu.com/) |
+| 00:00 | Modern Dancing | Dahui Family |
 
 Time in bold are final.
 
