@@ -55,6 +55,11 @@ Time in bold are final.
 | [Sushi Chiyo](https://www.sushichiyo.com/sushi-restaurant-beaverton) | Sushi, Dessert, Cold Beverages |
 | more to come... | |
 
+## Gifts Vendor Lineup
+
+| Name | Category |
+| --- | --- |
+| Culture Specific Gifts & Clothing | XK Gift Shop |
 
 ## Nonprofit Lineup
 
