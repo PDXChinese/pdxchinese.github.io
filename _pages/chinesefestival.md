@@ -21,10 +21,10 @@ permalink: /chinesefestival/
 | **13:15** | Folk Songs with Pipa Instrument: 女儿情 | Jie Huang |
 | **13:20** | Folk Dance: 半壶纱 | Chinese Golden Willow (Salem) |
 | **13:25** | Rhythmic Gymnastics and Dance | [Rose City Rhythmic Gymnastics](https://www.rosecityrhythmic.com/) |
-| **13:30** | Guzheng and Drum Performance: 男儿当自强 | Nancy Bai, Erik Liang, Ruolan Bai, Ruoxi Bai |
+| **13:30** | Guzheng with Drum: 男儿当自强 | Nancy Bai, Erik Liang, Ruolan Bai, Ruoxi Bai |
 | **13:35** | Modern Dance: 大鱼 | [Haiyan International Dance Academy](http://www.haiyanballet.net/) |
 | **13:40** | Beijing Opera | Kathy Li's Singing Group |
-| **13:50** | Taiji Performance, Basic Moves with Audience | Jing Chen |
+| **13:50** | Taiji: Learning Moves with Audience | Jing Chen |
 | Intermission |
 | **14:00** | Welcome Speech | MC |
 | **14:05** | Singing of Chinese Poems | Kathy Li's Singing Group |
@@ -35,7 +35,7 @@ permalink: /chinesefestival/
 | **14:40** | Folk Dance: 天边 | Chinese Golden Willow (Salem) |
 | **14:45** | Solo: 桥边姑娘真好看 | Jack |
 | **14:50** | Solo: 喜欢你 | Katy |
-| **14:55** | Dulcimer | Jing Lu |
+| **14:55** | Chinese Dulcimer | [Jing Lu](http://www.jingluarts.com/) |
 | **15:00** | Folk Dance: 心在路上 | West Linn Chinese Dancing Troupe |
 | **15:05** | Solo: 一万次悲伤 | Tingting Hou |
 | **15:10** | Duet: 雨蝶 | Tingting Hou & Katy |
