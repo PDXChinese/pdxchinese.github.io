@@ -16,45 +16,46 @@ permalink: /chinesefestival/
 | **12:15** | Tibetain Dance: 我的九寨 + 玛尼情歌 | Portland Chinese Dancing Troupe |
 | **12:20** | Duet: 爱她 想她 祝福她 | Guangchao Zhang & Jennifer Li |
 | **12:25** | World Class Martial Arts | [U.S. Wushu Center](https://uswushu.com/) |
-| **13:00** | Violin Ensemble: 茉莉花 | [Pacific Violin Academy](https://pacificviolinacademy.com/) |
-| **13:05** | Chinese Rose Princess and Queens | [Oceana Blue Productions](http://oceanablueusa.com/) |
-| **13:15** | Folk Songs with Pipa Instrument: 女儿情 | Jie Huang |
-| **13:20** | Folk Dance: 半壶纱 | Chinese Golden Willow (Salem) |
-| **13:25** | Rhythmic Gymnastics and Dance | [Rose City Rhythmic Gymnastics](https://www.rosecityrhythmic.com/) |
-| **13:30** | Guzheng with Drum: 男儿当自强 | Nancy Bai, Erik Liang, Ruolan Bai, Ruoxi Bai |
-| **13:35** | Modern Dance: 大鱼 | [Haiyan International Dance Academy](http://www.haiyanballet.net/) |
-| **13:40** | Beijing Opera | Kathy Li's Singing Group |
-| **13:50** | Taiji: Learning Moves with Audience | Jing Chen |
+| **12:45** | Violin Ensemble: 茉莉花 | [Pacific Violin Academy](https://pacificviolinacademy.com/) |
+| **12:50** | Chinese Rose Princess and Queens | [Oceana Blue Productions](http://oceanablueusa.com/) |
+| **13:00** | Singing with Pipa Instrument: 女儿情 | Jie Huang |
+| **13:05** | Folk Dance: 半壶纱 | Chinese Golden Willow (Salem) |
+| **13:10** | Guzheng with Drum: 男儿当自强 | Nancy Bai, Erik Liang, Ruolan Bai, Ruoxi Bai |
+| **13:15** | Chinese Dulcimer | [Jing Lu](http://www.jingluarts.com/) |
+| **13:25** | Korean Dance | Dahui Chen |
+| **13:35** | Beijing Opera | Kathy Li's Singing Group |
+| **13:45** | Taiji: Learning Moves with Audience | Jing Chen |
 | Intermission |
 | **14:00** | Welcome Speech | MC |
-| **14:05** | Singing of Chinese Poems | Kathy Li's Singing Group |
-| **14:15** | Guzheng Duet: 战台风 | Nancy & Berrett |
-| **14:25** | Modern Dance: 雪落下的声音 | [Haiyan International Dance Academy](http://www.haiyanballet.net/) |
-| **14:30** | Singing with Pipa Instrument: 烟花三月 | Jie Huang |
-| **14:35** | Violin Ensemble: Millionaire | [Pacific Violin Academy](https://pacificviolinacademy.com/) |
-| **14:40** | Folk Dance: 天边 | Chinese Golden Willow (Salem) |
+| **14:05** | Modern Dance: 雪落下的声音 | [Haiyan International Dance Academy](http://www.haiyanballet.net/) |
+| **14:10** | Guzheng Duet: 战台风 | Nancy & Berrett |
+| **14:20** | Singing with Pipa Instrument: 烟花三月 | Jie Huang |
+| **14:25** | Folk Dance: 天边 | Chinese Golden Willow (Salem) |
+| **14:30** | Violin Ensemble: Millionaire | [Pacific Violin Academy](https://pacificviolinacademy.com/) |
+| **14:35** | Folk Dance: 心在路上 | West Linn Chinese Dancing Troupe |
 | **14:45** | Solo: 桥边姑娘真好看 | Jack |
-| **14:50** | Solo: 喜欢你 | Katy |
-| **14:55** | Chinese Dulcimer | [Jing Lu](http://www.jingluarts.com/) |
-| **15:00** | Folk Dance: 心在路上 | West Linn Chinese Dancing Troupe |
-| **15:05** | Solo: 一万次悲伤 | Tingting Hou |
+| **14:50** | Duet: 你的答案 | Jack & Tingting Hou |
+| **14:55** | Rhythmic Gymnastics and Dance | [Rose City Rhythmic Gymnastics](https://www.rosecityrhythmic.com/) |
+| **15:00** | Xinjiang Dance: 亚丽古拉 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+| **15:05** | Solo: 喜欢你 | Katy |
 | **15:10** | Duet: 雨蝶 | Tingting Hou & Katy |
-| **15:15** | Korean Dance | Dahui Chen |
+| **15:15** | Solo: 一万次悲伤 | Tingting Hou |
+| **15:20** | Modern Dance: 大鱼 | [Haiyan International Dance Academy](http://www.haiyanballet.net/) |
 | **15:25** | Erhu Solo: 三十里铺 | Jerry Lin |
-| **15:30** | Folk Dance: 我的九寨 | West Linn Chinese Dancing Troupe |
-| **15:35** | Yue Opera: 十八相送 | Portland Dancing Troupe |
-| **15:35** | Martial Arts | [Summit Wushu Academy](http://summitwushu.com/) |
+| **15:30** | Piano and Erhu: 草原新牧民 | Kathy Charles & Jerry Lin |
+| **15:35** | Singing of Chinese Poems | Kathy Li's Singing Group |
+| **15:40** | Martial Arts | [Summit Wushu Academy](http://summitwushu.com/) |
 | Intermission |
 | **16:00** | Welcome Speech | MC |
-| **16:10** | Xinjiang Dance: 亚丽古拉 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-| **16:15** | Tibetain Dance: 卓玛 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-| **16:30** | Martial Arts | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+| **16:05** | Full Length Lion Dance | [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/) |
+| **16:35** | Folk Dance: 我的九寨 | West Linn Chinese Dancing Troupe |
+| **16:40** | Yue Opera: 十八相送 | Portland Dancing Troupe |
+| **16:50** | Tibetain Dance: 卓玛 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+| 00:00 | Martial Arts | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 | 00:00 | Baguazhang(Eight Fixed Palms) | Master Lin |
 | 00:00 | Guzhen: 荷塘月色 | Cheery Zhang and Ava Yu |
-| 00:00 | Yue Opera | Portland Dancing Group |
 | 00:00 | Folk Songs | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
-| 18:00 | Full Length Lion Dance | [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/) |
-| 18:30 | Modern Dancing with Audience | Dahui Family |
+| 00:00 | Modern Dancing with Audience | Dahui Family |
 
 Time in bold are final.
 
