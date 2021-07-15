@@ -86,6 +86,15 @@ permalink: /chinesefestival/
 | --- | --- |
 | Culture Specific Gifts & Clothing | XK Gift Shop |
 
+## Artists Lineup
+
+| Name | Onsite Activity |
+| --- | --- |
+| [Tie Li](https://www.litiefineart.com/) | Portrait Illustration |
+| Xing Wang | Your Name in Chinese with Calligraphy |
+| Limei Lai | Face Painting |
+| Si Hui | Draw Your Birthday Card |
+
 ## Nonprofit Lineup
 
 [Lan Su Chinese Garden](https://lansugarden.org/)  
