@@ -60,9 +60,10 @@ permalink: /chinesefestival/
 | **17:25** | Baguazhang(Eight Fixed Palms) | Master Lin |
 | **17:30** | Modern Dance | Henna Holden |
 | **17:35** | Modern Dance | Quinci Holden |
-| **15:40** | Singing of Chinese Poems | Kathy Li's Singing Group |
+| **17:40** | Singing of Chinese Poems | Kathy Li's Singing Group |
+| more to come... | |
 
-Time in bold are final.
+*Schedule is subject to change*
 
 ## Food Vendor Lineup
 
