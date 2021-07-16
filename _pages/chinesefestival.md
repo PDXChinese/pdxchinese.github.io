@@ -98,7 +98,13 @@ permalink: /chinesefestival/
 ## Nonprofit Lineup
 
 [Lan Su Chinese Garden](https://lansugarden.org/)  
+[Portland Chinatown Museum](https://www.portlandchinatownmuseum.org/)  
 [Portland Street Response](https://www.portland.gov/streetresponse)  
+[Multnomah County Library](https://multcolib.org/file/1571)
+
+## OHA COVID Vaccination Clinic
+
+Details are going to be available soon...
 
 ## Contact Us:
 
