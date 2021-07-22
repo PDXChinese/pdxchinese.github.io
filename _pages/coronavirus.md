@@ -10,9 +10,6 @@ feature_row1:
   - image_path: /assets/images/activities/communityaction.jpg
 ---
 
-
-![]({{ site.url }}/assets/images/activities/interndrawing1.jpg)
-
 # 华人联盟(OCC)主持的华人社区疫情应对计划
 
 在新冠病毒传播速度逐渐加快之际，各级政府决定动员社区组织（CBOs），希望通过社区的力量做到宣传与服务无死角。借助全社区公益活动积累下来的影响力，华人联盟(OCC)接连获得针对COVID-19的专项基金，为Metro三个县乃至全州华人提供服务，包括防疫宣传教育，对个人家庭团体企业提供资金救助，和帮助分发住房租金和现金卡。所有信息将会在OCC社区疫情应对计划网站上 ([OCCResponse.org](http://occresponse.org/))持续更新。
@@ -28,12 +25,24 @@ feature_row1:
 > [Oregon Health and Human Services Resources During COVID-19](https://govstatus.egov.com/or-dhs-community-resources)  
 > 连锁药店合作伙伴接种疫苗预约链接：[Walgreen](https://www.walgreens.com/findcare/vaccination/covid-19), [CVS](https://www.cvs.com/immunizations/covid-19-vaccine), [Walmart](https://www.walmart.com/cp/1228302), [FredMeyer](https://www.fredmeyer.com/health/clinic/vaccinations), [Safeway/Albertsons](https://www.safeway.com/pharmacy/covid-19.html), [Costco](https://www.costco.com/covid-vaccine.html), [Health Mart](https://www.healthmartcovidvaccine.com)   
 
-> 我们会不定时提供Counties为有色人种社区提供的接种疫苗专场信息，包括报名链接。信息会发布在几个公益微信群 (Portland, Salem, Eugune, Corvallis) 和社区微信群 (SE Portland, Bethany, Forest Heights, Lake Oswego, Sherwood)，
-
-> 接种疫苗现场义工申请 ([Multnomah County EOC](https://www.volgistics.com/ex/portal.dll/ap?ap=446508818))，义工机会会直接寄到您的信箱，我们也会不定时在义工群分享。
-
-
 OCC团队将帮助社区成员解决为疫苗接种所在预定，翻译，及交通方面遇到的各种困难，我们的目的就是希望有资格接受疫苗的社区成员都能够尽快接种，最大限度地提高社区成员的群体防疫能力。
+
+## COVID-19 Vaccination Clinic
+
+August 7 from 12pm to 7pm @ [Pioneer Courthouase Square](https://www.google.com/maps/place/Pioneer+Courthouse+Square/@45.5192271,-122.6793339,18.79z/data=!4m5!3m4!1s0x0:0xfebc36dc49ec79c7!8m2!3d45.5189565!4d-122.6792803)
+
+Organizers: [OHA](https://covidvaccine.oregon.gov/) and [Multnomah County Public Health Division](https://www.multco.us/health)  
+Vaccinator: [LeCare Pharmacy](https://www.lecarepharmacy.com/), Family Owned, Locally Loved.  
+Volunteers: [Oregon Chinese Coalition](http://pdxchinese.org/)
+
+No Appointment Needed  
+Thank You Gifts:  
+$100 Gift Card for 1st Dose, $50 Gift Card for 2nd Dose, Provided by [Multnomah County](https://www.multco.us/health)  
+Cutural Gift of Your Choice to Everyone (1st and 2nd Dose), from [Oregon Chinese Coalition](http://pdxchinese.org/)  
+
+Pfizer Vaccine, 1st and 2nd Dose, for 12 & Older  
+Moderna Vaccine, 1st and 2nd Dose, for 18 & Older  
+Johnson & Johnson Vaccine, single Dose, for 18 & Older  
 
 ## 服务内容
 
@@ -59,7 +68,7 @@ OCC会继续为华人社区申请政府补贴计划，与此同时，如果我�
 
 乘坐飞机回中国大陆需要做核酸检测，因为在起飞前一定时间内得到的检测结果才被接受([常见问题解答](https://mp.weixin.qq.com/s/KxMzeGApwlbRlvxA0DLMSA))，我们联系了本地的 [Molecular Vision Laboratory](https://www.molecularvisionlab.com/covid19-testing/)，他们可以满足您在这方面的要求。我们为大家整理好了更加简单易懂的[预约及检测程序](http://pdxchinese.org/assets/pdf/mvisionlab1.pdf)。
 
-## 举报电话
+## 种族仇恨事件举报电话
 
 > (844)924-BIAS  
 > (844)924-2427  

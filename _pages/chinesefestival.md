@@ -13,51 +13,52 @@ permalink: /chinesefestival/
 | --- | --- | --- | ---: |
 | 12:00 | Welcome Speech | MC |
 | 12:05 | Opening Lion Dance | [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/) |
-| 12:15 | Tibetain Dance: 我的九寨 + 玛尼情歌 | Portland Chinese Dancing Troupe |
-| 12:20 | Duet: 爱她 想她 祝福她 | Guangchao Zhang & Jennifer Li |
+| 12:15 | Tibetain Dance: 我的九寨，玛尼情歌 | Portland Chinese Dancing Troupe |
+| 12:20 | Duet: 爱她 想她 祝福她 | Jennifer Li & Guangchao Zhang |
 | 12:25 | Martial Arts Performance | [U.S. Wushu Center](https://uswushu.com/) |
-| 12:45 | Guzhen: 荷塘月色 | Cheery Zhang and Ava Yu |
-| 12:50 | Chinese Rose Princess and Queens | [Oceana Blue Productions](http://oceanablueusa.com/) |
+| 12:45 | Chinese Rose Princess and Queens | [Oceana Blue Productions](http://oceanablueusa.com/) |
+| 12:55 | Guzhen: 荷塘月色 | Cheery Zhang and Ava Yu |
 | 13:00 | Singing with Pipa Instrument: 烟花三月 | Jie Huang |
 | 13:05 | Singing with Pipa Instrument: 女儿情 | Jie Huang |
 | 13:10 | Folk Dance: 半壶纱 | Chinese Golden Willow (Salem) |
 | 13:15 | Chinese Dulcimer | [Jing Lu](http://www.jingluarts.com/) |
 | 13:25 | Violin Ensemble: 茉莉花 | [Pacific Violin Academy](https://pacificviolinacademy.com/) |
-| 13:30 | Korean Dance | Phoenic Dunn |
-| 13:35 | Korean Dance | Amaya Fortner |
+| 13:30 | Korean Pop Dance | Phoenix Dunn |
+| 13:35 | Korean Pop Dance | Amaya Fortner |
 | 13:40 | Beijing Opera | Kathy Li's Singing Group |
-| 13:50 | Taiji: Learning Moves with Audience | Jing Chen |
+| 13:50 | Taiji: Learning Moves with Master | Jing Chen |
 | Intermission |
 | 14:00 | Welcome Speech | MC |
 | 14:05 | Modern Dance: 雪落下的声音 | [Haiyan International Dance Academy](http://www.haiyanballet.net/) |
 | 14:10 | Guzheng with Drum: 男儿当自强 | Nancy Bai, Erik Liang, Ruolan Bai, Ruoxi Bai |
 | 14:15 | Violin Ensemble: Millionaire | [Pacific Violin Academy](https://pacificviolinacademy.com/) |
 | 14:20 | Folk Dance: 天边 | Chinese Golden Willow (Salem) |
-| 14:25 | Erhu Solo: 三十里铺 | Jerry Lin |
-| 14:30 | Piano and Erhu: 草原新牧民 | Kathy Charles & Jerry Lin |
+| 14:25 | Piano Solo: 太阳花 | Kathy Charles from [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
+| 14:30 | Piano and Erhu: 草原新牧民 | Kathy Charles & Jerry Lin from [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
 | 14:35 | Folk Dance: 心在路上 | West Linn Chinese Dancing Troupe |
 | 14:40 | Solo: 桥边姑娘真好看 | Jack |
 | 14:45 | Duet: 你的答案 | Jack & Tingting Hou |
-| 14:50 | Rhythmic Gymnastics and Dance | [Rose City Rhythmic Gymnastics](https://www.rosecityrhythmic.com/) |
+| 14:50 | Guzheng Duet: 战台风 | Nancy & Berrett |
 | 14:55 | Folk Dance: 我的九寨 | West Linn Chinese Dancing Troupe |
-| 15:00 | Guzheng Duet: 战台风 | Nancy & Berrett |
-| 15:10 | Solo: 喜欢你 | Katy |
-| 15:15 | Duet: 雨蝶 | Tingting Hou & Katy |
-| 15:20 | Solo: 一万次悲伤 | Tingting Hou |
-| 15:25 | Modern Dance: 大鱼 | [Haiyan International Dance Academy](http://www.haiyanballet.net/) |
-| 15:45 | Martial Arts Performance| [Summit Wushu Academy](http://summitwushu.com/) |
+| 15:05 | Solo: 喜欢你 | Katy |
+| 15:10 | Duet: 雨蝶 | Tingting Hou & Katy |
+| 15:15 | Solo: 一万次悲伤 | Tingting Hou |
+| 15:20 | Modern Dance: 大鱼 | [Haiyan International Dance Academy](http://www.haiyanballet.net/) |
+| 15:25 | Martial Arts Performance| [Summit Wushu Academy](http://summitwushu.com/) |
+| 15:40 | Learning Wushu Moves with Master | Peter Dang from [Summit Wushu Academy](http://summitwushu.com/) |
 | Intermission |
 | 16:00 | Welcome Speech | MC |
 | 16:05 | Lion Dance Performance | [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/) |
-| 16:35 | Yue Opera: 十八相送 | Portland Dancing Troupe |
-| 16:45 | Reading Chinese Classical Poems | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
-| 16:50 | Reading Chinese Classical Poems | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
-| 16:55 | Xinjiang Dance: 亚丽古拉 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-| 17:00 | Martial Arts Performance | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-| 17:10 | Piano Solo: 太阳花 | Kathy Charles |
-| 17:15 | Cello Quartet: Prelude from Te Deum | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
-| 17:20 | Tibetain Dance: 卓玛 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-| 17:25 | Baguazhang(Eight Fixed Palms) | Master Lin |
+| 16:35 | Guzhen: 香山射鼓 | Kara Lin from [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
+| 16:40 | Chinese Classical Poems: 登鹳雀楼，夜宿山寺，游子吟 | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
+| 16:45 | Xinjiang Dance: 亚丽古拉 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+| 16:50 | Martial Arts Performance | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+| 16:55 | Erhu Solo: 三十里铺 | Jerry Lin from [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
+| 17:00 | Cello Quartet: Prelude from Te Deum | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
+| 17:05 | Tibetain Dance: 卓玛 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+| 17:10 | Yue Opera: 十八相送 | Portland Chinese Dancing Troupe |
+| 17:20 | Baguazhang (Eight Fixed Palms) | Master Lin |
+| 17:25 | Rhythmic Gymnastics and Dance | [Rose City Rhythmic Gymnastics](https://www.rosecityrhythmic.com/) |
 | 17:30 | Modern Dance | Henna Holden |
 | 17:35 | Modern Dance | Quinci Holden |
 | 17:40 | Singing of Chinese Poems | Kathy Li's Singing Group |
@@ -102,9 +103,20 @@ permalink: /chinesefestival/
 [Portland Street Response](https://www.portland.gov/streetresponse)  
 [Multnomah County Library](https://multcolib.org/file/1571)
 
-## OHA COVID Vaccination Clinic
+## COVID-19 Vaccination Clinic
 
-Details are going to be available soon...
+Organizers: [OHA](https://covidvaccine.oregon.gov/) and [Multnomah County Public Health Division](https://www.multco.us/health)  
+Vaccinator: [LeCare Pharmacy](https://www.lecarepharmacy.com/), Family Owned, Locally Loved.  
+Volunteers: [Oregon Chinese Coalition](http://pdxchinese.org/)
+
+No Appointment Needed  
+Thank You Gifts:  
+$100 Gift Card for 1st Dose, $50 Gift Card for 2nd Dose, Provided by [Multnomah County](https://www.multco.us/health)  
+Cutural Gift of Your Choice to Everyone (1st and 2nd Dose), from [Oregon Chinese Coalition](http://pdxchinese.org/)  
+
+Pfizer Vaccine, 1st and 2nd Dose, for 12 & Older  
+Moderna Vaccine, 1st and 2nd Dose, for 18 & Older  
+Johnson & Johnson Vaccine, single Dose, for 18 & Older  
 
 ## Contact Us:
 
