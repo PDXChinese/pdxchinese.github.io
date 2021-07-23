@@ -31,13 +31,13 @@ OCC团队将帮助社区成员解决为疫苗接种所在预定，翻译，及�
 
 August 7 from 12pm to 7pm @ [Pioneer Courthouase Square](https://www.google.com/maps/place/Pioneer+Courthouse+Square/@45.5192271,-122.6793339,18.79z/data=!4m5!3m4!1s0x0:0xfebc36dc49ec79c7!8m2!3d45.5189565!4d-122.6792803)
 
-Organizers: [OHA](https://covidvaccine.oregon.gov/) and [Multnomah County Public Health Division](https://www.multco.us/health)  
+Organizers: [Multnomah County Public Health Division](https://www.multco.us/health) and [Oregon Chinese Coalition](http://pdxchinese.org/)   
+Partner: [OHA](https://covidvaccine.oregon.gov/)
 Vaccinator: [LeCare Pharmacy](https://www.lecarepharmacy.com/), Family Owned, Locally Loved.  
-Volunteers: [Oregon Chinese Coalition](http://pdxchinese.org/)
 
 No Appointment Needed  
 Thank You Gifts:  
-$100 Gift Card for 1st Dose, $50 Gift Card for 2nd Dose, Provided by [Multnomah County](https://www.multco.us/health)  
+$100 Gift Card for 1st Dose, $50 Gift Card for 2nd Dose, $150 Gift Card for J&J Dose, Provided by [Multnomah County](https://www.multco.us/health)  
 Cutural Gift of Your Choice to Everyone (1st and 2nd Dose), from [Oregon Chinese Coalition](http://pdxchinese.org/)  
 
 Pfizer Vaccine, 1st and 2nd Dose, for 12 & Older  
