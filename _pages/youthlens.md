@@ -65,6 +65,10 @@ Writing Lessons
 > [LEADERSHIP LAB: The Craft of Writing Effectively](https://youtu.be/vtIzMaLkCaM)  
 > [LEADERSHIP LAB: Writing Beyond the Academy](https://youtu.be/aFwVf5a3pZM)  
 
+如何剪辑 | 视频剪辑秘密大公开 | 剪多久/用什么剪/背景音乐/如何粗剪？
+
+<iframe width="1691" height="591" src="https://www.youtube.com/embed/On1Emt5XQ7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Exemplary News Video
 
 <iframe width="640" height="360" style="border:1px solid #e6e6e6" src="https://kgw.com/embeds/video/283-fd901048-d28b-49e8-ba7b-9ec611a83a7d/iframe" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
