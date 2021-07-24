@@ -2,8 +2,8 @@
 title: " "
 permalink: /chinesefestival/
 feature_row0:
-  - image_path: /assets/images/activity/mult_county.png
-  - image_path: /assets/images/activity/pge.png
+  - image_path: /assets/images/activities/mult_county.png
+  - image_path: /assets/images/activities/pge.png
 feature_row1:
   - image_path: /assets/images/activities/talk_vincent2.jpg
 ---
