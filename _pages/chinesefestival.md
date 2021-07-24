@@ -126,7 +126,7 @@ Johnson & Johnson, single Dose, for 18 & Older
 
 [festival@pdxchinese.org](mailto:festival@pdxchinese.org)  
 
-## Sponsors
+## Proudly Sponsored By:
 
 {% include feature_row id="feature_row0"%}
 
