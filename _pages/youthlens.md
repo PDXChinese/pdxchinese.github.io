@@ -52,22 +52,19 @@ Resources
 > [The Youth's Lens](https://theyouthslens.com/)  
 > [Youth Journalism International](http://www.youthjournalism.org/)  
 
-TV and Newscast Making Tutorials
+TV, Newscast and vblog Making Tutorials
 
 > [Guide to Broadcast/Video](https://www.jeadigitalmedia.org/guide-to-broadcast-video/)  
 > [TV Writing & Development](https://www.studiobinder.com/tv-writing/)  
 > [Creating a News Report](https://youtu.be/8_NmVtnEEA8)  
 > [How to Write a News Story](https://youtu.be/flq29zwRrZA)  
 > [Basic News Writing](https://youtu.be/xo-PpA4H_Bk)  
+> [How to Edit Video](https://www.youtube.com/watch?v=On1Emt5XQ7o)  
 
 Writing Lessons
 
 > [LEADERSHIP LAB: The Craft of Writing Effectively](https://youtu.be/vtIzMaLkCaM)  
 > [LEADERSHIP LAB: Writing Beyond the Academy](https://youtu.be/aFwVf5a3pZM)  
-
-<iframe width="1691" height="591" src="https://www.youtube.com/embed/On1Emt5XQ7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-How to Edit Video
-
 
 <iframe width="640" height="360" style="border:1px solid #e6e6e6" src="https://kgw.com/embeds/video/283-fd901048-d28b-49e8-ba7b-9ec611a83a7d/iframe" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
