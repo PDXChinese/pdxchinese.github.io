@@ -2,8 +2,8 @@
 title: " "
 permalink: /chinesefestival/
 feature_row0:
-  - image_path: /assets/images/logo/mult_county.png
-  - image_path: /assets/images/logo/pge.png
+  - image_path: /assets/images/activity/mult_county.png
+  - image_path: /assets/images/activity/pge.png
 feature_row1:
   - image_path: /assets/images/activities/talk_vincent2.jpg
 ---
@@ -110,15 +110,14 @@ feature_row1:
 
 ## Walk-In COVID-19 Vaccination Clinic
 
-Organizers: [OHA](https://covidvaccine.oregon.gov/) and [Multnomah County Public Health Division](https://www.multco.us/health)  
+Organizers: [Multnomah County Public Health Division](https://www.multco.us/health)  
 Vaccinator: [LeCare Pharmacy](https://www.lecarepharmacy.com/), Family Owned, Locally Loved.  
-Volunteers: [Oregon Chinese Coalition](http://pdxchinese.org/)
 
 Thank You Gifts:  
 $100 for 1st Dose, $50 for 2nd Dose, $150 for J&J Dose, Provided by [Multnomah County](https://www.multco.us/health)  
 Ox Year Stainless Steel Memorabilia (any dose) While Supplies Last, from [Oregon Chinese Coalition](http://pdxchinese.org/)  
 
-Vaccine Available Onsite:
+Vaccine Available Onsite:  
 Pfizer, 1st and 2nd Dose, for 12 & Older  
 Moderna, 1st and 2nd Dose, for 18 & Older  
 Johnson & Johnson, single Dose, for 18 & Older  
