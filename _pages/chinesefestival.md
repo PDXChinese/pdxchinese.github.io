@@ -1,6 +1,11 @@
 ---
 title: " "
 permalink: /chinesefestival/
+feature_row0:
+  - image_path: /assets/images/logo/mult_county.png
+  - image_path: /assets/images/logo/pge.png
+feature_row1:
+  - image_path: /assets/images/activities/talk_vincent2.jpg
 ---
 
 ![]({{ site.url }}/assets/images/festival/festival2021c.jpg)
@@ -103,24 +108,28 @@ permalink: /chinesefestival/
 [Portland Street Response](https://www.portland.gov/streetresponse)  
 [Multnomah County Library](https://multcolib.org/file/1571)
 
-## COVID-19 Vaccination Clinic
+## Walk-In COVID-19 Vaccination Clinic
 
 Organizers: [OHA](https://covidvaccine.oregon.gov/) and [Multnomah County Public Health Division](https://www.multco.us/health)  
 Vaccinator: [LeCare Pharmacy](https://www.lecarepharmacy.com/), Family Owned, Locally Loved.  
 Volunteers: [Oregon Chinese Coalition](http://pdxchinese.org/)
 
-No Appointment Needed  
 Thank You Gifts:  
-$100 Gift Card for 1st Dose, $50 Gift Card for 2nd Dose, Provided by [Multnomah County](https://www.multco.us/health)  
-Cutural Gift of Your Choice to Everyone (1st and 2nd Dose), from [Oregon Chinese Coalition](http://pdxchinese.org/)  
+$100 for 1st Dose, $50 for 2nd Dose, $150 for J&J Dose, Provided by [Multnomah County](https://www.multco.us/health)  
+Ox Year Stainless Steel Memorabilia (any dose) While Supplies Last, from [Oregon Chinese Coalition](http://pdxchinese.org/)  
 
-Pfizer Vaccine, 1st and 2nd Dose, for 12 & Older  
-Moderna Vaccine, 1st and 2nd Dose, for 18 & Older  
-Johnson & Johnson Vaccine, single Dose, for 18 & Older  
+Vaccine Available Onsite:
+Pfizer, 1st and 2nd Dose, for 12 & Older  
+Moderna, 1st and 2nd Dose, for 18 & Older  
+Johnson & Johnson, single Dose, for 18 & Older  
 
 ## Contact Us:
 
 [festival@pdxchinese.org](mailto:festival@pdxchinese.org)  
+
+## Sponsors
+
+{% include feature_row id="feature_row0"%}
 
 ## Archive
 
