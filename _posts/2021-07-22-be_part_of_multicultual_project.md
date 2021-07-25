@@ -14,4 +14,4 @@ Beaverton商会和THPRD与我们社区的合作日益密切，因为有了众多
 
 ![]({{ site.url }}/assets/images/WeChat Image_20210725145955.jpg)
 
-<iframe width="1691" height="591" src="https://www.youtube.com/embed/6imqcMFQA8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" style="border:1px solid #e6e6e6" src="https://www.youtube.com/embed/6imqcMFQA8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
