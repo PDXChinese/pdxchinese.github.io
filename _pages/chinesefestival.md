@@ -8,10 +8,10 @@ feature_row1:
   - image_path: /assets/images/activities/jackie.jpg
     title: "Jackie Zhang"
     excerpt: "12pm-2pm"
-  - image_path: /assets/images/activities/nancy2.jpg
+  - image_path: /assets/images/activities/nancy3.jpg
     title: "Nancy Bai"
     excerpt: "2pm-4pm"
-  - image_path: /assets/images/activities/victor2.jpg
+  - image_path: /assets/images/activities/victor3.jpg
     title: "Victor Li"
     excerpt: "4pm-7pm"
 ---
@@ -133,6 +133,8 @@ Vaccine Available Onsite --
 Pfizer, 1st and 2nd Dose, for 12 & Older  
 Moderna, 1st and 2nd Dose, for 18 & Older  
 Johnson & Johnson, single Dose, for 18 & Older  
+
+[Sign Up Form](https://docs.google.com/forms/d/e/1FAIpQLScYnT81RswCNSO1zroOldu7wnUtktDQOPNCYDhzoMRiZvZiBw/viewform?usp=sf_link) (Not Required, May Help Prepare for Enough Vaccines and Gifts)
 
 ## Contact Us:
 
