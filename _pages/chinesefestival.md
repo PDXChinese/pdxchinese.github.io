@@ -20,6 +20,10 @@ feature_row1:
 
 **Official Site:** [http://pdxchinesefestival.org](http://pdxchinesefestival.org)
 
+## Live Streaming
+
+Tentatively planned on Youtube, more details to come.
+
 ## Masters of Ceremony
 
 {% include feature_row id="feature_row1"%}
