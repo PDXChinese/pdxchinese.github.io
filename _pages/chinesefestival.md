@@ -53,13 +53,13 @@ feature_row1:
 | 14:25 | Piano Solo: 太阳花 | Kathy Charles from [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
 | 14:30 | Piano and Erhu: 草原新牧民 | Kathy Charles & Jerry Lin from [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
 | 14:35 | Folk Dance: 心在路上 | West Linn Chinese Dancing Troupe |
-| 14:40 | Solo: 桥边姑娘真好看 | Jack |
-| 14:45 | Duet: 你的答案 | Jack & Tingting Hou |
+| 14:40 | Solo Vocal: 桥边姑娘真好看 | Jack |
+| 14:45 | Vocal Duet: 你的答案 | Jack & Tingting Hou |
 | 14:50 | Guzheng Duet: 战台风 | Nancy & Berrett |
 | 14:55 | Folk Dance: 我的九寨 | West Linn Chinese Dancing Troupe |
-| 15:05 | Solo: 喜欢你 | Katy |
-| 15:10 | Duet: 雨蝶 | Tingting Hou & Katy |
-| 15:15 | Solo: 一万次悲伤 | Tingting Hou |
+| 15:05 | Solo Vocal: 喜欢你 | Katy |
+| 15:10 | Vocal Duet: 雨蝶 | Tingting Hou & Katy |
+| 15:15 | Solo Vocal: 一万次悲伤 | Tingting Hou |
 | 15:20 | Modern Dance: 大鱼 | [Haiyan International Dance Academy](http://www.haiyanballet.net/) |
 | 15:25 | Martial Arts Performance| [Summit Wushu Academy](http://summitwushu.com/) |
 | 15:40 | Learning Wushu Moves with Master | Peter Dang from [Summit Wushu Academy](http://summitwushu.com/) |
