@@ -5,12 +5,24 @@ feature_row0:
   - image_path: /assets/images/activities/mult_county.png
   - image_path: /assets/images/activities/pge.png
 feature_row1:
-  - image_path: /assets/images/activities/talk_vincent2.jpg
+  - image_path: /assets/images/activities/jackie.jpg
+    title: "Jackie Zhang"
+    excerpt: "12pm-2pm"
+  - image_path: /assets/images/activities/nancy2.jpg
+    title: "Nancy Bai"
+    excerpt: "2pm-4pm"
+  - image_path: /assets/images/activities/victor2.jpg
+    title: "Victor Li"
+    excerpt: "4pm-7pm"
 ---
 
 ![]({{ site.url }}/assets/images/festival/festival2021c.jpg)
 
 **Official Site:** [http://pdxchinesefestival.org](http://pdxchinesefestival.org)
+
+## Masters of Ceremony
+
+{% include feature_row id="feature_row1"%}
 
 ## Committed Programs  
 
