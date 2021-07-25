@@ -35,13 +35,15 @@ Organizers: [Multnomah County Public Health Division](https://www.multco.us/heal
 Vaccinator: [LeCare Pharmacy](https://www.lecarepharmacy.com/), Family Owned, Locally Loved.  
 
 Thank You Gifts --  
-$100 for 1st Dose, $50 for 2nd Dose, $150 for J&J Dose, from [Multnomah County](https://www.multco.us/health)  
-[Ox Year Stainless Steel Memorabilia](/assets/images/activities/ox.jpg) (any dose) While Supplies Last, from [Oregon Chinese Coalition](http://pdxchinese.org/)  
+$100 for 1st Dose, $50 for 2nd Dose, $150 for J&J Dose  
+[Ox Year Stainless Steel Memorabilia](/assets/images/activities/ox.jpg), While Supplies Last  
 
 Vaccine Available Onsite --  
 Pfizer, 1st and 2nd Dose, for 12 & Older  
 Moderna, 1st and 2nd Dose, for 18 & Older  
-Johnson & Johnson, single Dose, for 18 & Older
+Johnson & Johnson, single Dose, for 18 & Older  
+
+[Sign Up Form](https://docs.google.com/forms/d/e/1FAIpQLScYnT81RswCNSO1zroOldu7wnUtktDQOPNCYDhzoMRiZvZiBw/viewform?usp=sf_link) (Not Required, May Help Prepare for Enough Vaccines and Gifts)
 
 ## 服务内容
 
