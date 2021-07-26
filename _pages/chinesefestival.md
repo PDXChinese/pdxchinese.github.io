@@ -22,7 +22,7 @@ feature_row1:
 
 ## Live Streaming
 
-Tentatively planned on Youtube, more details to come.
+Details to come...
 
 ## Masters of Ceremony
 
