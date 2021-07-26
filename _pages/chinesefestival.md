@@ -4,7 +4,7 @@ permalink: /chinesefestival/
 feature_row0:
   - image_path: /assets/images/activities/mult_county.png
   - image_path: /assets/images/activities/pge.png
-  - image_path: /assets/images/activities/oregonian.jpg
+  - image_path: /assets/images/activities/oregonian.jp
 feature_row1:
   - image_path: /assets/images/activities/jackie4.jpg
     title: "Jackie Zhang"
@@ -16,6 +16,9 @@ feature_row1:
     title: "Victor Li"
     excerpt: "4pm-7pm"
 ---
+## Proudly Sponsored By:
+
+{% include feature_row id="feature_row0"%}
 
 ![]({{ site.url }}/assets/images/festival/festival2021c.jpg)
 
@@ -144,10 +147,6 @@ Johnson & Johnson, single Dose, for 18 & Older
 ## Contact Us:
 
 [festival@pdxchinese.org](mailto:festival@pdxchinese.org)  
-
-## Proudly Sponsored By:
-
-{% include feature_row id="feature_row0"%}
 
 ## Archive
 
