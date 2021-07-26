@@ -5,7 +5,7 @@ feature_row0:
   - image_path: /assets/images/activities/mult_county.png
   - image_path: /assets/images/activities/pge.png
 feature_row1:
-  - image_path: /assets/images/activities/jackie.jpg
+  - image_path: /assets/images/activities/jackie4.jpg
     title: "Jackie Zhang"
     excerpt: "12pm-2pm"
   - image_path: /assets/images/activities/nancy3.jpg
