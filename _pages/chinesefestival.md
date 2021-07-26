@@ -3,7 +3,7 @@ title: " "
 permalink: /chinesefestival/
 feature_row0:
   - image_path: /assets/images/activities/mult_county.png
-  - image_path: /assets/images/activities/pge.png
+  - image_path: /assets/images/activities/pge2.jpg
   - image_path: /assets/images/activities/oregonian.jpg
 feature_row1:
   - image_path: /assets/images/activities/jackie4.jpg
