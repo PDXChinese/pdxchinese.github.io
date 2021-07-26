@@ -16,7 +16,7 @@ feature_row1:
     excerpt: "4pm-7pm"
 ---
 
-![]({{ site.url }}/assets/images/festival/festival2021c.jpg)
+![]({{ site.url }}/assets/images/festival/festival2021d.jpg)
 
 **Official Site:** [http://pdxchinesefestival.org](http://pdxchinesefestival.org)
 
