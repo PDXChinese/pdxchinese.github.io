@@ -20,7 +20,7 @@ feature_row1:
 
 {% include feature_row id="feature_row0"%}
 
-![]({{ site.url }}/assets/images/festival/festival2021b.jpg)
+![]({{ site.url }}/assets/images/festival/festival2021a.jpg)
 
 **Official Site:** [http://pdxchinesefestival.org](http://pdxchinesefestival.org)
 
