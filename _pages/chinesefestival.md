@@ -18,7 +18,7 @@ feature_row1:
     title: "Victor Li"
     excerpt: "4pm-7pm"
 ---
-## Proudly Sponsored By:
+Proudly Sponsored By:
 
 ![]({{ site.url }}/assets/images/festival/sponsors2021a.jpg)
 
