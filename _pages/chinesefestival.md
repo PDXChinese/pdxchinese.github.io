@@ -4,7 +4,7 @@ permalink: /chinesefestival/
 feature_row0:
   - image_path: /assets/images/activities/mult_county.png
   - image_path: /assets/images/activities/pge2.jpg
-  - image_path: /assets/images/activities/providence.png
+  - image_path: /assets/images/activities/providence.jpg
   - image_path: /assets/images/activities/oregonian.jpg
   - image_path: /assets/images/activities/pcs-logo.png
 feature_row1:
