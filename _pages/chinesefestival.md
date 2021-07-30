@@ -20,7 +20,7 @@ feature_row1:
 ---
 Proudly Sponsored By:
 
-![]({{ site.url }}/assets/images/festival/sponsors2021a.jpg)
+![]({{ site.url }}/assets/images/festival/sponsors2021.jpg)
 
 ![]({{ site.url }}/assets/images/festival/festival2021a.jpg)
 
