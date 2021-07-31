@@ -22,7 +22,7 @@ Proudly Sponsored By:
 
 ![]({{ site.url }}/assets/images/festival/sponsors2021.jpg)
 
-![]({{ site.url }}/assets/images/festival/festival2021a.jpg)
+![]({{ site.url }}/assets/images/festival/festival2021c.jpg)
 
 **Official Site:** [http://pdxchinesefestival.org](http://pdxchinesefestival.org)
 
@@ -123,7 +123,7 @@ Details to come...
 | Limei Lai | Face Painting |
 | Si Hui | Draw Your Birthday Card |
 | Yishu Li | Character Sketch with Marker |
-| Rachel | Cartoon Drawing  |
+| Rachel Zhou | Cartoon Drawing with Kids |
 
 ## Nonprofit Lineup
 
