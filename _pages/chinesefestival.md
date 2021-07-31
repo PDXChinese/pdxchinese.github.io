@@ -118,10 +118,12 @@ Details to come...
 
 | Name | Onsite Activity |
 | --- | --- |
-| [Tie Li](https://www.litiefineart.com/) | Portrait Illustration |
+| [Tie Li](https://www.litiefineart.com/) | Charcoal Drawing Portrait |
 | Xing Wang | Your Name in Chinese with Calligraphy |
 | Limei Lai | Face Painting |
 | Si Hui | Draw Your Birthday Card |
+| Yishu Li | Character Sketch with Marker |
+| Rachel | Cartoon Drawing  |
 
 ## Nonprofit Lineup
 
