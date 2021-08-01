@@ -57,7 +57,7 @@ Details to come...
 | Intermission |
 | 14:00 | Welcome Speech | MC |
 | 14:05 | Modern Dance: 雪落下的声音 | [Haiyan International Dance Academy](http://www.haiyanballet.net/) |
-| 14:10 | Guzheng with Drum: 男儿当自强 | Nancy Bai, Erik Liang, Ruolan Bai, Ruoxi Bai |
+| 14:10 | Guzheng with Drum: 男儿当自强 | Thomas Fang, Erik Liang, Ruolan Bai, Ruoxi Bai, Alex Pi |
 | 14:15 | Violin Ensemble: Millionaire | [Pacific Violin Academy](https://pacificviolinacademy.com/) |
 | 14:20 | Folk Dance: 天边 | Chinese Golden Willow (Salem) |
 | 14:25 | Piano Solo: 太阳花 | Kathy Charles from [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
@@ -125,6 +125,8 @@ Details to come...
 | Yishu Li | Character Sketch with Marker |
 | Rachel Zhou | Cartoon Drawing with Kids |
 
+*All our artists' services are free. They will also be more than happy to draw on your masks.*
+
 ## Nonprofit Lineup
 
 [Lan Su Chinese Garden](https://lansugarden.org/)  
@@ -135,7 +137,7 @@ Details to come...
 ## Walk-In COVID-19 Vaccination Clinic
 
 Organizers: [Multnomah County Public Health Division](https://www.multco.us/health)  
-Vaccinator: [LeCare Pharmacy](https://www.lecarepharmacy.com/), Family Owned, Locally Loved.  
+Vaccinator: [LECARE Pharmacy](https://www.lecarepharmacy.com/), Family Owned, Locally Loved.  
 
 Thank You Gifts --  
 $100 for 1st Dose, $50 for 2nd Dose, $150 for J&J Dose  
