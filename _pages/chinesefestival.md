@@ -122,7 +122,7 @@ The festival will go live on Instagram from 12 pm. Please follow us @OregonChine
 | Xing Wang | Your Name in Chinese with Calligraphy |
 | Limei Lai | Face Painting |
 | Si Hui | Draw Your Birthday Card |
-| Yishu Li | Character Sketch with Marker |
+| [Yishu Li](https://www.yidrawing.com/) | Character Sketch with Marker |
 | Rachel Zhou | Cartoon Drawing with Kids |
 
 *All our artists' offerings are free. They will also be mores than happy to draw on your masks.*
