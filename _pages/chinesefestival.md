@@ -28,7 +28,7 @@ Proudly Sponsored By:
 
 ## Live Streaming
 
-Details to come...
+The festival will go live on Instagram from 12 pm. Please follow us @OregonChineseCoalition to get notified.
 
 ## Masters of Ceremony
 
@@ -125,7 +125,7 @@ Details to come...
 | Yishu Li | Character Sketch with Marker |
 | Rachel Zhou | Cartoon Drawing with Kids |
 
-*All our artists' services are free. They will also be more than happy to draw on your masks.*
+*All our artists' offerings are free. They will also be mores than happy to draw on your masks.*
 
 ## Nonprofit Lineup
 
