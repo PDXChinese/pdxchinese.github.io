@@ -8,8 +8,8 @@ feature_row0:
   - image_path: /assets/images/activities/oregonian.jpg
   - image_path: /assets/images/activities/pcs-logo.png
 feature_row1:
-  - image_path: /assets/images/activities/jackie4.jpg
-    title: "Jackie Zhang"
+  - image_path: /assets/images/activities/sophia.jpg
+    title: "Sophia Pi"
     excerpt: "12pm-2pm"
   - image_path: /assets/images/activities/nancy3.jpg
     title: "Nancy Bai"
