@@ -16,7 +16,7 @@ feature_row3:
 
 ### Mission
 
-The pen pal program is to address the racism as violence and the impact it has on youth, by connecting the youth from communities of color with the hopes of amplifying their voices and building an alliance of youth across communities to stop racism. 
+The pen pal program is to address the racism as violence and the impact it has on youth, by connecting the youth from communities of color with the hopes of amplifying their voices and building an alliance of youth across communities to stop racism.
 
 ### Background
 
@@ -47,10 +47,6 @@ For letters, please mail to
 For emails, please mail to
 
 >[penpal@pdxchinese.org](mailto:penpal@pdxchinese.org)
-
-### Free Wushu (Martial  Arts) Lessons to Participants
-
-Once a week with hybrid teaching model, depending on the risk level of the coronavirus at the time.
 
 ### Grants Received
 
