@@ -10,7 +10,7 @@ feature_row3:
   - image_path: /assets/images/activities/derose.jpg
 ---
 
-![]({{ site.url }}/assets/images/activities/penpallogo4.jpg)
+![]({{ site.url }}/assets/images/activities/penpal2021.png)
 
 # Pen Pal Project for Multiracial Youth Groups
 
