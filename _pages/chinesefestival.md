@@ -61,7 +61,7 @@ The festival will go live on Instagram from 12 pm. Please follow us @OregonChine
 | 14:15 | Violin Ensemble: Millionaire | [Pacific Violin Academy](https://pacificviolinacademy.com/) |
 | 14:20 | Folk Dance: 天边 | Chinese Golden Willow (Salem) |
 | 14:25 | Piano Solo: 太阳花 | Kathy Charles from [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
-| 14:30 | Piano and Erhu: 草原新牧民 | Kathy Charles & Jerry Lin from [Music Fusian NW](https://www.facebook.com/musicfusiannw/), [Musication LLC] (https://www.quinnliumusic.com/musication-musiclesson) |
+| 14:30 | Piano and Erhu: 草原新牧民 | Kathy Charles & Jerry Lin from [Music Fusian NW](https://www.facebook.com/musicfusiannw/) & [Musication LLC] (https://www.quinnliumusic.com/musication-musiclesson) |
 | 14:35 | Folk Dance: 心在路上 | West Linn Chinese Dancing Troupe |
 | 14:40 | Solo Vocal: 桥边姑娘真好看 | Jack |
 | 14:45 | Vocal Duet: 你的答案 | Jack & Tingting Hou |
@@ -77,11 +77,11 @@ The festival will go live on Instagram from 12 pm. Please follow us @OregonChine
 | 16:00 | Welcome Speech | MC |
 | 16:05 | Lion Dance Performance | [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/) |
 | 16:35 | Guzhen: 香山射鼓 | Kara Lin from [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
-| 16:40 | Chinese Classical Poems: 登鹳雀楼，夜宿山寺，游子吟 | [Music Fusian NW](https://www.facebook.com/musicfusiannw/), [Musication LLC] (https://www.quinnliumusic.com/musication-musiclesson) |
+| 16:40 | Chinese Classical Poems: 登鹳雀楼，夜宿山寺，游子吟 | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) & [Musication LLC] (https://www.quinnliumusic.com/musication-musiclesson) |
 | 16:45 | Xinjiang Dance: 亚丽古拉 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 | 16:50 | Martial Arts Performance | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-| 16:55 | Erhu Solo: 三十里铺 | Jerry Lin from [Music Fusian NW](https://www.facebook.com/musicfusiannw/), [Musication LLC] (https://www.quinnliumusic.com/musication-musiclesson) |
-| 17:00 | Cello Quartet: Prelude from Te Deum | [Music Fusian NW](https://www.facebook.com/musicfusiannw/), [Musication LLC] (https://www.quinnliumusic.com/musication-musiclesson) |
+| 16:55 | Erhu Solo: 三十里铺 | Jerry Lin from [Music Fusian NW](https://www.facebook.com/musicfusiannw/) & [Musication LLC] (https://www.quinnliumusic.com/musication-musiclesson) |
+| 17:00 | Cello Quartet: Prelude from Te Deum | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) & [Musication LLC] (https://www.quinnliumusic.com/musication-musiclesson) |
 | 17:05 | Tibetain Dance: 卓玛 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 | 17:10 | Yue Opera: 十八相送 | Portland Chinese Dancing Troupe |
 | 17:20 | Baguazhang (Eight Fixed Palms) | Master Lin |
