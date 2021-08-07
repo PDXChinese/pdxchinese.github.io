@@ -60,7 +60,7 @@ The festival will go live on Instagram from 12 pm. Please follow us @OregonChine
 | 14:20 | Violin Ensemble: Millionaire | [Pacific Violin Academy](https://pacificviolinacademy.com/) |
 | 14:25 | Folk Dance: 天边 | Chinese Golden Willow (Salem) |
 | 14:30 | Piano Solo: 太阳花 | Kathy Charles from [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
-| 14:35 | Piano and Erhu: 草原新牧民 | Kathy Charles & Jerry Lin from [Music Fusian NW](https://www.facebook.com/musicfusiannw/) & [Musication LLC] (https://www.quinnliumusic.com/musication-musiclesson) |
+| 14:35 | Piano and Erhu: 草原新牧民 | Kathy Charles & Jerry Lin from [Music Fusian NW](https://www.facebook.com/musicfusiannw/) & [Musication LLC](https://www.quinnliumusic.com/musication-musiclesson) |
 | 14:40 | Folk Dance: 心在路上 | West Linn Chinese Dancing Troupe |
 | 14:45 | Solo Vocal: 桥边姑娘真好看 | Jack |
 | 14:50 | Vocal Duet: 你的答案 | Jack & Tingting Hou |
@@ -80,8 +80,8 @@ The festival will go live on Instagram from 12 pm. Please follow us @OregonChine
 | 16:45 | Yue Opera: 十八相送 | Portland Chinese Dancing Troupe |
 | 16:55 | Xinjiang Dance: 亚丽古拉 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 | 17:00 | Martial Arts Performance | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-| 17:15 | Erhu Solo: 三十里铺 | Jerry Lin from [Music Fusian NW](https://www.facebook.com/musicfusiannw/) & [Musication LLC] (https://www.quinnliumusic.com/musication-musiclesson) |
-| 17:20 | Cello Quartet: Prelude from Te Deum | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) & [Musication LLC] (https://www.quinnliumusic.com/musication-musiclesson) |
+| 17:15 | Erhu Solo: 三十里铺 | Jerry Lin from [Music Fusian NW](https://www.facebook.com/musicfusiannw/) & [Musication LLC](https://www.quinnliumusic.com/musication-musiclesson) |
+| 17:20 | Cello Quartet: Prelude from Te Deum | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) & [Musication LLC](https://www.quinnliumusic.com/musication-musiclesson) |
 | 17:25 | Korean Pop Dance | Phoenix Dunn |
 | 17:27 | Korean Pop Dance | Amaya Fortner |
 | 17:30 | Tibetain Dance: 卓玛 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
@@ -90,7 +90,7 @@ The festival will go live on Instagram from 12 pm. Please follow us @OregonChine
 | 17:45 | Modern Dance | Henna Holden |
 | 17:50 | Modern Dance | Quinci Holden |
 | 17:55 | Singing of Chinese Poems | Kathy Li's Singing Group |
-| 18:00 | Band Playing | Lake Oswego Youth Band |
+| 18:00 | Band Playing | ACE Family Band |
 
 *Schedule is subject to change*
 
