@@ -19,7 +19,7 @@ feature_row1:
     excerpt: "4pm-7pm"
 feature_row2:
   - image_path: /assets/images/activities/lori.jpg
-    title: "Commissioner Stegmann"
+    excerpt: "Commissioner Stegmann"
 ---
 Proudly Sponsored By:
 
