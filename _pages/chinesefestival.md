@@ -18,8 +18,8 @@ feature_row1:
     title: "Victor Li"
     excerpt: "4pm-7pm"
 feature_row2:
-  - image_path: /assets/images/activities/loti.jpg
-    title: "County Commissioner Stegmann"
+  - image_path: /assets/images/activities/lori.jpg
+    title: "Commissioner Stegmann"
 ---
 Proudly Sponsored By:
 
