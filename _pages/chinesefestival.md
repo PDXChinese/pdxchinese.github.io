@@ -17,6 +17,9 @@ feature_row1:
   - image_path: /assets/images/activities/victor3.jpg
     title: "Victor Li"
     excerpt: "4pm-7pm"
+feature_row2:
+  - image_path: /assets/images/activities/loti.jpg
+    title: "County Commissioner Stegmann"
 ---
 Proudly Sponsored By:
 
@@ -33,6 +36,10 @@ The festival will go live on Instagram from 12 pm. Please follow us @OregonChine
 ## Masters of Ceremony
 
 {% include feature_row id="feature_row1"%}
+
+## Special Guest Speakers
+
+{% include feature_row id="feature_row2"%}
 
 ## Committed Programs  
 
