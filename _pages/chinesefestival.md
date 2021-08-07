@@ -76,7 +76,7 @@ The festival will go live on Instagram from 12 pm. Please follow us @OregonChine
 | 16:00 | Welcome Speech | MC |
 | 16:05 | Lion Dance Performance | [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/) |
 | 16:35 | Guzhen: 香山射鼓 | Kara Lin from [Music Fusian NW](https://www.facebook.com/musicfusiannw/) |
-| 16:40 | Chinese Classical Poems: 登鹳雀楼，夜宿山寺，游子吟 | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) & [Musication LLC] (https://www.quinnliumusic.com/musication-musiclesson) |
+| 16:40 | Chinese Classical Poems: 登鹳雀楼，夜宿山寺，游子吟 | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) & [Musication LLC](https://www.quinnliumusic.com/musication-musiclesson) |
 | 16:45 | Yue Opera: 十八相送 | Portland Chinese Dancing Troupe |
 | 16:55 | Xinjiang Dance: 亚丽古拉 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 | 17:00 | Martial Arts Performance | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
