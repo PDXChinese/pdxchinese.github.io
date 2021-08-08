@@ -89,8 +89,8 @@ The festival will go live on Instagram from 12 pm. Please follow us @OregonChine
 | 17:00 | Martial Arts Performance | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 | 17:15 | Erhu Solo: 三十里铺 | Jerry Lin from [Music Fusian NW](https://www.facebook.com/musicfusiannw/) & [Musication LLC](https://www.quinnliumusic.com/musication-musiclesson) |
 | 17:20 | Cello Quartet: Prelude from Te Deum | [Music Fusian NW](https://www.facebook.com/musicfusiannw/) & [Musication LLC](https://www.quinnliumusic.com/musication-musiclesson) |
-| 17:25 | Korean Pop Dance | Phoenix Dunn |
-| 17:27 | Korean Pop Dance | Amaya Fortner |
+| 17:25 | Chinese Pop Dance | Phoenix Dunn |
+| 17:27 | Chinese Pop Dance | Amaya Fortner |
 | 17:30 | Tibetain Dance: 卓玛 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 | 17:35 | Baguazhang (Eight Fixed Palms) | Master Lin |
 | 17:40 | Rhythmic Gymnastics and Dance | [Rose City Rhythmic Gymnastics](https://www.rosecityrhythmic.com/) |
