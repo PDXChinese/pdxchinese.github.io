@@ -156,9 +156,13 @@ Johnson & Johnson, single Dose, for 18 & Older
 
 [Sign Up Form](https://docs.google.com/forms/d/e/1FAIpQLScYnT81RswCNSO1zroOldu7wnUtktDQOPNCYDhzoMRiZvZiBw/viewform?usp=sf_link) (Not Required, May Help Prepare for Enough Vaccines and Gifts)
 
-## Contact Us:
+## Contact Us
 
 [festival@pdxchinese.org](mailto:festival@pdxchinese.org)  
+
+## Media Coverage
+
+KOIN TV: [Chinese Festival returning to Portland this Saturday](https://www.koin.com/local/multnomah-county/chinese-festival-returning-to-portland-this-saturday/)
 
 ## Archive
 
@@ -166,4 +170,4 @@ Johnson & Johnson, single Dose, for 18 & Older
 
 [2019 Chinese Festival](http://pdxchinese.org/chinesefestival/chinesefestival_2019/)  
 [2019 Chinese Festival Highlights](http://pdxchinese.org/chinese-festival-2019/)  
-Media Coverage: [KGW Live Interview](https://www.kgw.com/video/life/first-ever-pdx-chinese-festival-on-the-square/283-21872975-6fee-4122-83d1-a83449b083f5), [Portland State Vanguard](https://psuvanguard.com/oregon-chinese-coalition-hosts-chinese-festival/)
+2019 Media Coverage: [KGW Live Interview](https://www.kgw.com/video/life/first-ever-pdx-chinese-festival-on-the-square/283-21872975-6fee-4122-83d1-a83449b083f5), [Portland State Vanguard](https://psuvanguard.com/oregon-chinese-coalition-hosts-chinese-festival/)
