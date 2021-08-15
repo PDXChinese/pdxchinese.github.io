@@ -2,7 +2,7 @@
 title: "2021年华人文化节大获成功"
 author: XiBei Zhao
 excerpt: "用大获成功应该都不足以描述我们现在的心情，短短的六个星期，我们不仅敢于决定去做，还真的做成了，更重要的做得非常的棒。 真心为我们华人社区感到骄傲和自豪。我们主动举办如此大规模的文化节活动，对增进社区成员之间的相互理解，给已经令人感到压抑甚至窒息的市中心增添活力，为饱受煎熬的市民带来希望，都起到了非常积极正面的作用。"
-date: "2021-07-28"
+date: "2021-08-07"
 ---
 
 用大获成功应该都不足以描述我们现在的心情，短短的六个星期，我们不仅敢于决定去做，还真的做成了，更重要的做得非常的棒。 真心为我们华人社区感到骄傲和自豪。
@@ -28,6 +28,8 @@ date: "2021-07-28"
 ![]({{ site.url }}/assets/images/2021chinese_festival_027.jpg)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_028.jpg)
+
+![]({{ site.url }}/assets/images/2021chinese_festival_028a.JPG)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_029.jpg)
 
@@ -57,7 +59,7 @@ date: "2021-07-28"
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_042.jpg)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_043.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_043.JPG)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_044.jpg)
 
@@ -85,9 +87,9 @@ date: "2021-07-28"
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_056.jpg)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_057.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_057.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_058.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_058.JPG)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_059.jpg)
 
@@ -129,7 +131,7 @@ date: "2021-07-28"
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_078.jpg)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_079.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_079.JPG)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_080.jpg)
 
@@ -141,7 +143,13 @@ date: "2021-07-28"
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_084.jpg)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_085.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_085a.jpg)
+
+![]({{ site.url }}/assets/images/2021chinese_festival_085b.jpg)
+
+![]({{ site.url }}/assets/images/2021chinese_festival_085c.jpg)
+
+![]({{ site.url }}/assets/images/2021chinese_festival_085d.jpg)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_086.jpg)
 
@@ -151,13 +159,13 @@ date: "2021-07-28"
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_116.jpg)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_090.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_090.JPG)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_091.jpg)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_092.jpg)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_099.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_099.JPG)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_093.jpg)
 
@@ -167,11 +175,11 @@ date: "2021-07-28"
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_096.jpg)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_097.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_097.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_098.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_098.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_100.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_100.JPG)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_101.jpg)
 
@@ -195,13 +203,13 @@ date: "2021-07-28"
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_020.jpg)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_021.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_021.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_022.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_022.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_023.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_023.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_024.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_024.JPG)
 
 ## Food Vendors
 
@@ -209,7 +217,7 @@ date: "2021-07-28"
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_002.jpg)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_003.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_003.JPG)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_004.jpg)
 
@@ -225,36 +233,36 @@ date: "2021-07-28"
 
 ## Vaccination CLinic
 
-![]({{ site.url }}/assets/images/2021chinese_festival_010.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_010.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_011.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_011.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_012.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_012.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_013.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_013.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_014.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_014.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_015.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_015.JPG)
 
 ## KOIN 6 Live Interview on August 6
 
-![]({{ site.url }}/assets/images/2021chinese_festival_106.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_106.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_107.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_107.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_108.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_108.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_109.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_109.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_110.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_110.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_111.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_111.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_112.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_112.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_113.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_113.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_114.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_114.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_115.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_115.JPG)
