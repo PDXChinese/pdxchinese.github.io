@@ -147,6 +147,8 @@ date: "2021-08-07"
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_081.jpg)
 
+![]({{ site.url }}/assets/images/2021chinese_festival_081a.jpg)
+
 ![]({{ site.url }}/assets/images/2021chinese_festival_082.jpg)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_102.jpg)
