@@ -77,9 +77,7 @@ date: "2021-08-07"
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_049.jpg)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_050.jpg)
-
-![]({{ site.url }}/assets/images/2021chinese_festival_051.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_051a.jpg)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_052.jpg)
 
@@ -143,6 +141,8 @@ date: "2021-08-07"
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_104.jpg)
 
+![]({{ site.url }}/assets/images/2021chinese_festival_101.jpg)
+
 ![]({{ site.url }}/assets/images/2021chinese_festival_080.jpg)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_081.jpg)
@@ -169,7 +169,9 @@ date: "2021-08-07"
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_088.jpg)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_101.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_050.jpg)
+
+![]({{ site.url }}/assets/images/2021chinese_festival_051.jpg)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_116.jpg)
 
