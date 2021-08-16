@@ -23,8 +23,6 @@ feature_row2:
 ---
 Proudly Sponsored By:
 
-![]({{ site.url }}/assets/images/festival/sponsors2021.jpg)
-
 ![]({{ site.url }}/assets/images/festival/festival2021c.jpg)
 
 **Official Site:** [http://pdxchinesefestival.org](http://pdxchinesefestival.org)
@@ -156,6 +154,15 @@ Johnson & Johnson, single Dose, for 18 & Older
 
 [Sign Up Form](https://docs.google.com/forms/d/e/1FAIpQLScYnT81RswCNSO1zroOldu7wnUtktDQOPNCYDhzoMRiZvZiBw/viewform?usp=sf_link) (Not Required, May Help Prepare for Enough Vaccines and Gifts)
 
+## Sponsors
+
+[Multnomah County Health Department](https://www.multco.us/health)  
+[City of Portland](https://www.portland.gov/)  
+[Portland General Electric](https://portlandgeneral.com/)  
+[Providence Health & Services - Oregon Region](https://oregon.providence.org/)  
+[The Oregonian](https://www.oregonlive.com/)  
+[Pioneer Courthouse Square](https://www.thesquarepdx.org/)  
+
 ## Contact Us
 
 [festival@pdxchinese.org](mailto:festival@pdxchinese.org)  
@@ -164,10 +171,14 @@ Johnson & Johnson, single Dose, for 18 & Older
 
 KOIN TV: [Chinese Festival returning to Portland this Saturday](https://www.koin.com/local/multnomah-county/chinese-festival-returning-to-portland-this-saturday/)
 
+## Photo Album
+
+[2021 Chinese Festival Photo Album](https://pdxchinese.org/chinese-festival-2021/)
+
 ## Archive
 
 <iframe width="1189" height="669" src="https://www.youtube.com/embed/hOMUih0WrLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [2019 Chinese Festival](http://pdxchinese.org/chinesefestival/chinesefestival_2019/)  
-[2019 Chinese Festival Highlights](http://pdxchinese.org/chinese-festival-2019/)  
+[2019 Chinese Festival Photo Album](http://pdxchinese.org/chinese-festival-2019/)  
 2019 Media Coverage: [KGW Live Interview](https://www.kgw.com/video/life/first-ever-pdx-chinese-festival-on-the-square/283-21872975-6fee-4122-83d1-a83449b083f5), [Portland State Vanguard](https://psuvanguard.com/oregon-chinese-coalition-hosts-chinese-festival/)

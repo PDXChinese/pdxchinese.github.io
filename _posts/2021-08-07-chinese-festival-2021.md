@@ -31,23 +31,23 @@ date: "2021-08-07"
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_028a.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_029.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_029.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_030.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_030.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_031.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_031.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_032.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_032.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_033.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_033.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_034.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_034.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_035.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_035.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_036.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_036.JPG)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_037.jpg)
+![]({{ site.url }}/assets/images/2021chinese_festival_037.JPG)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_038.jpg)
 
@@ -145,8 +145,6 @@ date: "2021-08-07"
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_085a.jpg)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_085b.jpg)
-
 ![]({{ site.url }}/assets/images/2021chinese_festival_085c.jpg)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_085d.jpg)
@@ -231,7 +229,7 @@ date: "2021-08-07"
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_009.jpg)
 
-## Vaccination CLinic
+## Vaccination Clinic
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_010.JPG)
 
