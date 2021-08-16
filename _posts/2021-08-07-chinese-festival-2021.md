@@ -19,6 +19,8 @@ date: "2021-08-07"
 
 最后，很高兴告诉大家，现场的疫苗接种点一共给78人注射了疫苗，这个数字比平时类似的活动高出了许多！ County决定把挂在帐篷上的横幅保存起来，以纪念社区团体合作抗击疫情的这段难忘的经历。
 
+[http://pdxchinesefestival.org](http://pdxchinesefestival.org)
+
 ## Programs On Stage
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_025.jpg)
