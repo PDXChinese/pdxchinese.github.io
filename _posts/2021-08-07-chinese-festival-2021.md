@@ -51,6 +51,8 @@ date: "2021-08-07"
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_037.JPG)
 
+![]({{ site.url }}/assets/images/2021chinese_festival_100.JPG)
+
 ![]({{ site.url }}/assets/images/2021chinese_festival_038.jpg)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_039.jpg)
@@ -113,6 +115,8 @@ date: "2021-08-07"
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_068.jpg)
 
+![]({{ site.url }}/assets/images/2021chinese_festival_105.jpg)
+
 ![]({{ site.url }}/assets/images/2021chinese_festival_069.jpg)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_070.jpg)
@@ -135,11 +139,17 @@ date: "2021-08-07"
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_079.JPG)
 
+![]({{ site.url }}/assets/images/2021chinese_festival_103.jpg)
+
+![]({{ site.url }}/assets/images/2021chinese_festival_104.jpg)
+
 ![]({{ site.url }}/assets/images/2021chinese_festival_080.jpg)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_081.jpg)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_082.jpg)
+
+![]({{ site.url }}/assets/images/2021chinese_festival_102.jpg)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_083.jpg)
 
@@ -156,6 +166,8 @@ date: "2021-08-07"
 ![]({{ site.url }}/assets/images/2021chinese_festival_087.jpg)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_088.jpg)
+
+![]({{ site.url }}/assets/images/2021chinese_festival_101.jpg)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_116.jpg)
 
@@ -178,18 +190,6 @@ date: "2021-08-07"
 ![]({{ site.url }}/assets/images/2021chinese_festival_097.JPG)
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_098.JPG)
-
-![]({{ site.url }}/assets/images/2021chinese_festival_100.JPG)
-
-![]({{ site.url }}/assets/images/2021chinese_festival_101.jpg)
-
-![]({{ site.url }}/assets/images/2021chinese_festival_102.jpg)
-
-![]({{ site.url }}/assets/images/2021chinese_festival_103.jpg)
-
-![]({{ site.url }}/assets/images/2021chinese_festival_104.jpg)
-
-![]({{ site.url }}/assets/images/2021chinese_festival_105.jpg)
 
 ## Artists
 
