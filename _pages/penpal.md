@@ -34,8 +34,6 @@ The participants need to completet [Pre-Survey](https://docs.google.com/forms/d/
 
 All participants will need to have the parents or guardians sign the consent form.
 
-No other communication between pen pals would take place outside of the letters. All participants will use a nickname, and all letters/emails will be mailed to central location/account where they will be redistributed to the pen pal by the parent volunteers.
-
 ### Central Mailing Address
 
 For letters, please mail to
