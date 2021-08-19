@@ -27,24 +27,6 @@ feature_row1:
 
 OCC团队将帮助社区成员解决为疫苗接种所在预定，翻译，及交通方面遇到的各种困难，我们的目的就是希望有资格接受疫苗的社区成员都能够尽快接种，最大限度地提高社区成员的群体防疫能力。
 
-## Walk-In COVID-19 Vaccination Clinic
-
-August 7 from 12pm to 7pm @ [Pioneer Courthouase Square](https://www.google.com/maps/place/Pioneer+Courthouse+Square/@45.5192271,-122.6793339,18.79z/data=!4m5!3m4!1s0x0:0xfebc36dc49ec79c7!8m2!3d45.5189565!4d-122.6792803)
-
-Organizers: [Multnomah County Public Health Division](https://www.multco.us/health)  
-Vaccinator: [LeCare Pharmacy](https://www.lecarepharmacy.com/), Family Owned, Locally Loved.  
-
-Thank You Gifts --  
-$100 for 1st Dose, $50 for 2nd Dose, $150 for J&J Dose  
-[Ox Year Stainless Steel Memorabilia](/assets/images/activities/ox.jpg), While Supplies Last  
-
-Vaccine Available Onsite --  
-Pfizer, 1st and 2nd Dose, for 12 & Older  
-Moderna, 1st and 2nd Dose, for 18 & Older  
-Johnson & Johnson, single Dose, for 18 & Older  
-
-[Sign Up Form](https://docs.google.com/forms/d/e/1FAIpQLScYnT81RswCNSO1zroOldu7wnUtktDQOPNCYDhzoMRiZvZiBw/viewform?usp=sf_link) (Not Required, May Help Prepare for Enough Vaccines and Gifts)
-
 ## 服务内容
 
 【7/13/2021通知 下半年房租补贴开始接受申请】 这次房租补贴计划稍显复杂了一些，所以拖到了现在。 但还是要解释一下，这次州政府的OHCS部门决定直接通过[网站](https://oerap.oregon.gov/orera#/)接受个人申请，实话实说，OHCS把问题想得太简单了。今天的消息，目前全州有17,500家庭申请，到现在只有265个家庭收到了补贴。 当然，OHCS申请渠道最大的好处是向全州家庭开放，而我们负责的申请只限于Multnomah County居民。 所以，住在其他County的家庭也可以申请，只是必须通过OHCS的网站。
