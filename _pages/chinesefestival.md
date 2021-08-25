@@ -21,7 +21,8 @@ feature_row2:
   - image_path: /assets/images/activities/lori.jpg
     excerpt: "Commissioner Stegmann"
 ---
-Proudly Sponsored By:
+
+# See you again on August 6, 2022!:
 
 ![]({{ site.url }}/assets/images/festival/festival2021c.jpg)
 
