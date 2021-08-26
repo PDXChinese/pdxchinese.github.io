@@ -2,7 +2,7 @@
 title: ""
 permalink: /penpal/
 feature_row1:
-  - image_path: /assets/images/activities/penpallogo.jpg
+  - image_path: /assets/images/activities/penpallogo5.jpg
 feature_row2:
   - image_path: /assets/images/activities/multlogo.png
 feature_row3:
