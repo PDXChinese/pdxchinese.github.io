@@ -34,18 +34,6 @@ The participants need to completet [Pre-Survey](https://docs.google.com/forms/d/
 
 All participants will need to have the parents or guardians sign the consent form.
 
-### Central Mailing Address
-
-For letters, please mail to
-
->Pen Pal Project  
->PO Box 1675  
->Beaverton, OR 97075  
-
-For emails, please mail to
-
->[penpal@pdxchinese.org](mailto:penpal@pdxchinese.org)
-
 ### Grants Received
 
 Thank Multnomah County RACE VIP Grant for making this project possible
