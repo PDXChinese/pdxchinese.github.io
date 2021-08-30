@@ -6,6 +6,16 @@ feature_row1:
     excerpt: "Wayne H Chin"
 ---
 
+## Chinese American Community Callegraphy and Photography Exhibnit
+
+Date: September 16-19, 12pm-6pm  
+Place: OTCA Art Space (140 NW 4th Ave, Portland, 97209)  
+
+Free Admission  
+As part of moon festival celebration in Chinatown  
+
+Details coming soon...
+
 ![]({{ site.url }}/assets/images/activities/artshow2021.jpg)
 ## :ticket: Free Admission :ticket:  :heavy_dollar_sign: Art Work For Sale :heavy_dollar_sign:
 
@@ -53,22 +63,6 @@ Her Instagram is @yidrawing
 JunYing is a retired Architect from China. She loves to spend time with her daughter and grandkids in Portland. She makes various works of art like the cross stitched (⼗字绣) and hand made bags with traditional Chinese flower prints.
 
 Li is JunYing Li’s daughter. Her art work, promptly named Peking Opera Face was inspired by Peking Opera Makeup. Peking Opera Makeup is traditionally painted on the faces of actors in traditional Chinese operas. Each face painting represents a different character. Li used modern materials and colors to represent traditional Peking Opera Makeup.
-
-### Selected Art Works
-
-The Chinatown gallery space has been filled up with incredible works from these Portland-based Asian American artists.
-
-![]({{ site.url }}/assets/images/WeChat Image_20210519213256.jpg)
-
-![]({{ site.url }}/assets/images/WeChat Image_20210519213250.jpg)
-
-![]({{ site.url }}/assets/images/WeChat Image_20210519213243.jpg)
-
-![]({{ site.url }}/assets/images/WeChat Image_20210519213231.jpg)
-
-![]({{ site.url }}/assets/images/WeChat Image_20210522011131.jpg)
-
-![]({{ site.url }}/assets/images/WeChat Image_20210522011331.jpg)
 
 ### 2021 Art Gallery Exhibit Highlight
 
