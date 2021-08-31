@@ -54,7 +54,7 @@ extra:
         url: /youthroundtable/
       - title: "---"
         url:
-      - title: "Art Gallery Exhibit"
+      - title: "<b>Art Gallery & Exhibits</b>"
         url: /artexhibit/
       - title: "Chinatown"
         url: /chinatown/
@@ -62,7 +62,7 @@ extra:
         url: /chinesefestival/
       - title: "Chinese New Year"
         url: /lunarnewyear/
-      - title: "Lantern Festival"
+      - title: "<b>Moon Festival</b>"
         url: /lanternfestival/
       - title: "---"
         url:

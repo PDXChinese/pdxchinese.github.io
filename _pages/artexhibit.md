@@ -6,7 +6,7 @@ feature_row1:
     excerpt: "Wayne H Chin"
 ---
 
-## Chinese American Community Callegraphy and Photography Exhibnit
+## Chinese American Community Calligraphy and Photography Exhibnit
 
 Date: September 16-19, 12pm-6pm  
 Place: OTCA Art Space (140 NW 4th Ave, Portland, 97209)  
@@ -15,6 +15,8 @@ Free Admission
 As part of moon festival celebration in Chinatown  
 
 Details coming soon...
+
+![]({{ site.url }}/assets/images/divider.jpg)
 
 ![]({{ site.url }}/assets/images/activities/artshow2021.jpg)
 ## :ticket: Free Admission :ticket:  :heavy_dollar_sign: Art Work For Sale :heavy_dollar_sign:
