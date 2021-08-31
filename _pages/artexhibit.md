@@ -12,7 +12,7 @@ Date: September 16-19, 12pm-6pm
 Place: OTCA Art Space (140 NW 4th Ave, Portland, 97209)  
 
 Free Admission  
-As part of moon festival celebration in Chinatown  
+As part of [Harvest Moon Festival](https://pdxchinese.org/lanternfestival/) celebration in Chinatown  
 
 Details coming soon...
 
