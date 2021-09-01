@@ -13,7 +13,7 @@ The Harvest Moon Festival, also known as the Mid-Autumn Festival, Moon Festival 
 
 While historically the festival was a time to enjoy the successful reaping of rice and wheat with food offerings made in honor of the moon, today, it is an occasion for outdoor reunions among friends and relatives to eat mooncakes and watch the moon, a symbol of harmony and unity.
 
-A few major community organizations had been collaborating on big celebration but had to cancel due to the pandemic. Instead CCBA and OCC will jointly organize some smaller scale activities on September 18, including moon cake distribution, lion dancing, drum performance, CPOP dancing, [calligraphy and photography exhibit](https://pdxchinese.org/artexhibit/), Chinese Railroad workers exhibit, etc.
+A few major community organizations had been collaborating on big celebration but had to cancel due to the pandemic. Instead CCBA and OCC will jointly organize some smaller scale activities on September 18, including moon cake distribution, lion dancing, drum performance, CPOP dancing, [calligraphy and photography exhibit](https://pdxchinese.org/artexhibit/), and exhibit on history of Chinese railroad workers, etc.
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
