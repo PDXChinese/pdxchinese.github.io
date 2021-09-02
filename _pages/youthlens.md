@@ -24,28 +24,13 @@ Government Relations Liaisons:
 **[Jenny Duan](http://pdxchinese.org/pvsafiles/2020_Jenny_Duan/)**, Jesuit High School  
 **Michelle Wang**, International School of Beaverton  
 
+Youth Lens in Action
 
-**Kyle Chen**, Lincoln High School  
-**[Ray Yang](http://pdxchinese.org/pvsafiles/2020_Ray_Yang/)**, Westview High School  
+![]({{ site.url }}/assets/images/WeChat Image_20210122222742.jpg)
 
-> Portland Cultural Heritage Garden -- Last Respect to Chinese Railroad Labors
+![]({{ site.url }}/assets/images/WeChat Image_20210902095255.jpg)
 
-**Austin Yan**, Lincoln High School  
-**Daniel Xian**, Catlin Gabe School  
-
-> Pandemic's Impact on Youth Mental Health
-
-**Jason Fu**, Sunset High School  
-**Wendy Du**, Sunset High School  
-
-> How Did the Pandemic Affect the Mental Health of Students?
-
-Other Topics Suggested
-
-> The Challenges Faced by Bulk Order Buyers  
-> PPS Plan to Relocate Woodstock Mandarin Program  
-> Group Purchasing and Retail Business  
-> Asian Pantry under pandemic   
+![]({{ site.url }}/assets/images/WeChat Image_20210902093137.jpg)
 
 Resources
 
