@@ -24,6 +24,7 @@ feature_row1:
 > OHA疫苗接种[预约网站](https://covidvaccine.oregon.gov/)，[最新疫情信息](https://www.oregon.gov/oha/erd/pages/covid-19-news.aspx)，及[目前风险程度](https://coronavirus.oregon.gov/Pages/living-with-covid-19.aspx#currentrisklevelbycountymap)  
 > [Oregon Health and Human Services Resources During COVID-19](https://govstatus.egov.com/or-dhs-community-resources)  
 > 连锁药店合作伙伴接种疫苗预约链接：[Walgreen](https://www.walgreens.com/findcare/vaccination/covid-19), [CVS](https://www.cvs.com/immunizations/covid-19-vaccine), [Walmart](https://www.walmart.com/cp/1228302), [FredMeyer](https://www.fredmeyer.com/health/clinic/vaccinations), [Safeway/Albertsons](https://www.safeway.com/pharmacy/covid-19.html), [Costco](https://www.costco.com/covid-vaccine.html), [Health Mart](https://www.healthmartcovidvaccine.com)   
+> [在国外接种疫苗回到美国后应该如何完成接种计划](/assets/images/activities/international_vaccine_series)  
 
 OCC团队将帮助社区成员解决为疫苗接种所在预定，翻译，及交通方面遇到的各种困难，我们的目的就是希望有资格接受疫苗的社区成员都能够尽快接种，最大限度地提高社区成员的群体防疫能力。
 
