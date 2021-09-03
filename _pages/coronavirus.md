@@ -24,7 +24,7 @@ feature_row1:
 > OHA疫苗接种[预约网站](https://covidvaccine.oregon.gov/)，[最新疫情信息](https://www.oregon.gov/oha/erd/pages/covid-19-news.aspx)，及[目前风险程度](https://coronavirus.oregon.gov/Pages/living-with-covid-19.aspx#currentrisklevelbycountymap)  
 > [Oregon Health and Human Services Resources During COVID-19](https://govstatus.egov.com/or-dhs-community-resources)  
 > 连锁药店合作伙伴接种疫苗预约链接：[Walgreen](https://www.walgreens.com/findcare/vaccination/covid-19), [CVS](https://www.cvs.com/immunizations/covid-19-vaccine), [Walmart](https://www.walmart.com/cp/1228302), [FredMeyer](https://www.fredmeyer.com/health/clinic/vaccinations), [Safeway/Albertsons](https://www.safeway.com/pharmacy/covid-19.html), [Costco](https://www.costco.com/covid-vaccine.html), [Health Mart](https://www.healthmartcovidvaccine.com)   
-> [在国外接种疫苗回到美国后应该如何完成接种计划](/assets/images/activities/international_vaccine_series)  
+> [在国外接种疫苗回到美国后应该如何完成接种计划](/assets/images/activities/international_vaccine_series.jpg)  
 
 OCC团队将帮助社区成员解决为疫苗接种所在预定，翻译，及交通方面遇到的各种困难，我们的目的就是希望有资格接受疫苗的社区成员都能够尽快接种，最大限度地提高社区成员的群体防疫能力。
 
@@ -51,10 +51,6 @@ OCC团队将帮助社区成员解决为疫苗接种所在预定，翻译，及�
 > 俄勒冈健康共享(Health Share of Oregon)拨款 (1/1/2021 - 12/31/2021)，会用来帮助完善社区防疫基础设施和对受到疫情影响的社区成员提供一次性救助。
 
 OCC会继续为华人社区申请政府补贴计划，与此同时，如果我们的支持计划暂时无法帮助到您，您可以访问[211网站](https://covid19.211info.org/)，那上面有当地最新最全的补助计划。
-
-## 现场活动
-
-10月25日周日上午11点至下午4点在82街[红茶馆](https://www.google.com/maps/place/HK+Cafe/@45.4904993,-122.5781455,15z/data=!4m2!3m1!1s0x0:0x4c41d7939bfba83a?sa=X&ved=2ahUKEwi6vfflm8XsAhWQt54KHfb7CE0Q_BIwE3oECA8QBQ)门口设置摊位，宣传疫情相关知识和政府针对华人社区因受疫情影响而提供的多项救助计划，包括3个月的房租补贴，500美元一次性现金补贴，针对个人家庭甚至企业团体的健康卫生公平救助款，精神和行为卫生方面的专项救助款，等等。届时对房租和现金补贴会在现场办理一定数量的申请手续，其他救助计划则接受现场面谈。
 
 ## 核酸检测
 
