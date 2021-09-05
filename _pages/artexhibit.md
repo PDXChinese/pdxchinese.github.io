@@ -24,7 +24,7 @@ As part of [Harvest Moon Festival](https://pdxchinese.org/lanternfestival/) cele
 ### Participating Photographers
 
 1. Si Hui (惠思)
-2. Iris (文雯): [Family Photo Site](http://lightbyiris.com), [Wedding Photo Site](http://lovebyirisphotography.com)
+2. Iris (文雯) -- Portfolio: [Family](http://lightbyiris.com), [Wedding](http://lovebyirisphotography.com)
 3. Tie Li (李铁)
 4. Shi Mei (梅石)
 5. Sunny
