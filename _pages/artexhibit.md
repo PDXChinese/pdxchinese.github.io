@@ -29,7 +29,7 @@ Si Hui (惠思)
 Iris (文雯) -- Portfolio: [Family](http://lightbyiris.com), [Wedding](http://lovebyirisphotography.com)  
 Tie Li (李铁)  
 Shi Mei (梅石)  
-Sunny  
+Like Que (却力克)  
 Puqi Tang (唐樸祁)  
 Zike Xu (徐子科)  
 Yi Yin (尹一)  
