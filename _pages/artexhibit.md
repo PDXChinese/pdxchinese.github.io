@@ -6,15 +6,11 @@ feature_row1:
     excerpt: "Wayne H Chin"
 ---
 
-## Calligraphy and Photography Exhibit
+![]({{ site.url }}/assets/images/activities/pp_exhibit_2021.jpg)
 
-Date: September 16-19, 2021 12pm-6pm  
-Place: OTCA Art Space (140 NW 4th Ave, Portland, 97209)  
+### Background
 
--- Free Admission --  
-As part of [Harvest Moon Festival](https://pdxchinese.org/lanternfestival/) celebration in Chinatown  
-
-Most of the artworks are for sale
+Inspired by the success of [Asian Heritage Month Art Gallery Exhibit](https://pdxchinese.org/asian_heritage_month_art_gallery_2021/), we want to ride on the momentumn by holding Full Moon Calligraphy and Photography Exhibit, featuring the works of local Chinese Americans. Some are professionals and others are the enthusiasts. One thing in common is their love to this community that they call home.
 
 ### Participating Calligraphers
 
