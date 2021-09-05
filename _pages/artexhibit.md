@@ -18,23 +18,23 @@ Most of the artworks are for sale
 
 ### Participating Calligraphers
 
-Caixin Huang (黄才鑫)
-Xing Wang (王星)
-Buliang Yan (晏部梁)
-Hanxing Zhao (赵汉兴)
+Caixin Huang (黄才鑫)  
+Xing Wang (王星)  
+Buliang Yan (晏部梁)  
+Hanxing Zhao (赵汉兴)  
 
 ### Participating Photographers
 
-Si Hui (惠思)
-Iris (文雯) -- Portfolio: [Family](http://lightbyiris.com), [Wedding](http://lovebyirisphotography.com)
-Tie Li (李铁)
-Shi Mei (梅石)
-Sunny
-Puqi Tang (唐樸祁)
-Zike Xu (徐子科)
-Yi Yin (尹一)
-Kerry Yu
-Guangchao Zhang (张光超)
+Si Hui (惠思)  
+Iris (文雯) -- Portfolio: [Family](http://lightbyiris.com), [Wedding](http://lovebyirisphotography.com)  
+Tie Li (李铁)  
+Shi Mei (梅石)  
+Sunny  
+Puqi Tang (唐樸祁)  
+Zike Xu (徐子科)  
+Yi Yin (尹一)  
+Kerry Yu  
+Guangchao Zhang (张光超)  
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
