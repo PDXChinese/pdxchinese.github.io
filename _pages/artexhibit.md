@@ -8,9 +8,7 @@ feature_row1:
 
 ![]({{ site.url }}/assets/images/activities/pp_exhibit_2021.jpg)
 
-### Background
-
-Inspired by the success of [Asian Heritage Month Art Gallery Exhibit](https://pdxchinese.org/asian_heritage_month_art_gallery_2021/), we want to ride on the momentumn by holding Full Moon Calligraphy and Photography Exhibit, featuring the works of local Chinese Americans. Some are professionals and others are the enthusiasts. One thing in common is their love to this community that they call home.
+Inspired by the success of [Asian Heritage Month Art Gallery Exhibit](https://pdxchinese.org/asian_heritage_month_art_gallery_2021/), we want to ride on the momentum by holding Full Moon Calligraphy and Photography Exhibit, again featuring the works of local Chinese Americans, some are professionals and others are the enthusiasts. 
 
 ### Participating Calligraphers
 
