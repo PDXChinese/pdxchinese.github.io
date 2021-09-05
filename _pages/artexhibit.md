@@ -24,15 +24,15 @@ As part of [Harvest Moon Festival](https://pdxchinese.org/lanternfestival/) cele
 ### Participating Photographers
 
 1. Si Hui (惠思)
-2. Tie Li (李铁)
-3. Shi Mei (梅石)
-4. Puqi Tang (唐樸祁)
-5. Zike Xu (徐子科)
-6. Yi Yin (尹一)
-7. Kerry Yu
-8. Guangchao Zhang (张光超)
-9. 文雯 Iris [Family Photos](http://lightbyiris.com), [Wedding Photos](http://lovebyirisphotography.com)
-10. Sunny
+2. Iris (文雯): [Family Photo Site](http://lightbyiris.com), [Wedding Photo Site](http://lovebyirisphotography.com)
+3. Tie Li (李铁)
+4. Shi Mei (梅石)
+5. Sunny
+6. Puqi Tang (唐樸祁)
+7. Zike Xu (徐子科)
+8. Yi Yin (尹一)
+9. Kerry Yu
+10. Guangchao Zhang (张光超)
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
