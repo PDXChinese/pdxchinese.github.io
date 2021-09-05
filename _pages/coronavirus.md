@@ -21,8 +21,8 @@ feature_row1:
 
 ## 疫苗接种相关信息
 
-> OHA COVID-19[]最新更新](https://govstatus.egov.com/OR-OHA-COVID-19)  
-> DHS提供的各类[与COVID-9相关资源](https://govstatus.egov.com/or-dhs-community-resources)  
+> OHA COVID-19[最新更新](https://govstatus.egov.com/OR-OHA-COVID-19)  
+> DHS提供的[各类与COVID-9相关资源](https://govstatus.egov.com/or-dhs-community-resources)  
 > 连锁药店合作伙伴接种疫苗预约链接：[Walgreen](https://www.walgreens.com/findcare/vaccination/covid-19), [CVS](https://www.cvs.com/immunizations/covid-19-vaccine), [Walmart](https://www.walmart.com/cp/1228302), [FredMeyer](https://www.fredmeyer.com/health/clinic/vaccinations), [Safeway/Albertsons](https://www.safeway.com/pharmacy/covid-19.html), [Costco](https://www.costco.com/covid-vaccine.html), [Health Mart](https://www.healthmartcovidvaccine.com)  
 > Multnomah County[疫苗接种专场](https://www.multco.us/novel-coronavirus-covid-19/upcoming-covid-19-vaccination-clinics)  
 > 在国外接种疫苗回到美国后[应该如何完成接种计划](/assets/images/activities/international_vaccine_series.jpg)  
