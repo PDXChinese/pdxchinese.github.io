@@ -14,7 +14,25 @@ Place: OTCA Art Space (140 NW 4th Ave, Portland, 97209)
 -- Free Admission --  
 As part of [Harvest Moon Festival](https://pdxchinese.org/lanternfestival/) celebration in Chinatown  
 
-Details coming soon...
+### Participating Calligraphers
+
+1. Caixin Huang (黄才鑫)
+2. Xing Wang (王星)
+3. Buliang Yan (晏部梁)
+4. Hanxing Zhao (赵汉兴)
+
+### Participating Photographers
+
+1. Si Hui (惠思)
+2. Tie Li (李铁)
+3. Shi Mei (梅石)
+4. Puqi Tang (唐樸祁)
+5. Zike Xu (徐子科)
+6. Yi Yin (尹一)
+7. Kerry Yu
+8. Guangchao Zhang (张光超)
+9. 文雯 Iris [Family Photos](http://lightbyiris.com), [Wedding Photos](http://lovebyirisphotography.com)
+10. Sunny
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
