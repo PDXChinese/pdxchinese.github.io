@@ -8,7 +8,7 @@ feature_row1:
 
 ![]({{ site.url }}/assets/images/activities/pp_exhibit_2021.jpg)
 
-Inspired by the success of [Asian Heritage Month Art Gallery Exhibit](https://pdxchinese.org/asian_heritage_month_art_gallery_2021/), we want to ride on the momentum by holding Full Moon Calligraphy and Photography Exhibit, again featuring the works of local Chinese Americans, some are professionals and others are the enthusiasts. 
+Inspired by the success of [Asian Heritage Month Art Gallery Exhibit](https://pdxchinese.org/asian_heritage_month_art_gallery_2021/), we want to ride on the momentum by holding Full Moon Calligraphy and Photography Exhibit, again featuring the works of local Chinese Americans, some are professionals and others are the enthusiasts.
 
 ### Participating Calligraphers
 
@@ -21,6 +21,7 @@ Hanxing Zhao (赵汉兴)
 
 Si Hui (惠思)  
 Iris (文雯) -- Portfolio: [Family](http://lightbyiris.com), [Wedding](http://lovebyirisphotography.com)  
+Limei Lai (赖丽梅)  
 Tie Li (李铁)  
 Shi Mei (梅石)  
 Like Que (却力克)  
