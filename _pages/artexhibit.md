@@ -31,6 +31,8 @@ Yi Yin (尹一)
 Kerry Yu  
 Guangchao Zhang (张光超)  
 
+![]({{ site.url }}/assets/images/activities/artspace1.jpg)
+
 ![]({{ site.url }}/assets/images/divider.jpg)
 
 ![]({{ site.url }}/assets/images/activities/artshow2021.jpg)
