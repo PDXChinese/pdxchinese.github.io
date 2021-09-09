@@ -15,16 +15,16 @@ Production Manager: Guangchao Zhang
 Journalism Mentors: Christine Pitawanich  
 Government Relations Liaisons:  
 
-[Youth Journalist Application](https://docs.google.com/forms/d/e/1FAIpQLScK3ahKKd_XjBtZNlOqSQhaRgjLDolodXpg9dIBx3lLu3mbWg/viewform?usp=sf_link) (Highschool and college students only)
+**[Youth Journalist Application]**(https://docs.google.com/forms/d/e/1FAIpQLScK3ahKKd_XjBtZNlOqSQhaRgjLDolodXpg9dIBx3lLu3mbWg/viewform?usp=sf_link) (Highschool and college students only)
 
 <iframe width="1070" height="602" src="https://www.youtube.com/embed/N98gtCZJUsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="1070" height="602" src="https://www.youtube.com/embed/IPs36aEPRRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**[Jenny Duan](http://pdxchinese.org/pvsafiles/2020_Jenny_Duan/)**, Jesuit High School  
-**Michelle Wang**, International School of Beaverton  
+[Jenny Duan](http://pdxchinese.org/pvsafiles/2020_Jenny_Duan/), Jesuit High School  
+Michelle Wang, International School of Beaverton  
 
-Youth Lens in Action
+### Youth Lens in Action
 
 ![]({{ site.url }}/assets/images/WeChat Image_20210122222742.jpg)
 
@@ -32,7 +32,7 @@ Youth Lens in Action
 
 ![]({{ site.url }}/assets/images/WeChat Image_20210902093137.jpg)
 
-Resources
+### Resources
 
 > [The Youth's Lens](https://theyouthslens.com/)  
 > [Youth Journalism International](http://www.youthjournalism.org/)  
@@ -55,6 +55,7 @@ Writing Lessons
 
 Exemplary News Video from [Christine Pitawanich](https://www.facebook.com/cpitawanich/)
 
-Blogs
+### Blogs
 
+> [Youth Lens关注疫情之下本地小企业](https://pdxchinese.org/youth_lense_visit_orox/) (08.31.2021)  
 > [First Interview of Youth Lens](http://pdxchinese.org/launching_youth_lens/) (01.22.2021)  
