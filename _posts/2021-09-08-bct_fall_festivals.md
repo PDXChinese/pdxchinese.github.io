@@ -13,6 +13,6 @@ date: "2021-09-08"
 
 ![]({{ site.url }}/assets/images/activities/WeChat Image_20210908172847.png)
 
-![]({{ site.url }}/assets/images/activities/WeChat Image_20210914100054.jpg)
+![]({{ site.url }}/assets/images/WeChat Image_20210914100054.jpg)
 
-![]({{ site.url }}/assets/images/activities/WeChat Image_20210914100120.jpg)
+![]({{ site.url }}/assets/images/WeChat Image_20210914100120.jpg)
