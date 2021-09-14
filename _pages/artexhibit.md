@@ -13,6 +13,7 @@ Inspired by the success of [Asian Heritage Month Art Gallery Exhibit](https://pd
 ### Participating Calligraphers
 
 Caixin Huang (黄才鑫)  
+Weili Liu (微力)  
 Xing Wang (王星)  
 Buliang Yan (晏部梁)  
 Hanxing Zhao (赵汉兴)  
@@ -25,7 +26,6 @@ Limei Lai (赖丽梅)
 Tie Li (李铁)  
 Shi Mei (梅石)  
 Like Que (却力克)  
-Puqi Tang (唐樸祁)  
 Zike Xu (徐子科)  
 Yi Yin (尹一)  
 Kerry Yu  
