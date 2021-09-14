@@ -54,7 +54,3 @@ date: "2021-09-11"
 ![]({{ site.url }}/assets/images/WeChat Image_20210914102326.jpg)
 
 ![]({{ site.url }}/assets/images/WeChat Image_20210914102332.jpg)
-
-![]({{ site.url }}/assets/images/WeChat Image_20210914100054.jpg)
-
-![]({{ site.url }}/assets/images/WeChat Image_20210914100120.jpg)
