@@ -26,8 +26,8 @@ Limei Lai (赖丽梅)
 Tie Li (李铁)  
 Shi Mei (梅石)  
 Like Que (却力克)  
+Deon Tan (谭明敏)  
 Zike Xu (徐子科)  
-Yi Yin (尹一)  
 Kerry Yu  
 Guangchao Zhang (张光超)  
 
