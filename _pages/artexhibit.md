@@ -31,7 +31,11 @@ Zike Xu (徐子科)
 Kerry Yu  
 Guangchao Zhang (张光超)  
 
-![]({{ site.url }}/assets/images/activities/artspace1.jpg)
+### 2021 Full Moon Calligraphy and Photography Exhibit Highlights
+
+[https://pdxchinese.org/mid-autumn_celebration_2021/](https://pdxchinese.org/mid-autumn_celebration_2021/)  
+[https://www.instagram.com/tv/CT-5bLEIeWo/?utm_source=ig_web_copy_link](https://www.instagram.com/tv/CT-5bLEIeWo/?utm_source=ig_web_copy_link)  
+
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
