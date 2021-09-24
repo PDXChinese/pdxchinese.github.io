@@ -19,7 +19,8 @@ A few community organizations in Old Town/Chinatown had been collaboratively pla
 
 ### 2020
 
-Lantern Ferstival in Chinatown ([10.01.2020](https://pdxchinese.org/lantern_festival_2020/))
+Mid-Autumn Festival in Chinatown ([09.16.2021-09.19.2021](https://pdxchinese.org/mid-autumn_celebration_2021/))  
+Lantern Ferstival in Chinatown ([10.01.2020](https://pdxchinese.org/lantern_festival_2020/))  
 
 Hanging Red Lanterns in Chinatown ([01.08.2020](http://pdxchinese.org/chinatown/newyear/2020-01-09-chinatown_lantern_festival_2020a/))  
 Hanging Red Lanterns in Chinatown ([02.12.2020](http://pdxchinese.org/chinatown/newyear/2020-01-12-chinatown_lantern_festival_2020b/))  
