@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /artscontest/
+permalink: /artcontest/
 ---
 
 ### Program Overview:
