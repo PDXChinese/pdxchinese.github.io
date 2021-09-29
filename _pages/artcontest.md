@@ -55,10 +55,10 @@ We request that youth entering the contest find ways to explore nature, in ways 
 -	The six judges will represent members from The Friends of TRNWRC, USFWS/TRNWRC and the OCC  
 -	Judges will utilize a rubric when evaluating the submission. Value will be placed on creative expression, overall impact and technique. In the result of a tie, the winner will be determined by the President of the Friends.  
 -	Artwork will be judged by group level as follows:  
-  * Grades K-3  
-  * Grades 4-6  
-  * Grades 7-9  
-  *	Grades 10-12  
+  - Grades K-3  
+  - Grades 4-6  
+  - Grades 7-9  
+  -	Grades 10-12  
 -	Awards will be selected by level. Each level will have a First Place, Second Place and Third Place winner, one each. There can be up to 4 Honorable mentions, depending on the number of entries. One entry will be selected as “Best of Show”  
 
 ### Recognition:
@@ -70,8 +70,8 @@ We request that youth entering the contest find ways to explore nature, in ways 
 
 ### Return of Entries:
 
--	The returning of all entries will be coordinated by the OCC after the exhibition at the Art Space in January of 2022. Every effort will be made to safely return artwork to the student. The Friends, USFWS and the OCC will not be liable for any work that is damaged or lost during this competition. All unclaimed entries will be disposed of 30 days after the January art expedition ends.
+The returning of all entries will be coordinated by the OCC after the exhibition at the Art Space in January of 2022. Every effort will be made to safely return artwork to the student. The Friends, USFWS and the OCC will not be liable for any work that is damaged or lost during this competition. All unclaimed entries will be disposed of 30 days after the January art expedition ends.
 
 ### Rights of Images:
 
--	Winners (Best of Show, 1st-3rd place by level) will be required to sign the USFWS Agreement for use of likeness in Audio/Visual Product and hereby grant permission The Friends, USFWS and OCC the right to use the image and /or likeness from this event for promotional and philanthropic purposes.
+Winners (Best of Show, 1st-3rd place by level) will be required to sign the USFWS Agreement for use of likeness in Audio/Visual Product and hereby grant permission The Friends, USFWS and OCC the right to use the image and /or likeness from this event for promotional and philanthropic purposes.
