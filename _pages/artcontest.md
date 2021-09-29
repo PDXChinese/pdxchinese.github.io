@@ -1,5 +1,5 @@
 ---
-title: "Friends of the Refuge Art Competition with the Oregon Chinese Coalition in conjunction with the Tualatin River National Wildlife Refuge Complex"
+title: "Youth Art Contest"
 permalink: /artcontest/
 ---
 
@@ -24,6 +24,7 @@ The Oregon Chinese Coalition (OCC) aims to provide an Art Competition for their 
 > Attention: Friends of TRNWRC c/o Bonnie Anderson
 >	19255 SW Pacific Hwy, Sherwood, OR 97140
 
+- Copy of filled [Offcial Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link) is required to submit with the artwork   
 -	Judging will occur the week of January 3rd, 2022  
 -	After judging, submissions will be displayed in the Visitor Center at Tualatin River NWR (pending the Visitor Center being open)  
 -	On 1/19/2022 the submissions will be picked up by the OCC and taken to be displayed in the OTCA Art Space in China Town (pending approval from the Center)  
@@ -54,11 +55,7 @@ We request that youth entering the contest find ways to explore nature, in ways 
 -	All phases of judging will be open to general public (unless COVID restrictions do not allow for large numbers in a room at a time).  
 -	The six judges will represent members from The Friends of TRNWRC, USFWS/TRNWRC and the OCC  
 -	Judges will utilize a rubric when evaluating the submission. Value will be placed on creative expression, overall impact and technique. In the result of a tie, the winner will be determined by the President of the Friends.  
--	Artwork will be judged by group level as follows:  
-  - Grades K-3  
-  - Grades 4-6  
-  - Grades 7-9  
-  -	Grades 10-12  
+-	Artwork will be judged by group level as follows: Grades K-3, Grades 4-6, Grades 7-9, Grades 10-12  
 -	Awards will be selected by level. Each level will have a First Place, Second Place and Third Place winner, one each. There can be up to 4 Honorable mentions, depending on the number of entries. One entry will be selected as “Best of Show”  
 
 ### Recognition:
