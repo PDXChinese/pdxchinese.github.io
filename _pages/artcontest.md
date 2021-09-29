@@ -21,8 +21,10 @@ The Oregon Chinese Coalition (OCC) aims to provide an Art Competition for their 
 ### Entry Deadlines and Key Dates:
 
 -	Submission of entries must be post-marked or delivered by 12/20/2021 to Tualatin River National Wildlife Refuge. No late entries will be considered.  
-> Attention: Friends of TRNWRC c/o Bonnie Anderson
->	19255 SW Pacific Hwy, Sherwood, OR 97140
+> Attention: Friends of TRNWRC  
+> c/o Bonnie Anderson  
+>	19255 SW Pacific Hwy  
+> Sherwood, OR 97140  
 
 - Copy of filled [Offcial Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link) is required to submit with the artwork   
 -	Judging will occur the week of January 3rd, 2022  
