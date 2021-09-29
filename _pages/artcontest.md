@@ -55,10 +55,10 @@ We request that youth entering the contest find ways to explore nature, in ways 
 -	The six judges will represent members from The Friends of TRNWRC, USFWS/TRNWRC and the OCC  
 -	Judges will utilize a rubric when evaluating the submission. Value will be placed on creative expression, overall impact and technique. In the result of a tie, the winner will be determined by the President of the Friends.  
 -	Artwork will be judged by group level as follows:  
-  - Sub	Grades K-3  
-  - Sub	Grades 4-6  
-  - Sub	Grades 7-9  
-  - Sub	Grades 10-12  
+  * Grades K-3  
+  * Grades 4-6  
+  * Grades 7-9  
+  *	Grades 10-12  
 -	Awards will be selected by level. Each level will have a First Place, Second Place and Third Place winner, one each. There can be up to 4 Honorable mentions, depending on the number of entries. One entry will be selected as “Best of Show”  
 
 ### Recognition:
