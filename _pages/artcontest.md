@@ -19,13 +19,13 @@ The Oregon Chinese Coalition (OCC) aims to provide an Art Contest for the commun
 
 ### Contest Eligibility:
 
--	This is a pilot program and with planning occurring directly with the OCC, the Friends and the Refuge. The initial year’s contest will be solely for youth within the Chinese community. Specifically, the Chinese community that interacts with the OCC.  
+-	This is a pilot program and with planning occurring directly with the OCC, the Friends and the Refuge. The initial year’s contest will be solely for youth within the Chinese community.  
 -	This contest will be open to youth from K-12 grade  
 -	Only one entry per participant will be allowed  
 
 ### Entry Deadlines and Key Dates:
 
--	Submission of entries must be post-marked or delivered by 12/20/2021 to Tualatin River National Wildlife Refuge. No late entries will be considered. Copy of filled [Offcial Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link) is required to submit with the artwork。     
+-	Submission of entries must be post-marked or delivered by 12/20/2021 to Tualatin River National Wildlife Refuge. No late entries will be considered. Contestants neesd to fill out [Offcial Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link) and a copy of it is required to submit with the artwork。     
 > Attention: Friends of TRNWRC  
 > c/o Bonnie Anderson  
 >	19255 SW Pacific Hwy  
