@@ -1,6 +1,11 @@
 ---
 title: "Youth Art Contest"
 permalink: /artcontest/
+feature_row:
+- image_path: /assets/images/activities/fws.jpg
+- image_path: /assets/images/logo/for.jpg
+- image_path: /assets/images/logo/occ.png
+
 ---
 
 ### Program Overview:
@@ -20,13 +25,12 @@ The Oregon Chinese Coalition (OCC) aims to provide an Art Contest for the commun
 
 ### Entry Deadlines and Key Dates:
 
--	Submission of entries must be post-marked or delivered by 12/20/2021 to Tualatin River National Wildlife Refuge. No late entries will be considered.  
+-	Submission of entries must be post-marked or delivered by 12/20/2021 to Tualatin River National Wildlife Refuge. No late entries will be considered. Copy of filled [Offcial Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link) is required to submit with the artwork。     
 > Attention: Friends of TRNWRC  
 > c/o Bonnie Anderson  
 >	19255 SW Pacific Hwy  
 > Sherwood, OR 97140  
 
-- Copy of filled [Offcial Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link) is required to submit with the artwork   
 -	Judging will occur the week of January 3rd, 2022  
 -	After judging, submissions will be displayed in the Visitor Center at Tualatin River NWR (pending the Visitor Center being open)  
 -	On 1/19/2022 the submissions will be picked up by the OCC and taken to be displayed in the OTCA Art Space in China Town (pending approval from the Center)  
@@ -75,7 +79,7 @@ The returning of all entries will be coordinated by the OCC after the exhibition
 
 Winners (Best of Show, 1st-3rd place by level) will be required to sign the USFWS Agreement for use of likeness in Audio/Visual Product and hereby grant permission The Friends, USFWS and OCC the right to use the image and /or likeness from this event for promotional and philanthropic purposes.
 
-![]({{ site.url }}/assets/images/divider.jpg)
+{% include feature_row id="feature_row"%}
 
 # 图拉丁河国家野生动物保护区，保护区之友及俄勒冈华人联盟联合举办青少年绘画比赛
 
@@ -96,7 +100,7 @@ Winners (Best of Show, 1st-3rd place by level) will be required to sign the USFW
 
 ### 投稿截止日期
 
--	提交的参赛作品必须在 2021 年 12 月 20 日之前邮寄(以邮戳为准)或交付至图拉丁河国家野生动物保护区。迟到的参赛作品将不被考虑。
+-	提交的参赛作品必须在 2021 年 12 月 20 日之前邮寄(以邮戳为准)或交付至图拉丁河国家野生动物保护区。迟到的参赛作品将不被考虑。填写[参赛表格](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)，并打印出一份随作品一同提交。
 > Attention: Friends of TRNWRC  
 > c/o Bonnie Anderson  
 >	19255 SW Pacific Hwy  
