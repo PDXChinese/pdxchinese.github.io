@@ -3,7 +3,7 @@ title: "Youth Art Contest"
 permalink: /artcontest/
 feature_row:
 - image_path: /assets/images/activities/fws.jpg
-- image_path: /assets/images/logo/for.jpg
+- image_path: /assets/images/activities/for.jpg
 - image_path: /assets/images/logo/occ.png
 
 ---
