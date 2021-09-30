@@ -1,5 +1,5 @@
 ---
-title: "Youth Art Contest"
+title: "2021 Youth Art Contest"
 permalink: /artcontest/
 feature_row:
 - image_path: /assets/images/activities/for.jpg
