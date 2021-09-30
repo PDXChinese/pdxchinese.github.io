@@ -5,17 +5,17 @@ permalink: /artcontest/
 
 ### Program Overview:
 
-The Oregon Chinese Coalition (OCC) aims to provide an Art Competition for their community in collaboration with the [Friends of Tualatin River NWRC](https://fotr.wildapricot.org/) (Friends) and the [Tualatin River NWRC](https://www.fws.gov/refuge/Tualatin_River/) (Refuge). The goals of the program are intended to assist in the following ways:
+The Oregon Chinese Coalition (OCC) aims to provide an Art Contest for the community in collaboration with the [Friends of Tualatin River NWRC](https://fotr.wildapricot.org/) (Friends) and the [Tualatin River NWRC](https://www.fws.gov/refuge/Tualatin_River/) (Refuge). The goals of the program are intended to assist in the following ways:
 
 1.	Bring awareness and engagement between the Chinese community and nature conservation, directly through this collaboration.
 2.	Provide a new opportunity for Chinese youth to creatively express their voice in how they see themselves in nature.
 3.	Excite Chinese youth, involved with the OCC, about nature and encourage them to explore it more.
 4.	Provide opportunities to the community that connect the idea of nature can be a place of healing.
 
-### Competition Eligibility:
+### Contest Eligibility:
 
--	This is a pilot program and with planning occurring directly with the OCC, the Friends and the Refuge. The initial year’s competition will be solely for youth within the Chinese community. Specifically, the Chinese community that interacts with the OCC.  
--	This competition will be open to youth from K-12 grade  
+-	This is a pilot program and with planning occurring directly with the OCC, the Friends and the Refuge. The initial year’s contest will be solely for youth within the Chinese community. Specifically, the Chinese community that interacts with the OCC.  
+-	This contest will be open to youth from K-12 grade  
 -	Only one entry per participant will be allowed  
 
 ### Entry Deadlines and Key Dates:
@@ -69,7 +69,7 @@ We request that youth entering the contest find ways to explore nature, in ways 
 
 ### Return of Entries:
 
-The returning of all entries will be coordinated by the OCC after the exhibition at the Art Space in January of 2022. Every effort will be made to safely return artwork to the student. The Friends, USFWS and the OCC will not be liable for any work that is damaged or lost during this competition. All unclaimed entries will be disposed of 30 days after the January art expedition ends.
+The returning of all entries will be coordinated by the OCC after the exhibition at the Art Space in January of 2022. Every effort will be made to safely return artwork to the student. The Friends, USFWS and the OCC will not be liable for any work that is damaged or lost during this contest. All unclaimed entries will be disposed of 30 days after the January art expedition ends.
 
 ### Rights of Images:
 
