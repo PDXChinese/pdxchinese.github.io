@@ -55,7 +55,7 @@ The Oregon Chinese Coalition (OCC) aims to provide an Art Contest for the commun
 
 The purpose of this activity is to encourage youth to get outdoors with their families. Therefore, the submitted artwork must be focused around an individual’s experience in nature. It is asked of the contestants that part of your process needs to be spending time in nature to become inspired. The hope is that individuals will come to understand that nature is everywhere. It can be found in their backyard, down the block, at their school, or in a designated space like a refuge. To provide some guidance of the topic to consider, the committee has posed a question to reflect on as contestants imagine what they want to create. Think about and reflect on this:
 
-<b>“The Wonder of Nature”</b>
+<p align="center"><b>“The Wonder of Nature”</b></p>
 
 We request that youth entering the contest find ways to explore nature, in ways that they are able to, in order to find what inspires them. This is important as one of the submission rules is to provide a written explanation of their experience and where their inspiration came from while spending time (in whatever way they can) with nature. This write needs to be 150 or less and help the judges understand why the contestant created the piece they submitted. The submission needs to be provided when handing over the artwork.
 
@@ -130,7 +130,7 @@ Winners (Best of Show, 1st-3rd place by level) will be required to sign the USFW
 
 此活动的目的是鼓励青少年与家人一起到户外活动。因此，提交的绘画作品必须围绕个人的自然体验。要求参赛者在创作过程中一部分需要在大自然中花费时间才能受到启发。希望个人能够理解自然无处不在。它可以在他们的后院、街区、学校或保护区（如Refuge）中找到。为了对要考虑的主题提供一些指导，评委会提出了一个问题，供参赛者在想象他们想要创造什么时反思：
 
-<b>“大自然的奇迹”</b>
+<p align="center"><b>“大自然的奇迹”</b></p>
 
 我们要求参加比赛的青少年找到探索自然的方式，以他们能够做到的方式，找到激发他们灵感的东西。这很重要，因为参赛规则之一是以书面形式解释他们的经历以及他们在与大自然共度时光（以任何方式）时的灵感来源。这篇文章需要 150个字或更少，帮助评委理解参赛者为什么创作他们提交的作品。
 
