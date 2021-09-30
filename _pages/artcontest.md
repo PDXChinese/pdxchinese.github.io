@@ -35,6 +35,7 @@ The Oregon Chinese Coalition (OCC) aims to provide an Art Contest for the commun
 -	After judging, submissions will be displayed in the Visitor Center at Tualatin River NWR (pending the Visitor Center being open)  
 -	On 1/19/2022 the submissions will be picked up by the OCC and taken to be displayed in the OTCA Art Space in China Town (pending approval from the Center)  
 -	Submissions will be displayed there for 10 days  
+- The artworks with awards will be displayed in Chinese Festival at Pioneer Courthouse Square on 8/6/2022  
 
 ### Contest Rules:
 
@@ -95,20 +96,21 @@ Winners (Best of Show, 1st-3rd place by level) will be required to sign the USFW
 ### 参赛资格：
 
 -	这是一个试点项目，由 OCC、Friends和Refuge共同筹办。第一年比赛将只向华人社区开放。  
--	本次比赛面向 K-12 年级的青少年  
+-	本次比赛面向K-12年级的青少年  
 -	每位参赛者只允许提供一幅作品  
 
 ### 投稿截止日期
 
--	提交的参赛作品必须在 2021 年 12 月 20 日之前邮寄(以邮戳为准)或交付至图拉丁河国家野生动物保护区。迟到的参赛作品将不被考虑。填写[参赛表格](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)，并打印出一份随作品一同提交。
+-	提交的参赛作品必须在2021年12月20日之前邮寄(以邮戳为准)或交付至图拉丁河国家野生动物保护区。迟到的参赛作品将不被考虑。填写[参赛表格](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)，并打印出一份随作品一同提交。
 > Attention: Friends of TRNWRC  
 > c/o Bonnie Anderson  
 >	19255 SW Pacific Hwy  
 > Sherwood, OR 97140  
 
--	评审将在 2022 年 1 月 3 日那一周进行
--	评审后，提交的作品将在 Refuge的访客中心展出（取决于访客中心是否开放）
--	2022 年 1 月 19 日，OCC 将接收提交的作品，并在唐人街的 OTCA 艺术空间展出（等待社区协会的批准）
+-	评审将在2022年1月3日那一周进行  
+-	评审后，提交的作品将在 Refuge的访客中心展出（取决于访客中心是否开放）  
+-	2022年1月19日，OCC将接收提交的作品，并在唐人街的OTCA艺术空间展出（等待社区协会的批准）  
+- 2022年8月6日获奖作品会在先锋广场华人文化节展出  
 
 ### 比赛规则：
 
@@ -120,7 +122,7 @@ Winners (Best of Show, 1st-3rd place by level) will be required to sign the USFW
 -	作品周边不要求有边框
 -	可以用一张非固定的封面放在作品表面上以在运输时保护它。也可以用固定剂喷洒粉笔和粉彩材料，以消除作品运输过程中可能出现的划痕和污迹。
 -	作品正面不得出现字母、文字、签名或首字母缩写。这将导致取消资格。
--	提交必须附有书面信息（不超过 150 字），说明是什么启发了他们的绘画作品。有关此的更多信息如下。
+-	提交必须附有书面信息（不超过150字），说明是什么启发了他们的绘画作品。有关此的更多信息如下。
 
 ### 艺术主题和信息：
 
@@ -132,23 +134,23 @@ Winners (Best of Show, 1st-3rd place by level) will be required to sign the USFW
 
 ### 评选：
 
--	评审的所有阶段都将向公众开放（除非 COVID 限制不允许一次在一个房间内容纳大量人数）
--	六位评委将来自 The Friends、USFWS/TRNWRC 和 OCC
+-	评审的所有阶段都将向公众开放（除非COVID限制不允许一次在一个房间内容纳大量人数）
+-	六位评委将来自The Friends、USFWS/TRNWRC和OCC
 -	评委将在评估参赛作品时使用一个既定标准。重点会放在创造性表达、整体影响和技术上。如果出现平局的结果，获胜者将由之友主席决定。
--	作品将按以下小组级别进行评判：K-3 年级，4-6年级，7-9年级，10-12年级
--	奖项将按级别评选。每个级别将有第一名、第二名和第三名获胜者，各一个。根据参赛作品的数量，最多可以有 4 个荣誉提及。一个作品将被选为“最佳作品”。
+-	作品将按以下小组级别进行评判：K-3年级，4-6年级，7-9年级，10-12年级
+-	奖项将按级别评选。每个级别将有第一名、第二名和第三名获胜者，各一个。根据参赛作品的数量，最多可以有4个荣誉提及。一个作品将被选为“最佳作品”。
 
 ### 奖励：
 
--	所有参赛作品将收到来自 由The Friends、Refuge 和 OCC共同签发的证书
+-	所有参赛作品将收到来自The Friends、Refuge和OCC共同签发的证书
 -	每一个荣誉奖都将获得一张特别的认可证书
 -	每一位一、二、三等奖获得者都将获得由The Friends提供的特别认可证书、绶带和奖品。
--	“最佳作品”获胜者将获得 OCC 颁发的 500 美元奖金
+-	“最佳作品”获胜者将获得OCC颁发的500美元奖金
 
 ### 作品归还：
 
-所有参赛作品的归还将由 OCC 于 2022 年 1 月在艺术空间展出后进行协调。将尽一切努力将作品安全归还给作者。The Friends, USFWS 和 OCC 对本次比赛中损坏或丢失的任何作品概不负责。所有无人认领的参赛作品将在 1 月作品展出结束后 30 天由OCC自行处理。
+所有参赛作品的归还将由OCC于2022年1月在艺术空间展出后进行协调。将尽一切努力将作品安全归还给作者。The Friends, USFWS和OCC对本次比赛中损坏或丢失的任何作品概不负责。所有无人认领的参赛作品将在1月作品展出结束后30天由OCC自行处理。
 
 ### 图像权:
 
-获胜者（最佳作品，第 1-3 名）将需要签署 USFWS 协议以在视听产品中使用图像，并在此授予 The Friends、USFWS 和 OCC 使用出于宣传和慈善目的而从本次活动中获得图像。
+获胜者（最佳作品，第1-3名）将需要签署USFWS协议以在视听产品中使用图像，并在此授予The Friends、USFWS和OCC使用出于宣传和慈善目的而从本次活动中获得图像。
