@@ -2,8 +2,8 @@
 title: "Youth Art Contest"
 permalink: /artcontest/
 feature_row:
-- image_path: /assets/images/activities/fws.jpg
 - image_path: /assets/images/activities/for.jpg
+- image_path: /assets/images/activities/fws.jpg
 - image_path: /assets/images/logo/occ.png
 
 ---
@@ -101,7 +101,7 @@ Winners (Best of Show, 1st-3rd place by level) will be required to sign the USFW
 
 ### 投稿截止日期
 
--	提交的参赛作品必须在2021年12月20日之前邮寄(以邮戳为准)或交付至图拉丁河国家野生动物保护区。迟到的参赛作品将不被考虑。填写[参赛表格](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)，并打印出一份随作品一同提交。
+-	提交的参赛作品必须在2021年12月20日之前邮寄(以邮戳为准)或交付至图拉丁河国家野生动物保护区。迟到的参赛作品将不被考虑。参赛者需填写[参赛表格](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)，并打印出一份随作品一同提交。
 > Attention: Friends of TRNWRC  
 > c/o Bonnie Anderson  
 >	19255 SW Pacific Hwy  
