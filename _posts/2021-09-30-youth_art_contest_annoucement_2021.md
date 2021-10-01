@@ -5,7 +5,7 @@ excerpt: "不久前在野生保护区的集体义工活动在很大程度上增�
 date: "2021-09-30"
 feature_row:
 - image_path: /assets/images/activities/for.jpg
-- image_path: /assets/images/activities/fws.jpg
+- image_path: /assets/images/activities/trnwr.jpg
 - image_path: /assets/images/logo/occ.png
 
 ---
