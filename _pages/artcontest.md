@@ -3,9 +3,8 @@ title: "2021 Youth Art Contest"
 permalink: /artcontest/
 feature_row:
 - image_path: /assets/images/activities/for.jpg
-- image_path: /assets/images/activities/fws.jpg
 - image_path: /assets/images/logo/occ.png
-
+- image_path: /assets/images/activities/trnwr.jpg
 ---
 
 **中文信息在此页面的下半部分**
