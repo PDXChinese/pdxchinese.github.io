@@ -9,6 +9,9 @@ feature_row:
 
 **中文信息在此页面的下半部分**
 
+[Press Announcement]((/assets/pdf/artcontest2021.pdf))  
+[Official Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)  
+
 ### Program Overview:
 
 The Oregon Chinese Coalition (OCC) aims to provide an Art Contest for the community in collaboration with the [Friends of Tualatin River NWRC](https://fotr.wildapricot.org/) (Friends) and the [Tualatin River NWRC](https://www.fws.gov/refuge/Tualatin_River/) (Refuge). The goals of the program are intended to assist in the following ways:
