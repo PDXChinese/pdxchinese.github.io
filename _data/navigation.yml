@@ -22,6 +22,8 @@ main:
 extra:
   - title:
     children:
+      - title: "Auction"
+        url: /Auction/
       - title: "Mental Health"
         url: /mentalhealth/
       - title: "Volunteering"
