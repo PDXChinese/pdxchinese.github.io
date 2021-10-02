@@ -17,3 +17,5 @@ feature_row:
 提交的参赛作品必须在2021年12月20日之前邮寄(以邮戳为准)或交付至Tualatin River国家野生动物保护区。所有符合参赛作品将分别在保护区访客中心和唐人街的OTCA艺术空间展出。届时我们各方都会做好宣传工作，希望把影响做到最大。获奖作品则也会在先锋广场文化节展出。
 
 {% include feature_row id="feature_row"%}
+
+<iframe src="{{ site.url }}/assets/pdf/artcontest2021.pdf" style="width: 100%; height: 600px"></iframe>
