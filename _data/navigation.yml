@@ -22,8 +22,6 @@ main:
 extra:
   - title:
     children:
-      - title: "Auction"
-        url: /Auction/
       - title: "Mental Health"
         url: /mentalhealth/
       - title: "Volunteering"
@@ -66,6 +64,8 @@ extra:
         url: /chinesefestival/
       - title: "Chinese New Year"
         url: /lunarnewyear/
+      - title: "Culture Auction"
+        url: /auction/
       - title: "Mid-Autumn Festival"
         url: /lanternfestival/
       - title: "---"

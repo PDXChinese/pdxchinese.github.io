@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Community Fundraising Auction 2021"
 permalink: /auction/
 feature_row1:
   - image_path: /assets/images/activities/penpallogo5.jpg
