@@ -22,7 +22,7 @@ feature_row3:
     excerpt: "<p>Vintage Lingua Franca Estate Pinot Noir 2016, signed by <a href='https://mp.weixin.qq.com/s/3uL4-TTy5FTXPtBn9bJO4Q'>MS侍酒师大师 Larry Stone and 酿酒师 Thomas Savre</a>, from $120, Donated by Eric Shi</p>"
   - image_path: /assets/images/auction/eric_shi_02.jpg
     title: "#06 湖中泛舟"
-    excerpt: "<p>A special package for two.  Pick a summer morning in 2022 to tour the Lake Oswego by private boat and boating to 5-star rated restaurant Five Spice for a private lunch, from $250. Donated by anonymous.</p>"
+    excerpt: "<p>A special package for two.  Pick a summer morning in 2022 to tour the Lake Oswego by private boat and boating to 5-star rated restaurant Five Spice for a private lunch, from $250 (now $550). Donated by anonymous.</p>"
 ---
 
 {% include feature_row id="feature_row1"%}
