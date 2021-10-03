@@ -13,7 +13,7 @@ feature_row2:
   - image_path: /assets/images/auction/bai_chuan_01.jpg
     title: "#03 藏民"
     excerpt: "<p>Donated by 白川艺术工作室</p>"
-    -----
+---
 
 {% include feature_row id="feature_row1"%}
 
