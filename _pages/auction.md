@@ -1,20 +1,12 @@
 ---
-title: "Community Charity Auction"
+title: "Community Charity Auction 社区慈善拍卖"
 permalink: /auction/
-feature_row1:
-  - image_path: /assets/images/activities/friendsoflansu.jpg
-feature_row2:
-  - image_path: /assets/images/auction/tie_li_01.jpg
-    title: "Tibetan Boy, from $500"
-    excerpt: "<p>Pastel on paper, 16" x 15", donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
-feature_row3:
-  - image_path: /assets/images/activities/apano-logo.png
-  - image_path: /assets/images/activities/derose.jpg
+
 ---
 
 {% include feature_row id="feature_row1"%}
 
-## 2021 fundraising auction for Lan Su Chinese Garden
+## 2021 fundraising auction for Lan Su Chinese Garden 为兰苏园筹款拍卖
 
 This event is organized by the Friends of Lan Su Chinese Garden in the Chinese American community, not affiliated with Lan Su Chinese Garden.
 
@@ -24,14 +16,16 @@ All items will be in donor's possession until being picked up by the winning bid
 
 OCC will provide donation receipts to both donors and winning bidders upon request.
 
-### Items to Donate
+所有收入会捐赠给兰苏园，拍卖所得款额连同现金捐款会在10月底由OCC转给兰苏园。所有拍卖品在中标人领取之前会由捐赠者保存，中标者付款方式参见OCC网站上的Donate(捐赠)页面。OCC可以为捐赠人和中标人提供收据。
+
+### Items to Donate 拍卖品捐赠
 
 Thank you for considering to donate auction items, please please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfBZ2oIamJQDQzIzu7SRv42Sw8Fj5DV0Zc9lvQxDSvFXz1mzA/viewform?usp=sf_link) and email the images to outreach@pdxchinese.org.
 
-### Bidding
+### Bidding 投标
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdVD8cWijzUrYL2doh0yg_QLGnKmnE22aFnv2oR-sabbpxtsg/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-### Donated Items for Auction
+### Donated Items for Auction 拍卖品
 
 {% include feature_row id="feature_row2"%}
