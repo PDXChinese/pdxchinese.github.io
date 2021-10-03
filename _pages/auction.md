@@ -24,7 +24,7 @@ feature_row3:
 
 {% include feature_row id="feature_row1"%}
 
-## 2021 fundraising auction for Lan Su Chinese Garden 为兰苏园筹款拍卖
+## 2021 Fundraising Auction for Lan Su Chinese Garden 为兰苏园筹款拍卖
 
 This event is organized by the Friends of Lan Su Chinese Garden in the Chinese American community, not affiliated with Lan Su Chinese Garden.
 
