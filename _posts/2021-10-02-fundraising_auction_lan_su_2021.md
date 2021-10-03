@@ -5,6 +5,10 @@ excerpt: "我们说兰苏远没有被人们忘记，作为华人社区，我们�
 date: "2021-10-02"
 feature_row1:
   - image_path: /assets/images/activities/friendsoflansu.jpg
+feature_row2:
+  - image_path: /assets/images/auction/tie_li_01.jpg
+  - image_path: /assets/images/auction/bai_chuan_01.jpg
+  - image_path: /assets/images/auction/eric_shi_01.jpg
 ---
 
 {% include feature_row id="feature_row1"%}
@@ -18,3 +22,5 @@ feature_row1:
 We always put our words into action. The fundraising auction for Lan Su Chinese Garden is on line today. We encourage community members to step in by donating anything they treasure like paintings, collectible wines, vacation homes, class coupons, travel vouchers... We are very excited with this new endeavor. Together we can do it.
 
 The auction site is [https://pdxchinese.org/auction/](https://pdxchinese.org/auction/). Please visit it every day until the auction closes late October.
+
+{% include feature_row id="feature_row2"%}
