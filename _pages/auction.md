@@ -4,7 +4,9 @@ permalink: /auction/
 feature_row1:
   - image_path: /assets/images/activities/friendsoflansu.jpg
 feature_row2:
-  - image_path: /assets/images/activities/multlogo.png
+  - image_path: /assets/images/auction/tie_li_01.jpg
+    title: "Tibetan Boy, from $500"
+    excerpt: "<p>Pastel on paper. 16" x 15", donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
 feature_row3:
   - image_path: /assets/images/activities/apano-logo.png
   - image_path: /assets/images/activities/derose.jpg
@@ -30,3 +32,5 @@ Thank you for considering to donate auction items, please please fill out this [
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdVD8cWijzUrYL2doh0yg_QLGnKmnE22aFnv2oR-sabbpxtsg/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ### Donated Items for Auction
+
+{% include feature_row id="feature_row2"%}
