@@ -2,13 +2,14 @@
 title: "Community Fundraising Auction"
 permalink: /auction/
 feature_row1:
-  - image_path: /assets/images/activities/penpallogo5.jpg
+  - image_path: /assets/images/activities/friendsoflansu.jpg
 feature_row2:
   - image_path: /assets/images/activities/multlogo.png
 feature_row3:
   - image_path: /assets/images/activities/apano-logo.png
   - image_path: /assets/images/activities/derose.jpg
 ---
+{% include feature_row id="feature_row1"%}
 
 ## 2021 fundraising auction for Lan Su Chinese Garden
 
