@@ -19,7 +19,10 @@ feature_row3:
     excerpt: "<p>Oil on paper 纸本油画, 35 × 45 cm, from $200, Painted in 1988, Authored and donated by Shirakawa.白川 (顾更青)</p>"
   - image_path: /assets/images/auction/eric_shi_01.jpg
     title: "#05 签名黑皮诺"
-    excerpt: "<p>Vintage Pinot Noir 2016, signed by <a href='https://mp.weixin.qq.com/s/3uL4-TTy5FTXPtBn9bJO4Q'>Larry Stone</a>, from $120, Donated by Eric Shi</p>"
+    excerpt: "<p>Vintage Pinot Noir 2016, signed by <a href='https://mp.weixin.qq.com/s/3uL4-TTy5FTXPtBn9bJO4Q'>MS侍酒师大师 Larry Stone</a>, from $120, Donated by Eric Shi</p>"
+  - image_path: /assets/images/auction/eric_shi_01.jpg
+    title: "#06 签名黑皮诺"
+    excerpt: "<p>Vintage Pinot Noir 2016, signed by <a href='https://mp.weixin.qq.com/s/3uL4-TTy5FTXPtBn9bJO4Q'>酿酒师 Thomas Savre</a>, from $120, Donated by Eric Shi</p>"
 ---
 
 {% include feature_row id="feature_row1"%}
