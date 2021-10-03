@@ -1,5 +1,5 @@
 ---
-title: "Community Charity Auction 社区慈善拍卖"
+title: ""
 permalink: /auction/
 feature_row1:
   - image_path: /assets/images/activities/friendsoflansu.jpg
