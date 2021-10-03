@@ -5,8 +5,8 @@ feature_row1:
   - image_path: /assets/images/activities/friendsoflansu.jpg
 feature_row2:
   - image_path: /assets/images/auction/tie_li_01.jpg
-    title: "Tibetan Boy, from $500"
-    excerpt: "<p>Pastel on paper, 16" x 15", donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
+    title: "Tibetan Boy"
+    excerpt: "<p>Pastel on paper, 16" x 15", from $500. Donated by Tie Li.</p>"
 
 ---
 
@@ -27,6 +27,8 @@ OCC will provide donation receipts to both donors and winning bidders upon reque
 ### Items to Donate 拍卖品捐赠
 
 Thank you for considering to donate auction items, please please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfBZ2oIamJQDQzIzu7SRv42Sw8Fj5DV0Zc9lvQxDSvFXz1mzA/viewform?usp=sf_link) and email the images to outreach@pdxchinese.org.
+
+非常感谢您考虑为此次筹款活动提供拍卖品，请填写[捐赠表格](https://docs.google.com/forms/d/e/1FAIpQLSfBZ2oIamJQDQzIzu7SRv42Sw8Fj5DV0Zc9lvQxDSvFXz1mzA/viewform?usp=sf_link)，并将拍卖品图片寄至 outreach@pdxchinese.org。
 
 ### Bidding 投标
 
