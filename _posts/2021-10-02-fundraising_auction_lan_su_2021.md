@@ -19,6 +19,8 @@ feature_row2:
 
 您在上面可以填写捐赠拍卖品表格，也可以直接对已经上线的拍卖品投标。线上拍卖品会根据大家的捐赠不断增加，所以，最好每天上去看看，捐赠和投标会在本月底同时结束。让我们大家共同努力，让首次线上公益拍卖成功！
 
+You all watched [KGW’s special coverage](https://www.kgw.com/article/news/local/the-story/portlands-chinese-garden-pandemic-racism-houseless-crisis/283-c43585e8-1666-4510-b6e1-b217ac38fca0?fbclid=IwAR14-sWgqDCQQtqweotx47ILpFBIv7E6xe5tLZ4YADRUD0wG4SLH3UcAx6Y) on Lan Su Chinese Garden. We just want to let Lan Su Chinese Garden know that they are not being forgotten. The community is always with them and we appreciate the excellent work the staff and volunteers have done to keep the garden as beautiful as can be.
+
 We always put our words into action. The fundraising auction for Lan Su Chinese Garden is on line today. We encourage community members to step in by donating anything they treasure like paintings, collectible wines, vacation homes, class coupons, travel vouchers... We are very excited with this new endeavor. Together we can do it.
 
 The auction site is [https://pdxchinese.org/auction/](https://pdxchinese.org/auction/). Please visit it every day until the auction closes late October.
