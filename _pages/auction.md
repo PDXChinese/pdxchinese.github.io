@@ -10,7 +10,10 @@ feature_row2:
   - image_path: /assets/images/auction/tie_li_02.jpg
     title: "#02 雾荷"
     excerpt: "<p>Watercolor on rice paper 宣纸水彩画, 16 x 20 inches, from $400. Donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
----
+  - image_path: /assets/images/auction/bai_chuan_01.jpg
+    title: "#03 藏民"
+    excerpt: "<p></p>"
+    -----
 
 {% include feature_row id="feature_row1"%}
 
