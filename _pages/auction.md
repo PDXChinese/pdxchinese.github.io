@@ -1,6 +1,11 @@
 ---
 title: "Community Charity Auction 社区慈善拍卖"
 permalink: /auction/
+feature_row1:
+  - image_path: /assets/images/activities/friendsoflansu.jpg
+feature_row2:
+  - image_path: /assets/images/auction/tie_li_01.jpg
+
 
 ---
 
