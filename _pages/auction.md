@@ -6,7 +6,7 @@ feature_row1:
 feature_row2:
   - image_path: /assets/images/auction/tie_li_01.jpg
     title: "Tibetan Boy"
-    excerpt: "<p> Pastel on paper, 16" x 15", from $500. Donated by Tie Li. </p>"
+    excerpt: "<p>Pastel on paper, 16" x 15", from $500. Donated by Tie Li. </p>"
   - image_path: /assets/images/auction/tie_li_02.jpg
     title: "Lotus in Fog"
     excerpt: "<p>Watercolor on rice paper, 16" x 20", from $400. Donated by Tie Li. </p>"
