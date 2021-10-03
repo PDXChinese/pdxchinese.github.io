@@ -6,7 +6,7 @@ feature_row1:
 feature_row2:
   - image_path: /assets/images/auction/tie_li_01.jpg
     title: "#01 藏族男孩"
-    excerpt: "<p>[Pastel on paper 纸上粉彩画](/assets/images/auction/tie_li_01big.jpg), 16 x 15 inches, from $500 (now $600). Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
+    excerpt: "<p>Pastel on paper 纸上粉彩画, 16 x 15 inches, from $500 (now $660). Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
   - image_path: /assets/images/auction/tie_li_02.jpg
     title: "#02 雾荷"
     excerpt: "<p>Watercolor on rice paper 宣纸水彩画, 16 x 20 inches, from $400. Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
@@ -17,6 +17,9 @@ feature_row3:
   - image_path: /assets/images/auction/bai_chuan_02.jpg
     title: "#04 藏族女孩"
     excerpt: "<p>Oil on paper 纸本油画, 35 × 45 cm, from $200, Painted in 1988, Authored and donated by Shirakawa.白川 (顾更青)</p>"
+  - image_path: /assets/images/auction/eric_shi_01.jpg
+    title: "#05 签名黑皮诺"
+    excerpt: "<p>Vintage Pinot Noir 2016, signed by <a href='https://mp.weixin.qq.com/s/3uL4-TTy5FTXPtBn9bJO4Q'>Larry Stone</a>, from $120, Donated by Eric Shi</p>"
 ---
 
 {% include feature_row id="feature_row1"%}
