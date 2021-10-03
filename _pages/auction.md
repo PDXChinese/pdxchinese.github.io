@@ -5,7 +5,8 @@ feature_row1:
   - image_path: /assets/images/activities/friendsoflansu.jpg
 feature_row2:
   - image_path: /assets/images/auction/tie_li_01.jpg
-
+    title: "Tibetan Boy, from $500"
+    excerpt: "<p>Pastel on paper, 16" x 15", donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
 
 ---
 
