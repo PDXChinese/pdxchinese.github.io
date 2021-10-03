@@ -5,10 +5,10 @@ feature_row1:
   - image_path: /assets/images/activities/friendsoflansu.jpg
 feature_row2:
   - image_path: /assets/images/auction/tie_li_01.jpg
-    title: "Tibetan Boy"
+    title: "#01 藏族男孩"
     excerpt: "<p>Pastel on paper, 16" x 15", from $500. Donated by Tie Li. </p>"
   - image_path: /assets/images/auction/tie_li_02.jpg
-    title: "Lotus in Fog"
+    title: "#02 雾荷"
     excerpt: "<p>Watercolor on rice paper, 16" x 20", from $400. Donated by Tie Li. </p>"
 ---
 
