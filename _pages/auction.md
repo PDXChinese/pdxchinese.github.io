@@ -6,17 +6,17 @@ feature_row1:
 feature_row2:
   - image_path: /assets/images/auction/tie_li_01.jpg
     title: "#01 藏族男孩"
-    excerpt: "<p>Pastel on paper 纸上粉彩画, 16 x 15 inches, from $500 (now $600). Donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
+    excerpt: "<p>[Pastel on paper 纸上粉彩画](/assets/images/auction/tie_li_01big.jpg), 16 x 15 inches, from $500 (now $600). Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
   - image_path: /assets/images/auction/tie_li_02.jpg
     title: "#02 雾荷"
-    excerpt: "<p>Watercolor on rice paper 宣纸水彩画, 16 x 20 inches, from $400. Donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
+    excerpt: "<p>Watercolor on rice paper 宣纸水彩画, 16 x 20 inches, from $400. Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
   - image_path: /assets/images/auction/bai_chuan_01.jpg
     title: "#03 藏民"
-    excerpt: "<p>Oil on canvas 布面油画，不带框, 80 × 100 cm, from $1000, Donated by Shirakawa.白川 (顾更青)</p>"
+    excerpt: "<p>Oil on canvas 布面油画，不带框, 80 × 100 cm, from $1000, Authored and donated by Shirakawa.白川 (顾更青)</p>"
 feature_row3:
   - image_path: /assets/images/auction/bai_chuan_02.jpg
     title: "#04 藏族女孩"
-    excerpt: "<p>Oil on paper 纸本油画, 35 × 45 cm, from $200, Painted in 1988, Donated by Shirakawa.白川 (顾更青)</p>"
+    excerpt: "<p>Oil on paper 纸本油画, 35 × 45 cm, from $200, Painted in 1988, Authored and donated by Shirakawa.白川 (顾更青)</p>"
 ---
 
 {% include feature_row id="feature_row1"%}
@@ -29,9 +29,9 @@ There will be no admin cost or commission for the auctions. 100% proceeds go to 
 
 All items will be in donor's possession until being picked up by the winning bidders. Payment will be made to OCC with the methods listed on [OCC Donate page](https://pdxchinese.org/communityfund/).
 
-OCC will provide donation receipts to both donors and winning bidders upon request.
+OCC will provide donation receipts to the donors upon request.
 
-所有收入会捐赠给兰苏园，拍卖所得款额连同现金捐款会在10月底由OCC转给兰苏园。所有拍卖品在中标人领取之前会由捐赠者保存，中标者付款方式参见OCC网站上的Donate(捐赠)页面。OCC可以为捐赠人和中标人提供收据。
+所有收入会捐赠给兰苏园，拍卖所得款额连同现金捐款会在10月底由OCC转给兰苏园。所有拍卖品在中标人领取之前会由捐赠者保存，中标者付款方式参见OCC网站上的Donate(捐赠)页面。OCC可以为捐赠人提供收据。
 
 ### Items to Donate 拍卖品捐赠
 
