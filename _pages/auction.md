@@ -30,7 +30,7 @@ OCC will provide donation receipts to both donors and winning bidders upon reque
 
 Thank you for considering to donate auction items, please please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfBZ2oIamJQDQzIzu7SRv42Sw8Fj5DV0Zc9lvQxDSvFXz1mzA/viewform?usp=sf_link) and email the images to outreach@pdxchinese.org.
 
-非常感谢您考虑为此次筹款活动提供拍卖品，请填写[捐赠表格](https://docs.google.com/forms/d/e/1FAIpQLSfBZ2oIamJQDQzIzu7SRv42Sw8Fj5DV0Zc9lvQxDSvFXz1mzA/viewform?usp=sf_link)，并将拍卖品图片寄至 outreach@pdxchinese.org。
+非常感谢您考虑为此次筹款活动提供拍卖品，请填写[捐赠表格](https://docs.google.com/forms/d/e/1FAIpQLSfBZ2oIamJQDQzIzu7SRv42Sw8Fj5DV0Zc9lvQxDSvFXz1mzA/viewform?usp=sf_link)，并将拍卖品图片寄至 outreach@pdxchinese.org，或微信给西北兆。
 
 ### Bidding 投标
 
