@@ -6,7 +6,7 @@ feature_row1:
 feature_row2:
   - image_path: /assets/images/auction/tie_li_01.jpg
     title: "#01 藏族小男孩"
-    excerpt: "<p>Pastel on paper 纸上粉彩画, 16 x 15 inches, from $500 (now <span style="color:green">$660</span>). Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
+    excerpt: "<p>Pastel on paper 纸上粉彩画, 16 x 15 inches, from $500 (now $660). Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
   - image_path: /assets/images/auction/tie_li_02.jpg
     title: "#02 雾荷"
     excerpt: "<p>Watercolor on rice paper 宣纸水彩画, 16 x 20 inches, from $400. Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
