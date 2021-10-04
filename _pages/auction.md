@@ -12,7 +12,7 @@ feature_row2:
     excerpt: "<p>Watercolor on rice paper 宣纸水彩画, 16 x 20 inches, from $400. Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
   - image_path: /assets/images/auction/bai_chuan_01.jpg
     title: "#03 藏民"
-    excerpt: "<p>Oil on canvas 布面油画，不带框, 80 × 100 cm, from $1000, Authored and donated by Shirakawa.白川 (顾更青)</p>"
+    excerpt: "<p>Oil on canvas 布面油画，不带框, 80 × 100 cm, from $1,000 (now $1,100), Authored and donated by Shirakawa.白川 (顾更青)</p>"
 feature_row3:
   - image_path: /assets/images/auction/bai_chuan_02.jpg
     title: "#04 藏族小女孩"
