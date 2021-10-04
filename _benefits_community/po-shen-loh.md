@@ -1,5 +1,5 @@
 ---
-title: "The Daily Challenge with Po-Shen Loh"
+title: "External: The Daily Challenge with Po-Shen Loh"
 ---
 
 ## 美国奥数总教练罗博深开发的网上数学辅导课程

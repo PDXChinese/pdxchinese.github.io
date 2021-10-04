@@ -12,8 +12,8 @@ permalink: /resources/
 - <a href="{{ site.url }}/resources/activities/sports/">Sports</a> ({{ site.activities_sports | size }})
 
 ## (B)enefits/Resources
-- <a href="{{ site.url }}/resources/benefits/community/">Community-based Benefits</a> ({{ site.benefits_community | size }})
-- <a href="{{ site.url }}/resources/benefits/resources/">Resources for Community Members</a> ({{ site.benefits_resources | size }})
+- <a href="{{ site.url }}/resources/benefits/community/">Benefits</a> ({{ site.benefits_community | size }})
+- <a href="{{ site.url }}/resources/benefits/resources/">Resources</a> ({{ site.benefits_resources | size }})
 
 ## (C)ommunity
 - <a href="{{ site.url }}/resources/communities/organizations/">Community Organizations</a> ({{ site.communities_organizations | size }})
