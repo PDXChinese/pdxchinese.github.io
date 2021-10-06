@@ -23,6 +23,10 @@ feature_row3:
   - image_path: /assets/images/auction/eric_shi_02.jpg
     title: "#06 湖中泛舟"
     excerpt: "<p>A special package for two.  Pick a summer morning in 2022 to tour the Lake Oswego by private boat and boating to 5-star rated restaurant Five Spice for a private lunch, from $250 (now $550). Donated by anonymous.</p>"
+feature_row4:
+  - image_path: /assets/images/auction/lan_su_01.jpg
+    title: "#07 租用兰苏园"
+    excerpt: "<p> <a href='https://lansugarden.org/about-the-garden/garden-rental/'>Ceremony only rental</a> during the off season (Oct – June) for any Fri or Sun evening (7pm – 9pm), from $750. Donated by <a href='https://lansugarden.org/'>Lan Su Chinese Garden</a>.</p>"
 ---
 
 {% include feature_row id="feature_row1"%}
@@ -54,3 +58,5 @@ Thank you for considering to donate auction items, please please fill out this [
 {% include feature_row id="feature_row2"%}
 
 {% include feature_row id="feature_row3"%}
+
+{% include feature_row id="feature_row4"%}
