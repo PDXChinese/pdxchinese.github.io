@@ -19,7 +19,7 @@ feature_row3:
     excerpt: "<p>Oil on paper 纸本油画, 35 × 45 cm, from $200, Painted in 1988, Authored and donated by Shirakawa.白川 (顾更青)</p>"
   - image_path: /assets/images/auction/eric_shi_01.jpg
     title: "#05 签名黑皮诺"
-    excerpt: "<p>Vintage Lingua Franca Estate Pinot Noir 2016, signed by <a href='https://mp.weixin.qq.com/s/3uL4-TTy5FTXPtBn9bJO4Q'>MS侍酒师大师 Larry Stone and 酿酒师 Thomas Savre</a>, from $120, Donated by Eric Shi</p>"
+    excerpt: "<p>Vintage Lingua Franca Estate Pinot Noir 2016, signed by <a href='https://mp.weixin.qq.com/s/3uL4-TTy5FTXPtBn9bJO4Q'>MS侍酒师大师 Larry Stone and 酿酒师 Thomas Savre</a>, from $120 (now $135), Donated by Eric Shi</p>"
   - image_path: /assets/images/auction/eric_shi_02.jpg
     title: "#06 湖中泛舟"
     excerpt: "<p>A special package for two.  Pick a summer morning in 2022 to tour the Lake Oswego by private boat and boating to 5-star rated restaurant Five Spice for a private lunch, from $250 (now $550). Donated by anonymous.</p>"
@@ -29,7 +29,7 @@ feature_row4:
     excerpt: "<p><a href='https://lansugarden.org/about-the-garden/garden-rental/'>Ceremony only rental</a> during the off season (Oct – June) for any Fri or Sun evening (7pm – 9pm), from $750. Donated by <a href='https://lansugarden.org/'>Lan Su Chinese Garden</a>.</p>"
   - image_path: /assets/images/auction/sunriver_01.jpg
     title: "#08 Sunriver Resort"
-    excerpt: "<p>Gift card for $250 & gift certificate for either a one-night stay in a <a href='https://www.sunriverresort.com/hotel-and-vacation-rentals-overview#lodge-village'>Lodge Village</a> (excludes dates between Memorial Day and Labor Day) or one round of golf for two on either the <a href='https://www.sunriverresort.com/central-oregon-bend-golf/meadows-course'>Meadows</a> or <a href='https://www.sunriverresort.com/central-oregon-bend-golf/woodlands-course'>Woodlands</a> course, from $300.</p>"
+    excerpt: "<p>Gift card for $250 & gift certificate for either a one-night stay in a <a href='https://www.sunriverresort.com/hotel-and-vacation-rentals-overview#lodge-village'>Lodge Village</a> (excludes dates between Memorial Day and Labor Day) or one round of golf for two on either the <a href='https://www.sunriverresort.com/central-oregon-bend-golf/meadows-course'>Meadows</a> or <a href='https://www.sunriverresort.com/central-oregon-bend-golf/woodlands-course'>Woodlands</a> course, from $300 (now $330).</p>"
 ---
 
 {% include feature_row id="feature_row1"%}
