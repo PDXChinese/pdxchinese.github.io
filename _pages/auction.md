@@ -29,7 +29,7 @@ feature_row4:
     excerpt: "<p><a href='https://lansugarden.org/about-the-garden/garden-rental/'>Ceremony only rental</a> during the off season (Oct – June) for any Fri or Sun evening (7pm – 9pm), from $750. Donated by <a href='https://lansugarden.org/'>Lan Su Chinese Garden</a>.</p>"
   - image_path: /assets/images/auction/sunriver_01.jpg
     title: "#08 Sunriver Resort"
-    excerpt: "<p>Gift card for $250 & gift certificate for either a one-night stay in a <a href='https://www.sunriverresort.com/hotel-and-vacation-rentals-overview#lodge-village'>Lodge Village</a> or one round of golf for two on either the <a href='https://www.sunriverresort.com/central-oregon-bend-golf/meadows-course'>Meadows</a> or <a href='https://www.sunriverresort.com/central-oregon-bend-golf/woodlands-course'>Woodlands</a> course, from $300.</p>"
+    excerpt: "<p>Gift card for $250 & gift certificate for either a one-night stay in a <a href='https://www.sunriverresort.com/hotel-and-vacation-rentals-overview#lodge-village'>Lodge Village</a> (excludes dates between Memorial Day and Labor Day) or one round of golf for two on either the <a href='https://www.sunriverresort.com/central-oregon-bend-golf/meadows-course'>Meadows</a> or <a href='https://www.sunriverresort.com/central-oregon-bend-golf/woodlands-course'>Woodlands</a> course, from $300.</p>"
 ---
 
 {% include feature_row id="feature_row1"%}
