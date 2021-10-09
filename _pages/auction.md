@@ -6,17 +6,17 @@ feature_row1:
 feature_row2:
   - image_path: /assets/images/auction/tie_li_01.jpg
     title: "#01 藏族小男孩"
-    excerpt: "<p>"Tibetan Little Boy", Pastel on paper 纸上粉彩画, 16 x 15 inches, from $500 (now $1,000). Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
+    excerpt: "<p>Tibetan Little Boy. Pastel on paper 纸上粉彩画, 16 x 15 inches, from $500 (now $1,000). Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
   - image_path: /assets/images/auction/tie_li_02.jpg
     title: "#02 雾荷"
     excerpt: "<p>Watercolor on rice paper 宣纸水彩画, 16 x 20 inches, from $400. Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
   - image_path: /assets/images/auction/bai_chuan_01.jpg
     title: "#03 藏民"
-    excerpt: "<p>"Tibetan", Oil on canvas 布面油画，不带框, 80 × 100 cm, from $1,000 (now $1,100), Authored and donated by Shirakawa.白川 (顾更青)</p>"
+    excerpt: "<p>Tibetan. Oil on canvas 布面油画，不带框, 80 × 100 cm, from $1,000 (now $1,100), Authored and donated by Shirakawa.白川 (顾更青)</p>"
 feature_row3:
   - image_path: /assets/images/auction/bai_chuan_02.jpg
     title: "#04 藏族小女孩"
-    excerpt: "<p>"Tibetan Little Girl", Oil on paper 纸本油画, 35 × 45 cm, from $200, Painted in 1988, Authored and donated by Shirakawa.白川 (顾更青)</p>"
+    excerpt: "<p>Tibetan Little Girl. Oil on paper 纸本油画, 35 × 45 cm, from $200, Painted in 1988, Authored and donated by Shirakawa.白川 (顾更青)</p>"
   - image_path: /assets/images/auction/eric_shi_01.jpg
     title: "#05 签名黑皮诺"
     excerpt: "<p>Vintage Lingua Franca Estate Pinot Noir 2016, signed by <a href='https://mp.weixin.qq.com/s/3uL4-TTy5FTXPtBn9bJO4Q'>MS侍酒师大师 Larry Stone and 酿酒师 Thomas Savre</a>, from $120 (now $140), Donated by Eric Shi</p>"
@@ -32,11 +32,11 @@ feature_row4:
     excerpt: "<p>Gift card for $250 & gift certificate for either a one-night stay in a <a href='https://www.sunriverresort.com/hotel-and-vacation-rentals-overview#lodge-village'>Lodge Village</a> (excludes dates between Memorial Day and Labor Day) or one round of golf for two on either the <a href='https://www.sunriverresort.com/central-oregon-bend-golf/meadows-course'>Meadows</a> or <a href='https://www.sunriverresort.com/central-oregon-bend-golf/woodlands-course'>Woodlands</a> course, from $300 (now $350). Provided by <a href='https://www.sunriverresort.com/'>Sunriver Resort</a></p>"
   - image_path: /assets/images/auction/tie_li_03.jpg
     title: "#09 宗巴喇嘛"
-    excerpt: "<p>"Zongba Lama", Pastel on board 色粉木板, 13 x 11 inches, from $550. Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
+    excerpt: "<p>Zongba Lama. Pastel on board 色粉木板, 13 x 11 inches, from $550. Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
 feature_row5:
   - image_path: /assets/images/auction/tie_li_04.jpg
     title: "#10 期待"
-    excerpt: "<p>"Looking Forward To", Charcoal and pastel on paper, 18 x 24 inches, from $1,200. Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
+    excerpt: "<p>Looking Forward To. Charcoal and pastel on paper, 18 x 24 inches, from $1,200. Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
 ---
 
 {% include feature_row id="feature_row1"%}
