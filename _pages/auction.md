@@ -65,6 +65,8 @@ Thank you for considering to donate auction items, please please fill out this [
 
 ### Donated Items for Auction 拍卖品
 
+We want to give our heartfelt thanks to the people and organizations for their generous donatations. 
+
 {% include feature_row id="feature_row2"%}
 
 {% include feature_row id="feature_row3"%}
