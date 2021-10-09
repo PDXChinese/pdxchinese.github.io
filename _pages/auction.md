@@ -30,6 +30,13 @@ feature_row4:
   - image_path: /assets/images/auction/sunriver_01.jpg
     title: "#08 Sunriver Resort"
     excerpt: "<p>Gift card for $250 & gift certificate for either a one-night stay in a <a href='https://www.sunriverresort.com/hotel-and-vacation-rentals-overview#lodge-village'>Lodge Village</a> (excludes dates between Memorial Day and Labor Day) or one round of golf for two on either the <a href='https://www.sunriverresort.com/central-oregon-bend-golf/meadows-course'>Meadows</a> or <a href='https://www.sunriverresort.com/central-oregon-bend-golf/woodlands-course'>Woodlands</a> course, from $300 (now $350). Provided by <a href='https://www.sunriverresort.com/'>Sunriver Resort</a></p>"
+  - image_path: /assets/images/auction/tie_li_03.jpg
+    title: "#09 宗巴喇嘛"
+    excerpt: "<p>Pastel on board 色粉木板, 13 x 11 inches, from $550. Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
+feature_row5:
+  - image_path: /assets/images/auction/tie_li_04.jpg
+    title: "#10 期待"
+    excerpt: "<p>Charcoal and pastel on paper, 18 x 24 inches, from $1,200. Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
 ---
 
 {% include feature_row id="feature_row1"%}
@@ -63,3 +70,5 @@ Thank you for considering to donate auction items, please please fill out this [
 {% include feature_row id="feature_row3"%}
 
 {% include feature_row id="feature_row4"%}
+
+{% include feature_row id="feature_row5"%}
