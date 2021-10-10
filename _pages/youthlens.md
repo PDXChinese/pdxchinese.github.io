@@ -13,9 +13,11 @@ Content Supervisor: Hongcheng Zhao
 Production Director: Ni Xu  
 Production Manager: Guangchao Zhang  
 Journalism Mentors: Christine Pitawanich  
-Government Relations Liaisons:  
 
-**[Youth Journalist Application]**(https://docs.google.com/forms/d/e/1FAIpQLScK3ahKKd_XjBtZNlOqSQhaRgjLDolodXpg9dIBx3lLu3mbWg/viewform?usp=sf_link) (Highschool and college students only)
+![]({{ site.url }}/assets/images/activities/youtubechannel.png)
+[OCC Youth Lens YouTube Channel](https://www.youtube.com/channel/UCEirGv1g7DAC0udxm_-Fvxg)
+
+[Youth Journalist Application](https://docs.google.com/forms/d/e/1FAIpQLScK3ahKKd_XjBtZNlOqSQhaRgjLDolodXpg9dIBx3lLu3mbWg/viewform?usp=sf_link) (Highschool and college students only)
 
 <iframe width="1070" height="602" src="https://www.youtube.com/embed/N98gtCZJUsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
