@@ -39,7 +39,7 @@ feature_row5:
     excerpt: "<p>Looking Forward To. Charcoal and pastel on paper, 18 x 24 inches, from $1,200. Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
   - image_path: /assets/images/auction/miaolian_01.jpg
     title: "#11 天下第一福"
-    excerpt: "<p>The number one 福 in the world, by one of the most famous Chinese calligrapher <a href='http://www.zgyxwzh.com/news.php?cid=5&id=1803'>爱新觉罗焘平</a>, 27 x 27 inches, from $800. Donatedby by anonymous.</p>"
+    excerpt: "<p>The number one 福 in the world, by <a href='http://www.zgyxwzh.com/news.php?cid=5&id=1803'>爱新觉罗焘平</a>, one of the most famous Chinese calligraphers, 27 x 27 inches, from $880. Donatedby by anonymous.</p>"
 ---
 
 {% include feature_row id="feature_row1"%}
