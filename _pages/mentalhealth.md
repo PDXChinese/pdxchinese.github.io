@@ -70,6 +70,11 @@ Peer support can be an important tool in helping children and youth overcome per
   :green_book: [Meeting Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeaGQKfpCcHl4o3WRhlV-EPVaH20t5mFhddQbEXhrwpTmmmvg/viewform?usp=sf_link) for youth and parents looking for peer advisors   
   [Feedback on Peer Advisors](mailto:health@pdxchinese.org?subject=[Feedback on Peer Advisors])  
 
+[Pen Pal Program](http://pdxchinese.org/penpal/)  
+The pen pal program provides another opportunity for the community youth to get connected. The participants will be able to reach out to the peers from another school or another side of town on any subjects that may be schoolwork related or mental and physical wellbeing in general. The pen pal program opens to all middle school and high school students.  
+
+  :blue_book: [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSc0d4WQuLi3g14vt3X3CUbjIzki-JTLUWvKXtn48dlmyxVFrA/viewform?usp=sf_link)
+
 [Weekly Talk on Mental Health](http://pdxchinese.org/weeklytalk/)  
 We will host weekly talks on mental health by inviting professionals in the field till end of 2020.  
 

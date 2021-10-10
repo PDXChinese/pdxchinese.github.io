@@ -10,7 +10,7 @@ feature_row3:
   - image_path: /assets/images/activities/derose.jpg
 ---
 
-# Pen Pal Project
+# Pen Pal Program
 
 The pen pal program provides another opportunity for the community youth to get connected. The participants will be able to reach out to the peers from another school or another side of town on any subjects that may be schoolwork related or mental and physical wellbeing in general.
 
