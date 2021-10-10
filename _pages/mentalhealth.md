@@ -88,14 +88,8 @@ Some funding is available specifically for the families suffered from mental ill
 [Books on Mental Health](mailto:oregonchinesecoalition@gmail.com)  
 We have purchased books on mental health based on the recommendations from professionals and readers in the community. All the books are distributed to anyone who have requested.  
 
-[Practice English with Bryce](https://signup.com/go/bEMkVvo)  
-Staying at home led to another unexpected consequence -- oral English becomes rusty. To address the concerns from the community members who worry about their readinewss to go back to workplace, we have opened up this English conversation sessions.
-
 [Headspace Membership](https://work.headspace.com/oregonchinesecoalition/member-enroll?utm_medium=email&_hsmi=77283528&_hsenc=p2ANqtz-88UDOik4Z_O9-jdo1Us7sryMJyrmKzONEViJQlpiiZ7GQ1s0SMFja13DX3pmYYBjxMnevhO-dVp4uAM3vGwZXWiDG8Mg&utm_content=77283528&utm_source=hs_automation)  
 Get Headspace for free, 1000+ hours of mindfulness and sleep content, Mini exercises for busy schedules, Proven to reduce stress in just 10 days.
-
-[Mental Health Access](http://)  
-A web portal containing mental health resources which are more relevant to Chinese American community is being developed by four COVID-19 Response Interns.
 
 ### Other Useful Resources
 
