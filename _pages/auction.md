@@ -37,6 +37,9 @@ feature_row5:
   - image_path: /assets/images/auction/tie_li_04.jpg
     title: "#10 期待"
     excerpt: "<p>Looking Forward To. Charcoal and pastel on paper, 18 x 24 inches, from $1,200. Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
+  - image_path: /assets/images/auction/miaolian_01.jpg
+    title: "#11 天下第一福"
+    excerpt: "<p>The number one 福 in the world, by one of the most famous Chinese calligrapher <a href='http://www.zgyxwzh.com/news.php?cid=5&id=1803'>爱新觉罗焘平</a>, 27 x 27 inches, from $800. Donatedby by anonymous.</p>"
 ---
 
 {% include feature_row id="feature_row1"%}
@@ -65,7 +68,7 @@ Thank you for considering to donate auction items, please please fill out this [
 
 ### Donated Items for Auction 拍卖品
 
-We want to give our heartfelt thanks to the people and organizations for their generous donatations. 
+We want to give our heartfelt thanks to the people and organizations for their generous donatations.
 
 {% include feature_row id="feature_row2"%}
 
