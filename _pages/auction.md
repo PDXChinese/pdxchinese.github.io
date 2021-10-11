@@ -46,7 +46,7 @@ feature_row5:
 feature_row6:
   - image_path: /assets/images/auction/bai_chuan_04a.jpg
     title: "#13 苏州苏扇"
-    excerpt: "<p>Su Fan (Side A), Paper colors, framed, 60 × 32 cm, from $100. Originally prepared for his solo exhibition on Tibet 1988-2020 in Lan Su Chinese Garden. Authored and donated by Shirakawa (顾更青)</p>"
+    excerpt: "<p>Su Fan (Side A), Paper colors, framed, 60 × 32 cm, from $100 (now $250). Originally prepared for his solo exhibition on Tibet 1988-2020 in Lan Su Chinese Garden. Authored and donated by Shirakawa (顾更青)</p>"
   - image_path: /assets/images/auction/bai_chuan_04b.jpg
     title: "#13 苏州苏扇"
     excerpt: "<p>Su Fan (Side B)</p>"
