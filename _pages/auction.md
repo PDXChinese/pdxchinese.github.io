@@ -6,7 +6,7 @@ feature_row1:
 feature_row2:
   - image_path: /assets/images/auction/tie_li_01.jpg
     title: "#01 藏族小男孩"
-    excerpt: "<p>Tibetan Little Boy. Pastel on paper 纸上粉彩画, 16 x 15 inches, from $500 (now $1,000). Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
+    excerpt: "<p>Tibetan Little Boy. Pastel on paper 纸上粉彩画, 16 x 15 inches, from $500 (now $800). Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
   - image_path: /assets/images/auction/tie_li_02.jpg
     title: "#02 雾荷"
     excerpt: "<p>Watercolor on rice paper 宣纸水彩画, 16 x 20 inches, from $400. Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
@@ -46,17 +46,17 @@ feature_row5:
 feature_row6:
   - image_path: /assets/images/auction/bai_chuan_04a.jpg
     title: "#13 苏州苏扇"
-    excerpt: "<p>Su Fan (Side A), Paper colors, framed, 60 × 32 cm, from $100 (now $250). Originally prepared for his solo exhibition on Tibet 1988-2020 in Lan Su Chinese Garden. Authored and donated by Shirakawa (顾更青)</p>"
+    excerpt: "<p>Su Fan (one of pair), Paper colors, framed, 60 × 32 cm, from $100 (now $250). Originally prepared for his solo exhibition on Tibet 1988-2020 in Lan Su Chinese Garden. Authored and donated by Shirakawa (顾更青)</p>"
   - image_path: /assets/images/auction/bai_chuan_04b.jpg
     title: "#13 苏州苏扇"
-    excerpt: "<p>Su Fan (Side B)</p>"
+    excerpt: "<p>Su Fan (one of pair)</p>"
   - image_path: /assets/images/auction/bai_chuan_05a.jpg
     title: "#14 苏州苏扇"
-    excerpt: "<p>Su Fan (Side A), Paper colors, framed, 60 × 32 cm, from $100. Originally prepared for his solo exhibition on Tibet 1988-2020 in Lan Su Chinese Garden. Authored and donated by Shirakawa (顾更青)</p>"
+    excerpt: "<p>Su Fan (one of pair), Paper colors, framed, 60 × 32 cm, from $100 (now $250). Originally prepared for his solo exhibition on Tibet 1988-2020 in Lan Su Chinese Garden. Authored and donated by Shirakawa (顾更青)</p>"
 feature_row7:
   - image_path: /assets/images/auction/bai_chuan_05b.jpg
     title: "#14 苏州苏扇"
-    excerpt: "<p>Su Fan (Side B)</p>"
+    excerpt: "<p>Su Fan (one of pair)</p>"
 ---
 
 {% include feature_row id="feature_row1"%}
