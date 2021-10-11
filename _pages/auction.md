@@ -43,6 +43,20 @@ feature_row5:
   - image_path: /assets/images/auction/bai_chuan_03.jpg
     title: "#12 藏族小女孩"
     excerpt: "<p>Tibetan Little Girl. 布面油画，不带框，60×70 cm. Oil on canvas, from $900. Authored and donated by Shirakawa (顾更青)</p>"
+feature_row6:
+  - image_path: /assets/images/auction/bai_chuan_04a.jpg
+    title: "#13 苏州苏扇"
+    excerpt: "<p>Su Fan (Side A), Paper colors, framed, 60 × 32 cm, from $100. Originally prepared for his solo exhibition on Tibet 1988-2020 in Lan Su Chinese Garden. Authored and donated by Shirakawa (顾更青)</p>"
+  - image_path: /assets/images/auction/bai_chuan_04a.jpg
+    title: "#13 苏州苏扇"
+    excerpt: "<p>Su Fan (Side B), Paper colors, framed, 60 × 32 cm, from $100. Originally prepared for his solo exhibition on Tibet 1988-2020 in Lan Su Chinese Garden. Authored and donated by Shirakawa (顾更青)</p>"
+  - image_path: /assets/images/auction/bai_chuan_04a.jpg
+    title: "#14 苏州苏扇"
+    excerpt: "<p>Su Fan (Side A), Paper colors, framed, 60 × 32 cm, from $100. Originally prepared for his solo exhibition on Tibet 1988-2020 in Lan Su Chinese Garden. Authored and donated by Shirakawa (顾更青)</p>"
+feature_row7:
+  - image_path: /assets/images/auction/bai_chuan_04a.jpg
+    title: "#14 苏州苏扇"
+    excerpt: "<p>Su Fan (Side B), Paper colors, framed, 60 × 32 cm, from $100. Originally prepared for his solo exhibition on Tibet 1988-2020 in Lan Su Chinese Garden. Authored and donated by Shirakawa (顾更青)</p>"
 ---
 
 {% include feature_row id="feature_row1"%}
@@ -80,3 +94,7 @@ We want to give our heartfelt thanks to the people and organizations for their g
 {% include feature_row id="feature_row4"%}
 
 {% include feature_row id="feature_row5"%}
+
+{% include feature_row id="feature_row6"%}
+
+{% include feature_row id="feature_row7"%}
