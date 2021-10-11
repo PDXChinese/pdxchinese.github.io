@@ -37,7 +37,7 @@ feature_row5:
   - image_path: /assets/images/auction/tie_li_04.jpg
     title: "#10 期待"
     excerpt: "<p>Looking Forward To. Charcoal and pastel on paper, 18 x 24 inches, from $1,200. Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
-  - image_path: /assets/images/auction/miaolian_01.jpg
+  - image_path: /assets/images/auction/miaolian_02.jpg
     title: "#11 天下第一福"
     excerpt: "<p>The number one 福 in the world, by <a href='http://www.zgyxwzh.com/news.php?cid=5&id=1803'>爱新觉罗焘平</a>, one of the most famous Chinese calligraphers, 27 x 27 inches, from $880. Donatedby by anonymous.</p>"
   - image_path: /assets/images/auction/bai_chuan_03.jpg
@@ -47,14 +47,14 @@ feature_row6:
   - image_path: /assets/images/auction/bai_chuan_04a.jpg
     title: "#13 苏州苏扇"
     excerpt: "<p>Su Fan (Side A), Paper colors, framed, 60 × 32 cm, from $100. Originally prepared for his solo exhibition on Tibet 1988-2020 in Lan Su Chinese Garden. Authored and donated by Shirakawa (顾更青)</p>"
-  - image_path: /assets/images/auction/bai_chuan_04a.jpg
+  - image_path: /assets/images/auction/bai_chuan_04b.jpg
     title: "#13 苏州苏扇"
     excerpt: "<p>Su Fan (Side B)</p>"
-  - image_path: /assets/images/auction/bai_chuan_04a.jpg
+  - image_path: /assets/images/auction/bai_chuan_05a.jpg
     title: "#14 苏州苏扇"
     excerpt: "<p>Su Fan (Side A), Paper colors, framed, 60 × 32 cm, from $100. Originally prepared for his solo exhibition on Tibet 1988-2020 in Lan Su Chinese Garden. Authored and donated by Shirakawa (顾更青)</p>"
 feature_row7:
-  - image_path: /assets/images/auction/bai_chuan_04a.jpg
+  - image_path: /assets/images/auction/bai_chuan_05b.jpg
     title: "#14 苏州苏扇"
     excerpt: "<p>Su Fan (Side B)</p>"
 ---
