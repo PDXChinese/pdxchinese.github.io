@@ -12,11 +12,11 @@ feature_row2:
     excerpt: "<p>Watercolor on rice paper 宣纸水彩画, 16 x 20 inches, from $400. Authored and donated by <a href='https://www.litiefineart.com/'>Tie Li</a>.</p>"
   - image_path: /assets/images/auction/bai_chuan_01.jpg
     title: "#03 藏民"
-    excerpt: "<p>Tibetan. Oil on canvas 布面油画，不带框, 80 × 100 cm, from $1,000 (now $1,100), Authored and donated by Shirakawa.白川 (顾更青)</p>"
+    excerpt: "<p>Tibetan. Oil on canvas 布面油画，不带框, 80 × 100 cm, from $1,000 (now $1,100), Authored and donated by Shirakawa (顾更青)</p>"
 feature_row3:
   - image_path: /assets/images/auction/bai_chuan_02.jpg
     title: "#04 藏族小女孩"
-    excerpt: "<p>Tibetan Little Girl. Oil on paper 纸本油画, 35 × 45 cm, from $200, Painted in 1988, Authored and donated by Shirakawa.白川 (顾更青)</p>"
+    excerpt: "<p>Tibetan Little Girl. Oil on paper 纸本油画, 35 × 45 cm, from $200, Painted in 1988, Authored and donated by Shirakawa (顾更青)</p>"
   - image_path: /assets/images/auction/eric_shi_01.jpg
     title: "#05 签名黑皮诺"
     excerpt: "<p>Vintage Lingua Franca Estate Pinot Noir 2016, signed by <a href='https://mp.weixin.qq.com/s/3uL4-TTy5FTXPtBn9bJO4Q'>MS侍酒师大师 Larry Stone and 酿酒师 Thomas Savre</a>, from $120 (now $140), Donated by Eric Shi</p>"
@@ -40,6 +40,9 @@ feature_row5:
   - image_path: /assets/images/auction/miaolian_01.jpg
     title: "#11 天下第一福"
     excerpt: "<p>The number one 福 in the world, by <a href='http://www.zgyxwzh.com/news.php?cid=5&id=1803'>爱新觉罗焘平</a>, one of the most famous Chinese calligraphers, 27 x 27 inches, from $880. Donatedby by anonymous.</p>"
+  - image_path: /assets/images/auction/bai_chuan_03.jpg
+    title: "#12 藏族小女孩"
+    excerpt: "<p>Tibetan Little Girl. 布面油画，不带框，60×70 cm. Oil on canvas, from $900. Authored and donated by Shirakawa (顾更青)</p>"
 ---
 
 {% include feature_row id="feature_row1"%}
