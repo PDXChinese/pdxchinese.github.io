@@ -59,17 +59,17 @@ feature_row7:
     excerpt: "<p>Su Fan (one of pair)</p>"
   - image_path: /assets/images/auction/bai_chuan_06.jpg
     title: "#15 春意系列"
-    excerpt: "<p>Breathe of Spring series #1, Ink and watercolor on rice paper 宣纸水墨泼彩, 27 × 27 inches, from $350. Authored and donated by Shirakawa (顾更青)</p>"
+    excerpt: "<p>Breath of Spring series #1, Ink and watercolor on rice paper 宣纸水墨泼彩, 27 × 27 inches, from $350. Authored and donated by Shirakawa (顾更青)</p>"
   - image_path: /assets/images/auction/bai_chuan_07.jpg
     title: "#16 春意系列"
-    excerpt: "<p>Breathe of Spring series #2, Ink and watercolor on rice paper 宣纸水墨泼彩, 27 × 27 inches, from $350. Authored and donated by Shirakawa (顾更青)</p>"
+    excerpt: "<p>Breath of Spring series #2, Ink and watercolor on rice paper 宣纸水墨泼彩, 27 × 27 inches, from $350. Authored and donated by Shirakawa (顾更青)</p>"
 feature_row8:
   - image_path: /assets/images/auction/bai_chuan_08.jpg
     title: "#17 春意系列"
-    excerpt: "<p>Breathe of Spring series #3, Ink and watercolor on rice paper 宣纸水墨泼彩, 27 × 27 inches, from $350. Authored and donated by Shirakawa (顾更青)</p>"
+    excerpt: "<p>Breath of Spring series #3, Ink and watercolor on rice paper 宣纸水墨泼彩, 27 × 27 inches, from $350. Authored and donated by Shirakawa (顾更青)</p>"
   - image_path: /assets/images/auction/bai_chuan_09.jpg
     title: "#18 春意系列"
-    excerpt: "<p>Breathe of Spring series #4, Ink and watercolor on rice paper 宣纸水墨泼彩, 27 × 27 inches, from $350. Authored and donated by Shirakawa (顾更青)</p>"
+    excerpt: "<p>Breath of Spring series #4, Ink and watercolor on rice paper 宣纸水墨泼彩, 27 × 27 inches, from $350. Authored and donated by Shirakawa (顾更青)</p>"
 ---
 
 {% include feature_row id="feature_row1"%}
