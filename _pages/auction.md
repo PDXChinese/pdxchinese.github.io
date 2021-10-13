@@ -70,6 +70,9 @@ feature_row8:
   - image_path: /assets/images/auction/bai_chuan_09.jpg
     title: "#18 春意系列"
     excerpt: "<p>Breath of Spring series #4, Ink and watercolor on rice paper 宣纸水墨泼彩, 27 × 27 inches, from $350. Authored and donated by Shirakawa (顾更青).</p>"
+  - image_path: /assets/images/auction/li_fu_01.jpg
+    title: "#19 汾酒2瓶"
+    excerpt: "<p>汾酒，青花30款，清香型，53度，两瓶装(每瓶258ml), from $100 (now $120). Donated by anonymous.</p>"
 ---
 
 {% include feature_row id="feature_row1"%}
