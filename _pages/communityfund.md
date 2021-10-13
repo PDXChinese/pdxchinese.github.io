@@ -64,15 +64,3 @@ By the end of each school year, one scholarship will be awarded to a student of 
 2019 Nancy Bai, Sophomore student at Sunset High School<br/>
 2018 Ginger Pan, rising 7th grader in Green Hall (SUMMA / TAG program) at Stoller Middle School<br/>
 2017 Dustin Leung, 7th Grade Student at Stoller Elementary School<br/>
-
-# Special Fundraising Deals
-
-From time to time, we gladly accepted such deals with fundraising purpose from businesses and individuals. We are not in the position to give any recommendation to the quality of the products or services, although we have tried our best to provide community members with quality as promised in the flyers.
-
-### Vacation Home in Waldport, Oregon Coast
-
-Sleeps up to 11 - 5 Bedrooms, 4 Bath.  
-Standard: 2 night minimum; Summer & Holidays: 3-4 night minimum.  
-You will have a preferred pricing  
-Check [availability](https://sweethomesrentals.com/property/paradise-court?checkin=&checkout=&num_guests=2)  
-[Click here for the details and inquiry info](https://docs.google.com/forms/d/e/1FAIpQLSe6O1vz82OydnkZjX2zPweaGWW1eb-O0fKW0hC06WWhn0LLuA/viewform?usp=sf_link)  
