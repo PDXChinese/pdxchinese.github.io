@@ -73,6 +73,10 @@ feature_row8:
   - image_path: /assets/images/auction/li_fu_01.jpg
     title: "#19 汾酒2瓶"
     excerpt: "<p>汾酒，青花30款，清香型，53度，两瓶装(每瓶258ml), from $100 (now $120). Donated by anonymous.</p>"
+feature_row9:
+  - image_path: /assets/images/auction/bai_chuan_10.jpg
+    title: "#20 藏民"
+    excerpt: "<p>Tibetan. 布面油画，不带框，60×70 cm. Oil on canvas, from $380. Authored and donated by Shirakawa (顾更青).</p>"
 ---
 
 {% include feature_row id="feature_row1"%}
@@ -116,3 +120,5 @@ We want to give our heartfelt thanks to the people and organizations for their g
 {% include feature_row id="feature_row7"%}
 
 {% include feature_row id="feature_row8"%}
+
+{% include feature_row id="feature_row9"%}
