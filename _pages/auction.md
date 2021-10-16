@@ -86,7 +86,13 @@ feature_row9:
 feature_row10:
   - image_path: /assets/images/auction/bai_chuan_10.jpg
     title: "#21 藏民"
-    excerpt: "<p>Tibetan. 布面油画，不带框，60×70 cm. Oil on canvas, from $380. Authored and donated by Shirakawa (顾更青).</p>"
+    excerpt: "<p>Tibetan. 布面油画，不带框，60 × 70 cm. Oil on canvas, from $380. Authored and donated by Shirakawa (顾更青).</p>"
+  - image_path: /assets/images/auction/steve_chen_01.jpg
+    title: "#22 套色版画"
+    excerpt: "<p>Idyilic Scenery, Block printing, framed, 15.5 × 15.5 inches, from $400. Authored and donated by Steve Chen.</p>"
+  - image_path: /assets/images/auction/steve_chen_02.jpg
+    title: "#23 套色版画"
+    excerpt: "<p>Lan Su Garden, Block printing, framed, 13.5 × 15.0 inches, from $400. Authored and donated by Steve Chen.</p>"
 ---
 
 {% include feature_row id="feature_row1"%}
