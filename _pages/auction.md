@@ -74,8 +74,18 @@ feature_row8:
     title: "#19 汾酒2瓶"
     excerpt: "<p>汾酒，青花30款，清香型，53度，两瓶装(每瓶258ml), from $100 (now $120). Donated by anonymous.</p>"
 feature_row9:
+  - image_path: /assets/images/auction/bai_chuan_11a.jpg
+    title: "#20 苏扇三件套"
+    excerpt: "<p>Su Fan (one of set), Paper colors, framed, 60 × 32 cm, from $160. Originally prepared for his solo exhibition on Tibet 1988-2020 in Lan Su Chinese Garden. Authored and donated by Shirakawa (顾更青).</p>"
+  - image_path: /assets/images/auction/bai_chuan_11b.jpg
+    title: "#20 苏扇三件套"
+    excerpt: "<p>Su Fan (one of set), 52 × 30 cm</p>"
+  - image_path: /assets/images/auction/bai_chuan_11c.jpg
+    title: "#20 苏扇三件套"
+    excerpt: "<p>Su Fan (one of set), 45 × 23 cm</p>"
+feature_row10:
   - image_path: /assets/images/auction/bai_chuan_10.jpg
-    title: "#20 藏民"
+    title: "#21 藏民"
     excerpt: "<p>Tibetan. 布面油画，不带框，60×70 cm. Oil on canvas, from $380. Authored and donated by Shirakawa (顾更青).</p>"
 ---
 
@@ -124,3 +134,5 @@ If you want to view the pictures in original size, lease contact us at [outreach
 {% include feature_row id="feature_row8"%}
 
 {% include feature_row id="feature_row9"%}
+
+{% include feature_row id="feature_row10"%}
