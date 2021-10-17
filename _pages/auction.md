@@ -92,7 +92,7 @@ feature_row10:
     excerpt: "<p>Idyilic Scenery, Block printing, framed, 15.5 × 15.5 inches, from $400. Authored and donated by Steve Chen.</p>"
   - image_path: /assets/images/auction/steve_chen_02.jpg
     title: "#23 套色版画"
-    excerpt: "<p>Lan Su Garden, Block printing, framed, 13.5 × 15.0 inches, from $400. Authored and donated by Steve Chen.</p>"
+    excerpt: "<p>Lan Su Garden, Block printing, framed, 13.5 × 15.0 inches, from $400 (now $500). Authored and donated by Steve Chen.</p>"
 ---
 
 {% include feature_row id="feature_row1"%}
