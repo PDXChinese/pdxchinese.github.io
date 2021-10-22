@@ -93,6 +93,10 @@ feature_row10:
   - image_path: /assets/images/auction/steve_chen_02.jpg
     title: "#23 套色版画"
     excerpt: "<p>Lan Su Garden, Block printing, framed, 13.5 × 15.0 inches, from $400 (now $500). Authored and donated by Steve Chen.</p>"
+feature_row11:
+  - image_path: /assets/images/auction/chen_kai_01.jpg
+    title: "#24 Sandy度假屋"
+    excerpt: "<p>Very relaxing one bedroom suite (ADU) with River View at Sandy, Vacation Rental Two nights, schedule according to the availability, Valid through the end of April, 2022. from $300. Donatedby by anonymous.</p>"
 ---
 
 {% include feature_row id="feature_row1"%}
@@ -142,3 +146,5 @@ If you want to view the pictures in original size, lease contact us at [outreach
 {% include feature_row id="feature_row9"%}
 
 {% include feature_row id="feature_row10"%}
+
+{% include feature_row id="feature_row11"%}
