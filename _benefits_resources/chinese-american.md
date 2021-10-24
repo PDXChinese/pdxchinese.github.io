@@ -1,5 +1,5 @@
 ---
-title: "Chinese American in Oregon"
+title: "华人在当地，俄勒冈和美国"
 feature_row1:
   - image_path: /assets/images/logo/halloffame.png
 ---
