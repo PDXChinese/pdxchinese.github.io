@@ -17,3 +17,11 @@ feature_row1:
 如果您合格，州政府可以免费提供看护，看护形式多样，您申请后会有指派的专人与您联系：
 
 [Seniors and People with Physical Disabilities](https://www.oregon.gov/dhs/SENIORS-DISABILITIES/SPPD/Pages/index.aspx)
+
+### 您计划入籍考试需要帮助怎么办
+
+[您可以利用林肯高中学生为社区提供的免费公民入籍考试准备课程](https://pdxchinese.org/resources/benefits_community/mission-citizen/)
+
+### 老人或残疾人出外需要车怎么办
+
+[Ride Connection (出行无忧)](https://pdxchinese.org/resources/benefits_community/ride-connection/)是一家位于俄勒冈州波特兰市的私人非营利组织。通过提供免费的交通服务，为人们提供独立和健康的出行。出行无忧的服务区域包括华盛顿郡(Washington County)和姆尔特诺默郡(Multnomah County)；服务对象是年满60岁的老年人、残障人士和低收入者。
