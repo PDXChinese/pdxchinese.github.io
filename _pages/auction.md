@@ -19,7 +19,7 @@ feature_row3:
     excerpt: "<p>Tibetan Little Girl. Oil on paper 纸本油画, 35 × 45 cm, from $200, Painted in 1988, Authored and donated by Shirakawa (顾更青).</p>"
   - image_path: /assets/images/auction/eric_shi_01.jpg
     title: "#05 签名黑皮诺"
-    excerpt: "<p>Vintage Lingua Franca Estate Pinot Noir 2016, signed by <a href='https://mp.weixin.qq.com/s/3uL4-TTy5FTXPtBn9bJO4Q'>MS侍酒师大师 Larry Stone and 酿酒师 Thomas Savre</a>, from $120 (now $140), Donated by Eric Shi.</p>"
+    excerpt: "<p>Vintage Lingua Franca Estate Pinot Noir 2016, signed by <a href='https://mp.weixin.qq.com/s/3uL4-TTy5FTXPtBn9bJO4Q'>MS侍酒师大师 Larry Stone and 酿酒师 Thomas Savre</a>, from $120 (now $160), Donated by Eric Shi.</p>"
   - image_path: /assets/images/auction/eric_shi_02.jpg
     title: "#06 湖中泛舟"
     excerpt: "<p>A special package for two.  Pick a summer morning in 2022 to tour the Lake Oswego by private boat and boating to 5-star rated restaurant Five Spice for a private lunch, from $250 (now $550). Donated by anonymous.</p>"
@@ -72,7 +72,7 @@ feature_row8:
     excerpt: "<p>Breath of Spring series #4, Ink and watercolor on rice paper 宣纸水墨泼彩, 27 × 27 inches, from $350 (now $400). Authored and donated by Shirakawa (顾更青).</p>"
   - image_path: /assets/images/auction/li_fu_01.jpg
     title: "#19 汾酒2瓶"
-    excerpt: "<p>汾酒，青花30款，清香型，53度，两瓶装(每瓶258ml), from $100 (now $120). Donated by anonymous.</p>"
+    excerpt: "<p>汾酒，青花30款，清香型，53度，两瓶装(每瓶258ml), from $100 (now $140). Donated by anonymous.</p>"
 feature_row9:
   - image_path: /assets/images/auction/bai_chuan_11a.jpg
     title: "#20 苏扇三件套"
