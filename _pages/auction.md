@@ -42,7 +42,7 @@ feature_row5:
     excerpt: "<p>The number one 福 in the world, by <a href='http://www.zgyxwzh.com/news.php?cid=5&id=1803'>爱新觉罗焘平</a>, one of the most famous Chinese calligraphers, 27 x 27 inches, from $880. Donatedby by anonymous.</p>"
   - image_path: /assets/images/auction/bai_chuan_03.jpg
     title: "#12 藏族小女孩"
-    excerpt: "<p>Tibetan Little Girl. 布面油画，不带框，60×70 cm. Oil on canvas, from $900. Authored and donated by Shirakawa (顾更青).</p>"
+    excerpt: "<p>Tibetan Little Girl. 布面油画，不带框，60×70 cm. Oil on canvas, from $900 (now $1000). Authored and donated by Shirakawa (顾更青).</p>"
 feature_row6:
   - image_path: /assets/images/auction/bai_chuan_04a.jpg
     title: "#13 苏州苏扇"
@@ -76,7 +76,7 @@ feature_row8:
 feature_row9:
   - image_path: /assets/images/auction/bai_chuan_11a.jpg
     title: "#20 苏扇三件套"
-    excerpt: "<p>Su Fan (one of set), Paper colors, framed, 60 × 32 cm, from $160. Originally prepared for his solo exhibition on Tibet 1988-2020 in Lan Su Chinese Garden. Authored and donated by Shirakawa (顾更青).</p>"
+    excerpt: "<p>Su Fan (one of set), Paper colors, framed, 60 × 32 cm, from $160 (now $350). Originally prepared for his solo exhibition on Tibet 1988-2020 in Lan Su Chinese Garden. Authored and donated by Shirakawa (顾更青).</p>"
   - image_path: /assets/images/auction/bai_chuan_11b.jpg
     title: "#20 苏扇三件套"
     excerpt: "<p>Su Fan (one of set), 52 × 30 cm</p>"
