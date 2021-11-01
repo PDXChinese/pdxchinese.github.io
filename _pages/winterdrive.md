@@ -31,18 +31,20 @@ Winter Drive flyer: [Sample 1](/assets/images/activities/2020_flyer_fpe.jpg), [S
 
 Entirely run by students from local schools. To join, please [register here](https://docs.google.com/forms/d/e/1FAIpQLSdrA8gtPEE5_7kHLy67J5aQJpBaAxnMR-nlSZLc9KiupzaE_A/viewform?usp=sf_link).
 
-| Name | School/Organization | Drop Off Location |
-| --- | --- | --- |
-| Benjamin Chen | Westview High School | Stoller Middle School |
-| Theo Guo | Jesuit High School | Soller Middle School |
-| --- | --- | --- |
-| Annie Cai | Lakeridge High School | Lake Oswego High School |
-| Jenell Theobald | Internation School of Beaverton | Lake Oswego High School |
-| Yuxuan Xiao | Lakeridge High School | Lake Oswego High School |
-| Amy Zou  | Lakeridge High School | Lake Oswego High School |
-| Qianyi Zou | Lakeridge High School | Lake Oswego High School |
-| --- | --- | --- |
-| Andrea Lan | Lincoln High School | Forest Park Elementary |
+| Name/Drop Off Location | School/Organization |
+| --- | --- |
+| Stoller Middle School | |
+| Benjamin Chen | Westview High School |
+| Theo Guo | Jesuit High School |
+| Lake Oswego High School | |
+| Annie Cai | Lakeridge High School |
+| Jenell Theobald | Internation School of Beaverton |
+| Zitong Wang | River Grove Elementary |
+| Yuxuan Xiao | Lakeridge High School |
+| Amy Zou  | Lakeridge High School |
+| Qianyi Zou | Lakeridge High School |
+| Forest Park Elementary  | |
+| Andrea Lan | Lincoln High School | 
 
 ## Donation Items
 
