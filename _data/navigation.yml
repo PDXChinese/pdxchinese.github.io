@@ -22,7 +22,7 @@ main:
 extra:
   - title:
     children:
-      - title: "<b>Charity Auction</b>"
+      - title: "Charity Auction"
         url: /auction/
       - title: "Mental Health"
         url: /mentalhealth/
@@ -30,11 +30,11 @@ extra:
         url: /volunteering/
       - title: "Weekly Talk"
         url: /weeklytalk/
-      - title: "Winter Drive"
+      - title: "<b>Winter Drive</b>"
         url: /winterdrive/
       - title: "---"
         url:
-      - title: "<b>Pen Pal Project</b>"
+      - title: "Pen Pal Project"
         url: /penpal/
       - title: "PVSA Honorees"
         url: /pvsa/
