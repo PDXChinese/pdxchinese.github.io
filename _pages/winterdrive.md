@@ -33,12 +33,16 @@ Entirely run by students from local schools. To join, please [register here](htt
 
 | Name | School/Organization | Drop Off Location |
 | --- | --- | --- |
-| Annie Cai | Lakeridge High School | Lake Oswego High School |
 | Benjamin Chen | Westview High School | Stoller Middle School |
 | Theo Guo | Jesuit High School | Soller Middle School |
-| Andrea Lan | Lincoln High School | Forest Park Elementary |
+| --- | --- | --- |
+| Annie Cai | Lakeridge High School | Lake Oswego High School |
+| Jenell Theobald | Internation School of Beaverton | Lake Oswego High School |
+| Yuxuan Xiao | Lakeridge High School | Lake Oswego High School |
 | Amy Zou  | Lakeridge High School | Lake Oswego High School |
 | Qianyi Zou | Lakeridge High School | Lake Oswego High School |
+| --- | --- | --- |
+| Andrea Lan | Lincoln High School | Forest Park Elementary |
 
 ## Donation Items
 
