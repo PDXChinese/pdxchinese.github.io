@@ -23,7 +23,7 @@ permalink: /winterdrive/
 | Corvallis | TBD | |
 | Vancouver, WA | TBD | |
 
-Winter Drive flyer: [Forest Park](/assets/images/activities/2020_flyer_fpe.jpg), [Lake Oswego](/assets/images/activities/2020_flyer_lo.jpg), [Stoller, Bethany, Sunset](/assets/images/activities/2020_flyer_bethany.jpg), [Woodstock](/assets/images/activities/2020_flyer_woodstock.png)
+Winter Drive flyer: [Sample 1](/assets/images/activities/2020_flyer_fpe.jpg), [Sample 2](/assets/images/activities/2020_flyer_lo.jpg)
 
 **[2021 OCC Donation Receipt](/assets/images/activities/occ_donation_receipt_2020.pdf)**
 
