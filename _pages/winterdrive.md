@@ -33,6 +33,11 @@ Entirely run by students from local schools. To join, please [register here](htt
 
 | Name | School/Organization | Drop Off Location |
 | --- | --- | --- |
+| Annie Cai | Lakeridge High School | Lake Oswego High School |
+| Benjamin Chen | Westview High School | Stoller Middle School |
+| Andrea Lan | Lincoln High School | Forest Park Elementary |
+| Amy Zou  | Lakeridge High School | Lake Oswego High School |
+| Qianyi Zou | Lakeridge High School | Lake Oswego High School |
 
 ## Donation Items
 
@@ -62,7 +67,7 @@ Soap, shampoo, tooth brush, tooth paste, feminine hygiene items, toilet paper, e
 
 ## Agencies to Receive our Donations
 
-[Transition Projects](https://www.tprojects.org/)
+[Transition Projects](https://www.tprojects.org/)  
 [Clay Street Table](http://claystreettable.org/)  
 
 ## Archive
