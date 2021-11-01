@@ -21,7 +21,7 @@ permalink: /winterdrive/
 | Bridlemile | Hamilton Park | |
 | Eugene | TBD | |
 | Corvallis | TBD | |
-| Vancouver, WA) | TBD | |
+| Vancouver, WA | TBD | |
 
 Winter Drive flyer: [Forest Park](/assets/images/activities/2020_flyer_fpe.jpg), [Lake Oswego](/assets/images/activities/2020_flyer_lo.jpg), [Stoller, Bethany, Sunset](/assets/images/activities/2020_flyer_bethany.jpg), [Woodstock](/assets/images/activities/2020_flyer_woodstock.png)
 
@@ -35,6 +35,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 | --- | --- | --- |
 | Annie Cai | Lakeridge High School | Lake Oswego High School |
 | Benjamin Chen | Westview High School | Stoller Middle School |
+| Theo Guo | Jesuit High School | Soller Middle School |
 | Andrea Lan | Lincoln High School | Forest Park Elementary |
 | Amy Zou  | Lakeridge High School | Lake Oswego High School |
 | Qianyi Zou | Lakeridge High School | Lake Oswego High School |
