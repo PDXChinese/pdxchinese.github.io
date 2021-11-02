@@ -18,7 +18,7 @@ permalink: /winterdrive/
 | NW Portland | [Forest Park Elementary School](https://www.google.com/maps/place/Forest+Park+Elementary School+School/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
 | SE Portland #1 | [Woodstock Elementary](https://www.google.com/maps/@45.4826914,-122.6113733,3a,75y,345.06h,103.47t/data=!3m6!1e1!3m4!1sB68Lfe4g0Fuzlo0V6pfItQ!2e0!7i16384!8i8192) | On south side of the building |
 | SE Portland #2 | TBD, in SE 82nd Ave | |
-| Bridlemile | Hamilton Park | |
+| Bridlemile | [Hamilton Park](https://www.google.com/maps/place/Hamilton+City+Park,+Portland,+OR+97221/@45.4917709,-122.7220884,15z/data=!4m5!3m4!1s0x0:0xf0e5b71c4defafee!8m2!3d45.4917709!4d-122.7220884) | |
 | Eugene | [Kennedy Middle School](https://www.google.com/maps/place/Kennedy+Middle+School/@44.0359954,-123.1549454,15z/data=!4m5!3m4!1s0x0:0xa0b4c4263ee1b590!8m2!3d44.0359705!4d-123.1549451) | |
 | Corvallis | TBD | |
 | Vancouver, WA | TBD | |
