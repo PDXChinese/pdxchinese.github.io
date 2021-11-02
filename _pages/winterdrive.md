@@ -37,6 +37,8 @@ Entirely run by students from local schools. To join, please [register here](htt
 | --- | --- |
 | :one: [Sunset High School](https://www.google.com/maps/place/Sunset+High+School/@45.5281211,-122.8205103,15z/data=!4m2!3m1!1s0x0:0xee13c5fd283ea1a8?ved=2ahUKEwj2-Mi2udPeAhVKyFQKHigh SchoolB5DhAQ_BIwCnoECAUQCA) | |
 | Jason Fu | Sunset High School|
+| Alice Song | Jacob Wismer Elementary |
+| Eleanor Song | Sunset High School |
 | Reina Wang | Sunset High School |
 | :two: [Stoller Middle School](https://www.google.com/maps/place/Stoller+Middle+School/@45.557277,-122.822358,15z/data=!4m2!3m1!1s0x0:0x8ed51b34f0447f22?ved=2ahUKEwj43-zdudPeAhVO7VQKHe5DBqkQ_BIwD3oECAYQCA) | |
 | Theo Guo | Jesuit High School |
@@ -51,6 +53,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 | :four: [Forest Park Elementary School](https://www.google.com/maps/place/Forest+Park+Elementary School+School/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
 | Kyle Chen | Lincoln High School |
 | Andrea Lan | Lincoln High School |
+| Faye Zhang | Lincoln High School |
 
 ## Donation Items
 
