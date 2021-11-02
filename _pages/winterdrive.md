@@ -54,6 +54,9 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Kyle Chen | Lincoln High School |
 | Andrea Lan | Lincoln High School |
 | Faye Zhang | Lincoln High School |
+| :eight: [Hamilton Park](https://www.google.com/maps/place/Hamilton+City+Park,+Portland,+OR+97221/@45.4917709,-122.7220884,15z/data=!4m5!3m4!1s0x0:0xf0e5b71c4defafee!8m2!3d45.4917709!4d-122.7220884) | |
+| Jasper Xu | Bridlemile Elemantary |
+| Oscar Xu | Bridlemile Elemantary |
 
 ## Donation Items
 
