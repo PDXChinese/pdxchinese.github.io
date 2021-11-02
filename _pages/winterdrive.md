@@ -59,7 +59,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Oscar Xu | Bridlemile Elemantary |
 | :nine: [Kennedy Middle School](https://www.google.com/maps/place/Kennedy+Middle+School/@44.0359954,-123.1549454,15z/data=!4m5!3m4!1s0x0:0xa0b4c4263ee1b590!8m2!3d44.0359705!4d-123.1549451) | |
 | Qianying (Lydia) Li | Roosevelt Middle School |
-| Liam Priest | |
+| Liam Priest | Spencer Butte Middle School |
 
 ## Donation Items
 
