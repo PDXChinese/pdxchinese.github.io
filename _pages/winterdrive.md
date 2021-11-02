@@ -19,7 +19,7 @@ permalink: /winterdrive/
 | SE Portland #1 | [Woodstock Elementary](https://www.google.com/maps/@45.4826914,-122.6113733,3a,75y,345.06h,103.47t/data=!3m6!1e1!3m4!1sB68Lfe4g0Fuzlo0V6pfItQ!2e0!7i16384!8i8192) | On south side of the building |
 | SE Portland #2 | TBD, in SE 82nd Ave | |
 | Bridlemile | Hamilton Park | |
-| Eugene | TBD | |
+| Eugene | [Kennedy Middle School](https://www.google.com/maps/place/Kennedy+Middle+School/@44.0359954,-123.1549454,15z/data=!4m5!3m4!1s0x0:0xa0b4c4263ee1b590!8m2!3d44.0359705!4d-123.1549451) | |
 | Corvallis | TBD | |
 | Vancouver, WA | TBD | |
 
@@ -33,6 +33,8 @@ Entirely run by students from local schools. To join, please [register here](htt
 
 | Name/Drop Off Location | School/Organization |
 | --- | --- |
+| [Sunset High School](https://www.google.com/maps/place/Sunset+High+School/@45.5281211,-122.8205103,15z/data=!4m2!3m1!1s0x0:0xee13c5fd283ea1a8?ved=2ahUKEwj2-Mi2udPeAhVKyFQKHigh SchoolB5DhAQ_BIwCnoECAUQCA) | |
+| Jason Fu | SunsetHighSchool|
 | [Stoller Middle School](https://www.google.com/maps/place/Stoller+Middle+School/@45.557277,-122.822358,15z/data=!4m2!3m1!1s0x0:0x8ed51b34f0447f22?ved=2ahUKEwj43-zdudPeAhVO7VQKHe5DBqkQ_BIwD3oECAYQCA) | |
 | Theo Guo | Jesuit High School |
 | [Lake Oswego High School](https://www.google.com/maps/place/Westlake+Park/@45.4240433,-122.738775,16z/data=!4m5!3m4!1s0x0:0xf92db3a1fa94a97e!8m2!3d45.4253979!4d-122.726774) | |
