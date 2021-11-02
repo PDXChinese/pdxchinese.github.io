@@ -9,6 +9,8 @@ permalink: /winterdrive/
 **Date:** November 20, 2020 Saturday, 1:00 pm - 4:00 pm  
 **Place:** Tentatively 11 drop off locations across State of Oregon  
 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DDGcnMkl_hOzU-W7GuZiZ8RI-FF91bFS" width="640" height="480"></iframe>
+
 | Area | School/Location | Spot if Specified |
 | --- | --- | --- |
 | Beaverton | [Sunset High School](https://www.google.com/maps/place/Sunset+High+School/@45.5281211,-122.8205103,15z/data=!4m2!3m1!1s0x0:0xee13c5fd283ea1a8?ved=2ahUKEwj2-Mi2udPeAhVKyFQKHigh SchoolB5DhAQ_BIwCnoECAUQCA) | Outside school main entrance|
