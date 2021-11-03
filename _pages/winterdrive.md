@@ -39,6 +39,8 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Jason Fu | Sunset High School|
 | Alice Song | Jacob Wismer Elementary |
 | Eleanor Song | Sunset High School |
+| Ian Teh | Sunset High School |
+| Jeffrey Teh | Sunset High School |
 | Reina Wang | Sunset High School |
 | :two: [Stoller Middle School](https://www.google.com/maps/place/Stoller+Middle+School/@45.557277,-122.822358,15z/data=!4m2!3m1!1s0x0:0x8ed51b34f0447f22?ved=2ahUKEwj43-zdudPeAhVO7VQKHe5DBqkQ_BIwD3oECAYQCA) | |
 | Theo Guo | Jesuit High School |
