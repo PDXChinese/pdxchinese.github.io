@@ -44,6 +44,8 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Reina Wang | Sunset High School |
 | :two: [Stoller Middle School](https://www.google.com/maps/place/Stoller+Middle+School/@45.557277,-122.822358,15z/data=!4m2!3m1!1s0x0:0x8ed51b34f0447f22?ved=2ahUKEwj43-zdudPeAhVO7VQKHe5DBqkQ_BIwD3oECAYQCA) | |
 | Theo Guo | Jesuit High School |
+| Ethan Qin | Westview High School |
+| Anthony Qin | | Westview High School |
 | [:four: Lake Oswego High School](https://www.google.com/maps/place/Westlake+Park/@45.4240433,-122.738775,16z/data=!4m5!3m4!1s0x0:0xf92db3a1fa94a97e!8m2!3d45.4253979!4d-122.726774) | |
 | Annie Cai | Lakeridge High School |
 | Jenell Theobald | Internation School of Beaverton |
@@ -55,6 +57,8 @@ Entirely run by students from local schools. To join, please [register here](htt
 | :five: [Forest Park Elementary School](https://www.google.com/maps/place/Forest+Park+Elementary School+School/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
 | Kyle Chen | Lincoln High School |
 | Andrea Lan | Lincoln High School |
+| Zhi Qu | Oregon Episcopal School |
+| Zong Qu | Cedar Mill Elementary |
 | Faye Zhang | Lincoln High School |
 | :eight: [Hamilton Park](https://www.google.com/maps/place/Hamilton+City+Park,+Portland,+OR+97221/@45.4917709,-122.7220884,15z/data=!4m5!3m4!1s0x0:0xf0e5b71c4defafee!8m2!3d45.4917709!4d-122.7220884) | |
 | Jasper Xu | Bridlemile Elemantary |
