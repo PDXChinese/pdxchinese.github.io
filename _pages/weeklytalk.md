@@ -81,9 +81,9 @@ Under the circumstances that the epidemic severely limits people's lives, how ca
 
 Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and the time will generally be controlled at one hour. The registration is required for each event.
 
-### 10.27.2021 Saturday 3pm
+### 11.06.2021 Saturday 3pm
 
-Navigating Youth Cultural Identity
+Meet with Attoney on Honme Owners’ Legal Rights
 
 {% include feature_row id="feature_row29"%}
 
@@ -98,7 +98,7 @@ Please register [here](https://us02web.zoom.us/meeting/register/tZ0pd-utqzwjG9EG
 
 ### 05.22.2021 Saturday 3pm
 
-Meet with Attoney on Honme Owners' Legal Rights
+Navigating Youth Cultural Identity
 
 {% include feature_row id="feature_row28"%}
 
