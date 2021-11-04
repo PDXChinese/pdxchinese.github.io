@@ -71,6 +71,8 @@ feature_row27:
     - image_path: /assets/images/activities/talk_tkxu.jpg
 feature_row28:
     - image_path: /assets/images/activities/talk_kim.jpg
+feature_row29:
+    - image_path: /assets/images/activities/talk_kevin.jpg
 ---
 
 {% include feature_row id="feature_row0"%}
@@ -78,6 +80,21 @@ feature_row28:
 Under the circumstances that the epidemic severely limits people's lives, how can we all be able to stay connected, not only can make use of ample time, but also take advantage of virtual resources to do some things that are usually difficult to do. The answer we give is to organize Weekly Talk on the Zoom platform. The presenter can be from inside or outside of the community, and the topic is not limited. The audience can be all ages.
 
 Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and the time will generally be controlled at one hour. The registration is required for each event.
+
+### 10.27.2021 Saturday 3pm
+
+Navigating Youth Cultural Identity
+
+{% include feature_row id="feature_row29"%}
+
+[Kevin Harker](https://harkerlepore.com/kvh)’s legal experience comes from working in a wide range of areas, including civil litigation, construction defect litigation, business entity formation, HOA, and landlord-tenant law. During law school he worked for the legal department of SEIU Local 503 assisting with union member grievances and arbitrations.Kevin has practiced community association law for the last 11 years, litigating numerous construction defect cases, handling the collection of assessments, revising governing documents, and serving as legal counsel to condominium and homeowner associations in Washington, Oregon and Utah. 
+
+-Historical housing discrimination  在住房领域历史上存在的歧视简单回顾和影响  
+-CC&Rs and other property covenants 地产及相关合同无小事  
+-Federal and state fair housing laws 您所需要了解的联邦和州公平住房相关法律  
+-Litigating and resolving housing discrimination claims 什么情况下决定起诉和针对住房歧视的索赔  
+
+Please register [here](https://us02web.zoom.us/meeting/register/tZ0pd-utqzwjG9EGE6E1gXE-ob8Z-TbqFH3I) to reserve your spot.
 
 ### 05.22.2021 Saturday 3pm
 
@@ -114,8 +131,6 @@ U. S. Army Rifle Expert Shooter, Certified Combat Life Saver
 IDPA Expert Shooter (ESP Division)  
 3rd Degree Black Belt, World Taekwondo Federation  
 YouTube Channel: TK Xu  
-
-Please register [here](https://us02web.zoom.us/meeting/register/tZcoc-uuqjouGtfR3PyhHt4eJnZMfVuTDNk2) to reserve your spot.
 
 ### 05.10.2021 Monday 6:30pm
 
