@@ -46,6 +46,9 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Michael Fu | Stoller Middle School |
 | Theo Guo | Jesuit High School |
 | Jayden Mei | Tumwater Middle School |
+|Steven Niu | Catlin Gabel School |
+| Brayden Wang | Westview High School |
+| Lucas Wang | International School of Beaverton |
 | Winston Zhang | Stoller Middle School |
 | :three: Bethany Village | [QFC parking lot](https://www.google.com/maps/place/Walgreens/@45.555242,-122.836414,17.25z/data=!4m5!3m4!1s0x0:0x13e6b71d8ca8bcde!8m2!3d45.5551922!4d-122.8352382) |
 | Ethan Qin | Westview High School |
@@ -66,6 +69,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Zhi Qu | Oregon Episcopal School |
 | Zong Qu | Cedar Mill Elementary |
 | Faye Zhang | Lincoln High School |
+| Jerry Zhou | Oregon Episcopal School |
 | :eight: [Hamilton Park](https://www.google.com/maps/place/Hamilton+City+Park,+Portland,+OR+97221/@45.4917709,-122.7220884,15z/data=!4m5!3m4!1s0x0:0xf0e5b71c4defafee!8m2!3d45.4917709!4d-122.7220884) | |
 | Jasper Xu | Bridlemile Elemantary |
 | Oscar Xu | Bridlemile Elemantary |
