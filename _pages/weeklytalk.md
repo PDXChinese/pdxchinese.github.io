@@ -98,7 +98,7 @@ Please register [here](https://us02web.zoom.us/meeting/register/tZ0pd-utqzwjG9EG
 
 ### 05.22.2021 Saturday 3pm
 
-Meet with Attoney on Honme Owners' Legal Rights 
+Meet with Attoney on Honme Owners' Legal Rights
 
 {% include feature_row id="feature_row28"%}
 
