@@ -53,6 +53,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 | :three: Bethany Village | [QFC parking lot](https://www.google.com/maps/place/Walgreens/@45.555242,-122.836414,17.25z/data=!4m5!3m4!1s0x0:0x13e6b71d8ca8bcde!8m2!3d45.5551922!4d-122.8352382) |
 | Ethan Qin | Westview High School |
 | Anthony Qin | Westview High School |
+| Daniel Xian | Catlin Gabel School |
 | Ethan Zhang | Westview High School |
 | Lucas Zhang | Stoller Middle School |
 | :four: [Lake Oswego High School](https://www.google.com/maps/place/Westlake+Park/@45.4240433,-122.738775,16z/data=!4m5!3m4!1s0x0:0xf92db3a1fa94a97e!8m2!3d45.4253979!4d-122.726774) | |
