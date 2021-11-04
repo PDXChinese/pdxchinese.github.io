@@ -47,6 +47,8 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Theo Guo | Jesuit High School |
 | Ethan Qin | Westview High School |
 | Anthony Qin | Westview High School |
+| Ethan Zhang | Westview High School |
+| Lucas Zhang | Stoller Middle School |
 | Winston Zhang | Stoller Middle School |
 | [:four: Lake Oswego High School](https://www.google.com/maps/place/Westlake+Park/@45.4240433,-122.738775,16z/data=!4m5!3m4!1s0x0:0xf92db3a1fa94a97e!8m2!3d45.4253979!4d-122.726774) | |
 | Annie Cai | Lakeridge High School |
