@@ -87,7 +87,7 @@ Navigating Youth Cultural Identity
 
 {% include feature_row id="feature_row29"%}
 
-[Kevin Harker](https://harkerlepore.com/kvh)’s legal experience comes from working in a wide range of areas, including civil litigation, construction defect litigation, business entity formation, HOA, and landlord-tenant law. During law school he worked for the legal department of SEIU Local 503 assisting with union member grievances and arbitrations.Kevin has practiced community association law for the last 11 years, litigating numerous construction defect cases, handling the collection of assessments, revising governing documents, and serving as legal counsel to condominium and homeowner associations in Washington, Oregon and Utah. 
+[Kevin Harker](https://harkerlepore.com/kvh)’s legal experience comes from working in a wide range of areas, including civil litigation, construction defect litigation, business entity formation, HOA, and landlord-tenant law. During law school he worked for the legal department of SEIU Local 503 assisting with union member grievances and arbitrations.Kevin has practiced community association law for the last 11 years, litigating numerous construction defect cases, handling the collection of assessments, revising governing documents, and serving as legal counsel to condominium and homeowner associations in Washington, Oregon and Utah.
 
 -Historical housing discrimination  在住房领域历史上存在的歧视简单回顾和影响  
 -CC&Rs and other property covenants 地产及相关合同无小事  
@@ -98,7 +98,7 @@ Please register [here](https://us02web.zoom.us/meeting/register/tZ0pd-utqzwjG9EG
 
 ### 05.22.2021 Saturday 3pm
 
-Navigating Youth Cultural Identity
+Meet with Attoney on Honme Owners' Legal Rights 
 
 {% include feature_row id="feature_row28"%}
 
