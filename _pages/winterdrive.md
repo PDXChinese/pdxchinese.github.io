@@ -58,6 +58,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Lucas Zhang | Stoller Middle School |
 | :four: [Lake Oswego High School](https://www.google.com/maps/place/Westlake+Park/@45.4240433,-122.738775,16z/data=!4m5!3m4!1s0x0:0xf92db3a1fa94a97e!8m2!3d45.4253979!4d-122.726774) | |
 | Annie Cai | Lakeridge High School |
+| Leon Liu | Catlin Gabel School |
 | Jenell Theobald | Internation School of Beaverton |
 | Sophia Wang | Lake Oswego High School |
 | Zitong Wang | River Grove Elementary |
@@ -65,6 +66,8 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Amy Zou  | Lakeridge High School |
 | Qianyi Zou | Lakeridge High School |
 | :five: [Forest Park Elementary School](https://www.google.com/maps/place/Forest+Park+Elementary School+School/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
+| Eric Chen | Access Academy |
+| Jenny Chen | Lincoln High School |
 | Kyle Chen | Lincoln High School |
 | Andrea Lan | Lincoln High School |
 | Zhi Qu | Oregon Episcopal School |
