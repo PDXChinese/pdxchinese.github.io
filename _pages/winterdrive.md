@@ -75,6 +75,8 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Zong Qu | Cedar Mill Elementary |
 | Faye Zhang | Lincoln High School |
 | Jerry Zhou | Oregon Episcopal School |
+| :six: [Woodstock Elementary](https://www.google.com/maps/@45.4826914,-122.6113733,3a,75y,345.06h,103.47t/data=!3m6!1e1!3m4!1sB68Lfe4g0Fuzlo0V6pfItQ!2e0!7i16384!8i8192) | |
+| Alexander Cai | Woodstock Elementary |
 | :eight: [Hamilton Park](https://www.google.com/maps/place/Hamilton+City+Park,+Portland,+OR+97221/@45.4917709,-122.7220884,15z/data=!4m5!3m4!1s0x0:0xf0e5b71c4defafee!8m2!3d45.4917709!4d-122.7220884) | |
 | Jasper Xu | Bridlemile Elemantary |
 | Oscar Xu | Bridlemile Elemantary |
