@@ -83,6 +83,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Kieran Priest | Chinese Immersion School |
 | Liam Priest | Spencer Butte Middle School |
 | Jayden Haoqian Yu | Chinese Immersion School |
+| Yunyan Zhang | Spencer Butte Middle School |
 
 ## Donation Items
 
