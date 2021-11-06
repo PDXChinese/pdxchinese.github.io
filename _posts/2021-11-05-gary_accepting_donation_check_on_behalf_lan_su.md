@@ -9,14 +9,14 @@ date: "2021-11-05"
 
 Gary的离职是一个无法弥补的损失，我们只能是更加努力，社区永远会和兰苏园在一起。今天对来自社区捐款，兰苏园非常感谢，现场有员工感动得满眼泪水。前两天我们Email告知筹款数额之后，负责这方面工作的Vanessa回复道，"WOWOWOW!!!!!  This is amazing!!! Maybe I used too many exclamations points, but I mean each of them." 在兰苏园因为疫情和治安环境而遭遇困境的今天，我们社区能伸出援手，其意义已经远远超出了一张支票。在此，我们要再次感谢所有参加筹款活动的群友们，无论是拍卖活动还是现金捐款。
 
-![]({{ site.url }}/assets/images/WeChat Image_20211106120236.jpg)
-
 ![]({{ site.url }}/assets/images/WeChat Image_20211106120308.jpg)
-
-![]({{ site.url }}/assets/images/WeChat Image_20211106120244.jpg)
 
 ![]({{ site.url }}/assets/images/WeChat Image_20211106120301.jpg)
 
 ![]({{ site.url }}/assets/images/WeChat Image_20211106120319.jpg)
+
+![]({{ site.url }}/assets/images/WeChat Image_20211106120244.jpg)
+
+![]({{ site.url }}/assets/images/WeChat Image_20211106120236.jpg)
 
 ![]({{ site.url }}/assets/images/WeChat Image_20211106120137.jpg)
