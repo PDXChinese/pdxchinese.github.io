@@ -47,6 +47,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Michael Fu | Stoller Middle School |
 | Theo Guo | Jesuit High School |
 | Jayden Mei | Tumwater Middle School |
+|Joanna Mei | Sunset High School |
 |Steven Niu | Catlin Gabel School |
 | Brayden Wang | Westview High School |
 | Lucas Wang | International School of Beaverton |
