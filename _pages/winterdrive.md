@@ -16,7 +16,7 @@ permalink: /winterdrive/
 |  | :one: [Sunset High School](https://www.google.com/maps/place/Sunset+High+School/@45.5281211,-122.8205103,15z/data=!4m2!3m1!1s0x0:0xee13c5fd283ea1a8?ved=2ahUKEwj2-Mi2udPeAhVKyFQKHigh SchoolB5DhAQ_BIwCnoECAUQCA) | Outside school main entrance|
 | [:page_facing_up:](/assets/images/activities/winter_drive_2021_stoller.jpg) | :two: [Stoller Middle School](https://www.google.com/maps/place/Stoller+Middle+School/@45.557277,-122.822358,15z/data=!4m2!3m1!1s0x0:0x8ed51b34f0447f22?ved=2ahUKEwj43-zdudPeAhVO7VQKHe5DBqkQ_BIwD3oECAYQCA) | |
 | [:page_facing_up:](/assets/images/activities/winter_drive_2021_qfc.jpg) | :three: Bethany Village | [QFC parking lot](https://www.google.com/maps/place/Walgreens/@45.555242,-122.836414,17.25z/data=!4m5!3m4!1s0x0:0x13e6b71d8ca8bcde!8m2!3d45.5551922!4d-122.8352382) |
-| | :four: Lake Oswego High School | [Westlake Park (next to play structure)](https://www.google.com/maps/place/Westlake+Park/@45.4240433,-122.738775,16z/data=!4m5!3m4!1s0x0:0xf92db3a1fa94a97e!8m2!3d45.4253979!4d-122.726774) |
+| [:page_facing_up:](/assets/images/activities/winter_drive_2021_lo.jpg) | :four: Lake Oswego High School | [Westlake Park (next to play structure)](https://www.google.com/maps/place/Westlake+Park/@45.4240433,-122.738775,16z/data=!4m5!3m4!1s0x0:0xf92db3a1fa94a97e!8m2!3d45.4253979!4d-122.726774) |
 | [:page_facing_up:](/assets/images/activities/winter_drive_2021_fp.jpg) | :five: [Forest Park Elementary School, NW Portland](https://www.google.com/maps/place/Forest+Park+Elementary School+School/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
 | | :six: [Woodstock Elementary, SE Portland](https://www.google.com/maps/@45.4826914,-122.6113733,3a,75y,345.06h,103.47t/data=!3m6!1e1!3m4!1sB68Lfe4g0Fuzlo0V6pfItQ!2e0!7i16384!8i8192) | On south side of the building |
 | | :seven: TBD, in SE 82nd Ave | |
@@ -49,6 +49,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Lucas Wang | International School of Beaverton |
 | Winston Zhang | Stoller Middle School |
 | :three: Bethany Village | [QFC parking lot](https://www.google.com/maps/place/Walgreens/@45.555242,-122.836414,17.25z/data=!4m5!3m4!1s0x0:0x13e6b71d8ca8bcde!8m2!3d45.5551922!4d-122.8352382) |
+| Alice | Valley Catholic Middle School |
 | Ethan Qin | Westview High School |
 | Anthony Qin | Westview High School |
 | Daniel Xian | Catlin Gabel School |
