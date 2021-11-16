@@ -21,6 +21,8 @@ Today, a group of volunteers from the local Chinese American community came to C
 
 ![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_05.jpg)
 
+街头艺人特意为我们演奏了一曲
+
 ![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_06.jpg)
 
 ![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_07.jpg)
@@ -62,6 +64,8 @@ Today, a group of volunteers from the local Chinese American community came to C
 老张夫妇，我们社区公益活动的照片绝大多数来自他的相机。
 
 ![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_24.jpg)
+
+骑自行车的人主动停下来行注目礼
 
 ![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_25.jpg)
 
