@@ -23,7 +23,7 @@ permalink: /winterdrive/
 | [:page_facing_up:](/assets/images/activities/winter_drive_2021_bridlemile.jpg) | :eight: [Hamilton Park, Bridlemile, SW Portland](https://www.google.com/maps/place/Hamilton+City+Park,+Portland,+OR+97221/@45.4917709,-122.7220884,15z/data=!4m5!3m4!1s0x0:0xf0e5b71c4defafee!8m2!3d45.4917709!4d-122.7220884) | |
 | | :nine: [Kennedy Middle School, Eugene](https://www.google.com/maps/place/Kennedy+Middle+School/@44.0359954,-123.1549454,15z/data=!4m5!3m4!1s0x0:0xa0b4c4263ee1b590!8m2!3d44.0359705!4d-123.1549451) | |
 
-**[2021 OCC Donation Receipt](/assets/images/activities/occ_donation_receipt_2020.pdf)**
+**[2021 OCC Donation Receipt](/assets/images/activities/occ_donation_receipt_2021.pdf)**
 
 ## Student Volunteers
 
@@ -116,7 +116,7 @@ Soap, shampoo, tooth brush, tooth paste, feminine hygiene items, toilet paper, e
 ## Agencies to Receive our Donations
 
 [Clay Street Table](http://claystreettable.org/)  
-[Transition Projects](https://www.tprojects.org/)  
+[Transition Projects](https://www.tprojects.org/) ([Donation Item List](/assets/images/activities/transition_project_donation_list.pdf))  
 [White Bird Clinic](https://whitebirdclinic.org/)
 
 ## Archive
