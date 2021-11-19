@@ -115,8 +115,9 @@ Soap, shampoo, tooth brush, tooth paste, feminine hygiene items, toilet paper, e
 
 ## Agencies to Receive our Donations
 
-[Transition Projects](https://www.tprojects.org/)  
 [Clay Street Table](http://claystreettable.org/)  
+[Transition Projects](https://www.tprojects.org/)  
+[White Bird Clinic](https://whitebirdclinic.org/)
 
 ## Archive
 
