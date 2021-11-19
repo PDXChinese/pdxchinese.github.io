@@ -44,8 +44,8 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Michael Fu | Stoller Middle School |
 | Theo Guo | Jesuit High School |
 | Jayden Mei | Tumwater Middle School |
-|Joanna Mei | Sunset High School |
-|Steven Niu | Catlin Gabel School |
+| Joanna Mei | Sunset High School |
+| Steven Niu | Catlin Gabel School |
 | Brayden Wang | Westview High School |
 | Lucas Wang | International School of Beaverton |
 | Winston Zhang | Stoller Middle School |
@@ -59,7 +59,6 @@ Entirely run by students from local schools. To join, please [register here](htt
 | :four: [Lake Oswego High School](https://www.google.com/maps/place/Westlake+Park/@45.4240433,-122.738775,16z/data=!4m5!3m4!1s0x0:0xf92db3a1fa94a97e!8m2!3d45.4253979!4d-122.726774) | |
 | Annie Cai | Lakeridge High School |
 | Leon Liu | Catlin Gabel School |
-| Jenell Theobald | Internation School of Beaverton |
 | Sophia Wang | Lake Oswego High School |
 | Zitong Wang | River Grove Elementary |
 | Yuxuan Xiao | Lakeridge High School |
@@ -72,6 +71,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Andrea Lan | Lincoln High School |
 | Zhi Qu | Oregon Episcopal School |
 | Zong Qu | Cedar Mill Elementary |
+| Austin Yan | Lincoln High School |
 | Faye Zhang | Lincoln High School |
 | Jerry Zhou | Oregon Episcopal School |
 | Maggie Zhou | University of Washington |
