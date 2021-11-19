@@ -7,7 +7,7 @@ permalink: /winterdrive/
 
 # 2021 Community Winter Drive  
 **Date:** November 20, 2020 Saturday, 1:00 pm - 4:00 pm  
-**Place:** Tentatively 11 drop off locations across State of Oregon  
+**Place:** Tentatively 9 drop off locations across State of Oregon  
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DDGcnMkl_hOzU-W7GuZiZ8RI-FF91bFS" width="640" height="480"></iframe>
 
