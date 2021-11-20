@@ -46,6 +46,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Steven Niu | Catlin Gabel School |
 | Brayden Wang | Westview High School |
 | Lucas Wang | International School of Beaverton |
+| Derek Yan | Stoller Middle School |
 | Winston Zhang | Stoller Middle School |
 | :three: Bethany Village | [QFC parking lot](https://www.google.com/maps/place/Walgreens/@45.555242,-122.836414,17.25z/data=!4m5!3m4!1s0x0:0x13e6b71d8ca8bcde!8m2!3d45.5551922!4d-122.8352382) |
 | Ethan Qin | Westview High School |
@@ -56,7 +57,9 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Lucas Zhang | Stoller Middle School |
 | :four: [Lake Oswego High School](https://www.google.com/maps/place/Westlake+Park/@45.4240433,-122.738775,16z/data=!4m5!3m4!1s0x0:0xf92db3a1fa94a97e!8m2!3d45.4253979!4d-122.726774) | |
 | Annie Cai | Lakeridge High School |
+| Kun Li | Westgside Christian |
 | Leon Liu | Catlin Gabel School |
+| Renee Liu | | Lake Oswego High School |
 | Sophia Wang | Lake Oswego High School |
 | Zitong Wang | River Grove Elementary |
 | Yuxuan Xiao | Lakeridge High School |
@@ -75,6 +78,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Maggie Zhou | University of Washington |
 | :six: [Woodstock Elementary](https://www.google.com/maps/@45.4826914,-122.6113733,3a,75y,345.06h,103.47t/data=!3m6!1e1!3m4!1sB68Lfe4g0Fuzlo0V6pfItQ!2e0!7i16384!8i8192) | |
 | Alexander Cai | Woodstock Elementary |
+| Evan Wei | Woodstock Elelmentary |
 | :seven: [Chang Fa FA Supermarket in SE 82nd Ave](https://www.google.com/maps/place/%E7%A5%A5%E5%8F%91%E8%B6%85%E5%B8%82/@45.5046919,-122.5784504,17.63z/data=!4m5!3m4!1s0x0:0x64e85b424c469026!8m2!3d45.5044216!4d-122.5775423) | |
 | | |
 | :eight: [Hamilton Park](https://www.google.com/maps/place/Hamilton+City+Park,+Portland,+OR+97221/@45.4917709,-122.7220884,15z/data=!4m5!3m4!1s0x0:0xf0e5b71c4defafee!8m2!3d45.4917709!4d-122.7220884) | |
