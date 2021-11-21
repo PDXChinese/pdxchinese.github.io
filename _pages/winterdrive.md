@@ -61,7 +61,7 @@ Entirely run by students from local schools. To join, please [register here](htt
 | Breanna Li | St. Mary Academy |
 | Kun Li | Westgside Christian |
 | Leon Liu | Catlin Gabel School |
-| Renee Liu | | Lake Oswego High School |
+| Renee Liu | Lake Oswego High School |
 | Sophia Wang | Lake Oswego High School |
 | Zitong Wang | River Grove Elementary |
 | Yuxuan Xiao | Lakeridge High School |
