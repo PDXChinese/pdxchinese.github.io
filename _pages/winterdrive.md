@@ -130,5 +130,6 @@ Soap, shampoo, tooth brush, tooth paste, feminine hygiene items, toilet paper, e
 2018 Community Winter Drive [Event](/assets/pdf/community-winter-drive-2018.pdf), [Highlight](http://pdxchinese.org/winter-drive-2018/)  
 2019 Community Winter Drive [Event](/assets/pdf/community-winter-drive-2019.pdf), [Highlight](http://pdxchinese.org/winter-drive-2019/)  
 2020 Community Winter Drive [Event](/assets/pdf/community-winter-drive-2020.pdf), [Highlight](http://pdxchinese.org/winter-drive-2020/)  
+2021 Community Winter Drive [Event](/assets/pdf/community-winter-drive-2021.pdf), [Highlight](http://pdxchinese.org/winter-drive-2021/)  
 
 <p><img src="/assets/images/activities/winterdrive2020.jpg"></p>  
