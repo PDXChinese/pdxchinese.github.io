@@ -8,6 +8,10 @@ feature_row1:
 
 [UC Berkeley](https://bancroft.berkeley.edu/collections/chinese-immigration-to-the-united-states-1884-1944/timeline.html)
 
+### Ghosts of Gold Mountain: Chinese Building the Transcontinental Railroad
+
+[Gordon H. Chang, Stanford University](https://pdxscholar.library.pdx.edu/foh_events/5/)
+
 ### The Chinese Exclusion Act DVD
 
 [PBS Online Bookstore](https://shop.pbs.org/WB0102.html)
