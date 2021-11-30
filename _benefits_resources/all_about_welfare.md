@@ -1,5 +1,5 @@
 ---
-title: "**社会福利信息汇总**"
+title: "[New]社会福利信息汇总"
 feature_row1:
   - image_path: /assets/images/logo/halloffame.png
 ---
