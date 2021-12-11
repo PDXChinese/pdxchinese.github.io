@@ -12,6 +12,8 @@ feature_row3:
 
 Peer Connect program is designed to provide opportunities for the youth to get connected through organizing and participating in the activities.
 
+Any middle and high school students are welcome to join the program with the comitment to attend the meetings and activities when time is allowed. If you are interested, please email to [youth@pdxchinese.org](youth@pdxchinese.org) with a brief self introduction.
+
 ### Service Day at Wapato Lake National Wildlife Refuge in Gaston
 
 ![]({{ site.url }}/assets/images/WeChat Image_20211205232100.jpg)
