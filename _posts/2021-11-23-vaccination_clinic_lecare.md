@@ -34,3 +34,5 @@ Next Day
 Proud to serve
 
 ![]({{ site.url }}/assets/images/WeChat Image_20211130090552.jpg)
+
+![]({{ site.url }}/assets/images/WeChat Image_20211210193748.jpg)

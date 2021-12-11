@@ -10,5 +10,12 @@ feature_row3:
   - image_path: /assets/images/activities/derose.jpg
 ---
 
+Peer Connect program is designed to provide opportunities for the youth to get to know each other during the activities they have organized.
 
-The pen pal program provides another opportunity for the community youth to get connected. The participants will be able to reach out to the peers from another school or another side of town on any subjects that may be schoolwork related or mental and physical wellbeing in general.
+### Service Day at Wapato Lake National Wildlife Refuge in Gaston
+
+![]({{ site.url }}/assets/images/WeChat Image_20211205232100.jpg)
+
+### Toys Drive
+
+![]({{ site.url }}/assets/images/activities/WeChat Image_20211210195917.jpg)
