@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Peer Connect"
 permalink: /penpal/
 feature_row1:
   - image_path: /assets/images/activities/penpallogo5.jpg
