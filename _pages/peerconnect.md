@@ -10,7 +10,7 @@ feature_row3:
   - image_path: /assets/images/activities/derose.jpg
 ---
 
-Peer Connect program is designed to provide opportunities for the youth to get to know each other during the activities they have organized.
+Peer Connect program is designed to provide opportunities for the youth to get connected through organizing and participating in the activities.
 
 ### Service Day at Wapato Lake National Wildlife Refuge in Gaston
 
