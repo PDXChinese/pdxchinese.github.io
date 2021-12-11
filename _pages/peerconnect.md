@@ -16,6 +16,8 @@ Peer Connect program is designed to provide opportunities for the youth to get t
 
 ![]({{ site.url }}/assets/images/WeChat Image_20211205232100.jpg)
 
+For more pictures, please read the [blog](https://pdxchinese.org/peer_connect_service_day_dec_2021/)
+
 ### Toys Drive
 
 ![]({{ site.url }}/assets/images/activities/WeChat Image_20211210195917.jpg)
