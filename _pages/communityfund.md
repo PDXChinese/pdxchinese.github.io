@@ -18,7 +18,7 @@ Please choose the way for your most convenience:
 
 donate@pdxchinese.org
 
-Select 'send to friend' when using PayPal 
+Select 'send to friend' when using PayPal
 
 ### Checks
 
@@ -44,7 +44,7 @@ Donations are made by the AmazonSmile Foundation and are not tax-deductible by y
 
 are donations an employer makes to match its employees' charitable contributions. Usually associated with corporate grantmakers, employee matching gifts often are dollar-for-dollar, but some companies will give double or even triple the original donation. Currently, the following corporations have OCC added to their qualified charitable organization list.
 
-[Intel Corporation](https://intel.benevity.org/user/login), [Standard Insurance](https://thestandard.yourcause.com/home#/givingcampaign), [Autodesk Inc](https://doublethedonation.com/matching-gifts/autodesk-inc), [Cambia Health Solutions](https://cambiagives.benevity.org), [Nike Inc.](https://nike.benevity.org/user/login), [Google](https://google.benevity.org/user/login), [Adidas](https://adidas.benevity.org/user/login)
+[Intel Corporation](https://intel.benevity.org/user/login), [Standard Insurance](https://thestandard.yourcause.com/home#/givingcampaign), [Autodesk Inc](https://doublethedonation.com/matching-gifts/autodesk-inc), [Cambia Health Solutions](https://cambiagives.benevity.org), [Nike Inc.](https://nike.benevity.org/user/login), [Google](https://google.benevity.org/user/login), [Adidas](https://adidas.benevity.org/user/login), [Grainger](https://grainger.yourcause.com)
 
 ### Intel Employee Only
 
