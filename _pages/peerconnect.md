@@ -22,4 +22,6 @@ For more pictures, please read the [blog](https://pdxchinese.org/peer_connect_se
 
 ### Toys Drive
 
-![]({{ site.url }}/assets/images/activities/WeChat Image_20211210195917.jpg)
+![]({{ site.url }}/assets/images/WeChat Image_20211212233245.jpg)
+
+For more pictures, please read the [blog](https://pdxchinese.org/toy_drive_2021/)
