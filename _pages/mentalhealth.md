@@ -76,10 +76,10 @@ Peer Connect program provides another opportunity for the community youth to get
   :blue_book: [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSc0d4WQuLi3g14vt3X3CUbjIzki-JTLUWvKXtn48dlmyxVFrA/viewform?usp=sf_link)
 
 [Weekly Talk on Mental Health](http://pdxchinese.org/weeklytalk/)  
-We will host weekly talks on mental health by inviting professionals in the field till end of 2020.  
+We will host weekly talks on mental health by inviting professionals in the field.  
 
 [Request for Paid Visits to Licensed Mental Health Providers](mailto:oregonchinesecoalition@gmail.com)  
-For office/virtual visits only and possibly outpatient treatment. You are encouraged to get the fee estimate first and contact us for securing the funding. However, contacting us beforehand is not mandatory. Funding will be available for services dated before 12/31/2020.  
+For office/virtual visits only and possibly outpatient treatment. You are encouraged to get the fee estimate first and contact us for securing the funding. However, contacting us beforehand is not mandatory. Funding will be available for services dated before 6/30/2022.  
 [Reimbursement Form](/assets/pdf/reimbursement_form_advocacy_fillable.pdf) (Category: Visits to Mental Health Providers)  
 
 [Financial Assistance Programs](http://OCCResponse.org)  
