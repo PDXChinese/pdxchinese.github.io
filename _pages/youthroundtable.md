@@ -28,25 +28,28 @@ Please register at [Zoom](https://us02web.zoom.us/meeting/register/tZwtdumsrz0sH
 
 by Hongcheng Zhao (西北兆)
 
+All we do is to make our children proud of being part of this community. Our youth have become an important part of rebuilding our community.
+
 ### Reflections of College Applications under Pandemic
 
 by successful early action/decision applicants
 
-### From Motivation to Taking Actions: Volunteering Opportunities
+College application is the time to harvest from the growth even since preschool.
+
+### From Actions to Motivation: Volunteerism
 
 by President's Volunteer Service Award recipients
+
+Regardless of what you want to get motivated about, the answer always begins with action. Action is the impetus for motivation. Action is the precursor to motivation.
 
 ### Breakup Sessions
 
 You can choose the group when being prompted
 
->Q&A on Community, OCC and Parenting with Hongcheng and other OCC Board Of Directors  
-
->College Application Preparation  
-
->Volunteering  
-
->Meeting Up with Post Graduates for Career and Their Reflections  
+1. Q&A on Community, OCC and Parenting with Hongcheng and other OCC Board Of Directors  
+2. College Application Preparation  
+3. Volunteering  
+4. Meeting Up with Post Graduates for Career and their Reflections  
 
 ### Logo designed by [Olando Lin](https://www.linkedin.com/in/olando-lin-3696ab37/)
 
