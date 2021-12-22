@@ -32,7 +32,7 @@ by Hongcheng Zhao (西北兆)
 
 by successful early action/decision applicants
 
-### From Motivation to Taking Actions: Volunteering opportunities
+### From Motivation to Taking Actions: Volunteering Opportunities
 
 by President's Volunteer Service Award recipients
 
