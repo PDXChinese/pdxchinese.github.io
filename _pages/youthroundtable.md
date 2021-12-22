@@ -40,10 +40,13 @@ by President's Volunteer Service Award recipients
 
 You can choose the group when being prompted
 
-Q&A on Community, OCC and Parenting with Hongcheng and other OCC Board Of Directors  
-College Application Preparation  
-Volunteering  
-Meeting Up with Post Graduates for Career and Their Reflections  
+>Q&A on Community, OCC and Parenting with Hongcheng and other OCC Board Of Directors  
+
+>College Application Preparation  
+
+>Volunteering  
+
+>Meeting Up with Post Graduates for Career and Their Reflections  
 
 ### Logo designed by [Olando Lin](https://www.linkedin.com/in/olando-lin-3696ab37/)
 
