@@ -34,7 +34,7 @@ extra:
         url: /winterdrive/
       - title: "---"
         url:
-      - title: "Peer Connect"
+      - title: "<b>Peer Connect</b>"
         url: /peerconnect/
       - title: "<b>PVSA Honorees</b>"
         url: /pvsa/
@@ -54,7 +54,7 @@ extra:
         url: /mentoring/
       - title: "Youth Peer Advisors"
         url: /peeradvisors/
-      - title: "Youth Roundtable"
+      - title: "<b>Youth Roundtable</b>"
         url: /youthroundtable/
       - title: "---"
         url:
