@@ -9,7 +9,7 @@ permalink: /youthroundtable/
 # 5th Annual Oregon Chinese Youth Roundtable
 
 ## Date
-12/26/2020 Saturday 2:00 pm - 4:00 pm
+12/26/2021 Saturday 2:00 pm - 4:00 pm
 
 ## Place
 Virtual Zoom Event
@@ -24,7 +24,7 @@ Please register at [Zoom](https://us02web.zoom.us/meeting/register/tZwtdumsrz0sH
 
 ## Agenda 2:00 pm - 4:00 pm
 
-### Presentation of (1) Chinese American Community, (2) OCC as a Community Organization, and (3) Youth Engagement
+### Presentation of (1)Local Chinese American Community, (2)OCC as Community Organization, and (3)Youth Engagement
 
 by Hongcheng Zhao (西北兆)
 
@@ -36,11 +36,14 @@ by successful early action/decision applicants
 
 by President's Volunteer Service Award recipients
 
-### Group Discussions
+### Breakup Sessions
 
-Parenting with Hongcheng  
+You can choose the group when being prompted
+
+Q&A on Community, OCC and Parenting with Hongcheng and other OCC Board Of Directors  
 College Application Preparation  
 Volunteering  
+Meeting Up with Post Graduates for Career and Their Reflections  
 
 ### Logo designed by [Olando Lin](https://www.linkedin.com/in/olando-lin-3696ab37/)
 
