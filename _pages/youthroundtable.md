@@ -9,7 +9,7 @@ permalink: /youthroundtable/
 # 5th Annual Oregon Chinese Youth Roundtable
 
 ## Date
-12/26/2021 Saturday 2:00 pm - 4:00 pm
+12/26/2021 Sunday 2:00 pm - 4:00 pm
 
 ## Place
 Virtual Zoom Event
