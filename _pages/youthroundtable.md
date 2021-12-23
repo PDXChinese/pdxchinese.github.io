@@ -30,11 +30,11 @@ by Hongcheng Zhao (西北兆)
 
 All we do is to make our children proud of being part of this community. Our youth have become an important part of rebuilding our community.
 
-### Reflections of College Applications under Pandemic
+### Reflections of High School Years under Pandemic
 
-by successful early action/decision applicants
+by high school seniors who just committed to the schools from their early action/decision applications
 
-College application is the time to harvest from the growth even since preschool.
+Successfully Responding to the pandemic so often falls outside the classrooms.
 
 ### From Actions to Motivation: Volunteerism
 
@@ -46,8 +46,8 @@ Regardless of what you want to get motivated about, the answer always begins wit
 
 You can choose the group when being prompted
 
-1. Q&A on Community, OCC and Parenting with Hongcheng and other OCC Board Of Directors  
-2. College Application Preparation  
+1. Q&A on Community, OCC and Parenting  
+2. How to Hanle Impact from Pandemic at Schools  
 3. Volunteering  
 4. Meeting Up with Post Graduates for Career and their Reflections  
 
