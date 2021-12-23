@@ -42,12 +42,12 @@ by President's Volunteer Service Award recipients
 
 Regardless of what you want to get motivated about, the answer always begins with action. Action is the impetus for motivation. Action is the precursor to motivation.
 
-### Breakup Sessions
+### Breakout Sessions
 
 You can choose the group when being prompted
 
 1. Q&A on Community, OCC and Parenting  
-2. How to Hanle Impact from Pandemic at Schools  
+2. Positively Handling Impact from Pandemic at Schools  
 3. Volunteering  
 4. Meeting Up with Post Graduates for Career and their Reflections  
 
