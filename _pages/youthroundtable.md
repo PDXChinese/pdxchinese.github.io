@@ -20,7 +20,7 @@ Middle and high school students, college students, and college graduates
 
 ## Registration
 
-Please register at [Zoom](https://us02web.zoom.us/meeting/register/tZwtdumsrz0sHdNyTO9vP1FF-4S5Bt6ot72p), you will receive the login information for the event. (We understand parents can register the event for their children especially when they are under eighteen years old.)
+Please [register at Zoom](https://us02web.zoom.us/meeting/register/tZwtdumsrz0sHdNyTO9vP1FF-4S5Bt6ot72p), you will receive the login information for the event. (We understand parents can register the event for their children especially when they are under eighteen years old.)
 
 ## Agenda 2:00 pm - 4:00 pm
 
