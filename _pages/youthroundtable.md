@@ -34,7 +34,7 @@ All we do is to make our children proud of being part of this community. Our you
 
 by high school seniors who just committed to the schools from their early action/decision applications
 
-Successfully Responding to the pandemic so often falls outside the classrooms.
+Successfully responding to the pandemic so often falls outside the classrooms.
 
 ### From Actions to Motivation: Volunteerism
 
