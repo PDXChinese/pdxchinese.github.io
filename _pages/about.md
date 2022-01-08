@@ -90,7 +90,7 @@ Mr. McCandlish graduated with honors from Harvard College in 1967. He then worke
 
 {% include feature_row id="feature_row3"%}
 
-### Kuang Li
+### Li Kuang
 
 Dr. Kuang holds a Doctor of Musical Arts degree from The University of Texas at Austin, two Master of Music degrees from The University of Michigan, Bachelor of Music degrees from Bowling Green State University, and Sichuan Conservatory of Music. Dr. Kuang is an internationally-award winning performing artist and sought-after adjudicator. Dr. Kuang judged many music competitions and contests. He is also a music theorist, theory teacher, piano instructor, and trombone professor. He currently serves as a Professor of Music at Portland State University and the director of PSU Trombone Choir.
 
