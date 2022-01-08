@@ -86,7 +86,7 @@ Mr. Shi graduated from Peking University with B.S. and M.S. degree, both in elec
 
 Mr. McCandlish graduated with honors from Harvard College in 1967. He then worked in the Peace Corps in central Africa. He received his law degree at Northwestern School of Law (Lewis & Clark). He served as staff co-counsel for the Senate Judiciary Committee in Salem. He spent two years with the Metro Public Defender's office in Portland. He started [his own firm](http://griffinandmccandlish.com) in 1981, and joined forces with Mark Griffin in 1988.
 
-## Advisor of Musical Performance and Affairs
+## Advisor for Musical Performance and Affairs
 
 {% include feature_row id="feature_row3"%}
 
