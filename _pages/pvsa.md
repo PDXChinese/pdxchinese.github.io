@@ -47,7 +47,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Austin_Yan/'>Austin Yan, Lincoln High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Audrey_Zhao/'>Audrey Zhao, Westview High School (Gold Award)</a></p>"
-  - image_path: /assets/images/pvsa/2021_blank.jpg
+  - image_path: /assets/images/pvsa/2021_Fiona_Zou.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Fiona_Zou/'>Fiona Zou, Camas High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Sophia_Pi/'>Sophia Pi, Jesuit High School (Silver Award)</a></p>"
