@@ -34,13 +34,9 @@ feature_row2:
   - image_path: /assets/images/pvsa/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Audrey_Zhao/'>Audrey Zhao, Westview High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_blank.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Fiona_Zou/'>Fiona Zou, ISB (Gold Award)</a></p>"
-  - image_path: /assets/images/pvsa/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Erika_Leung/'>Erika Leung, Lincoln High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Kevin_Qiu/'>Kevin Qiu, Lincoln High School (Gold Award)</a></p>"
-  - image_path: /assets/images/pvsa/2021_blank.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Jenell_Theobald/'>Jenell Theobald, Whitford Middle School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Daniel_Xian/'>Daniel Xian, Catlin Gabel School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_blank.jpg
@@ -65,7 +61,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Anthony_Qin/'>Anthony Qin, Westview High School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Ethan_Qin/'>Ethan Qin, Westview High School (Bronze Award)</a></p>"
-  - image_path: /assets/images/pvsa/2021_blank.jpg
+  - image_path: /assets/images/pvsa/2021_Derica_Theobald.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Derica_Theobald/'>Derica Theobald, Whitford Middle School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Megan_Tian/'>Megan Tian, Lakeridge High School (Bronze Award)</a></p>"
@@ -75,9 +71,6 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Zixuan_Yang/'>Zixuan Yang, Westview High School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_Leo_Zhao.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Leo_Zhao/'>Leo Zhao, Skyridge Middle School (Bronze Award)</a></p>"
-feature_row3:
-  - image_path: /assets/images/pvsa/2021_blank.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Nancy_Bai/'>Nancy Bai, Sunset High School (Gold Award)</a></p>"
 ---
 
 {% include feature_row id="feature_row1"%}
