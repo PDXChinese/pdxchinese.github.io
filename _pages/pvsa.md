@@ -8,7 +8,7 @@ feature_row2:
   - image_path: /assets/images/pvsa/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Gwyneth_Bao/'>Gwyneth Bao, Lincoln High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_blank.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Cherry_Chen/'>Yiran Chen, Lincoln High School (Gold Award)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Cherry_Chen/'>Cherry Chen, Lincoln High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Wendy_Du/'>Shunyi Du, Sunset High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_Jenny_Duan.jpg
@@ -34,6 +34,8 @@ feature_row2:
   - image_path: /assets/images/pvsa/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Austin_Yan/'>Austin Yan, Lincoln High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_blank.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Arnold_Yang/'>Arnold Yang, Stoller Middle School (Gold Award)</a></p>"
+- image_path: /assets/images/pvsa/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Audrey_Zhao/'>Audrey Zhao, Westview High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_Fiona_Zou.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Fiona_Zou/'>Fiona Zou, Camas High School (Gold Award)</a></p>"
@@ -60,14 +62,14 @@ feature_row2:
   - image_path: /assets/images/pvsa/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Michelle_Wang/'>Michelle Wang, ISB (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_blank.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Zixuan_Yang/'>Zixuan Yang, Westview High School (Bronze Award)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Ray_Yang/'>Ray Yang, Westview High School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_Leo_Zhao.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Leo_Zhao/'>Leo Zhao, Skyridge Middle School (Bronze Award)</a></p>"
 ---
 
 {% include feature_row id="feature_row1"%}
 
-Congratulations to the following twenty nine outstanding youths from our community recognized as recipients of President’s Volunteer Service Award for completing a combined 4,091 volunteer hours in a single year.
+Congratulations to the following thirty outstanding youths from our community recognized as recipients of President’s Volunteer Service Award for completing a combined 4,208 volunteer hours in a single year.
 
 The accomplishments didn't come easy because the impact from pandemic went deep. These students demonstrated the resilience in difficult times. They knew their volunteering work meant even more with elders needing groceries to be delivered, peers struggling with remote learning, and growing population in shelters.
 
