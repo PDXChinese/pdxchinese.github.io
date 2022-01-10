@@ -1,13 +1,13 @@
 ---
 title: " "
 feature_row1:
-  - image_path: /assets/images/pvsa/2021_Cherry_Chen.jpg
+  - image_path: /assets/images/pvsa/2021_Yiran_Chen.jpg
   - image_path: /assets/images/activities/year_2021.jpg
 ---
 
 {% include feature_row id="feature_row1"%}
 
-# Cherry Chen - Gold Award
+# Yiran (Cherry) Chen - Gold Award
 
 **School: Lincoln High School**  
 **Category: Teens (11-15)**  
