@@ -1,8 +1,8 @@
 ---
 title: " "
 feature_row1:
-  - image_path: /assets/images/pvsa/2019_victor.jpg
-  - image_path: /assets/images/activities/year_2019.jpg
+  - image_path: /assets/images/pvsa/2021_Victor_Li.jpg
+  - image_path: /assets/images/activities/year_2021.jpg
 
 ---
 
@@ -12,8 +12,18 @@ feature_row1:
 
 **School: Jesuit High School**  
 **Category: Teens (11-15)**  
-**Hours: 113**  
+**Hours: 166**  
 
-Victor is a freshman in Jesuit High School. Interested in meeting people and initiating conversations, he has a natural talent in understanding, comforting and helping others. Participating in Beaverton Young Entrepreneurs Academy and TYE Young Entrepreneurs helped him develop his social, communication and leadership skills. Inspired by the leaders and members of the Oregon Chinese Coalition and their monumental effort in serving the community, he became more enthusiastic about helping others. He volunteered for the Oregon Food Bank, Camp Meadowood Springs (a special camp supported by Oregon Elks Lodge for kids with communication challenges), Clay Street Table (where free brunch is served to the elderly people), Shriners Hospitals for Children during camps, Walk for Love fundraising event, and the Abate Toy Drive. Through volunteering work, he met people with different ethnic, culture and socioeconomic backgrounds. He felt deeply for those in need, acted earnestly to help, and became more and more passionate about serving the community.
+Victor is a junior at Jesuit High School and a two-time recipient of the gold medal of President’s Volunteer Service Award.
+
+When the school system shut down during the COVID pandemic, Victor realized many students would have difficulty studying, so he founded a non-profit organization “Students for Students.” He recruited volunteers from high schools in his area to provide free private tutoring in multiple subjects to students in elementary and middle schools.
+
+Following his belief in educational equity, Victor volunteered as a tennis coach at Portland Tennis & Education, a non-profit organization dedicated to the academic success and lifelong health of Portland’s most underserved youth. He was a valuable part of the team that reestablished in-person learning during the pandemic. His personality and sense of humor allowed him to connect with the students in an authentic and engaging way.
+
+Victor serves on the Programs and Events Advisory Committee of Tualatin Hills Park and Recreation District and advocates for diversity and inclusion in recreation and sports.
+
+As a Chinese American youth, Victor is also very passionate in serving the Chinese American community. Victor, together with 25 youth in the community, reached out to the Metro Council regarding the Lone Fir Cultural Heritage Garden, which recognizes the Chinese railway workers who faced implacable racial segregation in the pioneer era. The Metro Council appreciated their advocacy for this important project that tells the story of the people who were marginalized or forgotten. The council approved funding for the project. Victor was one of three masters of ceremony in the 2021 Chinese Festival, which celebrated culture and community with spectacular performances in downtown Portland as Oregon reopens.
+
+Through all of these projects and aspects of volunteer work, Victor pursues his lifetime goal of becoming a “man for others” in the community and in the world.
 
 Oregon Chinese Coalition is proud to join the President of the United States in recognizing the volunteers who consistently take the time to make a difference in the lives of others. Therefore, it is a great honor to present the President's Volunteer Service Award (PVSA) to Victor Li.
