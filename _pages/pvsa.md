@@ -18,7 +18,7 @@ feature_row2:
   - image_path: /assets/images/pvsa/2021_Danica_Leung.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Danica_Leung/'>Danica Leung, Lincoln High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_Erika_Leung.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Erika_Leung/'>Erika Leang, Lincoln High School (Gold Award)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Erika_Leung/'>Erika Leung, Lincoln High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Victor_Li/'>Victor Li, Jesuit High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_blank.jpg
