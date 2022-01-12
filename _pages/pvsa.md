@@ -43,7 +43,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Sophia_Pi/'>Sophia Pi, Jesuit High School (Silver Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Eleanor_Song/'>Eleanor Song, Sunset High School (Silver Award)</a></p>"
-  - image_path: /assets/images/pvsa/2021_Ethan_Zhang.jpg
+  - image_path: /assets/images/pvsa/2021_Ethan_Zhang1.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Ethan_Zhang/'>Ethan Zhang, Westview High School (Silver Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_Lucas_Zhang.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Lucas_Zhang/'>Lucas Zhang, Stoller Middle School (Silver Award)</a></p>"
