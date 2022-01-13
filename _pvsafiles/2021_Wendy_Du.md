@@ -1,7 +1,7 @@
 ---
 title: " "
 feature_row1:
-  - image_path: /assets/images/pvsa/2021_Wendy_Du.jpg
+  - image_path: /assets/images/pvsa/2021_Wendy_Du1.jpg
   - image_path: /assets/images/activities/year_2021.jpg
 ---
 
