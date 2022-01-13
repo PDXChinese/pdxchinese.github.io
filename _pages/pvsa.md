@@ -82,4 +82,4 @@ These awards acknowledge individuals whose service positively impacts communitie
 [2020 PVSA Recipients](http://pdxchinese.org/pvsafiles/pvsa_2020/)  
 
 [2019 PVSA Recipients](http://pdxchinese.org/pvsafiles/pvsa_2019/)  
-[Students in BSD were recognized by School District School Board](http://pdxchinese.org/bsd_board_recognition_2020/)  
+[2019 Students in BSD were recognized by School District School Board](http://pdxchinese.org/bsd_board_recognition_2020/)  
