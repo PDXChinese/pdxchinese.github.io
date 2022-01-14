@@ -7,8 +7,8 @@ feature_row1:
 feature_row2:
   - image_path: /assets/images/pvsa/2021_Gwyneth_Bao.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Gwyneth_Bao/'>Gwyneth Bao, Lincoln High School (Gold Award)</a></p>"
-  - image_path: /assets/images/pvsa/2021_Yiran_Chen1.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Yiran_Chen2/'>Yiran Chen, Lincoln High School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2021_Yiran_Chen2.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Yiran_Chen/'>Yiran Chen, Lincoln High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_Wendy_Du1.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Wendy_Du/'>Shunyi Du, Sunset High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_Jenny_Duan.jpg
