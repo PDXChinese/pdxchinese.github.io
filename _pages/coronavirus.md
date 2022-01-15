@@ -25,7 +25,8 @@ feature_row1:
 > OHA COVID-19[最新更新](https://govstatus.egov.com/OR-OHA-COVID-19)  
 > DHS提供的[各类与COVID-9相关资源](https://govstatus.egov.com/or-dhs-community-resources)  
 > 连锁药店合作伙伴接种疫苗预约链接：[Walgreen](https://www.walgreens.com/findcare/vaccination/covid-19), [CVS](https://www.cvs.com/immunizations/covid-19-vaccine), [Walmart](https://www.walmart.com/cp/1228302), [FredMeyer](https://www.fredmeyer.com/health/clinic/vaccinations), [Safeway/Albertsons](https://www.safeway.com/pharmacy/covid-19.html), [Costco](https://www.costco.com/covid-vaccine.html), [Health Mart](https://www.healthmartcovidvaccine.com)  
-> Multnomah County[疫苗接种专场](https://www.multco.us/novel-coronavirus-covid-19/upcoming-covid-19-vaccination-clinics)  
+> 地方疫苗接种专场： [Multnomah County](https://www.multco.us/novel-coronavirus-covid-19/upcoming-covid-19-vaccination-clinics), [Washington County](https://www.co.washington.or.us/HHS/CommunicableDiseases/COVID-19/vaccine.cfm), [Clackamas County](https://www.clackamas.us/coronavirus/vaccine)  
+> 病毒感染检测点：[联邦政府免费家用测试盒邮寄网站](https://www.covidtests.gov/), [按照地址搜索附近检测点](https://curative.com/), [Clackamas County](https://dochub.clackamas.us/documents/drupal/1e41edb3-ec41-45f5-9093-68500fdd8221)  
 
 OCC团队将帮助社区成员解决为疫苗接种所在预定，翻译，及交通方面遇到的各种困难，我们的目的就是希望有资格接受疫苗的社区成员都能够尽快接种，最大限度地提高社区成员的群体防疫能力。
 
