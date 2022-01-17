@@ -15,17 +15,17 @@ date: "2022-01-16"
 
 ![]({{ site.url }}/assets/images/pvsa/2021_Gwyneth_Bao.jpg)
 
-![]({{ site.url }}/assets/images/pvsa/2021_Yiran_Chen.jpg)
+![]({{ site.url }}/assets/images/pvsa/2021_Yiran_Chen1.jpg)
 
-![]({{ site.url }}/assets/images/pvsa/2021_Wendy_Du.jpg)
+![]({{ site.url }}/assets/images/pvsa/2021_Wendy_Du1.jpg)
 
 ![]({{ site.url }}/assets/images/pvsa/2021_Jenny_Duan.jpg)
 
 ![]({{ site.url }}/assets/images/pvsa/2021_Danica_Leung.jpg)
 
-![]({{ site.url }}/assets/images/pvsa/2021_Danica_Leung.jpg)
+![]({{ site.url }}/assets/images/pvsa/2021_Erika_Leung.jpg)
 
-![]({{ site.url }}/assets/images/pvsa/2021_Renee_Liu1.jpg.jpg)
+![]({{ site.url }}/assets/images/pvsa/2021_Renee_Liu1.jpg)
 
 ![]({{ site.url }}/assets/images/pvsa/2021_Jenell_Theobald.jpg)
 
