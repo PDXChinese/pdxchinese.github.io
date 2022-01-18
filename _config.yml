@@ -372,6 +372,9 @@ collections:
   pvsafiles:
     output: true
     permalink: /pvsafiles/:path/
+  artcontestfiles:
+    output: true
+    permalink: /artcontestfiles/:path/
   festival:
     output: true
     permalink: /chinesefestival/:path/
@@ -718,6 +721,13 @@ defaults:
   - scope:
       path: ""
       type: pvsafiles
+    values:
+      layout: single
+      author_profile: false
+  # artcontestfiles
+  - scope:
+      path: ""
+      type: artcontestfiles
     values:
       layout: single
       author_profile: false
