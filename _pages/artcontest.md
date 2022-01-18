@@ -7,20 +7,32 @@ feature_row:
   - image_path: /assets/images/logo/occ.png
 feature_row1:
   - image_path: /assets/images/artcontest/2021_blank.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp1_1st/'>1st Place</a></p>"
   - image_path: /assets/images/artcontest/2021_blank.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp1_2nd/'>2nd Place</a></p>"
   - image_path: /assets/images/artcontest/2021_blank.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp1_3rd/'>3rd Place</a></p>"
 feature_row2:
   - image_path: /assets/images/artcontest/2021_blank.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_1st/'>1st Place</a></p>"
   - image_path: /assets/images/artcontest/2021_blank.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_2nd/'>2nd Place</a></p>"
   - image_path: /assets/images/artcontest/2021_blank.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_3rd/'>3rd Place</a></p>"
 feature_row3:
   - image_path: /assets/images/artcontest/2021_blank.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_1st/'>1st Place</a></p>"
   - image_path: /assets/images/artcontest/2021_blank.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_2nd/'>2nd Place</a></p>"
   - image_path: /assets/images/artcontest/2021_blank.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_3rd/'>3rd Place</a></p>"
 feature_row4:
   - image_path: /assets/images/artcontest/2021_blank.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_1st/'>1st Place</a></p>"
   - image_path: /assets/images/artcontest/2021_blank.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_2nd/'>2nd Place</a></p>"
   - image_path: /assets/images/artcontest/2021_blank.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_3rd/'>3rd Place</a></p>"
 ---
 
 **中文信息在此页面的下半部分**
