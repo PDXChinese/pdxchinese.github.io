@@ -6,21 +6,21 @@ feature_row:
   - image_path: /assets/images/activities/trnwr.jpg
   - image_path: /assets/images/logo/occ.png
 feature_row1:
-    image_path: /assets/images/artcontest/2021_blank.jpg
-    image_path: /assets/images/artcontest/2021_blank.jpg
-    image_path: /assets/images/artcontest/2021_blank.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
 feature_row2:
-    image_path: /assets/images/artcontest/2021_blank.jpg
-    image_path: /assets/images/artcontest/2021_blank.jpg
-    image_path: /assets/images/artcontest/2021_blank.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
 feature_row3:
-    image_path: /assets/images/artcontest/2021_blank.jpg
-    image_path: /assets/images/artcontest/2021_blank.jpg
-    image_path: /assets/images/artcontest/2021_blank.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
 feature_row4:
-    image_path: /assets/images/artcontest/2021_blank.jpg
-    image_path: /assets/images/artcontest/2021_blank.jpg
-    image_path: /assets/images/artcontest/2021_blank.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
 ---
 
 **中文信息在此页面的下半部分**
@@ -38,15 +38,15 @@ feature_row4:
 
 ### Winners from Grades 7-9
 
-{% include feature_row id="feature_row1"%}
+{% include feature_row id="feature_row2"%}
 
 ### Winners from Grades 4-6
 
-{% include feature_row id="feature_row1"%}
+{% include feature_row id="feature_row3"%}
 
 ### Winners from Grades K-3
 
-{% include feature_row id="feature_row1"%}
+{% include feature_row id="feature_row4"%}
 
 ### Program Overview:
 
