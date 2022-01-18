@@ -2,15 +2,51 @@
 title: "2021 Youth Art Contest"
 permalink: /artcontest/
 feature_row:
-- image_path: /assets/images/activities/for.jpg
-- image_path: /assets/images/activities/trnwr.jpg
-- image_path: /assets/images/logo/occ.png
+  - image_path: /assets/images/activities/for.jpg
+  - image_path: /assets/images/activities/trnwr.jpg
+  - image_path: /assets/images/logo/occ.png
+feature_row1:
+    image_path: /assets/images/artcontest/2021_blank.jpg
+    image_path: /assets/images/artcontest/2021_blank.jpg
+    image_path: /assets/images/artcontest/2021_blank.jpg
+feature_row2:
+    image_path: /assets/images/artcontest/2021_blank.jpg
+    image_path: /assets/images/artcontest/2021_blank.jpg
+    image_path: /assets/images/artcontest/2021_blank.jpg
+feature_row3:
+    image_path: /assets/images/artcontest/2021_blank.jpg
+    image_path: /assets/images/artcontest/2021_blank.jpg
+    image_path: /assets/images/artcontest/2021_blank.jpg
+feature_row4:
+    image_path: /assets/images/artcontest/2021_blank.jpg
+    image_path: /assets/images/artcontest/2021_blank.jpg
+    image_path: /assets/images/artcontest/2021_blank.jpg
 ---
 
 **中文信息在此页面的下半部分**
 
 [Press Announcement](/assets/pdf/artcontest2021.pdf)  
 [Official Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)  
+
+### Best of Show
+
+![]({{ site.url }}/assets/images/artcontest/2021_blank.jpg)
+
+### Winners from Grades 10-12
+
+{% include feature_row id="feature_row1"%}
+
+### Winners from Grades 7-9
+
+{% include feature_row id="feature_row1"%}
+
+### Winners from Grades 4-6
+
+{% include feature_row id="feature_row1"%}
+
+### Winners from Grades K-3
+
+{% include feature_row id="feature_row1"%}
 
 ### Program Overview:
 
