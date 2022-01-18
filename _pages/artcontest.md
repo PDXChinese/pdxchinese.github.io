@@ -32,19 +32,19 @@ feature_row4:
 
 ![]({{ site.url }}/assets/images/artcontest/2021_blank.jpg)
 
-### Winners from Grades 10-12
+### Winners, Grade 10-12
 
 {% include feature_row id="feature_row1"%}
 
-### Winners from Grades 7-9
+### Winners, Grade 7-9
 
 {% include feature_row id="feature_row2"%}
 
-### Winners from Grades 4-6
+### Winners, Grade 4-6
 
 {% include feature_row id="feature_row3"%}
 
-### Winners from Grades K-3
+### Winners, Grade K-3
 
 {% include feature_row id="feature_row4"%}
 
