@@ -13,6 +13,4 @@ date: "2022-01-17"
 
 ![]({{ site.url }}/assets/images/WeChat Image_20220120090031.jpg)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220117132334.png)
-
 ![]({{ site.url }}/assets/images/WeChat Image_20220117132312.jpg)
