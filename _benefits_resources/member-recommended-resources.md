@@ -34,4 +34,4 @@ Disclaimer: The views and opinions expressed in the articles and on the websites
 
 # 升学
 
-[AFI-思慧教育|MIT前招生官: 准备要趁早！顶尖大学申请规划时间线](https://youtu.be/PhDGSWO7b3c)
+[AFI-思慧教育|MIT前招生官: 准备要趁早！顶尖大学申请规划时间线](https://www.youtube.com/embed/PhDGSWO7b3c)
