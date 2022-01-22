@@ -31,3 +31,7 @@ Disclaimer: The views and opinions expressed in the articles and on the websites
 [房契转名有讲究 How to Transfer Your Deed's Name](https://www.youtube.com/embed/2Tv4Ar7Hj-M) 安家纽约LivingInNY (1/14/2015)
 
 [房产传承与房产信托 How to Inherit Properties with Trust?](https://www.youtube.com/embed/dnBiyeBwhiU) 安家纽约LivingInNY (01/24/18)
+
+# 升学
+
+[AFI-思慧教育|MIT前招生官: 准备要趁早！顶尖大学申请规划时间线](https://youtu.be/PhDGSWO7b3c)
