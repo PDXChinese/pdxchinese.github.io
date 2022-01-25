@@ -21,7 +21,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Danica_Leung/'>Danica Leung, Lincoln High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_Erika_Leung.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Erika_Leung/'>Erika Leung, Lincoln High School (Gold Award)</a></p>"
-  - image_path: /assets/images/pvsa/2021_blank.jpg
+  - image_path: /assets/images/pvsa/2021_Victor_Li.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Victor_Li/'>Victor Li, Jesuit High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Ronald_Lin/'>Ronald Lin, ISB (Gold Award)</a></p>"
@@ -53,9 +53,9 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Susan_Moseley/'>Susan Moseley, St. Stephen's Episcopal School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Alex_Pi/'>Alex Pi, Meadows Park Middle School (Bronze Award)</a></p>"
-  - image_path: /assets/images/pvsa/2021_blank.jpg
+  - image_path: /assets/images/pvsa/2021_Anthony_Qin.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Anthony_Qin/'>Anthony Qin, Westview High School (Bronze Award)</a></p>"
-  - image_path: /assets/images/pvsa/2021_blank.jpg
+  - image_path: /assets/images/pvsa/2021_Ethan_Qin.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Ethan_Qin/'>Ethan Qin, Westview High School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_Derica_Theobald.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Derica_Theobald/'>Derica Theobald, Whitford Middle School (Bronze Award)</a></p>"
