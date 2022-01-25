@@ -7,7 +7,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Anthony Qin - Broabze Award
+# Anthony Qin - Bronze Award
 
 **School: Westview High School**  
 **Category: Teens (11-15)**  

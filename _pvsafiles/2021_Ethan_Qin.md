@@ -7,7 +7,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Ethan Qin - Broabze Award
+# Ethan Qin - Bronze Award
 
 **School: Westview High School**  
 **Category: Teens (11-15)**  
