@@ -5,18 +5,31 @@ permalink: /supportline/
 
 ![]({{ site.url }}/assets/images/activities/supportline.jpg)
 
-您如果遇到紧急情况，不要犹豫，马上拨打911.
+您如果遇到紧急情况，不要犹豫，马上拨打**911**.  
+In an emergency, you should immediately call **911**.    
 
-## 遇到如下问题，欢迎拨打OCC热线电话，我们有志愿者随时在线上为您提供帮助
+## 遇到如下问题，欢迎拨打OCC热线电话，我们有志愿者随时在线上为您提供帮助.
 
-街头遇到袭击，需要帮助报警，或与帮助的人沟通。
+In the following situations, please call the OCC support line, which is backed by our volunteers.
+
+街头遇到袭击，需要帮助报警，或与帮助的人沟通。  
+When you become an crime victim on the street, need someone to call for help or need interpretation with first responders.  
 
 街头走失或迷路
+Get lost on the streets and cannot find the way back home.  
+
+独自在家，因为摔倒，晕倒，被重物砸到等，而时失去活动能力。  
+Alone at home, temporarily incapacitated due to falls or other unexpected situations.  
 
 紧急情况下翻译需要，如就医或在药房取药等。
+Need interpretation service in urgent situation like seeing a doctor or in the pharmacy.  
 
 接到房东驱逐通知但没有新的租住安排
+Receive an eviction notice from landlord but no place to move in to.  
 
-无论因为哪种原因，有自杀想法。
+无论因为哪种原因，时下有轻生的念头。
+For whatever reason, there is a thought of commit suicide.  
 
-**热线电话专为紧急情况设立** 
+National Suicide Prevention Lifeline: 800-273-8255
+
+**热线电话专为紧急情况设立**
