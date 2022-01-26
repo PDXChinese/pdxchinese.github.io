@@ -3,13 +3,13 @@ title: ""
 permalink: /supportline/
 ---
 
-![]({{ site.url }}/assets/images/activities/supportline1.jpg)
+![]({{ site.url }}/assets/images/activities/supportline.jpg)
 
 > 您如果遇到紧急情况，不要犹豫，马上拨打 **911**。  
 > In an emergency, you should immediately call **911**.  
 
-## 遇到如下情况，欢迎拨打OCC热线电话，我们有会讲普通话，粤语和英语的志愿者随时在线上为您提供帮助.  
-In the following situations, please call the OCC support line, which is backed by our volunteers who can speak Mandarin, Cantonese and English.  
+## 遇到如下情况，欢迎拨打OCC热线电话(503.334.1010)，我们有会讲普通话，粤语和英语的志愿者随时在线上为您提供帮助.  
+In the following situations, please call the OCC support line(503.334.1010), which is backed by our volunteers who can speak Mandarin, Cantonese and English.  
 
 街头遇到袭击，需要帮助报警，或与帮助的人沟通。  
 When you become a crime victim on the street, need someone to call for help or need interpretation with first responders.  
@@ -39,4 +39,4 @@ The support line is for urgent situation only. In most cases, the support will b
 Life is beautiful and road is long, and it is inevitable that you will sometimes get lost or fall over. With the community here, we will move forward together.  
 
 
-| 我们正在设计有特色的安全口哨，上面会刻有热线电话号码，方便社区成员尤其是老人们佩戴使用。|
+| 我们正在设计有特色的安全口哨，上面会刻有热线电话号码，方便社区成员尤其是学生和老人们佩戴使用。|
