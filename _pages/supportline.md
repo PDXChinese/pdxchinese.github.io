@@ -8,9 +8,8 @@ permalink: /supportline/
 您如果遇到紧急情况，不要犹豫，马上拨打**911**.  
 In an emergency, you should immediately call **911**.    
 
-## 遇到如下问题，欢迎拨打OCC热线电话，我们有志愿者随时在线上为您提供帮助.
-
-In the following situations, please call the OCC support line, which is backed by our volunteers.
+## 遇到如下问题，欢迎拨打OCC热线电话，我们有志愿者随时在线上为您提供帮助.  
+In the following situations, please call the OCC support line, which is backed by our volunteers.  
 
 街头遇到袭击，需要帮助报警，或与帮助的人沟通。  
 When you become an crime victim on the street, need someone to call for help or need interpretation with first responders.  
@@ -32,4 +31,5 @@ For whatever reason, there is a thought of commit suicide.
 
 National Suicide Prevention Lifeline: 800-273-8255
 
-**热线电话专为紧急情况设立**
+**热线电话专为紧急情况设立。在大多数情况下，帮助会通过线上进行。**  
+The support line is for urgent situation only. In most cases, the support will be provided remotely.  
