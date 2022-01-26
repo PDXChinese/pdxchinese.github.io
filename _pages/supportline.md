@@ -26,8 +26,8 @@ Need interpretation service in urgent situations like seeing a doctor or in the 
 接到房东驱逐通知但没有新的租住安排  
 Receive an eviction notice from landlord but no place to go.  
 
-无论因为哪种原因，此刻有轻生的念头。  
-For whatever reason, there is a thought of committing suicide.  
+无论何种原因，有轻生念头或有自残行为。  
+If there’s any suicidal ideation or self harm behavior, for any reason.   
 
 *National Suicide Prevention Lifeline: 800-273-8255*  
 *全美轻生预防热线电话：800-273-8255*  
