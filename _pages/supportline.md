@@ -3,7 +3,7 @@ title: ""
 permalink: /supportline/
 ---
 
-![]({{ site.url }}/assets/images/activities/supportline.jpg)
+![]({{ site.url }}/assets/images/activities/supportline2.jpg)
 
 > 您如果遇到紧急情况，不要犹豫，马上拨打 **911**。  
 > In an emergency, you should immediately call **911**.  
