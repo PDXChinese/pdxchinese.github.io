@@ -9,7 +9,7 @@ permalink: /supportline/
 > In an emergency, you should immediately call **911**.  
 
 ## 遇到如下情况，欢迎拨打OCC热线电话(503.334.1010)，我们有会讲普通话，粤语和英语的志愿者随时在线上为您提供帮助.  
-In the following situations, please call the OCC support line(503.334.1010), which is backed by our volunteers who can speak Mandarin, Cantonese and English.  
+In situations like in the following, please call the OCC support line(503.334.1010), which is backed by our volunteers who can speak Mandarin, Cantonese and English.  
 
 街头遇到袭击，需要帮助报警，或与帮助的人沟通。  
 When you become a crime victim on the street, need someone to call for help or need interpretation with first responders.  
