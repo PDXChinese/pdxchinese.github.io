@@ -5,8 +5,8 @@ permalink: /supportline/
 
 ![]({{ site.url }}/assets/images/activities/supportline1.jpg)
 
-| 您如果遇到紧急情况，不要犹豫，马上拨打 **911**。|
-| In an emergency, you should immediately call **911**. |
+> 您如果遇到紧急情况，不要犹豫，马上拨打 **911**。  
+> In an emergency, you should immediately call **911**.  
 
 ## 遇到如下情况，欢迎拨打OCC热线电话，我们有会讲普通话，粤语和英语的志愿者随时在线上为您提供帮助.  
 In the following situations, please call the OCC support line, which is backed by our volunteers who can speak Mandarin, Cantonese and English.  
