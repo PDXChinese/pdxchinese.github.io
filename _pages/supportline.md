@@ -33,3 +33,9 @@ For whatever reason, there is a thought of commit suicide.
 
 **热线电话专为紧急情况设立。在大多数情况下，帮助会通过线上进行。**  
 The support line is for urgent situation only. In most cases, the support will be provided remotely.  
+
+人生很美路也很长，难免有时会迷路或摔跤。有社区在一起，我们会一起前行。  
+Life is beautiful and a long road, and it is inevitable that you will sometimes get lost or fall over. With the community together, we will move forward together.  
+
+
+| 我们正在设计有特色的安全口哨，上面刻有热线电话号码，会方便社区成员尤其是老人们佩戴使用。|
