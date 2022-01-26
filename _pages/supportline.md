@@ -35,7 +35,7 @@ For whatever reason, there is a thought of committing suicide.
 The support line is for urgent situation only. In most cases, the support will be provided remotely.  
 
 人生很美路也很长，难免有时会迷路或摔跤。有社区在这里，我们会一起前行。  
-Life is beautiful and a long road, and it is inevitable that you will sometimes get lost or fall over. With the community together, we will move forward together.  
+Life is beautiful and road is long, and it is inevitable that you will sometimes get lost or fall over. With the community here, we will move forward together.  
 
 
 | 我们正在设计有特色的安全口哨，上面会刻有热线电话号码，方便社区成员尤其是老人们佩戴使用。|
