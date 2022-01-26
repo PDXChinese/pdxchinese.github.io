@@ -8,8 +8,8 @@ permalink: /supportline/
 > 您如果遇到紧急情况，不要犹豫，马上拨打 **911**。  
 > In an emergency, you should immediately call **911**.  
 
-## 遇到如下情况，欢迎拨打OCC热线电话(503.334.1010)，我们有会讲普通话，粤语和英语的志愿者随时在线上为您提供帮助.  
-In situations like in the following, please call the OCC support line(503.334.1010), which is backed by our volunteers who can speak Mandarin, Cantonese and English.  
+## 遇到如下情况，欢迎拨打OCC热线电话(503-334-1010)，我们有会讲普通话，粤语和英语的志愿者随时在线上为您提供帮助.  
+In situations like in the following, please call the OCC support line(503-334-1010), which is backed by our volunteers who can speak Mandarin, Cantonese and English.  
 
 街头遇到袭击，需要帮助报警，或与帮助的人沟通。  
 When you become a crime victim on the street, need someone to call for help or need interpretation with first responders.  
@@ -29,8 +29,8 @@ Receive an eviction notice from landlord but no place to go.
 无论何种原因，有轻生念头或有自残行为。  
 If there’s any suicidal ideation or self harm behavior, for any reason.   
 
-*National Suicide Prevention Lifeline: (800)273-8255*  
-*全美轻生预防热线电话：(800)273-8255*  
+*National Suicide Prevention Lifeline: 800-273-8255*  
+*全美轻生预防热线电话：800-273-8255*  
 
 **热线电话专为紧急情况设立。在大多数情况下，帮助会通过线上进行。**  
 The support line is for urgent situation only. In most cases, the support will be provided remotely.  
