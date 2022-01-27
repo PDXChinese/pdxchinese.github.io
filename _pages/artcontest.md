@@ -6,7 +6,7 @@ feature_row:
   - image_path: /assets/images/activities/trnwr.jpg
   - image_path: /assets/images/logo/occ.png
 feature_row1:
-  - image_path: /assets/images/artcontest/2021_blank.jpg
+  - image_path: /assets/images/artcontest/2021_grp1_1st.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp1_1st/'>1st Place - Erika Leung</a></p>"
   - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp1_2nd/'>2nd Place - Jiayun Hu</a></p>"
