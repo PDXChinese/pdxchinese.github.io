@@ -17,7 +17,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_1st/'>1st Place - Sophia You</a></p>"
   - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_2nd/'>2nd Place - Jenny Chen</a></p>"
-  - image_path: /assets/images/artcontest/2021_blankh.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_3rd/'>3rd Place - Noah Bruch</a></p>"
 feature_row3:
   - image_path: /assets/images/artcontest/2021_blank.jpg
