@@ -18,5 +18,3 @@ The circumstances under which this hotline should be called include being attack
 Life is beautiful and the road is long, and it is inevitable that sometimes you will get lost or fall. There is community here and we will move forward together.
 
 ![]({{ site.url }}/assets/images/activities/supportline.jpg)
-
-![]({{ site.url }}/assets/images/activities/supportline1.jpg)
