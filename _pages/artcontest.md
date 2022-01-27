@@ -12,6 +12,8 @@ feature_row1:
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp1_2nd/'>2nd Place - Jiayun Hu</a></p>"
   - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp1_3rd/'>3rd Place - Emily Lian</a></p>"
+  - image_path: /assets/images/artcontest/2021_blank.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp1_hm/'>Honorable Mention - Rachel Zhu</a></p>"
 feature_row2:
   - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_1st/'>1st Place - Sophia You</a></p>"
@@ -19,6 +21,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_2nd/'>2nd Place - Jenny Chen</a></p>"
   - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_3rd/'>3rd Place - Noah Bruch</a></p>"
+  - image_path: /assets/images/artcontest/2021_blank.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_3rd/'>Honorable Mention - Andrea Lan</a></p>"
 feature_row3:
   - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_1st/'>1st Place - Alana Fischer</a></p>"
@@ -26,6 +30,8 @@ feature_row3:
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_2nd/'>2nd Place - Jinyao Zhu</a></p>"
   - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_3rd/'>3rd Place - Ray Chen</a></p>"
+  - image_path: /assets/images/artcontest/2021_blank.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_3rd/'>Honorable Mention - Queenie Chen</a></p>"
 feature_row4:
   - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_1st/'>1st Place - Flora Chen</a></p>"
@@ -33,6 +39,8 @@ feature_row4:
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_2nd/'>2nd Place - Catherine Zhou</a></p>"
   - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_3rd/'>3rd Place - Sophia Li</a></p>"
+  - image_path: /assets/images/artcontest/2021_blank.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_3rd/'>Honorable Mention - Xia Zhang</a></p>"
 ---
 
 **中文信息在此页面的下半部分**
