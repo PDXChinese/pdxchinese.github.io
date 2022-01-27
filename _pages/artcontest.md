@@ -6,33 +6,33 @@ feature_row:
   - image_path: /assets/images/activities/trnwr.jpg
   - image_path: /assets/images/logo/occ.png
 feature_row1:
-  - image_path: /assets/images/artcontest/2021_blank.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp1_1st/'>1st Place</a></p>"
-  - image_path: /assets/images/artcontest/2021_blank.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp1_2nd/'>2nd Place</a></p>"
-  - image_path: /assets/images/artcontest/2021_blank.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp1_3rd/'>3rd Place</a></p>"
+  - image_path: /assets/images/artcontest/2021_Erika_Leung.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp1_1st/'>1st Place - Erika Leung</a></p>"
+  - image_path: /assets/images/artcontest/2021_Jiayun_Hu.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp1_2nd/'>2nd Place - Jiayun Hu</a></p>"
+  - image_path: /assets/images/artcontest/2021_Emily_Lian.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp1_3rd/'>3rd Place - Emily Lian</a></p>"
 feature_row2:
-  - image_path: /assets/images/artcontest/2021_blank.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_1st/'>1st Place</a></p>"
-  - image_path: /assets/images/artcontest/2021_blank.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_2nd/'>2nd Place</a></p>"
-  - image_path: /assets/images/artcontest/2021_blank.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_3rd/'>3rd Place</a></p>"
+  - image_path: /assets/images/artcontest/2021_Sophia_You.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_1st/'>1st Place - Sophia You</a></p>"
+  - image_path: /assets/images/artcontest/2021_Jenny_Chen.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_2nd/'>2nd Place - Jenny Chen</a></p>"
+  - image_path: /assets/images/artcontest/2021_Noah_Bruch.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_3rd/'>3rd Place - Noah Bruch</a></p>"
 feature_row3:
-  - image_path: /assets/images/artcontest/2021_blank.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_1st/'>1st Place</a></p>"
-  - image_path: /assets/images/artcontest/2021_blank.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_2nd/'>2nd Place</a></p>"
-  - image_path: /assets/images/artcontest/2021_blank.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_3rd/'>3rd Place</a></p>"
+  - image_path: /assets/images/artcontest/2021_Alana_Fischer.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_1st/'>1st Place - Alana Fischer</a></p>"
+  - image_path: /assets/images/artcontest/2021_Jinyao_Zhu.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_2nd/'>2nd Place - Jinyao Zhu</a></p>"
+  - image_path: /assets/images/artcontest/2021_Ray_Chen.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_3rd/'>3rd Place - Ray Chen</a></p>"
 feature_row4:
-  - image_path: /assets/images/artcontest/2021_blank.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_1st/'>1st Place</a></p>"
-  - image_path: /assets/images/artcontest/2021_blank.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_2nd/'>2nd Place</a></p>"
-  - image_path: /assets/images/artcontest/2021_blank.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_3rd/'>3rd Place</a></p>"
+  - image_path: /assets/images/artcontest/2021_Flora_Chen.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_1st/'>1st Place - Flora Chen</a></p>"
+  - image_path: /assets/images/artcontest/2021_Catherine_Zhou.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_2nd/'>2nd Place - Catherine Zhou</a></p>"
+  - image_path: /assets/images/artcontest/2021_Sophia_Li.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_3rd/'>3rd Place - Sophia Li</a></p>"
 ---
 
 **中文信息在此页面的下半部分**
@@ -43,6 +43,10 @@ feature_row4:
 ### Best of Show
 
 ![]({{ site.url }}/assets/images/artcontest/2021_blank.jpg)
+
+I was inspired by Oregon's water-abundant landscapes and wildlife, especially birds. Common local birds such as mallard ducks, red-breasted nuthatches, and Anna's hummingbirds are included in the painting. During quarantine, I couldn't go far outside so I developed an interest in observing birds from my backyard. This painting is a manifestation of my relationship with local nature.
+
+**Jenny Chen**, from Lincoln High School
 
 ### Winners, Grade 10-12
 
