@@ -9,4 +9,4 @@ date: "2022-01-21"
 
 ![]({{ site.url }}/assets/images/activities/mediarites.jpg)
 
-宣传单上的递交链接不好使，正确链接是： https://docs.google.com/forms/d/e/1FAIpQLSdDf2N-P-lT4vRBXtymIwFpUtaOQQwNk8Y9qVj4JtIA5KE-_w/viewform
+宣传单上的递交链接不好使，正确链接是：[https://docs.google.com/forms/d/e/1FAIpQLSdDf2N-P-lT4vRBXtymIwFpUtaOQQwNk8Y9qVj4JtIA5KE-_w/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdDf2N-P-lT4vRBXtymIwFpUtaOQQwNk8Y9qVj4JtIA5KE-_w/viewform)
