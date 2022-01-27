@@ -40,7 +40,7 @@ feature_row4:
 [Press Announcement](/assets/pdf/artcontest2021.pdf)  
 [Official Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)  
 
-### Best of Show - Jenny Chen from Lincoln High School
+### Best in Show - Jenny Chen from Lincoln High School
 
 ![]({{ site.url }}/assets/images/artcontest/2021_blank.jpg)
 
