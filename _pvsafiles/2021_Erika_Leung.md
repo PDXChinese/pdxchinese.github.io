@@ -1,7 +1,7 @@
 ---
 title: " "
 feature_row1:
-  - image_path: /assets/images/pvsa/2021_Erika_Leung.jpg
+  - image_path: /assets/images/pvsa/2021_Erika_Leung2.jpg
   - image_path: /assets/images/activities/year_2021.jpg
 ---
 

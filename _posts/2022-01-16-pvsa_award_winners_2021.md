@@ -23,7 +23,7 @@ date: "2022-01-16"
 
 ![]({{ site.url }}/assets/images/pvsa/2021_Danica_Leung.jpg)
 
-![]({{ site.url }}/assets/images/pvsa/2021_Erika_Leung.jpg)
+![]({{ site.url }}/assets/images/pvsa/2021_Erika_Leung2.jpg)
 
 ![]({{ site.url }}/assets/images/pvsa/2021_Renee_Liu1.jpg)
 
