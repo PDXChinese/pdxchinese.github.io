@@ -44,8 +44,6 @@ feature_row4:
 
 ![]({{ site.url }}/assets/images/artcontest/2021_blank.jpg)
 
-**Jenny Chen**, from Lincoln High School
-
 ### Winners, Grade 10-12
 
 {% include feature_row id="feature_row1"%}
