@@ -6,32 +6,32 @@ feature_row:
   - image_path: /assets/images/activities/trnwr.jpg
   - image_path: /assets/images/logo/occ.png
 feature_row1:
-  - image_path: /assets/images/artcontest/2021_Erika_Leung.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp1_1st/'>1st Place - Erika Leung</a></p>"
-  - image_path: /assets/images/artcontest/2021_Jiayun_Hu.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp1_2nd/'>2nd Place - Jiayun Hu</a></p>"
-  - image_path: /assets/images/artcontest/2021_Emily_Lian.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp1_3rd/'>3rd Place - Emily Lian</a></p>"
 feature_row2:
-  - image_path: /assets/images/artcontest/2021_Sophia_You.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_1st/'>1st Place - Sophia You</a></p>"
-  - image_path: /assets/images/artcontest/2021_Jenny_Chen.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_2nd/'>2nd Place - Jenny Chen</a></p>"
-  - image_path: /assets/images/artcontest/2021_Noah_Bruch.jpg
+  - image_path: /assets/images/artcontest/2021_blankh.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_3rd/'>3rd Place - Noah Bruch</a></p>"
 feature_row3:
-  - image_path: /assets/images/artcontest/2021_Alana_Fischer.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_1st/'>1st Place - Alana Fischer</a></p>"
-  - image_path: /assets/images/artcontest/2021_Jinyao_Zhu.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_2nd/'>2nd Place - Jinyao Zhu</a></p>"
-  - image_path: /assets/images/artcontest/2021_Ray_Chen.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_3rd/'>3rd Place - Ray Chen</a></p>"
 feature_row4:
-  - image_path: /assets/images/artcontest/2021_Flora_Chen.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_1st/'>1st Place - Flora Chen</a></p>"
-  - image_path: /assets/images/artcontest/2021_Catherine_Zhou.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_2nd/'>2nd Place - Catherine Zhou</a></p>"
-  - image_path: /assets/images/artcontest/2021_Sophia_Li.jpg
+  - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_3rd/'>3rd Place - Sophia Li</a></p>"
 ---
 
