@@ -33,7 +33,7 @@ feature_row3:
   - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_3rd/'>Honorable Mention - Queenie Chen</a></p>"
 feature_row4:
-  - image_path: /assets/images/artcontest/2021_blank.jpg
+  - image_path: /assets/images/artcontest/2021_grp4_1st.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_1st/'>1st Place - Flora Chen</a></p>"
   - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_2nd/'>2nd Place - Catherine Zhou</a></p>"
