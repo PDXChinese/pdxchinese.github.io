@@ -50,6 +50,8 @@ feature_row4:
 
 ![]({{ site.url }}/assets/images/artcontest/2021_ceremony.jpg)
 
+Gathering for young artists, parents, judges, staff and friends from Tualatin River National Wildlife Refuge and community members will be held on Feburary 5, 2022 at 11:30am, right outside the window gallery.
+
 ### Best in Show - Jenny Chen from Lincoln High School
 
 ![]({{ site.url }}/assets/images/artcontest/2021_blank.jpg)
