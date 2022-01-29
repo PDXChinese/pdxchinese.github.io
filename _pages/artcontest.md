@@ -48,9 +48,7 @@ feature_row4:
 [Press Announcement](/assets/pdf/artcontest2021.pdf)  
 [Official Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)  
 
-![]({{ site.url }}/assets/images/artcontest/2021_ceremony.jpg)
-
-**Announcement**: Gathering for young artists, parents, judges, staff and friends from Tualatin River National Wildlife Refuge and community members will be held on February 5, 2022 at 11:30am, right outside the window gallery (219 NW 3rd Ave in Chinatown).
+> **Announcement**: Gathering for young artists, parents, judges, staff and friends from Tualatin River National Wildlife Refuge and community members will be held on February 5, 2022 at 11:30am, right outside the window gallery (219 NW 3rd Ave in Chinatown).
 
 ### Best in Show - Jenny Chen
 
