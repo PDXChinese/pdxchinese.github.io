@@ -54,7 +54,7 @@ feature_row4:
 
 ### Best in Show - Jenny Chen from Lincoln High School
 
-![]({{ site.url }}/assets/images/artcontest/2021_blank.jpg)
+![]({{ site.url }}/assets/images/artcontest/2021_grp2_2nd.jpg)
 
 ### Winners, Grade 10-12
 
