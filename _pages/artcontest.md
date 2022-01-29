@@ -15,7 +15,7 @@ feature_row1:
   - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp1_hm/'>Honorable Mention - Rachel Zhu</a></p>"
 feature_row2:
-  - image_path: /assets/images/artcontest/2021_blank.jpg
+  - image_path: /assets/images/artcontest/2021_grp2_1st.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_1st/'>1st Place - Sophia You</a></p>"
   - image_path: /assets/images/artcontest/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_2nd/'>2nd Place - Jenny Chen</a></p>"
