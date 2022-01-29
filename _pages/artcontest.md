@@ -28,7 +28,7 @@ feature_row3:
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_1st/'>1st Place - Alana Fischer</a></p>"
   - image_path: /assets/images/artcontest/2021_grp3_2nd.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_2nd/'>2nd Place - Jinyao Zhu</a></p>"
-  - image_path: /assets/images/artcontest/2021_blank.jpg
+  - image_path: /assets/images/artcontest/2021_grp3_3rd.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_3rd/'>3rd Place - Ray Chen</a></p>"
   - image_path: /assets/images/artcontest/2021_grp3_hm.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_hm/'>Honorable Mention - Queenie Chen</a></p>"
