@@ -54,7 +54,7 @@ feature_row4:
 
 ### Best in Show - Jenny Chen
 
-![]({{ site.url }}/assets/images/artcontest/2021_grp2_2nd.jpg)
+![]({{ site.url }}/assets/images/artcontest/2021_grp2_2nd_large.jpg)
 
 ### Winners, Grade 10-12
 
