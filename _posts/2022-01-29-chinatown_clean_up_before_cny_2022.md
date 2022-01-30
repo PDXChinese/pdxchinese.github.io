@@ -9,17 +9,17 @@ date: "2022-01-29"
 
 欢迎大家早春二月来中国城走走，正好可以好好利用手中的兰苏园会员卡，路过斜对面的画展，感受一下，希望这个画廊给那里的人们和外来的游人一点正常生活的感受。
 
-![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202201.jpg)
+![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202201.JPG)
 
-![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202202.jpg)
+![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202202.JPG)
 
-![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202203.jpg)
+![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202203.JPG)
 
-![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202204.jpg)
+![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202204.JPG)
 
-![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202205.jpg)
+![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202205.JPG)
 
-![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202206.jpg)
+![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202206.JPG)
 
 ![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202207.jpg)
 
@@ -29,6 +29,6 @@ date: "2022-01-29"
 
 ![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202210.jpg)
 
-![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202211.jpg)
+![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202211.JPG)
 
-![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202212.jpg)
+![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202212.JPG)
