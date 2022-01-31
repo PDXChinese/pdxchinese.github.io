@@ -25,22 +25,22 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_hm/'>Honorable Mention - Andrea Lan</a></p>"
 feature_row3:
   - image_path: /assets/images/artcontest/2021_grp3_1st.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_1st/'>1st Place - Alana Fischer</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_1st/'>1st Place - Alana</a></p>"
   - image_path: /assets/images/artcontest/2021_grp3_2nd.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_2nd/'>2nd Place - Jinyao Zhu</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_2nd/'>2nd Place - Jinyao</a></p>"
   - image_path: /assets/images/artcontest/2021_grp3_3rd.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_3rd/'>3rd Place - Ray Chen</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_3rd/'>3rd Place - Ray</a></p>"
   - image_path: /assets/images/artcontest/2021_grp3_hm.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_hm/'>Honorable Mention - Queenie Chen</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_hm/'>Honorable Mention - Queenie</a></p>"
 feature_row4:
   - image_path: /assets/images/artcontest/2021_grp4_1st.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_1st/'>1st Place - Flora Chen</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_1st/'>1st Place - Flora</a></p>"
   - image_path: /assets/images/artcontest/2021_grp4_2nd.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_2nd/'>2nd Place - Catherine Zhou</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_2nd/'>2nd Place - Catherine</a></p>"
   - image_path: /assets/images/artcontest/2021_grp4_3rd.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_3rd/'>3rd Place - Sophia Li</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_3rd/'>3rd Place - Sophia</a></p>"
   - image_path: /assets/images/artcontest/2021_grp4_hm.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_hm/'>Honorable Mention - Xia Zhang</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_hm/'>Honorable Mention - Xia</a></p>"
 ---
 
 **中文信息在此页面的下半部分**
