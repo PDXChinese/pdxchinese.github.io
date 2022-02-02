@@ -23,3 +23,5 @@ feature_row1:
 [Archived historical documents and photographs](https://efiles.portlandoregon.gov/Record?q=recAnyWord%3Achinese&sortBy=recCreatedOn&pagesize=100&filter=electronic ) by City of Portland Archives & Records Center
 
 [The Zhang Clan Odyssey](https://www.mychinaroots.com/samples/zhang-odyssey/#1) and [The Zhang Clan Odyssey on Gold Mountain]({{ site.url }}/assets/pdf/zhang_clan_odyssey.pdf) by Raymond Douglas Chong (Zhang Weiming)
+
+[How to take a Chinese history tour of Oregon](https://www.oregonlive.com/travel/2022/02/how-to-take-a-chinese-history-tour-of-oregon.html)
