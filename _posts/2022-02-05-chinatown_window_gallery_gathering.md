@@ -5,7 +5,7 @@ excerpt: "周六上午中国城再次想起了爆竹声，那是社区青少年�
 date: "2022-02-05"
 ---
 
-Today is a true highlight moment for our community youth art contest, with young artists, parents, judges, staff and friends from Tualatin River National Wildlife Refuge and community members gathering outside the window art gallery in Chinatown.
+周六上午中国城再次想起了爆竹声，那是社区青少年绘画竞赛在中国城举办庆祝活动，一共1388响，原本作为春节必不可少的东西，现在变得非常稀罕，希望这串鞭炮能帮助中国城驱邪辞旧迎新年，也宣示了此次活动圆满成功。参加竞赛的学生和家长们，Tualatin River野生动物保护区的工作人员和志愿者，和竞赛评委参加了这个非正式的庆祝仪式，KOIN TV也特意赶过来采访获奖同学，在当晚播出的时候大大宣传了一下这个橱窗。
 
 ![]({{ site.url }}/assets/images/chinatown_window_gallery_2022020501.jpg)
 
