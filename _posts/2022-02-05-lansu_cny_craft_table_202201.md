@@ -68,3 +68,5 @@ For a long time we didn't see the 'mountain people mountain sea' scene in Lan Su
 ![]({{ site.url }}/assets/images/crafts_table_lansu_2022020530.jpg)
 
 ![]({{ site.url }}/assets/images/crafts_table_lansu_2022020531.jpg)
+
+<iframe width="969" height="545" src="https://www.youtube.com/embed/VZffKl1QjNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
