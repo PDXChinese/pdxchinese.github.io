@@ -12,6 +12,7 @@ date: "2022-02-05"
 兔子坡大赞主持叠纸活动的两位高中生，说她们“好认真，昨天从早上十点开始到2点结束，一直认真坚守岗位，她们那一桌是人来人往，几乎没有停过，真是辛苦了。期间，有段时间有表演，她们也没有随意离开。她们好有耐心，也非常细心……来游园的小朋友在这一桌做完手工都很开心。她们自己摆放的样品做得也太精致了，超级棒！这些孩子做义工真是太让人放心了，他们的认真努力值得让大家看到！为他们鼓掌。”
 
 <iframe width="969" height="545" src="https://www.youtube.com/embed/VZffKl1QjNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 
 从600多张照片中精选了30多张供大家欣赏
 
