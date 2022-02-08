@@ -1,7 +1,7 @@
 ---
 title: "在兰苏园春节庆祝活动中展示传统手工魅力(1)"
 author: XiBei Zhao
-excerpt: "原本以为Omicron会再次让中国城新年沉寂，没想到我们看到的是截然相反的景象，久违了的mountain people moutain sea场景再现兰苏园，让人有在家乡时逛庙会的感觉。我们有机会参与到了园内的传统手工展示活动，这次几乎完全是社区青少年唱主角，且效果出奇的好。"
+excerpt: "原本以为Omicron会再次让中国城新年沉寂，没想到我们看到的是截然相反的景象，久违了的people mountain people sea场景再现兰苏园，让人有在家乡时逛庙会的感觉。我们有机会参与到了园内的传统手工展示活动，这次几乎完全是社区青少年唱主角，且效果出奇的好。"
 date: "2022-02-05"
 ---
 
@@ -11,7 +11,9 @@ date: "2022-02-05"
 
 兔子坡大赞主持叠纸活动的两位高中生，说她们“好认真，昨天从早上十点开始到2点结束，一直认真坚守岗位，她们那一桌是人来人往，几乎没有停过，真是辛苦了。期间，有段时间有表演，她们也没有随意离开。她们好有耐心，也非常细心……来游园的小朋友在这一桌做完手工都很开心。她们自己摆放的样品做得也太精致了，超级棒！这些孩子做义工真是太让人放心了，他们的认真努力值得让大家看到！为他们鼓掌。”
 
-从600多张照片中精选了30多张供大家欣赏，最下面是叠纸活动的现场录像。
+<iframe width="969" height="545" src="https://www.youtube.com/embed/VZffKl1QjNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+从600多张照片中精选了30多张供大家欣赏
 
 ![]({{ site.url }}/assets/images/crafts_table_lansu_2022020501.jpg)
 
@@ -74,5 +76,3 @@ date: "2022-02-05"
 ![]({{ site.url }}/assets/images/crafts_table_lansu_2022020530.jpg)
 
 ![]({{ site.url }}/assets/images/crafts_table_lansu_2022020531.jpg)
-
-<iframe width="969" height="545" src="https://www.youtube.com/embed/VZffKl1QjNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
