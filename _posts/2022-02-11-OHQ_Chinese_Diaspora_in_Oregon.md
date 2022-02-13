@@ -15,12 +15,12 @@ date: "2022-02-11"
 
 我们已经把部分copies发送到各小区义工那里，请您就近与他们取得联系。
 
-Bethany： 杜晖，陆薇
-Tigard/Beaverton： 刘鸽
-Sherwood： 崔玲
-Lake Oswego/Oreange County: 刘宇峰
-SE Portland： 陈晓慧，钱梦婷(Maggie)
-Downtown/NW Portland: 西北兆
-其他城市可以集中邮寄
+Bethany： 杜晖，陆薇  
+Tigard/Beaverton： 刘鸽  
+Sherwood： 崔玲  
+Lake Oswego/Oreange County: 刘宇峰  
+SE Portland： 陈晓慧，钱梦婷(Maggie)  
+Downtown/NW Portland: 西北兆  
+其他城市可以集中邮寄  
 
 ![]({{ site.url }}/assets/images/chinatown/Cover_OHQ-122_4_Winter-2021.png)
