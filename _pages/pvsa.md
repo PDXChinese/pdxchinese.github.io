@@ -37,6 +37,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Austin_Yan/'>Austin Yan, Lincoln High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_Arnold_Yang.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Arnold_Yang/'>Arnold Yang, Westview High School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2021_Lauren_Zhang.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Lauren_Zhang/'>Lauren Zhang, Lake Oswego High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Audrey_Zhao/'>Audrey Zhao, Westview High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_Fiona_Zou.jpg
