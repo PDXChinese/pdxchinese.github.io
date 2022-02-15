@@ -73,7 +73,7 @@ feature_row2:
 
 {% include feature_row id="feature_row1"%}
 
-Congratulations to the following thirty one outstanding youths from our community recognized as recipients of President’s Volunteer Service Award for completing a combined 4,460 volunteer hours in a single year.
+Congratulations to the following thirty two outstanding youths from our community recognized as recipients of President’s Volunteer Service Award for completing a combined 4,672 volunteer hours in a single year.
 
 The accomplishments didn't come easy because the impact from pandemic went deep. These students demonstrated the resilience in difficult times. They knew their volunteering work meant even more with elders needing groceries to be delivered, peers struggling with remote learning, and growing population in shelters.
 
