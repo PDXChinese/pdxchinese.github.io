@@ -25,3 +25,7 @@ For more pictures, please read the [blog](https://pdxchinese.org/peer_connect_se
 ![]({{ site.url }}/assets/images/WeChat Image_20211212233245.jpg)
 
 For more pictures, please read the [blog](https://pdxchinese.org/toy_drive_2021/)
+
+### Volunteering at Children's Books
+
+![]({{ site.url }}/assets/images/WeChat Image_20220216153555.jpg)
