@@ -1,9 +1,11 @@
 ---
 title: ""
 permalink: /supportline/
+feature_row1:
+  - image_path: /assets/images/logo/occ_hotline.jpg
 ---
 
-![]({{ site.url }}/assets/images/activities/supportline.jpg)
+{% include feature_row id="feature_row1"%}
 
 > 您如果遇到紧急情况，不要犹豫，马上拨打 **911**。  
 > In an emergency, you should immediately call **911**.  
