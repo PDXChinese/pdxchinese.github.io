@@ -27,6 +27,4 @@ Audition Requirements:
 
 ![]({{ site.url }}/assets/images/WeChat Image_20220220164346.jpg)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220220164332.jpg)
-
 ![]({{ site.url }}/assets/images/WeChat Image_20220220164339.jpg)
