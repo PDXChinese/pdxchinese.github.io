@@ -7,9 +7,7 @@ permalink: /youthorchestra/
 
 柳老师是最早在南加州用西洋弦乐演奏中国乐曲的音乐倡导者，曾负责组建、训练、指揮南加州青少年弦乐团，中西合璧演奏无数中国乐曲达二十四年之久，包括梁祝小提琴协奏曲、黄河钢琴协奏曲等名曲，举行演奏会在百场以上，并多次成功带领该团到台湾、北京、西安、天津访问演出，均获好评。
 
-社区青少年弦乐团将每周排练一次(每次二小時)，欢迎报名参加。入群后，请参加群里的Audition接龙。
-
-Audition安排在2/19/2022(周六) & 2/20/2022(周日) 10-11:30am，在好时光中文学校，地点：15188 NW Central Dr. Suite 201, Portland OR 97229。
+社区青少年弦乐团将每周排练一次(每次二小時)，欢迎随时报名参加。
 
 Audition Requirements:
 
@@ -21,10 +19,14 @@ Audition Requirements:
 3. Sight reading: reading material will be provided by the orchestra  
 4. Minimal age to join the orchestra is 6 years old  
 
-![]({{ site.url }}/assets/images/84c64aa47b84344ee5806b86505a3ad0.jpg)
+![]({{ site.url }}/assets/images/WeChat Image_20220220164323.jpg)
 
-![]({{ site.url }}/assets/images/f55af4f713905c9d2813960afc369c86.jpg)
+![]({{ site.url }}/assets/images/WeChat Image_20220220164241.jpg)
 
-![]({{ site.url }}/assets/images/37f0bcb3f0817575ce6332a1c0151e96.jpg)
+![]({{ site.url }}/assets/images/WeChat Image_20220220164355.jpg)
 
-![]({{ site.url }}/assets/images/1c6e9f13386879155b51c8faad3afa25.jpg)
+![]({{ site.url }}/assets/images/WeChat Image_20220220164346.jpg)
+
+![]({{ site.url }}/assets/images/WeChat Image_20220220164332.jpg)
+
+![]({{ site.url }}/assets/images/WeChat Image_20220220164339.jpg)
