@@ -26,6 +26,12 @@ feature_row1:
 
 [Ride Connection (出行无忧)](https://pdxchinese.org/resources/benefits_community/ride-connection/)是一家位于俄勒冈州波特兰市的私人非营利组织。通过提供免费的交通服务，为人们提供独立和健康的出行。出行无忧的服务区域包括华盛顿郡(Washington County)和姆尔特诺默郡(Multnomah County)；服务对象是年满60岁的老年人、残障人士和低收入者。
 
+### 波特兰地区地震紧急联络站 (BEECN)
+
+[地图](https://www.portlandoregon.gov/pbem/article/732021)
+
+BEECN（基本地震应急通信节点或紧急联络站的缩写）是波特兰发生大地震后在电话服务中断或报告严重损坏或受伤时寻求紧急援助的地方。单击[链接](https://www.portlandoregon.gov/pbem/59630)以了解有关 BEECN 的更多信息，找到您附近的站点并为地震做好准备。
+
 ### 疫情期间回中国大陆的签证申请问题
 
 首先应该去使馆签证网页查看具体的文件要求([芝加哥领馆的文件清单](/assets/images/activities/WeChat Image_20211130091906.jpg))。按照要求提供了全部文件之后，可能会要求补充: 1)由国内亲人出具的正式的"邀请函"(有具体格式内容要求)，并提供邀请人的身份证正反面照片，电话，地址，生日；2)自己在美国的疫苗接种证明(疫苗卡照片)；3)近30天内的国际旅行记录。
