@@ -4,6 +4,7 @@ permalink: /hotline/
 feature_row1:
   - image_path: /assets/images/logo/occ_hotline.jpg
   - image_path: /assets/images/activities/alerts.png
+  - image_path: /assets/images/activities/hotlines.jpg
 ---
 
 {% include feature_row id="feature_row1"%}
@@ -31,9 +32,6 @@ Receive an eviction notice from landlord but no place to go.
 
 无论何种原因，有轻生念头或有自残行为。  
 If there’s any suicidal ideation or self harm behavior, for any reason.   
-
-*National Suicide Prevention Lifeline: 800-273-8255*  
-*全美轻生预防热线电话：800-273-8255*  
 
 **热线电话专为紧急情况设立。在大多数情况下，帮助会通过线上进行。**  
 The support line is for urgent situation only. In most cases, the support will be provided remotely.  
