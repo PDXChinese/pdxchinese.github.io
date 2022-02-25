@@ -3,6 +3,7 @@ title: ""
 permalink: /hotline/
 feature_row1:
   - image_path: /assets/images/logo/occ_hotline.jpg
+  - image_path: /assets/images/activities/alerts.png
 ---
 
 {% include feature_row id="feature_row1"%}
@@ -39,5 +40,3 @@ The support line is for urgent situation only. In most cases, the support will b
 
 人生很美路也很长，难免有时会迷路或摔跤。有社区在这里，我们会一起前行。  
 Life is beautiful and the road is long, and it is inevitable that sometimes you will get lost or fall. There is community here and we will move forward together.  
-
-![]({{ site.url }}/assets/images/activities/alerts.png)
