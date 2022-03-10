@@ -9,6 +9,7 @@ feature_row1:
   - image_path: /assets/images/activities/ocf.jpg
   - image_path: /assets/images/activities/communityaction.jpg
 ---
+![]({{ site.url }}/assets/images/activities/mask_okay.png)
 
 # 华人联盟(OCC)主持的华人社区疫情应对计划
 
