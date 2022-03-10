@@ -3,8 +3,6 @@ title: ""
 permalink: /hotline/
 feature_row1:
   - image_path: /assets/images/logo/occ_hotline.jpg
-  - image_path: /assets/images/activities/alerts.png
-  - image_path: /assets/images/activities/hotlines.jpg
 ---
 
 {% include feature_row id="feature_row1"%}
@@ -36,5 +34,15 @@ If there’s any suicidal ideation or self harm behavior, for any reason.
 **热线电话专为紧急情况设立。在大多数情况下，帮助会通过线上进行。**  
 The support line is for urgent situation only. In most cases, the support will be provided remotely.  
 
-人生很美路也很长，难免有时会迷路或摔跤。有社区在这里，我们一起前行。  
-Life is beautiful and the road is long, and it is inevitable that sometimes you will get lost or fall. There is community here and we will move forward together.  
+| 人生很美路也很长，难免有时会迷路或摔跤。有社区在这里，我们一起前行。|
+| Life is beautiful and the road is long, and it is inevitable that sometimes you will get lost or fall. There is community here and we will move forward together. |
+
+## 给社区老人发送印有热线电话和编号的口哨和钥匙链
+
+疫情趋近尾声，为能更好服务社区，我们决定为社区成员提供更深层的服务。假设老人在市中心走丢，凭着身上的热线电话和编号，我们可以及时联系到家人并在最短时间内根据提供的周边信息找到老人，这一切都是老人不会英语甚至普通话的情况下可以做到的。目前暂时开放给单独居住的62岁以上老人们，欢迎家人们为老人填写需要的[信息表格](https://docs.google.com/forms/d/e/1FAIpQLSeZ0rxnIFec4ophgt0He00ofv6X2Lj6JE5PfgHTfn0pP8fpog/viewform?usp=sf_link)。
+
+目前我们提供刻有带有热线电话号码和编号的口哨(样式和图片上的不同)和钥匙链，同时提供一条可以挂在脖子上的挂链。以后有可能还会提供其他相关物品。现在先试点，然后会提供给所有老人，然后是孩子们。期望社区成员有想要的最后都会有。老人的会完全免费，其他人可能会按照成本价收取一定的费用。
+
+To start a new chapter for serving the community, we will send a whistle and keychain with engraved hotline and unique ID number to community members. Imagine an elderly gets lost in downtown. With the help of the hotline and ID number, we can contact the family in no time and provide the basic information to the first responders. This becomes possible even the elderly does not speak English or only speak Taishanese. Currently it is open to the elderly over 62 years old who live alone. Family members are welcome to fill in the [required information form](https://docs.google.com/forms/d/e/1FAIpQLSeZ0rxnIFec4ophgt0He00ofv6X2Lj6JE5PfgHTfn0pP8fpog/viewform?usp=sf_link).
+
+![]({{ site.url }}/assets/images/WeChat Image_20220304164300.jpg)
