@@ -5,7 +5,7 @@ permalink: /namingproj/
 
 ![]({{ site.url }}/assets/images/activities/namingproj.jpg)
 
-现在各个城市部门或公共机构都在做这方面的努力，之前已经有THPRD和Clark County通过我们在社区征集过，现在是City of Hillsboro。我们决定把这件事作为一个常态来做，把建议表格放在OCC网站上。
+现在各个城市部门或公共机构都在做这方面的努力，之前已经有THPRD和Clark County通过我们在社区征集过，现在是City of Hillsboro。我们决定把这件事作为一个常态来做，把[建议表格](https://docs.google.com/forms/d/e/1FAIpQLScDq7oDdTlgHZ9HE8UrkUpwEoYi81sqyE3sH9bq1kVii_XttQ/viewform?usp=sf_link)放在OCC网站上。
 
 在提出您的建议的时候，请注意以下几点 / The proposed name should:
 
@@ -16,6 +16,6 @@ permalink: /namingproj/
 •	努力尊重和尊重土著和其他历史上被边缘化的群体 / Endeavour to honor and respect indigenous and other historically marginalized groups; and  
 •	避免商业化 / Avoid undue commercialization of the City asset  
 
-## [建议表格](https://docs.google.com/forms/d/e/1FAIpQLScDq7oDdTlgHZ9HE8UrkUpwEoYi81sqyE3sH9bq1kVii_XttQ/viewform?usp=sf_link)
+## [建议表格/Proposing Form](https://docs.google.com/forms/d/e/1FAIpQLScDq7oDdTlgHZ9HE8UrkUpwEoYi81sqyE3sH9bq1kVii_XttQ/viewform?usp=sf_link)
 
 (尽可能每个名字单独提交 / Try to submit one name at a time)
