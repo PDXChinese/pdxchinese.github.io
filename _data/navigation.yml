@@ -22,7 +22,7 @@ main:
 extra:
   - title:
     children:
-      - title: "--- Volunteering"
+      - title: "---"
         url:
       - title: "Charity Auction"
         url: /auction/
@@ -34,7 +34,7 @@ extra:
         url: /weeklytalk/
       - title: "Winter Drive"
         url: /winterdrive/
-      - title: "--- Youth"
+      - title: "---"
         url:
       - title: "Peer Connect"
         url: /peerconnect/
@@ -60,7 +60,7 @@ extra:
         url: /peeradvisors/
       - title: "Youth Roundtable"
         url: /youthroundtable/
-      - title: "--- Cultural"
+      - title: "---"
         url:
       - title: "Art Gallery & Exhibits"
         url: /artexhibit/
@@ -74,7 +74,7 @@ extra:
         url: /lanternfestival/
       - title: "Naming Project"
         url: /namingproj/
-      - title: "--- Archive"
+      - title: "---"
         url:
       - title: "Commerce Chamber"
         url: /chambercommerce/
