@@ -5,7 +5,7 @@ feature_row1:
   - image_path: /assets/images/logo/hotline2.png
 ---
 
-{% include feature_row id="feature_row1"%}
+![]({{ site.url }}/assets/images/logo/hotline3.png)
 
 > 您如果遇到紧急情况，不要犹豫，马上拨打 **911**。  
 > In an emergency, immediately call **911**.  
