@@ -2,7 +2,7 @@
 title: ""
 permalink: /hotline/
 feature_row1:
-  - image_path: /assets/images/logo/hotline2.png
+  - image_path: /assets/images/logo/hotline3.jpg
 ---
 
 ![]({{ site.url }}/assets/images/logo/hotline3.png)
