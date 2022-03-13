@@ -7,9 +7,11 @@ permalink: /youthorchestra/
 
 柳老师是最早在南加州用西洋弦乐演奏中国乐曲的音乐倡导者，曾负责组建、训练、指揮南加州青少年弦乐团，中西合璧演奏无数中国乐曲达二十四年之久，包括梁祝小提琴协奏曲、黄河钢琴协奏曲等名曲，举行演奏会在百场以上，并多次成功带领该团到台湾、北京、西安、天津访问演出，均获好评。
 
-社区青少年弦乐团将每周排练一次(每次二小時)，欢迎随时报名参加。
+弦乐队每周日下午2-4:30pm排练一次，地点是Hope Chinese Charter School （3500 SW 104th Ave, Beaverton, OR 97005）。
 
-Audition Requirements:
+每次练习我们需要两位成年人义工在现场协助老师。 请大家点[此链接](https://signup.com/go/newQKdz)踊跃报名当义工，如果是到场孩子们的家长就更合适了。
+
+每个月会组织一次audition，audition requirements:
 
 1. Scale:  
        - Violin: G major and D major: one-octave or two-octaves  
