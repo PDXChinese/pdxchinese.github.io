@@ -2,7 +2,7 @@
 title: ""
 permalink: /hotline/
 feature_row1:
-  - image_path: /assets/images/logo/occ_hotline.jpg
+  - image_path: /assets/images/logo/hotline2.png
 ---
 
 {% include feature_row id="feature_row1"%}
