@@ -26,6 +26,16 @@ feature_row1:
 
 [Ride Connection (出行无忧)](https://pdxchinese.org/resources/benefits_community/ride-connection/)是一家位于俄勒冈州波特兰市的私人非营利组织。通过提供免费的交通服务，为人们提供独立和健康的出行。出行无忧的服务区域包括华盛顿郡(Washington County)和姆尔特诺默郡(Multnomah County)；服务对象是年满60岁的老年人、残障人士和低收入者。
 
+### 您的房子如果要被银行收走的话，去哪里可以得到帮助
+
+这里是每个县的都有与州政府合作的[房主中心](https://www.oregon.gov/ohcs/homeownership/Pages/housing-counseling.aspx?wp7589=p:1#g_a249f885_f721_413b_9380_bc6aaaf9fecd)，他们都会有通过认证的人员，可以帮助您寻找解决办法。
+
+### 如果您成为性暴力或家庭暴力受害者，如何寻求帮助/救助？
+
+您可以在安全的庇护所(Shelter)免费居住90天时间，需要的话可以带着您的孩子一同居住。居住期间会帮助您寻找到固定和长期居所。您在波特兰都市区的话，请拨打热线电话：888-654-2288。您如果需要语言上的帮助，可以拨打OCC热线电话：503-334-1010.
+
+如果您是Clackamas County居民，您还可以得到全方位的协助，包括法律协助，而且会是一站式服务。服务内容和联系方式请访问 [A Safe Place Family Justice Center](https://www.cwsor.org/)。
+
 ### 波特兰地区地震紧急联络站 (BEECN)
 
 [地图](https://www.portlandoregon.gov/pbem/article/732021)
