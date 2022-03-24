@@ -1,5 +1,5 @@
 ---
-title: "扫地擦玻璃迎新春"
+title: "Window Cleaning for Gallery Setup (01.29.2022)"
 ---
 
 ![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202201.JPG)

@@ -1,5 +1,5 @@
 ---
-title: "青少年绘画竞赛活动参与者亮相中国城"
+title: "Storefront Window Gallery: Community Youth Art Contest (02.05.2022)"
 ---
 
 ![]({{ site.url }}/assets/images/chinatown_window_gallery_2022020501.jpg)

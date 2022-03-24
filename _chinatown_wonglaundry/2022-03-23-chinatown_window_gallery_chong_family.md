@@ -1,5 +1,5 @@
 ---
-title: "中国城橱窗展览: 早期和近期华人移民的故事"
+title: "Storefront Window Gallery: Two Generations of Chinese Immigrants (03.23.2022)"
 ---
 
 ![]({{ site.url }}/assets/images/WeChat Image_20220323194400.jpg)
