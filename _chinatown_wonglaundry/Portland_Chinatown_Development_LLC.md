@@ -11,7 +11,3 @@ In the meantime, we knew it was necessary to persist some level of Chinese owner
 Given these circumstances, we came up with the idea of forming a buying group which consisted of a dozen Chinese community members. We pooled the money together to purchase properties from Chinese owners like May and Shig Oka. We believed this solution not only made our endeavor more financially feasible but also deprioritizes the usage of these buildings as rental properties. We would therefore be able to utilize the properties for the benefit of the community and to preserve and enrich the culture and heritage of Chinese Americans.
 
 ![]({{ site.url }}/assets/images/chinatown/Chinatown_window_poster_01.jpg)
-
-## Blogs
-
-[Face lift wall painting and windows cleaning at Wong Laundry building](http://pdxchinese.org/wong_laundry_facelit__fall_2019/) (12/10/2019)
