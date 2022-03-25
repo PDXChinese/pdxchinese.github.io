@@ -32,9 +32,15 @@ feature_row1:
 
 ### 如果您成为性暴力或家庭暴力受害者，如何寻求帮助/救助？
 
-您可以在安全的庇护所(Shelter)免费居住90天时间，需要的话可以带着您的孩子一同居住。居住期间会帮助您寻找到固定和长期居所。您在波特兰都市区的话，请拨打热线电话：888-654-2288。您如果需要语言上的帮助，可以拨打OCC热线电话：503-334-1010.
+您可以在安全的庇护所(Shelter)免费居住90天时间，需要的话可以带着您的孩子一同居住。居住期间会帮助您寻找到固定和长期居所。您在波特兰都市区的话，请拨打热线电话：888-654-2288。
 
 如果您是Clackamas County居民，您还可以得到全方位的协助，包括法律协助，而且会是一站式服务。服务内容和联系方式请访问 [A Safe Place Family Justice Center](https://www.cwsor.org/)。
+
+Multnomah County居民可以联系：[Bradley Angle](https://bradleyangle.org/)，[Raphael House of Portland](https://raphaelhouse.com/)，[The Gateway Center](https://www.multco.us/dv)，[A Call to Safety](https://calltosafety.org/)。
+
+Washington County居民可以联系：[The Family Justice Center of Washington County](https://www.fjcwc.org/)，[Domestic Violence Resources Center (DVRC)](https://www.dvrc-or.org/)。
+
+您如果需要语言上的帮助，可以拨打OCC热线电话：503-334-1010。
 
 ### 波特兰地区地震紧急联络站 (BEECN)
 
