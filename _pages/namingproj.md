@@ -16,7 +16,7 @@ permalink: /namingproj/
 •	努力尊重和尊重土著和其他历史上被边缘化的群体 / Endeavour to honor and respect indigenous and other historically marginalized groups; and  
 •	避免商业化 / Avoid undue commercialization of the City asset  
 
-## :point_right:[建议表格/Proposing Form](https://docs.google.com/forms/d/e/1FAIpQLScDq7oDdTlgHZ9HE8UrkUpwEoYi81sqyE3sH9bq1kVii_XttQ/viewform?usp=sf_link)
+## :point_right: [建议表格/Proposing Form](https://docs.google.com/forms/d/e/1FAIpQLScDq7oDdTlgHZ9HE8UrkUpwEoYi81sqyE3sH9bq1kVii_XttQ/viewform?usp=sf_link)
 
 (尽可能每个名字单独提交 / Try to submit one name at a time. You can submit as many as you can.)
 
@@ -32,5 +32,6 @@ Dragon
 Tea  
 Oolong  
 Kam Wah Chung  
+Taiji  
 
-Thank everyone who has submitted. Suggestion is being accepted with no ending date.
+Suggestion is being accepted with no ending date.
