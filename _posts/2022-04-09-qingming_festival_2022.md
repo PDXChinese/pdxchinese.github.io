@@ -39,4 +39,4 @@ It rained on and off during the first Qingming Festival. Yesterday, a small grou
 
 ![]({{ site.url }}/assets/images/WeChat Image_20220410174935.jpg)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FOregonChineseCoalition%2Fvideos%2F1938667916317631%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="351" height="624" src="https://www.youtube.com/embed/9ijuT11rDPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
