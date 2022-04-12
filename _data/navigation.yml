@@ -38,7 +38,7 @@ extra:
         url:
       - title: "Peer Connect"
         url: /peerconnect/
-      - title: "<b>PVSA Honorees</b>"
+      - title: "PVSA Honorees"
         url: /pvsa/
       - title: "Youth Ambassadors"
         url: /youthambassadors/
@@ -62,7 +62,7 @@ extra:
         url: /youthroundtable/
       - title: "---"
         url:
-      - title: "Art Gallery & Exhibits"
+      - title: "<b>Art Show</b>"
         url: /artexhibit/
       - title: "Chinatown"
         url: /chinatown/
