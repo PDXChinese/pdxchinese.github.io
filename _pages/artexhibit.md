@@ -8,8 +8,10 @@ feature_row1:
 
 ![]({{ site.url }}/assets/images/activities/ArtShow2022.jpg)
 
-报名截止日：2022年4月30日
-报名表：[https://docs.google.com/forms/d/e/1FAIpQLSeMc3aVAPV5BkmZ8BThHhvHHEYnbNHy1B9YQCgxxiWcpAGoZQ/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSeMc3aVAPV5BkmZ8BThHhvHHEYnbNHy1B9YQCgxxiWcpAGoZQ/viewform?usp=sf_link)
+报名截止日：2022年4月30日  
+报名表：[https://docs.google.com/forms/d/e/1FAIpQLSeMc3aVAPV5BkmZ8BThHhvHHEYnbNHy1B9YQCgxxiWcpAGoZQ/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSeMc3aVAPV5BkmZ8BThHhvHHEYnbNHy1B9YQCgxxiWcpAGoZQ/viewform?usp=sf_link)  
+
+![]({{ site.url }}/assets/images/divider.jpg)
 
 ![]({{ site.url }}/assets/images/activities/pp_exhibit_2021.jpg)
 
@@ -57,11 +59,11 @@ May 20, 2021 12pm -1pm
 
 ### Participating Artists
 
-[Tie Li](https://www.litiefineart.com/)
+[Tie Li](https://www.litiefineart.com/)  
 [Wayne Chin](http://waynechin.com/)  
 Limei Lai (Instagram is @meimeilai81981)  
-[Yichu Li](https://www.yidrawing.com/) (Instagram is @yidrawing) m
-Junying Li and Li Li
+[Yichu Li](https://www.yidrawing.com/) (Instagram is @yidrawing)  
+Junying Li and Li Li  
 
 ### 2021 Art Gallery Exhibit Highlight
 
