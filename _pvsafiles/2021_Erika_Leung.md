@@ -10,7 +10,7 @@ feature_row1:
 # Erika Leung - Gold Award
 
 **School: Lincoln High School**  
-**Category: Teens (11-55)**  
+**Category: Teens (11-15)**  
 **Hours: 125**  
 
 Erika Leung is a sophomore at Lincoln High School. In her second year of receiving a President Volunteer Service Award, she has continued to advocate for civic engagement among students. Over the summer, she worked with Activate America to create comprehensive voting registration programs in targeted states. Through her work in data collection and social media outreach, she collaborated with schools to empower students to vote.
