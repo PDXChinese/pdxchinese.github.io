@@ -12,6 +12,12 @@ feature_row1:
 
 [Resources for Immigrants and Refugees](https://www.portland.gov/civic/immigrants/resources)
 
+### 华盛顿郡(Washington County)居民在遇到生活困难的时候可以得到的帮助
+
+[Community Action](https://caowash.org/):
+
+<iframe src="{{ site.url }}/assets/pdf/community_action_2022.pdf" style="width: 100%; height: 600px"></iframe>
+
 ### AARP乐龄会有关老人资讯中文版
 
 [家庭照護者財務手冊](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fchinese.aarp.org%2Fwp-content%2Fuploads%2F2021%2F06%2FAARP_CaregivingFinancialWorkbook_17b_fillable-CHT.pdf&clen=1144784&chunk=true)  
