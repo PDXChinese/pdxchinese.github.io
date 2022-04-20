@@ -14,9 +14,11 @@ feature_row1:
 
 ### 华盛顿郡(Washington County)居民在遇到生活困难的时候可以得到的帮助
 
-[Community Action](https://caowash.org/):
+[Community Action](https://caowash.org/)是华盛顿郡最大的社区福利组织，资源丰富。
 
 <iframe src="{{ site.url }}/assets/pdf/community_action_2022.pdf" style="width: 100%; height: 600px"></iframe>
+
+[中文版本](/assets/pdf/community_action_2022_ch.pdf)
 
 ### AARP乐龄会有关老人资讯中文版
 
