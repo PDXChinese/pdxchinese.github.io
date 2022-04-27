@@ -3,9 +3,17 @@ title: "社区青少年弦乐队"
 permalink: /youthorchestra/
 ---
 
-我们的许多华裔青少年已经熟练掌握西洋弦乐器，参加学校乐队，其中有的还是PYP(Portland Youth Philharmonic)的成员。社区目前正在醞酿组建一支青少年弦乐队，洋为中用，以演奏中国乐曲为主来传播历史悠久的华夏音乐。招生对象为六岁以上学过弦乐器(目前暂时仅限小提琴，中提琴和大提琴)的孩子们．乐队将由曾任南加州的知名青少年弦乐团指挥柳老师(Robert Lau)负责训练和指挥。
+青少年教育与培养一直是我们工作的重点，联盟通过开展各项活动，积极为青少年们提供各种机会与平台，让青少年们能够为身为华人感到骄傲，为作为华人社区一部分感到自豪。
 
-柳老师是最早在南加州用西洋弦乐演奏中国乐曲的音乐倡导者，曾负责组建、训练、指揮南加州青少年弦乐团，中西合璧演奏无数中国乐曲达二十四年之久，包括梁祝小提琴协奏曲、黄河钢琴协奏曲等名曲，举行演奏会在百场以上，并多次成功带领该团到台湾、北京、西安、天津访问演出，均获好评。
+Youth education and training has always been the focus of our work. Through various activities, OCC actively provides various opportunities and platforms for young people, so that they can be proud of being Chinese Americans and proud of being part of the Chinese American community.
+
+我们的许多华裔青少年已经熟练掌握西洋弦乐器，参加学校乐队，其中有的还是PYP和MYS的成员。一个多月前社区决定组建青少年弦乐队，以演奏中国乐曲为主传播历史悠久的华夏音乐。
+
+Many of our Chinese teens have become proficient in Western string instruments and have participated in school bands, some of whom are members of PYP and MYS. More than a month ago, the community decided to form a youth string orchestra to promote Chinese music with a long and rich history.
+
+乐队由曾任南加州的知名青少年弦乐团指挥柳老师(Robert Lau)负责训练和指挥。柳老师是最早在南加州用西洋弦乐演奏中国乐曲的音乐倡导者，曾负责组建、训练、指揮南加州青少年弦乐团，中西合璧演奏无数中国乐曲达二十四年之久，包括梁祝小提琴协奏曲、黄河钢琴协奏曲等名曲，举行演奏会在百场以上，并多次成功带领该团到中国大陆和台湾访问演出，均获好评。
+
+The orchestra is trained and conducted by Robert Lau, the former conductor of the well-known youth string orchestra in Southern California. Mr. Liu was the first music advocate who played Chinese music with Western string instruments in Southern California. He was responsible for the formation, training, and conduct of the Southern California Youth String Orchestra. He has played countless Chinese music for twenty-four years, including Liang Zhu’s Violin Concerto., the Yellow River Piano Concerto and other famous pieces, has held more than 100 concerts, and has successfully visited and performed in mainland China and Taiwan for many times, all of which have been well received.
 
 弦乐队每周日下午2-4:30pm排练一次，地点是Hope Chinese Charter School （3500 SW 104th Ave, Beaverton, OR 97005）。
 
