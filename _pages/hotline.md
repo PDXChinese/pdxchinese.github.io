@@ -19,17 +19,14 @@ When you become a crime victim on the street, need someone to call for help or n
 街头走失或迷路  
 Get lost on the streets and cannot find the way back home.  
 
-独自在家，因为摔倒，晕倒或发生其它意外事故，一时失去活动能力。  
-Alone at home, temporarily incapacitated due to falls or other unexpected situations.  
-
-紧急情况下需要翻译，如就医或在药房取药等。  
+紧急情况下需要翻译  
 Need interpretation service in urgent situations like seeing a doctor or in the pharmacy.  
 
 接到房东驱逐通知但没有新的租住安排  
 Receive an eviction notice from landlord but no place to go.  
 
-无论何种原因，有轻生念头或有自残行为。  
-If there’s any suicidal ideation or self harm behavior, for any reason.   
+无论何种原因，需要精神支持。  
+If you feel depressed or there is a strong need to talk to someone.   
 
 **热线电话专为紧急情况设立。在大多数情况下，帮助会通过线上进行。**  
 The support line is for urgent situation only. In most cases, the support will be provided remotely.  
