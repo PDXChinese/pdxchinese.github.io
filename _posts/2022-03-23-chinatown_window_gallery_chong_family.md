@@ -18,3 +18,11 @@ date: "2022-03-23"
 ![]({{ site.url }}/assets/images/WeChat Image_20220323194429.jpg)
 
 ![]({{ site.url }}/assets/images/WeChat Image_20220323194434.jpg)
+
+![]({{ site.url }}/assets/images/two_generation_01s.jpg)
+
+![]({{ site.url }}/assets/images/two_generation_02s.jpg)
+
+![]({{ site.url }}/assets/images/two_generation_03s.jpg)
+
+![]({{ site.url }}/assets/images/two_generation_04s.jpg)
