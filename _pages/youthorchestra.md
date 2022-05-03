@@ -40,3 +40,5 @@ The orchestra is trained and conducted by Robert Lau, the former conductor of th
 ![]({{ site.url }}/assets/images/activities/orchestra20220501-05.JPG)
 
 ![]({{ site.url }}/assets/images/activities/orchestra20220501-06.JPG)
+
+![]({{ site.url }}/assets/images/activities/orchestra20220501-07.jpg)
