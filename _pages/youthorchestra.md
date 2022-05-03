@@ -29,12 +29,12 @@ The orchestra is trained and conducted by Robert Lau, the former conductor of th
 3. Sight reading: reading material will be provided by the orchestra  
 4. Minimal age to join the orchestra is 6 years old  
 
-![]({{ site.url }}/assets/images/WeChat Image_20220220164323.jpg)
+![]({{ site.url }}/assets/images/activities/orchestra20220501-01.jpg)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220220164241.jpg)
+![]({{ site.url }}/assets/images/activities/orchestra20220501-02.jpg)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220220164355.jpg)
+![]({{ site.url }}/assets/images/activities/orchestra20220501-03.jpg)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220220164346.jpg)
+![]({{ site.url }}/assets/images/activities/orchestra20220501-04.jpg)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220220164339.jpg)
+![]({{ site.url }}/assets/images/activities/orchestra20220501-05.jpg)
