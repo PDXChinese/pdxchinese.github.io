@@ -118,6 +118,8 @@ Congratulations to following Chinese Americans who won national recognitions in 
 
 ### Scholastic Art & Writing Awards National Winners
 
+2022 Jenny Chen, Freshman at Lincoln High School, from Portland [News Pending]()
+
 2016 Sophia Mautz, Junior at Lincoln High School, from Portland [News](https://oomscholasticblog.com/post/scholastic-art-writing-awards-2016-national-winners-announced)
 
 *There is no implication of OCC affiliation or sponsorship for the Hall of Famers.*
