@@ -1,17 +1,17 @@
 ---
 title: ""
-permalink: /hotline/
+permalink: /support/
 feature_row1:
-  - image_path: /assets/images/logo/hotline3.jpg
+  - image_path: /assets/images/logo/support3.jpg
 ---
 
-![]({{ site.url }}/assets/images/logo/hotline3.png)
+![]({{ site.url }}/assets/images/logo/support3.png)
 
 > 您如果遇到紧急情况，不要犹豫，马上拨打 **911**。  
 > In an emergency, immediately call **911**.  
 
 ## 遇到如下情况，欢迎拨打OCC热线电话(503-334-1010)，我们有会讲普通话，粤语和英语的志愿者随时在线上为您提供帮助.  
-In situations like in the following, please call the OCC support hotline(503-334-1010), which is backed by our volunteers who can speak Mandarin, Cantonese and English.  
+In situations like in the following, please call the OCC support support(503-334-1010), which is backed by our volunteers who can speak Mandarin, Cantonese and English.  
 
 街头遇到袭击，需要帮助报警，或与帮助的人沟通。  
 When you become a crime victim on the street, need someone to call for help or need interpretation with first responders.  
@@ -37,6 +37,6 @@ The support line is for urgent situation only. In most cases, the support will b
 
 为能更好服务社区，OCC决定给社区老人发送印有热线电话(503-334-1010)和编号的口哨和钥匙链。假设老人在市中心走丢，凭着身上的热线电话和编号，我们可以及时联系到家人并在最短时间内根据提供的周边信息找到老人，这一切都是老人不会英语甚至普通话的情况下可以做到的。目前暂时开放给单独居住的62岁以上老人，欢迎家人们为老人填写需要的[信息表格](https://docs.google.com/forms/d/e/1FAIpQLSeZ0rxnIFec4ophgt0He00ofv6X2Lj6JE5PfgHTfn0pP8fpog/viewform?usp=sf_link)。
 
-To start a new chapter for serving the community, we will send a whistle and keychain with engraved hotline and unique ID number to community members. Imagine an elderly gets lost in downtown. With the help of the hotline and ID number, we can contact the family in no time and provide the basic information to the first responders. This becomes possible even the elderly does not speak English or only speak Taishanese. Currently it is open to the elderly over 62 years old who live alone. Family members are welcome to fill in the [required information form](https://docs.google.com/forms/d/e/1FAIpQLSeZ0rxnIFec4ophgt0He00ofv6X2Lj6JE5PfgHTfn0pP8fpog/viewform?usp=sf_link).
+To start a new chapter for serving the community, we will send a whistle and keychain with engraved support and unique ID number to community members. Imagine an elderly gets lost in downtown. With the help of the support and ID number, we can contact the family in no time and provide the basic information to the first responders. This becomes possible even the elderly does not speak English or only speak Taishanese. Currently it is open to the elderly over 62 years old who live alone. Family members are welcome to fill in the [required information form](https://docs.google.com/forms/d/e/1FAIpQLSeZ0rxnIFec4ophgt0He00ofv6X2Lj6JE5PfgHTfn0pP8fpog/viewform?usp=sf_link).
 
 ![]({{ site.url }}/assets/images/WeChat Image_20220304164300.jpg)

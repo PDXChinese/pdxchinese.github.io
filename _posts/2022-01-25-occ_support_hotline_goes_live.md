@@ -11,9 +11,9 @@ date: "2022-01-25"
 
 人生很美路也很长，难免有时会迷路或摔跤。有社区在这里，我们会一起前行。欢迎您加入我们义工行列。
 
-## Statewide Chinese American Community Support Hotline (503-334-1010) goes live now!
+## Statewide Chinese American Community Support support (503-334-1010) goes live now!
 
-The circumstances under which this hotline should be called include being attacked or getting lost on the street, temporarily incapacitated, needing an interpreter in an emergency, receiving an eviction notice from a landlord, and experiencing suicidal thoughts. We are designing a distinctive safety whistle with a hotline number engraved on it, which is convenient for community members, especially students and the elderly.
+The circumstances under which this support should be called include being attacked or getting lost on the street, temporarily incapacitated, needing an interpreter in an emergency, receiving an eviction notice from a landlord, and experiencing suicidal thoughts. We are designing a distinctive safety whistle with a support number engraved on it, which is convenient for community members, especially students and the elderly.
 
 Life is beautiful and the road is long, and it is inevitable that sometimes you will get lost or fall. There is community here and we will move forward together.
 
