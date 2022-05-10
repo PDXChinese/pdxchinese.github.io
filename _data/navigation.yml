@@ -54,7 +54,7 @@ extra:
         url: /youthlens/
       - title: "Youth Mentoring"
         url: /mentoring/
-      - title: "<b>Youth Orchestra</b>"
+      - title: "Youth Orchestra"
         url: /youthorchestra/
       - title: "Youth Peer Advisors"
         url: /peeradvisors/
@@ -62,7 +62,7 @@ extra:
         url: /youthroundtable/
       - title: "---"
         url:
-      - title: "<b>Art Show</b>"
+      - title: "Art Show"
         url: /artexhibit/
       - title: "Chinatown"
         url: /chinatown/
