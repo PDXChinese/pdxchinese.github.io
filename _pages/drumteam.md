@@ -34,3 +34,11 @@ Oregon Convention Center on January 25, 2020
 Springville K-8 School on February 21, 2020
 
 <iframe width="1189" height="673" src="https://www.youtube.com/embed/Yk-jwg_HBxI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Performance in 2021 Chinese Festival
+
+Portland Pioneer Courthouse Square, August 6, 2021
+
+![]({{ site.url }}/assets/images/2021chinese_festival_060.jpg)  
+
+![]({{ site.url }}/assets/images/2021chinese_festival_062.jpg)  
