@@ -39,37 +39,37 @@ date: "2022-05-01"
 
 ![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_15.jpg)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_16.jpg)
+![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_16.JPG)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_17.jpg)
+![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_17.JPG)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_18.jpg)
+![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_18.JPG)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_19.jpg)
+![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_19.JPG)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_20.jpg)
+![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_20.JPG)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_21.jpg)
+![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_21.JPG)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_22.jpg)
+![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_22.JPG)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_23.jpg)
+![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_23.JPG)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_24.jpg)
+![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_24.JPG)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_25.jpg)
+![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_25.JPG)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_26.jpg)
+![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_26.JPG)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_27.jpg)
+![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_27.JPG)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_28.jpg)
+![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_28.JPG)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_29.jpg)
+![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_29.JPG)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_30.jpg)
+![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_30.JPG)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_31.jpg)
+![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_31.JPG)
 
 ![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_32.jpg)
 
