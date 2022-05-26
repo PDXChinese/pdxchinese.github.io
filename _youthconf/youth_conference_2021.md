@@ -1,6 +1,5 @@
 ---
 title: "2021 Oregon Chinese Youth Conference"
-permalink: /youthconference/
 ---
 
 # 第五届俄勒冈华裔青少年年会
