@@ -4,6 +4,24 @@ title: "华裔青少年年会资料汇总"
 
 链接只分享给与会者 (Only accessible to the event participants)
 
+## 2021年青少年年会
+
+### Voice of Civic Engagement Award
+
+Danica Leung, Lincoln High School  
+Jason Fu, Sunset High School  
+Jenny Duan, Jesuit High School  
+Michelle Wang, International School of Beaverton  
+
+### Youth Empowerment Award
+
+Shengyao Liu, Lake Oswego High School  
+Erika Leung, Lincoln High School  
+Jenny Jiang, Sunset High Scvhool  
+Julia Lin, Sunset High Scvhool  
+Maggie Bao, Sunset High School  
+Project Lotus, Nonprofit Organization  
+
 ## 2020年青少年年会
 
 ### Voice of Civic Engagement Award
