@@ -21,13 +21,13 @@ Virtual Conference
 
 ## Proposed Agenda
 
-### 1:00 pm - 1:15pm Opening Remark
+### 1:00 pm - 1:10pm Opening Remark
 
   -- By Hongcheng Zhao
 
-### 1:15 pm - 2:00 pm YES WE WILL!
+### 1:10 pm - 2:00 pm 《YES WE WILL!》
 
-  -- By [Kelly Yang](https://www.kellyyang.com/), # 1 New York Times best-selling and award-winning author  
+  -- By [Kelly Yang](https://www.kellyyang.com/), #1 New York Times best-selling and award-winning author  
   -- Introduced by Frances Ippolito  
 
 ### 2:00 pm - 2:15 pm Celebration of the Changemakers
@@ -48,25 +48,25 @@ TBD
 
 ### 3:00 pm Closing Remark
 
-3:10 pm - 4:30 pm Extra: Q&A with Xibei Zhao
+  -- TBD
+
+### 3:10 pm - 4:30 pm Extra: Q&A with Xibei Zhao
 
 All about kids from ECs to volunteering to leadership to getting ready for college
 
 ## Distinguished Guest Speakers
 
-Ordered alphabetically
-
-Maggie Bao
-
-Jenny Duan
-
-<p><img src="/assets/images/pvsa/2021_Jenny_Duan.jpg"></p>
-
-Kelly Yang
+### Kelly Yang
 
 <p><img src="/assets/images/activities/kelly_yang.jpg"></p>
 
 ![]({{ site.url }}/assets/images/divider.jpg)
+
+### Maggie Bao
+
+### Jenny Duan
+
+<p><img src="/assets/images/activities/jenny_duan.jpg"></p>
 
 ## Archive
 
