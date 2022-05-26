@@ -15,7 +15,7 @@ Virtual Conference
 
 ## Registration
 
-[Conference registration form](https://us02web.zoom.us/meeting/register/tZctcu2vrj8tHNIzyrgksYxrXmUluBmq-xtD) for the students at all ages (Parents are also welcome if students are not able to attend themselves).
+[Conference registration form](https://us02web.zoom.us/meeting/register/tZAtdOusqj0pEtUIbnHrDnWyzNWKFwy9Dxq3) for the students at all ages (Parents are also welcome if students are not able to attend themselves).
 
 [Nomination, including self-nomination, form](https://docs.google.com/forms/d/e/1FAIpQLSfQRyJHdDFVPnelnzQpe8xVH2n0A8AsvoNi7VqHrCHFtCS4vg/viewform?c=0&w=1) for the scholarship and awards.
 
@@ -25,7 +25,7 @@ Virtual Conference
 
   -- By Hongcheng Zhao
 
-### 1:10 pm - 2:00 pm 《YES WE WILL!》
+## 1:10 pm - 2:00 pm 《YES WE WILL!》
 
   -- By [Kelly Yang](https://www.kellyyang.com/), #1 New York Times best-selling and award-winning author  
   -- Introduced by Frances Ippolito  
@@ -42,8 +42,6 @@ Virtual Conference
   -- By Jenny Duan, graduated from Jesuit HighSchool, rising frosh at Stanford University  
 
 ### 3:00 pm Closing Remark
-
-  -- TBD
 
 ### 3:10 pm - 4:30 pm Extra: Q&A with Parents
 
