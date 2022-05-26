@@ -27,7 +27,8 @@ Virtual Conference
 
 ### 1:15 pm - 2:00 pm YES WE WILL!
 
-  -- By [Kelly Yang](https://www.kellyyang.com/), # 1 New York Times best-selling and award-winning author
+  -- By [Kelly Yang](https://www.kellyyang.com/), # 1 New York Times best-selling and award-winning author  
+  -- Introduced by Frances Ippolito  
 
 ### 2:00 pm - 2:15 pm Celebration of the Changemakers
 
@@ -45,7 +46,9 @@ TBD
 
   -- By Jenny Duan, to be a frosh at Stanford University
 
-### 3:00 pm Extra: Q&A with Xibei Zhao
+### 3:00 pm Closing Remark
+
+3:10 pm - 4:30 pm Extra: Q&A with Xibei Zhao
 
 All about kids from ECs to volunteering to leadership to getting ready for college
 
