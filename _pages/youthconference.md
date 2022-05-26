@@ -53,13 +53,13 @@ From ECs to volunteering to leadership to getting ready for college
 
 <p><img src="/assets/images/activities/kelly_yang.jpg"></p>
 
-![]({{ site.url }}/assets/images/divider.jpg)
-
 ### Maggie Bao
 
 ### Jenny Duan
 
 <p><img src="/assets/images/activities/jenny_duan.jpg"></p>
+
+![]({{ site.url }}/assets/images/divider.jpg)
 
 ## Archive
 
