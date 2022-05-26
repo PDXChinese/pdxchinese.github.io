@@ -40,19 +40,19 @@ Virtual Conference
 
 TBD
 
-  -- By Maggie Bao, to be a frosh at MIT
+  -- By Maggie Bao, rising frosh at MIT
 
 TBD
 
-  -- By Jenny Duan, to be a frosh at Stanford University
+  -- By Jenny Duan, rising frosh at Stanford University
 
 ### 3:00 pm Closing Remark
 
   -- TBD
 
-### 3:10 pm - 4:30 pm Extra: Q&A with Xibei Zhao
+### 3:10 pm - 4:30 pm Extra: Q&A with Parents
 
-All about kids from ECs to volunteering to leadership to getting ready for college
+From ECs to volunteering to leadership to getting ready for college
 
 ## Distinguished Guest Speakers
 
