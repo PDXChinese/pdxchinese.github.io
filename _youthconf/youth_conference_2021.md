@@ -1,13 +1,13 @@
 ---
-title: "2022 Oregon Chinese Youth Conference"
+title: "2021 Oregon Chinese Youth Conference"
 permalink: /youthconference/
 ---
 
-# 第六届俄勒冈华裔青少年年会
+# 第五届俄勒冈华裔青少年年会
 
 ## Date
 
-6/25/2022 1:00 pm - 3:00 pm
+6/26/2021 1:00 pm - 4:00 pm
 
 ## Place
 
@@ -15,59 +15,63 @@ Virtual Conference
 
 ## Registration
 
-[Conference registration form](https://us02web.zoom.us/meeting/register/tZctcu2vrj8tHNIzyrgksYxrXmUluBmq-xtD) for the students at all ages (Parents are also welcome if students are not able to attend themselves).
+[Conference registration form](https://us02web.zoom.us/meeting/register/tZctcu2vrj8tHNIzyrgksYxrXmUluBmq-xtD) for middle & high schools, college students (Parents are also welcome if students are not able to attend themselves).
 
 [Nomination, including self-nomination, form](https://docs.google.com/forms/d/e/1FAIpQLSfQRyJHdDFVPnelnzQpe8xVH2n0A8AsvoNi7VqHrCHFtCS4vg/viewform?c=0&w=1) for the scholarship and awards.
 
 ## Proposed Agenda
 
-### 1:00 pm - 1:15pm Opening Remark
 
-  -- By Hongcheng Zhao
+### 1:00 pm - 2:00pm Stay Resilient -- Mental Health Reality and Response
 
-### 1:15 pm - 2:00 pm YES WE WILL!
+What Douglas has Gone Through in his Last Six Months?
 
-  -- By [Kelly Yang](https://www.kellyyang.com/), # 1 New York Times best-selling and award-winning author
+  -- By Jing Chen, Douglas' Mother
 
-### 2:00 pm - 2:15 pm Celebration of the Changemakers
+Our Response to Mental Health Stigma for Asian American
+
+  -- By Daniel Gu, Founder of [Project Lotus](https://www.theprojectlotus.org/)
+
+### 2:00 pm - 3:00 pm Celebration of Youth Achievement
 
 | Victoria Ren Scholarship | To let Victoria's sweetest smile brighten other children in the community who need assistance emotionally and/or financially. |
 | Voice of Civic Engagement Award | To encourage more youth to take a stand in public hearings or on any community platforms. |
 | Youth Empowerment Award | To acknowledge those who step out to bring others to grow and excel with them. |
 
-### 2:15 pm - 3:00 pm From Being Inspired to Inspiring Others
+### 3:00 pm - 4:00 pm Stay Strong -- Be Proactive and Stay Engaged
 
-TBD
+Why Did I Want to Run for Corvallis Public School Board?
 
-  -- By Maggie Bao, to be a frosh at MIT
+  -- By [Shauna Tominey, Ph.D.](https://health.oregonstate.edu/people/shauna-tominey), OSU
 
-TBD
+What Did I Learn from Letter Campaign for the Cultural Heritage Garden?
 
-  -- By Jenny Duan, to be a frosh at Stanford University
-
-### 3:00 pm Extra: Q&A with Xibei Zhao
-
-All about kids from ECs to volunteering to leadership to getting ready for college
+  -- By [Sophia Pi](http://pdxchinese.org/peeradvisors/pa_sophia_pi/), Jesuit High School
 
 ## Distinguished Guest Speakers
 
 Ordered alphabetically
 
-Maggie Bao
+Jing Chen
 
-Jenny Duan
+<p><img src="/assets/images/activities/jing-chen.jpg"></p>
 
-<p><img src="/assets/images/pvsa/2021_Jenny_Duan.jpg"></p>
+Daniel Gu
 
-Kelly Yang
+<p><img src="/assets/images/activities/daniel-gu.png"></p>
 
-<p><img src="/assets/images/activities/kelly_yang.jpg"></p>
+Sophia Pi
+
+<p><img src="/assets/images/activities/sophia_pi.jpg"></p>
+
+Shauna Tominey, Ph.D.
+
+<p><img src="/assets/images/activities/shauna-tominey.jpg"></p>
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
 ## Archive
 
-[2021 Youth Conference](http://pdxchinese.org/youthconference/youth_conference_2021/)  
 [2021俄勒冈华裔青少年年会成功举办/Summary and Reflection](http://pdxchinese.org/youth-conference-2021/)  
 
 [2020 Youth Conference](http://pdxchinese.org/youthconference/youth_conference_2020/)  
