@@ -32,9 +32,9 @@ Virtual Conference
 
 ### 2:00 pm - 2:15 pm Celebration of the Changemakers
 
-| Victoria Ren Scholarship | To let Victoria's sweetest smile brighten other children in the community who need assistance emotionally and/or financially. |
-| Voice of Civic Engagement Award | To encourage more youth to take a stand in public hearings or on any community platforms. |
-| Youth Empowerment Award | To acknowledge those who step out to bring others to grow and excel with them. |
+  -- Victoria Ren Scholarship  
+  -- Voice of Civic Engagement Award  
+  -- Youth Empowerment Award  
 
 ### 2:15 pm - 3:00 pm From Being Inspired to Inspiring Others
 
