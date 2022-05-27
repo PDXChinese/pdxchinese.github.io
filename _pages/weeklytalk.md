@@ -81,6 +81,10 @@ Under the circumstances that the epidemic severely limits people's lives, how ca
 
 Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and the time will generally be controlled at one hour. The registration is required for each event.
 
+### 03.26.2022 2:30pm
+
+<p><img src="/assets/images/activities/talk_nonuo.jpg"></p>
+
 ### 11.06.2021 Saturday 3pm
 
 Meet with Attoney on Honme Owners’ Legal Rights
