@@ -13,7 +13,7 @@ permalink: /youthconference/
 
 Virtual Conference
 
-## Registration
+## Registration & Award Application
 
 [Conference registration form](https://us02web.zoom.us/meeting/register/tZAtdOusqj0pEtUIbnHrDnWyzNWKFwy9Dxq3) for the students at all ages (Parents are also welcome if students are not able to attend themselves).
 
