@@ -8,18 +8,18 @@ title: "华裔青少年年会资料汇总"
 
 ### Voice of Civic Engagement Award
 
-Danica Leung, Lincoln High School  
-Jason Fu, Sunset High School  
 Jenny Duan, Jesuit High School  
+Jason Fu, Sunset High School  
+Danica Leung, Lincoln High School  
+Shengyao Liu, Lake Oswego High School  
 Michelle Wang, International School of Beaverton  
 
 ### Youth Empowerment Award
 
-Shengyao Liu, Lake Oswego High School  
-Erika Leung, Lincoln High School  
-Jenny Jiang, Sunset High Scvhool  
-Julia Lin, Sunset High Scvhool  
 Maggie Bao, Sunset High School  
+Jenny Jiang, Sunset High Scvhool  
+Erika Leung, Lincoln High School  
+Julia Lin, Sunset High Scvhool  
 Project Lotus, Nonprofit Organization  
 
 ![]({{ site.url }}/assets/images/divider.jpg)
