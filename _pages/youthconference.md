@@ -39,7 +39,7 @@ Virtual Conference
 ### 2:15 pm - 3:00 pm From Being Inspired to Inspiring Others
 
   -- By Maggie Bao, graduate from Sunset High School and rising frosh at MIT  
-  -- By Jenny Duan, graduate from Jesuit HighSchool anmd rising frosh at Stanford University  
+  -- By [Jenny Duan](https://www.linkedin.com/in/jennysduan), graduate from Jesuit HighSchool anmd rising frosh at Stanford University  
 
 ### 3:00 pm Closing Remark
 
