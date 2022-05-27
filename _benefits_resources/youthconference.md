@@ -22,6 +22,8 @@ Julia Lin, Sunset High Scvhool
 Maggie Bao, Sunset High School  
 Project Lotus, Nonprofit Organization  
 
+![]({{ site.url }}/assets/images/divider.jpg)
+
 ## 2020年青少年年会
 
 ### Voice of Civic Engagement Award
