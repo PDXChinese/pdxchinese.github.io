@@ -25,7 +25,7 @@ Virtual Conference
 
   -- By Hongcheng Zhao
 
-## 1:10 pm - 2:00 pm 《YES WE WILL!》
+## 1:10 pm - 2:00 pm 《[YES WE WILL!](https://www.kellyyang.com/yes-we-will/)》
 
   -- By [Kelly Yang](https://www.kellyyang.com/), #1 New York Times best-selling and award-winning author  
   -- Introduced by Frances Ippolito  
