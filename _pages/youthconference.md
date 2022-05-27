@@ -36,6 +36,8 @@ Virtual Conference
   -- Voice of Civic Engagement Award  
   -- Youth Empowerment Award  
 
+  Please refer to the [normination form](https://docs.google.com/forms/d/e/1FAIpQLSfQRyJHdDFVPnelnzQpe8xVH2n0A8AsvoNi7VqHrCHFtCS4vg/viewform?c=0&w=1) for details about each scholarship/award.
+
 ### 2:15 pm - 3:00 pm From Being Inspired to Inspiring Others
 
   -- By Maggie Bao, graduate from Sunset High School and rising frosh at MIT  
