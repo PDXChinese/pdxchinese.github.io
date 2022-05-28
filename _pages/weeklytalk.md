@@ -83,7 +83,7 @@ Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and th
 
 ### 03.26.2022 2:30pm
 
-<p><img src="/assets/images/activities/talk_nonuo.jpg"></p>
+<p><img src="/assets/images/activities/talk_yinuo.jpg"></p>
 
 ### 11.06.2021 Saturday 3pm
 
