@@ -1,9 +1,9 @@
 ---
-title: "社区青少年舞蹈队/Jade Dance Team"
+title: "社区青少年舞蹈队"
 permalink: /youthdance/
 ---
 
-![]({{ site.url }}/assets/images/activities/youth_dance.jpg)
+![]({{ site.url }}/assets/images/activities/youth_dance1.jpg)
 
 ### Founders
 
@@ -13,12 +13,23 @@ Sophia Alicata
 
 ### Dance Team Members
 
+Sophia Alicata  
 Julie Awad  
 Angie Cao  
+Claire Cao  
+Julia Chen  
+Annie Duan  
+Jenny Duan  
+Allison Hu  
+Audrey Hu  
 Katie Jin  
-Sophie Wang  
+Amy Kang  
+Emily Shang  
+Emma Shu  
+Fiona Wang  
 Stella Wang  
 Emma Wei  
+Meilan Xu  
 
 # To explore, promote, and take pride in chinese culture through dance
 
