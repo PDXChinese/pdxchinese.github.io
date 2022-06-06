@@ -58,3 +58,5 @@ date: "2022-06-05"
 ![]({{ site.url }}/assets/images/WeChat Image_20220606095233.jpg)
 
 <iframe width="383" height="681" src="https://www.youtube.com/embed/rU_5REM-Smw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="383" height="681" src="https://www.youtube.com/embed/nOY4c7Ig3aM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
