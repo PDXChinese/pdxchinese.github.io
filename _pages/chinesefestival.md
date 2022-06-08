@@ -22,7 +22,8 @@ feature_row2:
     excerpt: "Commissioner Stegmann"
 ---
 
-**Official Site:** [http://pdxchinesefestival.org](http://pdxchinesefestival.org)
+Official Site: [pdxchinesefestival.org](http://pdxchinesefestival.org)  
+Contact Us: [festival@pdxchinese.org](mailto:festival@pdxchinese.org)  
 
 ## Date
 
@@ -53,12 +54,10 @@ TBD
 ## Food Vendor Lineup
 
 | Name | Category |
-| --- | --- |
 
 ## Craft Tables
 
 | Name | Category |
-| --- | --- |
 
 ## Gifts Vendor Lineup
 
@@ -69,12 +68,10 @@ TBD
 ## Arts and Face Painting
 
 | Name | Onsite Activity |
-| --- | --- |
 
 ## Public Health Outreach
 
 | Name | Category |
-| --- | --- |
 
 ## Nonprofit Lineup
 
@@ -92,7 +89,3 @@ TBD
 [2019 Chinese Festival Photo Album](http://pdxchinese.org/chinese-festival-2019/)  
 
 <iframe width="1189" height="669" src="https://www.youtube.com/embed/hOMUih0WrLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Contact Us
-
-[festival@pdxchinese.org](mailto:festival@pdxchinese.org)  
