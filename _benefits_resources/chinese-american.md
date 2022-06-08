@@ -25,3 +25,11 @@ feature_row1:
 [The Zhang Clan Odyssey](https://www.mychinaroots.com/samples/zhang-odyssey/#1) and [The Zhang Clan Odyssey on Gold Mountain]({{ site.url }}/assets/pdf/zhang_clan_odyssey.pdf) by Raymond Douglas Chong (Zhang Weiming)
 
 [How to take a Chinese history tour of Oregon](https://www.oregonlive.com/travel/2022/02/how-to-take-a-chinese-history-tour-of-oregon.html)
+
+### Chinese Diaspora in Oregon
+
+[Special issue of OHQ](https://www.ohs.org/oregon-historical-quarterly/back-issues/winter-2021.cfm)
+
+If you are interested in having a copy, please contact us.
+
+<iframe width="640" height="360" style="border:1px solid #e6e6e6" src="https://www.kgw.com/embeds/video/responsive/283-e00a2b49-d915-4407-9deb-441c1e12551c/iframe" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
