@@ -88,7 +88,7 @@ TBD
 
 ## Photo Albums
 
-[2021 Chinese Festival Photo Album](https://pdxchinese.org/chinese-festival-2021/)
+[2021 Chinese Festival Photo Album](https://pdxchinese.org/chinese-festival-2021/)  
 [2019 Chinese Festival Photo Album](http://pdxchinese.org/chinese-festival-2019/)  
 
 <iframe width="1189" height="669" src="https://www.youtube.com/embed/hOMUih0WrLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
