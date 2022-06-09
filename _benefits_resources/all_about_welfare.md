@@ -1,10 +1,22 @@
 ---
-title: "[New]社会福利信息汇总"
+title: "社会福利信息汇总--不断更新中"
 feature_row1:
   - image_path: /assets/images/logo/halloffame.png
 ---
 
 我们开始汇总与我们华人相关的各种社会福利信息，我们也会开通电话专线提供帮助给社区成员。如果您有相关信息希望和大家分享，请微信给“项小柔”或“西北兆”，也可以发邮件至 [csw@pdxchinese.org](csw@pdxchinese.org)。
+
+### 您有关低收入健康保险的所有信息
+
+Health Share可以为您提供帮助帮助，这里是他们的[中文资料](https://www.healthshareoregon.org/storage/app/media/documents/For%20Members/Member%20Handbook/2022%20Member%20Handbook/2022%20Member%20Handbook_Chinese.pdf)。
+
+### 找寻本地华人医生
+
+美国有个[华人医生数据库](http://physician.cmgforum.net/)。这个网站的信息相当完善，包括了几乎全部中国大陆医学院毕业、在美国行医的医生。你可以根据地理位置，比如哪个州、哪个城市来查找华人医生。也可以根据专业来搜查，比如查眼科医生或皮肤科医生。还可以根据中国哪个医学院毕业的来查，其中北京医科大学和上海医科大学在美国的执业医生最多。
+
+### 癌症治疗团队（包括医生和医院）的选择
+
+[美国癌症协会网站 (英文版)](https://www.cancer.org/treatment/finding-and-paying-for-treatment/choosing-your-treatment-team.html)
 
 ### 波特兰市对新移民和难民提供的各种资源
 

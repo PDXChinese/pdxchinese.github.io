@@ -1,5 +1,5 @@
 ---
-title: "华人在当地，俄勒冈和美国"
+title: "华人美国人在俄勒冈和美国的历史"
 feature_row1:
   - image_path: /assets/images/logo/halloffame.png
 ---
@@ -26,10 +26,6 @@ feature_row1:
 
 [How to take a Chinese history tour of Oregon](https://www.oregonlive.com/travel/2022/02/how-to-take-a-chinese-history-tour-of-oregon.html)
 
-### Chinese Diaspora in Oregon
-
-[Special issue of OHQ](https://www.ohs.org/oregon-historical-quarterly/back-issues/winter-2021.cfm)
-
-If you are interested in having a copy, please contact us.
+[Special issue of OHQ](https://www.ohs.org/oregon-historical-quarterly/back-issues/winter-2021.cfm), if you are interested in having a copy, please contact us.
 
 <iframe width="1280" height="720" style="border:1px solid #e6e6e6" src="https://www.kgw.com/embeds/video/responsive/283-e00a2b49-d915-4407-9deb-441c1e12551c/iframe" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
