@@ -24,7 +24,7 @@ feature_row2:
 
 ![]({{ site.url }}/assets/images/festival/festival2022b.jpg)
 
-The art works incorporated into the flyer, banner and posters are from the first [community youth art contest](https://pdxchinese.org/artcontest/) jointly organized by OCC and the [Friends of Tualatin River National Wildlife Refuge](https://www.friendsoftualatinrefuge.org/).
+The art works incorporated into the flyer, banner and posters are from the first [community youth art contest](https://pdxchinese.org/artcontest/) organized by OCC in collabation with the [Friends of Tualatin River National Wildlife Refuge](https://www.friendsoftualatinrefuge.org/).
 
 ## Live Streaming
 
@@ -82,3 +82,8 @@ TBD
 [2019 Chinese Festival Photo Album](http://pdxchinese.org/chinese-festival-2019/)  
 
 <iframe width="1189" height="669" src="https://www.youtube.com/embed/hOMUih0WrLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Chinese Festivals in the Past
+
+[2021 Chinese Festival](http://pdxchinese.org/chinesefestival/chinesefestival_2021/)  
+[2019 Chinese Festival](http://pdxchinese.org/chinesefestival/chinesefestival_2019/)  
