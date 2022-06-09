@@ -22,7 +22,9 @@ feature_row2:
     excerpt: "Commissioner Stegmann"
 ---
 
-![]({{ site.url }}/assets/images/festival/festival2022a.jpg)
+![]({{ site.url }}/assets/images/festival/festival2022b.jpg)
+
+The art works incorporated into the flyer, banner and posters are from the first [community youth art contest](https://pdxchinese.org/artcontest/) jointly organized by OCC and the [Friends of Tualatin River National Wildlife Refuge](https://www.friendsoftualatinrefuge.org/).
 
 ## Live Streaming
 
