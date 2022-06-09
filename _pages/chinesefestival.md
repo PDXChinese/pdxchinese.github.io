@@ -22,17 +22,7 @@ feature_row2:
     excerpt: "Commissioner Stegmann"
 ---
 
-Official Site: [pdxchinesefestival.org](http://pdxchinesefestival.org)  
-Contact Us: [festival@pdxchinese.org](mailto:festival@pdxchinese.org)  
-
-## Date
-
-August 6, 2022 (Always the first Saturday of August)
-
-## Place
-
-Pioneer Courthouse Square  
-701 SW 6th Ave, Portland, Oregon  
+![]({{ site.url }}/assets/images/festival/festival2022a.jpg)
 
 ## Live Streaming
 
