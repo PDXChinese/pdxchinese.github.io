@@ -24,7 +24,7 @@ feature_row2:
 
 ![]({{ site.url }}/assets/images/festival/festival2022b.jpg)
 
-The art works incorporated into the flyer, banner and posters are from the first [community youth art contest](https://pdxchinese.org/artcontest/) organized by OCC in collabation with the [Friends of Tualatin River National Wildlife Refuge](https://www.friendsoftualatinrefuge.org/).
+The art works incorporated into the flyer, banner and posters are from the first [community youth art contest](https://pdxchinese.org/artcontest/) organized by OCC in collaboration with the [Friends of Tualatin River National Wildlife Refuge](https://www.friendsoftualatinrefuge.org/).
 
 ## Live Streaming
 
