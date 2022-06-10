@@ -11,6 +11,13 @@ The purposes of forming our community drum team are to provide the community mem
 
 To have us perform in your events, please [contact us](http://pdxchinese.org/contact/).
 
+### Weekly Practice
+
+Place: [03 Int'l Badminton Club](https://www.facebook.com/03badminton/) (10058 SW Arctic Dr. Beaverton, OR, 97005)
+
+Time: Saturday 2pm-4pm
+      Sunday 5pm-7pm
+
 ### Debut Performance
 
 [Chinese Festival](http://pdxchinese.org/chinesefestival/) on August 3, 2019

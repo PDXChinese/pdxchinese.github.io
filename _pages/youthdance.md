@@ -37,4 +37,9 @@ We’re looking for a maximum of 15 dancers, but preferably add around 3 more da
 
 We will practice every weekend on Saturdays/Sundays starting June 9th until August 6th from 4-6 PM plus one rehearsal the night before the performance. Afterwards we plan to continue dancing for fun once a week on Sundays. We were thinking of doing 2 large group dance performances and 1 small group dance on August 6th.
 
-### Practice place is to be determined, most likely along highway 26 and I-217 for convenient commuting.
+### Practice Schedule
+
+Place: Hope Chinese Charter School (3500 SW 104th Ave, Beaverton, OR 97005)
+
+Time: 7/9-8/6 Satuday 4-6pm, dress rehearsal 8/5 evening (Upwards to the Moon 左手指月)  
+      7/9-8/6 Sunday (4-6pm), dress rehearsal 8/5 evening (Cai Wei 采薇)  
