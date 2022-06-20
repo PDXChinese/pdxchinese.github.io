@@ -25,25 +25,25 @@ Virtual Conference
 
   -- By Hongcheng Zhao
 
-## 1:10 pm - 2:00 pm 《[YES WE WILL!](https://www.kellyyang.com/yes-we-will/)》
+### 1:10 pm - 1:50 pm From Being Inspired to Inspiring Others
 
-  -- By [Kelly Yang](https://www.kellyyang.com/), #1 New York Times best-selling and award-winning author  
-  -- Introduced by Frances Ippolito  
+  -- By Maggie Bao, graduate from Sunset High School and rising frosh at MIT  
+  -- By [Jenny Duan](https://www.linkedin.com/in/jennysduan), graduate from Jesuit High School and rising frosh at Stanford University  
 
-### 2:00 pm - 2:15 pm Celebration of the Changemakers
+### 1:50 pm - 2:00 pm Celebration of the Changemakers
 
   -- Victoria Ren Scholarship  
   -- Voice of Civic Engagement Award  
   -- Youth Empowerment Award  
 
-  Please refer to the [normination form](https://docs.google.com/forms/d/e/1FAIpQLSfQRyJHdDFVPnelnzQpe8xVH2n0A8AsvoNi7VqHrCHFtCS4vg/viewform?c=0&w=1) for details about each scholarship/award.
+Please refer to the [normination form](https://docs.google.com/forms/d/e/1FAIpQLSfQRyJHdDFVPnelnzQpe8xVH2n0A8AsvoNi7VqHrCHFtCS4vg/viewform?c=0&w=1) for details about each scholarship/award.
 
-### 2:15 pm - 3:00 pm From Being Inspired to Inspiring Others
+## 2:00 pm - 3:00 pm 《[YES WE WILL!](https://www.kellyyang.com/yes-we-will/)》
 
-  -- By Maggie Bao, graduate from Sunset High School and rising frosh at MIT  
-  -- By [Jenny Duan](https://www.linkedin.com/in/jennysduan), graduate from Jesuit High School and rising frosh at Stanford University  
+  -- By [Kelly Yang](https://www.kellyyang.com/), #1 New York Times best-selling and award-winning author  
+  -- Introduced by Frances Ippolito  
 
-### 3:00 pm Closing Remark
+### 3:00 pm Closing Remark with a Short Break
 
 ### 3:10 pm - 4:30 pm Extra: Q&A with Parents
 
