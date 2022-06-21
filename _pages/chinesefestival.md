@@ -8,15 +8,10 @@ feature_row0:
   - image_path: /assets/images/activities/oregonian.jpg
   - image_path: /assets/images/activities/pcs-logo.png
 feature_row1:
-  - image_path: /assets/images/activities/sophia.jpg
-    title: "Sophia Pi"
-    excerpt: "12pm-2pm"
-  - image_path: /assets/images/activities/nancy3.jpg
-    title: "Nancy Bai"
-    excerpt: "2pm-4pm"
-  - image_path: /assets/images/activities/victor3.jpg
+  - image_path: /assets/images/festival/annie_duan.jpg
+    title: "Annie Duan"
+  - image_path: /assets/images/pvsa/2021_Victor_Li.jpg
     title: "Victor Li"
-    excerpt: "4pm-7pm"
 feature_row2:
   - image_path: /assets/images/activities/lori.jpg
     excerpt: "Commissioner Stegmann"
@@ -32,7 +27,7 @@ The festival will go live on Instagram from 11am. Please follow us @OregonChines
 
 ## Masters of Ceremony
 
-TBD
+{% include feature_row id="feature_row1"%}
 
 ## Stage Performances  
 
@@ -74,6 +69,8 @@ TBD
 ## Sponsors
 
 [City of Portland](https://www.portland.gov/)  
+[Oregon Health Authority](https://www.oregon.gov/oha/Pages/index.aspx)  
+[Multnamoh County](https://www.multco.us/health)  
 [Pioneer Courthouse Square](https://www.thesquarepdx.org/)  
 
 ## Photo Albums
