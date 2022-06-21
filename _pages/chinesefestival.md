@@ -8,6 +8,8 @@ feature_row0:
   - image_path: /assets/images/activities/oregonian.jpg
   - image_path: /assets/images/activities/pcs-logo.png
 feature_row1:
+  - image_path: /assets/images/festival/claire_cao.jpg
+    title: "Claire Cao"
   - image_path: /assets/images/festival/annie_duan.jpg
     title: "Annie Duan"
   - image_path: /assets/images/pvsa/2021_Victor_Li.jpg
@@ -65,6 +67,7 @@ The festival will go live on Instagram from 11am. Please follow us @OregonChines
 [Lan Su Chinese Garden](https://lansugarden.org/)  
 [Friends of Tualatin River National Wildlife Refuge](https://www.friendsoftualatinrefuge.org/)  
 [Portland Parks & Recreation (Urban Forestry Division)](https://www.portland.gov/trees/tree-planting)  
+[Tualatin Hills Park & Recreation District (THPRD)](http://www.thprd.org/)  
 
 ## Sponsors
 
