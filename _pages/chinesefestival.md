@@ -45,7 +45,8 @@ The festival will go live on Instagram from 11am. Please follow us @OregonChines
 | Name | Category |
 | [Mandarin House 京华楼](https://www.mandarinhouse97204.com/) | Barbecued Pork Buns, Steamed Dumplings, Spring Rolls |
 | [Wheat Bay Chinese Restaurant 成都名小吃](https://www.wheatbayportland.com/) | |
-| [Great Tang](http://greattang.gt/) | Lamb Skewers, Chicken Skewers, Fried Noodles, Mango Sago |
+| Great Tang | Chicken skewers, Lamb skewers, Yakisoba, schicandra pear tea, Jingdong meat pie, Pot stickers, Roujiamo |
+| [Red Robe Tea House & Cafe 大红袍](http://redrobeteahouse.com/)| Chinese Cuisines & Bubble Tea |
 
 ## Craft Tables
 
@@ -57,9 +58,10 @@ The festival will go live on Instagram from 11am. Please follow us @OregonChines
 | --- | --- |
 | XK Gift Shop | Culture Specific Gifts & Clothing |
 
-## Arts and Face Painting
+## Arts
 
 | Name | Onsite Activity |
+| Hanxing Zhao, Lingnan School of Painting | Onsite Demonstration |
 
 ## Public Health Outreach
 
