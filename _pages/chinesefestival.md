@@ -61,6 +61,7 @@ The festival will go live on Instagram from 11am. Please follow us @OregonChines
 ## Arts
 
 | Name | Onsite Activity |
+| Youth Artists | Artwork Display and Demonstration |
 
 ## Public Health Outreach
 
