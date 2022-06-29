@@ -43,6 +43,9 @@ The festival will go live on Instagram from 11am. Please follow us @OregonChines
 ## Food Vendor Lineup
 
 | Name | Category |
+| [Mandarin House 京华楼](https://www.mandarinhouse97204.com/) | Barbecued Pork Buns, Steamed Dumplings, Spring Rolls |
+| [Wheat Bay Chinese Restaurant 成都名小吃](https://www.wheatbayportland.com/) | |
+| [Great Tang](http://greattang.gt/) | Lamb Skewers, Chicken Skewers, Fried Noodles, Mango Sago |
 
 ## Craft Tables
 
