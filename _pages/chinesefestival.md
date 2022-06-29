@@ -61,7 +61,6 @@ The festival will go live on Instagram from 11am. Please follow us @OregonChines
 ## Arts
 
 | Name | Onsite Activity |
-| Hanxing Zhao, Lingnan School of Painting | Artwork Display and Demonstration |
 
 ## Public Health Outreach
 
