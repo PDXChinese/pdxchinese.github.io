@@ -65,14 +65,15 @@ The festival will go live on Instagram from 11am. Please follow us @OregonChines
 
 ## Public Health Outreach and Education
 
-| Name | Category |
-| Covid-19 Vaccination for Age 3+ | [LeCare Pharmacy](https://www.lecarepharmacy.com/) |
+| Service | Partner |
+| Covid-19 Vaccination Clinic for Age 3+ | [LeCare Pharmacy](https://www.lecarepharmacy.com/) |
 | Culturally Specific Cancer Risk Education | Community Volunteers |
 | Mental Health Consultation | [Mental Health Assocoation for Chinese Communities](https://www.mhacc-usa.org/) |
 | Chinese Medicine Consultation | [Oku Acupuncture & Herbs](Oku Acupuncture & Herbs) |
 | Health & Housing Support | [Community for Positive Aging](https://hollywoodseniorcenter.org/) |
 
-* Free of charge, walk-ins welcome.
+* Free of charge, walk-ins welcome.  
+* Supported and Funded by OHA and Multnomah County  
 
 ## Nonprofit Lineup
 
