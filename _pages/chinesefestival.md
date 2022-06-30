@@ -48,9 +48,24 @@ The festival will go live on Instagram from 11am. Please follow us @OregonChines
 | Great Tang | Chicken skewers, Lamb skewers, Yakisoba, schicandra pear tea, Jingdong meat pie, Pot stickers, Roujiamo |
 | [Red Robe Tea House & Cafe 大红袍](http://redrobeteahouse.com/)| Chinese Cuisines & Bubble Tea |
 
-## Craft Tables
+## Kids Friendly Hands-on Craft Activities  
 
-| Name | Category |
+| Category | Activity | Table |
+| --- | --- | ---: |
+| Physical | [Jump Rubber Band/跳橡皮筋](https://youtu.be/H48DTWOlmw0) | Floor |
+| | [Shuttlecock Kicking/踢毽子](https://youtu.be/fOn0DhvInSk) | Floor |
+| | [Turn Handkerchief/转手帕](https://youtu.be/qaxhg49elNg) | Floor |
+| | [Taiji/太极](https://youtu.be/Meq5j26QPWc) | Floor |
+| Brain Teaser | [China Ring/九连环](https://youtu.be/Twtzc7A9cN8) | 1 |
+| | [Burr Puzzle/鲁班锁](https://youtu.be/ueV1c9RHC4w?t=74) | 1 |
+| | [Klotski/华容道](https://youtu.be/VX5Jon2YdXQ) | 1 |
+| | [Tangram/七巧板](https://youtu.be/3S_JidggG6g) | 1 |
+| Cultural | [Chinese Calligraphy/毛笔字](https://youtu.be/w9zjsTDHCdM) | 2 |
+| | [Ink Painting/水墨画](https://youtu.be/aw4kEVDSx9A) | 2 |
+| | [Paper Cutting/剪纸](https://youtu.be/xB7GbPBNxPE) | 3 |
+| | [Origami/折纸](https://youtu.be/cZdO2e8K29o) | 3 |  
+| | [Costume Photo Booth/古装拍照](https://www.amazon.com/slp/chinese-traditional-clothes-for-kids/uyhyxwv4h9my8zp) | 4 |
+| | [Clay Figurine/捏泥人](https://www.youtube.com/watch?v=Da6cfOlniPo) | 4 |
 
 ## Gifts Vendor Lineup
 
@@ -72,8 +87,8 @@ The festival will go live on Instagram from 11am. Please follow us @OregonChines
 | Chinese Medicine Consultation | [Oku Acupuncture & Herbs](Oku Acupuncture & Herbs) |
 | Health & Housing Support | [Community for Positive Aging](https://hollywoodseniorcenter.org/) |
 
-* Free of charge, walk-ins welcome.  
-* Supported and Funded by OHA and Multnomah County  
+> Free of charge, walk-ins welcome.  
+> Partly supported by grants from OHA, Multnomah County and Washington County  
 
 ## Nonprofit Lineup
 
