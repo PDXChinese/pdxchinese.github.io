@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /coronavirus/
+permalink: /projects/
 feature_row1:
   - image_path: /assets/images/activities/oha1.jpg
   - image_path: /assets/images/activities/cityofportland.png

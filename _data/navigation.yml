@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Resources"
     url: /resources/
-  - title: "COVID-19"
-    url: /coronavirus/
+  - title: "Funded Proj"
+    url: /projects/
   - title: "Donate"
     url: /communityfund/
   - title: "Contact Us"
