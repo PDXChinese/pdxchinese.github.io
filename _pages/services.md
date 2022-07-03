@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /projects/
+permalink: /services/
 feature_row1:
   - image_path: /assets/images/activities/oha1.jpg
   - image_path: /assets/images/activities/cityofportland.png
@@ -9,17 +9,19 @@ feature_row1:
   - image_path: /assets/images/activities/ocf.jpg
   - image_path: /assets/images/activities/communityaction.jpg
 ---
-![]({{ site.url }}/assets/images/activities/mask_okay.png)
-
-# 华人联盟(OCC)主持的华人社区疫情应对计划
-
-在新冠病毒传播速度逐渐加快之际，各级政府决定动员社区组织（CBOs），希望通过社区的力量做到宣传与服务无死角。借助全社区公益活动积累下来的影响力，华人联盟(OCC)接连获得针对COVID-19的专项基金，为Metro三个县乃至全州华人提供服务，包括防疫宣传教育，对个人家庭团体企业提供资金救助，和帮助分发住房租金和现金卡。所有信息将会在OCC社区疫情应对计划网站上 ([OCCResponse.org](http://occresponse.org/))持续更新。
 
 ## 热线电话
 
 > (503)334-1010 (普通话，广东话，英文)  
 
-我们正在壮大翻译义工团队，如果您有翻译需要，可以拨打热线电话。紧急情况下，我们会即时帮助您。需要帮助的实例包括街头摔倒或遇袭或迷路，去社会福利机构，甚至药局和诊所，等等。
+紧急情况下，我们会及时帮助您。需要帮助的实例包括街头摔倒或遇袭或迷路，去社会福利机构，甚至药局和诊所临时需要翻译，等等。详情请见[热线电话专页](https://pdxchinese.org/support/)。
+
+我们正在组建翻译义工团队，精神健康支持团队，家庭暴力支持团队，希望能集中社区资源为有需要的社区成员提供帮助。
+
+# 华人联盟(OCC)主持的华人社区疫情应对计划
+
+在新冠病毒传播速度逐渐加快之际，各级政府决定动员社区组织（CBOs），希望通过社区的力量做到宣传与服务无死角。借助全社区公益活动积累下来的影响力，华人联盟(OCC)接连获得针对COVID-19的专项基金，为Metro三个县乃至全州华人提供服务，包括防疫宣传教育，对个人家庭团体企业提供资金救助，和帮助分发住房租金和现金卡。所有信息将会在OCC社区疫情应对计划网站上 ([OCCResponse.org](http://occresponse.org/))持续更新。
+
 
 ## 疫苗接种相关信息
 

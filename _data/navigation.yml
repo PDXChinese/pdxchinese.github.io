@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Resources"
     url: /resources/
-  - title: "Funded Proj"
-    url: /projects/
+  - title: "Services"
+    url: /services/
   - title: "Donate"
     url: /communityfund/
   - title: "Contact Us"
