@@ -63,8 +63,9 @@ The festival will go live on Instagram from 11am. Please follow us @OregonChines
 | | [Ink Painting/水墨画](https://youtu.be/aw4kEVDSx9A) | 2 |
 | | [Paper Cutting/剪纸](https://youtu.be/xB7GbPBNxPE) | 3 |
 | | [Origami/折纸](https://youtu.be/cZdO2e8K29o) | 3 |  
-| | [Costume Photo Booth/古装拍照](https://www.amazon.com/slp/chinese-traditional-clothes-for-kids/uyhyxwv4h9my8zp) | 4 |
 | | [Clay Figurine/捏泥人](https://www.youtube.com/watch?v=Da6cfOlniPo) | 4 |
+| | Costume Photo Booth/古装拍照 | 5 |
+| DIY | DIY Red Lanterns/制作灯笼 | 5 |
 
 ## Gifts Vendor Lineup
 
@@ -76,6 +77,8 @@ The festival will go live on Instagram from 11am. Please follow us @OregonChines
 
 | Name | Onsite Activity |
 | Youth Artists | Artwork Display and Demonstration |
+
+Young artists can draw or write on 200 fans for visitors to take away.
 
 ## Public Health Outreach and Education
 
