@@ -78,7 +78,7 @@ The festival will go live on Instagram from 11am. Please follow us @OregonChines
 | Name | Onsite Activity |
 | Youth Artists | Artwork Display and Demonstration |
 
-Young artists can draw or write on 200 fans for visitors to take away.
+Young artists will draw or write on 200 fans for visitors to take away.
 
 ## Public Health Outreach and Education
 
