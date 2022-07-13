@@ -35,43 +35,57 @@ The festival will go live on Instagram from 11am. Please follow us @OregonChines
 
 | Time | Program | Presented By |
 | --- | --- | --- | ---: |
-| 11:00 | Welcome Speech | MC |
-| 00:00 | Folk Dance: 锦瑟 | Winnie Chinese Dance |
-| 00:00 | Folk Dance: 额尔古纳河 | Winnie Chinese Dance |
-| 00:00 | Martial Arts Performance| [Summit Wushu Academy](http://summitwushu.com/) |
-| 00:00 | Learning Wushu Moves with Master | Peter Dang from [Summit Wushu Academy](http://summitwushu.com/) |
-| 00:00 | Presenting Chinese Rose Princess 2022 | Chinese Youth and Women Development Association |
-| 00:00 | Folk Dance | Salem Golden Willow Chinese Dance Group (西林金柳中国舞蹈队) |
-| 00:00 | Coop Dance | Phoenix Dunn |
-| 00:00 | Folk Dance: 康定情歌 | Portland Chinese Dancing Troupe |
-| 00:00 | The Butterfly Lovers: 梁祝 | Portland Chinese Dancing Troupe |
-| 00:00 | Vocal Duet: 情歌对唱，拉手手亲口口 | 张光超、郭玉茹 |
-| 00:00 | Dance: 水摇扇影 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-| 00:00 | Children Songs: 一起向未来, 唱歌美丽的地球 | [Xstream](http://xstreamlc.com/) and [Bamboo International School](http://bamboointlschool.com/) |
-| 00:00 | Modern Dance: No Excuse, Sugar, Sugar | [Haiyan International Dance Academy](http://www.haiyanballet.net/) |
-| 00:00 | Folk Dance: 牧羊姑娘, 我的九寨 | 温哥华茉莉花舞队(Vancouver Jasmine Dancing troupe) |
-| 00:00 | 艺术体操 Carnival Girls | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
-| 00:00 | Violin Ensemble: The Bumble Bee, 天山 | [Pacific Violin Academy](https://pacificviolinacademy.com/) |
-| 00:00 | Solo Vocal with Dance: 鲁冰花 | 黄捷 with Anna(妞妞) Claire(可儿), Riley Chung, Sophie Liu(刘洋) |
-| 00:00 | Group Drumming: 权御天下 | Hua Mu Lan Drum Team 花木兰大鼓队 |
-| 00:00 | Kids Group Drumming | [Panda Drum Team 熊猫大鼓队](https://pdxchinese.org/drumteam/) |
-| 00:00 | Dance: 踏鼓 (Drum beats blessing) | 东方舞艺术团 (East Dream Dance Troupe) |
-| 00:00 | Dance: 水摇扇影 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-| 00:00 | Guzheng: 青花瓷 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-| 00:00 | Children Dance: 最炫民族风 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-| 00:00 | Guzheng: Jasmine Flower, Moonlit over the Spring River, Blue And White Porcelain | Wisdom Arts Academy (Ava Yu, Cheery Zhang, Alison Hu, Stella Xu, Hai Bi) |
-| 00:00 | Yue Opera: Love Song 爱歌 from 春香传 | Portland Chinese Dancing Troupe 波特兰中国舞蹈队 (熊霖、戴丽红) |
-| 00:00 | Dance: 笛中花 | Winnie Dance Studio/Monica Luo |
-| 00:00 | Pop Songs: 如愿, 一万次悲伤 | Portland Karaoke Group 波特兰K歌组 |
-| 00:00 | Folk Song Band | Yue Sheng Music Club |
-| 00:00 | Face Changing Performance |  |
-| 00:00 | Group Dance | [Jade Dance Team](https://pdxchinese.org/youthdance/) |
-| 00:00 | Group Dance | SE Dance Team |
-| 00:00 | Orchestra | [Communithy Youth Orchestra](https://pdxchinese.org/youthorchestra/) |
-| 00:00 | String Quartet | [Communithy Youth Orchestra](https://pdxchinese.org/youthorchestra/) |
-| 00:00 | Violin by Conductor, 1st Violin & Parents | [Communithy Youth Orchestra](https://pdxchinese.org/youthorchestra/) |
+| Section I | 11:00am-1:00pm | |
+|  | Welcome Speech | MC |
+|  | Group Drumming: 权御天下 | Hua Mu Lan Drum Team 花木兰大鼓队 |
+|  | Dance: The Butterfly Lovers 梁祝 | Portland Chinese Dancing Troupe |
+|  | Vocal Duet: 情歌对唱，拉手手亲口口 | 张光超、郭玉茹 |
+|  | Children Dance: 小熊糖 | [Xstream](http://xstreamlc.com/) and [Bamboo International School](http://bamboointlschool.com/) |
+|  | Erhu Solo | Jerry Lin |
+|  | Dance: 踏鼓 (Drum Beats Blessing) | [东方舞艺术团 (East Dream Dance Troupe)](http://www.eastdreamdance.org/index.html) |
+|  | Face Changing Performance | Nelson Yuan |
+|  | Children Songs: 一起向未来, 美丽的地球 | [Xstream](http://xstreamlc.com/) and [Bamboo International School](http://bamboointlschool.com/) |
+|  | Violin Ensemble: The Bumble Bee, 天山 | [Pacific Violin Academy](https://pacificviolinacademy.com/) |
+|  | Dance: 水摇扇影 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+|  | CPop Dance | Phoenix Dunn |
+|  | Folk Dance: 康定情歌 | Portland Chinese Dancing Troupe |
+|  | String Orchestra: Chinese Music | [Communithy Youth Orchestra](https://pdxchinese.org/youthorchestra/) |
+| Section II | 1:00pm-3:00pm | |
+|  | Rhythmic Gymnastics & Dance: Carnival Girls | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
+|  | Guzheng: 青花瓷 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+|  | Dance: 初见 (扇舞) | Salem Chinese Golden Willow Dance Group |
+|  | Children Solo Vocal: 大鱼 | |
+|  | Children Dance: 最炫民族风 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+|  | Cello | |
+|  | Dance: 采薇 | [Jade Dance Team](https://pdxchinese.org/youthdance/) |
+|  | Women's Vocal Quartet: Memory, 重归苏莲托 | |
+|  | Dance: 啊, 草原 | Salem Chinese Golden Willow Dance Group |
+|  | Dulcimer | |
+|  | Folk Dance: 锦瑟 | Winnie Chinese Dance//Qingshan Li |
+|  | Fan Dance: Upward to the Moon | [Jade Dance Team](https://pdxchinese.org/youthdance/) |
+|  | Folk Song Band | Yue Sheng Music Club |
+|  | Martial Arts Performance | [Summit Wushu Academy](http://summitwushu.com/) |
+| Section III | 3:00pm-6:00pm | |
+|  | Group Drumming | [Panda Drum Team 熊猫大鼓队](https://pdxchinese.org/drumteam/) |
+|  | Women's Vocal: 送你一朵东方茉莉 | |
+|  | Dance: 笛中花 | Winnie Dance Studio/Monica Luo |
+|  | Chinese Rose Princess & Queens | [Oceana Blue Productions](http://oceanablueusa.com/) |
+|  | Solo Vocal with Dance: 鲁冰花 | 黄捷 with Anna(妞妞) Claire(可儿), Riley Chung, Sophie Liu(刘洋) |
+|  | Modern Dance: No Excuse | [Haiyan International Dance Academy](http://www.haiyanballet.net/) |
+|  | Taiji: 八卦掌 (Eight Fixed Palms) | Master Lin |
+|  | Folk Dance: 我的九寨 | 温哥华茉莉花舞队 (Vancouver Jasmine Dancing Troupe) |
+|  | Violin | |
+|  | Hip Hop Dance | [Good Time Chinese School](https://www.goodtimechineseschool.org/s/) |
+|  | Pop Songs: 如愿, 一万次悲伤 | Portland Karaoke Group 波特兰K歌组 |
+|  | Modern Dance: Sugar, Sugar | [Haiyan International Dance Academy](http://www.haiyanballet.net/) |
+|  | Guzheng: Jasmine Flower, Moonlit over the Spring River, Blue And White Porcelain | [Wisdom Arts Academy](https://www.facebook.com/Wisdom-Arts-Academy-224047824348319/) (Ava Yu, Cheery Zhang, Alison Hu, Stella Xu, Hai Bi) |
+|  | Folk Dance: 牧羊姑娘 | 温哥华茉莉花舞队 (Vancouver Jasmine Dancing Troupe) |
+|  | Yue Opera: Love Song 爱歌 from 春香传 | Portland Chinese Dancing Troupe (熊霖、戴丽红) |
+|  | Group Dance | SE Youth Dance Team |
+|  | Folk Dance: 额尔古纳河 | Winnie Chinese Dance |
+|  | Children Martial Arts | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 
-*Time assignment is in the process*
+*Schedule is subject to change*
 
 ## Food Vendor Lineup
 
