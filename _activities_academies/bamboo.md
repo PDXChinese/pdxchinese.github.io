@@ -10,7 +10,7 @@ sidebar:
   - title: "Email"
     text: "streamlearnings@gmail.com"
   - title: "Website"
-    text: "[streamlearnings@gmail.com](http://streamlearnings@gmail.com/)"
+    text: "[bamboointlschool.com](http://bamboointlschool.com/)"
 ---
 
 ## We care about kids
