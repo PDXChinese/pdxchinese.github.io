@@ -9,6 +9,8 @@ feature_row1:
 
 > 您如果遇到紧急情况，不要犹豫，马上拨打 **911**。  
 > In an emergency, immediately call **911**.  
+> 您如果遭遇自杀与危机困扰，请拨打热线电话 **988**
+> Call Suicide and Crisis Line 988 for help
 
 ## 遇到如下情况，欢迎拨打OCC热线电话(503-334-1010)，我们有会讲普通话，粤语和英语的志愿者随时在线上为您提供帮助.  
 In situations like in the following, please call the OCC support line(503-334-1010), which is backed by our volunteers who can speak Mandarin, Cantonese and English.  
