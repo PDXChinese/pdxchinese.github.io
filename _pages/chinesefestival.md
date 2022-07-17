@@ -104,13 +104,14 @@ The festival will go live on Instagram from 11am. Please follow us @OregonChines
 | | [Burr Puzzle/鲁班锁](https://youtu.be/ueV1c9RHC4w?t=74) | 1 |
 | | [Klotski/华容道](https://youtu.be/VX5Jon2YdXQ) | 1 |
 | | [Tangram/七巧板](https://youtu.be/3S_JidggG6g) | 1 |
-| Cultural | [Chinese Calligraphy/毛笔字](https://youtu.be/w9zjsTDHCdM) | 2 |
-| | [Ink Painting/水墨画](https://youtu.be/aw4kEVDSx9A) | 2 |
-| | [Paper Cutting/剪纸](https://youtu.be/xB7GbPBNxPE) | 3 |
-| | [Origami/折纸](https://youtu.be/cZdO2e8K29o) | 3 |  
-| | [Clay Figurine/捏泥人](https://www.youtube.com/watch?v=Da6cfOlniPo) | 4 |
-| | Costume Photo Booth/古装拍照 | 5 |
-| DIY | DIY Red Lanterns/制作灯笼 | 5 |
+| | [Magician/Rubik's Cube/魔术魔方表演](https://youtu.be/7Ron6MN45LY) | 2 |
+| Cultural | [Chinese Calligraphy/毛笔字](https://youtu.be/w9zjsTDHCdM) | 3 |
+| | [Ink Painting/水墨画](https://youtu.be/aw4kEVDSx9A) | 3 |
+| | [Paper Cutting/剪纸](https://youtu.be/xB7GbPBNxPE) | 4 |
+| | [Origami/折纸](https://youtu.be/cZdO2e8K29o) | 4 |  
+| | [Clay Figurine/捏泥人](https://www.youtube.com/watch?v=Da6cfOlniPo) | 5 |
+| | Costume Photo Booth/古装拍照 | 6 |
+| DIY | DIY Red Lanterns/制作灯笼 | 6 |
 
 ## Gifts Vendor Lineup
 
