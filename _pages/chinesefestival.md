@@ -11,7 +11,7 @@ feature_row1:
   - image_path: /assets/images/festival/claire_cao.jpg
     title: "Claire Cao"
   - image_path: /assets/images/festival/amy_kang2.jpg
-    title: "Annie Duan"
+    title: "Amy Kang"
   - image_path: /assets/images/pvsa/2021_Victor_Li.jpg
     title: "Victor Li"
 feature_row2:
