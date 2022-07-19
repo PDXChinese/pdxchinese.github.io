@@ -145,12 +145,13 @@ Young artists will draw or write on 200 fans for visitors to take away.
 [Portland Parks & Recreation (Urban Forestry Division)](https://www.portland.gov/trees/tree-planting)  
 [Tualatin Hills Park & Recreation District (THPRD)](http://www.thprd.org/)  
 
-## Sponsors
+## Festival Sponsors
 
 [City of Portland](https://www.portland.gov/)  
+[Oregon Health & Science University](https://www.ohsu.edu/)
 [Oregon Health Authority](https://www.oregon.gov/oha/Pages/index.aspx)  
-[Multnamoh County](https://www.multco.us/health)  
-[Pioneer Courthouse Square](https://www.thesquarepdx.org/)  
+[Multnomah County](https://www.multco.us/health)  
+[Portland General Electric](https://portlandgeneral.com/)  
 
 ## Photo Albums
 
