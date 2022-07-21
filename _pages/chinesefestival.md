@@ -151,19 +151,14 @@ Young artists will draw or write on 200 fans for visitors to take away.
 ## Festival Sponsors
 
 [City of Portland](https://www.portland.gov/)  
-[Oregon Health & Science University](https://www.ohsu.edu/)
+[Oregon Health & Science University](https://www.ohsu.edu/)  
 [Oregon Health Authority](https://www.oregon.gov/oha/Pages/index.aspx)  
 [Multnomah County](https://www.multco.us/health)  
 [Portland General Electric](https://portlandgeneral.com/)  
 
-## Photo Albums
-
-[2021 Chinese Festival Photo Album](https://pdxchinese.org/chinese-festival-2021/)  
-[2019 Chinese Festival Photo Album](http://pdxchinese.org/chinese-festival-2019/)  
-
-<iframe width="1189" height="669" src="https://www.youtube.com/embed/hOMUih0WrLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Chinese Festivals in the Past
 
-[2021 Chinese Festival](http://pdxchinese.org/chinesefestival/chinesefestival_2021/)  
-[2019 Chinese Festival](http://pdxchinese.org/chinesefestival/chinesefestival_2019/)  
+2019: [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2019/), [Photo Album](http://pdxchinese.org/chinese-festival-2019/)  
+2021: [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2021/), [Photo Album](https://pdxchinese.org/chinese-festival-2021/)  
+
+<iframe width="1189" height="669" src="https://www.youtube.com/embed/hOMUih0WrLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
