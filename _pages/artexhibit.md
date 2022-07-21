@@ -11,6 +11,13 @@ feature_row1:
 报名截止日：2022年4月30日  
 报名表：[点击这里](https://docs.google.com/forms/d/e/1FAIpQLSeMc3aVAPV5BkmZ8BThHhvHHEYnbNHy1B9YQCgxxiWcpAGoZQ/viewform?usp=sf_link)  
 
+### 2022 Art Show Highlight
+
+[华人社区艺术展在中国城正式拉开帷幕](https://pdxchinese.org/artshow_artworks_2022/)  
+[华人社区艺术展:山鸣谷应，风生水起！](https://pdxchinese.org/artshow_arttalk_2022/)  
+[华人社区艺术展:庆祝亚裔文化月](https://pdxchinese.org/artshow_closing_2022/)  
+[华人社区艺术展:文艺演出](https://pdxchinese.org/artshow_performance_2022/)  
+
 ![]({{ site.url }}/assets/images/divider.jpg)
 
 ![]({{ site.url }}/assets/images/activities/pp_exhibit_2021.jpg)
