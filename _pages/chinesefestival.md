@@ -138,7 +138,7 @@ Young artists will draw or write on 200 fans for visitors to take away.
 | Chinese Medicine Consultation | [Optimal Health Clinic](https://www.optimalpdx.com/) |
 | Health & Housing Support | [Community for Positive Aging](https://hollywoodseniorcenter.org/) |
 
-> People who receive vaccination at the festival (parents too) will receive a voucher for onsite food vendors.
+> People who receive vaccination at the festival (parents too) will receive voucher used with onsite food vendors.
 
 > Free of charge, walk-ins welcome.  
 > Partly supported by grants from OHA, Multnomah County and Washington County  
