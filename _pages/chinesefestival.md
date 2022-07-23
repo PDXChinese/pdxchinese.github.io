@@ -14,6 +14,8 @@ feature_row1:
     title: "Amy Kang"
   - image_path: /assets/images/pvsa/2021_Victor_Li.jpg
     title: "Victor Li"
+  - image_path: /assets/images/festival/justin.jpg
+    title: "Justin Xia"
 feature_row2:
   - image_path: /assets/images/activities/lori.jpg
     excerpt: "Commissioner Stegmann"
@@ -95,7 +97,7 @@ The festival will go live on Instagram from 11am. Please follow us @OregonChines
 | [Wheat Bay Chinese Restaurant 成都名小吃](https://www.wheatbayportland.com/) | Beef Pancake, Carlic Cucumber Salad, Special Chili Potatoes, Steamed BBQ Pork Bun |
 | Great Tang | Chicken skewers, Lamb skewers, Yakisoba, schicandra pear tea, Jingdong meat pie, Pot stickers, Roujiamo |
 | Little Beijing 北京小馆 | JianBing 煎饼果子，BingFen 冰粉，Cold Noodle |
-| TeaZen-Teahouse | Experience Authentic Tea with Ms. Liu |
+| [TeaZen-Teahouse](https://www.teazen-teahouse.com/) | Experience Authentic Tea with Ms. Liu |
 
 ## Kids Friendly Hands-on Craft Activities  
 
