@@ -44,8 +44,8 @@ The festival will go live on Instagram from 11am. Please follow us @OregonChines
 |  | Vocal Duet: 情歌对唱，拉手手亲口口 | 张光超、郭玉茹 |
 |  | Folk Dance: 我的九寨 | 温哥华茉莉花舞队 (Vancouver Jasmine Dancing Troupe) |
 |  | Women's Vocal Quartet: Memory, 重归苏莲托 | Voice of Spring Singing Group 春之声艺术团 |
-|  | Children Dance: 小熊糖 | [Xstream](http://xstreamlc.com/) and [Bamboo International School](http://bamboointlschool.com/) |
-|  | Face Changing Performance (Chuan Opera) | Nelson Yuan |
+|  | Children Dance: Gummy Bear 小熊糖 | [Xstream](http://xstreamlc.com/) and [Bamboo International School](http://bamboointlschool.com/) |
+|  | Face Changing Performance (Chuan Opera) 川剧变脸 | Nelson Yuan |
 |  | Children Songs: 一起向未来, 美丽的地球 | [Xstream](http://xstreamlc.com/) and [Bamboo International School](http://bamboointlschool.com/) |
 |  | Erhu Solo | Jerry Lin |
 |  | Dance: 初见 (扇舞) | Salem Chinese Golden Willow Dance Group |
@@ -72,7 +72,7 @@ The festival will go live on Instagram from 11am. Please follow us @OregonChines
 | Section III | 3:00pm-6:00pm | |
 |  | Women's Vocal: 送你一朵东方茉莉 | Voice of Spring Singing Group 春之声艺术团 |
 |  | Modern Dance: No Excuse | [Haiyan International Dance Academy](http://www.haiyanballet.net/) |
-|  | Violin Ensemble: The Bumble Bee, 天山 | [Pacific Violin Academy](https://pacificviolinacademy.com/) |
+|  | Violin Ensemble: The Bumble Bee, 赛马 | [Pacific Violin Academy](https://pacificviolinacademy.com/) |
 |  | Dance: 踏鼓 (Drum Beats Blessing) | [东方舞艺术团 (East Dream Dance Troupe)](http://www.eastdreamdance.org/index.html) |
 |  | Folk Dance: 锦瑟 | Winnie Chinese Dance//Qingshan Li |
 |  | Dulcimer Solo: 萱草花 | [Good Time Chinese School](https://www.goodtimechineseschool.org/s/) |
