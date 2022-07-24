@@ -36,6 +36,9 @@ The camps/tours open to all youth in the community. When the space is limited, p
 
 ![]({{ site.url }}/assets/images/e8412acd478a29aa118e9e7d1162d38f.jpg)
 
+## 2022.03.21 [Clackamas Women’s Service Center](https://www.cwsor.org/)   
+![]({{ site.url }}/assets/images/WeChat Image_20220322002857.jpg)  
+
 ## 2022.7.22 [PGE Integrated Operational Center](https://portlandgeneral.com/media-gallery/operations-facilities)   
 ### Thanks to Hao Liu, Senior Thermal Performance Engineer, PGE  
 
