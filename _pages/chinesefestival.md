@@ -164,7 +164,7 @@ Young artists will draw or write on 200 fans for visitors to take away.
 
 ## Chinese Festivals in the Past
 
-2019: [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2019/) | [KGW Interview](https://www.kgw.com/video/life/first-ever-pdx-chinese-festival-on-the-square/283-21872975-6fee-4122-83d1-a83449b083f5) | [Photo Album](http://pdxchinese.org/chinese-festival-2019/)  
-2021: [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2021/) | [KOIN Interview](https://www.koin.com/local/multnomah-county/chinese-festival-returning-to-portland-this-saturday/) | [Photo Album](https://pdxchinese.org/chinese-festival-2021/)  
+2019: [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2019/), [KGW Interview](https://www.kgw.com/video/life/first-ever-pdx-chinese-festival-on-the-square/283-21872975-6fee-4122-83d1-a83449b083f5), [Photo Album](http://pdxchinese.org/chinese-festival-2019/)  
+2021: [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2021/), [KOIN Interview](https://www.koin.com/local/multnomah-county/chinese-festival-returning-to-portland-this-saturday/), [Photo Album](https://pdxchinese.org/chinese-festival-2021/)  
 
 <iframe width="1189" height="669" src="https://www.youtube.com/embed/hOMUih0WrLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
