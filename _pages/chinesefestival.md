@@ -138,7 +138,6 @@ Young artists will draw or write on 200 fans for visitors to take away.
 | Service | Partner |
 | Covid-19 Vaccination Clinic for Age 3+ | [LeCare Pharmacy](https://www.lecarepharmacy.com/) |
 | Culturally Specific Cancer Risk Education | Community Volunteers |
-| Mental Health Consultation | [Mental Health Assocoation for Chinese Communities](https://www.mhacc-usa.org/) |
 | Chinese Medicine Consultation | [Optimal Health Clinic](https://www.optimalpdx.com/) |
 | Health & Housing Support | [Community for Positive Aging](https://hollywoodseniorcenter.org/) |
 
