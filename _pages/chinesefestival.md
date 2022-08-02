@@ -166,6 +166,7 @@ Young artists will draw or write on 200 fans for visitors to take away.
 [Oregon Health Authority](https://www.oregon.gov/oha/Pages/index.aspx)  
 [Multnomah County](https://www.multco.us/health)  
 [Portland General Electric](https://portlandgeneral.com/)  
+[Pioneer Courthouse Square](https://www.thesquarepdx.org/)  
 
 ## Chinese Festivals in the Past
 
