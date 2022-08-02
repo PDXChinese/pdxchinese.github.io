@@ -136,16 +136,13 @@ Young artists will draw or write on 200 fans for visitors to take away.
 ## Public Health Outreach and Education
 
 | Service | Partner |
-| North Facing Side |
 | Covid-19 Vaccination Clinic for Age 3+ | [LeCare Pharmacy](https://www.lecarepharmacy.com/) |
 | [Food Service & Licensing](https://www.multco.us/health/inspections-and-licensing) | [Multnomah County Environmental Health](https://www.multco.us/service-locations/multnomah-county-environmental-health) |
-| West Facing Side |
 | Culturally Specific Cancer Risk Education | Community Volunteers |
 | [Pathfinder 2 Study to Find Cancer Early for 50+](https://www.ohsu.edu/knight-cancer-institute/join-pathfinder-2-study-find-cancer-early) | [OHSU Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute) |
 | [Healthy Oregon Project](https://healthyoregonproject.com/) | [OHSU Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute) |
-| South Facing Side |
 | Chinese Medicine Consultation | [Optimal Health Clinic](https://www.optimalpdx.com/) |
-| Health & Housing Support | [Community for Positive Aging](https://hollywoodseniorcenter.org/) |
+| Health Resources and Rent/Utility Assistance to Low-Income Community | [Community for Positive Aging](https://hollywoodseniorcenter.org/) |
 
 > People who receive vaccination at the festival (parents too) will receive voucher used with onsite food vendors.
 
