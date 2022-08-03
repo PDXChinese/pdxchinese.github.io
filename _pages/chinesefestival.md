@@ -142,7 +142,7 @@ Young artists will draw or write on 200 fans for visitors to take away.
 
 | Service | Partner |
 | Covid-19 Vaccination Clinic for Age 3+ | [LeCare Pharmacy](https://www.lecarepharmacy.com/) |
-| [Food Service & Licensing](https://www.multco.us/health/inspections-and-licensing) | [Multnomah County Environmental Health](https://www.multco.us/service-locations/multnomah-county-environmental-health) |
+| [Environmental Health Services Fish Safety](https://www.multco.us/health/staying-healthy/eating-fish-river) | [Multnomah County Health Department](https://www.multco.us/health) |
 | Culturally Specific Cancer Risk Education | Community Volunteers |
 | [Pathfinder 2 Study to Find Cancer Early for 50+](https://www.ohsu.edu/knight-cancer-institute/join-pathfinder-2-study-find-cancer-early) | [OHSU Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute) |
 | [Healthy Oregon Project](https://healthyoregonproject.com/) | [OHSU Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute) |
