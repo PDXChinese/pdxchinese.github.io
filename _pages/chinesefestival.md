@@ -17,8 +17,9 @@ feature_row1:
   - image_path: /assets/images/festival/justin.jpg
     title: "Justin Xia"
 feature_row2:
-  - image_path: /assets/images/activities/lori.jpg
-    excerpt: "Commissioner Stegmann"
+  - image_path: /assets/images/festival/jeff_selby.jpg
+    title: "Jeff Selby"
+    excerpt: "Deputy Director, City of Portland's Office of Equity & Human Rights"
 ---
 
 ![]({{ site.url }}/assets/images/festival/festival2022b.jpg)
@@ -32,6 +33,10 @@ The festival will go live on Instagram from 11am. Please follow us @OregonChines
 ## Masters of Ceremony
 
 {% include feature_row id="feature_row1"%}
+
+## Special Guest Speakers
+
+{% include feature_row id="feature_row2"%}
 
 ## Stage Performances  
 
