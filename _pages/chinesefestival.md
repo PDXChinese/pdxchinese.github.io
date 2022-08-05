@@ -71,7 +71,7 @@ The festival will go live on Instagram from 11am. Please follow us @OregonChines
 |  | Traditional Chinese Orchestra Performance | Yue Sheng Musical Club |
 |  | Dance: 采薇 | [Jade Dance Team](https://pdxchinese.org/youthdance/) |
 |  | Dance: 水摇扇影 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-|  | Taiji: 八卦掌 (Eight Fixed Palms) | Master Lin |
+|  | Taiji: 二十四式杨氏太极拳 (Twenty-four Styles of Yang Style) | Master Lin, et al |
 |  | Folk Dance: 康定情歌 | Portland Chinese Dancing Troupe |
 |  | Martial Arts Performance | [Summit Wushu Academy](http://summitwushu.com/) |
 | Section III | 3:00pm-6:00pm | |
