@@ -21,6 +21,7 @@ feature_row2:
     title: "Jeff Selby"
     excerpt: "Deputy Director, City of Portland's Office of Equity & Human Rights"
 ---
+# See you again in 2023. It will be on August 5!
 
 ![]({{ site.url }}/assets/images/festival/festival2022b.jpg)
 
