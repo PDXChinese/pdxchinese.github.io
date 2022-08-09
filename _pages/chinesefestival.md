@@ -24,8 +24,6 @@ feature_row2:
 # See you again in 2023. It will be on August 5!
 <br>
 <br>
-<br>
-
 ![]({{ site.url }}/assets/images/festival/festival2022b.jpg)
 
 The art works incorporated into the flyer, banner and posters are from the first [community youth art contest](https://pdxchinese.org/artcontest/) in collaboration with the [Friends of Tualatin River National Wildlife Refuge](https://www.friendsoftualatinrefuge.org/).
