@@ -10,6 +10,12 @@
   {% capture cta_path %}{{ page.header.cta_url | absolute_url }}{% endcapture %}
 {% endif %}
 
+{% if page.header.calendar_url contains "://" %}
+  {% capture calendar_path %}{{ page.header.calendar_url }}{% endcapture %}
+{% else %}
+  {% capture calendar_path %}{{ page.header.calendar_url | absolute_url }}{% endcapture %}
+{% endif %}
+
 {% if page.header.overlay_image contains "://" %}
   {% capture overlay_img_path %}{{ page.header.overlay_image }}{% endcapture %}
 {% elsif page.header.overlay_image %}
@@ -36,8 +42,15 @@
       {% if site.read_time and page.read_time %}
         <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
       {% endif %}
-      {% if page.header.cta_url %}
-        <p><a href="{{ cta_path }}" class="btn btn--light-outline">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+      {% if page.header.cta_url or page.header.calendar_url %}
+        <p>
+          {% if page.header.cta_url %}
+            <a href="{{ cta_path }}" class="btn btn--light-outline">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+          {% endif %}
+          {% if page.header.calendar_url %}
+            <a href="{{ calendar_path }}" class="btn btn--light-outline">{{ page.header.calendar_label | default: "<i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Community Calendar" }}</a>
+          {% endif %}
+        </p>
       {% endif %}
     </div>
   {% else %}
