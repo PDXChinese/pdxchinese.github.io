@@ -48,7 +48,7 @@
             <a href="{{ cta_path }}" class="btn btn--light-outline">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
           {% endif %}
           {% if page.header.calendar_url %}
-            <a href="{{ calendar_path }}" class="btn btn--light-outline">{{ page.header.calendar_label | default: "<i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Community Calendar" }}</a>
+            <a href="{{ calendar_path }}" class="btn btn--light-outline">{{ page.header.calendar_label | default: "Community Calendar" }}</a>
           {% endif %}
         </p>
       {% endif %}
