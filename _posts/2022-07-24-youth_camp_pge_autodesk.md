@@ -13,27 +13,27 @@ date: "2022-08-24"
 
 ### Tour at PGE Training Center at Sherwood on August 24
 
-![]({{ site.url }}/assets/images/second_pge_tour_01.jpg)
+![]({{ site.url }}/assets/images/second_pge_tour_01.JPG)
 
-![]({{ site.url }}/assets/images/second_pge_tour_02.jpg)
+![]({{ site.url }}/assets/images/second_pge_tour_02.JPG)
 
-![]({{ site.url }}/assets/images/second_pge_tour_03.jpg)
+![]({{ site.url }}/assets/images/second_pge_tour_03.JPG)
 
-![]({{ site.url }}/assets/images/second_pge_tour_04.jpg)
+![]({{ site.url }}/assets/images/second_pge_tour_04.JPG)
 
-![]({{ site.url }}/assets/images/second_pge_tour_05.jpg)
+![]({{ site.url }}/assets/images/second_pge_tour_05.JPG)
 
-![]({{ site.url }}/assets/images/second_pge_tour_06.jpg)
+![]({{ site.url }}/assets/images/second_pge_tour_06.JPG)
 
-![]({{ site.url }}/assets/images/second_pge_tour_07.jpg)
+![]({{ site.url }}/assets/images/second_pge_tour_07.JPG)
 
-![]({{ site.url }}/assets/images/second_pge_tour_08.jpg)
+![]({{ site.url }}/assets/images/second_pge_tour_08.JPG)
 
-![]({{ site.url }}/assets/images/second_pge_tour_09.jpg)
+![]({{ site.url }}/assets/images/second_pge_tour_09.JPG)
 
-![]({{ site.url }}/assets/images/second_pge_tour_10.jpg)
+![]({{ site.url }}/assets/images/second_pge_tour_10.JPG)
 
-![]({{ site.url }}/assets/images/second_pge_tour_11.jpg)
+![]({{ site.url }}/assets/images/second_pge_tour_11.JPG)
 
 ### Tour at Autodesk on August 25
 
