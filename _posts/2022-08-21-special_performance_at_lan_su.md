@@ -87,6 +87,7 @@ date: "2022-08-21"
 
 ![]({{ site.url }}/assets/images/300974762_1755345564838003_8530925399987335377_n.jpg)
 
+<iframe width="728" height="410" src="https://www.youtube.com/embed/2-iY0BY_-gE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=317&href=https%3A%2F%2Fwww.facebook.com%2FOregonChineseCoalition%2Fvideos%2F1481893768936703%2F&show_text=false&width=560&t=0" width="728" height="412" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
