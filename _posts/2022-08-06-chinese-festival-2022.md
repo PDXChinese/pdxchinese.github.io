@@ -105,6 +105,8 @@ date: "2022-08-06"
 
 ![]({{ site.url }}/assets/images/298448467_1745527209153172_2624064747582058503_n.jpg)
 
+![]({{ site.url }}/assets/images/WeChat Image_20220901214727.jpg)
+
 ![]({{ site.url }}/assets/images/298498917_1745527272486499_5846706177706397271_n.jpg)
 
 ![]({{ site.url }}/assets/images/298426224_1745527285819831_6911870205938003300_n.jpg)
