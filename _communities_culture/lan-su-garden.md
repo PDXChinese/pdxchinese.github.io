@@ -25,3 +25,5 @@ Once inside the garden's walls, you'll feel as if you've traveled through time t
 The garden's name represents this relationship: sounds from both Portland and Suzhou are combined to form Lan Su. "Lan" (蘭) is also the Chinese word for "Orchid" and "Su" (蘇) is the word for "Arise" or "Awaken," so the garden's name can also be interpreted poetically as "Garden of Awakening Orchids." (蘭蘇園)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iyCBI1LUrWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Another World Lies Beyond: Three Chinese Gardens in the US](https://www.asianstudies.org/publications/eaa/archives/another-world-lies-beyond-three-chinese-gardens-in-the-us/)
