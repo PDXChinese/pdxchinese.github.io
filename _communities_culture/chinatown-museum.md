@@ -4,7 +4,6 @@ location: "Chinatown, Portland"
 sidebar:
   - title: "Address"
     text: "127 NW Third Avenue Portland OR, 97209"
-    image: "/assets/images/activities/chinatownmuseum.jpg"
   - title: "Hours"
     text: "TBD"
   - title: "Phone"
@@ -13,4 +12,4 @@ sidebar:
     text: "[https://www.portlandchinatownmuseum.org/](https://www.portlandchinatownmuseum.org/)"
 ---
 
-## Coming Soon: a New Museum for Portland 
+## Coming Soon: a New Museum for Portland
