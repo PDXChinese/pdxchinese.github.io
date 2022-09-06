@@ -9,37 +9,37 @@ date: "2022-09-04"
 
 ![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_00.jpg)
 
-![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_01.jpg)
+![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_01.JPG)
 
-![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_02.jpg)
+![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_02.JPG)
 
-![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_03.jpg)
+![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_03.JPG)
 
-![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_04.jpg)
+![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_04.JPG)
 
-![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_05.jpg)
+![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_05.JPG)
 
-![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_06.jpg)
+![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_06.JPG)
 
-![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_07.jpg)
+![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_07.JPG)
 
-![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_08.jpg)
+![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_08.JPG)
 
-![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_09.jpg)
+![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_09.JPG)
 
-![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_10.jpg)
+![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_10.JPG)
 
-![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_11.jpg)
+![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_11.JPG)
 
-![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_12.jpg)
+![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_12.JPG)
 
-![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_13.jpg)
+![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_13.JPG)
 
-![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_14.jpg)
+![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_14.JPG)
 
-![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_15.jpg)
+![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_15.JPG)
 
-![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_16.jpg)
+![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_16.JPG)
 
 ![]({{ site.url }}/assets/images/lan_su_mid_autummn_festival_2022_17.jpg)
 
