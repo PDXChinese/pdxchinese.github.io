@@ -3,11 +3,9 @@ title: "社区青少年舞蹈队/Jade Dance Team"
 permalink: /youthdance/
 ---
 
-To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxchinese.org). They will love to show off our culture in the community events.
+To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxchinese.org). They will love to show off their culture in the community events.
 
 Please follow them on Instagram @jade_danceteam
-
-![]({{ site.url }}/assets/images/activities/youth_dance1.jpg)
 
 ### Founders
 
