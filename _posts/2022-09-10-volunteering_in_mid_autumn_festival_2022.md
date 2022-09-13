@@ -1,5 +1,5 @@
 ---
-title: "中秋节义工活动热情不减"
+title: "中秋节义工活动"
 author: XiBei Zhao
 excerpt: "有些人是这样度过一个有意义中秋的，早上去中国城自己还没意识到是中秋节，注意力都放在外面的空气质量上了。先是和Capitain，肖炏两位年轻爸爸一起在中国城翻修用于展览的橱窗，肖炏的家人先是帮助清扫街道，然后去周末市场给大家买回京华楼的包子。下午来自Bethany的Jay，SW的许霓，LO的刘宇峰和SE的六月凡人陆续到中国城，整个下午分头给居住在市中心公寓的老人安装空调。"
 date: "2022-09-10"
@@ -9,20 +9,19 @@ date: "2022-09-10"
 
 我们的青少年舞队和花木兰鼓队则是利用下午时间做演出前的排练，明天在Beaverton新剧场会是社区演出活动，台上节目来自各个社区演出团体，活动对社区免费开放，从上午11点到晚上7点，咱们社区的节目安排在4点半开始的40分钟。这里是[全天节目安排](https://thereser.org/event/shine-the-light-a-community-celebration-2/)，欢迎大家前来观赏。
 
-
-![]({{ site.url }}/assets/images/WeChat Image_20220910170144.jpg)
-
-![]({{ site.url }}/assets/images/WeChat Image_20220910170302.jpg)
-
-![]({{ site.url }}/assets/images/WeChat Image_20220910170314.jpg)
-
-![]({{ site.url }}/assets/images/WeChat Image_20220910171738.jpg)
-
 ![]({{ site.url }}/assets/images/WeChat Image_20220910170309.jpg)
 
 ![]({{ site.url }}/assets/images/WeChat Image_20220910170601.jpg)
 
 ![]({{ site.url }}/assets/images/WeChat Image_20220910170620.jpg)
+
+![]({{ site.url }}/assets/images/WeChat Image_20220910170314.jpg)
+
+![]({{ site.url }}/assets/images/WeChat Image_20220910171738.jpg)
+
+![]({{ site.url }}/assets/images/WeChat Image_20220910170302.jpg)
+
+![]({{ site.url }}/assets/images/WeChat Image_20220910170144.jpg)
 
 ![]({{ site.url }}/assets/images/WeChat Image_20220910171725.jpg)
 
