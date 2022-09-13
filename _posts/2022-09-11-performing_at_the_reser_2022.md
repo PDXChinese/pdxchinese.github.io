@@ -23,11 +23,9 @@ Courtney Freed & Hamondy Hindi – Jazz Vocals & Guitar / 6:30 PM
 
 ![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091102.jpg)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091103.jpg)
-
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091104.JPG)
-
 ![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091105.JPG)
+
+![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091111.JPG)
 
 ![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091106.JPG)
 
@@ -39,13 +37,15 @@ Courtney Freed & Hamondy Hindi – Jazz Vocals & Guitar / 6:30 PM
 
 ![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091110.JPG)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091111.JPG)
+![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091104.JPG)
 
 ![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091112.JPG)
 
 ![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091113.JPG)
 
 ![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091114.JPG)
+
+![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091103.jpg)
 
 ![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091115.jpg)
 
@@ -68,3 +68,5 @@ Courtney Freed & Hamondy Hindi – Jazz Vocals & Guitar / 6:30 PM
 ![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091124.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WBV4_cZL_dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QvPY9qw8v6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
