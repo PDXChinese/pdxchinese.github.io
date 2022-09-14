@@ -95,7 +95,7 @@ Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and th
 
 专长领域,使用的治疗方法: 认知行为疗法(CBT)，家庭系统方法，以儿童为中心的游戏疗法, 创伤焦点认知行为疗法(TF-CBT)帮助来访者从他们的创伤/压力经历中痊愈, 亲子互动疗法(2-8岁)和PMTO(8-13岁)。
 
-Please register [here](https://us02web.zoom.us/meeting/register/tZUkcuuqqTIuHNYYqtDD6VEWr2Cr3Fp8p8HR).
+Please register here: [https://us02web.zoom.us/meeting/register/tZUkcuuqqTIuHNYYqtDD6VEWr2Cr3Fp8p8HR](https://us02web.zoom.us/meeting/register/tZUkcuuqqTIuHNYYqtDD6VEWr2Cr3Fp8p8HR)
 
 ### 03.26.2022 2:30pm
 
