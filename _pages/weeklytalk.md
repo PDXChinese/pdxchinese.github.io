@@ -85,7 +85,7 @@ Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and th
 
 ### 09.18.2022 Sunday 3:00pm
 
-儿童/青少年心理健康讲座
+儿童/青少年心理健康讲座(中文)
 
 {% include feature_row id="feature_row30"%}
 
