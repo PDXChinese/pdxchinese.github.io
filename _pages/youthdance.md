@@ -15,11 +15,11 @@ Sophia Alicata
 
 Performing Up to the Moon at Patricia Reser Center for the Arts
 
-<iframe width="1691" height="583" src="https://www.youtube.com/embed/W-nYv0gLKoc" title="Jade Dance Team Performing Up to the Moon at Patricia Reser Center for the Arts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="728" height="410" src="https://www.youtube.com/embed/W-nYv0gLKoc" title="Jade Dance Team Performing Up to the Moon at Patricia Reser Center for the Arts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Performing Cai Wei at Patricia Reser Center for the Arts
 
-<iframe width="1691" height="583" src="https://www.youtube.com/embed/QvPY9qw8v6E" title="Jade Dance Team Performing Cai Wei at Patricia Reser Center for the Arts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="728" height="410" src="https://www.youtube.com/embed/QvPY9qw8v6E" title="Jade Dance Team Performing Cai Wei at Patricia Reser Center for the Arts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Past Performances
 
