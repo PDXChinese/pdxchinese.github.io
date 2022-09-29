@@ -21,13 +21,13 @@ Xinyan Chen, Lakeridge High School
 
 ### Youth Empowerment Award
 
-## 2021年青少年年会
-
 Erika Leung, Lincoln High School  
 The WCS Xinbao Group at [Willamette Chinese School](https://wcscorvallis.webs.com/)  
 Victor Li, Jesuit High School  
 Vivian Lu, Camas High School  
-Ziyue Wang  
+Ziyue Wang, International School of Beaverton  
+
+## 2021年青少年年会
 
 ### Voice of Civic Engagement Award
 

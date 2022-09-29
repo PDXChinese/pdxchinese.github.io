@@ -61,7 +61,7 @@ By the end of each school year, one scholarship will be awarded to a student of 
 
 ### Recipients
 
-2022 Callie Chu<br/>
+2022 Callie Chu, Sunset High School<br/>
 2021 Yunyan Zhang, rising 7th grader in Spencer Butte Middle School<br/>
 2020 Erik Liang, rising senior student at Tigard High School<br/>
 2019 Nancy Bai, sophomore student at Sunset High School<br/>
