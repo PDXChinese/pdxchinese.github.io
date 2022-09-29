@@ -55,7 +55,7 @@ are donations an employer makes to match its employees' charitable contributions
 <p><img src="/assets/images/activities/victoria_scholarship.jpg"></p>
 Designed by Sophia, Victoria's twin sister.
 
-Victoria (Zifan) Ren was a student at Findley Elementary School, Beaverton Oregon. She passed away in 2017 after fighting a rare type of cancer for more than three years. She was remembered by her teachers, classmates, friends and neighbors as a very beautiful, talented, and brave girl. Victoria’s parents decided to set up Victoria Ren Scholarship to let her sweetest smile brighten other children in the community who need assistance emotionally and/or financially.
+Victoria (Zifan) Ren was a student at Findley Elementary School, Beaverton Oregon. She passed away in 2017 after fighting a rare type of cancer for more than three years. [She was remembered by her teachers, classmates, friends and neighbors as a very beautiful, talented, and brave girl](https://pdxchinese.org/victoria-ren/). Victoria’s parents decided to set up Victoria Ren Scholarship to let her sweetest smile brighten other children in the community who need assistance emotionally and/or financially.
 
 By the end of each school year, one scholarship will be awarded to a student of any age in the Chinese community. The recipient will receive $500. The selection will be made by the Advisory Committee and Victoria’s parents.
 
