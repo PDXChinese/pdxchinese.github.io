@@ -10,7 +10,24 @@ If you want to contribute, here is the [Google form](https://goo.gl/5HpKVU). Tha
 
 [西北兆：设立NPO 501c3的八步曲](https://drive.google.com/file/d/1F5pXE9Ml0s2EY1s2_lgn2_IfSTszVgOO/view?usp=sharing)
 
+## 2022年青少年年会
+
+### Voice of Civic Engagement Award
+
+Alexander Pi, Meadows Park Middle School  
+Danica Leung, Lincoln High School  
+Sophia Pi, Jesuit High School  
+Xinyan Chen, Lakeridge High School  
+
+### Youth Empowerment Award
+
 ## 2021年青少年年会
+
+Erika Leung, Lincoln High School  
+The WCS Xinbao Group at [Willamette Chinese School](https://wcscorvallis.webs.com/)  
+Victor Li, Jesuit High School  
+Vivian Lu, Camas High School  
+Ziyue Wang  
 
 ### Voice of Civic Engagement Award
 
