@@ -3,17 +3,19 @@ title: ""
 permalink: /voteworkgroup/
 ---
 
-# 介绍选举资讯，协助选民登记，鼓励投票
+# 介绍选举资讯，协助选民登记，鼓励华人投票
 
 ### 选民登记
 
-10/18/2022 选民登记截止日
+选民登记截止日：10/18/2022  
+选举日：11/8/2022  
+[投票站点查询](https://sos.oregon.gov/voting/Pages/drop-box-locator.aspx)  
 
 查看您目前的选民资格：[英文界面](https://secure.sos.state.or.us/orestar/vr/showVoterSearch.doP)，[中文界面](https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do)  
-[自行在州网站上登记选民资格，中文界面](https://sos.oregon.gov/voting/Pages/registration.aspx?lang=zh)  
+自行在州政府网站上选民登记：[中文界面](https://sos.oregon.gov/voting/Pages/registration.aspx?lang=zh)  
 公民资格考试免费辅导：[林肯高中的学生社团 Mission:Citizen](https://missioncitizen.org/)  
 
-10/15/2022 1-5点 在波特兰东南区老人公寓做现场登记，普通话，广东话，台山话。
+活动：在波特兰东南区老人公寓做现场登记，普通话，广东话，台山话。10/15/2022 周六 下午1-5点
 
 ![]({{ site.url }}/assets/images/activities/voter_registration.jpg)
 
