@@ -11,7 +11,7 @@ permalink: /voteworkgroup/
 选举日：11/8/2022  
 [投票站点查询](https://sos.oregon.gov/voting/Pages/drop-box-locator.aspx)  
 
-查看您目前的选民资格：[英文界面](https://secure.sos.state.or.us/orestar/vr/showVoterSearch.doP)，[中文界面](https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do)  
+查看您目前的选民资格：[英文，可以选择中文界面](https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do)  
 自行在州政府网站上选民登记：[中文界面](https://sos.oregon.gov/voting/Pages/registration.aspx?lang=zh)  
 公民资格考试免费辅导，外加入籍费用补贴：[秋季课程]((/assets/images/activities/citizenship_class.pdf)    
 
