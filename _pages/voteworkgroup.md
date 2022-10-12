@@ -13,7 +13,7 @@ permalink: /voteworkgroup/
 
 查看您目前的选民资格：[英文，可以选择中文界面](https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do)  
 自行在州政府网站上选民登记：[中文界面](https://sos.oregon.gov/voting/Pages/registration.aspx?lang=zh)  
-公民资格考试免费辅导，外加入籍费用补贴：[秋季课程]((/assets/images/activities/citizenship_class.pdf)    
+公民资格考试免费辅导，外加入籍费用补贴：[秋季课程](/assets/images/activities/citizenship_class.pdf)    
 
 活动：在波特兰东南区老人公寓做现场登记，普通话，广东话，台山话。10/15/2022 周六 下午1-5点
 
