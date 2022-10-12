@@ -28,14 +28,14 @@ extra:
         url: /auction/
       - title: "Mental Health"
         url: /mentalhealth/
+      - title: "Our Votes Matter"
+        url: /voteworkgroup/
       - title: "Volunteering"
         url: /volunteering/
       - title: "Weekly Talk"
         url: /weeklytalk/
       - title: "Winter Drive"
         url: /winterdrive/
-      - title: "Our Votes Matter"
-        url: /voteworkgroup/
       - title: "---"
         url:
       - title: "Peer Connect"
