@@ -19,24 +19,16 @@ permalink: /voteworkgroup/
 
 ![]({{ site.url }}/assets/images/activities/voter_registration.jpg)
 
-### 选民手册中文版
+### 选民手册
 
-等待官方版本出版
+中文版，英文版本 (待出版)
 
-### KATU主持州长第二次辩论
+### 关键选举资讯介绍
 
-英文录像：[https://youtu.be/PASxD34rc2g](https://youtu.be/PASxD34rc2g)
-
-中文版文本：10/16/2022前整理完毕
-
-### City Club和KGW主持波特兰市议员辩论
-
-英文录像：[https://youtu.be/JsGnGTpSl3w](https://youtu.be/JsGnGTpSl3w)
-
-中文版文本：10/23/2022前整理完毕
+州长候选人第二次辩论：[英文录像](https://youtu.be/PASxD34rc2g)，简体中文版文本，繁体中文版文本 (10/16/2022前整理完毕)  
+波特兰市议员候选人辩论：[英文录像](https://youtu.be/JsGnGTpSl3w)，简体中文版文本，繁体中文版文本 (10/23/2022前整理完毕)  
 
 ### 选举资料
 
-[最新州长竞选民调](https://projects.fivethirtyeight.com/polls/governor/2022/oregon/)
-
-[https://ballotpedia.org/](https://ballotpedia.org/)
+[最新俄勒冈州长竞选民调](https://projects.fivethirtyeight.com/polls/governor/2022/oregon/)  
+[选票百科(英文界面)](https://ballotpedia.org/)  
