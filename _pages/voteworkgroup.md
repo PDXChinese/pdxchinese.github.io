@@ -15,13 +15,13 @@ permalink: /voteworkgroup/
 自行在州政府网站上选民登记：[中文界面](https://sos.oregon.gov/voting/Pages/registration.aspx?lang=zh)  
 公民资格考试免费辅导，外加入籍费用补贴：[秋季课程](/assets/images/activities/citizenship_class.pdf)    
 
-活动：在波特兰东南区老人公寓做现场登记，普通话，广东话，台山话。10/15/2022 周六 下午1-5点
+活动：在波特兰东南区老人公寓做现场选民登记，普通话，广东话，台山话。10/15/2022 周六 下午1-5点
 
 ![]({{ site.url }}/assets/images/activities/voter_registration.jpg)
 
 ### 选民手册
 
-中文版，英文版本 (待出版)
+[中文版](https://sos.oregon.gov/elections/Pages/Voters-Pamphlet-Chinese.aspx)，[英文版本](https://oregonvotes.gov/voters-guide/english/votersguide.html)
 
 ### 关键选举资讯介绍
 
