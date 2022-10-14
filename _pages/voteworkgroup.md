@@ -19,7 +19,7 @@ permalink: /voteworkgroup/
 
 ![]({{ site.url }}/assets/images/activities/voter_registration.jpg)
 
-### 选民手册
+### 州政府选民手册
 
 [中文版](https://sos.oregon.gov/elections/Pages/Voters-Pamphlet-Chinese.aspx)，[英文版本](https://oregonvotes.gov/voters-guide/english/votersguide.html)
 
