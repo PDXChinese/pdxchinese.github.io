@@ -25,9 +25,9 @@ permalink: /voteworkgroup/
 
 几个重要提案中文版本
 
-提案111：修订宪法：州必须确保公民可以获得负担得起的医疗服务，并与资助学校和其他基本服务的要求实现平衡 [概述](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://sos.oregon.gov/elections/Documents/lang/ZH-measure-title-111-STA-G22.pdf) [进一步说明](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://sos.oregon.gov/elections/Documents/lang/ZH-measure-explanatory-111-STA-G22.pdf)
+**提案111：**修订宪法：州必须确保公民可以获得负担得起的医疗服务，并与资助学校和其他基本服务的要求实现平衡 [概述](https://sos.oregon.gov/elections/Documents/lang/ZH-measure-title-111-STA-G22.pdf)，[进一步说明](https://sos.oregon.gov/elections/Documents/lang/ZH-measure-explanatory-111-STA-G22.pdf)
 
-提案114: 要求在获得许可证的条件下才能获取枪支 [概述](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://sos.oregon.gov/elections/Documents/lang/ZH-measure-title-114-STA-G22.pdf) [进一步说明](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://sos.oregon.gov/elections/Documents/lang/ZH-measure-explanatory-114-STA-G22.pdf)
+**提案114: **要求在获得许可证的条件下才能获取枪支 [概述](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://sos.oregon.gov/elections/Documents/lang/ZH-measure-title-114-STA-G22.pdf)，[进一步说明](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://sos.oregon.gov/elections/Documents/lang/ZH-measure-explanatory-114-STA-G22.pdf)
 
 ### 关键选举资讯介绍
 
