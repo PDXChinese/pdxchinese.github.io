@@ -5,7 +5,7 @@ permalink: /voteworkgroup/
 
 # 介绍选举资讯，协助选民登记，鼓励华人投票
 
-### 选民登记
+## 选民登记
 
 选民登记截止日：10/18/2022  
 最后一分钟选民登记协助热线：503-334-1010  
@@ -17,16 +17,16 @@ permalink: /voteworkgroup/
 自行在州政府网站上选民登记：[中文界面](https://sos.oregon.gov/voting/Pages/registration.aspx?lang=zh)  
 公民资格考试免费辅导，外加入籍费用补贴：[秋季课程](/assets/images/activities/citizenship_class.pdf)    
 
-### 2022投票街头设点宣传活动
+## 2022投票街头设点宣传活动
 
 日期：2022年11月5-6日  
 目标：在全州所有华人比较集中的街区设置宣传点  
 活动点位置：[申请表](https://docs.google.com/forms/d/e/1FAIpQLSdDkSEsNT7spiNmR2SpgkD8B5XCd_BwHloPaUdURl6SgGErzA/viewform?usp=sf_link)  
 活动前必须参加的培训：2022/10/30 3pm，[Zoom会议链接](https://us02web.zoom.us/j/88650338177?pwd=YUV3QUQvd2lhYm8yWENBUm9pV2lOUT09)  
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=10orpfJ9jJZFOkn7djP3lCOnU_XnweCM&ehbc=2E312F" width="800" height="600"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=10orpfJ9jJZFOkn7djP3lCOnU_XnweCM&ehbc=2E312F" width="600" height="512"></iframe>
 
-### 州政府选民手册
+## 州政府选民手册
 
 [中文版](https://sos.oregon.gov/elections/Pages/Voters-Pamphlet-Chinese.aspx)，[英文版本](https://oregonvotes.gov/voters-guide/english/votersguide.html)
 
@@ -36,15 +36,15 @@ permalink: /voteworkgroup/
 
 **提案114：** 要求在获得许可证的条件下才能获取枪支 [概述](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://sos.oregon.gov/elections/Documents/lang/ZH-measure-title-114-STA-G22.pdf)，[进一步说明](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://sos.oregon.gov/elections/Documents/lang/ZH-measure-explanatory-114-STA-G22.pdf)
 
-### 关键选举资讯介绍 （由社区义工团队翻译整理）
-
+## 关键选举资讯介绍 （由社区义工团队翻译整理）
+<br>
 州长候选人第二次辩论：[英文录像](https://youtu.be/PASxD34rc2g)，[简体中文版文本](/assets/pdf/governor_2nd_debate_2022.pdf)，繁体中文版文本  
 
 <iframe src="{{ site.url }}/assets/pdf/governor_2nd_debate_2022.pdf" style="width: 100%; height: 600px"></iframe>
-
+<br>
 波特兰市议员候选人辩论：[英文录像](https://youtu.be/JsGnGTpSl3w)，简体中文版文本，繁体中文版文本  
 
-### 更多的选举资料
+## 更多的选举资料
 
 [最新俄勒冈州长竞选民调](https://projects.fivethirtyeight.com/polls/governor/2022/oregon/)  
 [选票百科(英文界面)](https://ballotpedia.org/)  
