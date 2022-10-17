@@ -8,16 +8,24 @@ permalink: /voteworkgroup/
 ### 选民登记
 
 选民登记截止日：10/18/2022  
-选举日：11/8/2022  
+最后一分钟选民登记协助热线：503-334-1010  
+
+选举日：11/8/2022，邮寄须有当天的邮戳。  
 [投票站点查询](https://sos.oregon.gov/voting/Pages/drop-box-locator.aspx)  
 
 查看您目前的选民资格：[英文，可以选择中文界面](https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do)  
 自行在州政府网站上选民登记：[中文界面](https://sos.oregon.gov/voting/Pages/registration.aspx?lang=zh)  
 公民资格考试免费辅导，外加入籍费用补贴：[秋季课程](/assets/images/activities/citizenship_class.pdf)    
 
-活动：在波特兰东南区老人公寓做现场选民登记，普通话，广东话，台山话。10/15/2022 周六 下午1-5点
+### 2022街头投票总动员活动
 
-![]({{ site.url }}/assets/images/activities/voter_registration.jpg)
+日期：2022年11月5-6日  
+目标：在全州所有华人比较集中的街区设置宣传摊位  
+摊位位置：[申报表](https://docs.google.com/forms/d/e/1FAIpQLSdDkSEsNT7spiNmR2SpgkD8B5XCd_BwHloPaUdURl6SgGErzA/viewform?usp=sf_link)  
+活动前培训：2022/10/30 3pm，[Zoom会议链接](https://us02web.zoom.us/j/88650338177?pwd=YUV3QUQvd2lhYm8yWENBUm9pV2lOUT09)  
+
+![]({{ site.url }}/assets/images/activities/voter_registration.jpg)  
+义工在SE的老人公寓做现场选民登记  
 
 ### 州政府选民手册
 
