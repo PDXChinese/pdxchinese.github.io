@@ -44,7 +44,7 @@ permalink: /voteworkgroup/
 
 波特兰市议员候选人辩论：[英文录像](https://youtu.be/JsGnGTpSl3w)，简体中文版文本，繁体中文版文本  
 
-### 选举资料
+### 更多的选举资料
 
 [最新俄勒冈州长竞选民调](https://projects.fivethirtyeight.com/polls/governor/2022/oregon/)  
 [选票百科(英文界面)](https://ballotpedia.org/)  
