@@ -20,9 +20,11 @@ permalink: /voteworkgroup/
 ### 2022街头投票总动员活动
 
 日期：2022年11月5-6日  
-目标：在全州所有华人比较集中的街区设置宣传摊位  
-摊位位置：[申报表](https://docs.google.com/forms/d/e/1FAIpQLSdDkSEsNT7spiNmR2SpgkD8B5XCd_BwHloPaUdURl6SgGErzA/viewform?usp=sf_link)  
+目标：在全州所有华人比较集中的街区设置宣传点  
+活动点位置：[申报表](https://docs.google.com/forms/d/e/1FAIpQLSdDkSEsNT7spiNmR2SpgkD8B5XCd_BwHloPaUdURl6SgGErzA/viewform?usp=sf_link)  
 活动前培训：2022/10/30 3pm，[Zoom会议链接](https://us02web.zoom.us/j/88650338177?pwd=YUV3QUQvd2lhYm8yWENBUm9pV2lOUT09)  
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=10orpfJ9jJZFOkn7djP3lCOnU_XnweCM&ehbc=2E312F" width="640" height="480"></iframe>
 
 ![]({{ site.url }}/assets/images/activities/voter_registration.jpg)  
 义工在SE的老人公寓做现场选民登记  
