@@ -17,17 +17,14 @@ permalink: /voteworkgroup/
 自行在州政府网站上选民登记：[中文界面](https://sos.oregon.gov/voting/Pages/registration.aspx?lang=zh)  
 公民资格考试免费辅导，外加入籍费用补贴：[秋季课程](/assets/images/activities/citizenship_class.pdf)    
 
-### 2022街头投票总动员活动
+### 2022投票街头设点宣传活动
 
 日期：2022年11月5-6日  
 目标：在全州所有华人比较集中的街区设置宣传点  
 活动点位置：[申报表](https://docs.google.com/forms/d/e/1FAIpQLSdDkSEsNT7spiNmR2SpgkD8B5XCd_BwHloPaUdURl6SgGErzA/viewform?usp=sf_link)  
 活动前培训：2022/10/30 3pm，[Zoom会议链接](https://us02web.zoom.us/j/88650338177?pwd=YUV3QUQvd2lhYm8yWENBUm9pV2lOUT09)  
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=10orpfJ9jJZFOkn7djP3lCOnU_XnweCM&ehbc=2E312F" width="640" height="480"></iframe>
-
-![]({{ site.url }}/assets/images/activities/voter_registration.jpg)  
-义工在SE的老人公寓做现场选民登记  
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=10orpfJ9jJZFOkn7djP3lCOnU_XnweCM&ehbc=2E312F" width="800" height="600"></iframe>
 
 ### 州政府选民手册
 
@@ -41,7 +38,7 @@ permalink: /voteworkgroup/
 
 ### 关键选举资讯介绍
 
-州长候选人第二次辩论：[英文录像](https://youtu.be/PASxD34rc2g)，简体中文版文本，繁体中文版文本  
+州长候选人第二次辩论：[英文录像](https://youtu.be/PASxD34rc2g)，[简体中文版文本](/assets/pdf/governor_2nd_debate_2022.pdf)，繁体中文版文本  
 
 <iframe src="{{ site.url }}/assets/pdf/governor_2nd_debate_2022.pdf" style="width: 100%; height: 600px"></iframe>
 
