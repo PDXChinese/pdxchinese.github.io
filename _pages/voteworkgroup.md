@@ -36,7 +36,7 @@ permalink: /voteworkgroup/
 
 **提案114：** 要求在获得许可证的条件下才能获取枪支 [概述](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://sos.oregon.gov/elections/Documents/lang/ZH-measure-title-114-STA-G22.pdf)，[进一步说明](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://sos.oregon.gov/elections/Documents/lang/ZH-measure-explanatory-114-STA-G22.pdf)
 
-### 关键选举资讯介绍
+### 关键选举资讯介绍 （由社区义工团队翻译整理）
 
 州长候选人第二次辩论：[英文录像](https://youtu.be/PASxD34rc2g)，[简体中文版文本](/assets/pdf/governor_2nd_debate_2022.pdf)，繁体中文版文本  
 
