@@ -10,7 +10,7 @@ permalink: /voteworkgroup/
 选民登记截止日：10/18/2022  
 最后一分钟选民登记协助热线：503-334-1010  
 
-选举日：11/8/2022，邮寄须有当天的邮戳。  
+选举日：11/8/2022 晚8点，如果邮寄须有当天的邮戳。  
 [投票站点查询](https://sos.oregon.gov/voting/Pages/drop-box-locator.aspx)  
 
 查看您目前的选民资格：[英文，可以选择中文界面](https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do)  
@@ -24,7 +24,7 @@ permalink: /voteworkgroup/
 活动点位置：[申请表](https://docs.google.com/forms/d/e/1FAIpQLSdDkSEsNT7spiNmR2SpgkD8B5XCd_BwHloPaUdURl6SgGErzA/viewform?usp=sf_link)  
 活动前必须参加的培训：2022/10/30 3pm，[Zoom会议链接](https://us02web.zoom.us/j/88650338177?pwd=YUV3QUQvd2lhYm8yWENBUm9pV2lOUT09)  
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=10orpfJ9jJZFOkn7djP3lCOnU_XnweCM&ehbc=2E312F" width="600" height="512"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=10orpfJ9jJZFOkn7djP3lCOnU_XnweCM&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## 州政府选民手册
 
