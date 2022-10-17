@@ -42,6 +42,9 @@ permalink: /voteworkgroup/
 ### 关键选举资讯介绍
 
 州长候选人第二次辩论：[英文录像](https://youtu.be/PASxD34rc2g)，简体中文版文本，繁体中文版文本  
+
+<iframe src="{{ site.url }}/assets/pdf/governor_2nd_debate_2022.pdf" style="width: 100%; height: 600px"></iframe>
+
 波特兰市议员候选人辩论：[英文录像](https://youtu.be/JsGnGTpSl3w)，简体中文版文本，繁体中文版文本  
 
 ### 选举资料
