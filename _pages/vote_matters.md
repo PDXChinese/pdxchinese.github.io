@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /voteworkgroup/
+permalink: /vote_matters/
 ---
 
 # 介绍选举资讯，协助选民登记，鼓励华人投票
