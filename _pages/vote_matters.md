@@ -44,6 +44,11 @@ permalink: /vote_matters/
 <br>
 波特兰市议员候选人辩论：[英文录像](https://youtu.be/JsGnGTpSl3w)，中文版文本（尽快上线）
 
+<br>
+
+国会众议员第五选区民主党和共和党候选人电视辩论：[英文录像](https://youtu.be/Ye9wcdhqgps)，中文版文本（尽快上线）
+
+**声明：** 翻译工作由一组社区义工完成，他们已经尽自己最大的努力保证中文译文与英文原文完全一致，如有出入甚至意思理解错误，完全是无意的，愿意即刻改正过来，和KATU电视台和各州长候选人无关。谢谢大家的理解和支持。
 ## 更多的选举资料
 
 [最新俄勒冈州长竞选民调](https://projects.fivethirtyeight.com/polls/governor/2022/oregon/)  
