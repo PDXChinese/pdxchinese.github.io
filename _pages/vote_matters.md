@@ -20,13 +20,13 @@ permalink: /vote_matters/
 ## 2022投票街头设点宣传活动
 
 日期：2022年11月5-6日  
-目标：在全州所有华人比较集中的街区设置宣传点  
+目标：在全州华人比较集中的街区设置宣传点，包括中餐馆。  
 活动点位置：[申报表](https://docs.google.com/forms/d/e/1FAIpQLSdDkSEsNT7spiNmR2SpgkD8B5XCd_BwHloPaUdURl6SgGErzA/viewform?usp=sf_link)  
 活动前必须参加的培训：2022/10/30 周日 下午3点，[Zoom会议链接](https://us02web.zoom.us/j/88650338177?pwd=YUV3QUQvd2lhYm8yWENBUm9pV2lOUT09)  
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=10orpfJ9jJZFOkn7djP3lCOnU_XnweCM&ehbc=2E312F" width="740" height="555"></iframe>
 
-## 州政府选民手册
+## 州政府官方选民手册
 
 [中文版](https://sos.oregon.gov/elections/Pages/Voters-Pamphlet-Chinese.aspx)，[英文版本](https://oregonvotes.gov/voters-guide/english/votersguide.html)
 
@@ -38,7 +38,7 @@ permalink: /vote_matters/
 
 ## 关键选举资讯介绍 （由社区义工团队翻译整理）
 <br>
-州长候选人第二次辩论：[英文录像](https://youtu.be/PASxD34rc2g)，[中文版文本](/assets/pdf/governor_2nd_debate_2022.pdf)  
+州长候选人第二次辩论：[英文录像](https://youtu.be/PASxD34rc2g)，[简体中文文本](/assets/pdf/governor_2nd_debate_2022.pdf)，[繁體中文文本](/assets/pdf/governor_2nd_debate_traditional_chinese_2022.pdf)  
 
 <iframe src="{{ site.url }}/assets/pdf/governor_2nd_debate_2022.pdf" style="width: 100%; height: 600px"></iframe>
 <br>
@@ -46,7 +46,7 @@ permalink: /vote_matters/
 
 <br>
 
-国会众议员第五选区民主党和共和党候选人电视辩论：[英文录像](https://youtu.be/Ye9wcdhqgps)，中文版文本（尽快上线）
+国会众议员第五选区两党候选人电视辩论：[英文录像](https://youtu.be/Ye9wcdhqgps)，中文版文本（尽快上线）
 
 **声明：** 翻译工作由一组社区义工完成，他们已经尽自己最大的努力保证中文译文与英文原文完全一致，如有出入甚至意思理解错误，完全是无意的，愿意即刻改正过来，和KATU电视台和各州长候选人无关。谢谢大家的理解和支持。
 ## 更多的选举资料
