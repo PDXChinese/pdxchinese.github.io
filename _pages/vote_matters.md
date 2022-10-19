@@ -38,15 +38,27 @@ permalink: /vote_matters/
 
 ## 关键选举资讯介绍 （由社区义工团队翻译整理）
 <br>
-州长候选人第二次辩论：[英文录像](https://youtu.be/PASxD34rc2g)，[简体中文文本](/assets/pdf/governor_2nd_debate_2022.pdf)，[繁體中文文本](/assets/pdf/governor_2nd_debate_traditional_chinese_2022.pdf)  
+### 州长候选人第二次辩论：
+
+> [英文录像](https://youtu.be/PASxD34rc2g)  
+> [简体中文文本](/assets/pdf/governor_2nd_debate_2022.pdf)  
+> [繁體中文文本](/assets/pdf/governor_2nd_debate_traditional_chinese_2022.pdf)  
 
 <iframe src="{{ site.url }}/assets/pdf/governor_2nd_debate_2022.pdf" style="width: 100%; height: 600px"></iframe>
 <br>
-波特兰市议员候选人辩论：[英文录像](https://youtu.be/JsGnGTpSl3w)，中文版文本（尽快上线）
+### 波特兰市议员候选人辩论：
+
+> [英文录像](https://youtu.be/JsGnGTpSl3w)  
+> 简体中文文本  
+> 繁体中文文本  
 
 <br>
 
-国会众议员第五选区两党候选人电视辩论：[英文录像](https://youtu.be/Ye9wcdhqgps)，中文版文本（尽快上线）
+### 国会众议员第五选区两党候选人电视辩论：
+
+> [英文录像](https://youtu.be/Ye9wcdhqgps)  
+> 简体中文文本  
+> 繁体中文文本  
 
 **声明：** 翻译工作由一组社区义工完成，他们已经尽自己最大的努力保证中文译文与英文原文完全一致，如有出入甚至意思理解错误，完全是无意的，愿意即刻改正过来，和KATU电视台和各州长候选人无关。谢谢大家的理解和支持。
 ## 更多的选举资料
