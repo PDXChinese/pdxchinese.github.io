@@ -52,8 +52,6 @@ permalink: /vote_matters/
 > 简体中文文本  
 > 繁体中文文本  
 
-<br>
-
 ### 国会众议员第五选区两党候选人电视辩论：
 
 > [英文录像](https://youtu.be/Ye9wcdhqgps)  
