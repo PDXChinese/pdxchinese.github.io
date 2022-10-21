@@ -39,7 +39,7 @@ permalink: /vote_matters/
 **波特兰市提案 26-228：** 修订宪问题章：改变波特兰的政府结构和选举市官员的流程 [概述和提案说明](https://sos.oregon.gov/elections/Documents/lang/ZH-measure-26-228-WSH-G22.pdf)
 
 ## 关键选举资讯介绍 （由社区义工团队翻译整理）
-<br>
+
 ### 州长候选人第二次辩论：
 
 > [英文录像](https://youtu.be/PASxD34rc2g)  
@@ -51,8 +51,11 @@ permalink: /vote_matters/
 ### 波特兰市议员候选人辩论：
 
 > [英文录像](https://youtu.be/JsGnGTpSl3w)  
-> 简体中文文本  
-> 繁体中文文本  
+> [简体中文文本](/assets/pdf/portland_city_commissioner_debate_2020.pdf)  
+> [繁体中文文本](/assets/pdf/portland_city_commissioner_debate_tc_2020.pdf)  
+
+<iframe src="{{ site.url }}/assets/pdf/portland_city_commissioner_debate_2020.pdf" style="width: 100%; height: 600px"></iframe>
+<br>
 
 ### 国会众议员第五选区两党候选人电视辩论：
 
