@@ -22,8 +22,6 @@ main:
 extra:
   - title:
     children:
-      - title: "---"
-        url:
       - title: "Charity Auction"
         url: /auction/
       - title: "Go Vote"
