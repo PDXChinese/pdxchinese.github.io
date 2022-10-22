@@ -26,6 +26,14 @@ permalink: /vote_matters/
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=10orpfJ9jJZFOkn7djP3lCOnU_XnweCM&ehbc=2E312F" width="740" height="555"></iframe>
 
+| 餐馆 | 地址 | 参与活动 |
+| --- | --- | --- |
+| [宝华海鲜餐馆](https://powellsseafoodtogo.com/) | 6633 SE Powell Blvd, Portland | 10% 折扣，宣传 |
+| [成都名小吃](https://www.wheatbayportland.com/) | 1618 NE 6th Ave，Portland | 10% 折扣，宣传 |
+| [成都名小吃](https://www.wheatbayhappyvalley.com/) | Happy Valley Town Center Dr, Happy Valley | 10% 折扣，宣传 |
+| [成都名小吃](https://www.wheatbay.com/) | 830 E 13th Ave, Eugene, 97401 | 10% 折扣，宣传 |
+| [The Show Restaurant](https://www.theshowfood.com/) | 1915 NW 9th St, Corvallis | 宣传 |
+
 ## 州政府官方选民手册
 
 [中文版](https://sos.oregon.gov/elections/Pages/Voters-Pamphlet-Chinese.aspx)，[英文版本](https://oregonvotes.gov/voters-guide/english/votersguide.html)
