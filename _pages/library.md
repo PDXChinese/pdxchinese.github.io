@@ -3,7 +3,7 @@ title: "社区网上图书馆"
 permalink: /library/
 ---
 
-## 图书目录
+## 图书目录 (建设中)
 
 ## [借阅，续借和归还登记表](https://docs.google.com/forms/d/e/1FAIpQLSdxa5wLGNIdTZCN7kYeeSJRgSU1Ro0YQoH7aLMx08ed-ZD01w/viewform?usp=sf_link)
 

@@ -68,6 +68,8 @@ extra:
         url:
       - title: "Community Art Show"
         url: /artexhibit/
+      - title: "Community Library"
+        url: /library/
       - title: "Chinatown"
         url: /chinatown/
       - title: "Chinese Festival"
@@ -76,8 +78,6 @@ extra:
         url: /lunarnewyear/
       - title: "Lantern Festival"
         url: /lanternfestival/
-      - title: "Library"
-        url: /library/
       - title: "Naming Project"
         url: /namingproj/
       - title: "---"
