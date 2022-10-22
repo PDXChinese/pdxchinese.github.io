@@ -74,10 +74,10 @@ extra:
         url: /chinesefestival/
       - title: "Chinese New Year"
         url: /lunarnewyear/
-      - title: "Library"
-        url: /library/
       - title: "Lantern Festival"
         url: /lanternfestival/
+      - title: "Library"
+        url: /library/
       - title: "Naming Project"
         url: /namingproj/
       - title: "---"
