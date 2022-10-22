@@ -5,7 +5,7 @@ excerpt: "赶在周末前，志愿者们在花费了近百小时的翻译工作�
 date: "2022-10-21"
 ---
 
-## 中文选举活动专页：[https://pdxchinese.org/go_vote_campaign/](https://pdxchinese.org/go_vote_campaign/)
+## 中文选举活动专页：[https://pdxchinese.org/vote_matters/](https://pdxchinese.org/vote_matters/)
 
 赶在周末前，志愿者们在花费了近百小时的翻译工作后，波特兰市议员的电视辩论中文文本(简繁体)终于完成。分享给社区，希望能为大家提供比较完整的信息，帮助大家更深刻了解候选人和他们在许多重大民生问题上所持的态度。
 

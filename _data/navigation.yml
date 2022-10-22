@@ -74,6 +74,8 @@ extra:
         url: /chinesefestival/
       - title: "Chinese New Year"
         url: /lunarnewyear/
+      - title: "Library"
+        url: /library/
       - title: "Lantern Festival"
         url: /lanternfestival/
       - title: "Naming Project"
