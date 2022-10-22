@@ -26,10 +26,10 @@ extra:
         url:
       - title: "Charity Auction"
         url: /auction/
+      - title: "Go Vote"
+        url: /vote_matters/
       - title: "Mental Health"
         url: /mentalhealth/
-      - title: "Our Votes Matter"
-        url: /vote_matters/
       - title: "Volunteering"
         url: /volunteering/
       - title: "Weekly Talk"
