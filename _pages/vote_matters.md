@@ -5,14 +5,12 @@ permalink: /vote_matters/
 
 # 介绍选举资讯，协助选民登记，鼓励华人投票
 
-## 选民登记
-
 ## 2022投票街头设点宣传活动
 
 日期：2022年11月5-6日  
 目标：在全州华人比较集中的街区设置宣传点，包括中餐馆。  
-### 活动点位置：[报备表格（主要方便协调，减少重复）](https://docs.google.com/forms/d/e/1FAIpQLSdDkSEsNT7spiNmR2SpgkD8B5XCd_BwHloPaUdURl6SgGErzA/viewform?usp=sf_link)  
-活动前必须参加的培训：2022/10/30 周日 下午3点，[Zoom会议链接](https://us02web.zoom.us/j/88650338177?pwd=YUV3QUQvd2lhYm8yWENBUm9pV2lOUT09)  
+### 活动点位置：[报备表格（方便协调，减少重复）](https://docs.google.com/forms/d/e/1FAIpQLSdDkSEsNT7spiNmR2SpgkD8B5XCd_BwHloPaUdURl6SgGErzA/viewform?usp=sf_link)  
+活动前鼓励参加的培训：2022/10/30 周日 下午3点，[Zoom会议链接](https://us02web.zoom.us/j/88650338177?pwd=YUV3QUQvd2lhYm8yWENBUm9pV2lOUT09)  
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=10orpfJ9jJZFOkn7djP3lCOnU_XnweCM&ehbc=2E312F" width="740" height="555"></iframe>
 
@@ -70,6 +68,8 @@ permalink: /vote_matters/
 
 [最新俄勒冈州长竞选民调](https://projects.fivethirtyeight.com/polls/governor/2022/oregon/)  
 [选票百科(英文界面)](https://ballotpedia.org/)  
+
+## 选民登记
 
 选民登记截止日：10/18/2022  
 最后一分钟选民登记协助热线：503-334-1010  
