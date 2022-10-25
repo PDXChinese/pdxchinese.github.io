@@ -69,7 +69,7 @@ permalink: /vote_matters/
 
 > [英文录像](https://youtu.be/Ye9wcdhqgps)  
 > [简体中文文本](/assets/pdf/district_5_debate_2022.pdf)  
-> 繁体中文文本  
+> [繁体中文文本](/assets/pdf/district_5_debate_tc_2022.pdf)  
 
 <iframe src="{{ site.url }}/assets/pdf/district_5_debate_2022.pdf" style="width: 100%; height: 600px"></iframe>
 <br>
