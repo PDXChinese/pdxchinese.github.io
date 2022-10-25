@@ -59,17 +59,20 @@ permalink: /vote_matters/
 ### 波特兰市议员候选人电视辩论：
 
 > [英文录像](https://youtu.be/JsGnGTpSl3w)  
-> [简体中文文本](/assets/pdf/portland_city_commissioner_debate_2020.pdf)  
-> [繁体中文文本](/assets/pdf/portland_city_commissioner_debate_tc_2020.pdf)  
+> [简体中文文本](/assets/pdf/portland_city_commissioner_debate_2022.pdf)  
+> [繁体中文文本](/assets/pdf/portland_city_commissioner_debate_tc_2022.pdf)  
 
-<iframe src="{{ site.url }}/assets/pdf/portland_city_commissioner_debate_2020.pdf" style="width: 100%; height: 600px"></iframe>
+<iframe src="{{ site.url }}/assets/pdf/portland_city_commissioner_debate_2022.pdf" style="width: 100%; height: 600px"></iframe>
 <br>
 
 ### 国会众议员第五选区两党候选人电视辩论：
 
 > [英文录像](https://youtu.be/Ye9wcdhqgps)  
-> 简体中文文本  
+> [简体中文文本](/assets/pdf/district_5_debate_2022.pdf)  
 > 繁体中文文本  
+
+<iframe src="{{ site.url }}/assets/pdf/district_5_debate_2022.pdf" style="width: 100%; height: 600px"></iframe>
+<br>
 
 **声明：** 翻译工作由一组社区义工完成，他们已经尽自己最大的努力保证中文译文与英文原文完全一致，如有出入甚至意思理解错误，完全是无意的，愿意即刻改正过来，和U电视台和各候选人无关。谢谢大家的理解和支持。
 
