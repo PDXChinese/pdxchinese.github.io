@@ -7,16 +7,6 @@ permalink: /vote_matters/
 
 ## 选民登记
 
-选民登记截止日：10/18/2022  
-最后一分钟选民登记协助热线：503-334-1010  
-
-选举日：11/8/2022 晚8点，如果邮寄须有当天的邮戳。  
-投票站点[查询](https://sos.oregon.gov/voting/Pages/drop-box-locator.aspx)  
-
-查看您目前的选民资格：[英文，可以选择中文界面](https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do)  
-自行在州政府网站上选民登记：[中文界面](https://sos.oregon.gov/voting/Pages/registration.aspx?lang=zh)  
-公民资格考试免费辅导，外加入籍费用补贴：[秋季课程](/assets/images/activities/citizenship_class.pdf)    
-
 ## 2022投票街头设点宣传活动
 
 日期：2022年11月5-6日  
@@ -80,3 +70,13 @@ permalink: /vote_matters/
 
 [最新俄勒冈州长竞选民调](https://projects.fivethirtyeight.com/polls/governor/2022/oregon/)  
 [选票百科(英文界面)](https://ballotpedia.org/)  
+
+选民登记截止日：10/18/2022  
+最后一分钟选民登记协助热线：503-334-1010  
+
+选举日：11/8/2022 晚8点，如果邮寄须有当天的邮戳。  
+投票站点[查询](https://sos.oregon.gov/voting/Pages/drop-box-locator.aspx)  
+
+查看您目前的选民资格：[英文，可以选择中文界面](https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do)  
+自行在州政府网站上选民登记：[中文界面](https://sos.oregon.gov/voting/Pages/registration.aspx?lang=zh)  
+公民资格考试免费辅导，外加入籍费用补贴：[秋季课程](/assets/images/activities/citizenship_class.pdf)    
