@@ -98,10 +98,6 @@ Address: 239 NW Everett St, Portland, OR 97209
 
 [More Volunteering Opportunities for Teens and Help for Getting Ready](https://multcolib.org/teens/job-help-teens)
 
-[Serve in Your Community](https://www.nationalservice.gov/serve)
-
-[List of local programs compiled by OES](https://www.oes.edu/student-life/service-learning/upper-school-service-learning)
-
 [HandsOn Greater Portland](https://www.handsonportland.org/)
 
 [The Complete List of Community Service Scholarships](https://blog.prepscholar.com/community-service-scholarships-complete-list)
