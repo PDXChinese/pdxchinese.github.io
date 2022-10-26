@@ -5,7 +5,7 @@ permalink: /vote_matters/
 
 # 介绍选举资讯，协助选民登记，鼓励华人投票
 
-![]({{ site.url }}/assets/images/activities/vote2020.jpg)
+![]({{ site.url }}/assets/images/activities/vote2022.jpg)
 
 ## 2022投票街头设点宣传活动
 
