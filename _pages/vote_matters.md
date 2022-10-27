@@ -11,6 +11,7 @@ permalink: /vote_matters/
 
 日期：2022年11月5-6日  
 目标：在全州华人比较集中的街区设置宣传点，包括中餐馆。  
+宣传材料：[flyer 1](/assets/pdf/vote_flyer_occ.pdf)，[poster 1](/assets/pdf/vote_flyer_peer_connect.pdf) （欢迎自行打印，OCC可以凭收据报销）
 ### 活动点位置和参与中餐馆：[报备表格（方便协调，减少重复）](https://docs.google.com/forms/d/e/1FAIpQLSdDkSEsNT7spiNmR2SpgkD8B5XCd_BwHloPaUdURl6SgGErzA/viewform?usp=sf_link)  
 活动前鼓励参加的培训：2022/10/30 周日 下午3点，[Zoom会议链接](https://us02web.zoom.us/j/88650338177?pwd=YUV3QUQvd2lhYm8yWENBUm9pV2lOUT09)  
 
