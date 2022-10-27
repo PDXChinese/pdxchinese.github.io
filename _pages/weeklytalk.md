@@ -91,7 +91,7 @@ Unless otherwise arranged, all Talk will be arranged at 3 pm on Saturday, and th
 
 看着孩子们的健康成长是做家长的最始初心，我们经常关注孩子们的身体健康，但心理健康也是很重要的。近年来孩子们都面临着什么心理压力，我们作为家长又可以从哪些方面帮助孩子们呢？常见的心理疾病又有什么症状与治疗小贴士？在这基本心理讲座中，您会了解到基本的儿童/青少年的心理压力症状与治疗方针，预防小贴士与Oregon 州的医际资源库。您也会理解到从统计角度上关于儿童/青少年的常见心理压力的普遍来由与治疗。
 
-[Jessica Huiying Zhou](https://selahcounselingandwellness.com/staff/jessica-huying-zhou/)拥有University of Oregon公共服务与教育本科双学位(BS), 同时也获得了临床心理健康咨询师硕士学位 ( MA, LPC-A, NCE) 。Jessica帮助她的病人，包括儿童、青少年和他们的家庭成员，找到健康的自我认知，并加强他们对于自身的积极评价。通过积极治疗手法他们能认识到自己是一个完整、正面和安全的整体。在5年的门诊项目中，Jessica拥有与儿童、青少年和家庭正面交流的广泛经验。
+[Jessica Huiying Zhou](https://www.bewellfamilycounseling.com)拥有University of Oregon公共服务与教育本科双学位(BS), 同时也获得了临床心理健康咨询师硕士学位 ( MA, LPC-A, NCE) 。Jessica帮助她的病人，包括儿童、青少年和他们的家庭成员，找到健康的自我认知，并加强他们对于自身的积极评价。通过积极治疗手法他们能认识到自己是一个完整、正面和安全的整体。在5年的门诊项目中，Jessica拥有与儿童、青少年和家庭正面交流的广泛经验。
 
 专长领域,使用的治疗方法: 认知行为疗法(CBT)，家庭系统方法，以儿童为中心的游戏疗法, 创伤焦点认知行为疗法(TF-CBT)帮助来访者从他们的创伤/压力经历中痊愈, 亲子互动疗法(2-8岁)和PMTO(8-13岁)。
 
