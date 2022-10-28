@@ -19,11 +19,11 @@ permalink: /vote_matters/
 
 | 餐馆 | 地址 | 参与活动 |
 | --- | --- | --- |
-| [宝华海鲜餐馆](https://powellsseafoodtogo.com/) | 6633 SE Powell Blvd, Portland | 10% 折扣，宣传 |
-| [成都名小吃](https://www.wheatbayportland.com/) | 1618 NE 6th Ave，Portland | 10% 折扣，宣传 |
-| [成都名小吃](https://www.wheatbayhappyvalley.com/) | Happy Valley Town Center Dr, Happy Valley | 10% 折扣，宣传 |
-| [成都名小吃](https://www.wheatbay.com/) | 830 E 13th Ave, Eugene, 97401 | 10% 折扣，宣传 |
-| [The Show Restaurant](https://www.theshowfood.com/) | 1915 NW 9th St, Corvallis | 宣传 |
+| [宝华海鲜餐馆](https://powellsseafoodtogo.com/) | 6633 SE Powell Blvd, Portland | 10% 折扣 |
+| [成都名小吃](https://www.wheatbayportland.com/) | 1618 NE 6th Ave，Portland | 10% 折扣 |
+| [成都名小吃](https://www.wheatbayhappyvalley.com/) | Happy Valley Town Center Dr, Happy Valley | 10% 折扣 |
+| [成都名小吃](https://www.wheatbay.com/) | 830 E 13th Ave, Eugene, 97401 | 10% 折扣 |
+在11月5-6日那个周末，凡是表示已经投票或答应投票的华人，可以在上述餐馆享受一次性10%折扣优惠。作为对您的酬谢。餐馆会要求您出示驾照或有效ID，餐馆保留对任何人无需任何理由拒绝提供这个折扣优惠的权利。社区感谢您的投票，也感谢参加投票宣传的所有餐馆。
 
 ## 州政府官方选民手册
 
