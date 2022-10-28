@@ -12,7 +12,7 @@ permalink: /vote_matters/
 日期：2022年11月5-6日  
 目标：在全州华人比较集中的街区设置宣传点，包括中餐馆。  
 宣传材料：[flyer 1](/assets/pdf/vote_flyer_occ.pdf)，[poster 1](/assets/pdf/vote_flyer_peer_connect.pdf) （欢迎自行打印，OCC可以凭收据报销）
-### 活动点位置和参与中餐馆：[报备表格（方便协调，减少重复）](https://docs.google.com/forms/d/e/1FAIpQLSdDkSEsNT7spiNmR2SpgkD8B5XCd_BwHloPaUdURl6SgGErzA/viewform?usp=sf_link)  
+### 活动点位置和参与中餐馆：[报备表格](https://docs.google.com/forms/d/e/1FAIpQLSdDkSEsNT7spiNmR2SpgkD8B5XCd_BwHloPaUdURl6SgGErzA/viewform?usp=sf_link)（[中餐馆参与细节](/assets/pdf/chinese_restaurant_participation.pdf)）  
 活动前鼓励参加的培训：2022/10/30 周日 下午3点，[Zoom会议链接](https://us02web.zoom.us/j/88650338177?pwd=YUV3QUQvd2lhYm8yWENBUm9pV2lOUT09)  
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=10orpfJ9jJZFOkn7djP3lCOnU_XnweCM&ehbc=2E312F" width="740" height="555"></iframe>
@@ -24,7 +24,7 @@ permalink: /vote_matters/
 | [成都名小吃](https://www.wheatbayhappyvalley.com/) | Happy Valley Town Center Dr, Happy Valley | 10% 折扣 |
 | [成都名小吃](https://www.wheatbay.com/) | 830 E 13th Ave, Eugene, 97401 | 10% 折扣 |
 
-在11月5-6日那个周末，凡是表示已经投票或答应投票的华人，可以在上述餐馆享受一次性10%折扣优惠。作为对您的酬谢。餐馆会要求您出示驾照或有效ID，餐馆保留对任何人无需任何理由拒绝提供这个折扣优惠的权利。社区感谢您的投票，也感谢参加投票宣传的所有餐馆。
+在11月5-6日那个周末，凡是表示已经投票或答应投票的华人，可以在上述餐馆享受一次性5%或10%折扣优惠。作为对您的酬谢。餐馆会要求您出示驾照或有效ID，餐馆保留对任何人无需任何理由拒绝提供这个折扣优惠的权利。社区感谢您的投票，也感谢参加投票宣传的所有餐馆。
 
 ## 州政府官方选民手册
 
@@ -45,6 +45,7 @@ permalink: /vote_matters/
 > [英文录像](https://youtu.be/PASxD34rc2g)  
 > [简体中文文本](/assets/pdf/governor_2nd_debate_2022.pdf)  
 > [繁體中文文本](/assets/pdf/governor_2nd_debate_traditional_chinese_2022.pdf)  
+> 候选人公共服务经历：[简体](/assets/pdf/2022governorbio1.pdf)，[繁体](/assets/pdf/2022governorbio1.pdf)  
 
 <iframe src="{{ site.url }}/assets/pdf/governor_2nd_debate_2022.pdf" style="width: 100%; height: 600px"></iframe>
 <br>
