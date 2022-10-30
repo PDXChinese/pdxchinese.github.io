@@ -43,6 +43,10 @@ permalink: /vote_matters/
 
 ## 关键选举资讯介绍 （由社区义工团队翻译整理）
 
+### 加注中文的选票
+
+[摩特诺玛县/Multnomah County](/assets/pdf/mult_ballot_chinese.pdf)
+
 ### 州长候选人第二次电视辩论：
 
 > [英文录像](https://youtu.be/PASxD34rc2g)  
