@@ -46,7 +46,7 @@ permalink: /vote_matters/
 ### 加注中文的选票
 
 > [摩特诺玛县/Multnomah County](/assets/pdf/mult_ballot_chinese.pdf)（供参考）  
-> 选票信封背面需要签字（[样本](/assets/pdf/ballot_signature.pdf)）  
+> 选票信封背面需要签字（[样本](/assets/pdf/ballot_signature.png)）  
 
 ### 州长候选人第二次电视辩论：
 
