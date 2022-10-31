@@ -17,18 +17,6 @@ permalink: /vote_matters/
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=10orpfJ9jJZFOkn7djP3lCOnU_XnweCM&ehbc=2E312F" width="740" height="555"></iframe>
 
-| 餐馆 | 地址 | 参与活动 |
-| --- | --- | --- |
-| [宝华海鲜餐馆](https://powellsseafoodtogo.com/) | 6633 SE Powell Blvd, Portland | 10% 折扣 |
-| [成都名小吃](https://www.wheatbayportland.com/) | 1618 NE 6th Ave，Portland | 10% 折扣 |
-| [成都名小吃](https://www.wheatbayhappyvalley.com/) | Happy Valley Town Center Dr, Happy Valley | 10% 折扣 |
-| [成都名小吃](https://www.wheatbay.com/) | 830 E 13th Ave, Eugene, 97401 | 10% 折扣 |
-| [Orient Cafe](https://orientcafetd.com/) | 1222 W 2nd St, The Dalles, 97058 | 10% 折扣 |
-| [King Buffet](https://kingbuffetortogo.com/) | 2000 NE 3rd St #104, Bend, 97701 | 10% 折扣 |
-
-
-在11月5-6日那个周末，凡是表示已经投票或答应投票的华人，可以在上述餐馆享受一次性5%或10%折扣优惠。作为对您的酬谢。餐馆会要求您出示驾照或有效ID，餐馆保留对任何人无需任何理由拒绝提供这个折扣优惠的权利。社区感谢您的投票，也感谢参加投票宣传的所有餐馆。
-
 ## 州政府官方选民手册
 
 [中文版](https://sos.oregon.gov/elections/Pages/Voters-Pamphlet-Chinese.aspx)，[英文版本](https://oregonvotes.gov/voters-guide/english/votersguide.html)
