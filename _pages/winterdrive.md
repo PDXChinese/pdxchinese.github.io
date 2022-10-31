@@ -8,7 +8,7 @@ permalink: /winterdrive/
 # 2022 Community Winter Drive  
 **Date:** November 19, 2022 Saturday, 1:00 pm - 4:00 pm  
 **Place:** Tentatively 9 drop off locations across State of Oregon  
-**Register** To join, please [register here](https://docs.google.com/forms/d/e/1FAIpQLSdrA8gtPEE5_7kHLy67J5aQJpBaAxnMR-nlSZLc9KiupzaE_A/viewform?usp=sf_link).  
+**Register** To join, please **[register here](https://docs.google.com/forms/d/e/1FAIpQLSdrA8gtPEE5_7kHLy67J5aQJpBaAxnMR-nlSZLc9KiupzaE_A/viewform?usp=sf_link)**.  
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DDGcnMkl_hOzU-W7GuZiZ8RI-FF91bFS" width="640" height="480"></iframe>
 
