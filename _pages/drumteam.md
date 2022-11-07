@@ -3,7 +3,7 @@ title: ""
 permalink: /drumteam/
 ---
 
-# 社区击鼓队/Community Drum Team
+# 社区击鼓队（花木兰鼓队）/Community Drum Team (Hua Mu Lan Drum Team)
 
 The earliest known drums in China date back nearly four thousand years ago. Historically, Chinese drums have been used in celebration and in conflict. As a result Chinese drums are often the color red which has long time been associated with power and luck. Nowadays, drumming is used primarily for festivities and events.
 
@@ -14,9 +14,6 @@ To have us perform in your events, please [contact us](http://pdxchinese.org/con
 ### Weekly Practice
 
 Place: [03 Int'l Badminton Club](https://www.facebook.com/03badminton/) (10058 SW Arctic Dr. Beaverton, OR, 97005)
-
-Time: Saturday 2pm-4pm
-      Sunday 5pm-7pm
 
 ### Debut Performance
 

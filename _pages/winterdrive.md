@@ -6,7 +6,7 @@ permalink: /winterdrive/
 <p><img src="/assets/images/activities/winter_drive_banner.jpg"></p>  
 
 # 2022 Community Winter Drive  
-**Date:** November 19, 2022 Saturday, 1:00 pm - 4:00 pm  
+**Date:** November 20, 2022 Sunday, 1:00 pm - 4:00 pm  
 **Place:** Tentatively 9 drop off locations across State of Oregon  
 **Register** To join, please **[register here](https://docs.google.com/forms/d/e/1FAIpQLSdrA8gtPEE5_7kHLy67J5aQJpBaAxnMR-nlSZLc9KiupzaE_A/viewform?usp=sf_link)**.  
 
@@ -78,7 +78,8 @@ Soap, shampoo, tooth brush, tooth paste, feminine hygiene items, toilet paper, e
 ## Agencies to Receive our Donations
 
 [Clay Street Table](http://claystreettable.org/)  
-[Transition Projects](https://www.tprojects.org/) ([Donation Item List](/assets/images/activities/transition_project_donation_list.pdf))  
+[Central City Concern](https://centralcityconcern.org/)  
+[Transition Projects](https://www.tprojects.org/)  
 [White Bird Clinic](https://whitebirdclinic.org/)
 
 ## Archive

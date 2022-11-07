@@ -50,8 +50,6 @@ extra:
         url: /youthconference/
       - title: "Youth Dance Team"
         url: /youthdance/
-      - title: "Youth Drum Team"
-        url: /drumteam/
       - title: "Youth Lens"
         url: /youthlens/
       - title: "Youth Mentoring"
@@ -64,16 +62,18 @@ extra:
         url: /youthroundtable/
       - title: "---"
         url:
-      - title: "Community Art Show"
-        url: /artexhibit/
-      - title: "Community Library"
-        url: /library/
       - title: "Chinatown"
         url: /chinatown/
       - title: "Chinese Festival"
         url: /chinesefestival/
       - title: "Chinese New Year"
         url: /lunarnewyear/
+      - title: "Community Art Show"
+        url: /artexhibit/
+      - title: "Community Library"
+        url: /library/
+      - title: "Drum Team"
+        url: /drumteam/
       - title: "Lantern Festival"
         url: /lanternfestival/
       - title: "Naming Project"
