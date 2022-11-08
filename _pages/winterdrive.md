@@ -33,7 +33,7 @@ permalink: /winterdrive/
 | :one: [Sunset High School](https://www.google.com/maps/place/Sunset+High+School/@45.5281211,-122.8205103,15z/data=!4m2!3m1!1s0x0:0xee13c5fd283ea1a8?ved=2ahUKEwj2-Mi2udPeAhVKyFQKHigh SchoolB5DhAQ_BIwCnoECAUQCA) | |
 | Aaron Guo | Sunset High School |
 | :two: [Stoller Middle School](https://www.google.com/maps/place/Stoller+Middle+School/@45.557277,-122.822358,15z/data=!4m2!3m1!1s0x0:0x8ed51b34f0447f22?ved=2ahUKEwj43-zdudPeAhVO7VQKHe5DBqkQ_BIwD3oECAYQCA) | |
-| | |
+| Alan Zhuang | Stoller Middle School |
 | :three: Bethany Village | [QFC parking lot](https://www.google.com/maps/place/Walgreens/@45.555242,-122.836414,17.25z/data=!4m5!3m4!1s0x0:0x13e6b71d8ca8bcde!8m2!3d45.5551922!4d-122.8352382) |
 | | |
 | :four: [Lake Oswego High School](https://www.google.com/maps/place/Westlake+Park/@45.4240433,-122.738775,16z/data=!4m5!3m4!1s0x0:0xf92db3a1fa94a97e!8m2!3d45.4253979!4d-122.726774) | |
@@ -49,7 +49,7 @@ permalink: /winterdrive/
 | :nine: [Kennedy Middle School](https://www.google.com/maps/place/Kennedy+Middle+School/@44.0359954,-123.1549454,15z/data=!4m5!3m4!1s0x0:0xa0b4c4263ee1b590!8m2!3d44.0359705!4d-123.1549451) | |
 | | |
 
-*Use parent name for safety consideration
+*Use parent names for elementary students
 
 ## Donation Items
 
