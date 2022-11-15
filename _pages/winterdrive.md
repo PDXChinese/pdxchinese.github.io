@@ -46,7 +46,8 @@ permalink: /winterdrive/
 | Eric Zhao | Tumwater Middle School |
 | Alan Zhuang | Stoller Middle School |
 | :three: Bethany Village | [QFC parking lot](https://www.google.com/maps/place/Walgreens/@45.555242,-122.836414,17.25z/data=!4m5!3m4!1s0x0:0x13e6b71d8ca8bcde!8m2!3d45.5551922!4d-122.8352382) |
-| M.Y. Sun | Bonny Slope Elementary |
+| Joyce | Bonny Slope Elementary |
+| MS | Bonny Slope Elementary |
 | :four: [Lake Oswego High School](https://www.google.com/maps/place/Westlake+Park/@45.4240433,-122.738775,16z/data=!4m5!3m4!1s0x0:0xf92db3a1fa94a97e!8m2!3d45.4253979!4d-122.726774) | |
 | | |
 | :five: [Forest Park Elementary School](https://www.google.com/maps/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
