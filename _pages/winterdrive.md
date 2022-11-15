@@ -31,23 +31,36 @@ permalink: /winterdrive/
 | Name/Drop Off Location | School/Organization |
 | --- | --- |
 | :one: [Sunset High School](https://www.google.com/maps/place/Sunset+High+School/@45.5281211,-122.8205103,15z/data=!4m2!3m1!1s0x0:0xee13c5fd283ea1a8?ved=2ahUKEwj2-Mi2udPeAhVKyFQKHigh SchoolB5DhAQ_BIwCnoECAUQCA) | |
+| Michael Fu | Sunset High School |
+| Aidan Gao | Sunset High School |
 | Aaron Guo | Sunset High School |
+| Joanna Mei | Sunset High School |
+| Sophia Wang | Sunset High School |
 | :two: [Stoller Middle School](https://www.google.com/maps/place/Stoller+Middle+School/@45.557277,-122.822358,15z/data=!4m2!3m1!1s0x0:0x8ed51b34f0447f22?ved=2ahUKEwj43-zdudPeAhVO7VQKHe5DBqkQ_BIwD3oECAYQCA) | |
+| Monica Bao | BASE |
+| Katie Jin | Catlin Gabel |
+| Leon Liu | Catlin Gabel |
 | Jayden Mei | Tumwater Middle School |
+| Zhunquin Wang | Stoller Middle School |
+| Justin Xia | Catlin Gabel |
 | Eric Zhao | Tumwater Middle School |
 | Alan Zhuang | Stoller Middle School |
 | :three: Bethany Village | [QFC parking lot](https://www.google.com/maps/place/Walgreens/@45.555242,-122.836414,17.25z/data=!4m5!3m4!1s0x0:0x13e6b71d8ca8bcde!8m2!3d45.5551922!4d-122.8352382) |
-| | |
+| M.Y. Sun | Bonny Slope Elementary |
 | :four: [Lake Oswego High School](https://www.google.com/maps/place/Westlake+Park/@45.4240433,-122.738775,16z/data=!4m5!3m4!1s0x0:0xf92db3a1fa94a97e!8m2!3d45.4253979!4d-122.726774) | |
 | | |
 | :five: [Forest Park Elementary School](https://www.google.com/maps/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
-| | |
+| Anthony Qin | Westview High School |
+| Ethan Qin | Westview High School |
+| Austin Yan | Lincoln High School |
+| Ethan Zhang | Westview High School |
+| Lucas Zhang | Catlin Gabel |
 | :six: [Woodstock Elementary](https://www.google.com/maps/@45.4826914,-122.6113733,3a,75y,345.06h,103.47t/data=!3m6!1e1!3m4!1sB68Lfe4g0Fuzlo0V6pfItQ!2e0!7i16384!8i8192) | |
 | | |
 | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://www.google.com/maps/place/%E7%A5%A5%E5%8F%91%E8%B6%85%E5%B8%82/@45.5046919,-122.5784504,17.63z/data=!4m5!3m4!1s0x0:0x64e85b424c469026!8m2!3d45.5044216!4d-122.5775423) | |
 | Maggie Qian* | Abernathy Elementary |
 | :eight: [Hamilton Park](https://www.google.com/maps/place/Hamilton+City+Park,+Portland,+OR+97221/@45.4917709,-122.7220884,15z/data=!4m5!3m4!1s0x0:0xf0e5b71c4defafee!8m2!3d45.4917709!4d-122.7220884) | |
-| | |
+| Oscar | Bridlemile Elementary |
 | :nine: [Kennedy Middle School](https://www.google.com/maps/place/Kennedy+Middle+School/@44.0359954,-123.1549454,15z/data=!4m5!3m4!1s0x0:0xa0b4c4263ee1b590!8m2!3d44.0359705!4d-123.1549451) | |
 | | |
 
