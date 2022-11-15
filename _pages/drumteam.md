@@ -46,3 +46,15 @@ Portland Pioneer Courthouse Square, August 6, 2021
 ![]({{ site.url }}/assets/images/2021chinese_festival_060.jpg)  
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_062.jpg)  
+
+### Performance in Patricia Reser Center for the Arts in Beaverton
+
+September 11, 2022
+
+<iframe width="1100" height="619" src="https://www.youtube.com/embed/WBV4_cZL_dc" title="Hua Mu Lan Drum Team Performing at Patricia Reser Center for the Arts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Performance in Hmong New Year Celebration
+
+McDaniel High School, November 12, 2022
+
+<iframe width="1100" height="619" src="https://www.youtube.com/embed/WSi_JRPvng8" title="Dance of the Golden Snake Drum Performance at Hmong New Year Celebration 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
