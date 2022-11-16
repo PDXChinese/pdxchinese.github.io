@@ -24,8 +24,10 @@ feature_row1:
 
 [The Zhang Clan Odyssey](https://www.mychinaroots.com/samples/zhang-odyssey/#1) and [The Zhang Clan Odyssey on Gold Mountain]({{ site.url }}/assets/pdf/zhang_clan_odyssey.pdf) by Raymond Douglas Chong (Zhang Weiming)
 
+Nov 2022 Update on [Lone Fir Cultural Heritage Garden](http://lonefir.org/cultural-heritage-garden/)：[简体中文版]({{ site.url }}/assets/pdf/block14_s.pdf)，繁体中文版({{ site.url }}/assets/pdf/block14_t.pdf)
+
 [How to take a Chinese history tour of Oregon](https://www.oregonlive.com/travel/2022/02/how-to-take-a-chinese-history-tour-of-oregon.html)
 
-[Special issue of OHQ](https://www.ohs.org/oregon-historical-quarterly/back-issues/winter-2021.cfm), if you are interested in having a copy, please contact us.
+[Special issue of OHQ on Chinese Diaspora in Oregon](https://www.ohs.org/oregon-historical-quarterly/back-issues/winter-2021.cfm), if you are interested in having a copy, please contact us.
 
 <iframe width="1280" height="720" style="border:1px solid #e6e6e6" src="https://www.kgw.com/embeds/video/responsive/283-e00a2b49-d915-4407-9deb-441c1e12551c/iframe" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
