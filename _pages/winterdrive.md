@@ -31,6 +31,7 @@ permalink: /winterdrive/
 | Name/Drop Off Location | School/Organization |
 | --- | --- |
 | :one: [Sunset High School](https://www.google.com/maps/place/Sunset+High+School/@45.5281211,-122.8205103,15z/data=!4m2!3m1!1s0x0:0xee13c5fd283ea1a8?ved=2ahUKEwj2-Mi2udPeAhVKyFQKHigh SchoolB5DhAQ_BIwCnoECAUQCA) | |
+| Andrik Chan | ChildsWork |
 | Michael Fu | Sunset High School |
 | Aidan Gao | Sunset High School |
 | Aaron Guo | Sunset High School |
@@ -50,7 +51,7 @@ permalink: /winterdrive/
 | Joyce | Bonny Slope Elementary |
 | MS | Bonny Slope Elementary |
 | :four: [Lake Oswego High School](https://www.google.com/maps/place/Westlake+Park/@45.4240433,-122.738775,16z/data=!4m5!3m4!1s0x0:0xf92db3a1fa94a97e!8m2!3d45.4253979!4d-122.726774) | |
-| | |
+| Alexis Zou | Lake Oswego High School |
 | :five: [Forest Park Elementary School](https://www.google.com/maps/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
 | Anthony Qin | Westview High School |
 | Ethan Qin | Westview High School |
