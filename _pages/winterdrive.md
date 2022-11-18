@@ -52,6 +52,7 @@ permalink: /winterdrive/
 | Junwei Li | Goodtime Chinese School |
 | MS | Bonny Slope Elementary |
 | :four: [Lake Oswego High School](https://www.google.com/maps/place/Westlake+Park/@45.4240433,-122.738775,16z/data=!4m5!3m4!1s0x0:0xf92db3a1fa94a97e!8m2!3d45.4253979!4d-122.726774) | |
+| Lola Litofe | St Mary’s Academy |
 | Qinglu Xu |  Lake Oswego High School |
 | Alexis Zou | Lake Oswego High School |
 | :five: [Forest Park Elementary School](https://www.google.com/maps/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
@@ -67,14 +68,10 @@ permalink: /winterdrive/
 | Lucas Zhang | Catlin Gabel |
 | Jerry Zhou | OES |
 | Ziyu Zhu | Lincoln High School |
-| :six: [Woodstock Elementary](https://www.google.com/maps/@45.4826914,-122.6113733,3a,75y,345.06h,103.47t/data=!3m6!1e1!3m4!1sB68Lfe4g0Fuzlo0V6pfItQ!2e0!7i16384!8i8192) | |
-| | |
 | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://www.google.com/maps/place/%E7%A5%A5%E5%8F%91%E8%B6%85%E5%B8%82/@45.5046919,-122.5784504,17.63z/data=!4m5!3m4!1s0x0:0x64e85b424c469026!8m2!3d45.5044216!4d-122.5775423) | |
 | Maggie Qian* | Abernathy Elementary |
 | :eight: [Hamilton Park](https://www.google.com/maps/place/Hamilton+City+Park,+Portland,+OR+97221/@45.4917709,-122.7220884,15z/data=!4m5!3m4!1s0x0:0xf0e5b71c4defafee!8m2!3d45.4917709!4d-122.7220884) | |
 | Oscar | Bridlemile Elementary |
-| :nine: [Kennedy Middle School](https://www.google.com/maps/place/Kennedy+Middle+School/@44.0359954,-123.1549454,15z/data=!4m5!3m4!1s0x0:0xa0b4c4263ee1b590!8m2!3d44.0359705!4d-123.1549451) | |
-| | |
 
 *Use parent names for elementary students
 
@@ -109,7 +106,6 @@ Soap, shampoo, tooth brush, tooth paste, feminine hygiene items, toilet paper, e
 [Clay Street Table](http://claystreettable.org/)  
 [Central City Concern](https://centralcityconcern.org/)  
 [Transition Projects](https://www.tprojects.org/)  
-[White Bird Clinic](https://whitebirdclinic.org/)
 
 ## Archive
 
