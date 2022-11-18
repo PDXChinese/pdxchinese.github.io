@@ -17,7 +17,7 @@ permalink: /winterdrive/
 |  | :one: [Sunset High School](https://www.google.com/maps/place/Sunset+High+School/@45.5281211,-122.8205103,15z/data=!4m2!3m1!1s0x0:0xee13c5fd283ea1a8?ved=2ahUKEwj2-Mi2udPeAhVKyFQKHigh SchoolB5DhAQ_BIwCnoECAUQCA) | Outside school main entrance|
 |  | :two: [Stoller Middle School](https://www.google.com/maps/place/Stoller+Middle+School/@45.557277,-122.822358,15z/data=!4m2!3m1!1s0x0:0x8ed51b34f0447f22?ved=2ahUKEwj43-zdudPeAhVO7VQKHe5DBqkQ_BIwD3oECAYQCA) | |
 |  | :three: Bethany Village | [QFC parking lot](https://www.google.com/maps/place/Walgreens/@45.555242,-122.836414,17.25z/data=!4m5!3m4!1s0x0:0x13e6b71d8ca8bcde!8m2!3d45.5551922!4d-122.8352382) |
-|  | :four: Lake Oswego High School | [Westlake Park (next to play structure)](https://www.google.com/maps/place/Westlake+Park/@45.4240433,-122.738775,16z/data=!4m5!3m4!1s0x0:0xf92db3a1fa94a97e!8m2!3d45.4253979!4d-122.726774) |
+| [:page_facing_up:](/assets/images/activities/winter_drive_2022_lo.jpg) | :four: Lake Oswego High School | [Westlake Park (next to play structure)](https://www.google.com/maps/place/Westlake+Park/@45.4240433,-122.738775,16z/data=!4m5!3m4!1s0x0:0xf92db3a1fa94a97e!8m2!3d45.4253979!4d-122.726774) |
 | [:page_facing_up:](/assets/images/activities/winter_drive_2022_fp.jpg) | :five: [Forest Park Elementary School, NW Portland](https://www.google.com/maps/place/Forest+Park+Elementary School+School/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
 | | :six: [Woodstock Elementary, SE Portland](https://www.google.com/maps/@45.4826914,-122.6113733,3a,75y,345.06h,103.47t/data=!3m6!1e1!3m4!1sB68Lfe4g0Fuzlo0V6pfItQ!2e0!7i16384!8i8192) | On south side of the building |
 | [:page_facing_up:](/assets/images/activities/winter_drive_2022_se_english.jpg) | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://www.google.com/maps/place/%E7%A5%A5%E5%8F%91%E8%B6%85%E5%B8%82/@45.5046919,-122.5784504,17.63z/data=!4m5!3m4!1s0x0:0x64e85b424c469026!8m2!3d45.5044216!4d-122.5775423) | |
@@ -52,8 +52,10 @@ permalink: /winterdrive/
 | Junwei Li | Goodtime Chinese School |
 | MS | Bonny Slope Elementary |
 | :four: [Lake Oswego High School](https://www.google.com/maps/place/Westlake+Park/@45.4240433,-122.738775,16z/data=!4m5!3m4!1s0x0:0xf92db3a1fa94a97e!8m2!3d45.4253979!4d-122.726774) | |
+| Qinglu Xu |  Lake Oswego High School |
 | Alexis Zou | Lake Oswego High School |
 | :five: [Forest Park Elementary School](https://www.google.com/maps/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
+| Ming Che | Westview High School |
 | Eric Chen | ACCESS Academy |
 | Jenny Chen | Lincoln High School |
 | Anthony Qin | Westview High School |
