@@ -71,7 +71,9 @@ permalink: /winterdrive/
 | Jerry Zhou | OES |
 | Ziyu Zhu | Lincoln High School |
 | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://www.google.com/maps/place/%E7%A5%A5%E5%8F%91%E8%B6%85%E5%B8%82/@45.5046919,-122.5784504,17.63z/data=!4m5!3m4!1s0x0:0x64e85b424c469026!8m2!3d45.5044216!4d-122.5775423) | |
+| Xiaohui Chen | Parent |
 | Maggie Qian* | Abernathy Elementary |
+| Dick Lee | Parent |
 | :eight: [Hamilton Park](https://www.google.com/maps/place/Hamilton+City+Park,+Portland,+OR+97221/@45.4917709,-122.7220884,15z/data=!4m5!3m4!1s0x0:0xf0e5b71c4defafee!8m2!3d45.4917709!4d-122.7220884) | |
 | Oscar | Bridlemile Elementary |
 
