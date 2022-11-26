@@ -51,7 +51,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Ethan_Zhang/'>Ethan Zhang, Westview High School (Silver Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_Lucas_Zhang1.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Lucas_Zhang/'>Lucas Zhang, Stoller Middle School (Silver Award)</a></p>"
-  - image_path: /assets/images/pvsa/2021_blank.jpg
+  - image_path: /assets/images/pvsa/2021_Susan_Moseley.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Susan_Moseley/'>Susan Moseley, St. Stephen's Episcopal School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Alex_Pi/'>Alex Pi, Meadows Park Middle School (Bronze Award)</a></p>"
