@@ -10,9 +10,9 @@ date: "2022-11-28"
 
 今早收到庇护所主管的Email，
 
->I heard absolute RAVE reviews from the team at the Clark center about last night’s dinner!! Sounds like folks were wild about the food, and pretty excited to have a crew of enthusiastic volunteers onsite to serve it. Hope everything went smoothly on your end, but please let me know if there was anything we could have done to make it a better experience for the families who participated. 
+>I heard absolute RAVE reviews from the team at the Clark center about last night’s dinner!! Sounds like folks were wild about the food, and pretty excited to have a crew of enthusiastic volunteers onsite to serve it. Hope everything went smoothly on your end, but please let me know if there was anything we could have done to make it a better experience for the families who participated.
 
-Thank you so much for making such a delicious feast for our residents!!
+>Thank you so much for making such a delicious feast for our residents!!
 
 有机会帮助到有需要的人大家自然感到欣慰，同时我们自己何尝不是受益者呢？下面是一位妈妈回来后写的感想：
 
