@@ -8,6 +8,12 @@ date: "2022-11-28"
 
 那里的人应该很少看到这么多的华人出现在那里，摆出的饭菜更如同过年一样的丰盛可口。感谢的话不绝于耳，更有人希望我们能经常过去。我们离开的时候很多人和我们打招呼道别。
 
+今早收到庇护所主管的Email，
+
+>I heard absolute RAVE reviews from the team at the Clark center about last night’s dinner!! Sounds like folks were wild about the food, and pretty excited to have a crew of enthusiastic volunteers onsite to serve it. Hope everything went smoothly on your end, but please let me know if there was anything we could have done to make it a better experience for the families who participated. 
+
+Thank you so much for making such a delicious feast for our residents!!
+
 有机会帮助到有需要的人大家自然感到欣慰，同时我们自己何尝不是受益者呢？下面是一位妈妈回来后写的感想：
 
 >非常感谢OCC又一次给社区的孩子们和家长们带来了一个非常不一样的机会！！这是孩子有生以来第一次为超过五个人做饭，技术上，体味到了量的区别、体验到了学校cafeterias staff的不易； 也是他第一次serve foods in 庇护所，特别兴奋，特别高兴和小伙伴们一起可以为陌生的同在一个城市的人们带来一点点快乐的moment, “small but real”, 而且还很fun! “Absolutely a good day!” 非常感谢OCC不断地带领社区的孩子们及家长们走入社会，开阔视野，我相信今天孩子们经历的一定会让他们都很难忘，会更让他们知道感恩，知道世界上有很多人很多事等着他们去做呢。咱们的孩子们个个都相当可爱，相当踏实，真的很棒！！ 跟家长们一起，拍拍照，聊聊孩子们的成长也很开心。
