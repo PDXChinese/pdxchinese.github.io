@@ -96,4 +96,4 @@ date: "2022-11-28"
 
 ![]({{ site.url }}/assets/images/317424930_169092195755871_6311321563780978808_n.jpg)
 
-<iframe width="1100" height="619" src="https://www.youtube.com/embed/wk_mxAXiOms" title="Providing Meal at the Clark Center in Portland Downtown" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1100" height="619" src="https://www.youtube.com/embed/FqzOPDnqz68" title="Providing Meal at the Clark Center in Portland Downtown" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
