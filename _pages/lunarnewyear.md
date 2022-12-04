@@ -3,6 +3,22 @@ title: ""
 permalink: /lunarnewyear/
 ---
 
+# 2023【常回家看看】社区春节联欢活动
+
+地点：Kirkland Union Manor 老人公寓 (3530 SE 84th Ave, Portland, OR 97266)  
+时间：2023年1月14日-15日 (周末)  
+
+周六 10点-2点  帮老人 清洗厨房/大厅春节装饰，包括写对联，剪窗花。  
+周六 2点半-4点 大厅演出/给老人发放礼品  
+周日 10点-12点  帮老人清洗厨房  
+周日 2点-5点  帮老人清洗厨房  
+
+清洗：鼓励能清洗三家厨房(厨房橱柜面积不大)。自带容器 ，手套，海绵等用品，现场我们会提供OxiClean，Baking Soda，柠檬水，洗碗液。有需要更新的话，可以从办公室领取一个新的吸油烟机过滤网。大楼有300个住户，绝大多数是华人，我们帮助的老人会不分种族。如果每一组能帮助清洗三家厨房，那就需要100组义工。因为厨房很小，动作熟练的话，三四十分钟能完成一家。
+
+演出：大人孩子演出个人和团体皆欢迎，因为场地限制，节目如需动作较大，同时上场人数建议在8人之内。有换衣服的地方，地面是地毯。欢迎和老人们互动。参加演出的人员也鼓励参加帮老人清洗厨房等其他活动。
+
+报名链接：https://docs.google.com/forms/d/e/1FAIpQLSerbP7209LCkipAJUhnEdkvN0S-N-lbFywEG5Jc7MZtjexAlA/viewform?usp=sf_link
+
 # 2021 Lifting Hope -- Celebrating Chinese New Year
 
 ![]({{ site.url }}/assets/images/activities/lifting_hope_2021.jpg)
