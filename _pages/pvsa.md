@@ -61,7 +61,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Ethan_Qin/'>Ethan Qin, Westview High School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_Derica_Theobald.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Derica_Theobald/'>Derica Theobald, Whitford Middle School (Bronze Award)</a></p>"
-  - image_path: /assets/images/pvsa/2021_blank.jpg
+  - image_path: /assets/images/pvsa/2021_Megan_Tian.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Megan_Tian/'>Megan Tian, Lakeridge High School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_blank.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Michelle_Wang/'>Michelle Wang, ISB (Bronze Award)</a></p>"
