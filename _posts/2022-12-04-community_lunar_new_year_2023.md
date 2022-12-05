@@ -13,5 +13,4 @@ date: "2022-12-04"
 
 我们计划从SE 84街老人公寓试着做起来，那里有300家住户，绝大多数都是华人老人。大家喜欢的话，可以成为我们社区的传统活动，更可以包括更多的老人公寓。因为有帮助老人清洗厨房的活动，我们需要大量的义工，可以以家庭为单位，也鼓励各团体，学生社团，甚至公司业主组织起来参与进来。
 
-这里是[报名链接](https://docs.google.com/forms/d/e/1FAIpQLSerbP7209LCkipAJUhnEdkvN0S-N-lbFywEG5Jc7MZtjexAlA/viewform
-![]({{ site.url }}/assets/images/315516172_166266699371754_3087915664402980590_n.jpg))，大家可以了解活动详情，也鼓励大家提出建议，包括增加活动内容，报名表里也有微信群二维码。
+这里是 [报名链接](https://docs.google.com/forms/d/e/1FAIpQLSerbP7209LCkipAJUhnEdkvN0S-N-lbFywEG5Jc7MZtjexAlA/viewform)，大家可以了解活动详情，也鼓励大家提出建议，包括增加活动内容，报名表里也有微信群二维码。
