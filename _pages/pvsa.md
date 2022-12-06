@@ -31,7 +31,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Shengyao_Liu/'>Shengyao Liu, Lake Oswego High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_Jenell_Theobald.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Jenell_Theobald/'>Jenell Theobald, ISB (Gold Award)</a></p>"
-  - image_path: /assets/images/pvsa/2021_blank.jpg
+  - image_path: /assets/images/pvsa/2021_Daniel_Xian.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Daniel_Xian/'>Daniel Xian, Catlin Gabel School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2021_Austin_Yan.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2021_Austin_Yan/'>Austin Yan, Lincoln High School (Gold Award)</a></p>"
