@@ -9,10 +9,8 @@ feature_row1:
 
 # 青少年视角/Youth Lens
 
-Content Supervisor: Hongcheng Zhao  
-Production Director: Ni Xu  
-Production Manager: Guangchao Zhang  
-Journalism Mentors: Christine Pitawanich  
+Journalism Mentors: Frances Lu Pai Ippolito, Christine Pitawanich  
+Technology Mentors: Ni Xu, Guangchao Zhang  
 
 ![]({{ site.url }}/assets/images/activities/youtubechannel.png)
 [OCC Youth Lens YouTube Channel](https://www.youtube.com/channel/UCEirGv1g7DAC0udxm_-Fvxg)
