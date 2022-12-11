@@ -19,7 +19,7 @@ Technology Mentors: Ni Xu, Guangchao Zhang
 
 >> Special Project: Real People, Real Story 我的生活，我的故事  
 >> [采访当地华人推荐表/Referral Form](https://docs.google.com/forms/d/e/1FAIpQLSconI7lF4QMz0Wvl34UQhkkMm9pq6PuIGGvP7Ek3Ie8dzvU9A/viewform?usp=sf_link)  
->> [Consent Form](/assets/pdf/yl_consent_form.pdf)  
+>> [Consent and Release Form](/assets/pdf/yl_consent_form.pdf)  
 
 <iframe width="1070" height="602" src="https://www.youtube.com/embed/N98gtCZJUsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
