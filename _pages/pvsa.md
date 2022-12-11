@@ -8,7 +8,7 @@ feature_row2:
   - image_path: /assets/images/pvsa/2022_Gwyneth_Bao.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Gwyneth_Bao/'>Gwyneth Bao, Lincoln High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_blank.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Iris_Chang/'>Iris Chang, Sunset High School (Gold Award)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Monica_Bao/'>Monica Bao, Lincoln High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Yiran_Chen1.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Yiran_Chen/'>Yiran Chen, Lincoln High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Wendy_Du1.jpg
@@ -75,7 +75,7 @@ feature_row2:
 
 Congratulations to the following fifty six (56) outstanding youths from our community recognized as recipients of President’s Volunteer Service Award and Community Volunteer Service Award for completing a combined 7,400 volunteer hours in a single year.
 
-The youth have never been feeling this strongly about the volunteering. They not only were engaged in the community but also went beyond by initiating projects at schools and taking more leadership roles in social life. By volunteering, they felt proud of being Chinese Americans, which helped address identity problem that plagued with our youth for years; and felt proud of being part of the Chinese American community, which directly had impact on combating their belonging anxiety. 
+The youth have never been feeling this strongly about the volunteering. They not only were engaged in the community but also went beyond by initiating projects at schools and taking more leadership roles in social life. By volunteering, they felt proud of being Chinese Americans, which helped address identity problem that plagued with our youth for years; and felt proud of being part of the Chinese American community, which directly had impact on combating their belonging anxiety.
 
 These awards acknowledge individuals whose service positively impacts communities and inspires those around them to take action as well. The Oregon Chinese Coalition is honored to have the opportunity to help community youth earn this well-deserved recognition.
 
