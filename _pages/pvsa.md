@@ -73,11 +73,11 @@ feature_row2:
 
 {% include feature_row id="feature_row1"%}
 
-Congratulations to the following fifty six (56) outstanding youths from our community recognized as recipients of President’s Volunteer Service Award and Community Volunteer Service Award for completing a combined 7,400 volunteer hours in a single year.
+Congratulations to the following fifty-six (56) outstanding teens and young adults from our community as the recipients of the President’s Volunteer Service Award and the Community Volunteer Service Award. Together they have completed 7,400 volunteer hours in a single year!
 
-The youth have never been feeling this strongly about the volunteering. They not only were engaged in the community but also went beyond by initiating projects at schools and taking more leadership roles in social life. By volunteering, they felt proud of being Chinese Americans, which helped address identity problem that plagued with our youth for years; and felt proud of being part of the Chinese American community, which directly had impact on combating their belonging anxiety.
+They not only participated in the community services, but also initiated new projects at schools and took on leadership role in their daily life. Through volunteering they were able to engage with their communities at deeper and personal level. The engagement in turn helped them to find their sense of belonging, to connect and to claim their Chinese American identity with pride. They have never felt so strongly about volunteerism and serving the Chinese American community.
 
-These awards acknowledge individuals whose service positively impacts communities and inspires those around them to take action as well. The Oregon Chinese Coalition is honored to have the opportunity to help community youth earn this well-deserved recognition.
+These awards acknowledge the  individuals whose services have positively impacted the communities and inspired those around them to act. The Oregon Chinese Coalition is honored to have the opportunity to help community youth earn this well-deserved recognition.
 
 {% include feature_row id="feature_row2"%}
 
