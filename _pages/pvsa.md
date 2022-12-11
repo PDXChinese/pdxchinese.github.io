@@ -75,7 +75,7 @@ feature_row2:
 
 Congratulations to the following fifty six (56) outstanding youths from our community recognized as recipients of President’s Volunteer Service Award for completing a combined 7,400 volunteer hours in a single year.
 
-The accomplishments didn't come easy because the impact from pandemic went deep. These students demonstrated the resilience in difficult times. They knew their volunteering work meant even more with elders needing groceries to be delivered, peers struggling with remote learning, and growing population in shelters.
+The youth have never been feeling this strongly about the volunteerism. They not only were engaged in the community but also went beyond by initiating projects at schools and taking more leadership roles in social life. By volunteering, they felt proud of being Chinese Americans, which helped address identity problem that plagued with our youth for years; and felt proud of being part of the Chinese American community, which directly had impact on combating their belonging anxiety. 
 
 These awards acknowledge individuals whose service positively impacts communities and inspires those around them to take action as well. The Oregon Chinese Coalition is honored to have the opportunity to help community youth earn this well-deserved recognition.
 
