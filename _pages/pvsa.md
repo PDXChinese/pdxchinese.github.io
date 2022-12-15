@@ -19,6 +19,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Theodore_Guo/'>Theodore Guo, Jesuit High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Katie_Jin.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Katie_Jin/'>Katie Jin, Catlin Gabel School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2021_blank.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Amy_Kang/'>Amy Kang, Jesuit High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Erika_Leung.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Erika_Leung/'>Erika Leung, Lincoln High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Leon_Liu.jpg
@@ -27,6 +29,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Renee_Liu/'>Renee Liu, Lake Oswego High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Monica_Luo.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Monica_Luo/'>Monica Luo, International of Beaverton (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2022_Shunkai_Peng.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Shunkai_Peng/'>Shunkai Peng, Southridge High School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Eleanor_Song.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Eleanor_Song/'>Eleanor Song, Sunset High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Freya_Sticka.jpg
@@ -55,12 +59,16 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Alicia_Ye/'>Alicia Ye, Groton School in Massachusetts (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Sophia_You.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Sophia_You/'>Sophia You, Sunset High School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2022_Elise_Yu.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Elise_Yu/'>Elise Yu, Lincoln High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Jiaqi_Yu.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Jiaqi_Yu/'>Jiaqi Yu, Crescent Valley High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Jingtong_Yu.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Jingtong_Yu/'>Jingtong Yu, Valley Catholic Middle School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Ethan_Zhang.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Ethan_Zhang/'>Ethan Zhang, Westview High School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2021_blank.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Leo_Zhao/'>Leo Zhao, Camas High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Fiona_Zou.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Fiona_Zou/'>Fiona Zou, Camas High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Aaron_Guo.jpg
@@ -79,8 +87,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Ray_Yang/'>Ray Yang, Westview High School (Silver Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Lucas_Zhang.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Lucas_Zhang/'>Lucas Zhang, Catlin Gabel School (Silver Award)</a></p>"
-  - image_path: /assets/images/pvsa/2022_Shunkai_Peng.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Shunkai_Peng/'>Shunkai Peng, Southridge High School (Bronze Award)</a></p>"
+  - image_path: /assets/images/pvsa/2022_Annie_Duan.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Annie_Duan/'>Annie Duan, Jesuit High School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Michael_Fu.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Michael_Fu/'>Michael Fu, Sunset High School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Allison_Hu.jpg
