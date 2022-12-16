@@ -5,14 +5,16 @@ permalink: /youthroundtable/
 
 ![]({{ site.url }}/assets/images/communities/youthroundtable_logo3.png)
 
-## 2021年俄勒冈华裔青少年圆桌会
-# 5th Annual Oregon Chinese Youth Roundtable
+## 2022年俄勒冈华裔青少年圆桌会
+# 6th Annual Oregon Chinese Youth Roundtable
 
 ## Date
-12/26/2021 Sunday 2:00 pm - 4:00 pm
+12/31/2022 Saturday 2:00 pm - 4:00 pm
 
 ## Place
-Virtual Zoom Event
+Hope Chinese Charter School  
+3500 SW 104th Ave, Beaverton, OR 97005  
+(Parking: Please only park at school parking lot, on the west side of school building)  
 
 ## Participants
 
@@ -20,42 +22,30 @@ Middle and high school students, college students, and college graduates
 
 ## Registration
 
-Please [register at Zoom](https://us02web.zoom.us/meeting/register/tZwtdumsrz0sHdNyTO9vP1FF-4S5Bt6ot72p), you will receive the login information for the event. (We understand parents can register the event for their children especially when they are under eighteen years old.)
+Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_mgEl-2QBBaTOLoIwdgKmCw3K9CXkgN2Kg/viewform?usp=sf_link), we will update you the latest update about the event. (We understand parents can register the event for their children especially when they are under eighteen years old.)
 
 ## Agenda 2:00 pm - 4:00 pm
 
-### Presentation of (1)Local Chinese American Community, (2)OCC as Community Organization, and (3)Youth Engagement
+*We are not looking for answers but conversations with the following questions:*
 
-by Hongcheng Zhao (西北兆)
+Most memorable things about your school and/or personal life in 2021?
 
-All we do is to make our children proud of being part of this community. Our youth have become an important part of rebuilding our community.
+Do you feel more proud of being a Chinese American and part of the community?
 
-### Reflections of High School Years under Pandemic
+Your story about taking steps to understand the life outside school?
 
-by high school seniors who just committed to the schools from their early action/decision applications
+What is your suggestions to change what we Chinese Americans have been facing: socially invisible and politically under-represented?
 
-Successfully responding to the pandemic so often falls outside the classrooms.
+What can we as the community do better to support our youth? resources, mental health, opportunities?
 
-### From Actions to Motivation: Volunteerism
-
-by President's Volunteer Service Award recipients
-
-Regardless of what you want to get motivated about, the answer always begins with action. Action is the impetus for motivation. Action is the precursor to motivation.
-
-### Breakout Sessions
-
-You can choose the group when being prompted
-
-1. Q&A on Community, OCC and Parenting  
-2. Positively Handling Impact from Pandemic at Schools  
-3. Volunteering  
-4. Meeting Up with Post Graduates for Career and their Reflections  
+Ceremony: congratulations to the 56 PVSA recipients OCC helped certify in 2022!
 
 ### Logo designed by [Olando Lin](https://www.linkedin.com/in/olando-lin-3696ab37/)
 
 ## Archive
 
-2020 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2020.pdf) | [Recap](http://pdxchinese.org/youth-roundtable-2020/)  
+2021 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2021.pdf)  
+2020 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2020.pdf)  
 2019 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2019.pdf) | [Recap](http://pdxchinese.org/youth-roundtable-2019-recap/)  
 2018 Youth Roundtable [Agenmda](/assets/pdf/youth-roundtable-2018.pdf) | [Recap](http://pdxchinese.org/youth-roundtable-2018-recap/)  
 2017 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2017.pdf) | [Recap](http://pdxchinese.org/youth-roundtable-2017-recap/)  

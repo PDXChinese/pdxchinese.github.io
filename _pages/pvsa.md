@@ -67,7 +67,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Jingtong_Yu/'>Jingtong Yu, Valley Catholic Middle School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Ethan_Zhang.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Ethan_Zhang/'>Ethan Zhang, Westview High School (Gold Award)</a></p>"
-  - image_path: /assets/images/pvsa/2021_blank.jpg
+  - image_path: /assets/images/pvsa/2021_Leo_Zhao.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Leo_Zhao/'>Leo Zhao, Camas High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Fiona_Zou.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Fiona_Zou/'>Fiona Zou, Camas High School (Gold Award)</a></p>"
