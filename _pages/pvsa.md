@@ -111,7 +111,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Eliza_Wang/'>Eliza Wang, Lake Oswego High School (Bronze Award)</a></p>"
 feature_row3:
   - image_path: /assets/images/pvsa/2022_Emily_Shang.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Emily_Shang/'>Emily Shang, Oregon Episcopal School (Gold Award)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Emily_Shang/'>Emily Shang, Oregon Episcopal School (Bronze Award)</a></p>"
 ---
 
 {% include feature_row id="feature_row1"%}
