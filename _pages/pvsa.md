@@ -19,7 +19,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Theodore_Guo/'>Theodore Guo, Jesuit High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Katie_Jin.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Katie_Jin/'>Katie Jin, Catlin Gabel School (Gold Award)</a></p>"
-  - image_path: /assets/images/pvsa/2021_Amy_Kang.jpg
+  - image_path: /assets/images/pvsa/2022_Amy_Kang.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Amy_Kang/'>Amy Kang, Jesuit High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Erika_Leung.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Erika_Leung/'>Erika Leung, Lincoln High School (Gold Award)</a></p>"
@@ -67,7 +67,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Jingtong_Yu/'>Jingtong Yu, Valley Catholic Middle School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Ethan_Zhang.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Ethan_Zhang/'>Ethan Zhang, Westview High School (Gold Award)</a></p>"
-  - image_path: /assets/images/pvsa/2021_Leo_Zhao.jpg
+  - image_path: /assets/images/pvsa/2022_Leo_Zhao.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Leo_Zhao/'>Leo Zhao, Camas High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Fiona_Zou.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Fiona_Zou/'>Fiona Zou, Camas High School (Gold Award)</a></p>"
@@ -83,6 +83,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Sophia_Wang/'>Sophia Wang, West Linn School (Silver Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Ziyue_Wang.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Ziyue_Wang/'>Ziyue Wang, International School of Beaverton (Silver Award)</a></p>"
+  - image_path: /assets/images/pvsa/2022_Daniel_Xian.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Daniel_Xian/'>Daniel_Xian, Catlin Gabel School (Silver Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Ray_Yang.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Ray_Yang/'>Ray Yang, Westview High School (Silver Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Lucas_Zhang.jpg
@@ -93,6 +95,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Michael_Fu/'>Michael Fu, Sunset High School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Allison_Hu.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Allison_Hu/'>Allison Hu, West Sylvan Middle School (Bronze Award)</a></p>"
+  - image_path: /assets/images/pvsa/2022_Audrey_Hu.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Audrey_Hu/'>Audrey Hu, Lincoln High School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Jayden_Huang.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Jayden_Huang/'>Jayden Huang, Sunset High School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Ethan_Li.jpg
