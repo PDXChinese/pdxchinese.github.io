@@ -40,7 +40,9 @@ What can we as the community do better to support our youth? resources, mental h
 
 **Ceremony:** congratulations to the 53 PVSA recipients OCC helped certify in 2022!
 
-Social time -- to get to know the students run organizations.
+Social time -- get to know the students-run organizations.
+
+Parents are welcome to social in a separate classroom during the event. 
 
 ### Logo designed by [Olando Lin](https://www.linkedin.com/in/olando-lin-3696ab37/)
 
