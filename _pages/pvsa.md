@@ -83,8 +83,6 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Sophia_Wang/'>Sophia Wang, West Linn School (Silver Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Ziyue_Wang.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Ziyue_Wang/'>Ziyue Wang, International School of Beaverton (Silver Award)</a></p>"
-  - image_path: /assets/images/pvsa/2022_Daniel_Xian.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Daniel_Xian/'>Daniel_Xian, Catlin Gabel School (Silver Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Ray_Yang.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Ray_Yang/'>Ray Yang, Westview High School (Silver Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Lucas_Zhang.jpg
