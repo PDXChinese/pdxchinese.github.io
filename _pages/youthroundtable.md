@@ -38,7 +38,9 @@ What is your suggestions to change what we Chinese Americans have been facing: s
 
 What can we as the community do better to support our youth? resources, mental health, opportunities?
 
-Ceremony: congratulations to the 56 PVSA recipients OCC helped certify in 2022!
+**Ceremony:** congratulations to the 53 PVSA recipients OCC helped certify in 2022!
+
+Social time -- to get to know the students run organizations.
 
 ### Logo designed by [Olando Lin](https://www.linkedin.com/in/olando-lin-3696ab37/)
 
