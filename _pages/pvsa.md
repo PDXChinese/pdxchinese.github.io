@@ -95,8 +95,6 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Michael_Fu/'>Michael Fu, Sunset High School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Allison_Hu.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Allison_Hu/'>Allison Hu, West Sylvan Middle School (Bronze Award)</a></p>"
-  - image_path: /assets/images/pvsa/2022_Audrey_Hu.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Audrey_Hu/'>Audrey Hu, Lincoln High School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Jayden_Huang.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Jayden_Huang/'>Jayden Huang, Sunset High School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Ethan_Li.jpg
