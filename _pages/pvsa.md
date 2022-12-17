@@ -26,7 +26,7 @@ feature_row2:
   - image_path: /assets/images/pvsa/2022_Ethan_Li.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Ethan_Li/'>Ethan Li, Union High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Leon_Liu.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Leon_Liu/'>Leon Liu, Jesuit High School (Gold Award)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Leon_Liu/'>Leon Liu, Catlin Gabel School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Renee_Liu.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Renee_Liu/'>Renee Liu, Lake Oswego High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Monica_Luo.jpg
