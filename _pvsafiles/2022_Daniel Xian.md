@@ -7,7 +7,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Daniel Xian - Gold Award
+# Daniel Xian - Silver Award
 
 **School: Catlin Gabel School**  
 **Category: Teens (11-15)**  
