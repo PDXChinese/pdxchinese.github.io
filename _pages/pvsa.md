@@ -23,6 +23,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Amy_Kang/'>Amy Kang, Jesuit High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Erika_Leung.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Erika_Leung/'>Erika Leung, Lincoln High School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2022_Ethan_Li.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Ethan_Li/'>Ethan Li, Union High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Leon_Liu.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Leon_Liu/'>Leon Liu, Jesuit High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Renee_Liu.jpg
@@ -97,8 +99,6 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Audrey_Hu/'>Audrey Hu, Lincoln High School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Jayden_Huang.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Jayden_Huang/'>Jayden Huang, Sunset High School (Bronze Award)</a></p>"
-  - image_path: /assets/images/pvsa/2022_Ethan_Li.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Ethan_Li/'>Ethan Li, Union High School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Michelle.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Michelle/'>Michelle, ... Elementary School (Bronze Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Susan_Moseley.jpg

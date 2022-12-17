@@ -13,4 +13,6 @@ feature_row1:
 **Category: Young Adults (16-25)**  
 **Hours: 257**  
 
+Amy is a senior at Jesuit High School. She is deeply interested in doing service work that spreads awareness and brings people together. Outside of school, Amy has interned with Environment Oregon to spread awareness about plastic pollution and build grassroots support for a bill banning plastic foam in Oregon. She has also become involved in her cultural community through OCC events and initiating the Jade Dance Team. In her free time, she enjoys painting, cooking, and getting to know her neighbors and the people who make up her community.
+
 Oregon Chinese Coalition is proud to join the President of the United States in recognizing the volunteers who consistently take the time to make a difference in the lives of others. Therefore, it is a great honor to present the President's Volunteer Service Award (PVSA) to Amy Kang.
