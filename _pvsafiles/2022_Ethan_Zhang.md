@@ -7,13 +7,13 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Ethan Zhang - Gold Award
+# Ethan (Yixiang) Zhang - Gold Award
 
 **School: Westview High School**  
 **Category: Teens (11-15)**  
 **Hours: 105**  
 
-Ethan is currently a 10th grader at Westview High School. During the current year, he volunteered in many areas, including cybersecurity. In previous years during the pandemic, he joined outreach efforts in order to give education to a wider audience on a broad range of topics. This year, he continued his efforts in volunteering. 
+Ethan is currently a 10th grader at Westview High School. During the current year, he volunteered in many areas, including cybersecurity. In previous years during the pandemic, he joined outreach efforts in order to give education to a wider audience on a broad range of topics. This year, he continued his efforts in volunteering.
 
 Ethan has always been interested in the field of computer science ever since his introduction. In particular, he has been interested in cybersecurity. In recent years, cybersecurity has become a burgeoning field and topic in the world among most people. This year, he organized and hosted many sessions to educate people about a variety of cybersecurity topics. In the summer, he led various outreach and cooperation efforts with other fellow students in order to better people’s understanding of cybersecurity,  as well as doing a few presentations himself. This summer education program is four-week long with eight sessions that lasted two hours each. This helped instill basic foundations and knowledge of cybersecurity in many students, an asset that would surely greatly benefit them in the future.
 

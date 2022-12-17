@@ -7,7 +7,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Lucas Zhang - Silver Award
+# Lucas (Haoxiang) Zhang - Silver Award
 
 **School: Catlin Gabel School**  
 **Category: Teens (11-15)**  

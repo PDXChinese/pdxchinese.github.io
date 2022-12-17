@@ -1,0 +1,18 @@
+---
+title: " "
+feature_row1:
+  - image_path: /assets/images/pvsa/2022_Sophia_You.jpg
+  - image_path: /assets/images/activities/year_2022.jpg
+---
+
+{% include feature_row id="feature_row1"%}
+
+# Sophia You - Gold Award
+
+**School: Sunset High School**  
+**Category: Teens (11-15)**  
+**Hours: 178**  
+
+Sophia is a sophomore at Sunset High School. She's always been passionate about giving back to her community, which is why she started volunteering at Cedar Mill Community Library. She also loves playing the piano for visitors at Doernbecher's Children's Hospital and chatting with the young inpatients. At school, Sophia helps lead Science Olympiad and the Sunset National Pediatric Cancer Foundation and is also involved in Red Cross, National Honor Society, and Speech and Debate. She rows competitively for ORU and, in her free time, draws, reads, and sings at the piano.
+
+Oregon Chinese Coalition is proud to join the President of the United States in recognizing the volunteers who consistently take the time to make a difference in the lives of others. Therefore, it is a great honor to present the President's Volunteer Service Award (PVSA) to Sophia You.
