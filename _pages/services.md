@@ -23,10 +23,10 @@ feature_row1:
 
 ## 疫苗接种相关信息
 
+> 搜寻全免费从**检测**到**开处方**到**取药**点：[English](https://www.covid.gov/), [中文](https://www.covid.gov/zh/)
 > OHA COVID-19[最新更新](https://govstatus.egov.com/OR-OHA-COVID-19)  
 > DHS提供的[各类与COVID-9相关资源](https://govstatus.egov.com/or-dhs-community-resources)  
 > 地方疫苗接种专场： [Multnomah County](https://www.multco.us/novel-coronavirus-covid-19/upcoming-covid-19-vaccination-clinics), [Washington County](https://www.co.washington.or.us/HHS/CommunicableDiseases/COVID-19/vaccine.cfm), [Clackamas County](https://www.clackamas.us/coronavirus/vaccine)  
-> 病毒感染检测点：[按照地址搜索附近检测点](https://curative.com/)
 
 OCC团队将帮助社区成员解决为疫苗接种所在预定，翻译，及交通方面遇到的各种困难，我们的目的就是希望有资格接受疫苗的社区成员都能够尽快接种，最大程度提高社区成员的群体防疫能力。
 
@@ -40,8 +40,6 @@ OCC团队将帮助社区成员解决为疫苗接种所在预定，翻译，及�
 
 > 华盛顿郡精神心理健康救助计划(Mental Health & Behavior Health)将用于帮助社区成员因为受疫情影响而引起的精神心理健康问题，我们会展开多方面活动，包括专业人员[每星期讲座](http://pdxchinese.org/weeklytalk/)，[互助计划](http://pdxchinese.org/mentalhealth/)，[受影响家庭救助计划](mailto:health@pdxchinese.org?subject=[Mental Health Assistance)等。
 
-> 华盛顿郡居民食品补贴计划 (7/1/2022-12/31/2022)，目前[申请链接](https://docs.google.com/forms/d/e/1FAIpQLSc-_biqFtX32JEG6TXGnd-jppQ5MKKa8y54s2RBK88ZL6eKww/viewform?usp=sf_link)暂时关闭，如有余额，会再打开接受申请。
-
 OCC会继续为华人社区申请政府补贴计划，与此同时，如果我们的支持计划暂时无法帮助到您，您可以访问[211网站](https://covid19.211info.org/)，那上面有当地最新最全的补助计划。
 
 ## 种族仇恨事件举报电话
@@ -54,9 +52,3 @@ OCC会继续为华人社区申请政府补贴计划，与此同时，如果我�
 ## 联系我们
 
 如果您希望进一步了解这些项目，或者是提出建议，欢迎联系我们，除了拨打热线电话之外，也可以联系 (503)709-3119。我们保证您的所有信息都会得到保护，您的隐私权会得到充分的尊重。
-
-## 鸣谢
-
-诚挚感谢以下政府部门和社区组织为华人社区提供的资金支持
-
-{% include feature_row id="feature_row1"%}
