@@ -13,9 +13,9 @@ feature_row1:
 **Category: Teens (11-15)**  
 **Hours: 118**  
 
-Ethan is a sophomore at Westview High School. After interacting with seniors for the first time at the Clay Street Table food pantry as well as seeing the effects of the pandemic on the elderly and their ability to obtain essential needs from stores, he sought to be a part of the solution.
+Ethan is a sophomore at Westview High School. After interacting with seniors for the first time at the [Clay Street Table](https://claystreettable.org/) food pantry as well as seeing the effects of the pandemic on the elderly and their ability to obtain essential needs from stores, he sought to be a part of the solution.
 
-Fortunately one of his school friends had founded an organization, PDX Concierge, which aimed to provide a delivery service for those affected by the pandemic. After doing countless deliveries over the summer, Ethan and a friend inherited the role of Co-Presidents of the organization and has ever since managed the task of collecting and completing orders, interacting with the customers, and seeking to gain more volunteers. Currently he is working towards forming partnerships between food banks across Portland to provide a delivery service for those who are unable to travel to food pantries.
+Fortunately one of his school friends had founded an organization, [PDX Concierge](https://www.pdxdeliver.com/), which aimed to provide a delivery service for those affected by the pandemic. After doing countless deliveries over the summer, Ethan and a friend inherited the role of Co-Presidents of the organization and has ever since managed the task of collecting and completing orders, interacting with the customers, and seeking to gain more volunteers. Currently he is working towards forming partnerships between food banks across Portland to provide a delivery service for those who are unable to travel to food pantries.
 
 Additionally, Ethan worked with his friend over the summer to present a free curriculum educating the youth about basic cybersecurity principals. Together they developed multiple interactive and compelling lesson plans and taught at different BSD run summer programs.
 
