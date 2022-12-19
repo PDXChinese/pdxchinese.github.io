@@ -32,7 +32,7 @@ feature_row2:
   - image_path: /assets/images/pvsa/2022_Monica_Luo.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Monica_Luo/'>Monica Luo, International School of Beaverton (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Shunkai_Peng.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Shunkai_Peng/'>Shunkai Peng, Southridge High School (Bronze Award)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Shunkai_Peng/'>Shunkai Peng, Southridge High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Eleanor_Song.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Eleanor_Song/'>Eleanor Song, Sunset High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Freya_Sticka.jpg
