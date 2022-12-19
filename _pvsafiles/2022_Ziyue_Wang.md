@@ -17,7 +17,7 @@ Volunteering for different organizations to help the community fills Yueyue with
 
 She is currently attending 8th grade in the International School of Beaverton, the number one high school in Oregon and the second best middle school in Oregon. She has done countless community service hours for both the Oregon Chinese Coalition and other organizations. Many of the volunteering she has done in the Oregon Chinese Coalition has been centered at Chinatown inside the heart of Portland.
 
-Some volunteering activities she has participated in are hanging up lanterns at Chinatown, repainting the walls of the historic building, helping with vaccine boosters, distributing food to senior citizens, collecting bottles for Camp Meadowood, volunteering to host a crafts table at Chinese Festival in Pioneer Courthouse square, and wrapping gifts at Elk Lodge.
+Some volunteering activities she has participated in are [hanging up lanterns at Chinatown](https://pdxchinese.org/chinatown/newyear/2020-09-20-chinatown_lantern_2020/), [repainting the walls of the historic building](https://pdxchinese.org/chinatown/wonglaundry/2022-01-23-repainting_wong_laundry_2022/), [helping with vaccine boosters](https://pdxchinese.org/vaccination_clinic_lecare/), distributing food to senior citizens, collecting bottles for Camp Meadowood, volunteering to [host a crafts table at Chinese Festival](https://pdxchinese.org/chinese-festival-2022/) in Pioneer Courthouse square, and wrapping gifts at Elk Lodge.
 
 Other non - Oregon Chinese Coalition volunteering hours she has done are helping box food at the food bank, cooking food at hospitals to feed the patients, and collecting groceries for senior citizens who don’t have the ability to purchase these items themselves.
 

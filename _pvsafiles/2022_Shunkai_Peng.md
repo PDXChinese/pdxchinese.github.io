@@ -13,7 +13,7 @@ feature_row1:
 **Category: Young Adults (16-25)**  
 **Hours: 293**  
 
-Shunkai is a 12th-grade high school student. He immigrated to the United States in 2018 and started his reading career. He likes reading and listening to music. He is a big sports fan, including swimming and table tennis. At the same time, he is a professional chess player. He won the state championship title in Oregon for three times and led his high school to win the team championship and third place in the Oregon State High School Competition.
+Shunkai is a 12th-grade high school student. He immigrated to the United States in 2018 and started his reading career. He likes reading and listening to music. He is a big sports fan, including swimming and table tennis. At the same time, he is a professional chess player. He [won the state championship title in Oregon](https://www.facebook.com/SRHSSkyhawks/photos/a.204441832905698/4688734364476400/?type=3) for three times and led his high school to win the team championship and third place in the Oregon State High School Competition.
 
 In addition to these, he also likes to be a volunteer very much. Through school studies and parental teachings, he has realized that more people need help, so he is willing to help some sick and weak people, and he also likes to teach others to play chess.
 
