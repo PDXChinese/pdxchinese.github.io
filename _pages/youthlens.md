@@ -36,6 +36,8 @@ Michelle Wang, International School of Beaverton
 
 ![]({{ site.url }}/assets/images/WeChat Image_20210902093137.jpg)
 
+![]({{ site.url }}/assets/images/WeChat Image_20221220001022.jpg)
+
 ### Resources
 
 > [The Youth's Lens](https://theyouthslens.com/)  
