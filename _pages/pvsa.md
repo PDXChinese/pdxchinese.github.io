@@ -53,6 +53,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Stella_Wang/'>Stella Wang, Jesuit High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Justin_Xia.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Justin_Xia/'>Justin Xia, Catlin Gabel School (Gold Award)</a></p>"
+  - image_path: /assets/images/pvsa/2022_Dianiel_Xian.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Daniel_Xian/'>Daniel Xian, Catlin Gabel School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Austin_Yan.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Austin_Yan/'>Austin Yan, Lincoln High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Arnold_Yang.jpg
@@ -118,7 +120,7 @@ feature_row3:
 
 {% include feature_row id="feature_row1"%}
 
-Congratulations to the following fifty-four (54) outstanding teens and young adults from our community OCC has helped certify to receive the President’s Volunteer Service Award (PVSA) and the Community Volunteer Service Award (CVSA). Together they have completed 7,200 volunteer hours in a single year!
+Congratulations to the following fifty-five (55) outstanding teens and young adults from our community OCC has helped certify to receive the President’s Volunteer Service Award (PVSA) and the Community Volunteer Service Award (CVSA). Together they have completed 7,354 volunteer hours in a single year!
 
 They not only participated in the community services, but also initiated new projects at schools and took on leadership role in their daily life. Through volunteering they were able to engage with their communities at deeper and personal level. The engagement in turn helped them to find their sense of belonging, to connect and to claim their Chinese American identity with pride. They have never felt so strongly about volunteerism and serving the Chinese American community.
 
