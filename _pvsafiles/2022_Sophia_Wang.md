@@ -13,9 +13,9 @@ feature_row1:
 **Category: Young Adults (16-25)**  
 **Hours: 204.5**  
 
-Sophia is a senior at West Linn High School. She started volunteering at OHSU as a remote volunteer for the Pathology department. She participated in a project to compare manual and AI analyzed flow cytometry data. Flow cytometry is used to diagnose and monitor immunologic disorders and status. She wrote programs to organize the data and manually analyzed it to help train the AI.
+Sophia is a senior at West Linn High School. She started volunteering at OHSU as a remote volunteer for the [Pathology department](https://www.ohsu.edu/school-of-medicine/pathology). She participated in a project to compare manual and AI analyzed flow cytometry data. Flow cytometry is used to diagnose and monitor immunologic disorders and status. She wrote programs to organize the data and manually analyzed it to help train the AI.
 
-Sophia also volunteered in-person at OHSU in Doernbecher. She did arts and crafts with children who were waiting for their appointments. She helped keep children entertained while also being safe. She met a lot of families from all across the West Coast and got to know some of the healthcare workers working there.
+Sophia also volunteered in-person at OHSU in [Doernbecher](https://www.ohsu.edu/doernbecher?utm_source=gmb&utm_medium=organic&utm_content=LocationDoernbecher). She did arts and crafts with children who were waiting for their appointments. She helped keep children entertained while also being safe. She met a lot of families from all across the West Coast and got to know some of the healthcare workers working there.
 
 It was interesting to be able to volunteer in different areas of OHSU. She learned a lot from both opportunities
 
