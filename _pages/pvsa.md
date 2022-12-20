@@ -53,7 +53,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Stella_Wang/'>Stella Wang, Jesuit High School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Justin_Xia.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Justin_Xia/'>Justin Xia, Catlin Gabel School (Gold Award)</a></p>"
-  - image_path: /assets/images/pvsa/2022_Dianiel_Xian.jpg
+  - image_path: /assets/images/pvsa/2022_Daniel_Xian.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Daniel_Xian/'>Daniel Xian, Catlin Gabel School (Gold Award)</a></p>"
   - image_path: /assets/images/pvsa/2022_Austin_Yan.jpg
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Austin_Yan/'>Austin Yan, Lincoln High School (Gold Award)</a></p>"

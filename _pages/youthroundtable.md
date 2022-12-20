@@ -26,23 +26,27 @@ Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_
 
 ## Agenda 2:00 pm - 4:00 pm
 
-*We are not looking for answers but conversations with the following questions:*
+**Prompts:** We are not looking for answers but conversations with the following questions
 
 Most memorable things about your school and/or personal life in 2021?
 
-Do you feel more proud of being a Chinese American and part of the community?
+Do you feel more proud of being a Chinese American and part of the community today?
 
 Your story about taking steps to understand the life outside school?
 
-What is your suggestions to change what we Chinese Americans have been facing: socially invisible and politically under-represented?
+What are your suggestions to change the status quo for our Chinese Americans: socially invisible and politically under-represented?
 
 What can we as the community do better to support our youth? resources, mental health, opportunities?
 
-**Ceremony:** congratulations to the 53 PVSA recipients OCC helped certify in 2022!
+**PVSA Ceremony:** Congratulations to the 55 PVSA recipients OCC helped certify in 2022!
 
-Social time -- get to know the students-run organizations.
+**Special Presentation:** How to market yourself through a headshot?
 
-Parents are welcome to social in a separate classroom during the event. 
+by well-known photographer [Iris Hu](https://www.lightbyiris.com/).
+
+**Social time:** Get to know the students-run organizations.
+
+*Parents are welcome to social in a separate classroom during the event.*
 
 ### Logo designed by [Olando Lin](https://www.linkedin.com/in/olando-lin-3696ab37/)
 
