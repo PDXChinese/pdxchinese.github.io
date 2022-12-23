@@ -5,6 +5,8 @@ permalink: /lunarnewyear/
 
 # 2023【常回家看看】社区春节联欢活动
 
+![]({{ site.url }}/assets/images/activities/cny2023.jpg)
+
 地点：Kirkland Union Manor 老人公寓 (3530 SE 84th Ave, Portland, OR 97266)  
 时间：2023年1月14日-15日 (周末)  
 
