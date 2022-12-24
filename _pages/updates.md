@@ -60,28 +60,28 @@ Palisades World Language School (Lake Oswego)
 
 **1/22/2023**
 
-[Milwaukie Community Center](https://ncprd.com/wp-content/uploads/2022/12/MCC-Connection_Jan_Feb_2023_Final_singles.pdf)
+[Milwaukie Community Center](https://ncprd.com/wp-content/uploads/2022/12/MCC-Connection_Jan_Feb_2023_Final_singles.pdf) (Milwaukie)
 
 **1/27/2023**
 
-Bolton Elementary School
+Bolton Elementary School (West Linn)
 
 **1/29/2023**
 
-Lan Su Chinese Garden
+Lan Su Chinese Garden (Portland Chinatown)
 
 **February 2023**
 
-Lakeridge High School
+Lakeridge High School (Lake Oswego)
 
 **February 2023**
 
-International School of Beaverton
+International School of Beaverton (Beaverton)
 
 **3/4/2023**
 
-PSU Hong Kong Student Association
+PSU Hong Kong Student Association (Portland)
 
 **6/21/2023**
 
-French American International School
+French American International School (Portland)
