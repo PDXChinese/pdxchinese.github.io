@@ -8,41 +8,42 @@ permalink: /updates/
 
 ### 2022年青少年圆桌会 / Community Youth Roundtable
 
-活动日期: 12/31/2022 2-4pm
+活动日期/Date: 12/31/2022 2-4pm
 
-详情：[https://pdxchinese.org/youthroundtable/](https://pdxchinese.org/youthroundtable/)
+详情/Details：[https://pdxchinese.org/youthroundtable/](https://pdxchinese.org/youthroundtable/)
 
 [报名链接](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_mgEl-2QBBaTOLoIwdgKmCw3K9CXkgN2Kg/viewform?usp=sf_link)
 
 ### 2023年青少年绘画竞赛 / Community Youth Art Contest
 
-截止日期：1/9/2023
+截止日期/Deadline：1/9/2023
 
-详情：[https://pdxchinese.org/artcontest/](https://pdxchinese.org/artcontest/)
+详情/Details：[https://pdxchinese.org/artcontest/](https://pdxchinese.org/artcontest/)
 
 [报名链接](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)
 
 ### 2023【常回家看看】社区春节联欢活动 / Community Chinese New Year Celebration
 
-活动日期: 1/14/2023 - 1/15/2023
+活动日期/Dates: 1/14/2023 - 1/15/2023
 
-详情：[https://pdxchinese.org/lunarnewyear/](https://pdxchinese.org/lunarnewyear/)
+详情/Details：[https://pdxchinese.org/lunarnewyear/](https://pdxchinese.org/lunarnewyear/)
 
-[报名链接](https://docs.google.com/forms/d/e/1FAIpQLSerbP7209LCkipAJUhnEdkvN0S-N-lbFywEG5Jc7MZtjexAlA/viewform?usp=sf_link)
+[报名链接/Registration](https://docs.google.com/forms/d/e/1FAIpQLSerbP7209LCkipAJUhnEdkvN0S-N-lbFywEG5Jc7MZtjexAlA/viewform?usp=sf_link)
 
 # 常年活动 / Year Around Activities
 
-### 青少年视角 / Youth Length
+### 我的生活，我的故事 / Real People, Real Story
 
-详情：[https://pdxchinese.org/youthlens/](https://pdxchinese.org/youthlens/)
+详情/Details：[https://pdxchinese.org/youthlens/](https://pdxchinese.org/youthlens/)
 
-[报名链接](https://docs.google.com/forms/d/e/1FAIpQLScK3ahKKd_XjBtZNlOqSQhaRgjLDolodXpg9dIBx3lLu3mbWg/viewform?usp=sf_link)
+[报名链接/Application](https://docs.google.com/forms/d/e/1FAIpQLScK3ahKKd_XjBtZNlOqSQhaRgjLDolodXpg9dIBx3lLu3mbWg/viewform?usp=sf_link)
+[采访当地华人推荐表/Recommendation Form](https://docs.google.com/forms/d/e/1FAIpQLSconI7lF4QMz0Wvl34UQhkkMm9pq6PuIGGvP7Ek3Ie8dzvU9A/viewform?usp=sf_link)
 
 ### 庇护所提供晚餐活动 / Meal Provider for the Clark Center
 
 请参加《OCC庇护所晚餐群》
 
-[报名链接](https://signup.com/client/invitation2/secure/114701245205736806/false#/invitation)
+[报名链接/Registration](https://signup.com/client/invitation2/secure/114701245205736806/false#/invitation)
 
 # 其他活动 / Other Activities
 
