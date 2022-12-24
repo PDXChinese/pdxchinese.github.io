@@ -4,7 +4,7 @@ permalink: /updates/
 
 ---
 
-# 近期年度活动
+# 近期年度活动 / Recent Annual Events
 
 ### 2022年青少年圆桌会 / Community Youth Roundtable
 
@@ -30,7 +30,7 @@ permalink: /updates/
 
 [报名链接](https://docs.google.com/forms/d/e/1FAIpQLSerbP7209LCkipAJUhnEdkvN0S-N-lbFywEG5Jc7MZtjexAlA/viewform?usp=sf_link)
 
-# 常年活动
+# 常年活动 / Year Around Activities
 
 ### 青少年视角 / Youth Length
 
@@ -44,11 +44,9 @@ permalink: /updates/
 
 [报名链接](https://signup.com/client/invitation2/secure/114701245205736806/false#/invitation)
 
-# 其他活动
+# 其他活动 / Other Activities
 
-### OCC参加或赞助华人社区外春节或文化活动
-
-欢迎社区演出团体和个人踊跃参加这些活动，活动安排一般会在《OCC演出联络群》进行。
+### OCC参加或赞助华人社区外春节或文化活动 / OCC Sponsored or Participated Activities
 
 **1/20/2023**
 
