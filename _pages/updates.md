@@ -32,12 +32,12 @@ permalink: /updates/
 
 # 常年活动 / Year Around Activities
 
-### 我的生活，我的故事 / Real People, Real Story
+### 口述历史 / Oral History： 我的生活，我的故事 / Real People, Real Story
 
 详情/Details：[https://pdxchinese.org/youthlens/](https://pdxchinese.org/youthlens/)
 
-[报名链接/Application](https://docs.google.com/forms/d/e/1FAIpQLScK3ahKKd_XjBtZNlOqSQhaRgjLDolodXpg9dIBx3lLu3mbWg/viewform?usp=sf_link)
-[采访当地华人推荐表/Recommendation Form](https://docs.google.com/forms/d/e/1FAIpQLSconI7lF4QMz0Wvl34UQhkkMm9pq6PuIGGvP7Ek3Ie8dzvU9A/viewform?usp=sf_link)
+[报名链接/Application](https://docs.google.com/forms/d/e/1FAIpQLScK3ahKKd_XjBtZNlOqSQhaRgjLDolodXpg9dIBx3lLu3mbWg/viewform?usp=sf_link)  
+[采访当地华人推荐表/Recommendation Form](https://docs.google.com/forms/d/e/1FAIpQLSconI7lF4QMz0Wvl34UQhkkMm9pq6PuIGGvP7Ek3Ie8dzvU9A/viewform?usp=sf_link)  
 
 ### 庇护所提供晚餐活动 / Meal Provider for the Clark Center
 
