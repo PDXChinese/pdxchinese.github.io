@@ -6,14 +6,15 @@ permalink: /updates/
 
 # 近期年度活动 / Recent Annual Events
 
+```diff
 ### 2022年青少年圆桌会 / Community Youth Roundtable
 
-```diff
-- 活动日期/Date: 12/31/2022 2-4pm
-```
+活动日期/Date: 12/31/2022 2-4pm
+
 详情/Details：[https://pdxchinese.org/youthroundtable/](https://pdxchinese.org/youthroundtable/)
 
 [报名链接](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_mgEl-2QBBaTOLoIwdgKmCw3K9CXkgN2Kg/viewform?usp=sf_link)
+```
 
 ### 2023年青少年绘画竞赛 / Community Youth Art Contest
 
