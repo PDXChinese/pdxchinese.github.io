@@ -12,9 +12,10 @@ permalink: /youthroundtable/
 12/31/2022 Saturday 2:00 pm - 4:00 pm
 
 ## Place
-Hope Chinese Charter School  
-3500 SW 104th Ave, Beaverton, OR 97005  
-(Parking: Please only park at school parking lot, on the west side of school building)  
+
+Beaverton City Hall Building  
+12725 SW Millikan Way, Beaverton, OR 97005  
+Take the elevator to the 3rd floor, to the double doors on the left.  
 
 ## Participants
 
