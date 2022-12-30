@@ -15,7 +15,7 @@ permalink: /youthroundtable/
 
 Beaverton City Hall Building  
 12725 SW Millikan Way, Beaverton, OR 97005  
-Take the elevator to the 3rd floor, to the double doors on the left.  
+Take the elevator to the 3rd floor, to the double doors on the right, look for Training Center at Suite 390.  
 
 **Parking:** Please park in the parking structure which is free and located right next to the City Hall.
 
