@@ -31,7 +31,7 @@ Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_
 
 **PVSA Ceremony:** Congratulations to the 56 PVSA recipients OCC helped certify in 2022!
 
-**Roundtable Topics:** We are not looking for answers but conversations with the following questions
+**Roundtable Topics as Registered Participants Suggested:**
 
 > Environmental and Climate Justice  
 > Invite college students to share their stories  
@@ -47,7 +47,7 @@ What can we as the community do better to support our youth? resources, opportun
 
 **Special Presentation:** How to market yourself through a headshot?
 
-by well-known photographer [Iris Hu](https://www.lightbyiris.com/).
+by local expert photographer [Iris Hu](https://www.lightbyiris.com/)
 
 **Social time:** Get to know the students-run organizations.
 

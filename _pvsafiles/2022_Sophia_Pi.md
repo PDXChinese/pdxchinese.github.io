@@ -1,7 +1,7 @@
 ---
 title: " "
 feature_row1:
-  - image_path: /assets/images/pvsa/2021_Sophia_Pi.jpg
+  - image_path: /assets/images/pvsa/2022_Sophia_Pi.jpg
   - image_path: /assets/images/activities/year_2022.jpg
 
 ---
