@@ -45,10 +45,6 @@ Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_
 
 What can we as the community do better to support our youth? resources, opportunities?
 
-**Special Presentation:** How to market yourself through a headshot?
-
-by local expert photographer [Iris Hu](https://www.lightbyiris.com/)
-
 **Social time:** Get to know the students-run organizations.
 
 ### Logo designed by [Olando Lin](https://www.linkedin.com/in/olando-lin-3696ab37/)
