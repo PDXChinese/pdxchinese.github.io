@@ -14,10 +14,10 @@ permalink: /youthroundtable/
 ## Place
 
 Beaverton City Hall Building  
-12725 SW Millikan Way, Beaverton, OR 97005  
+[12725 SW Millikan Way, Beaverton, OR 97005](https://www.google.com/maps/place/12725+SW+Millikan+Way,+Beaverton,+OR+97005/@45.4902609,-122.8091089,17.75z/data=!4m5!3m4!1s0x54950ea1ef9a98ef:0xeaf64a7a978f40a3!8m2!3d45.4900801!4d-122.8078147)  
 Take the elevator to the 3rd floor, to the double doors on the right, look for Training Center at Suite 390.  
 
-**Parking:** Please park in the parking structure which is free and located right next to the City Hall.
+**Parking:** Please park in the [parking structure (called The Round)](https://www.google.com/maps/place/Parking+-+The+Round/@45.4899804,-122.807517,18z/data=!4m5!3m4!1s0x54950f76234719e1:0xeda0c4770a85f1d5!8m2!3d45.4896694!4d-122.80724) which is free and located right next to the City Hall.
 
 ## Participants
 
@@ -33,13 +33,13 @@ Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_
 
 **Roundtable Topics as Registered Participants Suggested:**
 
-> Environmental and Climate Justice  
+> Environmental and climate justice  
 > Invite college students to share their stories  
 > Burnout, mental health stigma  
 > College applications  
 > How can we "bring out" Chinese culture in the US, or represent Chinese culture more accurately?  
-> Volunteer services  
-> More activity in local areas  
+> Why volunteer?  
+> More activities in local areas  
 > Habits that have had a positive effect on your life  
 > High school time management and summer camp  
 
