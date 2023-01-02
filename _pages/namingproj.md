@@ -34,5 +34,13 @@ Oolong
 Kam Wah Chung  
 Taiji  
 Dr Sun Yat Sen  
+Hazel Ying Lee  
+Silk Road  
+Knowing the Fish  
+Goose Hollow  
+Hidden Dragon  
+Poetic Lantern  
+Bing Cherry  
+Wind of Chin  
 
 Suggestion is being accepted with no ending date.
