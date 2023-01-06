@@ -50,6 +50,9 @@ Palisades World Language School (Lake Oswego)
 Bolton Elementary School (West Linn)  
 
 **1/28/2023**  
+[Lunar New Year Celebration at Washington Square](https://www.shopwashingtonsquare.com/Events/Details/556607)
+
+**1/28/2023**  
 [Chinese New Year Gala by Vancouver Chinese Association](https://www.visitvancouverwa.com/event/lunar-new-year/27153/)  
 
 **1/29/2023**  
