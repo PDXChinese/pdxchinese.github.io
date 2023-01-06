@@ -58,7 +58,7 @@ Bolton Elementary School (West Linn)
 **February 2023**  
 Lakeridge High School (Lake Oswego)  
 
-**February 2023**  
+**2/7/2023**  
 International School of Beaverton (Beaverton)  
 
 **3/4/2023**  
