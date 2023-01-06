@@ -32,40 +32,37 @@ permalink: /updates/
 
 # 其他活动 / Other Activities
 
-### OCC参加或赞助华人社区外春节或文化活动 / OCC Sponsored or Participated Activities
+### OCC参加或赞助春节或文化活动 / OCC Sponsored or Participated Chinese New Year or Cultural Activities
 
-**1/20/2023**
+**1/20/2023**  
+Palisades World Language School (Lake Oswego)  
 
-Palisades World Language School (Lake Oswego)
+**1/21/2023**  
+[MAC Market by Asian Heritage Association in Yamhill County](https://www.eventbrite.com/e/lunar-new-year-celebration-tickets-473476941277) (McMinnville)  
 
-**1/21/2023**
+**1/21/2023**  
+[Chinese New Year Gala at Oregon Convention Center by Portland Chinese Times and CCBA]()  
 
-[MAC Market by Asian Heritage Association in Yamhill County](https://www.eventbrite.com/e/lunar-new-year-celebration-tickets-473476941277) (McMinnville)
+**1/22/2023**  
+[Milwaukie Community Center](https://ncprd.com/wp-content/uploads/2022/12/MCC-Connection_Jan_Feb_2023_Final_singles.pdf) (Milwaukie)  
 
-**1/22/2023**
+**1/27/2023**  
+Bolton Elementary School (West Linn)  
 
-[Milwaukie Community Center](https://ncprd.com/wp-content/uploads/2022/12/MCC-Connection_Jan_Feb_2023_Final_singles.pdf) (Milwaukie)
+**1/28/2023**  
+[Chinese New Year Gala by Vancouver Chinese Association](https://www.visitvancouverwa.com/event/lunar-new-year/27153/)  
 
-**1/27/2023**
+**1/29/2023**  
+[Lan Su Chinese Garden (Portland Chinatown)](https://lansugarden.org/things-to-do/ongoing-programs/chinese-new-year/)  
 
-Bolton Elementary School (West Linn)
+**February 2023**  
+Lakeridge High School (Lake Oswego)  
 
-**1/29/2023**
+**February 2023**  
+International School of Beaverton (Beaverton)  
 
-Lan Su Chinese Garden (Portland Chinatown)
+**3/4/2023**  
+PSU Hong Kong Student Association (Portland)  
 
-**February 2023**
-
-Lakeridge High School (Lake Oswego)
-
-**February 2023**
-
-International School of Beaverton (Beaverton)
-
-**3/4/2023**
-
-PSU Hong Kong Student Association (Portland)
-
-**6/21/2023**
-
-French American International School (Portland)
+**6/21/2023**  
+French American International School (Portland)  
