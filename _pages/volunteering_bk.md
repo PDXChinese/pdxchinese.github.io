@@ -27,8 +27,6 @@ Once the documentation is received via email ([volunteer@pdxchinese.org](mailto:
 
 ![]({{ site.url }}/assets/images/communities/pvsa_award.jpg)
 
-![]({{ site.url }}/assets/images/divider.jpg)
-
 # Group Volunteering Opportunities
 
 We will try to list all activities on our [shared community calendar](http://pdxchinese.org/events/)
