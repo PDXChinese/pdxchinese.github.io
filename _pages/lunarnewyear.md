@@ -7,7 +7,7 @@ permalink: /lunarnewyear/
 
 ![]({{ site.url }}/assets/images/activities/cny2023.jpg)
 
-[报名链接](https://docs.google.com/forms/d/e/1FAIpQLSerbP7209LCkipAJUhnEdkvN0S-N-lbFywEG5Jc7MZtjexAlA/viewform?usp=sf_link)
+[义工报名链接](https://docs.google.com/forms/d/e/1FAIpQLSerbP7209LCkipAJUhnEdkvN0S-N-lbFywEG5Jc7MZtjexAlA/viewform?usp=sf_link)
 
 地点：Kirkland Union Manor 老人公寓 (3530 SE 84th Ave, Portland, OR 97266)  
 时间：2023年1月14日-15日 (周末)  
