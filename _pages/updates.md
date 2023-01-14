@@ -34,6 +34,8 @@ permalink: /updates/
 
 ### OCC参加或赞助春节或文化活动 / OCC Sponsored or Participated Chinese New Year or Cultural Activities
 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CeLwb-03MNEFwnPaZlm6LAqtMeFgwOI&ehbc=2E312F" width="640" height="480"></iframe>
+
 **1/14/2023**  
 [Kirkland Union Manor Senior Apartments](https://pdxchinese.org/lunarnewyear/) (SE Portland)  
 
@@ -50,7 +52,7 @@ permalink: /updates/
 [PSU Farmers Market](https://www.portlandfarmersmarket.org/)（SW Portland)  
 
 **1/21/2023**  
-[Chinese New Year Cultural Fair](https://www.oregoncc.org/en/events/2023/01/chinese-new-year-cultural-fair-2023) at Oregon Convention Center by Portland Chinese Times and CCBA]()  
+[Chinese New Year Cultural Fair](https://www.oregoncc.org/en/events/2023/01/chinese-new-year-cultural-fair-2023) (Oregon Convention Center)  
 
 **1/22/2023**  
 [Milwaukie Community Center](https://ncprd.com/wp-content/uploads/2022/12/MCC-Connection_Jan_Feb_2023_Final_singles.pdf) (Milwaukie)  

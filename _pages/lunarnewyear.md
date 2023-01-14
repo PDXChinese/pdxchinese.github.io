@@ -25,6 +25,8 @@ permalink: /lunarnewyear/
 
 演出：大人孩子演出个人和团体皆欢迎，因为场地限制，节目如需动作较大，同时上场人数建议在8人之内。有换衣服的地方，地面是地毯。欢迎和老人们互动。参加演出的人员也鼓励参加帮老人清洗厨房等其他活动。
 
+<iframe width="1094" height="619" src="https://www.youtube.com/embed/nHPlP_ZLX6o" title="苏州民族管弦乐团彭家鹏指挥给波特兰华人拜年" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # 2021 Lifting Hope -- Celebrating Chinese New Year
 
 ![]({{ site.url }}/assets/images/activities/lifting_hope_2021.jpg)
