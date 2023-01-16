@@ -7,14 +7,6 @@ permalink: /updates/
 # 近期年度活动 / Recent Annual Events
 
 
-### 2023【常回家看看】社区春节联欢活动 / Community Chinese New Year Celebration
-
-活动日期/Dates: 1/14/2023 - 1/15/2023
-
-详情/Details：[https://pdxchinese.org/lunarnewyear/](https://pdxchinese.org/lunarnewyear/)
-
-[报名链接/Registration](https://docs.google.com/forms/d/e/1FAIpQLSerbP7209LCkipAJUhnEdkvN0S-N-lbFywEG5Jc7MZtjexAlA/viewform?usp=sf_link)
-
 # 常年活动 / Year Around Activities
 
 ### 口述历史 / Oral History： 我的生活，我的故事 / Real People, Real Story
