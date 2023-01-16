@@ -42,6 +42,9 @@ permalink: /updates/
 **1/20/2023**  
 [Palisades World Language School](https://www.losdschools.org/Domain/1866) (Lake Oswego)  
 
+**1/20/2023**  
+[Hope Chinese Charter School](https://hopeccs.org/) (Beaverton)  
+
 **1/21/2023**  
 [MAC Market by Asian Heritage Association in Yamhill County](https://www.eventbrite.com/e/lunar-new-year-celebration-tickets-473476941277) (McMinnville)  
 
