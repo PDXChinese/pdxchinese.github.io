@@ -37,61 +37,18 @@ Health Share可以为您提供帮助帮助，这里是他们的[中文资料](ht
 [家庭照護者財務手冊](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fchinese.aarp.org%2Fwp-content%2Fuploads%2F2021%2F06%2FAARP_CaregivingFinancialWorkbook_17b_fillable-CHT.pdf&clen=1144784&chunk=true)  
 [瞭解Medicare](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fchinese.aarp.org%2Fwp-content%2Fuploads%2F2021%2F11%2FAARP_MeetMedicare_Booklet_TC_Final.pdf&clen=2786730&chunk=true)  
 
-[管理藥物:](https://chinese.aarp.org/downloads/)
+[管理藥物:](https://chinese.aarp.org/downloads/) -從醫院回到家中的出院計劃 -組織和管理藥物 -藥丸之外：滴眼液膏藥貼和栓劑 -與失智症相關的抗拒服藥（即，當您的家人不願意服藥時該如何應對）-胰島素注射液給藥  
+-服用抗凝血劑 -使用吸入器 -滴眼液給藥  
+[大小便失禁管理](https://chinese.aarp.org/downloads/) -管理失禁：家庭照顧者如何提供協助 -管理居家失禁 -協助病患如廁 -尋求情感支持：協助家人管理失禁 -如何與病患談論失禁問題 -選擇失禁產品 -協助下床困難的病患管理失禁  
+[特殊飲食](https://chinese.aarp.org/downloads/) -特殊飲食：營養基礎知識 -減少鈉攝入 -食物質地調整 -應對食慾不振 -胃管管飼指導方針 -幫助為失智病患餵食  
+[操作專用醫療設備](https://chinese.aarp.org/downloads/) -使用氧氣 -使用霧化吸入器 -使用機械升降機進行轉移 -家庭輸液疑難排解 -預防家庭腹膜透析中出現腹膜炎 -家庭血液透析的血管通路部位護理  
+[傷口護理](https://chinese.aarp.org/downloads/) -傷口護理的一般準則 -壓瘡：預防和皮膚護理 -造口術護理及更換造口袋 -糖尿病足部護理：治療與預防 -護理下肢傷口和蜂窩組織炎 -皮膚撕裂治療  
+[傷行動安全](https://chinese.aarp.org/downloads/) -確保居家行動安全的準備工作 -使用輪椅上下車的基本要點 -如何應對摔倒 -使用助行器或拐杖，以及引導上下樓 -從輔助裝置轉移到浴室或床  
 
--從醫院回到家中的出院計劃  
--組織和管理藥物  
--藥丸之外：滴眼液膏藥貼和栓劑  
--與失智症相關的抗拒服藥（即，當您的家人不願意服藥時該如何應對）  
--胰島素注射液給藥  
--服用抗凝血劑  
--使用吸入器  
--滴眼液給藥  
+### 老年公寓信息
 
-[失禁管理](https://chinese.aarp.org/downloads/)
-
--管理失禁：家庭照顧者如何提供協助  
--管理居家失禁+  
--協助病患如廁  
--尋求情感支持：協助家人管理失禁  
--如何與病患談論失禁問題  
--選擇失禁產品  
--協助下床困難的病患管理失禁  
-
-[特殊飲食](https://chinese.aarp.org/downloads/)
-
--特殊飲食：營養基礎知識  
--減少鈉攝入  
--食物質地調整  
--應對食慾不振  
--胃管管飼指導方針  
--幫助為失智病患餵食  
-
-[操作專用醫療設備](https://chinese.aarp.org/downloads/)
-
--使用氧氣  
--使用霧化吸入器  
--使用機械升降機進行轉移  
--家庭輸液疑難排解  
--預防家庭腹膜透析中出現腹膜炎  
--家庭血液透析的血管通路部位護理  
-
-[傷口護理](https://chinese.aarp.org/downloads/)
-
--傷口護理的一般準則  
--壓瘡：預防和皮膚護理  
--造口術護理及更換造口袋  
--糖尿病足部護理：治療與預防  
--護理下肢傷口和蜂窩組織炎  
--皮膚撕裂治療  
-
-[傷行動安全](https://chinese.aarp.org/downloads/)
-
--確保居家行動安全的準備工作  
--使用輪椅上下車的基本要點  
--如何應對摔倒  
--使用助行器或拐杖，以及引導上下樓  
--從輔助裝置轉移到浴室或床  
+低收入情况，可以直接浏览公寓网页，上面有申请资格和表格， 如 [The Union Manors](https://theunionmanors.org/)。  
+非低收入情况，可以浏览 [AssistedLiving.org](https://www.assistedliving.org/oregon/portland/) 网站。  
 
 ### 老年人或残疾人需要看护怎么办
 
