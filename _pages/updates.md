@@ -74,6 +74,9 @@ permalink: /updates/
 [Lan Su Chinese Garden](https://lansugarden.org/things-to-do/ongoing-programs/chinese-new-year/)  (Portland Chinatown)  
 
 **2/4/2023**  
+[Willamette Chinese School](https://wcscorvallis.webs.com/)  
+
+**2/5/2023**  
 [Lakeridge High School](https://www.losdschools.org/lhs) (Lake Oswego)  
 
 **2/10/2023**  
