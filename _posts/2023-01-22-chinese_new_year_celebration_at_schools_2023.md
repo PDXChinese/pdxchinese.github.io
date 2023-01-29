@@ -7,11 +7,11 @@ date: "2023-01-24"
 
 受到社区孩子们喜爱的这条龙出生在旧金山的唐人街。拥有50年历史的文化礼品店老板为我们推荐了这条龙。上周五在 Lake Oswego 的 Palisades World Language School 首次亮相，与老师同学们共庆农历新年的还有璐璐老师的古筝、俄勒冈希望中文学校的武术功夫和木兰鼓队的大鼓。
 
-我们支持的农历新年庆祝活动有一半是学校。今天木兰鼓队与波特兰国际学校的学生们度过了愉快的一小段时间，尤其是邀请孩子们上来和队员们一起打鼓，令人惊奇的是几乎所有的学生都举起了手，最后36个小朋友幸运获得了机会。
+我们支持的农历新年庆祝活动有一半是学校。今天木兰鼓队与波特兰国际学校的学生们度过了愉快的一小段时间，尤其是邀请孩子们上来和队员们一起打鼓，令人惊奇的是几乎所有的学生都举起了手，最后24个小朋友幸运获得了机会。
 
-我们希望传达的信息是对于所有的中文项目，社区都将与他们同在，并为他们提供资源。
+我们希望传达的信息是，对于所有的中文项目，社区都将与他们同在，并尽可能为他们提供需要的资源。
 
-The dragon was born in Chinatown at San Francisco. The owner of 50 years old cultural gift store recommended this for us. The debut was with students and teachers in Palisades World Language School at Lake Oswego last Friday, along with Guzheng by Lulu Laoshi, Oregon Hope Chinese School Wushu Kung Fu and OCC Mulan Drum Team.
+The dragon was born in Chinatown at San Francisco. The owner of 50 years old cultural gift store recommended this to us. The debut was with students and teachers in Palisades World Language School at Lake Oswego last Friday, along with Guzheng by Lulu Laoshi, Oregon Hope Chinese School Wushu Kung Fu and OCC Mulan Drum Team.
 
 Half of the events we support for lunar new year celebration are at schools. Today Mulan Drum Team had a great time with the students at International School of Portland. For all Chinese programs, the community will be with them and also behind them with the resources.
 
