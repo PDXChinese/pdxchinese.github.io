@@ -13,6 +13,14 @@ Yesterday, the second Hanfu show, along with the drum team from Hope Chinese Cha
 
 ![]({{ site.url }}/assets/images/327950829_1335452843915392_5472510016838186214_n.jpg)
 
+![]({{ site.url }}/assets/images/328294559_1165467494336845_5197141318231796864_n.jpg)
+
+![]({{ site.url }}/assets/images/323354352_5765867683530398_5669652653821207353_n.jpg)
+
+![]({{ site.url }}/assets/images/328273284_580447756964983_1044818953091405448_n.jpg)
+
+![]({{ site.url }}/assets/images/328243554_1891677981178536_2488755161852183181_n.jpg)
+
 ![]({{ site.url }}/assets/images/327059937_1871457286580426_231899824126964989_n.jpg)
 
 ![]({{ site.url }}/assets/images/327957536_1130746264286941_5486684907860605734_n.jpg)
