@@ -74,3 +74,37 @@ Huamulan Drum Team and Jade Dance Team were on the big stage for their pro-level
 ![]({{ site.url }}/assets/images/328130040_561843545984414_5885412467699885491_n.jpg)
 
 ![]({{ site.url }}/assets/images/328006517_1374179686715857_6222121199772903164_n.jpg)
+
+![]({{ site.url }}/assets/images/328106501_741420497417399_8548693081848822_n.jpg)
+
+![]({{ site.url }}/assets/images/328506919_672222681303938_6169916473915032626_n.jpg)
+
+![]({{ site.url }}/assets/images/328594870_604763584992491_3003681553448968342_n.jpg)
+
+![]({{ site.url }}/assets/images/328640417_1430714331037687_108665737890953556_n.jpg)
+
+![]({{ site.url }}/assets/images/divider.jpg)
+
+![]({{ site.url }}/assets/images/328318830_1524920041326365_5890599335428925576_n.jpg)
+
+![]({{ site.url }}/assets/images/328244142_742704313723053_5842431905261175790_n.jpg)
+
+![]({{ site.url }}/assets/images/328482257_888363979071470_3873914693548184092_n.jpg)
+
+![]({{ site.url }}/assets/images/328252117_512147501105409_5815346811333643620_n.jpg)
+
+![]({{ site.url }}/assets/images/328657465_4203640103193452_6004443874517028008_n.jpg)
+
+![]({{ site.url }}/assets/images/327724763_1340846190044652_8975035534404100344_n.jpg)
+
+![]({{ site.url }}/assets/images/328347404_1234330597496966_4366749996666063834_n.jpg)
+
+![]({{ site.url }}/assets/images/328315469_5948135741935197_2629070500382578040_n.jpg)
+
+![]({{ site.url }}/assets/images/328237615_644747657425958_275950487807017677_n.jpg)
+
+![]({{ site.url }}/assets/images/divider.jpg)
+
+<iframe width="1100" height="619" src="https://www.youtube.com/embed/uDC57p-6-b0?list=PLTphHHIkSiytG_I3rYifc5BcoyEte0klj" title="2023 01 Dance of the Golden Snake" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="1100" height="619" src="https://www.youtube.com/embed/QjjqO3gMMkw?list=PLTphHHIkSiytG_I3rYifc5BcoyEte0klj" title="2023 11 The Book Dance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
