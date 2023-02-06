@@ -102,9 +102,3 @@ Huamulan Drum Team and Jade Dance Team were on the big stage for their pro-level
 ![]({{ site.url }}/assets/images/328315469_5948135741935197_2629070500382578040_n.jpg)
 
 ![]({{ site.url }}/assets/images/328237615_644747657425958_275950487807017677_n.jpg)
-
-![]({{ site.url }}/assets/images/divider.jpg)
-
-<iframe width="1100" height="619" src="https://www.youtube.com/embed/uDC57p-6-b0?list=PLTphHHIkSiytG_I3rYifc5BcoyEte0klj" title="2023 01 Dance of the Golden Snake" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="1100" height="619" src="https://www.youtube.com/embed/QjjqO3gMMkw?list=PLTphHHIkSiytG_I3rYifc5BcoyEte0klj" title="2023 11 The Book Dance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

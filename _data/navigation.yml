@@ -26,6 +26,8 @@ extra:
         url: /auction/
       - title: "Go Vote"
         url: /vote_matters/
+      - title: "Health Fair"
+        url: /healthfair/
       - title: "Mental Health"
         url: /mentalhealth/
       - title: "Volunteering"
@@ -78,11 +80,3 @@ extra:
         url: /lanternfestival/
       - title: "Naming Project"
         url: /namingproj/
-      - title: "---"
-        url:
-      - title: "Commerce Chamber"
-        url: /chambercommerce/
-      - title: "Community Fair"
-        url: /fair/
-      - title: "Entrepreneurs Forum"
-        url: /startup/
