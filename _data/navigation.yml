@@ -22,6 +22,8 @@ main:
 extra:
   - title:
     children:
+      - title: "[Community]"
+        url:
       - title: "Charity Auction"
         url: /auction/
       - title: "Go Vote"
@@ -36,7 +38,7 @@ extra:
         url: /weeklytalk/
       - title: "Winter Drive"
         url: /winterdrive/
-      - title: "---"
+      - title: "[Youth]"
         url:
       - title: "Peer Connect"
         url: /peerconnect/
@@ -52,6 +54,8 @@ extra:
         url: /youthconference/
       - title: "Youth Dance Team"
         url: /youthdance/
+      - title: "Youth Drum Team"
+        url: /drumteam/
       - title: "Youth Lens"
         url: /youthlens/
       - title: "Youth Mentoring"
@@ -62,7 +66,7 @@ extra:
         url: /peeradvisors/
       - title: "Youth Roundtable"
         url: /youthroundtable/
-      - title: "---"
+      - title: "Culture"
         url:
       - title: "Chinatown"
         url: /chinatown/
@@ -74,8 +78,8 @@ extra:
         url: /artexhibit/
       - title: "Community Library"
         url: /library/
-      - title: "Drum Team"
-        url: /drumteam/
+      - title: "Mulan Drum Team"
+        url: /mulandrum/
       - title: "Lantern Festival"
         url: /lanternfestival/
       - title: "Naming Project"
