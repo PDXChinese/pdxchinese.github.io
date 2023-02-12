@@ -3,17 +3,13 @@ title: ""
 permalink: /drumteam/
 ---
 
-# 社区击鼓队（花木兰鼓队）/Community Drum Team (Hua Mu Lan Drum Team)
+# 社区击鼓队 / Youth Drum Team
 
 The earliest known drums in China date back nearly four thousand years ago. Historically, Chinese drums have been used in celebration and in conflict. As a result Chinese drums are often the color red which has long time been associated with power and luck. Nowadays, drumming is used primarily for festivities and events.
 
 The purposes of forming our community drum team are to provide the community members especially youth an opportunity of playing on such beautiful and powerful traditional instrument, to learn to appreciate the cultural tradition, and to contribute to the local community for diversity, equity, and inclusion.
 
 To have us perform in your events, please [contact us](http://pdxchinese.org/contact/).
-
-### Weekly Practice
-
-Place: [03 Int'l Badminton Club](https://www.facebook.com/03badminton/) (10058 SW Arctic Dr. Beaverton, OR, 97005)
 
 ### Debut Performance
 
@@ -46,15 +42,3 @@ Portland Pioneer Courthouse Square, August 6, 2021
 ![]({{ site.url }}/assets/images/2021chinese_festival_060.jpg)  
 
 ![]({{ site.url }}/assets/images/2021chinese_festival_062.jpg)  
-
-### Performance in Patricia Reser Center for the Arts in Beaverton
-
-September 11, 2022
-
-<iframe width="1100" height="619" src="https://www.youtube.com/embed/WBV4_cZL_dc" title="Hua Mu Lan Drum Team Performing at Patricia Reser Center for the Arts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Performance in Hmong New Year Celebration
-
-McDaniel High School, November 12, 2022
-
-<iframe width="1100" height="619" src="https://www.youtube.com/embed/WSi_JRPvng8" title="Dance of the Golden Snake Drum Performance at Hmong New Year Celebration 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -7,7 +7,7 @@ date: "2023-02-05"
 
 应 Lakeridge High School AAPI Student Union 的邀请，社区在上周日举办了一场包含最佳文化元素的表演，以庆祝她们的首届农历新年节。 “我只听到所有参加者的积极回应。很多人喜欢大鼓和她们带来的能量，来自希望中文学校的武术表演完美结束了活动，” 这是 SU 的安娜贝尔杰克逊活动后对来自社区的支持表示感谢所说的，也正是我们的感受。
 
-顺便发点感想，从AAPI社团的开场白中了解到，她们为此足足准备了几个月，当天发言时嗓子已经哑了。可想而知她们的压力，尤其是两个主要负责人一个是混血一个是领养的华裔，她们与华人社区几乎没有交集，她们组织这样需要多大的勇气。这种情况下，作为社区我们的支持对她们自己身份认同的努力会是一个非常积极的肯定。
+顺便发点感想，从AAPI社团的开场白中了解到，她们为此足足准备了几个月，当天发言时嗓子已经哑了。可想而知她们的压力，尤其是两个主要负责人一个是混血一个是领养的华裔，她们与华人社区几乎没有交集，她们组织这样规模的活动需要多大的勇气。这种情况下，作为社区我们的支持对她们自己身份认同的努力会是一个非常积极的肯定。
 
 At the invitation of Lakeridge High School AAPI Student Union, the community has put up a performance that consisted of best cultural elements for their inaugural Lunar New Year Festival last Sunday. "I've only heard positive responses from all who attended. A lot of people loved the drums and the energy they brought, and the performers from Hope were an amazing closer to the event!", as said by the SU leader Annabel Jackson.
 
