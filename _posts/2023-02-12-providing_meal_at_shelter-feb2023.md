@@ -7,7 +7,7 @@ date: "2023-02-12"
 
 从今天开始，社区将组织家庭在波特兰市中心的克拉克中心(The Clark Center)开始每月一次供餐活动。这是在前两次活动积累了足够经验的基础上作出的算是长期的安排。希望通过这个活动，能够给社区的家庭尤其是有青少年的又一个平台，了解社会，服务社会，更好融入社会。欢迎更多的家庭加入进来。
 
-今天的活动非常的成功，即便我们之前去过两次，但口碑已经是好得不能再好的感觉，我们一进去被大家的热情感染了，好几位居民吃完特意走过来和大家表示感谢，一位居民说我们大家将自助餐带到了收容所。不仅食物的种类和质量都是一流的，剩下的食物也足够作为他们第二天的午餐。我们走的时候，居民和工作人员再次热烈鼓掌，期待下个月再见。
+今天的活动非常的成功，即便我们之前只去过两次，但口碑已经是好得不能再好的感觉，我们一进去就被大家的热情感染了，好几位居民吃完特意走过来和大家表示感谢，一位居民说我们大家将自助餐带到了庇护所。不仅食物的种类和质量都是一流的，剩下的食物也足够作为他们第二天的午餐。我们走的时候，居民和工作人员再次热烈鼓掌，期待下个月再见。
 
 Starting today, the community will start its monthly meal serving program at The Clark Center in downtown Portland. As one of the residents said, the families brought buffet to the shelter. The food variety and quality were both top notch. At the end, the food left there would be plenty for their lunch next day.
 

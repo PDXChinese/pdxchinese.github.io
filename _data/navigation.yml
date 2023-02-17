@@ -30,8 +30,12 @@ extra:
         url: /vote_matters/
       - title: "Health Fair"
         url: /healthfair/
+      - title: "Meal Provider"
+        url: /mealprovider/
       - title: "Mental Health"
         url: /mentalhealth/
+      - title: "Ride with Seniors"
+        url: /ridewseniors/
       - title: "Volunteering"
         url: /volunteering/
       - title: "Weekly Talk"
@@ -78,6 +82,8 @@ extra:
         url: /artexhibit/
       - title: "Community Library"
         url: /library/
+      - title: "Culture Day"
+        url: /cultureday/
       - title: "Hanfu Dress Team"
         url: /hanfu/
       - title: "Lantern Festival"
