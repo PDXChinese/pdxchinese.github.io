@@ -12,14 +12,12 @@ feature_row1:
 **Place:** [THPRD Jenkins Estate](https://www.thprd.org/facilities/historic/jenkins-estate) (8005 SW Grabhorn Rd, Beaverton, OR 97007)  
 
 **Purpose:** To promoting culture, the arts, and academic endeavor  
-**Participants:** Chinese program students at public, charter and provate schools  
+**Participants:** Chinese program students at public, charter and private schools  
 
-<br>
 <br>
 
 Details coming soon...
 
-<br>
 <br>
 
 ### Our Proud Sponsor/Partner
