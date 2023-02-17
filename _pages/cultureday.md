@@ -11,9 +11,10 @@ feature_row1:
 **Date:** May 6, 2023 (Saturday) 10am-4pm  
 **Place:** [THPRD Jenkins Estate](https://www.thprd.org/facilities/historic/jenkins-estate) (8005 SW Grabhorn Rd, Beaverton, OR 97007)  
 
-**Purpose:** To promoting culture, the arts, and academic endeavor  
+**Purpose:** To promote culture, the arts, and academic endeavor  
 **Participants:** Chinese program students at public, charter and private schools  
 
+[Signup Form](https://docs.google.com/forms/d/e/1FAIpQLSeowOX9XphfUxII1tyVp3jBqOpdLJy2-SSAlLhjywypuYXo8g/viewform?usp=sf_link) for Chinese homework tutoring
 
 *Details coming soon...*
 
