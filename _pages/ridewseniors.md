@@ -13,7 +13,7 @@ feature_row1:
 **Time:** Pick up at 10am and return by 1pm  
 **Place:** [Kirkland Union Manors](https://theunionmanors.org/kirkland-union-manors/) and [Lan Su Chinese Garden](https://lansugarden.org/)  
 
-Please sign up in the office during business hours
+*Please sign up in the office during business hours*
 
 ![]({{ site.url }}/assets/images/activities/inthepark.jpg)
 
