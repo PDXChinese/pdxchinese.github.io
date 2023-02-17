@@ -12,8 +12,12 @@ feature_row1:
   - image_path: /assets/images/activities/211logo.png
   - image_path: /assets/images/activities/poisonlogo.png
   - image_path: /assets/images/activities/lecarelogo.jpg
+  - image_path: /assets/images/activities/arrayrxlogo.jpg
   - image_path: /assets/images/activities/bewelllogo.jpg
   - image_path: /assets/images/activities/missionlogo.png
+  - image_path: /assets/images/activities/ppblogo.jpg  
+feature_row2:
+  - image_path: /assets/images/activities/ohalogo.png
 ---
 
 **Date:** March 19, 2023 12pm-4pm  
@@ -32,3 +36,7 @@ As a community-based organization, its strength lies in addressing the root caus
 *more to add...*
 
 {% include feature_row id="feature_row1"%}
+
+### Our Proud Sponsor
+
+{% include feature_row id="feature_row2"%}
