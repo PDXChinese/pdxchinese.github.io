@@ -6,7 +6,7 @@ feature_row1:
 
 ---
 
-# 2023 中华文化体验日 / Culture Day
+# 2023 文化体验日 / Culture Day
 
 **Date:** May 6, 2023 (Saturday) 10am-4pm  
 **Place:** [THPRD Jenkins Estate](https://www.thprd.org/facilities/historic/jenkins-estate) (8005 SW Grabhorn Rd, Beaverton, OR 97007)  
