@@ -6,8 +6,8 @@ permalink: /mealprovider/
 
 # Providing Meals in Shelter
 
-**Date:** Second Sunday each month 5:30pm-7pm  
-**Place:** The Clark Center by [Transition Projects](https://www.tprojects.org/) (1431 SE Martin Luther King Jr Blvd)  
+**Date:** Every 2nd Sunday 5:30pm-7pm  
+**Place:** The Clark Center by [Transition Projects](https://www.tprojects.org/)  
 
 
 [关于庇护所问答](https://www.tprojects.org/sites/default/files/2020-05/FAQ%20Clark%20Center%20May%202020.pdf)
@@ -21,7 +21,7 @@ permalink: /mealprovider/
 ### Pilot Phase
 
 [December 20, 2023](https://pdxchinese.org/providing_meal_at_shelter-dec2022/)  
-[November 28, 2023](https://pdxchinese.org/providing_meal_at_shelter-nov2022/)  
+[November 27, 2023](https://pdxchinese.org/providing_meal_at_shelter-nov2022/)  
 
 > I heard absolute RAVE reviews from the team at the Clark center about last night’s dinner!! Sounds like folks were wild about the food, and pretty excited to have a crew of enthusiastic volunteers onsite to serve it.
 

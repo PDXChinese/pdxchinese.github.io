@@ -9,9 +9,17 @@ feature_row1:
 
 # Take the Seniors to the Garden
 
-**Date:** 3rd Thursday each month 11am-1pm  
-**Place:** [Kirkland Union Manors](https://theunionmanors.org/kirkland-union-manors/) and [Lan Su Chinese Garden](https://lansugarden.org/)
+**Date:** Every 3rd Thursday  
+**Time:** Pick up at 10am and return by 1pm  
+**Place:** [Kirkland Union Manors](https://theunionmanors.org/kirkland-union-manors/) and [Lan Su Chinese Garden](https://lansugarden.org/)  
 
-### Our Community Partners
+To signup, please stop visit the office at KUM.
+
+<br>
+<br>
+<br>
+<br>
+
+### Our Proud Community Partners
 
 {% include feature_row id="feature_row1"%}
