@@ -11,6 +11,7 @@ feature_row1:
   - image_path: /assets/images/activities/asqlogo.jpg
   - image_path: /assets/images/activities/211logo.png
   - image_path: /assets/images/activities/poisonlogo.png
+  - image_path: /assets/images/activities/lecarelogo.jpg
   - image_path: /assets/images/activities/missionlogo.png
 ---
 

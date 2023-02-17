@@ -14,11 +14,9 @@ feature_row1:
 **Purpose:** To promoting culture, the arts, and academic endeavor  
 **Participants:** Chinese program students at public, charter and private schools  
 
-<br>
 
-Details coming soon...
+*Details coming soon...*
 
-<br>
 
 ### Our Proud Sponsor/Partner
 
