@@ -19,9 +19,9 @@ feature_row1:
 feature_row2:
   - image_path: /assets/images/activities/ohalogo.png
 feature_row3:
-    - image_path: /assets/images/activities/mult_county.png
-    - image_path: /assets/images/activities/claclogo.jpg
-    - image_path: /assets/images/activities/wacountylogo.jpg
+  - image_path: /assets/images/activities/mult_county.png
+  - image_path: /assets/images/activities/clacklogo.jpg
+  - image_path: /assets/images/activities/wacountylogo.jpg
 ---
 
 **Date:** March 19, 2023 12pm-4pm  
@@ -30,15 +30,21 @@ feature_row3:
 
 Health matters to everyone, to the youth who grow in between two cultures, to the parents who shoulder the burden of raising family, and surely to the elderly who learn to age gracefully. The health fair eyes on the wellbeing of entire community.
 
-As a community-based organization, its strength lies in addressing the root causes of both physical and mental heath issues. The health fair is beyond just health education and screening. We will use it as opportunity to introduce all health and social service resources to the community members. We believe empowering people with the knowledge and resources is the best way to improve the public health.
+As a community-based organization, its strength lies in addressing the root causes of both physical and mental health issues. The health fair is beyond just health education and screening. We will use it as an opportunity to introduce health and social service resources to the community members. We believe empowering people with the knowledge and resources is the best way to improve the public health.
 
 *Full programs are in development and you have every reason to expect...*
+
+
+
+
 
 ### Our Proud Community Partners in the Fair
 *more to add...*
 
 {% include feature_row id="feature_row1"%}
 
-### The Fair is Partly Funded with Grants fromn
+### The Fair is Partially Funded with Grants from
 
 {% include feature_row id="feature_row2"%}
+
+{% include feature_row id="feature_row3"%}
