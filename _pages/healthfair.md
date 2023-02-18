@@ -18,10 +18,11 @@ feature_row1:
   - image_path: /assets/images/activities/ppblogo.jpg  
 feature_row2:
   - image_path: /assets/images/activities/ohalogo.png
-feature_row3:
+  - image_path: /assets/images/activities/blanklogo.jpg
+  - image_path: /assets/images/activities/blanklogo.jpg
   - image_path: /assets/images/activities/mult_county.png
-  - image_path: /assets/images/activities/clacklogo.jpg
   - image_path: /assets/images/activities/wacountylogo.jpg
+  - image_path: /assets/images/activities/clacklogo.jpg
 ---
 
 **Date:** March 19, 2023 12pm-4pm  
@@ -35,9 +36,6 @@ As a community-based organization, its strength lies in addressing the root caus
 *Full programs are in development and you have every reason to expect...*
 
 
-
-
-
 ### Our Proud Community Partners in the Fair
 *more to add...*
 
@@ -46,5 +44,3 @@ As a community-based organization, its strength lies in addressing the root caus
 ### The Fair is Partially Funded with Grants from
 
 {% include feature_row id="feature_row2"%}
-
-{% include feature_row id="feature_row3"%}
