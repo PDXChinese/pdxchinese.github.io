@@ -47,17 +47,18 @@ Oregon poison help hotline
 Covid and flu vaccination  
 Pharmacy/prescription drug consultation  
 Prescription drug discount card program enrollment  
-Onsite family counseling   
+Onsite family counseling  
 Police recruitment, community and personal safety tips  
-Free program to help with citizenship exams...
-Taiji demonstration and onsite coaching   
-Meditation demonstration and onsite coaching   
-Yoga demonstration and onsite coaching   
+Free program to help with citizenship exams...  
+Taiji demonstration and onsite coaching  
+Meditation demonstration and onsite coaching  
+Yoga demonstration and onsite coaching  
 Onsite rent assistance intake  
 OCC safety whistle registration and giveaway  
-Cash card giveaway to low-income individual and families   
+Cash card giveaway to low-income individual and families  
 Community programs that bring positive impacts to mental health  
 Community volunteer opportunities and PVSA certification  
+...
 
 ### Our Proud Community Partners in the Fair
 *more to add...*
