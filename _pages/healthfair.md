@@ -35,24 +35,25 @@ As a community-based organization, its strength lies in addressing the root caus
 
 *Full programs are in development and you have every reason to expect...*
 
->OHP insurance enrollment  
-Domestic violence, women shelter, legal support...  
-County clinic, food programs, youth programs, affordable housing...  
-Chinese medicine, Chinese medicine programs...  
-Auricular acupuncture treatments demonstration  
-Mental health support groups at community level  
-Tobacco smoker quitline referral  
-211 services and how you may benefit from the calls  
-Oregon poison help hotline  
-Covid and flu vaccination  
+>[OHP insurance enrollment](https://www.careoregon.org/)  
+[Domestic violence education, women shelter, legal support, youth camp counselor opportunity...](https://www.cwsor.org/)  
+[County clinic, food programs, youth programs, affordable housing...](https://www.multco.us/dchs/bienestar-de-la-familia)  
+Acupuncture and Herbal Medicine  
+[Auricular acupuncture treatments](https://www.healthline.com/health/ear-acupuncture) demonstration  
+[Mental health support groups at community level](https://www.washconami.org/)  
+[Tobacco smoker quitline referral](https://www.asiansmokersquitline.org/quitnow/tchinese/)  
+[211 services and how you may benefit from the calls](https://www.211info.org/)  
+[Oregon poison help hotline](https://www.ohsu.edu/oregon-poison-center)  
+[Covid and flu vaccination](https://www.lecarepharmacy.com/)  
 Pharmacy/prescription drug consultation  
-Prescription drug discount card program enrollment  
-Onsite family counseling  
-Police recruitment, community and personal safety tips  
-Free program to help with citizenship exams...  
+[Prescription drug discount card program enrollment](https://arrayrxcard.com/)  
+Onsite [family counseling](https://www.bewellfamilycounseling.com/)  
+[Police recruitment](https://www.joinportlandpolice.com/), [community](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.portlandoregon.gov/pccep/article/726822) and personal safety tips  
+[Free program to help with citizenship exams](https://missioncitizen.org/)  
 Taiji demonstration and onsite coaching  
 Meditation demonstration and onsite coaching  
 Yoga demonstration and onsite coaching  
+Wraparound support for those infected with Covid  
 Onsite rent assistance intake  
 OCC safety whistle registration and giveaway  
 Cash card giveaway to low-income individual and families  
@@ -73,6 +74,7 @@ Chinese Martial Arts: Taiji from [The U. S. Wushu Center](https://uswushu.com/)
 Holistic Health Coach, Weiming Lin (全人健康教练 -- 微鸣)  
 
 Rent Assistance Intake Team  
+Covid wraparound support  
 Mental Health Support Group  
 [Community Support/Hot Line](https://pdxchinese.org/support/)  
 [Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
