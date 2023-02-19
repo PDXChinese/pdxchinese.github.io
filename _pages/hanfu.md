@@ -3,7 +3,7 @@ title: ""
 permalink: /hanfu/
 ---
 
-# Hanfu Dress Team
+# 衣裳 Hanfu Dress Team
 
 Hanfu was a symbol of traditional Chinese culture. The term "Hanfu" refers to the historical dress of the Han people for all of history before the Qing Dynasty, when the Manchus reigned. The renaissance of Hanfu in recent years was part of a trend of finding a strong sense of culture identity.
 

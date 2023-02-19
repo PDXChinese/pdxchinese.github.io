@@ -19,6 +19,10 @@ feature_row1:
 *Details coming soon...*
 
 
-### Our Proud Sponsor/Partner
+### Sponsor and Hosting Organization
 
 {% include feature_row id="feature_row1"%}
+
+### Proud Partners
+
+*welcome to [contact us](https://pdxchinese.org/contact/) to be part of this event*

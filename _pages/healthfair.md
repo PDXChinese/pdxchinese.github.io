@@ -17,15 +17,15 @@ feature_row1:
   - image_path: /assets/images/activities/missionlogo.png
   - image_path: /assets/images/activities/ppblogo.jpg  
 feature_row2:
-  - image_path: /assets/images/activities/ohalogo.png
   - image_path: /assets/images/activities/blanklogo.jpg
+  - image_path: /assets/images/activities/ohalogo.png
   - image_path: /assets/images/activities/blanklogo.jpg
   - image_path: /assets/images/activities/mult_county.png
   - image_path: /assets/images/activities/wacountylogo.jpg
   - image_path: /assets/images/activities/clacklogo.jpg
 ---
 
-**Date:** March 19, 2023 12pm-4pm  
+**Date:** March 19, 2023 Sunday 12pm-4pm  
 **Place:** [Embassy Suites Washington Square](https://www.google.com/maps/place/9000+SW+Washington+Square+Rd,+Tigard,+OR+97223/@45.4554141,-122.7814913,16.61z/data=!4m5!3m4!1s0x54950c59daae00df:0xd5114fc616149bef!8m2!3d45.455719!4d-122.7815669)  
 **Address:** 9000 SW Washington Square Rd, Tigard, OR 97223  
 
@@ -35,11 +35,49 @@ As a community-based organization, its strength lies in addressing the root caus
 
 *Full programs are in development and you have every reason to expect...*
 
+>OHP insurance enrollment  
+Domestic violence, women shelter, legal support...  
+County clinic, food programs, youth programs, affordable housing...  
+Chinese medicine, Chinese medicine programs...  
+Auricular acupuncture treatments demonstration  
+Mental health support groups at community level  
+Tobacco smoker quitline referral  
+211 services and how you may benefit from the calls  
+Oregon poison help hotline  
+Covid and flu vaccination  
+Pharmacy/prescription drug consultation  
+Prescription drug discount card program enrollment  
+Onsite family counseling   
+Police recruitment, community and personal safety tips  
+Free program to help with citizenship exams...
+Taiji demonstration and onsite coaching   
+Meditation demonstration and onsite coaching   
+Yoga demonstration and onsite coaching   
+Onsite rent assistance intake  
+OCC safety whistle registration and giveaway  
+Cash card giveaway to low-income individual and families   
+Community programs that bring positive impacts to mental health  
+Community volunteer opportunities and PVSA certification  
 
 ### Our Proud Community Partners in the Fair
 *more to add...*
 
 {% include feature_row id="feature_row1"%}
+
+### Valuable Resources from the Community
+*more to add...*
+
+Chinese Martial Arts: Taiji from [The U. S. Wushu Center](https://uswushu.com/)  
+[The Essence of Meditation](https://www.amazon.com/Essence-Meditation-Weishan-Xia/dp/B0BNV2FXYV/ref=sr_1_1?crid=6QCROW6FYVX0&keywords=weishan+xia&qid=1676751432&sprefix=weishan+xia%2Caps%2C157&sr=8-1) from Dr. Weishan Xia  
+Holistic Health Coach, Weiming Lin (全人健康教练 -- 微鸣)  
+
+Rent Assistance Intake Team  
+Mental Health Support Group  
+[Community Support/Hot Line](https://pdxchinese.org/support/)  
+[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
+[Jade Dance Team](https://pdxchinese.org/youthdance/)  
+[Yichang Hanfu Team](https://pdxchinese.org/hanfu/)  
+Community Volunteer Groups  
 
 ### The Fair is Partially Funded with Grants from
 
