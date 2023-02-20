@@ -16,6 +16,8 @@ feature_row1:
   - image_path: /assets/images/activities/bewelllogo.jpg
   - image_path: /assets/images/activities/missionlogo.png
   - image_path: /assets/images/activities/ppblogo.jpg  
+  - image_path: /assets/images/activities/gaolaoshilogo.png  
+  - image_path: /assets/images/activities/santoshalogo.png  
 feature_row2:
   - image_path: /assets/images/activities/blanklogo.jpg
   - image_path: /assets/images/activities/ohalogo.png
