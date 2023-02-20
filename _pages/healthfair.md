@@ -55,10 +55,10 @@ Meditation demonstration and onsite coaching
 Yoga demonstration and onsite coaching  
 Wraparound support for those infected with Covid  
 Onsite rent assistance intake  
-OCC safety whistle registration and giveaway  
+[OCC safety whistle](https://pdxchinese.org/support/) registration and giveaway  
 Cash card giveaway to low-income individual and families  
 Community programs that bring positive impacts to mental health  
-Community volunteer opportunities and PVSA certification  
+[Community volunteer opportunities and PVSA certification](https://pdxchinese.org/volunteering/)  
 ...
 
 ### Our Proud Community Partners in the Fair
