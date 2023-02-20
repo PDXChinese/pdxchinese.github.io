@@ -72,8 +72,9 @@ Community programs that bring positive impacts to mental health
 *more to add...*
 
 Chinese Martial Arts: Taiji from [The U. S. Wushu Center](https://uswushu.com/)  
+Yoga demonstration by Dahui Dunn (陈大慧) and Chris Schaus from [Santosha Yoga by Bethany Athletic Club](https://santoshayogabethany.com/)  
 [The Essence of Meditation](https://www.amazon.com/Essence-Meditation-Weishan-Xia/dp/B0BNV2FXYV/ref=sr_1_1?crid=6QCROW6FYVX0&keywords=weishan+xia&qid=1676751432&sprefix=weishan+xia%2Caps%2C157&sr=8-1) from Dr. Weishan Xia  
-Holistic Health Coach, Weiming Lin (全人健康教练 -- 微鸣)  
+Holistic Health Coach, Weiming Lin 全人健康教练 -- 微鸣  
 
 Rent Assistance Intake Team  
 Covid wraparound support  

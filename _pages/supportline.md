@@ -12,8 +12,8 @@ feature_row1:
 > 您如果遭遇自杀与危机困扰，请拨打热线电话 **988**
 > Call Suicide and Crisis Line 988 for help
 
-## 遇到如下情况，欢迎拨打OCC热线电话(503-334-1010)，我们有会讲普通话，粤语和英语的志愿者随时在线上为您提供帮助.  
-In situations like in the following, please call the OCC support line(503-334-1010), which is backed by our volunteers who can speak Mandarin, Cantonese and English.  
+## 遇到如下情况，欢迎拨打OCC热线电话(503-334-1010 普通话/英文 或 503-334-0438 广东话)，我们有会讲普通话，粤语和英语的志愿者随时在线上为您提供帮助.  
+In situations like in the following, please call the OCC support line(503-334-1010 Mandarin/English or 503-334-0438 Cantonese), which is backed by our volunteers who can speak Mandarin, Cantonese and English.  
 
 街头遇到袭击，需要帮助报警，或与帮助的人沟通。  
 When you become a crime victim on the street, need someone to call for help or need interpretation with first responders.  
@@ -41,4 +41,4 @@ The support line is for urgent situation only. In most cases, the support will b
 
 To start a new chapter for serving the community, we will send a whistle and keychain with engraved support line and unique ID number to community members. Imagine an elderly gets lost in downtown. With the help of the support and ID number, we can contact the family in no time and provide the basic information to the first responders. This becomes possible even the elderly does not speak English or only speak Taishanese. Currently it is open to the elderly over 62 years old who live alone. Family members are welcome to fill in the [required information form](https://docs.google.com/forms/d/e/1FAIpQLSeZ0rxnIFec4ophgt0He00ofv6X2Lj6JE5PfgHTfn0pP8fpog/viewform?usp=sf_link).
 
-![]({{ site.url }}/assets/images/WeChat Image_20220304164300.jpg)
+![]({{ site.url }}/assets/images/activities/whistle001.jpg)
