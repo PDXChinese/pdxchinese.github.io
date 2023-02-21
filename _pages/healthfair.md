@@ -3,12 +3,12 @@ title: "2023 Community Health Fair"
 permalink: /healthfair/
 feature_row1:
   - image_path: /assets/images/activities/ohsulogo.jpg
-  - image_path: /assets/images/activities/ocomlogo.png
   - image_path: /assets/images/activities/careoregonlogo.png
+  - image_path: /assets/images/activities/ohalogo.png
+  - image_path: /assets/images/activities/ocomlogo.png
   - image_path: /assets/images/activities/cwslogo.jpg
   - image_path: /assets/images/activities/fjclogo.png
   - image_path: /assets/images/activities/namilogo.jpg
-  - image_path: /assets/images/activities/asqlogo.jpg
   - image_path: /assets/images/activities/bienestarlogo.png
   - image_path: /assets/images/activities/211logo.png
   - image_path: /assets/images/activities/lecarelogo.jpg
@@ -19,6 +19,7 @@ feature_row1:
   - image_path: /assets/images/activities/gaolaoshilogo.png  
   - image_path: /assets/images/activities/poisonlogo.png
   - image_path: /assets/images/activities/ymtlogo1.jpg  
+  - image_path: /assets/images/activities/asqlogo.jpg
   - image_path: /assets/images/activities/santoshalogo.png  
 feature_row2:
   - image_path: /assets/images/activities/blanklogo.jpg
@@ -51,6 +52,7 @@ Acupuncture and Herbal Medicine
 [Covid and flu vaccination](https://www.lecarepharmacy.com/)  
 Pharmacy/prescription drug consultation  
 [Prescription drug discount card program enrollment](https://arrayrxcard.com/)  
+Medicaid (OHP) members, [OHA Ombuds Team](https://www.oregon.gov/oha/ERD/Pages/Ombuds-Program.aspx) is on your side to get quality health care  
 Onsite [family counseling](https://www.bewellfamilycounseling.com/)  
 [Police recruitment](https://www.joinportlandpolice.com/), [community](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.portlandoregon.gov/pccep/article/726822) and personal safety tips  
 [Free program to help with citizenship exams](https://missioncitizen.org/)  
