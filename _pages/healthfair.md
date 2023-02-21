@@ -2,23 +2,24 @@
 title: "2023 Community Health Fair"
 permalink: /healthfair/
 feature_row1:
-  - image_path: /assets/images/activities/careoregonlogo.png
+  - image_path: /assets/images/activities/ohsulogo.jpg
   - image_path: /assets/images/activities/ocomlogo.png
-  - image_path: /assets/images/activities/bienestarlogo.png
+  - image_path: /assets/images/activities/careoregonlogo.png
   - image_path: /assets/images/activities/cwslogo.jpg
   - image_path: /assets/images/activities/fjclogo.png
   - image_path: /assets/images/activities/namilogo.jpg
   - image_path: /assets/images/activities/asqlogo.jpg
+  - image_path: /assets/images/activities/bienestarlogo.png
   - image_path: /assets/images/activities/211logo.png
-  - image_path: /assets/images/activities/poisonlogo.png
   - image_path: /assets/images/activities/lecarelogo.jpg
   - image_path: /assets/images/activities/arrayrxlogo.jpg
   - image_path: /assets/images/activities/bewelllogo.jpg
   - image_path: /assets/images/activities/missionlogo.png
   - image_path: /assets/images/activities/ppblogo1.png  
   - image_path: /assets/images/activities/gaolaoshilogo.png  
+  - image_path: /assets/images/activities/poisonlogo.png
+  - image_path: /assets/images/activities/ymtlogo1.jpg  
   - image_path: /assets/images/activities/santoshalogo.png  
-  - image_path: /assets/images/activities/ymtlogo.png  
 feature_row2:
   - image_path: /assets/images/activities/blanklogo.jpg
   - image_path: /assets/images/activities/ohalogo.png
