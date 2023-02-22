@@ -11,6 +11,9 @@ feature_row1:
   - image_path: /assets/images/activities/namilogo.jpg
   - image_path: /assets/images/activities/bienestarlogo.png
   - image_path: /assets/images/activities/211logo.png
+  - image_path: /assets/images/activities/adrc_logo.jpg
+  - image_path: /assets/images/activities/shibalogo.png
+  - image_path: /assets/images/activities/medicaresavinglogo.png
   - image_path: /assets/images/activities/lecarelogo.jpg
   - image_path: /assets/images/activities/arrayrxlogo.jpg
   - image_path: /assets/images/activities/bewelllogo.jpg
@@ -53,6 +56,9 @@ Acupuncture and Herbal Medicine
 Pharmacy/prescription drug consultation  
 [Prescription drug discount card program enrollment](https://arrayrxcard.com/)  
 Medicaid (OHP) members, [OHA Ombuds Team](https://www.oregon.gov/oha/ERD/Pages/Ombuds-Program.aspx) is on your side to get quality health care  
+Get connected to local information and services for seniors and people with disabilities through [ADRC](https://www.adrcoforegon.org/consumersite/index.php)  
+Senior Health Insurance Benefits Assistance ([SHIBA])(https://www.multco.us/shiba) Program  
+Help with Medicare Part B and D premiums, Co-pays and deductibles, Prescription costs through [Oregon Medicare Savings Connect](https://www.multco.us/services/oregon-medicare-savings-connect)  
 Onsite [family counseling](https://www.bewellfamilycounseling.com/)  
 [Police recruitment](https://www.joinportlandpolice.com/), [community](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.portlandoregon.gov/pccep/article/726822) and personal safety tips  
 [Free program to help with citizenship exams](https://missioncitizen.org/)  
