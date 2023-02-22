@@ -17,12 +17,12 @@ feature_row1:
   - image_path: /assets/images/activities/lecarelogo.jpg
   - image_path: /assets/images/activities/arrayrxlogo.jpg
   - image_path: /assets/images/activities/bewelllogo.jpg
-  - image_path: /assets/images/activities/missionlogo.png
-  - image_path: /assets/images/activities/ppblogo1.png  
-  - image_path: /assets/images/activities/gaolaoshilogo.png  
   - image_path: /assets/images/activities/poisonlogo.png
   - image_path: /assets/images/activities/ymtlogo1.jpg  
   - image_path: /assets/images/activities/asqlogo.jpg
+  - image_path: /assets/images/activities/missionlogo.png
+  - image_path: /assets/images/activities/ppblogo1.png  
+  - image_path: /assets/images/activities/gaolaoshilogo.png  
   - image_path: /assets/images/activities/santoshalogo.png  
 feature_row2:
   - image_path: /assets/images/activities/blanklogo.jpg
@@ -44,25 +44,32 @@ As a community-based organization, its strength lies in addressing the root caus
 *Full programs are in development and you have every reason to expect...*
 
 >[OHP insurance enrollment](https://www.careoregon.org/)  
-[Domestic violence education, women shelter, legal support, youth camp counselor opportunity...](https://www.cwsor.org/)  
-[County clinic, food programs, youth programs, affordable housing...](https://www.multco.us/dchs/bienestar-de-la-familia)  
-Acupuncture and Herbal Medicine  
-[Auricular acupuncture treatments](https://www.healthline.com/health/ear-acupuncture) demonstration  
-[Mental health support groups at community level](https://www.washconami.org/)  
-[Tobacco smoker quitline referral](https://www.asiansmokersquitline.org/quitnow/tchinese/)  
-[211 services and how you may benefit from the calls](https://www.211info.org/)  
-[Oregon poison help hotline](https://www.ohsu.edu/oregon-poison-center)  
-[Covid and flu vaccination](https://www.lecarepharmacy.com/)  
-Pharmacy/prescription drug consultation  
 [Prescription drug discount card program enrollment](https://arrayrxcard.com/)  
 Medicaid (OHP) members, [OHA Ombuds Team](https://www.oregon.gov/oha/ERD/Pages/Ombuds-Program.aspx) is on your side to get quality health care  
 Get connected to local information and services for seniors and people with disabilities through [ADRC](https://www.adrcoforegon.org/consumersite/index.php)  
 Senior Health Insurance Benefits Assistance ([SHIBA])(https://www.multco.us/shiba) Program  
 Help with Medicare Part B and D premiums, Co-pays and deductibles, Prescription costs through [Oregon Medicare Savings Connect](https://www.multco.us/services/oregon-medicare-savings-connect)  
-Onsite [family counseling](https://www.bewellfamilycounseling.com/)  
+
+>[Domestic violence education, women shelter, legal support, youth camp counselor opportunity...](https://www.cwsor.org/)  
+[County clinic, food programs, youth programs, affordable housing...](https://www.multco.us/dchs/bienestar-de-la-familia)  
 [Police recruitment](https://www.joinportlandpolice.com/), [community](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.portlandoregon.gov/pccep/article/726822) and personal safety tips  
 [Free program to help with citizenship exams](https://missioncitizen.org/)  
-Taiji demonstration and onsite coaching  
+
+>Acupuncture and Herbal Medicine  
+[Auricular acupuncture treatments](https://www.healthline.com/health/ear-acupuncture) demonstration  
+[Mental health support groups at community level](https://www.washconami.org/)  
+Onsite [family counseling](https://www.bewellfamilycounseling.com/)  
+
+>[Tobacco smoker quitline referral](https://www.asiansmokersquitline.org/quitnow/tchinese/)  
+Community-wide tobacco use survey with incentive  
+
+>[211 services and how you may benefit from the calls](https://www.211info.org/)  
+>[Oregon poison help hotline](https://www.ohsu.edu/oregon-poison-center)  
+
+>[Covid and flu vaccination](https://www.lecarepharmacy.com/)  
+Pharmacy/prescription drug consultation  
+
+>Taiji demonstration and onsite coaching  
 Meditation demonstration and onsite coaching  
 Yoga demonstration and onsite coaching  
 Wraparound support for those infected with Covid  
