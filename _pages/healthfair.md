@@ -47,7 +47,7 @@ As a community-based organization, its strength lies in addressing the root caus
 [Prescription drug discount card program enrollment](https://arrayrxcard.com/)  
 Medicaid (OHP) members, [OHA Ombuds Team](https://www.oregon.gov/oha/ERD/Pages/Ombuds-Program.aspx) is on your side to get quality health care  
 Get connected to local information and services for seniors and people with disabilities through [ADRC](https://www.adrcoforegon.org/consumersite/index.php)  
-Senior Health Insurance Benefits Assistance ([SHIBA])(https://www.multco.us/shiba) Program  
+Senior Health Insurance Benefits Assistance ([SHIBA](https://www.multco.us/shiba)) Program  
 Help with Medicare Part B and D premiums, Co-pays and deductibles, Prescription costs through [Oregon Medicare Savings Connect](https://www.multco.us/services/oregon-medicare-savings-connect)  
 
 >[Domestic violence education, women shelter, legal support, youth camp counselor opportunity...](https://www.cwsor.org/)  
@@ -58,6 +58,7 @@ Help with Medicare Part B and D premiums, Co-pays and deductibles, Prescription 
 >Acupuncture and Herbal Medicine  
 [Auricular acupuncture treatments](https://www.healthline.com/health/ear-acupuncture) demonstration  
 [Mental health support groups at community level](https://www.washconami.org/)  
+Presentation on youth mental health  
 Onsite [family counseling](https://www.bewellfamilycounseling.com/)  
 
 >[Tobacco smoker quitline referral](https://www.asiansmokersquitline.org/quitnow/tchinese/)  
@@ -72,13 +73,13 @@ Pharmacy/prescription drug consultation
 >Taiji demonstration and onsite coaching  
 Meditation demonstration and onsite coaching  
 Yoga demonstration and onsite coaching  
-Wraparound support for those infected with Covid  
+
+>Wraparound support for those infected with Covid  
 Onsite rent assistance intake  
 [OCC safety whistle](https://pdxchinese.org/support/) registration and giveaway  
 Cash card giveaway to low-income individual and families  
 Community programs that bring positive impacts to mental health  
 [Community volunteer opportunities and PVSA certification](https://pdxchinese.org/volunteering/)  
-...
 
 ### Our Proud Community Partners in the Fair
 *more to add...*
