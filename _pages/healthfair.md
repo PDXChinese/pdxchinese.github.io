@@ -10,7 +10,7 @@ feature_row1:
   - image_path: /assets/images/activities/namilogo.jpg
   - image_path: /assets/images/activities/bienestarlogo.png
   - image_path: /assets/images/activities/ohcslogo.png
-  - image_path: /assets/images/activities/211logo.png
+  - image_path: /assets/images/activities/ahsclogo.png
   - image_path: /assets/images/activities/adrc_logo.jpg
   - image_path: /assets/images/activities/shibalogo.png
   - image_path: /assets/images/activities/medicaresavinglogo.png
@@ -23,7 +23,9 @@ feature_row1:
   - image_path: /assets/images/activities/missionlogo.png
   - image_path: /assets/images/activities/ppblogo1.png  
   - image_path: /assets/images/activities/gaolaoshilogo.png  
+  - image_path: /assets/images/activities/211logo.png
   - image_path: /assets/images/activities/santoshalogo.png  
+  - image_path: /assets/images/activities/rideconnection.png
 feature_row2:
   - image_path: /assets/images/activities/blanklogo.jpg
   - image_path: /assets/images/activities/ohalogo.png
@@ -57,9 +59,14 @@ Community and personal safety by [PPB](https://www.portland.gov/police) officers
 
 >Acupuncture and herbal medicine  
 [Auricular acupuncture treatments](https://www.healthline.com/health/ear-acupuncture) demonstration  
-[Mental health support groups at community level](https://www.washconami.org/)  
+
+>[Mental health support groups at community level](https://www.washconami.org/)  
 Presentation on youth mental health  
 [Family and youth mental health counseling](https://www.bewellfamilycounseling.com/)  
+
+>Cancer Genetic Screening
+Cancer Risk Education
+Cancer Clinic Trial Opportunities
 
 >[Tobacco smoker quitline referral](https://www.asiansmokersquitline.org/quitnow/tchinese/)  
 Community-wide tobacco use survey with incentive  

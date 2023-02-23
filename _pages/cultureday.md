@@ -17,7 +17,7 @@ feature_row1:
 >[Sign up](https://docs.google.com/forms/d/e/1FAIpQLSeowOX9XphfUxII1tyVp3jBqOpdLJy2-SSAlLhjywypuYXo8g/viewform?usp=sf_link) to be a Chinese homework helper
 
 ###  Programs
-*Up to change*
+*Subject to change*
 
 Performances  
 *On the porch of the Main House*  
