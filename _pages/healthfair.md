@@ -14,15 +14,16 @@ feature_row1:
   - image_path: /assets/images/activities/adrc_logo.jpg
   - image_path: /assets/images/activities/shibalogo.png
   - image_path: /assets/images/activities/medicaresavinglogo.png
+  - image_path: /assets/images/activities/ohaflogo.png
   - image_path: /assets/images/activities/lecarelogo.jpg
   - image_path: /assets/images/activities/arrayrxlogo.jpg
-  - image_path: /assets/images/activities/bewelllogo.jpg
   - image_path: /assets/images/activities/poisonlogo.png
-  - image_path: /assets/images/activities/ymtlogo1.jpg  
+  - image_path: /assets/images/activities/hhhs_logo.png  
   - image_path: /assets/images/activities/asqlogo.jpg
   - image_path: /assets/images/activities/missionlogo.png
   - image_path: /assets/images/activities/ppblogo1.png  
   - image_path: /assets/images/activities/gaolaoshilogo.png  
+  - image_path: /assets/images/activities/bewelllogo.jpg
   - image_path: /assets/images/activities/santoshalogo.png  
 feature_row2:
   - image_path: /assets/images/activities/blanklogo.jpg
@@ -63,9 +64,12 @@ Onsite [family counseling](https://www.bewellfamilycounseling.com/)
 
 >[Tobacco smoker quitline referral](https://www.asiansmokersquitline.org/quitnow/tchinese/)  
 Community-wide tobacco use survey with incentive  
+Tobacco cessation consultation with experts  
+Nicotine Patches and nicotine gum giveaway  
 
 >[211 services and how you may benefit from the calls](https://www.211info.org/)  
->[Oregon poison help hotline](https://www.ohsu.edu/oregon-poison-center)  
+[Oregon poison help hotline](https://www.ohsu.edu/oregon-poison-center)  
+Substance use and overdose prevention  
 
 >[Covid and flu vaccination](https://www.lecarepharmacy.com/)  
 Pharmacy/prescription drug consultation  
@@ -76,6 +80,7 @@ Yoga demonstration and onsite coaching
 
 >Wraparound support for those infected with Covid  
 Onsite rent assistance intake  
+Mortgage assistance to homeowners through [HAF program](https://www.oregon.gov/ohcs/homeownership/Documents/HAF-Packet-simpchi.pdf)  
 [OCC safety whistle](https://pdxchinese.org/support/) registration and giveaway  
 Cash card giveaway to low-income individual and families  
 Community programs that bring positive impacts to mental health  
