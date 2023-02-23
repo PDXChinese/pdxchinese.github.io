@@ -23,7 +23,6 @@ feature_row1:
   - image_path: /assets/images/activities/missionlogo.png
   - image_path: /assets/images/activities/ppblogo1.png  
   - image_path: /assets/images/activities/gaolaoshilogo.png  
-  - image_path: /assets/images/activities/bewelllogo.jpg
   - image_path: /assets/images/activities/santoshalogo.png  
 feature_row2:
   - image_path: /assets/images/activities/blanklogo.jpg
@@ -60,7 +59,7 @@ Community and personal safety by [PPB](https://www.portland.gov/police) officers
 [Auricular acupuncture treatments](https://www.healthline.com/health/ear-acupuncture) demonstration  
 [Mental health support groups at community level](https://www.washconami.org/)  
 Presentation on youth mental health  
-Onsite [family and youth counseling](https://www.bewellfamilycounseling.com/)  
+[Family and youth mental health counseling](https://www.bewellfamilycounseling.com/)  
 
 >[Tobacco smoker quitline referral](https://www.asiansmokersquitline.org/quitnow/tchinese/)  
 Community-wide tobacco use survey with incentive  
@@ -98,7 +97,8 @@ Chinese Martial Arts: Taiji from [The U. S. Wushu Center](https://uswushu.com/)
 Yoga demonstration by Dahui Dunn (陈大慧) and Chris Schaus from [Santosha Yoga by Bethany Athletic Club](https://santoshayogabethany.com/)  
 [The Essence of Meditation](https://www.amazon.com/Essence-Meditation-Weishan-Xia/dp/B0BNV2FXYV/ref=sr_1_1?crid=6QCROW6FYVX0&keywords=weishan+xia&qid=1676751432&sprefix=weishan+xia%2Caps%2C157&sr=8-1) from Weishan Xia  
 Holistic Health Coach, Weiming Lin 全人健康教练 -- 微鸣  
-The latest about traditional Chinese herbs by [Wing Ming Herbs 永明堂](https://wingmingherbs.com/)  
+Family and Youth Mental Health Counseling from [Huiying Jessica Zhou Tull](https://www.bewellfamilycounseling.com/)  
+
 
 Rent Assistance Intake Team  
 Covid wraparound support  

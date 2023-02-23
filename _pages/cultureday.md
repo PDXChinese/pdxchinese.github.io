@@ -17,32 +17,27 @@ feature_row1:
 >[Sign up](https://docs.google.com/forms/d/e/1FAIpQLSeowOX9XphfUxII1tyVp3jBqOpdLJy2-SSAlLhjywypuYXo8g/viewform?usp=sf_link) to be a Chinese homework helper
 
 ###  Programs
-*Will be constantly updated*
+*Up to change*
 
-**Performances**
+Performances  
+*On the porch of the Main House*  
 
-Location: On the porch of the Main House  
+Crafts Activities  
+*Stable (main floor)*  
 
-**Crafts Activities**
+Teacher's Social Time  
+*Main House (meeting room)*  
 
-Location: Stable (main floor)
+Show and Tell  
+*Stable (second floor)*  
 
-**Teacher's Social Time**
-
-Location: Main House (meeting room)
-
-**Show and Tell**
-
-Location: Stable (second floor)
-
-**Chinese Food**
-
-Location: Covered picnic shelter
+Chinese Food  
+*Covered picnic shelter*  
 
 ### Participating Schools and Programs
 *Listed Alphabetically*
 
-[Oregon Hope Chinese School](http://oregon-hope.org/)  
+[Oregon Hope Chinese School](http://oregon-hope.org/) (Beaverton)  
 
 ### Sponsor and Hosting Organization
 
