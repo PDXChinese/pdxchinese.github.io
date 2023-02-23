@@ -4,12 +4,12 @@ permalink: /healthfair/
 feature_row1:
   - image_path: /assets/images/activities/ohsulogo.jpg
   - image_path: /assets/images/activities/careoregonlogo.png
-  - image_path: /assets/images/activities/ohalogo.png
   - image_path: /assets/images/activities/ocomlogo.png
   - image_path: /assets/images/activities/cwslogo.jpg
   - image_path: /assets/images/activities/fjclogo.png
   - image_path: /assets/images/activities/namilogo.jpg
   - image_path: /assets/images/activities/bienestarlogo.png
+  - image_path: /assets/images/activities/ohcslogo.png
   - image_path: /assets/images/activities/211logo.png
   - image_path: /assets/images/activities/adrc_logo.jpg
   - image_path: /assets/images/activities/shibalogo.png
@@ -53,25 +53,25 @@ Help with Medicare Part B and D premiums, Co-pays and deductibles, Prescription 
 
 >[Domestic violence education, women shelter, legal support, youth camp counselor opportunity...](https://www.cwsor.org/)  
 [County clinic, food programs, youth programs, affordable housing...](https://www.multco.us/dchs/bienestar-de-la-familia)  
-[Police recruitment](https://www.joinportlandpolice.com/), [community](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.portlandoregon.gov/pccep/article/726822) and personal safety tips  
+Community and personal safety by [PPB](https://www.portland.gov/police) officers  
 [Free program to help with citizenship exams](https://missioncitizen.org/)  
 
->Acupuncture and Herbal Medicine  
+>Acupuncture and herbal medicine  
 [Auricular acupuncture treatments](https://www.healthline.com/health/ear-acupuncture) demonstration  
 [Mental health support groups at community level](https://www.washconami.org/)  
 Presentation on youth mental health  
-Onsite [family counseling](https://www.bewellfamilycounseling.com/)  
+Onsite [family and youth counseling](https://www.bewellfamilycounseling.com/)  
 
 >[Tobacco smoker quitline referral](https://www.asiansmokersquitline.org/quitnow/tchinese/)  
 Community-wide tobacco use survey with incentive  
 Tobacco cessation consultation with experts  
-Nicotine Patches and nicotine gum giveaway  
+Nicotine patches and nicotine gum giveaway  
 
 >[211 services and how you may benefit from the calls](https://www.211info.org/)  
 [Oregon poison help hotline](https://www.ohsu.edu/oregon-poison-center)  
 Substance use and overdose prevention  
 
->[Covid and flu vaccination](https://www.lecarepharmacy.com/)  
+>[Covid and flu onsite vaccination](https://www.lecarepharmacy.com/)  
 Pharmacy/prescription drug consultation  
 
 >Taiji demonstration and onsite coaching  

@@ -14,10 +14,35 @@ feature_row1:
 **Purpose:** To promote culture, the arts, and academic endeavor  
 **Participants:** Chinese program students at public, charter and private schools  
 
-[Signup Form](https://docs.google.com/forms/d/e/1FAIpQLSeowOX9XphfUxII1tyVp3jBqOpdLJy2-SSAlLhjywypuYXo8g/viewform?usp=sf_link) for Chinese homework tutoring
+>[Sign up](https://docs.google.com/forms/d/e/1FAIpQLSeowOX9XphfUxII1tyVp3jBqOpdLJy2-SSAlLhjywypuYXo8g/viewform?usp=sf_link) to be a Chinese homework helper
 
-*Details coming soon...*
+###  Programs
+*Will be constantly updated*
 
+**Performances**
+
+Location: On the porch of the Main House  
+
+**Crafts Activities**
+
+Location: Stable (main floor)
+
+**Teacher's Social Time**
+
+Location: Main House (meeting room)
+
+**Show and Tell**
+
+Location: Stable (second floor)
+
+**Chinese Food**
+
+Location: Covered picnic shelter
+
+### Participating Schools and Programs
+*Listed Alphabetically*
+
+[Oregon Hope Chinese School](http://oregon-hope.org/)  
 
 ### Sponsor and Hosting Organization
 
