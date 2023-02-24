@@ -19,7 +19,7 @@ feature_row1:
   - image_path: /assets/images/activities/arrayrxlogo.jpg
   - image_path: /assets/images/activities/poisonlogo.png
   - image_path: /assets/images/activities/hhhs_logo.png  
-  - image_path: /assets/images/activities/asqlogo.jpg
+  - image_path: /assets/images/activities/asqlonglogo.png
   - image_path: /assets/images/activities/missionlogo.png
   - image_path: /assets/images/activities/ppblogo1.png  
   - image_path: /assets/images/activities/gaolaoshilogo.png  
@@ -39,6 +39,8 @@ feature_row2:
 **Place:** [Embassy Suites Washington Square](https://www.google.com/maps/place/9000+SW+Washington+Square+Rd,+Tigard,+OR+97223/@45.4554141,-122.7814913,16.61z/data=!4m5!3m4!1s0x54950c59daae00df:0xd5114fc616149bef!8m2!3d45.455719!4d-122.7815669)  
 **Address:** 9000 SW Washington Square Rd, Tigard, OR 97223  
 
+[Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)
+
 Health matters to everyone, to the youth who grow in between two cultures, to the parents who shoulder the burden of raising family, and surely to the elderly who learn to age gracefully. The health fair eyes on the wellbeing of entire community.
 
 As a community-based organization, its strength lies in addressing the root causes of both physical and mental health issues. The health fair is beyond just health education and screening. We will use it as an opportunity to introduce health and social service resources to the community members. We believe empowering people with the knowledge and resources is the best way to improve the public health.
@@ -51,7 +53,7 @@ Medicaid (OHP) members, [OHA Ombuds Team](https://www.oregon.gov/oha/ERD/Pages/O
 Get connected to local information and services for seniors and people with disabilities through [ADRC](https://www.adrcoforegon.org/consumersite/index.php)  
 Senior Health Insurance Benefits Assistance ([SHIBA](https://www.multco.us/shiba)) Program  
 Help with Medicare Part B and D premiums, Co-pays and deductibles, Prescription costs through [Oregon Medicare Savings Connect](https://www.multco.us/services/oregon-medicare-savings-connect)  
-Transport Needs for Seniors  
+Free Transportation for Seniors  
 
 >[Domestic violence education, women shelter, legal support, youth camp counselor opportunity...](https://www.cwsor.org/)  
 [County clinic, food programs, youth programs, affordable housing...](https://www.multco.us/dchs/bienestar-de-la-familia)  
@@ -64,13 +66,13 @@ Community and personal safety by [PPB](https://www.portland.gov/police) officers
 >[Mental health support groups at community level](https://www.washconami.org/)  
 Presentation on youth mental health  
 [Family and youth mental health counseling](https://www.bewellfamilycounseling.com/)  
-Behavioral Health prevention Program  
+Behavioral health prevention program  
 
 
->Cancer Genetic Screening  
-Cancer Risk Education  
-Cancer Clinic Trial Opportunities  
-Asian Cancer Resource and Support Services  
+>Cancer genetic screening  
+Cancer risk education  
+Cancer clinic trial opportunities  
+Asian cancer resource and support services  
 
 >[Tobacco smoker quitline referral](https://www.asiansmokersquitline.org/quitnow/tchinese/)  
 Community-wide tobacco use survey with incentive  
@@ -97,12 +99,10 @@ Community programs that bring positive impacts to mental health
 [Community volunteer opportunities and PVSA certification](https://pdxchinese.org/volunteering/)  
 
 ### Our Proud Community Partners in the Fair
-*more to add...*
 
 {% include feature_row id="feature_row1"%}
 
 ### Valuable Resources from the Community
-*more to add...*
 
 Chinese Martial Arts: Taiji from [The U. S. Wushu Center](https://uswushu.com/)  
 Yoga demonstration by Dahui Dunn (陈大慧) and Chris Schaus from [Santosha Yoga by Bethany Athletic Club](https://santoshayogabethany.com/)  
@@ -112,12 +112,12 @@ Family and Youth Mental Health Counseling from [Huiying Jessica Zhou Tull](https
 
 
 Rent Assistance Intake Team  
-Covid wraparound support  
+Covid Wraparound Support  
 Mental Health Support Group  
 [Community Support/Hot Line](https://pdxchinese.org/support/)  
 [Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
 [Jade Dance Team](https://pdxchinese.org/youthdance/)  
-[Yichang Hanfu Team](https://pdxchinese.org/hanfu/)  
+[Hanfu Team](https://pdxchinese.org/hanfu/)  
 Community Volunteer Groups  
 
 ### The Fair is Partially Funded with Grants from
