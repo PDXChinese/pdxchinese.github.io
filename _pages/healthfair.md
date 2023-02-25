@@ -148,7 +148,7 @@ Community Volunteer Groups
 
 ### 俄勒冈健康与科学大学/OHSU
 
-奈特癌症研究所/Knight Cancer Institute  
+奈特癌症研究所/[Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute)  
 *现场有会普通话人员*  
 
 >癌症教育和知识普及  
@@ -156,14 +156,44 @@ Community Volunteer Groups
 健康俄勒冈项目/The Healthy Oregon Project -- 通过血液或唾液的癌症基因测试  
 
 
-雷顿衰老和阿尔茨海默病中心/Layton Aging and Alzheimer's Disease Center  
+雷顿衰老和阿尔茨海默病中心/[Layton Aging and Alzheimer's Disease Center](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
 *现场有会普通话和广东话人员*  
 
 >脑退化症资讯中文讲座 (会议室)  
 失智症预防知识咨询  
 
-凯西眼科研究所/Casey Eye Institute
+凯西眼科研究所/[Casey Eye Institute](https://www.ohsu.edu/casey-eye-institute)
 
 >有关视力健康知识咨询
 
-### CareOregon 医疗保险公司
+### [CareOregon](https://www.careoregon.org/) 医疗保险公司
+
+>现场帮助加入OHP低收入州政府医疗保险计划
+
+### 俄勒冈东方医学院/[OCOM](https://www.ocom.edu/)
+
+>中医知识宣传与咨询  
+耳针治疗展示，欢迎现场观众参与。  
+OCOM诊所服务内容介绍  
+
+### 克拉克马斯妇女服务中心/[Clackamas Women's Services](https://www.cwsor.org/)
+
+>家庭暴力知识宣传与咨询  
+妇女庇护所  
+妇女权益保护，包括法律权益介绍  
+
+### 华盛顿县家庭司法中心/[Family Justice Center of Washington County](https://www.fjcwc.org/)
+
+>为家庭暴力、性侵犯、性剥削、虐待老人、家庭暴力的幸存者及其子女提供服务。  
+协助办理限制令  
+家庭法援助计划，包括离婚和子女监护权  
+电费煤气费补贴计划  
+紧急房租补贴  
+食品补贴，现金券，托儿费补贴，医疗保险计划  
+家暴幸存者心理咨询和庇护所信息  
+为人口拐卖受害者提供捐助  
+育儿和婚姻问题咨询  
+为民事家庭法案件和刑事案件幸存者提供支持  
+在犯罪报告、调查和跟进方面提供帮助  
+
+### 全国精神疾病联盟华盛顿县分部/[NAMI](https://www.washconami.org/)
