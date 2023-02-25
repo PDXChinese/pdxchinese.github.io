@@ -39,7 +39,7 @@ feature_row2:
 
 ![]({{ site.url }}/assets/images/activities/2023fairflyer.jpg)
 
-### [Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)
+### [>>> Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)
 
 Health matters to everyone, to the youth who grow in between two cultures, to the parents who shoulder the burden of raising family, and surely to the elderly who learn to age gracefully. The health fair eyes on the wellbeing of entire community.
 
@@ -138,7 +138,7 @@ Community Volunteer Groups
 **地点:** Embassy Suites Washington Square  
 **地址:** 9000 SW Washington Square Rd, Tigard, OR 97223  
 
-[现场义工报名表格](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)
+[>>> 现场义工报名表格](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)
 
 **波特兰西南区免费专车**
 
@@ -149,7 +149,7 @@ Community Volunteer Groups
 ### 俄勒冈健康与科学大学/OHSU
 
 奈特癌症研究所/[Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute)  
-*现场有会普通话人员*  
+*有双语人员*  
 
 >癌症教育和知识普及  
 两个参与癌症临床试验的机会  
@@ -157,7 +157,7 @@ Community Volunteer Groups
 
 
 雷顿衰老和阿尔茨海默病中心/[Layton Aging and Alzheimer's Disease Center](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
-*现场有会普通话和广东话人员*  
+*有双语人员*  
 
 >脑退化症资讯中文讲座 (会议室)  
 失智症预防知识咨询  
@@ -166,9 +166,16 @@ Community Volunteer Groups
 
 >有关视力健康知识咨询
 
+俄勒冈毒物中心/[Oregon Poison Center](https://www.ohsu.edu/oregon-poison-center)
+
+为什么说毒物随处可见  
+每12秒就会有一个人打电话到毒物中心，自己能做什么？  
+
 ### [CareOregon](https://www.careoregon.org/) 医疗保险公司
 
->现场帮助加入OHP低收入州政府医疗保险计划
+>协助寻找医生  
+帮助回答日趋复杂的保险覆盖服务的各种问题  
+唯有需要的人提供去看医生所需的交通  
 
 ### 俄勒冈东方医学院/[OCOM](https://www.ocom.edu/)
 
@@ -217,6 +224,13 @@ OCOM诊所服务内容介绍
 
 >3/8开始的新一轮房主抵押贷款补贴项目
 
+### 华人服务中心/[Asian Health & Service Center](https://ahscpdx.org/)  
+*有双语人员*  
+
+>社区健康和保健服务  
+行为健康预防计划  
+亚裔癌症资源和支持服务  
+
 ### 摩特诺玛县老年人、残疾人和退伍军人服务部/[Multnomah County Aging Disability & Veterans Services](https://www.multco.us/ads)
 
 >为老年人，残疾人和看护人提供帮助，包括政府项目，寻找监护人服务，调查虐待事件，护理中心  
@@ -229,4 +243,32 @@ OCOM诊所服务内容介绍
 流感疫苗接种  
 处方药现场咨询(疫苗接种空闲时间)  
 
-### 
+### 俄勒冈州处方药计划/[ArrayRx](https://arrayrxcard.com/)
+
+>帮助节省高达 80% 的处方药费用  
+免费加入，无年龄和收入限制  
+所有FDA批准的处方药都包括在内  
+
+
+### 克拉克默斯县卫生住房和公众服务/[H3S-Clackamas County](https://www.clackamas.us/h3s)
+
+>吸烟毒害预防宣传教育  
+毒品使用和中毒预防  
+其他公共服务咨询  
+
+### 亚裔吸烟者戒烟热线/[Asian Smokers' Quitline](https://www.asiansmokersquitline.org/)
+
+>免费戒烟服务  
+与受过培训的电话戒烟顾问一对一商谈  
+制定最适合你的戒烟计划  
+免费自助戒烟资料  
+
+*OCC是推荐组织之一*
+
+### 使命公民学生志愿组织/[Mission:Citizen](https://missioncitizen.org/)
+
+
+
+
+
+现场帮助加入OHP低收入州政府医疗保险计划
