@@ -184,16 +184,49 @@ OCOM诊所服务内容介绍
 
 ### 华盛顿县家庭司法中心/[Family Justice Center of Washington County](https://www.fjcwc.org/)
 
->为家庭暴力、性侵犯、性剥削、虐待老人、家庭暴力的幸存者及其子女提供服务。  
+>为家庭暴力，性侵犯，性剥削，虐待老人，家庭暴力的幸存者及其子女提供服务。  
 协助办理限制令  
 家庭法援助计划，包括离婚和子女监护权  
 电费煤气费补贴计划  
 紧急房租补贴  
-食品补贴，现金券，托儿费补贴，医疗保险计划  
+食品补贴，现金券，托儿费补贴，医疗保险计划。  
 家暴幸存者心理咨询和庇护所信息  
 为人口拐卖受害者提供捐助  
 育儿和婚姻问题咨询  
 为民事家庭法案件和刑事案件幸存者提供支持  
-在犯罪报告、调查和跟进方面提供帮助  
+在犯罪报告，调查和跟进方面提供帮助。  
 
 ### 全国精神疾病联盟华盛顿县分部/[NAMI](https://www.washconami.org/)
+
+>青少年精神心理健康英文讲座 (会议室)  
+心理健康互助小组  
+育儿与心理健康  
+
+*OCC将会与他们长期合作，分享资源，培训社区精神心理健康义工*
+
+### 摩特诺玛县双星项目/[Multnomah County Bienestar](https://www.multco.us/global/bienestar-de-la-familia)
+
+>提供心理健康和成瘾服务  
+低收入家庭食物和现金卡分发  
+资源如房租补贴推荐服务  
+高中生实习机会  
+
+*OCC是双星项目合作伙伴之一*
+
+### 俄勒冈州住房和社区服务/[Oregon Housing and Community Services](https://www.oregon.gov/ohcs/pages/index.aspx)
+
+>3/8开始的新一轮房主抵押贷款补贴项目
+
+### 摩特诺玛县老年人、残疾人和退伍军人服务部/[Multnomah County Aging Disability & Veterans Services](https://www.multco.us/ads)
+
+>为老年人，残疾人和看护人提供帮助，包括政府项目，寻找监护人服务，调查虐待事件，护理中心  
+协助老年人健康保险福利援助 (SHIBA) 计划 (Medicare)  
+老年人医疗保险(Medicare)个人支付部分补贴  
+
+### [Lecare](https://www.lecarepharmacy.com/) 药店
+
+>Covid疫苗接种，包括适用于儿童和成人(3岁及以上)的 Moderna & Pfizer 双价增强疫苗  
+流感疫苗接种  
+处方药现场咨询(疫苗接种空闲时间)  
+
+### 
