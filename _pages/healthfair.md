@@ -39,7 +39,7 @@ feature_row2:
 
 ![]({{ site.url }}/assets/images/activities/2023fairflyer.jpg)
 
-[Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)
+### [Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)
 
 Health matters to everyone, to the youth who grow in between two cultures, to the parents who shoulder the burden of raising family, and surely to the elderly who learn to age gracefully. The health fair eyes on the wellbeing of entire community.
 
@@ -128,26 +128,36 @@ Community Volunteer Groups
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
+<br>
+
 # 2023华人社区健康博览会
 
 此次由OCC主办的社区健康博览会定位在两个方面：第一，健康关乎每个人，关乎在两种文化中成长的青少年，关乎肩负养家重任的年轻的爸爸妈妈们，更关乎学会优雅老去的长者。健康博览会着眼于全体社区成员的福祉。第二，作为一个社区组织，我们看中的不仅仅是健康筛检和教育，更重要的是那些影响我们身心健康的社会因素，所以，我们也会邀请有关的服务机构团体和个人参加活动。令人欣慰的是，我们的定位受到广泛的认可和支持。
 
-**时间:** 3月19日, 周日，下午 12-4点
-**地点:** Embassy Suites Washington Square
-**地址:** 9000 SW Washington Square Rd, Tigard, OR 97223
+**时间:** 3月19日, 周日，下午 12-4点  
+**地点:** Embassy Suites Washington Square  
+**地址:** 9000 SW Washington Square Rd, Tigard, OR 97223  
 
-### 俄勒冈健康与科学大学 (OHSU)
+[现场义工报名表格](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)
 
-奈特癌症研究所/Knight Cancer Institute
-*现场有会普通话人员*
+**波特兰西南区免费专车**
+
+出发上车地点：SE 老人公寓 (3530 SE 84th Ave, Portland, OR 97266)  
+出发上车时间：12点，1点半  
+返回上车时间：2点，3点半  
+
+### 俄勒冈健康与科学大学/OHSU
+
+奈特癌症研究所/Knight Cancer Institute  
+*现场有会普通话人员*  
 
 >癌症教育和知识普及  
 两个参与癌症临床试验的机会  
 健康俄勒冈项目/The Healthy Oregon Project -- 通过血液或唾液的癌症基因测试  
 
 
-雷顿衰老和阿尔茨海默病中心/Layton Aging and Alzheimer's Disease Center
-*现场有会普通话和广东话人员*
+雷顿衰老和阿尔茨海默病中心/Layton Aging and Alzheimer's Disease Center  
+*现场有会普通话和广东话人员*  
 
 >脑退化症资讯中文讲座 (会议室)  
 失智症预防知识咨询  
