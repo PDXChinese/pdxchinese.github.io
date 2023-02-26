@@ -39,7 +39,7 @@ feature_row2:
 
 ![]({{ site.url }}/assets/images/activities/2023fairflyer.jpg)
 
-### [>>> Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)
+### [>> Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)
 
 Health matters to everyone, to the youth who grow in between two cultures, to the parents who shoulder the burden of raising family, and surely to the elderly who learn to age gracefully. The health fair eyes on the wellbeing of entire community.
 
@@ -47,7 +47,7 @@ As a community-based organization, its strength lies in addressing the root caus
 
 *Full programs are in development and you have every reason to expect...*
 
->[OHP insurance enrollment](https://www.careoregon.org/)  
+>OHP insurance enrollment  
 [Prescription drug discount card program enrollment](https://arrayrxcard.com/)  
 Medicaid (OHP) members, [OHA Ombuds Team](https://www.oregon.gov/oha/ERD/Pages/Ombuds-Program.aspx) is on your side to get quality health care  
 
@@ -112,15 +112,28 @@ Yoga demonstration by Dahui Dunn (陈大慧) and Chris Schaus from [Santosha Yog
 Holistic Health Coach, Weiming Lin 全人健康教练 -- 微鸣  
 Family and Youth Mental Health Counseling from [Huiying Jessica Zhou Tull](https://www.bewellfamilycounseling.com/)  
 
-
 Rent Assistance Intake Team  
-Covid Wraparound Support  
+Covid Wraparound Support Group  
 Mental Health Support Group  
 [Community Support/Hot Line](https://pdxchinese.org/support/)  
 [Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
 [Jade Dance Team](https://pdxchinese.org/youthdance/)  
 [Hanfu Team](https://pdxchinese.org/hanfu/)  
-Community Volunteer Groups  
+
+### Presentations
+
+1pm Youth Mental Health by NAMI Washington County (English)  
+2pm Dementia (Chinese/Mandarin)
+3pm Poison Prevention Education (English)
+
+*Attendees can pick up additional 3 free brand new household items*
+
+### Brand New Household Items Giveaway
+
+Each person can pick 3 items  
+People who've filled out survey on tobacco use can pick 3 additional items  
+People who've attended one presentation can pick 3 additional items  
+During entire health fair, each person can pick up to 10 items max.  
 
 ### The Fair is Partially Funded with Grants from
 
@@ -138,7 +151,7 @@ Community Volunteer Groups
 **地点:** Embassy Suites Washington Square  
 **地址:** 9000 SW Washington Square Rd, Tigard, OR 97223  
 
-[>>> 现场义工报名表格](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)
+[>> 现场义工报名表格](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)
 
 **波特兰西南区免费专车**
 
@@ -265,10 +278,98 @@ OCOM诊所服务内容介绍
 
 *OCC是推荐组织之一*
 
-### 使命公民学生志愿组织/[Mission:Citizen](https://missioncitizen.org/)
+### 使命:公民学生志愿组织/[Mission:Citizen](https://missioncitizen.org/)
 
+>高中学生社团，为社区服务超过10年  
+义务帮助社区成员准备公民入籍考试  
+如有需要，会帮助提供入籍考试部分费用  
+提供最新入籍方面的资讯  
 
+### 波特兰警察局/[Portland Police Bureau](https://www.portland.gov/police)
 
+>社区与个人安全方面知识  
+面对面与社区成员交谈大家关心的各种问题  
 
+### 美国武术中心/[US Wushu Center](https://uswushu.com/)
 
-现场帮助加入OHP低收入州政府医疗保险计划
+>太极展示  
+太极与健康知识讲解    
+
+*1点-2点时段，2-4点是太极林展示和讲解。*
+
+### 211 热线电话/[211 Info Hotline](https://www.211info.org/)
+*有双语人员*  
+
+>这是州政府几乎所有福利和资源集中在一起的门户  
+参加活动的职员讲一口流利中文，他欢迎大家通过他了解211热线电话运作和服务内容  
+
+### Bethany 运动俱乐部/[Bethany Athletic Club](https://bethanyathleticclub.com/)
+
+>陈大慧和 Chris Schaus 展示 Santosha 瑜伽  
+瑜伽与健康知识讲解  
+欢迎大家现场参与  
+
+### 出行无忧/[Ride Connection](https://rideconnection.org/)
+
+>为老年人和残疾人提供免费门到门交通便利
+
+### 低收入健康保险登记服务
+
+>现场帮助加入OHP低收入州政府医疗保险计划
+
+### 家庭和青少年心理健康咨询/[Huiying Jessica Tull](https://www.bewellfamilycounseling.com/)
+
+>中国广东长大，2006年搬到美国上大学。作为一名LPC-A和育儿教练，在为个人和家庭服务的心理健康领域有着丰富的经验。
+
+### 冥想的本质/[夏维山](https://www.amazon.com/Essence-Meditation-Weishan-Xia/dp/B0BNV2FXYV/ref=sr_1_1?crid=6QCROW6FYVX0&keywords=weishan+xia&qid=1676751432&sprefix=weishan+xia%2Caps%2C157&sr=8-1)
+
+>讨论冥想的生物学本质，而不是从中衍生出的哲学和宗教话题。
+
+### 全人健康教练/微鸣
+
+>全人健康方法论  
+太极展示  
+
+### OCC房租补贴团队
+
+>现场登记，针对因无法支付房租，有可能成为居无定所的个人和家庭。  
+可以补贴的月份：4月，5月，6月  
+
+### OCC热线电话团队/[Community Support Line](https://pdxchinese.org/support/)
+
+>发放印有热线电话号码和ID的安全口哨  
+
+### OCC社区支持团队
+
+>心冠支持项目  
+精神心理健康同伴支持项目  
+
+### OCC木兰大鼓队/[Mulan Drum Team](https://pdxchinese.org/mulandrum/)
+
+>演示和分享大鼓队活动对身心健康的正面积极的影响  
+
+### OCC青玉青少年舞蹈队/[Jade Dance Team](https://pdxchinese.org/youthdance/)
+
+>演示和分享舞蹈队活动对身心健康的正面积极的影响  
+
+### OCC汉服表演队/[Hanfu Dress Team](https://pdxchinese.org/hanfu/)
+
+>演示和分享汉服队活动对身心健康的正面积极的影响  
+
+### 专题讲座
+
+1点 青少年精神健康讲座 (英文)  
+2点 脑退化症资讯讲座 (中文普通话)  
+3点 家庭毒物预防常识讲座(英文)  
+
+*每参加一个讲座，可以额外领取3件杂货*
+
+![]({{ site.url }}/assets/images/divider.jpg)
+
+### 全新各类杂货派发 (会议室)
+
+感谢善心人士慷慨捐赠  
+每人限3件  
+填写吸烟调查表，可以额外领取3件  
+每参加一个讲座，可以额外领取3件  
+整个活动中每人最多可以领取10件  
