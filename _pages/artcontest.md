@@ -27,9 +27,11 @@ feature_row3:
   - image_path: /assets/images/artcontest/2022_grp3_1st.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_1st/'>1st Place - Queenie</a></p>"
   - image_path: /assets/images/artcontest/2022_grp3_2nd.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_2nd/'>2nd Place - </a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_2nd/'>2nd Place - Unnamed</a></p>"
   - image_path: /assets/images/artcontest/2022_grp3_3rd.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_3rd/'>3rd Place - Irene</a></p>"
+  - image_path: /assets/images/artcontest/2022_grp3_3rd2.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_3rd2/'>3rd Place - Meredith</a></p>"
   - image_path: /assets/images/artcontest/2022_grp3_hm.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_hm/'>Honorable Mention - Bella</a></p>"
 feature_row4:
@@ -41,6 +43,8 @@ feature_row4:
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp4_3rd/'>3rd Place - Young</a></p>"
   - image_path: /assets/images/artcontest/2022_grp4_hm.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp4_hm/'>Honorable Mention - Xia</a></p>"
+  - image_path: /assets/images/artcontest/2022_grp4_hm2.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp4_hm2/'>Honorable Mention - Unnamed</a></p>"
 ---
 
 **中文信息在此页面的下半部分**
