@@ -6,41 +6,41 @@ feature_row:
   - image_path: /assets/images/activities/trnwr.jpg
   - image_path: /assets/images/logo/occ.png
 feature_row1:
-  - image_path: /assets/images/artcontest/2021_grp1_1st.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp1_1st/'>1st Place - Erika Leung</a></p>"
-  - image_path: /assets/images/artcontest/2021_grp1_2nd.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp1_2nd/'>2nd Place - Jiayun Hu</a></p>"
-  - image_path: /assets/images/artcontest/2021_grp1_3rd.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp1_3rd/'>3rd Place - Emily Lian</a></p>"
-  - image_path: /assets/images/artcontest/2021_grp1_hm.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp1_hm/'>Honorable Mention - Rachel Zhu</a></p>"
+  - image_path: /assets/images/artcontest/2022_grp1_1st.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp1_1st/'>1st Place - Erika Leung</a></p>"
+  - image_path: /assets/images/artcontest/2022_grp1_2nd.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp1_2nd/'>2nd Place - Jiayun Hu</a></p>"
+  - image_path: /assets/images/artcontest/2022_grp1_3rd.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp1_3rd/'>3rd Place - Emily Lian</a></p>"
+  - image_path: /assets/images/artcontest/2022_grp1_hm.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp1_hm/'>Honorable Mention - Rachel Zhu</a></p>"
 feature_row2:
-  - image_path: /assets/images/artcontest/2021_grp2_1st.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_1st/'>1st Place - Sophia You</a></p>"
-  - image_path: /assets/images/artcontest/2021_grp2_2nd.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_2nd/'>2nd Place - Jenny Chen</a></p>"
-  - image_path: /assets/images/artcontest/2021_grp2_3rd.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_3rd/'>3rd Place - Noah Bruch</a></p>"
-  - image_path: /assets/images/artcontest/2021_grp2_hm.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp2_hm/'>Honorable Mention - Andrea Lan</a></p>"
+  - image_path: /assets/images/artcontest/2022_grp2_1st.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp2_1st/'>1st Place - Sophia You</a></p>"
+  - image_path: /assets/images/artcontest/2022_grp2_2nd.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp2_2nd/'>2nd Place - Jenny Chen</a></p>"
+  - image_path: /assets/images/artcontest/2022_grp2_3rd.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp2_3rd/'>3rd Place - Noah Bruch</a></p>"
+  - image_path: /assets/images/artcontest/2022_grp2_hm.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp2_hm/'>Honorable Mention - Andrea Lan</a></p>"
 feature_row3:
-  - image_path: /assets/images/artcontest/2021_grp3_1st.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_1st/'>1st Place - Alana</a></p>"
-  - image_path: /assets/images/artcontest/2021_grp3_2nd.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_2nd/'>2nd Place - Jinyao</a></p>"
-  - image_path: /assets/images/artcontest/2021_grp3_3rd.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_3rd/'>3rd Place - Ray</a></p>"
-  - image_path: /assets/images/artcontest/2021_grp3_hm.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp3_hm/'>Honorable Mention - Queenie</a></p>"
+  - image_path: /assets/images/artcontest/2022_grp3_1st.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_1st/'>1st Place - Alana</a></p>"
+  - image_path: /assets/images/artcontest/2022_grp3_2nd.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_2nd/'>2nd Place - Jinyao</a></p>"
+  - image_path: /assets/images/artcontest/2022_grp3_3rd.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_3rd/'>3rd Place - Ray</a></p>"
+  - image_path: /assets/images/artcontest/2022_grp3_hm.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_hm/'>Honorable Mention - Queenie</a></p>"
 feature_row4:
-  - image_path: /assets/images/artcontest/2021_grp4_1st.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_1st/'>1st Place - Flora</a></p>"
-  - image_path: /assets/images/artcontest/2021_grp4_2nd.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_2nd/'>2nd Place - Catherine</a></p>"
-  - image_path: /assets/images/artcontest/2021_grp4_3rd.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_3rd/'>3rd Place - Sophia</a></p>"
-  - image_path: /assets/images/artcontest/2021_grp4_hm.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2021_grp4_hm/'>Honorable Mention - Xia</a></p>"
+  - image_path: /assets/images/artcontest/2022_grp4_1st.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp4_1st/'>1st Place - Flora</a></p>"
+  - image_path: /assets/images/artcontest/2022_grp4_2nd.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp4_2nd/'>2nd Place - Catherine</a></p>"
+  - image_path: /assets/images/artcontest/2022_grp4_3rd.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp4_3rd/'>3rd Place - Sophia</a></p>"
+  - image_path: /assets/images/artcontest/2022_grp4_hm.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp4_hm/'>Honorable Mention - Xia</a></p>"
 ---
 
 **中文信息在此页面的下半部分**
@@ -48,19 +48,19 @@ feature_row4:
 [Press Announcement](/assets/pdf/artcontest2023.pdf)  
 [Official Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)  
 
-[2021 Award Winning Artworks]((http://pdxchinese.org/artcontestfiles/artconest_2021/)
+[2021 Award Winning Artworks](http://pdxchinese.org/artcontestfiles/artconest_2021/)
+
+ **Announcement**: Gathering for young artists, parents, judges, staff and friends from Tualatin River National Wildlife Refuge and community members will be held on March 11, 2023 at 2am, at the Tualatin River National Wildlife Refuge. The award ceremony is from 2-2:30 PM with refreshments provided. From 2:30-3:30, families are invited to go on a guided nature walk with Park Ranger Natalie.
 
 <!-- -
-> **Announcement**: Gathering for young artists, parents, judges, staff and friends from Tualatin River National Wildlife Refuge and community members will be held on February 5, 2022 at 11:30am, right outside the window gallery (219 NW 3rd Ave in Chinatown). [Photos](https://pdxchinese.org/chinatown_window_gallery_gathering/)
+> **Announcement**: The second year of the Youth Art Contest with planning occurring directly with the OCC, the Friends and the Refuge has started to accept artwork entries.
 --->
 
-> **Announcement**: The second year of the Youth Art Contest with planning occurring directly with the OCC, the Friends and the Refuge has started to accept artwork entries.
-
-Revisit the [gathering](https://pdxchinese.org/chinatown_window_gallery_gathering/) for young artists, parents, judges, staff and friends from Tualatin River National Wildlife Refuge and community members, held on February 5, 2022 in Chinatown.
+Revisit the [gathering for 2021 art contest](https://pdxchinese.org/chinatown_window_gallery_gathering/) in Chinatown.
 
 ### Best in Show - Jenny Chen
 
-![]({{ site.url }}/assets/images/artcontest/2021_grp2_2nd_large.jpg)
+![]({{ site.url }}/assets/images/artcontest/2022_blank.jpg)
 
 ### Winners, Grade 10-12
 

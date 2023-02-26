@@ -34,12 +34,6 @@ Note: 2.2% fee will be deducted from the donation.
 
 [![paypal](/assets/images/activities/paypal3.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GWHJ99U9AEFFN)
 
-### Also Donate by Shopping Online
-
-[![amazonsmile](/assets/images/activities/amazonsmile6.jpg)](https://smile.amazon.com/ch/82-1027620)
-
-Donations are made by the AmazonSmile Foundation and are not tax-deductible by you. There is no additional cost to you at your online checkout for this donation from Amazon.
-
 ### Employee Matching Gifts
 
 are donations an employer makes to match its employees' charitable contributions. Usually associated with corporate grantmakers, employee matching gifts often are dollar-for-dollar, but some companies will give double or even triple the original donation. Currently, the following corporations have OCC added to their qualified charitable organization list.
