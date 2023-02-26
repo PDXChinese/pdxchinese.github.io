@@ -1,5 +1,5 @@
 ---
-title: "2023 Youth Art Contest"
+title: "2022 Youth Art Contest"
 permalink: /artcontest/
 feature_row:
   - image_path: /assets/images/activities/for.jpg
@@ -7,38 +7,38 @@ feature_row:
   - image_path: /assets/images/logo/occ.png
 feature_row1:
   - image_path: /assets/images/artcontest/2022_grp1_1st.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp1_1st/'>1st Place - Erika Leung</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp1_1st/'>1st Place - Fiona Wang</a></p>"
   - image_path: /assets/images/artcontest/2022_grp1_2nd.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp1_2nd/'>2nd Place - Jiayun Hu</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp1_2nd/'>2nd Place - Emily Lian</a></p>"
   - image_path: /assets/images/artcontest/2022_grp1_3rd.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp1_3rd/'>3rd Place - Emily Lian</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp1_3rd/'>3rd Place - Jenell Theobald</a></p>"
   - image_path: /assets/images/artcontest/2022_grp1_hm.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp1_hm/'>Honorable Mention - Rachel Zhu</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp1_hm/'>Honorable Mention - Ryan Zhao</a></p>"
 feature_row2:
   - image_path: /assets/images/artcontest/2022_grp2_1st.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp2_1st/'>1st Place - Sophia You</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp2_1st/'>1st Place - Noah Bruch</a></p>"
   - image_path: /assets/images/artcontest/2022_grp2_2nd.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp2_2nd/'>2nd Place - Jenny Chen</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp2_2nd/'>2nd Place - Jintong Fang</a></p>"
   - image_path: /assets/images/artcontest/2022_grp2_3rd.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp2_3rd/'>3rd Place - Noah Bruch</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp2_3rd/'>3rd Place - Andrew Ma</a></p>"
   - image_path: /assets/images/artcontest/2022_grp2_hm.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp2_hm/'>Honorable Mention - Andrea Lan</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp2_hm/'>Honorable Mention - Sophia Hu</a></p>"
 feature_row3:
   - image_path: /assets/images/artcontest/2022_grp3_1st.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_1st/'>1st Place - Alana</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_1st/'>1st Place - Queenie</a></p>"
   - image_path: /assets/images/artcontest/2022_grp3_2nd.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_2nd/'>2nd Place - Jinyao</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_2nd/'>2nd Place - </a></p>"
   - image_path: /assets/images/artcontest/2022_grp3_3rd.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_3rd/'>3rd Place - Ray</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_3rd/'>3rd Place - Irene</a></p>"
   - image_path: /assets/images/artcontest/2022_grp3_hm.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_hm/'>Honorable Mention - Queenie</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_hm/'>Honorable Mention - Bella</a></p>"
 feature_row4:
   - image_path: /assets/images/artcontest/2022_grp4_1st.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp4_1st/'>1st Place - Flora</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp4_1st/'>1st Place - Ruiqi</a></p>"
   - image_path: /assets/images/artcontest/2022_grp4_2nd.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp4_2nd/'>2nd Place - Catherine</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp4_2nd/'>2nd Place - Sophia</a></p>"
   - image_path: /assets/images/artcontest/2022_grp4_3rd.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp4_3rd/'>3rd Place - Sophia</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp4_3rd/'>3rd Place - Young</a></p>"
   - image_path: /assets/images/artcontest/2022_grp4_hm.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp4_hm/'>Honorable Mention - Xia</a></p>"
 ---
@@ -58,9 +58,9 @@ feature_row4:
 
 Revisit the [gathering for 2021 art contest](https://pdxchinese.org/chinatown_window_gallery_gathering/) in Chinatown.
 
-### Best in Show - Jenny Chen
+### Best in Show - Fiona Wang
 
-![]({{ site.url }}/assets/images/artcontest/2022_blank.jpg)
+![]({{ site.url }}/assets/images/artcontest/2022_grp1_1st_large.jpg)
 
 ### Winners, Grade 10-12
 
