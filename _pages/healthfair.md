@@ -123,8 +123,8 @@ Mental Health Support Group
 ### Presentations
 
 1pm Youth Mental Health by NAMI Washington County (English)  
-2pm Dementia (Chinese/Mandarin)
-3pm Poison Prevention Education (English)
+2pm Dementia (Chinese/Mandarin)  
+3pm Poison Prevention Education (English)  
 
 *Attendees can pick up additional 3 free brand new household items*
 
@@ -181,7 +181,7 @@ During entire health fair, each person can pick up to 10 items max.
 
 俄勒冈毒物中心/[Oregon Poison Center](https://www.ohsu.edu/oregon-poison-center)
 
-为什么说毒物随处可见  
+>为什么说毒物随处可见  
 每12秒就会有一个人打电话到毒物中心，自己能做什么？  
 
 ### [CareOregon](https://www.careoregon.org/) 医疗保险公司
