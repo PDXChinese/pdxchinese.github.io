@@ -60,7 +60,7 @@ feature_row4:
 > **Announcement**: The second year of the Youth Art Contest with planning occurring directly with the OCC, the Friends and the Refuge has started to accept artwork entries.
 --->
 
-Revisit the [gathering for 2021 art contest](https://pdxchinese.org/chinatown_window_gallery_gathering/) in Chinatown.
+Revisit the [gathering for 2021 art contest](https://pdxchinese.org/chinatown_window_gallery_gathering/) in Chinatown
 
 ### Best in Show - Fiona Wang
 
