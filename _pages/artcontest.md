@@ -48,7 +48,7 @@ feature_row4:
 [Press Announcement](/assets/pdf/artcontest2023.pdf)  
 [Official Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)  
 
-[2021 Award Winning Artworks](http://pdxchinese.org/artcontestfiles/artconest_2021/)
+[2021 Award Winning Artworks](http://pdxchinese.org/artcontestfiles/artcontest_2021/)
 
  **Announcement**: Gathering for young artists, parents, judges, staff and friends from Tualatin River National Wildlife Refuge and community members will be held on March 11, 2023 at 2am, at the Tualatin River National Wildlife Refuge. The award ceremony is from 2-2:30 PM with refreshments provided. From 2:30-3:30, families are invited to go on a guided nature walk with Park Ranger Natalie.
 
