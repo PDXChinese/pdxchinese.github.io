@@ -66,19 +66,27 @@ Revisit the [gathering for 2021 art contest](https://pdxchinese.org/chinatown_wi
 
 ### Winners, Grade 10-12
 
+<!-- -
 {% include feature_row id="feature_row1"%}
+--->
 
 ### Winners, Grade 7-9
 
+<!-- -
 {% include feature_row id="feature_row2"%}
+--->
 
 ### Winners, Grade 4-6
 
+<!-- -
 {% include feature_row id="feature_row3"%}
+--->
 
 ### Winners, Grade K-3
 
+<!-- -
 {% include feature_row id="feature_row4"%}
+--->
 
 ### Program Overview:
 
