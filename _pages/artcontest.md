@@ -28,9 +28,9 @@ feature_row3:
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_1st/'>1st Place - Queenie</a></p>"
   - image_path: /assets/images/artcontest/2022_grp3_2nd.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_2nd/'>2nd Place - Unnamed</a></p>"
-  - image_path: /assets/images/artcontest/2022_grp3_3rd.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_3rd/'>3rd Place - Irene</a></p>"
   - image_path: /assets/images/artcontest/2022_grp3_3rd2.jpg
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_3rd/'>3rd Place - Irene</a></p>"
+  - image_path: /assets/images/artcontest/2022_grp3_3rd.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_3rd2/'>3rd Place - Meredith</a></p>"
   - image_path: /assets/images/artcontest/2022_grp3_hm.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_hm/'>Honorable Mention - Bella</a></p>"
@@ -62,9 +62,7 @@ feature_row4:
 
 Revisit the [gathering for 2021 art contest](https://pdxchinese.org/chinatown_window_gallery_gathering/) in Chinatown
 
-### Best in Show - to be annouced at the ceremony
-
-![]({{ site.url }}/assets/images/artcontest/2022_blank.jpg)
+### Best in Show - to be announced at the ceremony
 
 ### Winners, Grade 10-12
 
