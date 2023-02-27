@@ -54,7 +54,7 @@ feature_row4:
 
 [2021 Award Winning Artworks](http://pdxchinese.org/artcontestfiles/artcontest_2021/)
 
- **Announcement**: Gathering for young artists, parents, judges, staff and friends from Tualatin River National Wildlife Refuge and community members will be held on March 11, 2023 at 2am, at the Tualatin River National Wildlife Refuge. The award ceremony is from 2-2:30 PM with refreshments provided. From 2:30-3:30, families are invited to go on a guided nature walk with Park Ranger Natalie.
+ **Announcement**: Gathering for young artists, parents, judges, staff and friends from Tualatin River National Wildlife Refuge and community members will be held on March 11, 2023 at 2pm, at the Tualatin River National Wildlife Refuge. The award ceremony is from 2-2:30pm with refreshments provided. From 2:30-3:30, families are invited to go on a guided nature walk with Park Ranger Natalie.
 
 <!-- -
 > **Announcement**: The second year of the Youth Art Contest with planning occurring directly with the OCC, the Friends and the Refuge has started to accept artwork entries.
@@ -62,9 +62,9 @@ feature_row4:
 
 Revisit the [gathering for 2021 art contest](https://pdxchinese.org/chinatown_window_gallery_gathering/) in Chinatown
 
-### Best in Show - Fiona Wang
+### Best in Show - to be annouced at the ceremony
 
-![]({{ site.url }}/assets/images/artcontest/2022_grp1_1st_large.jpg)
+![]({{ site.url }}/assets/images/artcontest/2022_blank.jpg)
 
 ### Winners, Grade 10-12
 
