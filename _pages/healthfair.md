@@ -134,6 +134,7 @@ Each person can pick 3 items
 People who've filled out survey on tobacco use can pick 3 additional items  
 People who've attended one presentation can pick 3 additional items  
 During entire health fair, each person can pick up to 10 items max.  
+While supplies last  
 
 ### The Fair is Partially Funded with Grants from
 
@@ -373,3 +374,4 @@ OCOM诊所服务内容介绍
 填写吸烟调查表，可以额外领取3件  
 每参加一个讲座，可以额外领取3件  
 整个活动中每人最多可以领取10件  
+发完为止  

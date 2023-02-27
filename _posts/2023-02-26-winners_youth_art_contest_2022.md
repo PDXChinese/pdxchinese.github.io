@@ -13,4 +13,6 @@ date: "2023-02-26"
 
 3月11号下午2点会在保护区访客中心举办颁奖仪式，欢迎大家前往，之后会有向导带领大家参观保护区，也许能看到我们过去一年种下的花草已经破土而出。
 
-### Best in Show -  to be announced in the ceremony
+### Best in Show -  Fiona Wang from Sunset High School
+
+![]({{ site.url }}/assets/images/artcontest/2022_grp1_1st_large.jpg)
