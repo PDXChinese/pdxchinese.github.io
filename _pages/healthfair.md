@@ -120,7 +120,7 @@ Mental Health Support Group
 [Jade Dance Team](https://pdxchinese.org/youthdance/)  
 [Hanfu Team](https://pdxchinese.org/hanfu/)  
 
-### Presentations
+### Presentations (Rogue River Room)
 
 1pm Youth Mental Health by NAMI Washington County (English)  
 2pm Dementia (Chinese/Mandarin)  
@@ -128,7 +128,7 @@ Mental Health Support Group
 
 *Attendees can pick up additional 3 free brand new household items*
 
-### Brand New Household Items Giveaway
+### Brand New Household Items Giveaway (Umpqua River Room)
 
 Each person can pick 3 items  
 People who've filled out survey on tobacco use can pick 3 additional items  
@@ -357,11 +357,11 @@ OCOM诊所服务内容介绍
 
 >演示和分享汉服队活动对身心健康的正面积极的影响  
 
-### 专题讲座
+### 专题讲座 (Rogue River 会议室)
 
 1点 青少年精神健康讲座 (英文)  
 2点 脑退化症资讯讲座 (中文普通话)  
-3点 家庭毒物预防常识讲座(英文)  
+3点 家庭毒物预防常识讲座 (英文)  
 
 *每参加一个讲座，可以额外领取3件杂货*
 
@@ -370,7 +370,7 @@ OCOM诊所服务内容介绍
 ### 全新各类杂货派发 (Umpqua River 会议室)
 
 感谢善心人士慷慨捐赠  
-每人限3件  
+到场每人限3件  
 填写吸烟调查表，可以额外领取3件  
 每参加一个讲座，可以额外领取3件  
 整个活动中每人最多可以领取10件  

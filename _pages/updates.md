@@ -6,15 +6,16 @@ permalink: /updates/
 
 # 近期年度活动 / Recent Annual Events
 
-### Youth Art Contest Award Ceremony
+### [青少年绘画比赛/Youth Art Contest](https://pdxchinese.org/artcontest/) Award Ceremony
 
 Gathering for young artists, parents, judges, staff and friends from Tualatin River National Wildlife Refuge and community members will be held on March 11, 2023 at 2pm, at the Tualatin River National Wildlife Refuge. The award ceremony is from 2-2:30pm with refreshments provided. From 2:30-3:30, families are invited to go on a guided nature walk with Park Ranger Natalie.
 
-### [Community Health Fair](https://pdxchinese.org/healthfair/)
+### [2023华人社区健康博览会/Community Health Fair](https://pdxchinese.org/healthfair/)
 
-![]({{ site.url }}/assets/images/activities/2023fairflyer.jpg)
+**Date:** 3/19/2023 12pm-4pm  
+**Place:** Embassy Suites Washington Square, Tigard, OR 97223  
 
-### Culture Day
+### [2023文化体验日/Culture Day](https://pdxchinese.org/cultureday/)
 
 **Date:** May 6, 2023 (Saturday) 10am-4pm  
 **Place:** [THPRD Jenkins Estate](https://www.thprd.org/facilities/historic/jenkins-estate) (8005 SW Grabhorn Rd, Beaverton, OR 97007)  
@@ -33,6 +34,12 @@ Gathering for young artists, parents, judges, staff and friends from Tualatin Ri
 请参加《OCC庇护所晚餐群》
 
 [报名链接/Registration](https://signup.com/client/invitation2/secure/114701245205736806/false#/invitation)
+
+### [Take the Seniors to the Garden](https://pdxchinese.org/ridewseniors/)
+
+**Date:** Every 4th Thursday  
+**Time:** Pick up at 10am and return by 1pm  
+**Place:** [Kirkland Union Manors](https://theunionmanors.org/kirkland-union-manors/) and [Lan Su Chinese Garden](https://lansugarden.org/)  
 
 # 其他活动 / Other Activities
 
@@ -96,6 +103,15 @@ Gathering for young artists, parents, judges, staff and friends from Tualatin Ri
 
 **3/4/2023**  
 [PSU Hong Kong Student Association](https://www.facebook.com/psu.hksa/) (Portland)  
+
+**3/9/2023**
+[Alice Ott Middle School](https://aoms.ddouglas.k12.or.us/) (SE Portland)
+
+**4/21/2023**
+[Forest Park Elementary](https://www.pps.net/forestpark) (NW Portland)
+
+**5/12/2023**
+[Riverdale School District](https://www.riverdaleschool.com/) (SW Portland)
 
 **6/21/2023**  
 [French American International School](https://www.fisoregon.org/) (Portland)  
