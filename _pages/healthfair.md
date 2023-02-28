@@ -367,7 +367,7 @@ OCOM诊所服务内容介绍
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
-### 全新各类杂货派发 (会议室)
+### 全新各类杂货派发 (Umpqua River 会议室)
 
 感谢善心人士慷慨捐赠  
 每人限3件  
