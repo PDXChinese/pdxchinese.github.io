@@ -104,14 +104,14 @@ Gathering for young artists, parents, judges, staff and friends from Tualatin Ri
 **3/4/2023**  
 [PSU Hong Kong Student Association](https://www.facebook.com/psu.hksa/) (Portland)  
 
-**3/9/2023**
-[Alice Ott Middle School](https://aoms.ddouglas.k12.or.us/) (SE Portland)
+**3/9/2023**  
+[Alice Ott Middle School](https://aoms.ddouglas.k12.or.us/) (SE Portland)  
 
-**4/21/2023**
-[Forest Park Elementary](https://www.pps.net/forestpark) (NW Portland)
+**4/21/2023**  
+[Forest Park Elementary](https://www.pps.net/forestpark) (NW Portland)  
 
-**5/12/2023**
-[Riverdale School District](https://www.riverdaleschool.com/) (SW Portland)
+**5/12/2023**  
+[Riverdale School District](https://www.riverdaleschool.com/) (SW Portland)  
 
 **6/21/2023**  
 [French American International School](https://www.fisoregon.org/) (Portland)  
