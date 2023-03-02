@@ -50,6 +50,7 @@ As a community-based organization, its strength lies in addressing the root caus
 >OHP insurance enrollment  
 [Prescription drug discount card program enrollment](https://arrayrxcard.com/)  
 Medicaid (OHP) members, [OHA Ombuds Team](https://www.oregon.gov/oha/ERD/Pages/Ombuds-Program.aspx) is on your side to get quality health care  
+VSP Eyes of Hope Gift card  
 
 >Get connected to local information and services for seniors and people with disabilities through [ADRC](https://www.adrcoforegon.org/consumersite/index.php)  
 Senior Health Insurance Benefits Assistance ([SHIBA](https://www.multco.us/shiba)) Program  
@@ -178,7 +179,8 @@ While supplies last
 
 凯西眼科研究所/[Casey Eye Institute](https://www.ohsu.edu/casey-eye-institute)
 
->有关视力健康知识咨询
+>有关视力健康知识咨询  
+发放免费视力检查和配眼镜 (VSP Eyes of Hope) 礼品券  
 
 俄勒冈毒物中心/[Oregon Poison Center](https://www.ohsu.edu/oregon-poison-center)
 
