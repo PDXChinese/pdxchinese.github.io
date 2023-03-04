@@ -59,6 +59,7 @@ Senior Health Insurance Benefits Assistance ([SHIBA](https://www.multco.us/shiba
 Help with Medicare Part B and D premiums, Co-pays and deductibles, Prescription costs through [Oregon Medicare Savings Connect](https://www.multco.us/services/oregon-medicare-savings-connect)  
 [Understanding, diagnosis and treatment of Alzheimer’s disease](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
 Free transportation for seniors  
+[Community for seniors](https://communityfpa.org/)  
 
 >[Domestic violence education, women shelter, legal support, youth camp counselor opportunity...](https://www.cwsor.org/)  
 [County clinic, food programs, youth programs, affordable housing...](https://www.multco.us/dchs/bienestar-de-la-familia)  
@@ -72,7 +73,6 @@ Community and personal safety by [PPB](https://www.portland.gov/police) officers
 Presentation on youth mental health  
 [Family and youth mental health counseling](https://www.bewellfamilycounseling.com/)  
 Behavioral health prevention program  
-
 
 >Cancer genetic screening  
 Cancer risk education  
@@ -90,6 +90,8 @@ Substance use and overdose prevention
 
 >[Covid and flu onsite vaccination](https://www.lecarepharmacy.com/)  
 Pharmacy/prescription drug consultation  
+
+>Oral hygiene and dental care consulting by dentist
 
 >Taiji demonstration and onsite coaching  
 Meditation demonstration and onsite coaching  
@@ -328,6 +330,11 @@ OCOM诊所服务内容介绍
 ### 健康微笑牙医诊所
 
 >徐娜牙医提供口腔卫生和牙齿保健咨询
+
+### 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)
+
+>老人活动中心介绍  
+老人健康生活咨询  
 
 ### 家庭和青少年心理健康咨询/[Huiying Jessica Tull](https://www.bewellfamilycounseling.com/)
 
