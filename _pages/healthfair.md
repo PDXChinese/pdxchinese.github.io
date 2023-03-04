@@ -20,12 +20,14 @@ feature_row1:
   - image_path: /assets/images/activities/poisonlogo.png
   - image_path: /assets/images/activities/hhhs_logo.png  
   - image_path: /assets/images/activities/asqlonglogo.png
-  - image_path: /assets/images/activities/missionlogo.png
-  - image_path: /assets/images/activities/ppblogo1.png  
-  - image_path: /assets/images/activities/gaolaoshilogo.png  
   - image_path: /assets/images/activities/211logo.png
-  - image_path: /assets/images/activities/santoshalogo.png  
+  - image_path: /assets/images/activities/ppblogo1.png  
+  - image_path: /assets/images/activities/healthysmileslogo.png  
   - image_path: /assets/images/activities/rideconnection.png
+  - image_path: /assets/images/activities/gaolaoshilogo.png  
+  - image_path: /assets/images/activities/missionlogo.png
+  - image_path: /assets/images/activities/cfpalogo.png  
+  - image_path: /assets/images/activities/santoshalogo.png  
 feature_row2:
   - image_path: /assets/images/activities/blanklogo.jpg
   - image_path: /assets/images/activities/ohalogo.png
@@ -125,7 +127,7 @@ Mental Health Support Group
 
 1pm Youth Mental Health by NAMI Washington County (English)  
 2pm Dementia (Chinese/Mandarin)  
-3pm Poison Prevention Education (English)  
+3pm The Essence of Meditation (Chinese/Mandarin)  
 
 *Attendees can pick up additional 3 free brand new household items*
 
@@ -265,6 +267,9 @@ OCOM诊所服务内容介绍
 免费加入，无年龄和收入限制  
 所有FDA批准的处方药都包括在内  
 
+### 州政府为低收入健康保险(OHP)持有者提供支持服务/[OHA Ombuds Team](https://www.oregon.gov/oha/ERD/Pages/Ombuds-Program.aspx)
+
+>如果您对得到的服务有抱怨，她们会帮助到您。
 
 ### 克拉克默斯县卫生住房和公众服务/[H3S-Clackamas County](https://www.clackamas.us/h3s)
 
@@ -320,6 +325,10 @@ OCOM诊所服务内容介绍
 
 >现场帮助加入OHP低收入州政府医疗保险计划
 
+### 健康微笑牙医诊所
+
+>徐娜牙医提供口腔卫生和牙齿保健咨询
+
 ### 家庭和青少年心理健康咨询/[Huiying Jessica Tull](https://www.bewellfamilycounseling.com/)
 
 >中国广东长大，2006年搬到美国上大学。作为一名LPC-A和育儿教练，在为个人和家庭服务的心理健康领域有着丰富的经验。
@@ -362,8 +371,8 @@ OCOM诊所服务内容介绍
 ### 专题讲座 (Rogue River 会议室)
 
 1点 青少年精神健康讲座 (英文)  
-2点 脑退化症资讯讲座 (中文普通话)  
-3点 家庭毒物预防常识讲座 (英文)  
+2点 脑退化症资讯讲座 (普通话)  
+3点 冥想的本质讲座 (普通话)  
 
 *每参加一个讲座，可以额外领取3件杂货*
 
