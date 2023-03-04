@@ -23,10 +23,10 @@ feature_row1:
   - image_path: /assets/images/activities/211logo.png
   - image_path: /assets/images/activities/ppblogo1.png  
   - image_path: /assets/images/activities/healthysmileslogo.png  
+  - image_path: /assets/images/activities/cfpalogo.png  
   - image_path: /assets/images/activities/rideconnection.png
   - image_path: /assets/images/activities/gaolaoshilogo.png  
   - image_path: /assets/images/activities/missionlogo.png
-  - image_path: /assets/images/activities/cfpalogo.png  
   - image_path: /assets/images/activities/santoshalogo.png  
 feature_row2:
   - image_path: /assets/images/activities/blanklogo.jpg
@@ -162,8 +162,8 @@ While supplies last
 **波特兰西南区免费专车**
 
 出发上车地点：SE 老人公寓 (3530 SE 84th Ave, Portland, OR 97266)  
-出发上车时间：12点，1点半  
-返回上车时间：2点，3点半  
+出发上车时间：12点，1点半 (时间有可能会有变动)  
+返回上车时间：2点，3点半 (时间有可能会有变动)  
 
 ### 俄勒冈健康与科学大学/OHSU
 
@@ -360,7 +360,7 @@ OCOM诊所服务内容介绍
 
 ### OCC社区支持团队
 
->心冠支持项目  
+>心冠初期补贴项目  
 精神心理健康同伴支持项目  
 
 ### OCC木兰大鼓队/[Mulan Drum Team](https://pdxchinese.org/mulandrum/)
