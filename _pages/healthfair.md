@@ -41,8 +41,8 @@ feature_row2:
 
 ![]({{ site.url }}/assets/images/activities/2023fairflyer.jpg)
 
-### [>> Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
-### [>> Health Fair Survey](https://docs.google.com/forms/d/e/1FAIpQLSd_4AIMlIc641pCQophuSprlJhwqz_ZYHnQVsaNNvEMTKJYEg/viewform?usp=sf_link)  
+[>> Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
+[>> Health Fair Survey](https://docs.google.com/forms/d/e/1FAIpQLSd_4AIMlIc641pCQophuSprlJhwqz_ZYHnQVsaNNvEMTKJYEg/viewform?usp=sf_link)  
 
 Health matters to everyone, to the youth who grow in between two cultures, to the parents who shoulder the burden of raising family, and surely to the elderly who learn to age gracefully. The health fair eyes on the wellbeing of entire community.
 
@@ -302,26 +302,29 @@ OCOM诊所服务内容介绍
 >社区与个人安全方面知识  
 面对面与社区成员交谈大家关心的各种问题  
 
-### 美国武术中心/[US Wushu Center](https://uswushu.com/)
+### 美国武术中心/[US Wushu Center](https://uswushu.com/)  
+*有双语人员*  
 
 >太极展示  
 太极与健康知识讲解    
 
 *1点-2点时段，2-4点是太极林展示和讲解。*
 
-### 211 热线电话/[211 Info Hotline](https://www.211info.org/)
+### 211 热线电话/[211 Info Hotline](https://www.211info.org/)  
 *有双语人员*  
 
 >这是州政府几乎所有福利和资源集中在一起的门户  
 参加活动的职员讲一口流利中文，他欢迎大家通过他了解211热线电话运作和服务内容  
 
-### Bethany 运动俱乐部/[Bethany Athletic Club](https://bethanyathleticclub.com/)
+### Bethany 运动俱乐部/[Bethany Athletic Club](https://bethanyathleticclub.com/)  
+*有双语人员*  
 
 >陈大慧和 Chris Schaus 展示 Santosha 瑜伽  
 瑜伽与健康知识讲解  
 欢迎大家现场参与  
 
-### 出行无忧/[Ride Connection](https://rideconnection.org/)
+### 出行无忧/[Ride Connection](https://rideconnection.org/)  
+*有双语人员*  
 
 >为老年人和残疾人提供免费门到门交通便利
 
@@ -329,51 +332,62 @@ OCOM诊所服务内容介绍
 
 >现场帮助加入OHP低收入州政府医疗保险计划
 
-### 健康微笑牙医诊所
+### 健康微笑牙医诊所  
+*有双语人员*  
 
 >徐娜牙医提供口腔卫生和牙齿保健咨询
 
-### 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)
+### 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)  
+*有双语人员*  
 
 >老人活动中心介绍  
 老人健康生活咨询  
 
-### 家庭和青少年心理健康咨询/[Huiying Jessica Tull](https://www.bewellfamilycounseling.com/)
+### 家庭和青少年心理健康咨询/[Huiying Jessica Tull](https://www.bewellfamilycounseling.com/)  
+*有双语人员*  
 
 >中国广东长大，2006年搬到美国上大学。作为一名LPC-A和育儿教练，在为个人和家庭服务的心理健康领域有着丰富的经验。
 
-### 冥想的本质/[夏维山](https://www.amazon.com/Essence-Meditation-Weishan-Xia/dp/B0BNV2FXYV/ref=sr_1_1?crid=6QCROW6FYVX0&keywords=weishan+xia&qid=1676751432&sprefix=weishan+xia%2Caps%2C157&sr=8-1)
+### 冥想的本质/[夏维山](https://www.amazon.com/Essence-Meditation-Weishan-Xia/dp/B0BNV2FXYV/ref=sr_1_1?crid=6QCROW6FYVX0&keywords=weishan+xia&qid=1676751432&sprefix=weishan+xia%2Caps%2C157&sr=8-1)  
+*有双语人员*  
 
 >讨论冥想的生物学本质，而不是从中衍生出的哲学和宗教话题。
 
-### 全人健康教练/微鸣
+### 全人健康教练/微鸣  
+*有双语人员*  
 
 >全人健康方法论  
 太极展示  
 
-### OCC房租补贴团队
+### OCC房租补贴团队  
+*有双语人员*  
 
 >现场登记，针对因无法支付房租，有可能成为居无定所的个人和家庭。  
 可以补贴的月份：4月，5月，6月  
 
-### OCC热线电话团队/[Community Support Line](https://pdxchinese.org/support/)
+### OCC热线电话团队/[Community Support Line](https://pdxchinese.org/support/)  
+*有双语人员*  
 
 >发放印有热线电话号码和ID的安全口哨  
 
-### OCC社区支持团队
+### OCC社区支持团队  
+*有双语人员*  
 
 >心冠初期补贴项目  
 精神心理健康同伴支持项目  
 
-### OCC木兰大鼓队/[Mulan Drum Team](https://pdxchinese.org/mulandrum/)
+### OCC木兰大鼓队/[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
+*有双语人员*  
 
 >演示和分享大鼓队活动对身心健康的正面积极的影响  
 
-### OCC青玉青少年舞蹈队/[Jade Dance Team](https://pdxchinese.org/youthdance/)
+### OCC青玉青少年舞蹈队/[Jade Dance Team](https://pdxchinese.org/youthdance/)  
+*有双语人员*  
 
 >演示和分享舞蹈队活动对身心健康的正面积极的影响  
 
-### OCC汉服表演队/[Hanfu Dress Team](https://pdxchinese.org/hanfu/)
+### OCC汉服表演队/[Hanfu Dress Team](https://pdxchinese.org/hanfu/)  
+*有双语人员*  
 
 >演示和分享汉服队活动对身心健康的正面积极的影响  
 
