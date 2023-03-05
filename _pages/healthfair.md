@@ -41,7 +41,8 @@ feature_row2:
 
 ![]({{ site.url }}/assets/images/activities/2023fairflyer.jpg)
 
-### [>> Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)
+### [>> Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
+### [>> Health Fair Survey](https://docs.google.com/forms/d/e/1FAIpQLSd_4AIMlIc641pCQophuSprlJhwqz_ZYHnQVsaNNvEMTKJYEg/viewform?usp=sf_link)  
 
 Health matters to everyone, to the youth who grow in between two cultures, to the parents who shoulder the burden of raising family, and surely to the elderly who learn to age gracefully. The health fair eyes on the wellbeing of entire community.
 
@@ -157,13 +158,14 @@ While supplies last
 **地点:** Embassy Suites Washington Square  
 **地址:** 9000 SW Washington Square Rd, Tigard, OR 97223  
 
-[>> 现场义工报名表格](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)
+[>> 现场义工报名表格](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
+[>> 计划到场人流调查表](https://docs.google.com/forms/d/e/1FAIpQLSd_4AIMlIc641pCQophuSprlJhwqz_ZYHnQVsaNNvEMTKJYEg/viewform?usp=sf_link)  
 
 **波特兰西南区免费专车**
 
 出发上车地点：SE 老人公寓 (3530 SE 84th Ave, Portland, OR 97266)  
-出发上车时间：12点，1点半 (时间有可能会有变动)  
-返回上车时间：2点，3点半 (时间有可能会有变动)  
+出发上车时间：12点，1点半 (时间可能会有变动)  
+返回上车时间：2点，3点半 (时间可能会有变动)  
 
 ### 俄勒冈健康与科学大学/OHSU
 
