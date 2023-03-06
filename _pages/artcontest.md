@@ -44,7 +44,7 @@ feature_row4:
   - image_path: /assets/images/artcontest/2022_grp4_hm.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp4_hm/'>Honorable Mention - Xia</a></p>"
   - image_path: /assets/images/artcontest/2022_grp4_hm2.jpg
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp4_hm2/'>Honorable Mention - Unnamed</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp4_hm2/'>Honorable Mention - Tristan</a></p>"
 ---
 
 **中文信息在此页面的下半部分**
