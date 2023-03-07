@@ -31,7 +31,8 @@ Gathering for young artists, parents, judges, staff and friends from Tualatin Ri
 
 ### 庇护所提供晚餐活动 / Meal Provider for the Clark Center
 
-请参加《OCC庇护所晚餐群》
+**Date:** Every 2nd Sunday 5:30pm-7pm  
+**Place:** The Clark Center by Transition Projects请参加《OCC庇护所晚餐群》  
 
 [报名链接/Registration](https://signup.com/client/invitation2/secure/114701245205736806/false#/invitation)
 
