@@ -26,10 +26,10 @@ feature_row1:
   - image_path: /assets/images/activities/cfpalogo.png  
   - image_path: /assets/images/activities/rideconnection.png
   - image_path: /assets/images/activities/youthlinelogo.jpg  
-  - image_path: /assets/images/activities/gaolaoshilogo.png  
   - image_path: /assets/images/activities/santoshalogo.png  
+  - image_path: /assets/images/activities/yinglogo.jpg  
   - image_path: /assets/images/activities/missionlogo.png
-
+  - image_path: /assets/images/activities/gaolaoshilogo.png  
 feature_row2:
   - image_path: /assets/images/activities/blanklogo.jpg
   - image_path: /assets/images/activities/ohalogo.png
@@ -76,7 +76,7 @@ Community and personal safety by [PPB](https://www.portland.gov/police) officers
 Presentation on youth mental health  
 [Family and youth mental health counseling](https://www.bewellfamilycounseling.com/)  
 Behavioral health prevention program  
-[Youth support and crisis support and help line](https://www.theyouthline.org/)  
+[Youth mental health and crisis](https://www.theyouthline.org/)  
 
 >Cancer genetic screening  
 Cancer risk education  
