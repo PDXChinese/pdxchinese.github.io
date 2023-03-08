@@ -38,6 +38,7 @@ Chinese Food
 *Listed Alphabetically*
 
 [Oregon Hope Chinese School](http://oregon-hope.org/) (Beaverton)  
+[Woodstock Elementary School](https://www.pps.net/woodstock) (SE Portland)  
 
 ### Sponsor and Hosting Organization
 

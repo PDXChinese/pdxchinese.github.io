@@ -56,6 +56,9 @@ As a community-based organization, its strength lies in addressing the root caus
 [Prescription drug discount card program enrollment](https://arrayrxcard.com/)  
 Medicaid (OHP) members, [OHA Ombuds Team](https://www.oregon.gov/oha/ERD/Pages/Ombuds-Program.aspx) is on your side to get quality health care  
 VSP Eyes of Hope Gift card  
+Transportation Assistance (TriMet Fare Relief--free HOP card)  
+Food Security Assistance  
+Utility assistance  
 
 >Get connected to local information and services for seniors and people with disabilities through [ADRC](https://www.adrcoforegon.org/consumersite/index.php)  
 Senior Health Insurance Benefits Assistance ([SHIBA](https://www.multco.us/shiba)) Program  
@@ -200,7 +203,7 @@ While supplies last
 
 >协助寻找医生  
 帮助回答日趋复杂的保险覆盖服务的各种问题  
-唯有需要的人提供去看医生所需的交通  
+为有需要的人提供去看医生所需的交通  
 
 ### 俄勒冈东方医学院/[OCOM](https://www.ocom.edu/)
 
@@ -247,7 +250,8 @@ OCOM诊所服务内容介绍
 
 ### 俄勒冈州住房和社区服务/[Oregon Housing and Community Services](https://www.oregon.gov/ohcs/pages/index.aspx)
 
->3/8开始的新一轮房主抵押贷款补贴项目
+>3/8开始的新一轮房主抵押贷款补贴项目  
+现场回答有关申请问题  
 
 ### 华人服务中心/[Asian Health & Service Center](https://ahscpdx.org/)  
 *有双语人员*  
@@ -349,8 +353,10 @@ OCOM诊所服务内容介绍
 ### 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)  
 *有双语人员*  
 
->老人活动中心介绍  
-老人健康生活咨询  
+>交通补贴 -- 免费公交车卡  
+低收入房租和水气电补贴  
+协助申请低收入医疗保险(OHP)  
+低收入食物保障计划  
 
 ### 家庭和青少年心理健康咨询/[Huiying Jessica Tull](https://www.bewellfamilycounseling.com/)  
 *有双语人员*  
