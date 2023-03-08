@@ -25,9 +25,11 @@ feature_row1:
   - image_path: /assets/images/activities/healthysmileslogo.png  
   - image_path: /assets/images/activities/cfpalogo.png  
   - image_path: /assets/images/activities/rideconnection.png
+  - image_path: /assets/images/activities/youthlinelogo.jpg  
   - image_path: /assets/images/activities/gaolaoshilogo.png  
-  - image_path: /assets/images/activities/missionlogo.png
   - image_path: /assets/images/activities/santoshalogo.png  
+  - image_path: /assets/images/activities/missionlogo.png
+
 feature_row2:
   - image_path: /assets/images/activities/blanklogo.jpg
   - image_path: /assets/images/activities/ohalogo.png
@@ -74,6 +76,7 @@ Community and personal safety by [PPB](https://www.portland.gov/police) officers
 Presentation on youth mental health  
 [Family and youth mental health counseling](https://www.bewellfamilycounseling.com/)  
 Behavioral health prevention program  
+[Youth support and crisis support and help line](https://www.theyouthline.org/)  
 
 >Cancer genetic screening  
 Cancer risk education  
@@ -301,6 +304,12 @@ OCOM诊所服务内容介绍
 
 >社区与个人安全方面知识  
 面对面与社区成员交谈大家关心的各种问题  
+
+### 青少年支持专线/[YouthLine](https://www.theyouthline.org/)
+
+>青少年危机和帮助专线服务内容介绍  
+招揽参与专线服务青少年志愿者  
+青少年精神健康一线报告  
 
 ### 美国武术中心/[US Wushu Center](https://uswushu.com/)  
 *有双语人员*  
