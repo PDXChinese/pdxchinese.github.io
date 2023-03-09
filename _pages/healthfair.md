@@ -20,14 +20,15 @@ feature_row1:
   - image_path: /assets/images/activities/poisonlogo.png
   - image_path: /assets/images/activities/hhhs_logo.png  
   - image_path: /assets/images/activities/asqlonglogo.png
-  - image_path: /assets/images/activities/211logo.png
-  - image_path: /assets/images/activities/ppblogo1.png  
+  - image_path: /assets/images/activities/youthlinelogo.jpg  
+  - image_path: /assets/images/activities/rosewoodlogo.jpg
   - image_path: /assets/images/activities/healthysmileslogo.png  
   - image_path: /assets/images/activities/cfpalogo.png  
+  - image_path: /assets/images/activities/ppblogo1.png  
+  - image_path: /assets/images/activities/211logo.png
   - image_path: /assets/images/activities/rideconnection.png
-  - image_path: /assets/images/activities/youthlinelogo.jpg  
-  - image_path: /assets/images/activities/santoshalogo.png  
   - image_path: /assets/images/activities/yinglogo.jpg  
+  - image_path: /assets/images/activities/santoshalogo.png  
   - image_path: /assets/images/activities/missionlogo.png
   - image_path: /assets/images/activities/gaolaoshilogo.png  
 feature_row2:
@@ -64,8 +65,7 @@ Utility assistance
 Senior Health Insurance Benefits Assistance ([SHIBA](https://www.multco.us/shiba)) Program  
 Help with Medicare Part B and D premiums, Co-pays and deductibles, Prescription costs through [Oregon Medicare Savings Connect](https://www.multco.us/services/oregon-medicare-savings-connect)  
 [Understanding, diagnosis and treatment of Alzheimer’s disease](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
-Free transportation for seniors  
-[Community for seniors](https://communityfpa.org/)  
+Free door to door transportation for seniors  
 
 >[Domestic violence education, women shelter, legal support, youth camp counselor opportunity...](https://www.cwsor.org/)  
 [County clinic, food programs, youth programs, affordable housing...](https://www.multco.us/dchs/bienestar-de-la-familia)  
@@ -80,6 +80,7 @@ Presentation on youth mental health
 [Family and youth mental health counseling](https://www.bewellfamilycounseling.com/)  
 Behavioral health prevention program  
 [Youth mental health and crisis](https://www.theyouthline.org/)  
+Children and youth with special health care needs  
 
 >Cancer genetic screening  
 Cancer risk education  
@@ -199,6 +200,11 @@ While supplies last
 >为什么说毒物随处可见  
 每12秒就会有一个人打电话到毒物中心，自己能做什么？  
 
+俄勒冈州有特殊医疗保健需求的儿童和青少年中心/[Oregon Center for Children and Youth with Special Health Needs](https://www.ohsu.edu/oregon-family-to-family-health-information-center)
+
+>为有特殊健康需求的儿童和青少年的父母和看护人提供服务  
+帮助人们获得残疾和特殊需要儿童所需的服务  
+
 ### [CareOregon](https://www.careoregon.org/) 医疗保险公司
 
 >协助寻找医生  
@@ -259,6 +265,11 @@ OCOM诊所服务内容介绍
 >社区健康和保健服务  
 行为健康预防计划  
 亚裔癌症资源和支持服务  
+
+### 瑰丽家庭健康中心/[Rosewood Family Health Center](https://www.yvfwc.com/locations/rosewood-family-health-center/)
+
+>专长为低收入家庭提供健康服务  
+现场回答大家提出各种问题，包括接收新病人，预约，保险，服务范围等  
 
 ### 摩特诺玛县老年人、残疾人和退伍军人服务部/[Multnomah County Aging Disability & Veterans Services](https://www.multco.us/ads)
 
