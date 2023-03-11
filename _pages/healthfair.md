@@ -8,13 +8,13 @@ feature_row1:
   - image_path: /assets/images/activities/cwslogo.jpg
   - image_path: /assets/images/activities/fjclogo.png
   - image_path: /assets/images/activities/namilogo.jpg
-  - image_path: /assets/images/activities/bienestarlogo.png
+  - image_path: /assets/images/activities/ohaflogo.png
   - image_path: /assets/images/activities/ohcslogo.png
   - image_path: /assets/images/activities/ahsclogo.png
   - image_path: /assets/images/activities/adrc_logo.jpg
   - image_path: /assets/images/activities/shibalogo.png
   - image_path: /assets/images/activities/medicaresavinglogo.png
-  - image_path: /assets/images/activities/ohaflogo.png
+  - image_path: /assets/images/activities/cfpalogo.png  
   - image_path: /assets/images/activities/lecarelogo.jpg
   - image_path: /assets/images/activities/arrayrxlogo.jpg
   - image_path: /assets/images/activities/poisonlogo.png
@@ -23,11 +23,10 @@ feature_row1:
   - image_path: /assets/images/activities/youthlinelogo.jpg  
   - image_path: /assets/images/activities/rosewoodlogo.jpg
   - image_path: /assets/images/activities/healthysmileslogo.png  
-  - image_path: /assets/images/activities/cfpalogo.png  
+  - image_path: /assets/images/activities/yinglogo.jpg  
   - image_path: /assets/images/activities/ppblogo1.png  
   - image_path: /assets/images/activities/211logo.png
   - image_path: /assets/images/activities/rideconnection.png
-  - image_path: /assets/images/activities/yinglogo.jpg  
   - image_path: /assets/images/activities/santoshalogo.png  
   - image_path: /assets/images/activities/missionlogo.png
   - image_path: /assets/images/activities/gaolaoshilogo.png  
@@ -109,7 +108,6 @@ Yoga demonstration and onsite coaching
 Onsite rent assistance intake  
 Mortgage assistance to homeowners through [HAF program](https://www.oregon.gov/ohcs/homeownership/Documents/HAF-Packet-simpchi.pdf)  
 [OCC safety whistle](https://pdxchinese.org/support/) registration and giveaway  
-Cash card giveaway to low-income individual and families  
 Community programs that bring positive impacts to mental health  
 [Community volunteer opportunities and PVSA certification](https://pdxchinese.org/volunteering/)  
 
@@ -173,6 +171,8 @@ While supplies last
 出发上车地点：SE 老人公寓 (3530 SE 84th Ave, Portland, OR 97266)  
 出发上车时间：12点，1点半 (时间可能会有变动)  
 返回上车时间：2点，3点半 (时间可能会有变动)  
+
+如果自行乘车前往：可以搭乘 56号公交 (36分钟）和 FX2 (30分钟）
 
 ### 俄勒冈健康与科学大学/OHSU
 
@@ -245,15 +245,6 @@ OCOM诊所服务内容介绍
 
 *OCC将会与他们长期合作，分享资源，培训社区精神心理健康义工*
 
-### 摩特诺玛县双星项目/[Multnomah County Bienestar](https://www.multco.us/global/bienestar-de-la-familia)
-
->提供心理健康和成瘾服务  
-低收入家庭食物和现金卡分发  
-资源如房租补贴推荐服务  
-高中生实习机会  
-
-*OCC是双星项目合作伙伴之一*
-
 ### 俄勒冈州住房和社区服务/[Oregon Housing and Community Services](https://www.oregon.gov/ohcs/pages/index.aspx)
 
 >3/8开始的新一轮房主抵押贷款补贴项目  
@@ -292,6 +283,15 @@ OCOM诊所服务内容介绍
 ### 州政府为低收入健康保险(OHP)持有者提供支持服务/[OHA Ombuds Team](https://www.oregon.gov/oha/ERD/Pages/Ombuds-Program.aspx)
 
 >如果您对得到的服务有抱怨，她们会帮助到您。
+
+### 州政府医疗保险选购市场团队/[OHA Market Place Team](https://healthcare.oregon.gov/Pages/index.aspx)
+
+>如果您打算为个人或家庭或自己的公司选购医疗保险，选购市场提供众多选项，团队成员现场回答任何问题
+
+### 州政府老年人和残疾人服务团队/[Aging and People with Disabilities Team](https://www.oregon.gov/dhs/seniors-disabilities/Pages/index.aspx)
+
+>为智障人提供就业和其他保障性质的服务  
+为老人和残疾人提供服务信息，包括护工，长期护理等  
 
 ### 克拉克默斯县卫生住房和公众服务/[H3S-Clackamas County](https://www.clackamas.us/h3s)
 
