@@ -45,7 +45,7 @@ feature_row2:
 
 [>> Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
 [>> Health Fair Survey](https://docs.google.com/forms/d/e/1FAIpQLSd_4AIMlIc641pCQophuSprlJhwqz_ZYHnQVsaNNvEMTKJYEg/viewform?usp=sf_link)  
-[>> Tabling Map](/assets/images/activities/healthfairmap2023.jpg)  
+[>> Tabling Map](/assets/images/activities/healthfairmap2023.pdf)  
 
 Health matters to everyone, to the youth who grow in between two cultures, to the parents who shoulder the burden of raising family, and surely to the elderly who learn to age gracefully. The health fair eyes on the wellbeing of entire community.
 
@@ -167,7 +167,7 @@ While supplies last
 [>> 现场义工报名表格](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
 [>> 计划到场人流调查表](https://docs.google.com/forms/d/e/1FAIpQLSd_4AIMlIc641pCQophuSprlJhwqz_ZYHnQVsaNNvEMTKJYEg/viewform?usp=sf_link)  
 [>> 社区健康博览会内容介绍](https://pdxchinese.org/benefits_from_attending_health_fair_2023/)  
-[>> 现场摊位位置图](/assets/images/activities/healthfairmap2023.jpg)  
+[>> 现场摊位位置图](/assets/images/activities/healthfairmap2023.pdf)  
 
 **波特兰西南区免费专车**
 
@@ -177,7 +177,7 @@ While supplies last
 
 如果自行乘车前往：可以搭乘 56号公交 (36分钟）和 FX2 (30分钟）
 
-### 俄勒冈健康与科学大学/OHSU
+### [17-21] 俄勒冈健康与科学大学/OHSU
 
 [17] 奈特癌症研究所/[Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute)  
 *有双语人员*  
@@ -410,17 +410,17 @@ While supplies last
 耳针治疗展示，欢迎现场观众参与。  
 OCOM诊所服务内容介绍  
 
-### [B] OCC青玉青少年舞蹈队/[Jade Dance Team](https://pdxchinese.org/youthdance/)  
+### [A] OCC青玉青少年舞蹈队/[Jade Dance Team](https://pdxchinese.org/youthdance/)  
 *有双语人员*  
 
 >演示和分享舞蹈队活动对身心健康的正面积极的影响  
 
-### [C] OCC汉服表演队/[Hanfu Dress Team](https://pdxchinese.org/hanfu/)  
+### [B] OCC汉服表演队/[Hanfu Dress Team](https://pdxchinese.org/hanfu/)  
 *有双语人员*  
 
 >演示和分享汉服队活动对身心健康的正面积极的影响  
 
-### [D] OCC木兰大鼓队/[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
+### [C] OCC木兰大鼓队/[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
 *有双语人员*  
 
 >演示和分享大鼓队活动对身心健康的正面积极的影响  
