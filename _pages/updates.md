@@ -6,10 +6,6 @@ permalink: /updates/
 
 # 近期年度活动 / Recent Annual Events
 
-### [青少年绘画比赛/Youth Art Contest](https://pdxchinese.org/artcontest/) Award Ceremony
-
-Gathering for young artists, parents, judges, staff and friends from Tualatin River National Wildlife Refuge and community members will be held on March 11, 2023 at 2pm, at the Tualatin River National Wildlife Refuge. The award ceremony is from 2-2:30pm with refreshments provided. From 2:30-3:30, families are invited to go on a guided nature walk with Park Ranger Natalie.
-
 ### [2023华人社区健康博览会/Community Health Fair](https://pdxchinese.org/healthfair/)
 
 **Date:** 3/19/2023 12pm-4pm  
