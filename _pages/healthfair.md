@@ -142,10 +142,10 @@ Mental Health Support Group
 
 ### Brand New Household Items Giveaway (Umpqua River Room)
 
-Each person can pick 3 items  
-People who've filled out survey on tobacco use can pick 3 additional items  
-People who've attended one presentation can pick 3 additional items  
-During entire health fair, each person can pick up to 10 items max.  
+Each person can choose 5 items  
+People who've pledged to quit smoking can choose 3 additional items  
+People who've attended one presentation can choose 3 additional items  
+During entire health fair, each person can choose up to 10 items max.  
 While supplies last  
 
 ### The Fair is Partially Funded with Grants from
@@ -438,8 +438,8 @@ OCOM诊所服务内容介绍
 ### 全新各类杂货派发 (Umpqua River 会议室)
 
 感谢善心人士慷慨捐赠  
-到场每人限3件  
-填写吸烟调查表，可以额外领取3件  
+到场每人限5件  
+填写戒烟意向表，可以额外领取3件  
 每参加一个讲座，可以额外领取3件  
 整个活动中每人最多可以领取10件  
 发完为止  
