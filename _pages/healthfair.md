@@ -384,23 +384,19 @@ While supplies last
 ### [33] Bethany 运动俱乐部/[Bethany Athletic Club](https://bethanyathleticclub.com/)  
 *有双语人员*  
 
->陈大慧和 Chris Schaus 展示 Santosha 瑜伽  
-瑜伽与健康知识讲解  
-欢迎大家现场参与  
+>陈大慧和 Chris Schaus 展示讲解 Santosha 瑜伽  
 
 ### [34] 美国武术中心/[US Wushu Center](https://uswushu.com/)  
 *有双语人员*  
 
->太极展示  
-太极与健康知识讲解    
+>健身气功展示和互动  
 
 *1点-2点时段*
 
 ### [34] 全人健康教练/微鸣  
 *有双语人员*  
 
->全人健康方法论  
-太极展示  
+>全人健康方法论及太极展示  
 
 *2-4点时段。*
 

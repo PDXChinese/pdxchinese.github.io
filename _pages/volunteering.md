@@ -46,3 +46,5 @@ We also have a few special WeChat groups for specific volunteer activities, incl
 [HandsOn Greater Portland](https://www.handsonportland.org/)
 
 [The Complete List of Community Service Scholarships](https://blog.prepscholar.com/community-service-scholarships-complete-list)
+
+[How People Can Help Charities Remotely](https://www.ireviews.com/remote-volunteer-opportunities/)
