@@ -398,7 +398,7 @@ While supplies last
 
 >全人健康方法论及太极展示  
 
-*2-4点时段。*
+*2-4点时段*
 
 ### [35] 俄勒冈东方医学院/[OCOM](https://www.ocom.edu/)
 
