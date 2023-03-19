@@ -310,7 +310,7 @@ While supplies last
 招揽参与专线服务青少年志愿者  
 青少年精神健康一线报告  
 
-### [6] 健康微笑牙医诊所  
+### [6] 健康微笑牙医诊所/[Healthy Smiles Family Dental at Idylwood](https://www.myfamilydentistsalem.com/)  
 *有双语人员*  
 
 >徐娜牙医提供口腔卫生和牙齿保健咨询
