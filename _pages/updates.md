@@ -6,10 +6,10 @@ permalink: /updates/
 
 # 近期年度活动 / Recent Annual Events
 
-### [2023华人社区健康博览会/Community Health Fair](https://pdxchinese.org/healthfair/)
+### [2023华人和乌克兰社区绘画联展/Chinese and Ukraianian Community Art Exhibition](https://pdxchinese.org/artexhibit/)
 
-**Date:** 3/19/2023 12pm-4pm  
-**Place:** Embassy Suites Washington Square, Tigard, OR 97223  
+**Date:** 5/4/2023 - 5/28/2023  
+**Place:** 412 NW Couch Street, Portland, OR 97209  
 
 ### [2023文化体验日/Culture Day](https://pdxchinese.org/cultureday/)
 
