@@ -39,6 +39,8 @@ feature_row2:
   - image_path: /assets/images/activities/clacklogo.jpg
 ---
 
+*[Health Fair Album / 健康博览会相册](https://pdxchinese.org/community_health_fair_2023/)*
+
 **中文信息在此页面的下半部分**
 
 ![]({{ site.url }}/assets/images/activities/2023fairflyer.jpg)

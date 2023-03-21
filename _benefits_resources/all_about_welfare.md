@@ -45,7 +45,7 @@ Health Share可以为您提供帮助帮助，这里是他们的[中文资料](ht
 
 ### 老年公寓信息
 
-低收入情况，可以直接浏览公寓网页，上面有申请资格和表格， 如 [The Union Manors](https://theunionmanors.org/)。  
+低收入情况，可以直接浏览公寓网页，上面有申请资格和表格， 如 [The Union Manors](https://theunionmanors.org/)，Marshall主要是新移民的父母住，讲普通话。Kirkland以讲广东话和台山话老一代移民为主。讲普通话的还有市中心12街的 [Rose Schnitzer Tower](https://cedarsinaipark.org/wp-content/uploads/2021/10/Rose-Schnitzer-Tower-Application-Packet-3.4.2021.pdf)  
 非低收入情况，可以浏览 [AssistedLiving.org](https://www.assistedliving.org/oregon/portland/) 网站。  
 
 ### 老年人或残疾人需要看护怎么办
