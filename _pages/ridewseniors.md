@@ -13,9 +13,9 @@ feature_row1:
 **Time:** Pick up at 10am and return by 1pm  
 **Place:** [Kirkland Union Manors](https://theunionmanors.org/kirkland-union-manors/) and [Lan Su Chinese Garden](https://lansugarden.org/)  
 
-*Please sign up in the office during business hours*
+*义工会提前在公寓大厅接受报名*
 
-![]({{ site.url }}/assets/images/activities/inthepark.jpg)
+![]({{ site.url }}/assets/images/activities/ridewseniors2.jpg)
 
 ### Our Proud Community Partners
 
