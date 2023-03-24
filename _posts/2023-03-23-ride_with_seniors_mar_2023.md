@@ -33,6 +33,6 @@ Professional photos will be available later. We cannot wait to share our excitem
 
 ![]({{ site.url }}/assets/images/337408710_605485448137063_6716832931444101136_n.jpg)
 
-![]({{ site.url }}/assets/images/activities/ride1.jpg)
+![]({{ site.url }}/assets/images/activities/ridewseniors1.jpg)
 
-![]({{ site.url }}/assets/images/activities/ride2.jpg)
+![]({{ site.url }}/assets/images/activities/ridewseniors2.jpg)
