@@ -16,6 +16,10 @@ feature_row1:
 *义工会提前在公寓大厅接受报名*
 
 ![]({{ site.url }}/assets/images/activities/ridewseniors2.jpg)
+<br>
+![]({{ site.url }}/assets/images/activities/ride1.jpg)
+<br>
+![]({{ site.url }}/assets/images/activities/ride2.jpg)
 
 ### Our Proud Community Partners
 
