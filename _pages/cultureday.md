@@ -14,6 +14,8 @@ feature_row1:
 **Purpose:** To promote culture, the arts, and academic endeavor  
 **Participants:** Chinese program students at public, charter and private schools  
 
+![]({{ site.url }}/assets/images/activities/cultureday.jpg)
+
 >[Sign up](https://docs.google.com/forms/d/e/1FAIpQLSeowOX9XphfUxII1tyVp3jBqOpdLJy2-SSAlLhjywypuYXo8g/viewform?usp=sf_link) to be a Chinese homework helper
 
 ###  Programs
