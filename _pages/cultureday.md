@@ -12,37 +12,60 @@ feature_row1:
 **Place:** [THPRD Jenkins Estate](https://www.thprd.org/facilities/historic/jenkins-estate) (8005 SW Grabhorn Rd, Beaverton, OR 97007)  
 
 **Purpose:** To promote culture, the arts, and academic endeavor  
-**Participants:** Chinese program students at public, charter and private schools  
+**Participants:** Chinese program students, parents and teachers  
 
 ![]({{ site.url }}/assets/images/activities/cultureday.jpg)
 
 >[Sign up](https://docs.google.com/forms/d/e/1FAIpQLSeowOX9XphfUxII1tyVp3jBqOpdLJy2-SSAlLhjywypuYXo8g/viewform?usp=sf_link) to be a Chinese homework helper
 
-###  Programs
-*Subject to change*
+### Programs  
+*Subject to change*  
 
-Performances  
+[Performances]  
 *On the porch of the Main House*  
 
-Crafts Activities  
+[Crafts Activities]  
 *Stable (main floor)*  
 
-Teacher's Social Time  
+[Teacher's Social Time]  
 *Main House (meeting room)*  
 
-Show and Tell  
+[Chinese Traditional Clothing (Hanfu) Try-On]  
 *Stable (second floor)*  
 
-Chinese Food  
+[Traditional Chinese Dance Learning & Practicing]  
+*Under Tent*  
+
+[Guzheng Try-On]  
+*Under Tent*  
+
+[Chinese Drum Try-On]  
+*Under Tent*  
+
+[Dragon Dance Try-On]  
+*Outside*  
+
+[Chinese Food]  
 *Covered picnic shelter*  
 
-### Participating Schools and Programs
-*Listed Alphabetically*
+### Chinese Textbooks Giveaway  
+*Under Tent*  
 
+### Chinese DIY Lantern Giveaway  
+*Under Tent*  
+
+### Chinese Culture Gifts Tent  
+*On Sale*  
+
+### Schools and Programs  
+*Listed Alphabetically*  
+
+[Goodtime Chinese School](https://goodtimechineseschool.org/) (Beaverton)  
+[Jefferson High School](https://www.pps.net/jefferson) (N Portland)  
 [Oregon Hope Chinese School](http://oregon-hope.org/) (Beaverton)  
 [Woodstock Elementary School](https://www.pps.net/woodstock) (SE Portland)  
 
-### Sponsor and Hosting Organization
+### Proud Sponsor
 
 {% include feature_row id="feature_row1"%}
 
