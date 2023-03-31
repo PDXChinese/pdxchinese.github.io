@@ -5,8 +5,8 @@ feature_row1:
   - image_path: /assets/images/activities/logo-lens_v5.jpg
 ---
 
-# Special Project: Real People, Real Stories  
-# 我的生活，我的故事  
+# Oral History: Real People, Real Stories  
+# 口述历史: 我的生活，我的故事  
 
 >> [采访当地华人推荐表/Referral Form](https://docs.google.com/forms/d/e/1FAIpQLSconI7lF4QMz0Wvl34UQhkkMm9pq6PuIGGvP7Ek3Ie8dzvU9A/viewform?usp=sf_link)  
 >> [Consent and Release Form](/assets/pdf/yl_consent_form.pdf)  
@@ -33,16 +33,22 @@ feature_row1:
 
 [链接](https://drive.google.com/drive/folders/1L6SOWZnpL_NRDsofwVmAzfuN2_LQ5dI-?usp=sharing)
 
+<br>
+
 # Writings About Local Chinese Americans  
 # 当地华人青少年关于华人历史写作  
 
 <iframe src="{{ site.url }}/assets/pdf/shengyao.pdf" style="width: 100%; height: 600px"></iframe>
 
+<br>
+
 # External Resources Compiled by OCC  
 # OCC之外有关本地华人历史资料  
 *Coming soon...*  
 
-# More Background About Chinese Americans in State of Oregon  
+<br>
+
+# More On Chinese Americans in State of Oregon  
 # 更多的有关本地华人历史的信息资料  
 
 [华人美国人在俄勒冈和美国的历史](https://pdxchinese.org/resources/benefits_resources/chinese-american/)
