@@ -25,7 +25,7 @@ feature_row1:
 ### Oregon Chinese Weekly  
 *Started from 2000, totally 142 issues*  
 
-### Photos Collected by Gloria Wong
+### Collections by Gloria Wong
 
 [链接](https://drive.google.com/drive/folders/1L6SOWZnpL_NRDsofwVmAzfuN2_LQ5dI-?usp=sharing)
 
