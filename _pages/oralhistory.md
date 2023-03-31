@@ -5,7 +5,8 @@ feature_row1:
   - image_path: /assets/images/activities/logo-lens_v5.jpg
 ---
 
-# Special Project: Real People, Real Stories 我的生活，我的故事  
+# Special Project: Real People, Real Stories  
+# 我的生活，我的故事  
 
 >> [采访当地华人推荐表/Referral Form](https://docs.google.com/forms/d/e/1FAIpQLSconI7lF4QMz0Wvl34UQhkkMm9pq6PuIGGvP7Ek3Ie8dzvU9A/viewform?usp=sf_link)  
 >> [Consent and Release Form](/assets/pdf/yl_consent_form.pdf)  
@@ -14,7 +15,10 @@ feature_row1:
 
 <iframe width="1070" height="602" src="https://www.youtube.com/embed/N98gtCZJUsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Digitized Historical Items
+<br>
+
+# Digitized Historical Items  
+# 数字扫描历史文件
 
 ### Oregon Chinese News by CCBA  
 *1960s-1990s*  
@@ -25,14 +29,20 @@ feature_row1:
 ### Oregon Chinese Weekly  
 *Started from 2000, totally 142 issues*  
 
-### Collections by Gloria Wong
+### Collections by Gloria Wong (1931-)
 
 [链接](https://drive.google.com/drive/folders/1L6SOWZnpL_NRDsofwVmAzfuN2_LQ5dI-?usp=sharing)
 
-# Writings About Local Chinese Americans
+# Writings About Local Chinese Americans  
+# 当地华人青少年关于华人历史写作  
 
-# External Resources Compiled by OCC
+<iframe src="{{ site.url }}/assets/pdf/shengyao.pdf" style="width: 100%; height: 600px"></iframe>
 
-# More Background About Chinese Americans in State of Oregon
+# External Resources Compiled by OCC  
+# OCC之外有关本地华人历史资料  
+*Coming soon...*  
+
+# More Background About Chinese Americans in State of Oregon  
+# 更多的有关本地华人历史的信息资料  
 
 [华人美国人在俄勒冈和美国的历史](https://pdxchinese.org/resources/benefits_resources/chinese-american/)
