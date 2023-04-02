@@ -60,6 +60,8 @@ facebook:
   username               : "Oregon-Chinese-Coalition-568850810154157"
   app_id                 :
   publisher              :
+youtube:
+  channel                : "UCEirGv1g7DAC0udxm_-Fvxg"
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
