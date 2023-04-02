@@ -11,6 +11,7 @@ feature_row:
 
 ### Blogs
 
+Replacing Red Lanterns in Chinatown ([(11.13.2022)](https://pdxchinese.org/chinatown/newyear/2022-11-13-replacing_lanterns_in_chinatown_2022/))  
 Mid-Autumn Festival in Chinatown ([09.16.2021-09.19.2021](https://pdxchinese.org/mid-autumn_celebration_2021/))  
 Lantern Ferstival in Chinatown ([10.01.2020](https://pdxchinese.org/lantern_festival_2020/))  
 
@@ -25,6 +26,10 @@ Hanging Red Lanterns in Chinatown ([08.25.2018](http://pdxchinese.org/chinatown/
 ### SOP
 
 SOP of Lantern Assembly: Step [1](/assets/images/activities/sop_lantern_01.jpg), [2](/assets/images/activities/sop_lantern_02.jpg), [3](/assets/images/activities/sop_lantern_03.jpg), [4](/assets/images/activities/sop_lantern_04.jpg), [5](/assets/images/activities/sop_lantern_05.jpg), [6](/assets/images/activities/sop_lantern_06.jpg)
+
+### History
+
+[Permits - Petition to Hang Chinese Lanterns (Saturday, December 31, 1892)](/assets/pdf/1892_permit.pdf)
 
 ### Acknowledgement
 
