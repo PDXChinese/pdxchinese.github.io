@@ -46,8 +46,12 @@ extra:
         url: /winterdrive/
       - title: "<b>:: Youth ::</b>"
         url:
+      - title: "Jade Dance Team"
+        url: /youthdance/
       - title: "Peer Connect"
         url: /peerconnect/
+      - title: "Phoenix Hanfu Team"
+        url: /hanfu/
       - title: "PVSA Honorees"
         url: /pvsa/
       - title: "Youth Ambassadors"
@@ -58,8 +62,6 @@ extra:
         url: /camps/
       - title: "Youth Conference"
         url: /youthconference/
-      - title: "Youth Dance Team"
-        url: /youthdance/
       - title: "Youth Drum Team"
         url: /drumteam/
       - title: "Youth Lens"
@@ -86,8 +88,6 @@ extra:
         url: /library/
       - title: "Culture Day"
         url: /cultureday/
-      - title: "Hanfu Dress Team"
-        url: /hanfu/
       - title: "Lantern Festival"
         url: /lanternfestival/
       - title: "Mulan Drum Team"

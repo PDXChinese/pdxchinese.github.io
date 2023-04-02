@@ -2,16 +2,23 @@
 title: ""
 permalink: /oralhistory/
 feature_row1:
-  - image_path: /assets/images/activities/logo-lens_v5.jpg
+  - image_path: /assets/images/WeChat Image_20210902093137.jpg
+    excerpt: "<p><a href='https://youtu.be/x4xYzixb5bQ'>Mandarin House</a></p>"
+  - image_path: /assets/images/WeChat Image_20221220001022.jpg
+    excerpt: "<p><a href='https://youtu.be/PJqUWFoYrSc'>Orox Leather Co.</a></p>"
+  - image_path: /assets/images/320959387_680572430204142_8279162842050460109_n.jpg
+    excerpt: "<p><a href='https://pdxchinese.org/community_stories_interview_01/'>Gloria Wong</a></p>"
+  - image_path: /assets/images/339276999_1981604972181299_7770111102246970301_n.jpg
+    excerpt: "<p><a href='https://pdxchinese.org/oral_history_dick_lee_xiaohui_chen/'>Dick Lee & Xiaohui Chen</a></p>"  
 ---
 
 # Oral History: Real People, Real Stories  
-# 口述历史: 我的生活，我的故事  
+# 口述历史：我的生活，我的故事  
 
 >> [采访当地华人推荐表/Referral Form](https://docs.google.com/forms/d/e/1FAIpQLSconI7lF4QMz0Wvl34UQhkkMm9pq6PuIGGvP7Ek3Ie8dzvU9A/viewform?usp=sf_link)  
 >> [Consent and Release Form](/assets/pdf/yl_consent_form.pdf)  
 
-<iframe width="1070" height="602" src="https://www.youtube.com/embed/N98gtCZJUsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include feature_row id="feature_row1"%}
 
 <br>
 
@@ -42,7 +49,9 @@ feature_row1:
 
 # External Resources Compiled by OCC  
 # OCC之外有关本地华人历史资料  
-*Coming soon...*  
+
+[Chih Wang](http://scarc.library.oregonstate.edu/omeka/exhibits/show/oralhistory/item/33806)  
+[Roberta Wong and Tuck Lung Company](https://theimmigrantstory.org/artist-invites-viewers-to-think/)  
 
 <br>
 
