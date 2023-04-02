@@ -13,18 +13,13 @@ Journalism Mentors: Frances Lu Pai Ippolito, Christine Pitawanich
 Technology Mentors: Ni Xu, Guangchao Zhang  
 
 ![]({{ site.url }}/assets/images/activities/youtubechannel.png)
-[OCC Youth Lens YouTube Channel](https://www.youtube.com/channel/UCEirGv1g7DAC0udxm_-Fvxg)
+[OCC YouTube Channel](https://www.youtube.com/channel/UCEirGv1g7DAC0udxm_-Fvxg)
 
 [Youth Journalist Application](https://docs.google.com/forms/d/e/1FAIpQLScK3ahKKd_XjBtZNlOqSQhaRgjLDolodXpg9dIBx3lLu3mbWg/viewform?usp=sf_link) (Highschool and college students only)
 
 >> Special Project: Real People, Real Stories 我的生活，我的故事  
 >> [采访当地华人推荐表/Referral Form](https://docs.google.com/forms/d/e/1FAIpQLSconI7lF4QMz0Wvl34UQhkkMm9pq6PuIGGvP7Ek3Ie8dzvU9A/viewform?usp=sf_link)  
 >> [Consent and Release Form](/assets/pdf/yl_consent_form.pdf)  
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/PrMUT0cMcF8" title="Special Project: Real People, Real Story - Gloria Wong Interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-[Annie Duan](https://pdxchinese.org/pvsafiles/2022_Annie_Duan/), Jesuit High School  
-Helen Wang, Sunset High School  
 
 <iframe width="1070" height="602" src="https://www.youtube.com/embed/N98gtCZJUsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

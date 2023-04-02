@@ -9,6 +9,4 @@ date: "2023-03-24"
 
 The first video of OCC oral history project : Real People, Real Story (我的生活，我的故事) was produced by Annie Duan and Helen Wang with support from OCC Youth Lens mentors. We will continue to document the Chinese Americans living in Portland as well as any part of the State with no end date.
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/PrMUT0cMcF8" title="Special Project: Real People, Real Story - Gloria Wong Interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 采访现场: [https://pdxchinese.org/community_stories_interview_01/](https://pdxchinese.org/community_stories_interview_01/)
