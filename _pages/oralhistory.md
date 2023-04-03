@@ -12,6 +12,8 @@ feature_row1:
     excerpt: "<p><a href='https://pdxchinese.org/oral_history_dick_lee_xiaohui_chen/'>Oregon Chinese Weekly</a></p>"  
   - image_path: /assets/images/WeChat Image_20230403002003.jpg
     excerpt: "<p><a href='https://.../'>Fred Wong</a></p>"  
+  - image_path: /assets/images/activities/h2c2.jpg
+    excerpt: "<p><a href='https://youtu.be/v15E5VRrtJI'>H2C Relay Team</a></p>"  
 ---
 
 # Oral History: Real People, Real Stories  
