@@ -26,11 +26,11 @@ feature_row11:
 feature_row12:
     - image_path: /assets/images/2021chinese_festival_009.jpg
 feature_row13:
-    - image_path: /assets/images/4e16b0d01af46a41d955a1b7307e51f2.jpg
+    - image_path: /assets/images/39a959cda908b61f71726adbd62570ec.jpg
 feature_row14:
-    - image_path: /assets/images/2021chinese_festival_021.jpg
+    - image_path: /assets/images/2021chinese_festival_021.JPG
 feature_row15:
-    - image_path: /assets/images/2021chinese_festival_024.jpg
+    - image_path: /assets/images/2021chinese_festival_024.JPG
 feature_row16:
     - image_path: /assets/images/298989089_1745525275820032_143218121227231996_n.jpg
 ---
