@@ -10,11 +10,9 @@ feature_row1:
     excerpt: "<p><a href='https://pdxchinese.org/community_stories_interview_01/'>Gloria Wong</a></p>"
   - image_path: /assets/images/339278248_1295146854369639_1922066907187848118_n.jpg
     excerpt: "<p><a href='https://pdxchinese.org/oral_history_dick_lee_xiaohui_chen/'>Oregon Chinese Weekly</a></p>"  
-  - image_path: /assets/images/WeChat Image_20230403002054.jpg
-    excerpt: "<p><a href='https://'>Fred Wong</a></p>"  
+  - image_path: /assets/images/WeChat Image_20230403002003.jpg
+    excerpt: "<p><a href='https://.../'>Fred Wong</a></p>"  
 ---
-
-WeChat Image_20230403002054
 
 # Oral History: Real People, Real Stories  
 # 口述历史：我的生活，我的故事  
@@ -34,7 +32,7 @@ WeChat Image_20230403002054
 *2000-2004*  
 
 ### Oregon Chinese Weekly  
-*Started from 2000, totally 142 issues*  
+*Started from 2002, totally 142 issues*  
 
 ### Collections by Gloria Wong (1931-)
 
@@ -55,3 +53,7 @@ WeChat Image_20230403002054
 # 更多的有关本地华人历史的信息资料  
 
 [华人美国人在俄勒冈和美国的历史](https://pdxchinese.org/resources/benefits_resources/chinese-american/)
+
+### Restrictions on Use
+
+Copyright for interviews and writings organized by OCC is held by the Oregon Chinese Coalition. Use is allowed according to the following statement: In Copyright – Educational Use Permitted, [http://rightsstatements.org/vocab/InC-EDU/1.0/](http://rightsstatements.org/vocab/InC-EDU/1.0/).

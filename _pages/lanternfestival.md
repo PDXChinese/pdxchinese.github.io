@@ -29,7 +29,7 @@ SOP of Lantern Assembly: Step [1](/assets/images/activities/sop_lantern_01.jpg),
 
 ### History
 
-[Permits - Petition to Hang Chinese Lanterns (Saturday, December 31, 1892)](/assets/pdf/1892_permit.pdf)
+[Permits - Petition to Hang Chinese Lanterns (Saturday, December 31, 1892)](/assets/pdf/1892_permit.PDF)
 
 ### Acknowledgement
 
