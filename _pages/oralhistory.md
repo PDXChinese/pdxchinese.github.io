@@ -8,9 +8,13 @@ feature_row1:
     excerpt: "<p><a href='https://youtu.be/PJqUWFoYrSc'>Orox Leather Co.</a></p>"
   - image_path: /assets/images/320959387_680572430204142_8279162842050460109_n.jpg
     excerpt: "<p><a href='https://pdxchinese.org/community_stories_interview_01/'>Gloria Wong</a></p>"
-  - image_path: /assets/images/339276999_1981604972181299_7770111102246970301_n.jpg
-    excerpt: "<p><a href='https://pdxchinese.org/oral_history_dick_lee_xiaohui_chen/'>Dick Lee & Xiaohui Chen</a></p>"  
+  - image_path: /assets/images/339278248_1295146854369639_1922066907187848118_n.jpg
+    excerpt: "<p><a href='https://pdxchinese.org/oral_history_dick_lee_xiaohui_chen/'>Oregon Chinese Weekly</a></p>"  
+  - image_path: /assets/images/WeChat Image_20230403002054.jpg
+    excerpt: "<p><a href='https://'>Fred Wong</a></p>"  
 ---
+
+WeChat Image_20230403002054
 
 # Oral History: Real People, Real Stories  
 # 口述历史：我的生活，我的故事  
