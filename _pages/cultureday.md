@@ -5,8 +5,6 @@ feature_row1:
   - image_path: /assets/images/activities/thprdlogo.png
 feature_row2:
     - image_path: /assets/images/325932671_504747941800947_4915525851583184872_n.jpg
-    - image_path: /assets/images/8ed06c7136a4862bb548322aa75d4ba4.jpg
-    - image_path: /assets/images/e63a7703a061d32ade465e2ab9b04542.jpg
 feature_row3:
     - image_path: /assets/images/326789587_749377412864771_4179937397141933224_n.jpg
     - image_path: /assets/images/326974363_546772340845574_7987278488548586835_n.jpg
@@ -17,7 +15,7 @@ feature_row4:
     - image_path: /assets/images/54af90055c36aa9a49f3e0cc068de064.jpg
 feature_row5:
     - image_path: /assets/images/298460722_1745525362486690_5254892417078777384_n.jpg
-    - image_path: /assets/images/lan_su_mid_autummn_festival_2022_03.jpg
+    - image_path: /assets/images/lan_su_mid_autummn_festival_2022_03.JPG
 feature_row6:
     - image_path: /assets/images/2021chinese_festival_072.jpg
     - image_path: /assets/images/329376108_558174069577947_236637955267336362_n.jpg
@@ -26,11 +24,11 @@ feature_row7:
     - image_path: /assets/images/328318861_2040298222838951_5592111946553194508_n.jpg
     - image_path: /assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091117.jpg
 feature_row8:
-    - image_path: /assets/images/307968021_1782837955422097_4040306634259809925_n.jpg
     - image_path: /assets/images/329321684_3581841848712864_9140941873964539826_n.jpg
-    - image_path: /assets/images/327950829_1335452843915392_5472510016838186214_n.jpg
 feature_row9:
     - image_path: /assets/images/298675473_1745525545820005_7269871071377388207_n.jpg
+    - image_path: /assets/images/8ed06c7136a4862bb548322aa75d4ba4.jpg
+    - image_path: /assets/images/e63a7703a061d32ade465e2ab9b04542.jpg
 feature_row10:
     - image_path: /assets/images/298760687_1745526409153252_1476579341057298271_n.jpg
 feature_row11:
@@ -42,18 +40,18 @@ feature_row13:
 feature_row14:
     - image_path: /assets/images/2021chinese_festival_021.JPG
     - image_path: /assets/images/lan_su_mid_autummn_festival_2022_00.jpg
-    - image_path: /assets/images/lan_su_mid_autummn_festival_2022_04.jpg
+    - image_path: /assets/images/lan_su_mid_autummn_festival_2022_04.JPG
 feature_row15:
     - image_path: /assets/images/2021chinese_festival_024.JPG
-    - image_path: /assets/images/lan_su_mid_autummn_festival_2022_01.jpg
+    - image_path: /assets/images/lan_su_mid_autummn_festival_2022_01.JPG
     - image_path: /assets/images/WeChat Image_20220213000322.jpg
 feature_row16:
     - image_path: /assets/images/298989089_1745525275820032_143218121227231996_n.jpg
-    - image_path: /assets/images/lan_su_mid_autummn_festival_2022_13.jpg
+    - image_path: /assets/images/lan_su_mid_autummn_festival_2022_13.JPG
     - image_path: /assets/images/WeChat Image_20220213000339.jpg
 feature_row17:
-    - image_path: /assets/images/lan_su_mid_autummn_festival_2022_08.jpg
-    - image_path: /assets/images/lan_su_mid_autummn_festival_2022_12.jpg
+    - image_path: /assets/images/lan_su_mid_autummn_festival_2022_08.JPG
+    - image_path: /assets/images/lan_su_mid_autummn_festival_2022_12.JPG
     - image_path: /assets/images/WeChat Image_20220212172316s.jpg
 
 ---
