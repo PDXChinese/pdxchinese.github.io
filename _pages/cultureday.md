@@ -5,6 +5,8 @@ feature_row1:
   - image_path: /assets/images/activities/thprdlogo.png
 feature_row2:
     - image_path: /assets/images/325932671_504747941800947_4915525851583184872_n.jpg
+    - image_path: /assets/images/333224340_237932235252884_5361838649338525864_n.jpg
+    - image_path: /assets/images/329244320_867452781175881_687092103797506605_n.jpg
 feature_row3:
     - image_path: /assets/images/326789587_749377412864771_4179937397141933224_n.jpg
     - image_path: /assets/images/326974363_546772340845574_7987278488548586835_n.jpg
@@ -32,6 +34,7 @@ feature_row9:
     - image_path: /assets/images/e63a7703a061d32ade465e2ab9b04542.jpg
 feature_row10:
     - image_path: /assets/images/298760687_1745526409153252_1476579341057298271_n.jpg
+    - image_path: /assets/images/7e4dfbe7904ae2d39a663151b7483bc0.jpg
 feature_row11:
     - image_path: /assets/images/298828115_1745525909153302_624307953787638600_n.jpg
 feature_row12:
@@ -41,9 +44,8 @@ feature_row13:
 feature_row14:
     - image_path: /assets/images/2021chinese_festival_021.JPG
     - image_path: /assets/images/lan_su_mid_autummn_festival_2022_00.jpg
-    - image_path: /assets/images/lan_su_mid_autummn_festival_2022_04.JPG
 feature_row15:
-    - image_path: /assets/images/WeChat Image_20220615003011.JPG
+    - image_path: /assets/images/WeChat Image_20220615003011.jpg
     - image_path: /assets/images/lan_su_mid_autummn_festival_2022_01.JPG
     - image_path: /assets/images/WeChat Image_20220213000322.jpg
 feature_row16:
