@@ -16,6 +16,7 @@ feature_row4:
 feature_row5:
     - image_path: /assets/images/298460722_1745525362486690_5254892417078777384_n.jpg
     - image_path: /assets/images/lan_su_mid_autummn_festival_2022_03.JPG
+    - image_path: /assets/images/8e6f919217eebee1ee511eee97310220.temp.jpg
 feature_row6:
     - image_path: /assets/images/2021chinese_festival_072.jpg
     - image_path: /assets/images/329376108_558174069577947_236637955267336362_n.jpg
@@ -42,11 +43,11 @@ feature_row14:
     - image_path: /assets/images/lan_su_mid_autummn_festival_2022_00.jpg
     - image_path: /assets/images/lan_su_mid_autummn_festival_2022_04.JPG
 feature_row15:
-    - image_path: /assets/images/2021chinese_festival_024.JPG
+    - image_path: /assets/images/WeChat Image_20220615003011.JPG
     - image_path: /assets/images/lan_su_mid_autummn_festival_2022_01.JPG
     - image_path: /assets/images/WeChat Image_20220213000322.jpg
 feature_row16:
-    - image_path: /assets/images/298989089_1745525275820032_143218121227231996_n.jpg
+    - image_path: /assets/images/WeChat Image_20220213000431.jpg
     - image_path: /assets/images/lan_su_mid_autummn_festival_2022_13.JPG
     - image_path: /assets/images/WeChat Image_20220213000339.jpg
 feature_row17:
