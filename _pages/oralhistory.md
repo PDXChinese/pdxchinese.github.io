@@ -36,6 +36,8 @@ feature_row1:
 ### Oregon Chinese Weekly  
 *Started from 2002, totally 142 issues*  
 
+[链接](https://drive.google.com/drive/folders/1eoLxIgVktWmfncXqZL1oPravcijtQO07?usp=sharing)
+
 ### Collections by Gloria Wong (1931-)
 
 [链接](https://drive.google.com/drive/folders/1L6SOWZnpL_NRDsofwVmAzfuN2_LQ5dI-?usp=sharing)

@@ -174,8 +174,10 @@ We are always inspired by the enthusiasm from the people who love the culture fr
 # 参与学校和项目 / Schools and Programs  
 *Listed Alphabetically*  
 
+[Bamboo International School](https://bamboointlschool.com/) (Beaverton)  
 [Goodtime Chinese School](https://goodtimechineseschool.org/) (Beaverton)  
 [Jefferson High School](https://www.pps.net/jefferson) (N Portland)  
+[Palisades World Language School](https://www.losdschools.org/Domain/1866) (Lake Oswego)  
 [Portland Chinese Language School](https://www.oregonccba.org/introduction/) (SE Portland)  
 [Oregon Hope Chinese School](http://oregon-hope.org/) (Beaverton)  
 [Woodstock Elementary School](https://www.pps.net/woodstock) (SE Portland)  
