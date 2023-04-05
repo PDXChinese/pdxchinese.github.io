@@ -22,12 +22,15 @@ feature_row5:
 feature_row6:
     - image_path: /assets/images/2021chinese_festival_072.jpg
     - image_path: /assets/images/329376108_558174069577947_236637955267336362_n.jpg
+    - image_path: /assets/images/73b98f87e9be5d1a480524c2dd3e1139.jpg
 feature_row7:
     - image_path: /assets/images/334832877_1909266959471948_8806818628944995337_n.jpg
     - image_path: /assets/images/328318861_2040298222838951_5592111946553194508_n.jpg
     - image_path: /assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091117.jpg
 feature_row8:
     - image_path: /assets/images/329321684_3581841848712864_9140941873964539826_n.jpg
+    - image_path: /assets/images/308194693_1782838315422061_5224073247999170695_n.jpg
+    - image_path: /assets/images/307755607_1782838835422009_8833984364677932774_n.jpg
 feature_row9:
     - image_path: /assets/images/298675473_1745525545820005_7269871071377388207_n.jpg
     - image_path: /assets/images/8ed06c7136a4862bb548322aa75d4ba4.jpg
@@ -41,6 +44,7 @@ feature_row12:
     - image_path: /assets/images/2021chinese_festival_009.jpg
 feature_row13:
     - image_path: /assets/images/39a959cda908b61f71726adbd62570ec.jpg
+    - image_path: /assets/images/69b8e9456b9dd51ea578d10347cf5826.jpg
 feature_row14:
     - image_path: /assets/images/2021chinese_festival_021.JPG
     - image_path: /assets/images/lan_su_mid_autummn_festival_2022_00.jpg
@@ -172,6 +176,7 @@ We are always inspired by the enthusiasm from the people who love the culture fr
 
 [Goodtime Chinese School](https://goodtimechineseschool.org/) (Beaverton)  
 [Jefferson High School](https://www.pps.net/jefferson) (N Portland)  
+[Portland Chinese Language School](https://www.oregonccba.org/introduction/) (SE Portland)  
 [Oregon Hope Chinese School](http://oregon-hope.org/) (Beaverton)  
 [Woodstock Elementary School](https://www.pps.net/woodstock) (SE Portland)  
 
