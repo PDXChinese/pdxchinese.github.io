@@ -9,6 +9,10 @@ Hanfu was a symbol of traditional Chinese culture. The term "Hanfu" refers to th
 
 To have us perform in your events, please [contact us](http://pdxchinese.org/contact/).
 
+![]({{ site.url }}/assets/images/activities/hanfuflyer.jpg)
+
+![]({{ site.url }}/assets/images/329321684_3581841848712864_9140941873964539826_n.jpg)
+
 ![]({{ site.url }}/assets/images/307968021_1782837955422097_4040306634259809925_n.jpg)
 
 ![]({{ site.url }}/assets/images/308194693_1782838315422061_5224073247999170695_n.jpg)
