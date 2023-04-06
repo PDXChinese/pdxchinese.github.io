@@ -27,8 +27,10 @@ feature_row1:
 # Digitized Historical Items  
 # 数字扫描历史文件
 
-### Oregon Chinese News by CCBA  
+### Oregon Chinese News by [CCBA](https://www.oregonccba.org/)  
 *1960s-1990s*  
+
+[链接/Link](https://drive.google.com/drive/folders/1AO03EpWTiDp0k9WeDs5YUbeKdD5tFyYq?usp=sharing) (OCC credits [CCBA](https://www.oregonccba.org/) for its generosity of allowing us to scan and share these back issues with the community)
 
 ### Oregon Chinese Yearbook  
 *2000-2004*  
@@ -36,11 +38,11 @@ feature_row1:
 ### Oregon Chinese Weekly  
 *Started from 2002, totally 142 issues*  
 
-[链接](https://drive.google.com/drive/folders/1eoLxIgVktWmfncXqZL1oPravcijtQO07?usp=sharing)
+[链接/Link](https://drive.google.com/drive/folders/1eoLxIgVktWmfncXqZL1oPravcijtQO07?usp=sharing)
 
 ### Collections by Gloria Wong (1931-)
 
-[链接](https://drive.google.com/drive/folders/1L6SOWZnpL_NRDsofwVmAzfuN2_LQ5dI-?usp=sharing)
+[链接/Link](https://drive.google.com/drive/folders/1L6SOWZnpL_NRDsofwVmAzfuN2_LQ5dI-?usp=sharing)
 
 # Writings About Local Chinese Americans  
 # 当地华人青少年关于华人历史写作  

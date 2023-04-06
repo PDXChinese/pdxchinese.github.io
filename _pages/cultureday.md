@@ -175,12 +175,15 @@ We are always inspired by the enthusiasm from the people who love the culture fr
 *Listed Alphabetically*  
 
 [Bamboo International School](https://bamboointlschool.com/) (Beaverton)  
+[Bolton Primary School](https://www.wlwv.k12.or.us/bolps)  
 [Goodtime Chinese School](https://goodtimechineseschool.org/) (Beaverton)  
+[Hope Chinese Charter School](https://hopeccs.org/) (Beaverton)  
 [Jefferson High School](https://www.pps.net/jefferson) (N Portland)  
 [Palisades World Language School](https://www.losdschools.org/Domain/1866) (Lake Oswego)  
 [Portland Chinese Language School](https://www.oregonccba.org/introduction/) (SE Portland)  
 [Oregon Hope Chinese School](http://oregon-hope.org/) (Beaverton)  
 [Woodstock Elementary School](https://www.pps.net/woodstock) (SE Portland)  
+[XSTREAM Learning Center](https://www.xstreamlc.com/)  
 
 ### 赞助单位 / Proud Sponsor
 
