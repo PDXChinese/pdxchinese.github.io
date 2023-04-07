@@ -81,8 +81,9 @@ We are always inspired by the enthusiasm from the people who love the culture fr
 # 节目 / Programs  
 *Subject to change*  
 
-### 演出 / Performances  
+### 演出和才艺展示 / Performances and Talent Show  
 *On the porch of the Main House*  
+*Having students perform on the stage are optional but very encouraged.*  
 
 {% include feature_row id="feature_row9"%}
 
