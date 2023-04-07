@@ -69,7 +69,7 @@ feature_row17:
 **Place:** [THPRD Jenkins Estate](https://www.thprd.org/facilities/historic/jenkins-estate) (8005 SW Grabhorn Rd, Beaverton, OR 97007)  
 
 **Purpose:** To promote culture, the arts, and academic endeavor  
-**Participants:** Chinese program students, parents and teachers  
+**Participants:** Chinese program students, parents/guardians and educators  
 
 >[Sign up](https://docs.google.com/forms/d/e/1FAIpQLSeowOX9XphfUxII1tyVp3jBqOpdLJy2-SSAlLhjywypuYXo8g/viewform?usp=sf_link) to be a Chinese homework helper  
 >[各项活动义工报名表/Activity Volunteer Signup Form](https://docs.google.com/forms/d/e/1FAIpQLScAU37jBbljeucZe6bcCARnvf6lywgza_FB95UZZvPlMkOj5w/viewform?usp=sf_link)  
@@ -171,6 +171,12 @@ We are always inspired by the enthusiasm from the people who love the culture fr
 *Under Tent*  
 
 {% include feature_row id="feature_row14"%}
+
+### 中文作业辅导 / Chinese Homework Helpers  
+*Under Tent*  
+
+### 戒烟宣传 / Tobacco Prevention Campaign  
+*Under Tent*  
 
 # 参与学校和项目 / Schools and Programs  
 *Listed Alphabetically*  
