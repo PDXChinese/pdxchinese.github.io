@@ -179,6 +179,8 @@ We are always inspired by the enthusiasm from the people who love the culture fr
 [Bolton Primary School](https://www.wlwv.k12.or.us/bolps) (West Linn)  
 [Goodtime Chinese School](https://goodtimechineseschool.org/) (Beaverton)  
 [Hope Chinese Charter School](https://hopeccs.org/) (Beaverton)  
+[International School of Beaverton](https://isb.beaverton.k12.or.us/)  
+[International School of Portland](https://intlschool.org/) (Portland Downtown)  
 [Jefferson High School](https://www.pps.net/jefferson) (N Portland)  
 [Palisades World Language School](https://www.losdschools.org/Domain/1866) (Lake Oswego)  
 [Portland Chinese Language School](https://www.oregonccba.org/introduction/) (SE Portland)  
