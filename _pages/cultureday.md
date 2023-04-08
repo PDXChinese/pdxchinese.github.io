@@ -62,9 +62,9 @@ feature_row17:
     - image_path: /assets/images/WeChat Image_20220212172316s.jpg
 feature_row18:
     - image_path: /assets/images/activities/quit_smoking_01.jpg
-    - image_path: /assets/images/activities/quit_smoking_02.jpg
-    - image_path: /assets/images/activities/quit_smoking_03.jpg
 ---
+
+![]({{ site.url }}/assets/images/activities/culturedayflyer.jpg)
 
 # 2023 文化体验日 / Culture Day
 
