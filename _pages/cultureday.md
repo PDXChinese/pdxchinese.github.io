@@ -60,7 +60,10 @@ feature_row17:
     - image_path: /assets/images/lan_su_mid_autummn_festival_2022_08.JPG
     - image_path: /assets/images/lan_su_mid_autummn_festival_2022_12.JPG
     - image_path: /assets/images/WeChat Image_20220212172316s.jpg
-
+feature_row18:
+    - image_path: /assets/images/activities/quit_smoking_01.jpg
+    - image_path: /assets/images/activities/quit_smoking_02.jpg
+    - image_path: /assets/images/activities/quit_smoking_03.jpg
 ---
 
 # 2023 文化体验日 / Culture Day
@@ -72,7 +75,7 @@ feature_row17:
 **Participants:** Chinese program students, parents/guardians and educators  
 
 >[Sign up](https://docs.google.com/forms/d/e/1FAIpQLSeowOX9XphfUxII1tyVp3jBqOpdLJy2-SSAlLhjywypuYXo8g/viewform?usp=sf_link) to be a Chinese homework helper  
->[各项活动义工报名表/Activity Volunteer Signup Form](https://docs.google.com/forms/d/e/1FAIpQLScAU37jBbljeucZe6bcCARnvf6lywgza_FB95UZZvPlMkOj5w/viewform?usp=sf_link)  
+>[各项活动义工/表演报名表/Activity Volunteer and Performers Signup Form](https://docs.google.com/forms/d/e/1FAIpQLScAU37jBbljeucZe6bcCARnvf6lywgza_FB95UZZvPlMkOj5w/viewform?usp=sf_link)  
 
 We are always inspired by the enthusiasm from the people who love the culture from another side of continent. We firmly believe in education as the key to promote understanding among the different cultures and of the people from different communities. We know learning another language can be quite a challenge especially when the learning environment is not so available or adequate. The local Chinese American community is willing to help. By bringing the students in those Chinese classes and programs at public, charter, private and weekend schools together, we can provide an immersive learning experience for the Chinese culture and help create an environment for supporting each other with resources, trainings, programs and even just inspirations.
 
@@ -178,6 +181,8 @@ We are always inspired by the enthusiasm from the people who love the culture fr
 
 ### 戒烟宣传 / Tobacco Prevention Campaign  
 *Under Tent*  
+
+{% include feature_row id="feature_row18"%}
 
 # 参与学校和项目 / Schools and Programs  
 *Listed Alphabetically*  
