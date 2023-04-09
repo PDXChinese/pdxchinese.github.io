@@ -1,11 +1,11 @@
 ---
 title: "应邀参加慈善筹款晚会"
 author: XiBei Zhao
-excerpt: "昨晚部分OCC理事和参加过Winter Drive或给庇护所提供晚餐活动的几位家长受邀参加了在市中心艺术博物馆举办的Transition Projects年度筹款晚会，在如此大型慈善筹款晚会上，以一个社区名义出面，尤其是来自亚裔社区，应该不多见。所以，我们把参加这次活动看作是一个殊荣，为华人家庭多年参与关心社区慈善活动所带来如此正面的影响而感到骄傲。短短几年的努力，我们开始在主流社会展露头角，我们不再只是以移民的身为“祈求”理解与接受，而是作为这个社会的主人，积极奉献，发挥我们的影响力。这次是刚刚上任President亲自点名要我们参加，过两周我们还会有单独见面讨论社区建设与慈善事业共赢的远景。"
+excerpt: "昨晚部分OCC理事和参加过Winter Drive或给庇护所提供晚餐活动的几位家长受邀参加了在市中心艺术博物馆举办的Transition Projects年度筹款晚会，在如此大型慈善筹款晚会上，以一个社区名义出面，尤其是来自亚裔社区，应该不多见。所以，我们把参加这次活动看作是一个殊荣，为华人家庭多年参与关心社区慈善活动所带来如此正面的影响而感到骄傲。短短几年的努力，我们开始在主流社会展露头角，我们不再只是以移民的身份“祈求”理解与接受，而是作为这个社会的主人，积极奉献，发挥我们的影响力。这次是刚刚上任President亲自点名邀请我们作为Special Guests参加，过两周我们还会单独见面讨论社区建设与慈善事业共赢的远景。"
 date: "2023-04-08"
 ---
 
-昨晚部分OCC理事和参加过Winter Drive或给庇护所提供晚餐活动的几位家长受邀参加了在市中心艺术博物馆举办的Transition Projects年度筹款晚会，在如此大型慈善筹款晚会上，以一个社区名义出面，尤其是来自亚裔社区，应该不多见。所以，我们把参加这次活动看作是一个殊荣，为华人家庭多年参与关心社区慈善活动所带来如此正面的影响而感到骄傲。短短几年的努力，我们开始在主流社会展露头角，我们不再只是以移民的身为“祈求”理解与接受，而是作为这个社会的主人，积极奉献，发挥我们的影响力。这次是刚刚上任President亲自点名要我们参加，过两周我们还会有单独见面讨论社区建设与慈善事业共赢的远景。
+昨晚部分OCC理事和参加过Winter Drive或给庇护所提供晚餐活动的几位家长受邀参加了在市中心艺术博物馆举办的Transition Projects年度筹款晚会，在如此大型慈善筹款晚会上，以一个社区名义出面，尤其是来自亚裔社区，应该不多见。所以，我们把参加这次活动看作是一个殊荣，为华人家庭多年参与关心社区慈善活动所带来如此正面的影响而感到骄傲。短短几年的努力，我们开始在主流社会展露头角，我们不再只是以移民的身份“祈求”理解与接受，而是作为这个社会的主人，积极奉献，发挥我们的影响力。这次是刚刚上任President亲自点名邀请我们作为Special Guests参加，过两周我们还会见面讨论社区建设与慈善事业共赢的远景。
 
 Some of the parents and OCC Board members who were involved in winter drives and serving meals in the shelter attended the Transition Projects, Inc.'s IMPACTful evening in Portland Art Museum on Saturday. What an honor to be among the large crowd to witness the impact from the work done by the 300 staff and with the support from the community.
 
