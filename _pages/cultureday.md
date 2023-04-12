@@ -189,6 +189,7 @@ We are always inspired by the enthusiasm from the people who love the culture fr
 
 [Bamboo International School 竹林中文学校](https://bamboointlschool.com/) (Beaverton)  
 [Bolton Primary School](https://www.wlwv.k12.or.us/bolps) (West Linn)  
+[Dr. Martin Luther King Jr. Elementary School](https://www.pps.net/mlk) (NE Portland)  
 [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (Beaverton)  
 [Hope Chinese Charter School](https://hopeccs.org/) (Beaverton)  
 [International School of Beaverton](https://isb.beaverton.k12.or.us/) (Beaverton)  

@@ -5,6 +5,8 @@ permalink: /hanfu/
 
 # Phoenix Hanfu Team
 
+### *Summer for Thee, Grant I May Be*
+
 Hanfu was a symbol of traditional Chinese culture. The term "Hanfu" refers to the historical dress of the Han people for all of history before the Qing Dynasty, when the Manchus reigned. The renaissance of Hanfu in recent years was part of a trend of finding a strong sense of culture identity.
 
 To have us perform in your events, please [contact us](http://pdxchinese.org/contact/).
