@@ -74,7 +74,7 @@ feature_row18:
 **Purpose:** To promote culture, the arts, and academic endeavor  
 **Participants:** Chinese program students, families and educators  
 
->[Sign up](https://docs.google.com/forms/d/e/1FAIpQLSeowOX9XphfUxII1tyVp3jBqOpdLJy2-SSAlLhjywypuYXo8g/viewform?usp=sf_link) to be a Chinese homework helper (The list will be made to schools upon request)
+>[Sign up](https://docs.google.com/forms/d/e/1FAIpQLSeowOX9XphfUxII1tyVp3jBqOpdLJy2-SSAlLhjywypuYXo8g/viewform?usp=sf_link) to be a Chinese homework helper (The list will be made available to schools upon request)
 
 >[各项活动义工/表演报名表/Activity Volunteer and Performers Signup Form](https://docs.google.com/forms/d/e/1FAIpQLScAU37jBbljeucZe6bcCARnvf6lywgza_FB95UZZvPlMkOj5w/viewform?usp=sf_link)  
 
@@ -197,6 +197,7 @@ We are always inspired by the enthusiasm from the people who love the culture fr
 [International School of Portland](https://intlschool.org/) (Portland Downtown)  
 [Jefferson High School](https://www.pps.net/jefferson) (N Portland)  
 [Lake Learning Center 中英文双语学校](https://www.lakelearningcenter.com/) (Lake Oswego)  
+[Lincoln High School](https://www.pps.net/lincoln) (Portland Downtown)  
 [Palisades World Language School](https://www.losdschools.org/Domain/1866) (Lake Oswego)  
 [Portland Chinese Language School](https://www.oregonccba.org/introduction/) (SE Portland)  
 [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (Beaverton)  
