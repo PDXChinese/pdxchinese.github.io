@@ -62,6 +62,8 @@ feature_row17:
     - image_path: /assets/images/WeChat Image_20220212172316s.jpg
 feature_row18:
     - image_path: /assets/images/activities/quit_smoking_01.jpg
+feature_row19:
+    - image_path: /assets/images/326387583_1092058778857047_8245403294991861876_n.jpg
 ---
 
 ![]({{ site.url }}/assets/images/activities/culturedayflyer.jpg)
@@ -126,6 +128,11 @@ We are always inspired by the enthusiasm from the people who love the culture fr
 *Outside*  
 
 {% include feature_row id="feature_row3"%}
+
+### 学习舞狮 / Playing with Lion  
+*Outside*  
+
+{% include feature_row id="feature_row19"%}
 
 ### 学习中国武术 / Learning Martial Arts  
 *Outside*  
@@ -201,6 +208,7 @@ We are always inspired by the enthusiasm from the people who love the culture fr
 [Lincoln High School](https://www.pps.net/lincoln) (Portland Downtown)  
 [Palisades World Language School](https://www.losdschools.org/Domain/1866) (Lake Oswego)  
 [Portland Chinese Language School](https://www.oregonccba.org/introduction/) (SE Portland)  
+[Springleaf Chinese School 春叶中文学校](http://springleaf.org/) (SW Portland)  
 [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (Beaverton)  
 [Woodstock Elementary School](https://www.pps.net/woodstock) (SE Portland)  
 [XSTREAM Learning Center](https://www.xstreamlc.com/) (NW Portland)  
