@@ -80,7 +80,7 @@ feature_row18:
 
 We are always inspired by the enthusiasm from the people who love the culture from another side of continent. We firmly believe in education as the key to promote understanding among the different cultures and of the people from different communities. We know learning another language can be quite a challenge especially when the learning environment is not so available or adequate. The local Chinese American community is willing to help. By bringing the students in those Chinese classes and programs at public, charter, private and weekend schools together, we can provide an immersive learning experience for the Chinese culture and help create an environment for supporting each other with resources, trainings, programs and even just inspirations.
 
-我们总是被热爱来自大陆另一边文化的人们的热情所鼓舞。我们坚信教育是促进不同文化和不同社区人民之间理解的关键。我们知道学习另一种语言可能是一个相当大的挑战，尤其是在学习环境不那么完备的情况下。当地华人社区愿意提供帮助。通过将公立、特许、私立和周末学校的中文课程和项目的学生聚集在一起，我们可以为中华文化提供身临其境的学习体验，并帮助创造一个分享资源、培训、项目甚至只是相互支持的一个环境。
+我们总是被不同肤色的孩子们学习中文的热情所鼓舞。我们坚信教育是促进不同文化和不同社区人民之间理解的关键。我们知道学习另一种语言可能是一个相当大的挑战，尤其是在学习环境不那么完备的情况下。当地华人社区愿意提供帮助。通过将公立、特许、私立和周末学校的中文课程和项目的学生聚集在一起，给大家提供身临其境学习和体验中华文化机会，并帮助创造一个分享资源和相互支持的环境。举办文化体验日会是一个很有益的尝试，
 
 # 节目 / Programs  
 *Subject to change*  
@@ -191,6 +191,7 @@ We are always inspired by the enthusiasm from the people who love the culture fr
 [Bamboo International School 竹林中文学校](https://bamboointlschool.com/) (Beaverton)  
 [Bolton Primary School](https://www.wlwv.k12.or.us/bolps) (West Linn)  
 [Dr. Martin Luther King Jr. Elementary School](https://www.pps.net/mlk) (NE Portland)  
+[German International School](https://www.gspdx.org/) (Beaverton)  
 [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (Beaverton)  
 [Hope Chinese Charter School](https://hopeccs.org/) (Beaverton)  
 [International School of Beaverton](https://isb.beaverton.k12.or.us/) (Beaverton)  
