@@ -169,6 +169,11 @@ We are always inspired by the enthusiasm from the people who love the culture fr
 ### 中文教材大赠送 / Chinese Textbooks Giveaway  
 *Under Tent*  
 
+### 中文读物交换 / Chinese Book Exchange  
+*Under Tent*  
+
+Please bring your Chinese books there to exchange with others.
+
 ### 灯笼手工制作和大赠送 / Chinese DIY Lantern Giveaway  
 *Under Tent*  
 
@@ -199,6 +204,7 @@ We are always inspired by the enthusiasm from the people who love the culture fr
 [Bolton Primary School](https://www.wlwv.k12.or.us/bolps) (West Linn)  
 [Dr. Martin Luther King Jr. Elementary School](https://www.pps.net/mlk) (NE Portland)  
 [The Chinese Track at the German International School](https://www.gspdx.org/) (Beaverton)  
+[Catlin Gabel](https://www.catlin.edu/) (SW Portland)  
 [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (Beaverton)  
 [Harriet Tubman Middle School](https://www.pps.net/domain/4826) (N Portland)  
 [Hope Chinese Charter School](https://hopeccs.org/) (Beaverton)  
