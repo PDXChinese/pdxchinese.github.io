@@ -33,7 +33,9 @@ feature_row1:
 [链接/Link](https://drive.google.com/drive/folders/1AO03EpWTiDp0k9WeDs5YUbeKdD5tFyYq?usp=sharing) (OCC credits [CCBA](https://www.oregonccba.org/) for its generosity of allowing us to scan and share these back issues with the community)
 
 ### Oregon Chinese Yearbook  
-*2000-2004*  
+*2000*  
+
+[链接/Link](https://drive.google.com/drive/folders/1__pvMQ_NXImhNsE18miV_etbNID22v88?usp=share_link)
 
 ### Oregon Chinese Weekly  
 *Started from 2002, totally 142 issues*  
