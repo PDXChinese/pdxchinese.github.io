@@ -75,8 +75,9 @@ feature_row19:
 
 **Purpose:** To promote culture, the arts, and academic endeavor  
 **Participants:** Chinese program students, families and educators  
+**Free Admission, Open to Public**  
 
->[Sign up](https://docs.google.com/forms/d/e/1FAIpQLSeowOX9XphfUxII1tyVp3jBqOpdLJy2-SSAlLhjywypuYXo8g/viewform?usp=sf_link) to be a Chinese homework helper (The list will be made available to schools upon request)
+>[Sign up](https://docs.google.com/forms/d/e/1FAIpQLSeowOX9XphfUxII1tyVp3jBqOpdLJy2-SSAlLhjywypuYXo8g/viewform?usp=sf_link) to be a 课后作业辅导/Chinese homework helper (The list will be made available through schools)
 
 >[各项活动义工/表演报名表/Activity Volunteer and Performers Signup Form](https://docs.google.com/forms/d/e/1FAIpQLScAU37jBbljeucZe6bcCARnvf6lywgza_FB95UZZvPlMkOj5w/viewform?usp=sf_link)  
 
@@ -215,6 +216,7 @@ Please bring your Chinese books there to exchange with others.
 [Lincoln High School](https://www.pps.net/lincoln) (Portland Downtown)  
 [Palisades World Language School](https://www.losdschools.org/Domain/1866) (Lake Oswego)  
 [Portland Chinese Language School](https://www.oregonccba.org/introduction/) (SE Portland)  
+[Springleaf Chinese School 春叶中文学校](http://springleaf.org/) (SW Portland)  
 [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (Beaverton)  
 [Woodstock Elementary School](https://www.pps.net/woodstock) (SE Portland)  
 [XSTREAM Learning Center](https://www.xstreamlc.com/) (NW Portland)  
