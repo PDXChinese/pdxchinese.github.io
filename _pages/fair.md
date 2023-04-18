@@ -78,8 +78,6 @@ All vendors' names and contacts info will be kept here till next year's communit
 
 **[Yiling Hu](mailto:jenny@bambooloan.com)** @ Bamboo Mortgage 尽心竭力为您提供房屋贷款服务
 
-**[Ying Chen](mailto:Ychen18@ft.newyorklife.com)** @ [New York Life](http://www.newyorklife.com) 为您提供高质量的财务计划
-
 **[George Wu](mailto:office@woosterrealty.com)** @ [Wooster Realty Group](http://woosterrealty.com/) 小吴之家，为您提供专业商业/住房投资咨询及交易中介服务。
 
 **[Dr. Tracy Ouyang](mailto:drouyang@firstclassbraces.com)** @ [Sylvan Orthodontics](http://www.firstclassbraces.com) 为您或您的孩子打造伴随其一生的美丽及健康的笑容！

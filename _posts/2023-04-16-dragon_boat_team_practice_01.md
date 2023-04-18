@@ -7,7 +7,7 @@ date: "2023-04-16"
 
 为参加[波特兰玫瑰节龙舟赛](https://www.rosefestival.org/events/2023/dragon-boat-race)，@xx 召集成立了 Portland Fire 龙舟队，作为社区的又一个公益团体，OCC给与全方位支持。这是即CCBA之后第二个华人龙舟队，也是目前唯一队员全部是来自华人社区的队。队员来自社区各个地方，平时在社区公益活动中都是熟人。第一天集体训练，🌧️稍微有点大，但大家士气高昂，对做一回龙的船人都是非常的兴奋。当然也会有些小紧张，左岸直到训练开始才发现自己手里还是空的。大家基本上都是第一次，把船划出泊位似乎没遇到什么困难，到了河中心便一路逆水行舟。等一个小时过后，在细雨朦胧中看到了龙舟顺水而下，靠近之后发现队员们划桨动作非常的整齐划一。进步神速，令人赞叹不已。
 
-如果有更多的人想加入，我们可以组成第二支龙舟队，只是需要有一个人愿意挑头担任船长。龙舟队可以是全部女性，也可以是男女混合。Portland Fire 就是混合龙舟队。
+如果有更多的人想加入，我们可以组成第二支龙舟队，只是需要有一个人愿意挑头担任船长。龙舟队可以是女队，也可以是男女混合队。Portland Fire就是混合龙舟队。
 
 First day to to have all new Portland Fire team members out to practice the dragon boat! The rain didn't put out the fire of the team at all. After merely an hour practice, they looked very good with the uniform rolling moves. Congratulations!
 
