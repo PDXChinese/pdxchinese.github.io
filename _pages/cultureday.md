@@ -196,6 +196,8 @@ Please bring your Chinese books there to exchange with others.
 ### 戒烟宣传 / Tobacco Prevention Campaign  
 *Under Tent*  
 
+>Halloween costumes in blind boxe for anyone who has filled out the survey/pledge form on tobacco prevention and cessation. 
+
 {% include feature_row id="feature_row18"%}
 
 # 参与学校和项目 / Schools and Programs  
