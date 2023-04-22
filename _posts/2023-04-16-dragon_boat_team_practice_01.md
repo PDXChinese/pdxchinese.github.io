@@ -62,3 +62,7 @@ First day to to have all new Portland Fire team members out to practice the drag
 <br>
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/IKdHyhW7Cvc" title="Portland Fire Dragon Boat Team First Practice (Cruising Back)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/FZScKt_LkZ0" title="Portland Fire Dragon Boat Team Second Practice (Captain Falling into Water)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
