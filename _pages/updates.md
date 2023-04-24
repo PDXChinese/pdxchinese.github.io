@@ -9,7 +9,7 @@ permalink: /updates/
 ### [2023华人和乌克兰社区绘画联展/Chinese and Ukraianian Community Art Exhibition](https://pdxchinese.org/artexhibit/)
 
 **Date:** 5/4/2023 - 5/28/2023  
-**Place:** 412 NW Couch Street, Portland, OR 97209  
+**Place:** 23 NW 4th Ave, Portland, OR 97209  
 
 ### [2023文化体验日/Culture Day](https://pdxchinese.org/cultureday/)
 

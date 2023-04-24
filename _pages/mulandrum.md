@@ -5,7 +5,9 @@ permalink: /mulandrum/
 
 # 木兰鼓队 / Mulan Drum Team
 
-Chinese drum culture has a long history, and the drum is a symbol of spirit. The Mulan Drum Team is a volunteer organization of OCC. Since its establishment, it has actively performed in the communities. At art festivals, nursing homes, schools and other venues, the sound is entrancing,  strong and loud. It echoes the beauty and intelligence of Chinese women, and contributes to the celebration of Chinese culture in our community.
+The Mulan Drum Team is an all-women drumming group comprised of community members from diverse backgrounds. They come together to practice and perform some of the most culturally symbolic drums, with the goal of promoting Chinese culture, enriching their social lives, and improving their mental health.
+
+Since its establishment, the team has actively performed in various community events, including art festivals, nursing homes, schools, and other venues. The sound of their drums is entrancing, powerful, and impactful, echoing the beauty and strength of Chinese women and contributing to the celebration of Chinese culture in our community.
 
 To have us perform in your events, please [contact us](http://pdxchinese.org/contact/).
 
