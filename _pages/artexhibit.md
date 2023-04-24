@@ -6,10 +6,14 @@ feature_row1:
     excerpt: "Wayne H Chin"
 ---
 
-![]({{ site.url }}/assets/images/activities/ArtShow2022.jpg)
+![]({{ site.url }}/assets/images/activities/artshow2023.jpg)
 
-报名截止日：2022年4月30日  
+报名截止日：2023年4月28日  
 报名表：[点击这里](https://docs.google.com/forms/d/e/1FAIpQLSeMc3aVAPV5BkmZ8BThHhvHHEYnbNHy1B9YQCgxxiWcpAGoZQ/viewform?usp=sf_link)  
+
+![]({{ site.url }}/assets/images/divider.jpg)
+
+![]({{ site.url }}/assets/images/activities/ArtShow2022.jpg)
 
 ### 2022 Art Show Highlight
 
