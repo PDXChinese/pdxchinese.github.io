@@ -38,7 +38,9 @@ permalink: /updates/
 **Time:** Pick up at 10am and return by 1pm  
 **Place:** [Kirkland Union Manors](https://theunionmanors.org/kirkland-union-manors/) and [Lan Su Chinese Garden](https://lansugarden.org/)  
 
-### OCC参加或赞助春节或文化活动 / OCC Sponsored or Participated Chinese New Year or Cultural Activities
+### OCC参加或赞助文化活动 / OCC Sponsored or Participated Cultural Activities
+
+Please [contact us](https://pdxchinese.org/contact/) to know the availability of the performances from OCC and other community groups
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CeLwb-03MNEFwnPaZlm6LAqtMeFgwOI&ehbc=2E312F" width="640" height="480"></iframe>
 
@@ -90,6 +92,6 @@ University of Oregon产品设计的学生Emma在设计一个陪伴型家用机�
 
 **Lakeridge High School**
 
- 'Lakeridge 为Cara和Anna去参加全国全国speech&debate比赛筹款，希望大家支持！'
+ 'Lakeridge 为Cara和Anna去参加全国speech&debate比赛筹款，希望大家支持！'
 
 FUNDRAISER DATE: May 21, 2023 -- Bring this [flyer](/assets/images/activities/pdf/lakeridgesd.pdf) in or order online through the MOD app or [website](https://modpizza.com/) and use the provided coupon code and MOD will donate 20% of your bill to support their great work.
