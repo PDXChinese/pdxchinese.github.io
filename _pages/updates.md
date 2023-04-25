@@ -32,83 +32,64 @@ permalink: /updates/
 
 [报名链接/Registration](https://signup.com/client/invitation2/secure/114701245205736806/false#/invitation)
 
-### [Take the Seniors to the Garden](https://pdxchinese.org/ridewseniors/)
+### [带老人游园活动/Take the Seniors to the Garden](https://pdxchinese.org/ridewseniors/)
 
 **Date:** Every 4th Thursday  
 **Time:** Pick up at 10am and return by 1pm  
 **Place:** [Kirkland Union Manors](https://theunionmanors.org/kirkland-union-manors/) and [Lan Su Chinese Garden](https://lansugarden.org/)  
 
-# 其他活动 / Other Activities
-
 ### OCC参加或赞助春节或文化活动 / OCC Sponsored or Participated Chinese New Year or Cultural Activities
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CeLwb-03MNEFwnPaZlm6LAqtMeFgwOI&ehbc=2E312F" width="640" height="480"></iframe>
 
-**1/14/2023**  
-[Kirkland Union Manor Senior Apartments](https://pdxchinese.org/lunarnewyear/) (SE Portland)  
+# 来自社区伙伴的信息 / Reachout from Community Partners
 
-**1/20/2023**  
-[Palisades World Language School](https://www.losdschools.org/Domain/1866) (Lake Oswego)  
+### [Invitation to Plan International USA’s Youth Leadership Academy](/assets/images/activities/pdf/YLA-RecruitmentFlyer2023.pdf)
 
-**1/20/2023**  
-[Hope Chinese Charter School](https://hopeccs.org/) (Beaverton)  
+The YLA is open to all high schoolers of all genders, and those that are gender-nonconforming, currently in grades 8-11. Please see the flyer for more details and information. The YLA program costs $500 including room and board but we offer full and partial financial aid scholarships based on financial need. Please see the attached flyer and our website for more details.
 
-**1/21/2023**  
-[MAC Market by Asian Heritage Association in Yamhill County](https://www.eventbrite.com/e/lunar-new-year-celebration-tickets-473476941277) (McMinnville)  
+We encourage your youth to apply to our Youth Leadership Academy! Applications for the YLA are now open and will be reviewed and accepted on a rolling basis until May 15, 2023.
+[Apply today!](https://www.planusa.org/youth-agency/youth-leadership-academy/youth-leadership-academy-application/#2cb24ed1_1615820334)
 
-**1/21/2023**  
-[Prestige Care & Rehab of Reedwood](https://www.prestigecare.com/) （SE Portland)  
+### [Clackamas Women's Services Camp HOPE Volunteer Opportunities](https://www.cwsor.org/camp-hope/)
 
-**1/21/2023**  
-[PSU Farmers Market](https://www.portlandfarmersmarket.org/)（SW Portland)  
+Leaders ages 17-25 who are interested in working with youth and building meaningful relationships can gain:
 
-**1/21/2023**  
-[Chinese New Year Cultural Fair](https://www.oregoncc.org/en/events/2023/01/chinese-new-year-cultural-fair-2023) (Oregon Convention Center)  
+-Experience working with youth who have been impacted by trauma  
+-Training on the dynamics of family violence, trauma, & resiliency  
+-Valuable leadership and relationship development skills  
+-Upwards of 215 volunteer credit hours  
 
-**1/22/2023**  
-[Milwaukie Community Center](https://ncprd.com/wp-content/uploads/2022/12/MCC-Connection_Jan_Feb_2023_Final_singles.pdf) (Milwaukie)  
+[Camp Counselor Application 2023](https://docs.google.com/forms/d/1Kf_LSB3H3NmJMoVhYHo3U9d5FNv05KgkA5jn-EAODPQ/viewform?edit_requested=true) (New volunteers will complete foundational training by May 2023)
 
-**1/24-27/2023**  
-[International School of Portland](https://intlschool.org/) (Portland)  
+### 华盛顿大学的一项研究正在寻找中文母语者/Currently seeking native Chinese speakers for a UW study
 
-**1/25/2023**  
-[Catlin Gabel School](https://www.catlin.edu/) (Beaverton)  
+你有过提笔忘字的经历吗?/Have you experienced Character Amnesia?
 
-**1/27/2023**  
-[72 Foster apartments](http://reachproperties.org/property-listings/72foster/) (SE Portland)  
+测试会花⼀个⼩时左右完成/Testing will take around 1 hour. Snacks will be provided.
 
-**1/27/2023**  
-[Bolton Elementary School](https://www.wlwv.k12.or.us/bolps) (West Linn)  
+[Poster](/assets/images/activities/pdf/Character_Amnesia_Study.pdf)
 
-**1/28/2023**  
-[Lunar New Year Celebration at Washington Square](https://www.shopwashingtonsquare.com/Events/Details/556607) (Tigard)  
+在[5/6的文化体验日](https://pdxchinese.org/cultureday/)上会有摊位，可以现场参加测试。
 
-**1/28/2023**  
-[Chinese New Year Gala by Vancouver Chinese Association](https://www.visitvancouverwa.com/event/lunar-new-year/27153/) (Vancouver, WA)  
+### 家用机器人潜在用户调查
 
-**1/29/2023**  
-[Lan Su Chinese Garden](https://lansugarden.org/things-to-do/ongoing-programs/chinese-new-year/)  (Portland Chinatown)  
+University of Oregon产品设计的学生Emma在设计一个陪伴型家用机器人，改善老年人的生活，加强与异乡亲人之间的联系。您的意见会帮助我更好的了解用户需求，完善设计。完成调查问卷大概会花费5分钟。
 
-**2/4/2023**  
-[Willamette Chinese School](https://wcscorvallis.webs.com/)  
+“这是老人相关的课题。从我自己的角度出发和听到周围留学生的很多反馈就是和远在国内的家人缺乏沟通，特别是家里的老人。我目前的想法是做一个机器人和一个连接机器人的App。机器人放在老人家里可以有一些娱乐陪伴之类的功能，家人可以通过app控制机器人互动。我现在在写一些调查问卷，计划多理解用户的需求和痛点。”
 
-**2/5/2023**  
-[Lakeridge High School](https://www.losdschools.org/lhs) (Lake Oswego)  
+[中文调查表](https://forms.gle/PYNMQFwjJgpYcGnY7)
 
-**2/10/2023**  
-[International School of Beaverton](https://isb.beaverton.k12.or.us/) (Beaverton)  
+### 帮助华裔/亚裔学生筹集参加全国比赛费用
 
-**3/4/2023**  
-[PSU Hong Kong Student Association](https://www.facebook.com/psu.hksa/) (Portland)  
+**Clackamas High School**
 
-**3/9/2023**  
-[Alice Ott Middle School](https://aoms.ddouglas.k12.or.us/) (SE Portland)  
+ ‘I have some Asian American speech and debate friends from clackamas high school who need help raising money so they can go to the national speech and debate tournament. Do you know anyone who might be able to help them? -- Lauren Zhang’
 
-**4/21/2023**  
-[Forest Park Elementary](https://www.pps.net/forestpark) (NW Portland)  
+ Donation link: [http://tinyurl.com/CHSNats23](http://tinyurl.com/CHSNats23)
 
-**5/12/2023**  
-[Riverdale School District](https://www.riverdaleschool.com/) (SW Portland)  
+**Lakeridge High School**
 
-**6/21/2023**  
-[French American International School](https://www.fisoregon.org/) (Portland)  
+ 'Lakeridge 为Cara和Anna去参加全国全国speech&debate比赛筹款，希望大家支持！'
+
+FUNDRAISER DATE: May 21, 2023 -- Bring this [flyer](/assets/images/activities/pdf/lakeridgesd.pdf) in or order online through the MOD app or [website](https://modpizza.com/) and use the provided coupon code and MOD will donate 20% of your bill to support their great work.
