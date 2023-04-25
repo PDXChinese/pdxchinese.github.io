@@ -40,17 +40,19 @@ permalink: /updates/
 
 ### OCC参加或赞助文化活动 / OCC Sponsored or Participated Cultural Activities
 
-Please [contact us](https://pdxchinese.org/contact/) to know the availability of the performances from OCC and other community groups
+Please [contact us](https://pdxchinese.org/contact/) for information on the availability of programs offerred by OCC and other community groups.
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CeLwb-03MNEFwnPaZlm6LAqtMeFgwOI&ehbc=2E312F" width="640" height="480"></iframe>
 
+<br>
+
 # 来自社区伙伴的信息 / Reachout from Community Partners
 
-### [Invitation to Plan International USA’s Youth Leadership Academy](/assets/images/activities/pdf/YLA-RecruitmentFlyer2023.pdf)
+### Invitation to Plan International USA’s Youth Leadership Academy
 
 The YLA is open to all high schoolers of all genders, and those that are gender-nonconforming, currently in grades 8-11. Please see the flyer for more details and information. The YLA program costs $500 including room and board but we offer full and partial financial aid scholarships based on financial need. Please see the attached flyer and our website for more details.
 
-We encourage your youth to apply to our Youth Leadership Academy! Applications for the YLA are now open and will be reviewed and accepted on a rolling basis until May 15, 2023.
+We encourage your youth to [apply to our Youth Leadership Academy](/assets/pdf/YLA-RecruitmentFlyer2023.pdf)! Applications for the YLA are now open and will be reviewed and accepted on a rolling basis until May 15, 2023.
 [Apply today!](https://www.planusa.org/youth-agency/youth-leadership-academy/youth-leadership-academy-application/#2cb24ed1_1615820334)
 
 ### [Clackamas Women's Services Camp HOPE Volunteer Opportunities](https://www.cwsor.org/camp-hope/)
@@ -70,7 +72,7 @@ Leaders ages 17-25 who are interested in working with youth and building meaning
 
 测试会花⼀个⼩时左右完成/Testing will take around 1 hour. Snacks will be provided.
 
-[Poster](/assets/images/activities/pdf/Character_Amnesia_Study.pdf)
+[Poster](/assets/pdf/Character_Amnesia_Study.pdf)
 
 在[5/6的文化体验日](https://pdxchinese.org/cultureday/)上会有摊位，可以现场参加测试。
 
