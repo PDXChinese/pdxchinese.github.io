@@ -17,13 +17,16 @@ feature_row1:
 
 ![]({{ site.url }}/assets/images/activities/ridewseniors2.jpg)
 <br>
-![]({{ site.url }}/assets/images/activities/ride1.jpg)
+<iframe width="2113" height="771" src="https://www.youtube.com/embed/hYQRBRf0vsg" title="Ride with Seniors to Visit Lan Su Chinese Garden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
-![]({{ site.url }}/assets/images/activities/ride2.jpg)
+![]({{ site.url }}/assets/images/342699477_241210718450578_282488543528299638_n.jpg)
+<br>
+![]({{ site.url }}/assets/images/343204498_252309410638732_1019423205945033575_n.jpg)
 
 ### Albums
 
-[March 2023](https://pdxchinese.org/ride_with_seniors_mar_2023/)
+[April 2023](https://pdxchinese.org/ride_with_seniors_apr_2023/)  
+[March 2023](https://pdxchinese.org/ride_with_seniors_mar_2023/)  
 
 ### Our Proud Community Partners
 
