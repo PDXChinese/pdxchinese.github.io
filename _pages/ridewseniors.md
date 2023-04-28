@@ -17,7 +17,7 @@ feature_row1:
 
 ![]({{ site.url }}/assets/images/activities/ridewseniors2.jpg)
 <br>
-<iframe width="2113" height="771" src="https://www.youtube.com/embed/hYQRBRf0vsg" title="Ride with Seniors to Visit Lan Su Chinese Garden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/hYQRBRf0vsg" title="Ride with Seniors to Visit Lan Su Chinese Garden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 ![]({{ site.url }}/assets/images/342699477_241210718450578_282488543528299638_n.jpg)
 <br>

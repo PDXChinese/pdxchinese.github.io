@@ -11,7 +11,7 @@ date: "2023-04-27"
 
 After enduring a long and frigid winter and spring, we were overjoyed to experience a beautiful day with a group of seniors. It was our second month partnering with Ride Connection and the Lan Su Chinese Garden to take the seniors on this outing.
 
-<iframe width="2113" height="771" src="https://www.youtube.com/embed/hYQRBRf0vsg" title="Ride with Seniors to Visit Lan Su Chinese Garden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/hYQRBRf0vsg" title="Ride with Seniors to Visit Lan Su Chinese Garden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 
