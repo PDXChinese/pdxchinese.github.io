@@ -6,14 +6,14 @@ feature_row1:
     excerpt: "<p><a href='https://youtu.be/x4xYzixb5bQ'>Mandarin House</a></p>"
   - image_path: /assets/images/WeChat Image_20210902093137.jpg
     excerpt: "<p><a href='https://youtu.be/PJqUWFoYrSc'>Orox Leather Co.</a></p>"
+  - image_path: /assets/images/activities/h2c2.jpg
+    excerpt: "<p><a href='https://youtu.be/v15E5VRrtJI'>H2C Relay Team</a></p>"  
   - image_path: /assets/images/320959387_680572430204142_8279162842050460109_n.jpg
     excerpt: "<p><a href='https://pdxchinese.org/community_stories_interview_01/'>Gloria Wong</a></p>"
   - image_path: /assets/images/339278248_1295146854369639_1922066907187848118_n.jpg
-    excerpt: "<p><a href='https://pdxchinese.org/oral_history_dick_lee_xiaohui_chen/'>Oregon Chinese Weekly</a></p>"  
+    excerpt: "<p><a href='https://youtu.be/74THQL0UKzY'>Xiaohui Chen and Dick Lee</a></p>"  
   - image_path: /assets/images/WeChat Image_20230403002003.jpg
     excerpt: "<p><a href='https://.../'>Fred Wong</a></p>"  
-  - image_path: /assets/images/activities/h2c2.jpg
-    excerpt: "<p><a href='https://youtu.be/v15E5VRrtJI'>H2C Relay Team</a></p>"  
 ---
 
 # Oral History: Real People, Real Stories  

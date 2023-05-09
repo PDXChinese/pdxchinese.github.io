@@ -9,6 +9,8 @@ date: "2023-04-01"
 
 Dick Lee and Xiaohui Chen are among those in the community who were willing to do something to bring people together even at expense of their own everyday life. One issue each week and for 140+ consecutive weeks for publishing Oregon Chinese Weekly was not a small commitment for someone who had to raise families at the same time. Brian and Meilan from OCC Youth Lens were honored to have the opportunity to interview them at PCC SE Campus this afternoon.
 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/74THQL0UKzY" title="OCC Youth Lens Interview of Xiaohui Chen and Dick Lee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ![]({{ site.url }}/assets/images/339276999_1981604972181299_7770111102246970301_n.jpg)
 
 ![]({{ site.url }}/assets/images/339501486_178599585033281_5661110211203283832_n.jpg)

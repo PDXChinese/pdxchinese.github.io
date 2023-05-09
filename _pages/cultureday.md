@@ -66,6 +66,8 @@ feature_row19:
     - image_path: /assets/images/326387583_1092058778857047_8245403294991861876_n.jpg
 ---
 
+## [Culture Day Album](https://pdxchinese.org/culture_day_2023/)
+
 ![]({{ site.url }}/assets/images/activities/culturedayflyer.jpg)
 
 # 2023 文化体验日 / Culture Day
