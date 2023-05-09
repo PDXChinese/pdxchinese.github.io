@@ -11,6 +11,10 @@ feature_row1:
 报名截止日：2023年4月28日  
 报名表：[点击这里](https://docs.google.com/forms/d/e/1FAIpQLSeMc3aVAPV5BkmZ8BThHhvHHEYnbNHy1B9YQCgxxiWcpAGoZQ/viewform?usp=sf_link)  
 
+### 2023 Art Show Highlight
+
+[华人和乌克兰社区绘画联展在中国城正式拉开帷幕](https://pdxchinese.org/art_show_opening_ceremony_2023/)  
+
 ![]({{ site.url }}/assets/images/divider.jpg)
 
 ![]({{ site.url }}/assets/images/activities/ArtShow2022.jpg)

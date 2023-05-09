@@ -11,11 +11,6 @@ permalink: /updates/
 **Date:** 5/4/2023 - 5/28/2023  
 **Place:** 23 NW 4th Ave, Portland, OR 97209  
 
-### [2023文化体验日/Culture Day](https://pdxchinese.org/cultureday/)
-
-**Date:** May 6, 2023 (Saturday) 10am-4pm  
-**Place:** [THPRD Jenkins Estate](https://www.thprd.org/facilities/historic/jenkins-estate) (8005 SW Grabhorn Rd, Beaverton, OR 97007)  
-
 # 常年活动 / Year Around Activities
 
 ### 口述历史 / Oral History： 我的生活，我的故事 / Real People, Real Story
@@ -91,9 +86,3 @@ University of Oregon产品设计的学生Emma在设计一个陪伴型家用机�
  ‘I have some Asian American speech and debate friends from clackamas high school who need help raising money so they can go to the national speech and debate tournament. Do you know anyone who might be able to help them? -- Lauren Zhang’
 
  Donation link: [http://tinyurl.com/CHSNats23](http://tinyurl.com/CHSNats23)
-
-**Lakeridge High School**
-
- 'Lakeridge 为Cara和Anna去参加全国speech&debate比赛筹款，希望大家支持！'
-
-FUNDRAISER DATE: May 21, 2023 -- Bring this [flyer](/assets/images/activities/pdf/lakeridgesd.pdf) in or order online through the MOD app or [website](https://modpizza.com/) and use the provided coupon code and MOD will donate 20% of your bill to support their great work.
