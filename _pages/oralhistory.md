@@ -11,7 +11,7 @@ feature_row1:
   - image_path: /assets/images/320959387_680572430204142_8279162842050460109_n.jpg
     excerpt: "<p><a href='https://pdxchinese.org/community_stories_interview_01/'>Gloria Wong</a></p>"
   - image_path: /assets/images/339278248_1295146854369639_1922066907187848118_n.jpg
-    excerpt: "<p><a href='https://youtu.be/74THQL0UKzY'>Xiaohui Chen and Dick Lee</a></p>"  
+    excerpt: "<p><a href='https://youtu.be/tM0kS3jRl2Y'>Xiaohui Chen and Dick Lee</a></p>"  
   - image_path: /assets/images/WeChat Image_20230403002003.jpg
     excerpt: "<p><a href='https://.../'>Fred Wong</a></p>"  
 ---
