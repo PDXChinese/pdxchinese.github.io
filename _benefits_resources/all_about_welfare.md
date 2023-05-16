@@ -54,6 +54,10 @@ Health Share可以为您提供帮助帮助，这里是他们的[中文资料](ht
 
 [Seniors and People with Physical Disabilities](https://www.oregon.gov/dhs/SENIORS-DISABILITIES/SPPD/Pages/index.aspx)
 
+### 照顾老年人门户网站: [caring.com](https://www.caring.com/)
+
+包括 (Assisted Living)(https://www.caring.com/senior-living/assisted-living/), [Memory Care Facilities](https://www.caring.com/senior-living/memory-care-facilities/), [In-Home Care](https://www.caring.com/senior-care/in-home-care/) and [Care Givers](https://www.caring.com/caregivers/)
+
 ### 您计划入籍考试需要帮助怎么办
 
 [您可以利用林肯高中学生为社区提供的免费公民入籍考试准备课程](https://pdxchinese.org/resources/benefits_community/mission-citizen/)

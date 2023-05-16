@@ -11,6 +11,8 @@ Dick Lee and Xiaohui Chen are among those in the community who were willing to d
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/tM0kS3jRl2Y" title="Real People, Real Stories | Xiaohui Chen and Dick Lee | OCC Youth Lens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<br>
+
 ![]({{ site.url }}/assets/images/339276999_1981604972181299_7770111102246970301_n.jpg)
 
 ![]({{ site.url }}/assets/images/339501486_178599585033281_5661110211203283832_n.jpg)
