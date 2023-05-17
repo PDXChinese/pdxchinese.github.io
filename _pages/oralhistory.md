@@ -9,11 +9,11 @@ feature_row1:
   - image_path: /assets/images/activities/h2c2.jpg
     excerpt: "<p><a href='https://youtu.be/v15E5VRrtJI'>H2C Relay Team</a></p>"  
   - image_path: /assets/images/320959387_680572430204142_8279162842050460109_n.jpg
-    excerpt: "<p><a href='https://pdxchinese.org/community_stories_interview_01/'>Gloria Wong</a></p>"
+    excerpt: "<p><a href='https://pdxchinese.org/community_stories_interview_01/'>Gloria Wong (coming soon)</a></p>"
   - image_path: /assets/images/339278248_1295146854369639_1922066907187848118_n.jpg
     excerpt: "<p><a href='https://youtu.be/tM0kS3jRl2Y'>Xiaohui Chen and Dick Lee</a></p>"  
   - image_path: /assets/images/WeChat Image_20230403002003.jpg
-    excerpt: "<p><a href='https://.../'>Fred Wong</a></p>"  
+    excerpt: "<p><a href='https://.../'>Fred Wong (coming soon)</a></p>"  
 ---
 
 # Oral History: Real People, Real Stories  

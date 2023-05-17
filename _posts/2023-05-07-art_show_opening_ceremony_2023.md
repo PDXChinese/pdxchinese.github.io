@@ -124,3 +124,5 @@ The joint art exhibition that we are opening today is a testament to the commitm
 ![]({{ site.url }}/assets/images/345265345_1870266966706832_7241613691074229433_n.jpg)
 
 ![]({{ site.url }}/assets/images/345432878_217162851022175_7662380740887192281_n.jpg)
+
+<iframe width="1280" height="724" src="https://www.youtube.com/embed/FxUR6MyZzZ8" title="Mandarin Narration for the Joint Art Show of the Chinese and Ukrainian Communities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
