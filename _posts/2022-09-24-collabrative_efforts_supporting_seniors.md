@@ -28,3 +28,7 @@ date: "2022-09-24"
 ![]({{ site.url }}/assets/images/309167535_1782418195464073_194353021502358407_n.jpg)
 
 ![]({{ site.url }}/assets/images/309471384_1782418405464052_1160281372827534655_n.jpg)
+
+![]({{ site.url }}/assets/images/WeChat Image_20230516120413.jpg)
+
+![]({{ site.url }}/assets/images/WeChat Image_20230516120403.jpg)
