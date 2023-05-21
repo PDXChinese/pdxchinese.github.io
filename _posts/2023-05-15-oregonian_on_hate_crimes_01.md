@@ -14,3 +14,7 @@ date: "2023-05-15"
 The Oregonian has just published an article shedding light on the landscape of hate crimes in the state of Oregon, providing a compelling and in-depth analysis of the compromised legal system in dealing with such crimes. This article raises more questions than it provides answers, but it signifies that we are on the right track towards addressing this issue. It reminds us that facing the challenges and acknowledging the sometimes unpleasant truth is crucial.
 
 The Oregon Chinese Coalition was honored to be acknowledged for its work in supporting the victims of hate crimes.
+
+<br>
+
+<iframe width="1280" height="794" src="https://www.youtube.com/embed/nBfGz1VKAu4" title="OCC Legal Counsel Met with Victim of Anti-Asian Hate Crime" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -66,3 +66,11 @@ Additionally, Lulu Guzheng Studio proudly represented the Chinese American commu
 ![]({{ site.url }}/assets/images/348434026_1162708584425763_104253902543842780_n.jpg)
 
 ![]({{ site.url }}/assets/images/348605464_135776692831575_6325164512283197561_n.jpg)
+
+<br>
+
+<iframe width="1280" height="725" src="https://www.youtube.com/embed/D_3EP-nl9L8" title="Two Drums Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
+
+<iframe width="1280" height="725" src="https://www.youtube.com/embed/JMzn7vRfvpw" title="Performance from US Wushu Center and Oregon Hope Chinese School" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
