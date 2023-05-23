@@ -5,7 +5,7 @@ excerpt: "今天，波特兰火龙舟队终于拥有了统一的队服！为那�
 date: "2023-05-21"
 ---
 
-今天，波特兰火龙舟队终于拥有了统一的队服！为那些致力于团队建设、追求更好比赛成绩以及打造一个坚韧不拔的社区的男女队员们感到非常自豪。
+今天全天都在亢奋状态，参加的活动跨度很大，但都让人热血沸腾。自始至终的感想就是一个，那就是为参与这些活动的每一个人感到无比的骄傲。首先是龙舟队队员们终于拿到了队服，是出自龙舟队队员@lei ma之手，队员们经过了两个小时接近比赛强度的训练后，在河边草地上穿上新队服合影留念，挑选了几张现场照片，可以看到队员们饱满的精神状态。
 
 The Portland Fire Dragon Boat Team finally has its uniforms today! We are incredibly proud of the men and women who are dedicated to team building, striving for better race results, and creating a resilient community.
 

@@ -68,6 +68,9 @@ Exemplary News Video from [Christine Pitawanich](https://www.facebook.com/cpitaw
 [Oral History of OSU](http://scarc.library.oregonstate.edu/omeka/exhibits/show/oralhistory/main/)  
 [The Immigrant Story](https://theimmigrantstory.org/)  
 [Densho Digital Repository](https://ddr.densho.org/)  
+[Hong Kong Memory 香港记忆](https://www.hkmemory.hk/collections/oral_history/notice/index.html)  
+[美国华人博物馆(MOCA)](http://ohms.mocanyc.org/)  
+
 
 ### Blogs
 
