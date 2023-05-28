@@ -5,17 +5,15 @@ permalink: /youthconference/
 
 # 第七届俄勒冈华裔青少年年会
 
-## Date
+**Date:** 6/24/2023 1:00 pm - 5:00 pm  
 
-6/24/2023 1:00 pm - 5:00 pm
+**Place:** TBD (will be in person)
 
-## Place
-
-TBD
+**Language:** English  
 
 ## Registration & Award Application
 
-[Conference registration form](https://docs.google.com/forms/d/e/1FAIpQLSeSSDTPGiyHgZ2CmYjjpXz7SlZvqoqpYTIdMOnCIHzdFsBRZA/viewform?usp=sf_link) 
+[Conference registration form](https://docs.google.com/forms/d/e/1FAIpQLSeSSDTPGiyHgZ2CmYjjpXz7SlZvqoqpYTIdMOnCIHzdFsBRZA/viewform?usp=sf_link)
 
 [Nomination, including self-nomination, form](https://docs.google.com/forms/d/e/1FAIpQLSfQRyJHdDFVPnelnzQpe8xVH2n0A8AsvoNi7VqHrCHFtCS4vg/viewform?c=0&w=1) for the scholarship and awards. Deadline is June 18, 2023.
 

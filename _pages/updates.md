@@ -6,10 +6,12 @@ permalink: /updates/
 
 # 近期年度活动 / Recent Annual Events
 
-### [2023华人和乌克兰社区绘画联展/Chinese and Ukraianian Community Art Exhibition](https://pdxchinese.org/artexhibit/)
+### [2023 Oregon Chinese Youth Conference/第七届俄勒冈华裔青少年年会](https://pdxchinese.org/youthconference/)
 
-**Date:** 5/4/2023 - 5/28/2023  
-**Place:** 23 NW 4th Ave, Portland, OR 97209  
+**Date:** 6/24/2023 1:00 pm - 5:00 pm  
+**Place:** TBD (will be in person)  
+
+******
 
 # 常年活动 / Year Around Activities
 
@@ -41,48 +43,40 @@ Please [contact us](https://pdxchinese.org/contact/) for information on the avai
 
 <br>
 
+**********
+
 # 来自社区伙伴的信息 / Reachout from Community Partners
 
-### Invitation to Plan International USA’s Youth Leadership Academy
+### 水资源调查
 
-The YLA is open to all high schoolers of all genders, and those that are gender-nonconforming, currently in grades 8-11. Please see the flyer for more details and information. The YLA program costs $500 including room and board but we offer full and partial financial aid scholarships based on financial need. Please see the attached flyer and our website for more details.
+PSU的一个项目Oregon's Kitchen Table （OKT）和 Oregon Department of Water Resources合作进行全州的water resource的调查，邀请OCC在社区收集问卷调查。水资源和质量关系到千家万户，这是一个很好的机会表达自己的声音。凡是Oregon居民都可以参加问卷调查，提交截至日期2023年6月15日，根据PSU的要求和指定，**如果希望得到礼品卡，需要在问题16的对话框注明”OCC sent me this“，以及你的电子邮件地址（如果希望收到电子卡），或者住址（如果希望收到Physical gift card），虽然问题16的问题和这个说明无关。标明 “OCC sent me link“ 的前50名参加问卷调查的居民可以得到25美金的礼品卡。欢迎大家踊跃参加。**
 
-We encourage your youth to [apply to our Youth Leadership Academy](/assets/pdf/YLA-RecruitmentFlyer2023.pdf)! Applications for the YLA are now open and will be reviewed and accepted on a rolling basis until May 15, 2023.
-[Apply today!](https://www.planusa.org/youth-agency/youth-leadership-academy/youth-leadership-academy-application/#2cb24ed1_1615820334)
+[中文调查链接](https://bit.ly/435am5V), [English](https://bit.ly/oregonswater)
 
-### [Clackamas Women's Services Camp HOPE Volunteer Opportunities](https://www.cwsor.org/camp-hope/)
+中英文填写一次即可，希望认真填写，重复提交的调查会被剔除。
 
-Leaders ages 17-25 who are interested in working with youth and building meaningful relationships can gain:
+### 2023 Regional Campaign to Map Urban Heat Islands
 
--Experience working with youth who have been impacted by trauma  
--Training on the dynamics of family violence, trauma, & resiliency  
--Valuable leadership and relationship development skills  
--Upwards of 215 volunteer credit hours  
+OCC 收到Multnomah，Clackmas and Washignton County 的邀请，希望在社区招募 ”2023 Regional Campaign to Map Urban Heat Islands” volunteer,详情见下。高中生和成年人可以参与。可以算作Volunteer Hour，还有100美元Incentive
+==========================
+Highlights：
+Helping to Identify the areas most impacted on the hot days in Multnomah County
+Participating in an hour in person lunch and learn training about the campaign data collection day
+Earning $100 intensive for participating in campaign day activities in Mid July. All of the hours can be counted as volunteer hours as well. 
 
-[Camp Counselor Application 2023](https://docs.google.com/forms/d/1Kf_LSB3H3NmJMoVhYHo3U9d5FNv05KgkA5jn-EAODPQ/viewform?edit_requested=true) (New volunteers will complete foundational training by May 2023)
+Time commitment：
 
-### 华盛顿大学的一项研究正在寻找中文母语者/Currently seeking native Chinese speakers for a UW study
+The training will be June 15 (in-person, food provided, preference for people to attend this if possible) and June 22 (virtual, back-up option) in the evening; All volunteers are eligible for the $100 incentive and we can also offer volunteer hour sign-off in addition. We are hoping folks will be available for (3) one hour shifts during one day (morning, afternoon, and evening) but will also accept volunteers that can only be available for one or two of the shifts as well. Maximum time commitment appx. 4 hours, minimum time commitment appx. 2 hours. But there will be a bit of time involved in picking up their equipment and dropping it off the day of so maybe add an additional hour or so.
 
-你有过提笔忘字的经历吗?/Have you experienced Character Amnesia?
+For details， please check [here](https://www.washingtoncountyor.gov/public-health/urban-heat-island-mapping-campaign)
+Or go directly to [sign-up form](https://docs.google.com/forms/d/e/1FAIpQLSeUdBIdteDioaIGaB30yMnJPdiKHheMLzDLqvCCbW3A1I1T2w/viewform)
 
-测试会花⼀个⼩时左右完成/Testing will take around 1 hour. Snacks will be provided.
+### Paid Leave Oregon Program 招募出镜社区成员
 
-[Poster](/assets/pdf/Character_Amnesia_Study.pdf)
+Brink Communications is working with the Oregon Employment Department to create campaign materials for the Paid Leave Oregon program. This program is designed to ensure that individuals, employers, and families of every kind have the time and support they need to care for themselves and their loved ones when they need it most.
 
-在[5/6的文化体验日](https://pdxchinese.org/cultureday/)上会有摊位，可以现场参加测试。
+They are casting for people in the Portland-Metropolitan area (or up to 2 hours outside the city) to participate in a video production and/or a photoshoot. They would love to partner with folks who could benefit from programs like Paid Leave Oregon, and would be interested in showcasing their real-life experiences on camera.
 
-### 家用机器人潜在用户调查
+If casted, community members would be compensated at least $150/person participating (exact numbers depend on how much time we need + how many productions folk work with them on).
 
-University of Oregon产品设计的学生Emma在设计一个陪伴型家用机器人，改善老年人的生活，加强与异乡亲人之间的联系。您的意见会帮助我更好的了解用户需求，完善设计。完成调查问卷大概会花费5分钟。
-
-“这是老人相关的课题。从我自己的角度出发和听到周围留学生的很多反馈就是和远在国内的家人缺乏沟通，特别是家里的老人。我目前的想法是做一个机器人和一个连接机器人的App。机器人放在老人家里可以有一些娱乐陪伴之类的功能，家人可以通过app控制机器人互动。我现在在写一些调查问卷，计划多理解用户的需求和痛点。”
-
-[中文调查表](https://forms.gle/PYNMQFwjJgpYcGnY7)
-
-### 帮助华裔/亚裔学生筹集参加全国比赛费用
-
-**Clackamas High School**
-
- ‘I have some Asian American speech and debate friends from clackamas high school who need help raising money so they can go to the national speech and debate tournament. Do you know anyone who might be able to help them? -- Lauren Zhang’
-
- Donation link: [http://tinyurl.com/CHSNats23](http://tinyurl.com/CHSNats23)
+<p><img src="/assets/images/activities/brink.jpg"></p>
