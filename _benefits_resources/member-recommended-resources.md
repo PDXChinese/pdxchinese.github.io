@@ -1,5 +1,5 @@
 ---
-title: "社区成员推荐的公共资源"
+title: "生活商务医疗创业资料汇总"
 ---
 
 Disclaimer: The views and opinions expressed in the articles and on the websites are those of the authors and/or owners and do not necessarily reflect the official position or recommendation of the OCC.
@@ -32,6 +32,20 @@ Disclaimer: The views and opinions expressed in the articles and on the websites
 
 [房产传承与房产信托 How to Inherit Properties with Trust?](https://youtu.be/dnBiyeBwhiU) 安家纽约LivingInNY (01/24/18)
 
-# 升学
+# 社区创业讲座资料
 
-[MIT前招生官: 准备要趁早！顶尖大学申请规划时间线](https://youtu.be/PhDGSWO7b3c) AFI-思慧教育 (11/14/2021)
+[西北兆：设立NPO 501c3的八步曲](https://drive.google.com/file/d/1F5pXE9Ml0s2EY1s2_lgn2_IfSTszVgOO/view?usp=sharing)
+
+[Helen & Amber：选择学医和申请医学院问答](https://drive.google.com/file/d/1287E0DHkT-0keeEOzECpNPpaGWaQL3Km/view?usp=sharing)
+
+[Joe Yang - In J Coffee: 开店心得和mini咖啡讲座](/assets/pdf/joe_talk_01152019.pdf)
+
+[李廷凯: 釉锆及其数字化口腔修复新趋势](/assets/pdf/litingkai_talk_01152019.pdf)
+
+[杨欣乐：区块链创业](/assets/pdf/xinle_blockchain.pdf)
+
+[张凯：Cloud Computing Evolution or Revolution 云计算的前世今生](http://bit.ly/2Zxcd3o)
+
+[杨欣乐：从去中心化共享高精度地理信息平台说开 PAS](/assets/pdf/pas_intro.pdf)
+
+[连杰：美国专利简介](/assets/pdf/patent_law_2019.pdf)

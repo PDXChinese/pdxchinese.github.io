@@ -5,7 +5,7 @@ excerpt: "昨天是我们组织居住在老人公寓的老人们去兰苏园游�
 date: "2023-05-25"
 ---
 
-今天是我们组织居住在老人公寓的老人们去兰苏园游玩的日子，报名超出了一位，@Maggie就决定让阿姨做在自己的车上，到了那里另外一位义工@Jing已经等候在那里。进到园内又碰上@Anna ，顺便给老人们做了一段导游。老人用完了茶点，还有时间到旁边的社区艺术展看了看。两个小时时间不长，但能让老人有机会得以离开麻将桌，享受外面的阳光和重温曾经熟悉的生活。下个月我们将转向12街的老人公寓，希望那里的老人家属能加入我们的义工行列，包括事先登记，关照老人上车并能全程陪同老人游览兰苏园。活动固定在每个月的第四个周四。
+今天是我们组织居住在老人公寓的老人们去兰苏园游玩的日子，报名超出了一位，@Maggie就决定让阿姨做在自己的车上，到了那里另外一位义工@Jing已经等候在那里。进到园内又碰上@Anna ，顺便给老人们做了一段导游。老人用完了茶点，还有时间到旁边的社区艺术展看了看。两个小时时间不长，但老人有机会得以离开麻将桌，享受外面的阳光和重温曾经熟悉的生活。下个月我们将转向12街的老人公寓，希望那里的老人家属能加入我们的义工行列，包括事先登记，关照老人上车并能全程陪同老人游览兰苏园。活动固定在每个月的第四个周四。
 
 Today, the third group of seniors joined the tour at Lan Su Chinese Garden. We were fortunate to have a new volunteer who assisted Maggie in guiding the seniors. They even had the opportunity to visit the art show before getting on the bus provided by Ride Connection back to the senior apartments.
 
