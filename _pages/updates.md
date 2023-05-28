@@ -57,19 +57,17 @@ PSU的一个项目Oregon's Kitchen Table （OKT）和 Oregon Department of Water
 
 ### 2023 Regional Campaign to Map Urban Heat Islands
 
-OCC 收到Multnomah，Clackmas and Washignton County 的邀请，希望在社区招募 ”2023 Regional Campaign to Map Urban Heat Islands” volunteer,详情见下。高中生和成年人可以参与。可以算作Volunteer Hour，还有100美元Incentive
-==========================
+OCC 收到Multnomah，Clackmas and Washignton County 的邀请，希望在社区招募 ”2023 Regional Campaign to Map Urban Heat Islands” volunteer, 详情见下。高中生和成年人可以参与。可以算作Volunteer Hour，还有100美元Incentive
+
 Highlights：
 Helping to Identify the areas most impacted on the hot days in Multnomah County
 Participating in an hour in person lunch and learn training about the campaign data collection day
 Earning $100 intensive for participating in campaign day activities in Mid July. All of the hours can be counted as volunteer hours as well. 
 
-Time commitment：
-
-The training will be June 15 (in-person, food provided, preference for people to attend this if possible) and June 22 (virtual, back-up option) in the evening; All volunteers are eligible for the $100 incentive and we can also offer volunteer hour sign-off in addition. We are hoping folks will be available for (3) one hour shifts during one day (morning, afternoon, and evening) but will also accept volunteers that can only be available for one or two of the shifts as well. Maximum time commitment appx. 4 hours, minimum time commitment appx. 2 hours. But there will be a bit of time involved in picking up their equipment and dropping it off the day of so maybe add an additional hour or so.
+Time commitment：The training will be June 15 (in-person, food provided, preference for people to attend this if possible) and June 22 (virtual, back-up option) in the evening; All volunteers are eligible for the $100 incentive and we can also offer volunteer hour sign-off in addition. We are hoping folks will be available for (3) one hour shifts during one day (morning, afternoon, and evening) but will also accept volunteers that can only be available for one or two of the shifts as well. Maximum time commitment appx. 4 hours, minimum time commitment appx. 2 hours. But there will be a bit of time involved in picking up their equipment and dropping it off the day of so maybe add an additional hour or so.
 
 For details， please check [here](https://www.washingtoncountyor.gov/public-health/urban-heat-island-mapping-campaign)
-Or go directly to [sign-up form](https://docs.google.com/forms/d/e/1FAIpQLSeUdBIdteDioaIGaB30yMnJPdiKHheMLzDLqvCCbW3A1I1T2w/viewform)
+or go directly to [sign-up form](https://docs.google.com/forms/d/e/1FAIpQLSeUdBIdteDioaIGaB30yMnJPdiKHheMLzDLqvCCbW3A1I1T2w/viewform).
 
 ### Paid Leave Oregon Program 招募出镜社区成员
 
