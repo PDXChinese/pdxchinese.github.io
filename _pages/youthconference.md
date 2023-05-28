@@ -15,9 +15,9 @@ TBD
 
 ## Registration & Award Application
 
-[Conference registration form](https://us02web.zoom.us/meeting/register/tZAtdOusqj0pEtUIbnHrDnWyzNWKFwy9Dxq3) for the students at all ages (Parents are also welcome if students are not able to attend themselves).
+[Conference registration form](https://docs.google.com/forms/d/e/1FAIpQLSeSSDTPGiyHgZ2CmYjjpXz7SlZvqoqpYTIdMOnCIHzdFsBRZA/viewform?usp=sf_link) 
 
-[Nomination, including self-nomination, form](https://docs.google.com/forms/d/e/1FAIpQLSfQRyJHdDFVPnelnzQpe8xVH2n0A8AsvoNi7VqHrCHFtCS4vg/viewform?c=0&w=1) for the scholarship and awards.
+[Nomination, including self-nomination, form](https://docs.google.com/forms/d/e/1FAIpQLSfQRyJHdDFVPnelnzQpe8xVH2n0A8AsvoNi7VqHrCHFtCS4vg/viewform?c=0&w=1) for the scholarship and awards. Deadline is June 18, 2023.
 
 ## Agenda
 
@@ -27,9 +27,9 @@ TBD
 
 ### 1:20 pm - 1:30 pm Celebration of the Changemakers
 
-    -- Victoria Ren Scholarship  
-    -- Voice of Civic Engagement Award  
-    -- Youth Empowerment Award  
+    - Victoria Ren Scholarship  
+    - Voice of Civic Engagement Award  
+    - Youth Empowerment Award  
 
 ### 1:30 pm - 2:00 pm "I Exist on the Planet for Service"
 
@@ -98,4 +98,4 @@ After a defining moment on a stark winter day of January 30, 2003, my life parad
 [2017 Youth Conference](http://pdxchinese.org/youthconference/youth_conference_2017/)  
 [2017俄勒冈华裔青少年年会成功举办/Summary and Reflection](http://pdxchinese.org/youth-conference-2017/)  
 
-[Youth Conference Files](http://pdxchinese.org/resources/benefits_resources/youthresource/)
+## [Youth Conference Files](http://pdxchinese.org/resources/benefits_resources/youthresource/)
