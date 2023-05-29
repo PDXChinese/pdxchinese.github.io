@@ -11,8 +11,9 @@ permalink: /youthconference/
 
 ## Registration & Award Application
 
-[Conference registration form](https://docs.google.com/forms/d/e/1FAIpQLSeSSDTPGiyHgZ2CmYjjpXz7SlZvqoqpYTIdMOnCIHzdFsBRZA/viewform?usp=sf_link)  
+[Youth Conference registration form](https://docs.google.com/forms/d/e/1FAIpQLSeSSDTPGiyHgZ2CmYjjpXz7SlZvqoqpYTIdMOnCIHzdFsBRZA/viewform?usp=sf_link)  
 [Nomination, including self-nomination, form](https://docs.google.com/forms/d/e/1FAIpQLSfQRyJHdDFVPnelnzQpe8xVH2n0A8AsvoNi7VqHrCHFtCS4vg/viewform?c=0&w=1) for the scholarship and awards. Deadline is June 18, 2023.  
+[Application for OCC Youth Council](https://docs.google.com/forms/d/e/1FAIpQLSdctwF7MalIH_v_ne-_8e4V7NsYEw-VS6L_3Gft3t0w7STV4g/viewform?usp=sf_link)  
 
 ## Agenda
 
@@ -22,11 +23,11 @@ permalink: /youthconference/
 
 ### 1:20 pm - 1:30 pm Celebration of the Changemakers
 
-    # Victoria Ren Scholarship #  
-    # Voice of Civic Engagement Award #  
-    # Youth Empowerment Award #  
+    * Voice of Civic Engagement Award  
+    * Youth Empowerment Award  
+    * Victoria Ren Scholarship  
 
-### 1:30 pm - 2:00 pm "I Exist on the Planet for Service"
+### 1:30 pm - 2:00 pm Just Say, Yes.
 
   -- By Joy Jones, President and CEO of [Transition Projects](https://www.tprojects.org/)
 
@@ -38,7 +39,7 @@ permalink: /youthconference/
 
   -- Hosted by the recipients of the Youth Empowerment Award
 
-### 3:00 pm - 3:30 pm Entertainment and Break
+### 3:00 pm - 3:30 pm Introducing the OCC Youth Council, Entertainment and Break
 
 ### 3:30 pm - 4:30 pm Special Presentation on Oregon Racial History
 
