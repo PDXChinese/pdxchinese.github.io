@@ -24,28 +24,13 @@ Disclaimer: The views and opinions expressed in the articles and on the websites
 
 这是 [portal 链接](https://www2.deloitte.com/us/en/pages/dbriefs-webcasts/topics/upcoming-webcasts.html)。觉得他们做得特别好的是: 1)系统化，很多非常新兴的科技商务加上传统商务的框架，历史现状未来，利弊风险等都有很好的总结和概览。2)有请大牌公司的有关主管做实例介绍和分享，非常down to the earth。”
 
-# 不动产
-
-[房产如何传给子女 How to Pass Properties to Your Children?](https://youtu.be/38Nm3BQmYgk) 安家纽约 LivingInNY （4/1/2015）
-
-[房契转名有讲究 How to Transfer Your Deed's Name](https://youtu.be/2Tv4Ar7Hj-M) 安家纽约LivingInNY (1/14/2015)
-
-[房产传承与房产信托 How to Inherit Properties with Trust?](https://youtu.be/dnBiyeBwhiU) 安家纽约LivingInNY (01/24/18)
-
 # 社区创业讲座资料
 
-[西北兆：设立NPO 501c3的八步曲](https://drive.google.com/file/d/1F5pXE9Ml0s2EY1s2_lgn2_IfSTszVgOO/view?usp=sharing)
-
-[Helen & Amber：选择学医和申请医学院问答](https://drive.google.com/file/d/1287E0DHkT-0keeEOzECpNPpaGWaQL3Km/view?usp=sharing)
-
-[Joe Yang - In J Coffee: 开店心得和mini咖啡讲座](/assets/pdf/joe_talk_01152019.pdf)
-
-[李廷凯: 釉锆及其数字化口腔修复新趋势](/assets/pdf/litingkai_talk_01152019.pdf)
-
-[杨欣乐：区块链创业](/assets/pdf/xinle_blockchain.pdf)
-
-[张凯：Cloud Computing Evolution or Revolution 云计算的前世今生](http://bit.ly/2Zxcd3o)
-
-[杨欣乐：从去中心化共享高精度地理信息平台说开 PAS](/assets/pdf/pas_intro.pdf)
-
-[连杰：美国专利简介](/assets/pdf/patent_law_2019.pdf)
+[西北兆：设立NPO 501c3的八步曲](https://drive.google.com/file/d/1F5pXE9Ml0s2EY1s2_lgn2_IfSTszVgOO/view?usp=sharing)  
+[Helen & Amber：选择学医和申请医学院问答](https://drive.google.com/file/d/1287E0DHkT-0keeEOzECpNPpaGWaQL3Km/view?usp=sharing)  
+[Joe Yang - In J Coffee: 开店心得和mini咖啡讲座](/assets/pdf/joe_talk_01152019.pdf)  
+[李廷凯: 釉锆及其数字化口腔修复新趋势](/assets/pdf/litingkai_talk_01152019.pdf)  
+[杨欣乐：区块链创业](/assets/pdf/xinle_blockchain.pdf)  
+[张凯：Cloud Computing Evolution or Revolution 云计算的前世今生](http://bit.ly/2Zxcd3o)  
+[杨欣乐：从去中心化共享高精度地理信息平台说开 PAS](/assets/pdf/pas_intro.pdf)  
+[连杰：美国专利简介](/assets/pdf/patent_law_2019.pdf)  

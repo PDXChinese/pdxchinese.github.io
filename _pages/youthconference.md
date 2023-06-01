@@ -6,13 +6,13 @@ permalink: /youthconference/
 # 第七届俄勒冈华裔青少年年会
 
 **Date:** 6/24/2023 1:00 pm - 5:00 pm  
-**Place:** TBD (will be in person)  
+**Place:** DoubleTree Hotel by Hilton ([15402 NW Cornell Rd, Beaverton, 97006](https://goo.gl/maps/XNov3hTvDTN2))  
 **Language:** English  
 
 ## Registration & Award Application
 
 [Youth Conference registration form](https://docs.google.com/forms/d/e/1FAIpQLSeSSDTPGiyHgZ2CmYjjpXz7SlZvqoqpYTIdMOnCIHzdFsBRZA/viewform?usp=sf_link)  
-[Nomination, including self-nomination, form](https://docs.google.com/forms/d/e/1FAIpQLSfQRyJHdDFVPnelnzQpe8xVH2n0A8AsvoNi7VqHrCHFtCS4vg/viewform?c=0&w=1) for the scholarship and awards. Deadline is June 18, 2023.  
+[Nomination form](https://docs.google.com/forms/d/e/1FAIpQLSfQRyJHdDFVPnelnzQpe8xVH2n0A8AsvoNi7VqHrCHFtCS4vg/viewform?c=0&w=1) for scholarship and awards.  
 [Application for OCC Youth Council](https://docs.google.com/forms/d/e/1FAIpQLSdctwF7MalIH_v_ne-_8e4V7NsYEw-VS6L_3Gft3t0w7STV4g/viewform?usp=sf_link)  
 
 ## Agenda
@@ -23,9 +23,9 @@ permalink: /youthconference/
 
 ### 1:20 pm - 1:30 pm Celebration of the Changemakers
 
-    * Voice of Civic Engagement Award  
-    * Youth Empowerment Award  
-    * Victoria Ren Scholarship  
+    Voice of Civic Engagement Award  
+    Youth Empowerment Award  
+    Victoria Ren Scholarship  
 
 ### 1:30 pm - 2:00 pm Just Say, Yes.
 

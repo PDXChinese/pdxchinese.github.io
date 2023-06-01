@@ -20,9 +20,8 @@ Health Share可以为您提供帮助帮助，这里是他们的[中文资料](ht
 
 ### 波特兰市对新移民和难民提供的各种资源
 
-[为移民及难民提供的资源指南(中文版本)](https://www.portland.gov/sites/default/files/2021/welcome-week-brochure-chinese.pdf)
-
-[Resources for Immigrants and Refugees](https://www.portland.gov/civic/immigrants/resources)
+[为移民及难民提供的资源指南(中文版本)](https://www.portland.gov/sites/default/files/2021/welcome-week-brochure-chinese.pdf)  
+[Resources for Immigrants and Refugees](https://www.portland.gov/civic/immigrants/resources)  
 
 ### 华盛顿郡(Washington County)居民在遇到生活困难的时候可以得到的帮助
 
