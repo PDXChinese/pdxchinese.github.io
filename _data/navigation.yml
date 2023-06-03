@@ -28,12 +28,10 @@ extra:
         url: /auction/
       - title: "Go Vote"
         url: /vote_matters/
-      - title: "Health Fair"
-        url: /healthfair/
+      - title: "Health Initiative"
+        url: /healthinitiative/
       - title: "Meal Provider"
         url: /mealprovider/
-      - title: "Mental Health"
-        url: /mentalhealth/
       - title: "Oral History"
         url: /oralhistory/
       - title: "Ride with Seniors"

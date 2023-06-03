@@ -12,7 +12,7 @@ permalink: /artexhibit/
 
 [华人和乌克兰社区绘画联展在中国城正式拉开帷幕](https://pdxchinese.org/art_show_opening_ceremony_2023/)  
 [华人和乌克兰社区的年轻艺术家们相聚](https://pdxchinese.org/art_show_young_artists_2023/)  
-[艺术展参展作品](https://pdxchinese.org/art_show_artworks_2023/)  
+[艺术展参展作品欣赏](https://pdxchinese.org/art_show_artworks_2023/)  
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 

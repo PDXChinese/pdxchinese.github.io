@@ -49,9 +49,9 @@ feature_row2:
 [>> Health Fair Survey](https://docs.google.com/forms/d/e/1FAIpQLSd_4AIMlIc641pCQophuSprlJhwqz_ZYHnQVsaNNvEMTKJYEg/viewform?usp=sf_link)  
 [>> Tabling Map](/assets/images/activities/healthfairmap2023.pdf)  
 
-Health matters to everyone, to the youth who grow in between two cultures, to the parents who shoulder the burden of raising family, and surely to the elderly who learn to age gracefully. The health fair eyes on the wellbeing of entire community.
+Health is of utmost importance to everyone, from the youth navigating between two cultures, to the parents shouldering the responsibilities of raising a family, and certainly to the elderly who strive to age gracefully. The health fair is dedicated to the well-being of the entire community.
 
-As a community-based organization, its strength lies in addressing the root causes of both physical and mental health issues. The health fair is beyond just health education and screening. We will use it as an opportunity to introduce health and social service resources to the community members. We believe empowering people with the knowledge and resources is the best way to improve the public health.
+As a community-based organization, our strength lies in addressing the underlying causes of both physical and mental health issues. The health fair goes beyond mere health education and screening; it serves as a platform to introduce essential health and social services to community members. We firmly believe that empowering individuals with knowledge and resources is the most effective means of enhancing public health.
 
 *Full programs are in development and you have every reason to expect...*
 
