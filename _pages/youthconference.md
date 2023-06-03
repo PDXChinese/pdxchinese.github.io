@@ -1,5 +1,5 @@
 ---
-title: "2023 Oregon Chinese Youth Conference"
+title: "2023 Oregon Chinese American Youth Conference"
 permalink: /youthconference/
 ---
 
