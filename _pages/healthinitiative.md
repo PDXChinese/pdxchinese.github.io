@@ -4,7 +4,7 @@ permalink: /healthinitiative/
 feature_row1:
   - image_path: /assets/images/activities/2023fairflyer.jpg
 feature_row2:
-  - image_path: /assets/images/activities/blanklogo.jpg
+  - image_path: /assets/images/activities/ChooseToBeTobaccoFree.png
 ---
 
 最近经历的疫情引发了一场公共卫生危机，这提醒了我们日常工作的重要性。在应对挑战的过程中，我们意识到公共卫生领域存在着制度性缺陷和社区资源的严重短缺。因此，公共卫生将成为我们未来工作的一个重要方面。
@@ -28,8 +28,18 @@ feature_row2:
 
 # Tobacco Prevention and Cessation Campaign / 烟草预防和戒烟宣传
 
->Coming soon...
+{% include feature_row id="feature_row2"%}
+
+>戒烟计划：一对一提供帮助，推荐[亚裔吸烟者戒烟](https://www.asiansmokersquitline.org/)专线资源  
+>预防计划：to be announced soon  
+>社区壁画宣传计划  
 
 # Culturally Specific and Responsive Cancer Risk Education / 文化特定和响应性的癌症风险教育
 
->Coming soon...
+>HPV 疫苗社区推广计划（与OHSU合作项目）  
+>[All of Us Research Program](https://www.joinallofus.org/drive)， NIH Initiative  
+
+# Public Health Advocacy
+
+>AI-READI Citizens Advisory Council， AI Ready and Equitable Atlas for Diabetes Insights, UCSD  
+>Strategic Data Plan Subcommittee, OHA Public Health Advisory Board, Oregon  
