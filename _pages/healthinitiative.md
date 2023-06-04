@@ -30,6 +30,8 @@ feature_row2:
 
 {% include feature_row id="feature_row2"%}
 
+如果你在谷歌上搜索“亚洲演员吸烟”，那些图片会让人震惊。在好莱坞，曾几何时亚洲演员只能扮演顺从的角色。所以这些角色经常与吸烟联系在一起，以在形象中增添一种酷劲。我们知道社区中有很多吸烟者是蓝领工人。我们知道他们吸烟是为了表达他们对被描绘为无声群体在这个社会中不满意。这就是为什么我们希望以更广泛的方式来解决这个问题，不仅关注吸烟对健康的不良影响，还要增强他们作为社区成员的自信心。
+
 >戒烟计划：一对一提供帮助，推荐[亚裔吸烟者戒烟](https://www.asiansmokersquitline.org/)专线资源  
 >预防计划：to be announced soon  
 >社区壁画宣传计划  
@@ -41,5 +43,6 @@ feature_row2:
 
 # Public Health Advocacy
 
->AI-READI Citizens Advisory Council， AI Ready and Equitable Atlas for Diabetes Insights, UCSD  
->Strategic Data Plan Subcommittee, OHA Public Health Advisory Board, Oregon  
+>Strategic Data Plan Subcommittee, [OHA Public Health Advisory Board, Oregon](https://www.oregon.gov/oha/ph/about/pages/ophab.aspx)  
+><br>
+>AI-READI Citizens Advisory Council， [AI Ready and Equitable Atlas for Diabetes Insights, UCSD](https://shileyeye.ucsd.edu/research/ai_readi)  
