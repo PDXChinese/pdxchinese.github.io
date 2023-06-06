@@ -60,7 +60,7 @@ feature_row1:
 
 OCC is grateful to the Oregon Health Authority (OHA) for their incredibly generous grant aimed at addressing the mental and behavioral health crisis within the Chinese American community during the pandemic. With this grant, along with funding from other sources, we are determined to make a significant impact in our community by delving into mental health issues and developing sustainable solutions that extend beyond the grant period. This support from OHA enables us to initiate a powerful initiative that will have a lasting and positive effect on the well-being of individuals in our community.
 
-[Peer Advisors](http://pdxchinese.org/peeradvisors/)  
+### [Peer Advisors](http://pdxchinese.org/peeradvisors/)  
 Peer support can be an important tool in helping children and youth overcome personal challenges they are facing at school or at home. Our Peer Advisors are available to provide encouragement and resources to help their peers create goals and navigate stressful situations and experiences, and they are also available to simply provide an empathetic ear.  
 
   :blue_book: [Becoming Peer Advisor](https://docs.google.com/forms/d/e/1FAIpQLSfKewGqu-TrfPFfXdYIskGurJAz92ayYWHML2Wj4VKN3xqOIA/viewform?usp=sf_link)  
@@ -70,25 +70,23 @@ Peer support can be an important tool in helping children and youth overcome per
   :green_book: [Meeting Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeaGQKfpCcHl4o3WRhlV-EPVaH20t5mFhddQbEXhrwpTmmmvg/viewform?usp=sf_link) for youth and parents looking for peer advisors   
   [Feedback on Peer Advisors](mailto:health@pdxchinese.org?subject=[Feedback on Peer Advisors])  
 
-[Peer Connect Program](http://pdxchinese.org/peerconnect/)  
-Peer Connect program provides another opportunity for the community youth to get connected. The participants will be able to reach out to the peers from another school or another side of town through organizing and participating in activities. Peer Connect program opens to all middle school and high school students.  
+### Mental Health Retreats  
+Earlier this year, the OCC received a grant from the OHA to organize a series of mental health retreats in different locations across the state of Oregon, specifically targeting the local Chinese community. These weekend events, commencing in June, aim to foster connections and introduce the National Alliance on Mental Illness (NAMI) to the local Chinese American communities. Additionally, the retreats provide an opportunity for OCC to establish relationships with local NAMI affiliates, paving the way for potential future collaborations. The first three retreats are currently in the planning phase and will be hosted in Bend, along the coast near Rockaway Beach, and in Joseph at Wallowa County.  
 
-  :blue_book: [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSc0d4WQuLi3g14vt3X3CUbjIzki-JTLUWvKXtn48dlmyxVFrA/viewform?usp=sf_link)
-
-[Weekly Talk on Mental Health](http://pdxchinese.org/weeklytalk/)  
+### [Weekly Talk on Mental Health](http://pdxchinese.org/weeklytalk/)  
 We will host weekly talks on mental health by inviting professionals in the field.  
 
-[Request for Paid Visits to Licensed Mental Health Providers](mailto:oregonchinesecoalition@gmail.com)  
+### [Request for Paid Visits to Licensed Mental Health Providers](mailto:oregonchinesecoalition@gmail.com)  
 For office/virtual visits only and possibly outpatient treatment. You are encouraged to get the fee estimate first and contact us for securing the funding. However, contacting us beforehand is not mandatory. Funding will be available for services dated before 6/30/2022.  
 [Reimbursement Form](/assets/pdf/reimbursement_form_advocacy_fillable.pdf) (Category: Visits to Mental Health Providers)  
 
-[Financial Assistance Programs](http://OCCResponse.org)  
+### [Financial Assistance Programs](http://OCCResponse.org)  
 Some funding is available specifically for the families suffered from mental illnesses.  
 
-[Books on Mental Health](mailto:oregonchinesecoalition@gmail.com)  
+### [Books on Mental Health](mailto:oregonchinesecoalition@gmail.com)  
 We have purchased books on mental health based on the recommendations from professionals and readers in the community. All the books are distributed to anyone who have requested.  
 
-[Headspace Membership](https://work.headspace.com/oregonchinesecoalition/member-enroll?utm_medium=email&_hsmi=77283528&_hsenc=p2ANqtz-88UDOik4Z_O9-jdo1Us7sryMJyrmKzONEViJQlpiiZ7GQ1s0SMFja13DX3pmYYBjxMnevhO-dVp4uAM3vGwZXWiDG8Mg&utm_content=77283528&utm_source=hs_automation)  
+### [Headspace Membership](https://work.headspace.com/oregonchinesecoalition/member-enroll?utm_medium=email&_hsmi=77283528&_hsenc=p2ANqtz-88UDOik4Z_O9-jdo1Us7sryMJyrmKzONEViJQlpiiZ7GQ1s0SMFja13DX3pmYYBjxMnevhO-dVp4uAM3vGwZXWiDG8Mg&utm_content=77283528&utm_source=hs_automation)  
 Get Headspace for free, 1000+ hours of mindfulness and sleep content, Mini exercises for busy schedules, Proven to reduce stress in just 10 days.
 
 ### Other Useful Resources
