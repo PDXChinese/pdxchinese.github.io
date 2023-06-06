@@ -9,7 +9,7 @@ permalink: /updates/
 ### [2023 Oregon Chinese Youth Conference/第七届俄勒冈华裔青少年年会](https://pdxchinese.org/youthconference/)
 
 **Date:** 6/24/2023 1:00 pm - 5:00 pm  
-**Place:** TBD (will be in person)  
+**Place:** DoubleTree Hotel by Hilton ([15402 NW Cornell Rd, Beaverton, 97006](https://goo.gl/maps/XNov3hTvDTN2))  
 
 ******
 

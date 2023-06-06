@@ -98,3 +98,7 @@ Performing Cai Wei at Patricia Reser Center for the Arts
 ![]({{ site.url }}/assets/images/345476558_1433697510766765_6471073366267095011_n.jpg)
 
 ![]({{ site.url }}/assets/images/344809985_1321076341809807_2237224498108726304_n.jpg)
+
+![]({{ site.url }}/assets/images/346057442_187597300842384_2839534818253709766_n.jpg)
+
+![]({{ site.url }}/assets/images/345624430_918996386052076_398775275701993164_n.jpg)

@@ -44,5 +44,4 @@ feature_row2:
 # Public Health Advocacy
 
 >Strategic Data Plan Subcommittee, [OHA Public Health Advisory Board, Oregon](https://www.oregon.gov/oha/ph/about/pages/ophab.aspx)  
-><br>
 >AI-READI Citizens Advisory Council， [AI Ready and Equitable Atlas for Diabetes Insights, UCSD](https://shileyeye.ucsd.edu/research/ai_readi)  
