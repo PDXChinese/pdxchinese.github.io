@@ -15,15 +15,29 @@ Claire Cao
 Amy Kang  
 Sophia Alicata  
 
-Performing Up to the Moon at Patricia Reser Center for the Arts
+![]({{ site.url }}/assets/images/345207376_157519157280310_5308032708509650109_n.jpg)
+
+![]({{ site.url }}/assets/images/345444775_1315340262381391_5257554883155174898_n.jpg)
+
+![]({{ site.url }}/assets/images/345170238_761649175442761_1063466628724772350_n.jpg)
+
+![]({{ site.url }}/assets/images/344955088_207787232028698_3590263650904480191_n.jpg)
+
+![]({{ site.url }}/assets/images/345476558_1433697510766765_6471073366267095011_n.jpg)
+
+![]({{ site.url }}/assets/images/344809985_1321076341809807_2237224498108726304_n.jpg)
+
+![]({{ site.url }}/assets/images/346057442_187597300842384_2839534818253709766_n.jpg)
+
+![]({{ site.url }}/assets/images/345624430_918996386052076_398775275701993164_n.jpg)
 
 <iframe width="728" height="410" src="https://www.youtube.com/embed/W-nYv0gLKoc" title="Jade Dance Team Performing Up to the Moon at Patricia Reser Center for the Arts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Performing Cai Wei at Patricia Reser Center for the Arts
+<br>
 
 <iframe width="728" height="410" src="https://www.youtube.com/embed/QvPY9qw8v6E" title="Jade Dance Team Performing Cai Wei at Patricia Reser Center for the Arts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Past Performances
+<br>
 
 ![]({{ site.url }}/assets/images/299581538_1748627322176494_48052684740289644_n.jpg)
 
@@ -86,19 +100,3 @@ Performing Cai Wei at Patricia Reser Center for the Arts
 ![]({{ site.url }}/assets/images/300974762_1755345564838003_8530925399987335377_n.jpg)
 
 <iframe width="728" height="410" src="https://www.youtube.com/embed/2-iY0BY_-gE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-![]({{ site.url }}/assets/images/345207376_157519157280310_5308032708509650109_n.jpg)
-
-![]({{ site.url }}/assets/images/345444775_1315340262381391_5257554883155174898_n.jpg)
-
-![]({{ site.url }}/assets/images/345170238_761649175442761_1063466628724772350_n.jpg)
-
-![]({{ site.url }}/assets/images/344955088_207787232028698_3590263650904480191_n.jpg)
-
-![]({{ site.url }}/assets/images/345476558_1433697510766765_6471073366267095011_n.jpg)
-
-![]({{ site.url }}/assets/images/344809985_1321076341809807_2237224498108726304_n.jpg)
-
-![]({{ site.url }}/assets/images/346057442_187597300842384_2839534818253709766_n.jpg)
-
-![]({{ site.url }}/assets/images/345624430_918996386052076_398775275701993164_n.jpg)
