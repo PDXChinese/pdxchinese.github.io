@@ -1,10 +1,9 @@
 ---
 title: ""
 permalink: /updates/
-
+---
 
 ![]({{ site.url }}/assets/images/activities/donation_at_pcc.jpg)
----
 
 # 近期年度活动 / Recent Annual Events
 
