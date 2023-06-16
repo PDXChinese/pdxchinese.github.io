@@ -2,6 +2,8 @@
 title: ""
 permalink: /updates/
 
+
+![]({{ site.url }}/assets/images/activities/donation_at_pcc.jpg)
 ---
 
 # 近期年度活动 / Recent Annual Events
@@ -10,6 +12,11 @@ permalink: /updates/
 
 **Date:** 6/24/2023 1:00 pm - 5:00 pm  
 **Place:** DoubleTree Hotel by Hilton ([15402 NW Cornell Rd, Beaverton, 97006](https://goo.gl/maps/XNov3hTvDTN2))  
+
+### [2023 Oregon Chinese Festival](https://pdxchinese.org/chinesefestival/)
+
+**Date:** 8/5/2023 11:00 am - 6:00 pm  
+**Place:** Pioneer Courthouse Sqaure, Portland, OR  
 
 ******
 
