@@ -1,11 +1,11 @@
 ---
-title: "禁烟禁止电子烟承诺"
+title: "拒用烟草和电子香烟的承诺"
 author: XiBei Zhao
-excerpt: "昨天在 PCC 东南校区举办的捐赠物品分发活动中成功启动了“禁烟禁止电子烟承诺”运动。我们坚信，基于社区的组织更能与年轻人建立联系，并向他们提供烟草预防教育。在活动中，我们敬业的志愿者有幸邀请了50名年轻人很认真严签上了自己的名字，展示了他们对无烟生活方式的承诺。此外，我们还有5名吸烟者报名参加个性化的戒烟计划，表明他们戒烟的决心。"
+excerpt: "昨天在 PCC 东南校区举办的捐赠物品分发活动中成功启动了“拒用烟草和电子香烟的承诺”宣传活动。我们坚信，基于社区的组织更能与年轻人建立联系，并向他们提供烟草预防教育。在活动中，我们敬业的志愿者有幸邀请了50名年轻人很认真严签上了自己的名字，展示了他们对无烟生活方式的承诺。此外，我们还有5名吸烟者报名参加个性化的戒烟计划，表明他们戒烟的决心。"
 date: "2023-06-17"
 ---
 
-昨天在 PCC 东南校区举办的捐赠物品分发活动中成功启动了“禁烟禁止电子烟承诺”运动。我们坚信，基于社区的组织更能与年轻人建立联系，并向他们提供烟草预防教育。在活动中，我们敬业的志愿者有幸邀请了50名年轻人很认真签上了自己的名字，展示了他们对无烟生活方式的承诺。此外，我们还有5名吸烟者报名参加个性化的戒烟计划，表明他们戒烟的决心。
+昨天在 PCC 东南校区举办的捐赠物品分发活动中成功启动了“拒用烟草和电子香烟的承诺”运动。我们坚信，基于社区的组织更能与年轻人建立联系，并向他们提供烟草预防教育。在活动中，我们敬业的志愿者有幸邀请了50名年轻人很认真签上了自己的名字，展示了他们对无烟生活方式的承诺。此外，我们还有5名吸烟者报名参加个性化的戒烟计划，表明他们戒烟的决心。
 
 OCC successfully launched the No Smoking No Vaping Pledge campaign at the donation distribution event held yesterday at PCC SE. We strongly believe that community-based organizations are in a better position to connect with youth and provide them with tobacco prevention education. During the event, our dedicated volunteers had the privilege of having 50 young individuals join the pledge, demonstrating their commitment to a tobacco-free lifestyle. Additionally, we had 5 smokers sign up for personalized tobacco cessation programs, showing their determination to quit.
 
