@@ -5,6 +5,7 @@ feature_row1:
   - image_path: /assets/images/activities/2023fairflyer.jpg
 feature_row2:
   - image_path: /assets/images/activities/ChooseToBeTobaccoFree.png
+  - image_path: /assets/images/activities/occ_nsnv.png
 ---
 
 最近经历的疫情引发了一场公共卫生危机，这提醒了我们日常工作的重要性。在应对挑战的过程中，我们意识到公共卫生领域存在着制度性缺陷和社区资源的严重短缺。因此，公共卫生将成为我们未来工作的一个重要方面。
@@ -34,7 +35,7 @@ feature_row2:
 
 >社区成员使用烟草产品调查（一分钟填写调查表）  
 >戒烟计划：提供[个体帮助](https://docs.google.com/forms/d/e/1FAIpQLScXadBaZg-PdM3LbFf2r-eo_nhXYzptnxt-Su1_Qlf_ASU0gw/viewform?usp=sf_link)，推荐[亚裔吸烟者戒烟](https://www.asiansmokersquitline.org/)专线资源  
->预防计划：加入[拒用烟草和电子香烟的誓言](https://docs.google.com/forms/d/e/1FAIpQLSeXi9pIxzAE7655rQRaq849D0swRK_nWTkQnPOKDZjSnbdrQA/viewform?usp=sf_link)  
+>预防计划：加入[拒用烟草和电子香烟的承诺](https://docs.google.com/forms/d/e/1FAIpQLSeXi9pIxzAE7655rQRaq849D0swRK_nWTkQnPOKDZjSnbdrQA/viewform?usp=sf_link)  
 >社区壁画宣传计划  
 
 # Culturally Specific and Responsive Cancer Risk Education / 文化特定和响应性的癌症风险教育

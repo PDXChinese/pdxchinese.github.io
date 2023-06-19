@@ -3,8 +3,6 @@ title: ""
 permalink: /updates/
 ---
 
-![]({{ site.url }}/assets/images/activities/donation_at_pcc.jpg)
-
 # 近期年度活动 / Recent Annual Events
 
 ### [2023 Oregon Chinese Youth Conference/第七届俄勒冈华裔青少年年会](https://pdxchinese.org/youthconference/)
@@ -15,7 +13,7 @@ permalink: /updates/
 ### [2023 Oregon Chinese Festival](https://pdxchinese.org/chinesefestival/)
 
 **Date:** 8/5/2023 11:00 am - 6:00 pm  
-**Place:** Pioneer Courthouse Sqaure, Portland, OR  
+**Place:** Pioneer Courthouse Square, Portland, OR  
 
 ******
 
