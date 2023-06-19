@@ -9,6 +9,10 @@ date: "2023-06-11"
 
 加油，波特兰驰焰龙舟队！
 
+What an unforgettable two days it has been for the Portland Fire dragon boat team! They raced together as a cohesive unit, pushing themselves to the very end. Throughout the journey, they discovered the incredible potential of their collective strength, not only in the races but also in fostering a diverse and inclusive community.
+
+Go Portland Fire!
+
 ### 赛后微信群里部分聊天记录
 
 姐妹们，兄弟们，谢谢大家的陪伴，帮助，鼓励和包容，很高兴和大家成为一个团队

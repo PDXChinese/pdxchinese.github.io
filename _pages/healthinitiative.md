@@ -4,7 +4,6 @@ permalink: /healthinitiative/
 feature_row1:
   - image_path: /assets/images/activities/2023fairflyer.jpg
 feature_row2:
-  - image_path: /assets/images/activities/ChooseToBeTobaccoFree.png
   - image_path: /assets/images/activities/occ_nsnv.png
 ---
 
