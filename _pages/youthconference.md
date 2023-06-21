@@ -51,17 +51,9 @@ Victoria Ren Scholarship
 
 ## Distinguished Guest Speakers
 
-### Joy Jones
-
-<p><img src="/assets/images/activities/joy_jones.jpg"></p>
-
-Ms. Jones was a highly regarded human service administrator with 30 years of experience. Her expertise serving individuals, youth, families, veterans, refugees, immigrants, and people experiencing homelessness makes her ideal for the executive position. Over the course of her career, she’s elevated public/private partnerships, public health, child welfare, and Permanent Supportive Housing (PSH) programs, and was responsible for organizational strategy, nonprofit and change management, and capacity building.
-
-In her previous role as Vice President of Programs at Abode Services in Northern California she led Permanent Supportive Housing and other housing services as a preferred provider in Santa Clara, Santa Cruz, and San Mateo counties. Ms. Jones managed a multi-million-dollar budget, and in partnership with her dedicated leadership team provided oversight to multiple programs and 200 staff.
-
 ### Lynda Walker
 
-<p><img src="/assets/images/activities/lynda_walker.jpg"></p>
+<p><img src="/assets/images/activities/lynda_walker1.jpg"></p>
 
 Founded in 1889 as an orphanage for abandoned and wayward children, today St. Mary’s offers residential treatment and services to at-risk boys between the ages of 10 and 17 who are emotionally disturbed and behaviorally delinquent.  The individualized program provides each client with a structured regimen to ensure his successful transition to public school, the community, and appropriate living environment. Adolescent boys of all ethnic heritages and religious backgrounds are accepted.
 
