@@ -17,37 +17,37 @@ permalink: /youthconference/
 
 ## Agenda
 
+### 12:30pm - 1:00pm
+
+Dances by Jade Dance Team
+
 ### 1:00 pm - 1:20 pm Emerging Strong Out of the Pandemic
 
-  -- By Hongcheng Zhao, President of Oregon Chinese Coalition
+-- By Hongcheng Zhao, President of Oregon Chinese Coalition
 
 ### 1:20 pm - 1:30 pm Celebration of the Changemakers
 
-    Voice of Civic Engagement Award  
-    Youth Empowerment Award  
-    Victoria Ren Scholarship  
+Voice of Civic Engagement Award  
+Youth Empowerment Award  
+Victoria Ren Scholarship  
 
-### 1:30 pm - 2:00 pm Just Say, Yes.
+### 1:30 pm - 2:15 pm "All Youth Are Treatable"
 
-  -- By Joy Jones, President and CEO of [Transition Projects](https://www.tprojects.org/)
+-- By Lynda Walker, Director of Development of [St. Mary's Home for Boys](http://www.stmaryshomeforboys.org/)
 
-### 2:00 pm - 2:30 pm "All Youth Are Treatable"
+### 2:15 pm - 2:45 pm Panel Discussion
 
-  -- By Lynda Walker, Director of Development of [St. Mary's Home for Boys](http://www.stmaryshomeforboys.org/)
+-- Hosted by the recipients of the Youth Empowerment Award
 
-### 2:30 pm - 3:00 pm Panel Discussion
-
-  -- Hosted by the recipients of the Youth Empowerment Award
-
-### 3:00 pm - 3:30 pm Introducing the OCC Youth Council, Entertainment and Break
+### 3:00 pm - 3:30 pm Introducing the OCC Youth Council, Performance by Yo-Yo Team
 
 ### 3:30 pm - 4:30 pm Special Presentation on Oregon Racial History
 
-  -- By [Raymond Chong](https://www.mychinaroots.com/samples/zhang-odyssey/#140), renowned speaker who chronicled the legacy of seven family generations
+-- By [Raymond Chong](https://www.mychinaroots.com/samples/zhang-odyssey/#140), renowned speaker who chronicled the legacy of seven family generations
 
 ### 4:30 pm - 5:00 Panel Discussion
 
-  -- Hosted by the recipients of the Voice of Civic Engagement Award
+-- Hosted by the recipients of the Voice of Civic Engagement Award
 
 ## Distinguished Guest Speakers
 
