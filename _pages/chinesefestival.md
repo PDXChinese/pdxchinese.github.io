@@ -8,7 +8,7 @@ feature_row0:
   - image_path: /assets/images/activities/oregonian.jpg
   - image_path: /assets/images/activities/pcs-logo.png
 feature_row1:
-  - image_path: /assets/images/festival/claire_cao.jpg
+  - image_path: /assets/images/festival/claire_cao2.jpg
     title: "Claire Cao"
   - image_path: /assets/images/festival/justin.jpg
     title: "Justin Xia"
@@ -33,7 +33,7 @@ to be annouced
 
 ## Stage Performances  
 
-The following is the progran list from 2022 Chinese Festival. Most of them will come back to the stage and we will welcome some new groups. The new list for this year's Chinese Festival will be available 2 weeks before the event.
+The following is the program list from 2022 Chinese Festival. Most of them will come back to the stage and we will welcome some new groups. The new list for this year's Chinese Festival will be available two weeks before the event.
 
 | Time | Program | Presented By |
 | --- | --- | --- | ---: |
@@ -122,9 +122,7 @@ The following is the progran list from 2022 Chinese Festival. Most of them will 
 
 ## Gifts Vendor Lineup
 
-| Name | Category |
-| --- | --- |
-| XK Gift Shop | Culture Specific Gifts & Clothing |
+Culture Specific Gifts & Clothing from XK Gift Shop
 
 ## Arts
 
