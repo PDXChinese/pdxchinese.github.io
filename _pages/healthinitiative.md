@@ -30,12 +30,11 @@ feature_row2:
 
 {% include feature_row id="feature_row2"%}
 
-如果你在谷歌上搜索“亚洲演员吸烟”，那些图片会让人震惊。在好莱坞，曾几何时亚洲演员只能扮演顺从的角色。所以这些角色经常与吸烟联系在一起，以在形象中增添一种酷劲。我们知道社区中有很多吸烟者是蓝领工人。我们知道他们吸烟是为了表达他们对被描绘为无声群体在这个社会中不满意。这就是为什么我们希望以更广泛的方式来解决这个问题，不仅关注吸烟对健康的不良影响，还要增强他们作为社区成员的自信心。
+如果你在谷歌上搜索“亚洲演员吸烟”，那些图片会让人震惊。在好莱坞，曾几何时亚洲演员只能扮演顺从的角色。所以这些角色经常与吸烟联系在一起，以在形象中增添一种酷劲。我们知道社区中有很多吸烟者是蓝领工人。我们知道他们吸烟是为了表达他们对被描绘为无声群体在这个社会中不满意。这就是为什么我们希望以更广泛的方式来解决这个问题，不仅关注吸烟对健康的不良影响，还要增强他们作为社区成员的自信心。OCC理事会主席2023年6月28日在波特兰都市区三个县政府共同举办的戒烟大会上[发言](/assets/pdf/speech_on_tobacco.pdf)，较为详细介绍了我们的理念和做法。
 
 >社区成员使用烟草产品调查（一分钟填写调查表）  
 >戒烟计划：提供[个体帮助](https://docs.google.com/forms/d/e/1FAIpQLScXadBaZg-PdM3LbFf2r-eo_nhXYzptnxt-Su1_Qlf_ASU0gw/viewform?usp=sf_link)，推荐[亚裔吸烟者戒烟](https://www.asiansmokersquitline.org/)专线资源  
 >预防计划：加入[拒用烟草和电子香烟的承诺](https://docs.google.com/forms/d/e/1FAIpQLSeXi9pIxzAE7655rQRaq849D0swRK_nWTkQnPOKDZjSnbdrQA/viewform?usp=sf_link)  
->社区壁画宣传计划  
 
 # Culturally Specific and Responsive Cancer Risk Education / 文化特定和响应性的癌症风险教育
 

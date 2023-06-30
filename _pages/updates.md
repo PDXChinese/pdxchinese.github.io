@@ -5,11 +5,6 @@ permalink: /updates/
 
 # 近期年度活动 / Recent Annual Events
 
-### [2023 Oregon Chinese Youth Conference/第七届俄勒冈华裔青少年年会](https://pdxchinese.org/youthconference/)
-
-**Date:** 6/24/2023 1:00 pm - 5:00 pm  
-**Place:** DoubleTree Hotel by Hilton ([15402 NW Cornell Rd, Beaverton, 97006](https://goo.gl/maps/XNov3hTvDTN2))  
-
 ### [2023 Oregon Chinese Festival](https://pdxchinese.org/chinesefestival/)
 
 **Date:** 8/5/2023 11:00 am - 6:00 pm  
@@ -29,7 +24,7 @@ permalink: /updates/
 ### 庇护所提供晚餐活动 / Meal Provider for the Clark Center
 
 **Date:** Every 2nd Sunday 5:30pm-7pm  
-**Place:** The Clark Center by Transition Projects请参加《OCC庇护所晚餐群》  
+**Place:** The Clark Center by Transition Projects 请参加《OCC庇护所晚餐群》  
 
 [报名链接/Registration](https://signup.com/client/invitation2/secure/114701245205736806/false#/invitation)
 

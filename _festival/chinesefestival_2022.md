@@ -1,6 +1,5 @@
 ---
 title: " "
-permalink: /chinesefestival/
 feature_row0:
   - image_path: /assets/images/activities/mult_county.png
   - image_path: /assets/images/activities/pge2.jpg
@@ -10,18 +9,27 @@ feature_row0:
 feature_row1:
   - image_path: /assets/images/festival/claire_cao.jpg
     title: "Claire Cao"
+  - image_path: /assets/images/festival/amy_kang2.jpg
+    title: "Amy Kang"
+  - image_path: /assets/images/pvsa/2021_Victor_Li.jpg
+    title: "Victor Li"
   - image_path: /assets/images/festival/justin.jpg
     title: "Justin Xia"
-  - image_path: /assets/images/festival/meilan_xu.jpg
-    title: "Meilan Xu"
 feature_row2:
   - image_path: /assets/images/festival/jeff_selby.jpg
     title: "Jeff Selby"
     excerpt: "Deputy Director, City of Portland's Office of Equity & Human Rights"
 ---
-![]({{ site.url }}/assets/images/festival/festival2023.png)
+# See you again in 2023. It will be on August 5!
+<br>
+<br>
+![]({{ site.url }}/assets/images/festival/festival2022b.jpg)
 
-The flyer was graciously designed by the staff at the Energy Trust, demonstrating their generous support for the event.
+The art works incorporated into the flyer, banner and posters are from the first [community youth art contest](https://pdxchinese.org/artcontest/) in collaboration with the [Friends of Tualatin River National Wildlife Refuge](https://www.friendsoftualatinrefuge.org/).
+
+## Live Streaming
+
+The festival will go live on Instagram from 11am. Please follow us @OregonChineseCoalition to get notified.
 
 ## Masters of Ceremony
 
@@ -29,11 +37,9 @@ The flyer was graciously designed by the staff at the Energy Trust, demonstratin
 
 ## Special Guest Speakers
 
-to be annouced
+{% include feature_row id="feature_row2"%}
 
 ## Stage Performances  
-
-The following is the progran list from 2022 Chinese Festival. Most of them will come back to the stage and we will welcome some new groups. The new list for this year's Chinese Festival will be available 2 weeks before the event.
 
 | Time | Program | Presented By |
 | --- | --- | --- | ---: |
@@ -128,30 +134,46 @@ The following is the progran list from 2022 Chinese Festival. Most of them will 
 
 ## Arts
 
-Artwork Display and Demonstration by Chinese Artists
+| Name | Onsite Activity |
+| Youth Artists | Artwork Display and Demonstration |
+
+Young artists will draw or write on 200 fans for visitors to take away.
 
 ## Public Health Outreach and Education
 
 | Service | Partner |
-| Test Genetic Ancestry & Risk for Certain Hereditary Diseases | [All of Us Research Program](https://www.joinallofus.org/?utm_source=mea-scripps&utm_medium=print&utm_campaign=j2&utm_content=central_region)，NIH Initiative |
-| [No Smoking No Vaping Pledge Campaign](https://docs.google.com/forms/d/e/1FAIpQLSeXi9pIxzAE7655rQRaq849D0swRK_nWTkQnPOKDZjSnbdrQA/viewform) | [Oregon Chinese Coalition](https://pdxchinese.org/healthinitiative/) |
-| HPV Vaccine Campaign | Partnership between OCC and OHSU |
-| Mental Health Consultation | OCC Mental Health Peer Support Group |
+| Covid-19 Vaccination Clinic for Age 3+ | [LeCare Pharmacy](https://www.lecarepharmacy.com/) |
+| [Environmental Health Services Fish Safety](https://www.multco.us/health/staying-healthy/eating-fish-river) | [Multnomah County Health Department](https://www.multco.us/health) |
+| Culturally Specific Cancer Risk Education | Community Volunteers |
+| [Pathfinder 2 Study to Find Cancer Early for 50+](https://www.ohsu.edu/knight-cancer-institute/join-pathfinder-2-study-find-cancer-early) | [OHSU Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute) |
+| [Healthy Oregon Project](https://healthyoregonproject.com/) | [OHSU Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute) |
+| Chinese Medicine Consultation | [Optimal Health Clinic](https://www.optimalpdx.com/) |
+| Health Resources and Rent/Utility Assistance to Low-Income Community | [Community for Positive Aging](https://hollywoodseniorcenter.org/) |
 
-## Energy & Utilties Lineup
+> People who receive vaccination at the festival (parents too) will receive voucher used with onsite food vendors.
 
-[Energy Trust](https://www.energytrust.org/)  
-more to come...  
+> Free of charge, walk-ins welcome.  
+> Partly supported by grants from OHA, Multnomah County and Washington County  
+
+## Nonprofit Lineup
+
+[Lan Su Chinese Garden](https://lansugarden.org/)  
+[Friends of Tualatin River National Wildlife Refuge](https://www.friendsoftualatinrefuge.org/)  
+[Portland Parks & Recreation (Urban Forestry Division)](https://www.portland.gov/trees/tree-planting)  
+[Tualatin Hills Park & Recreation District (THPRD)](http://www.thprd.org/)  
 
 ## Festival Sponsors
 
-[Energy Trust](https://www.energytrust.org/)  
+[City of Portland](https://www.portland.gov/)  
+[Oregon Health & Science University](https://www.ohsu.edu/)  
+[Oregon Health Authority](https://www.oregon.gov/oha/Pages/index.aspx)  
+[Multnomah County](https://www.multco.us/health)  
+[Portland General Electric](https://portlandgeneral.com/)  
 [Pioneer Courthouse Square](https://www.thesquarepdx.org/)  
-more to come...  
 
 ## Chinese Festivals in the Past
 
-2022: [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2022/), [KOIN Coverage](https://youtu.be/2Ye39CXroww), [KATU Coverage](https://katu.com/news/local/chinese-festival-brings-hundreds-to-portlands-pioneer-courthouse-square?fbclid=IwAR2vlrDy2OkK4xHz1Y27Xjzy8vLDp40a8eTkUzVPlR3vZ1dpOOfgHvB2AII), [Photo Album](https://pdxchinese.org/chinese-festival-2022/)  
+2022: [Programs](http://pdxchinese.org/chinesefestival/), [KOIN Coverage](https://youtu.be/2Ye39CXroww), [KATU Coverage](https://katu.com/news/local/chinese-festival-brings-hundreds-to-portlands-pioneer-courthouse-square?fbclid=IwAR2vlrDy2OkK4xHz1Y27Xjzy8vLDp40a8eTkUzVPlR3vZ1dpOOfgHvB2AII), [Photo Album](https://pdxchinese.org/chinese-festival-2022/)  
 2021: [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2021/), [KOIN Interview](https://www.koin.com/local/multnomah-county/chinese-festival-returning-to-portland-this-saturday/), [Photo Album](https://pdxchinese.org/chinese-festival-2021/)  
 2019: [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2019/), [KGW Interview](https://www.kgw.com/video/life/first-ever-pdx-chinese-festival-on-the-square/283-21872975-6fee-4122-83d1-a83449b083f5), [Photo Album](http://pdxchinese.org/chinese-festival-2019/)  
 
