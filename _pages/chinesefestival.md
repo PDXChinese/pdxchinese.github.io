@@ -10,9 +10,7 @@ feature_row0:
 feature_row1:
   - image_path: /assets/images/festival/claire_cao2.jpg
     title: "Claire Cao"
-  - image_path: /assets/images/festival/justin.jpg
-    title: "Justin Xia"
-  - image_path: /assets/images/festival/meilan_xu.jpg
+  - image_path: /assets/images/festival/meilan_xu1.jpg
     title: "Meilan Xu"
 feature_row2:
   - image_path: /assets/images/festival/jeff_selby.jpg
