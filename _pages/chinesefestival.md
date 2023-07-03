@@ -130,6 +130,7 @@ Artwork Display and Demonstration by Chinese Artists
 
 | Service | Partner |
 | Test Genetic Ancestry & Risk for Certain Hereditary Diseases | [All of Us Research Program](https://www.joinallofus.org/?utm_source=mea-scripps&utm_medium=print&utm_campaign=j2&utm_content=central_region)，NIH Initiative |
+| Information about Chinese Medicine and OCOM Clinics & demonstration auricular acupuncture treatments| [Oregon College of Oriental Medicine (OCC)](https://www.ocom.edu/) |
 | [No Smoking No Vaping Pledge Campaign](https://docs.google.com/forms/d/e/1FAIpQLSeXi9pIxzAE7655rQRaq849D0swRK_nWTkQnPOKDZjSnbdrQA/viewform) | [Oregon Chinese Coalition](https://pdxchinese.org/healthinitiative/) |
 | HPV Vaccine Campaign | Partnership between OCC and OHSU |
 | Mental Health Consultation | OCC Mental Health Peer Support Group |
