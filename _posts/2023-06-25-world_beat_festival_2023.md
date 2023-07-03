@@ -1,30 +1,29 @@
 ---
-title: "OCC首次参加World Beat Festival"
+title: "首次参加World Beat Festival"
 author: XiBei Zhao
-excerpt: "首次，OCC的木兰鼓队、青玉舞队、凤凰汉服队一同前往塞勒姆，在世界节拍节上呈现了令人叹为观止的表演。这是我们组织历史上的第一次，他们的目标是通过精彩的表演吸引观众，并在世界节拍节上留下深刻的印象。他们通过鼓声的有力鼓声、优美的舞蹈动作和华丽的汉服展示，展示了华人社区丰富的传统文化。"
+excerpt: "首次，OCC的木兰鼓队、青玉舞队、凤凰汉服队和来自社区的欢悦组合一同前往塞勒姆，在世界节拍节上呈现了令人叹为观止的表演。这是我们组织历史上的第一次，他们的目标是通过精彩的表演吸引观众，并在世界节拍节上留下深刻的印象。他们通过鼓声的有力鼓声、优美的舞蹈动作和华丽的汉服展示，展示了华人社区丰富的传统文化。"
 date: "2023-06-25"
 ---
 
-首次，OCC的木兰鼓队、青玉舞队、凤凰汉服队一同前往塞勒姆，在世界节拍节上呈现了令人叹为观止的表演。这是我们组织历史上的第一次，他们的目标是通过精彩的表演吸引观众，并在世界节拍节上留下深刻的印象。他们通过鼓声的有力鼓声、优美的舞蹈动作和华丽的汉服展示，展示了华人社区丰富的传统文化。
+首次，OCC的木兰鼓队、青玉舞队、凤凰汉服队和来自社区的欢悦组合一同前往塞勒姆，在世界节拍节上呈现了令人叹为观止的表演。这是我们组织历史上的第一次，他们的目标是通过精彩的表演吸引观众，并在世界节拍节上留下深刻的印象。他们通过鼓声的有力鼓声、优美的舞蹈动作和华丽的汉服展示，展示了华人社区丰富的传统文化。
 
 为了让表演更具深度，OCC的团队展示了中国文化的丰富性和多样性，融合了传统与现代元素。观众们被他们的热情和激情所感染，他们亲眼目睹了这些非凡表演者的才华和奉献精神。这是一个令人难以忘怀的时刻，将在未来多年中被珍视，因为OCC的团队再次证明他们在表演艺术领域中是不可忽视的力量。
 
-
 For the first time, OCC's Mulan Drum Team, Jade Dance Team and Phoenix Hanfu Team, with Huanyue Dance Group traveled to Salem and delivered a breathtaking performance at the World Beat Festival.
 
-<br>
-
-<iframe width="2113" height="843" src="https://www.youtube.com/embed/pLRNTdkYwE8" title="Mulan Drum Team at 2023 World Beat Festival" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="2135" height="1200" src="https://www.youtube.com/embed/pLRNTdkYwE8" title="Mulan Drum Team at 2023 World Beat Festival" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 
-<iframe width="2113" height="843" src="https://www.youtube.com/embed/u5J_P9c3f-I" title="Jade Dance Team at 2023 World Beat Festival" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="2135" height="1200" src="https://www.youtube.com/embed/u5J_P9c3f-I" title="Jade Dance Team at 2023 World Beat Festival" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 
-<iframe width="2113" height="843" src="https://www.youtube.com/embed/wkoEGZIIzlc" title="Phoenix Hanfu Team at 2023 World Beat Festival" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="2135" height="1200" src="https://www.youtube.com/embed/wkoEGZIIzlc" title="Phoenix Hanfu Team at 2023 World Beat Festival" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
+
+<iframe width="2135" height="1200" src="https://www.youtube.com/embed/ejRGqZIfGOc" title="Huanyue Group at World Beat Festival" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ![]({{ site.url }}/assets/images/355514744_256162683715488_6999153879132771587_n.jpg)
 

@@ -1,20 +1,19 @@
 ---
-title: "第七届青少年大会推出新的形式"
+title: "第七届青少年大会尝试新的形式"
 author: XiBei Zhao
 excerpt: "鉴于青少年线下会议的注册人数显著减少，我们决定改变形式，采用视频录制学生组的访谈。这些访谈将上传到我们的YouTube频道，并在社交媒体平台上分享，以触达更广泛的受众，产生更大的影响。我们非常幸运能够邀请到两位杰出的嘉宾，Lynda Walker 和 Raymond Chong。他们的演讲涵盖了与服务和社会正义相关的主题，这些主题对我们的青少年在疫情后的发展尤为重要。"
 date: "2023-06-24"
 ---
 
-鉴于青少年线下会议的注册人数显著减少，我们决定改变形式，采用视频录制学生组的访谈。这些访谈将上传到我们的YouTube频道，并在社交媒体平台上分享，以触达更广泛的受众，产生更大的影响。
+今年大会决定尝试新的形式，采用视频录制学生组的访谈。这些访谈将上传到我们的YouTube频道，并在社交媒体平台上分享，以触达更广泛的受众，产生更大的影响。
 
 我们非常幸运能够邀请到两位杰出的嘉宾，Lynda Walker 和 Raymond Chong。他们的演讲涵盖了与服务和社会正义相关的主题，这些主题对我们的青少年在疫情后的发展尤为重要。
 
-在她在圣玛丽男童之家（St. Mary's Home for Boys）长达52年的卓越服务中，Lynda Walker展示了对个人，特别是最脆弱的青少年群体的深远影响。她的经历突出了奉献和坚定承诺的力量，强调通过我们共同的努力，我们真正可以改变人们的生活。
+Lynda Walker 在圣玛丽男童之家（St. Mary's Home for Boys）长达52年的卓越服务中，展示了对个人，特别是最脆弱的青少年群体的深远影响。她的经历突出了奉献和坚定承诺的力量，强调通过我们共同的努力，我们真正可以改变人们的生活。
 
-Raymond Chong 进行了一场引人注目的演讲，共有100张幻灯片，探讨了美国根深蒂固的社会不公正的历史。核心信息强调激励和鼓励青年积极参与社会和政治领域的重要性。
+Raymond Chong 的演讲不是让他扬名的自己常年撰写的家庭移民史，而是全新的话题，通过100张幻灯片，深入系统探讨了美国根深蒂固的社会不公正的历史。核心信息强调激励和鼓励青年积极参与社会和政治领域的重要性。
 
-在青年会议期间，OCC宣布了2023年 Voice of Civic Engagement Award 和 Youth Empowerment Award 的获奖者。这些奖项象征着对他们在积极参与公民事务和对周围人产生积极影响的杰出成就的认可。通过他们的杰出贡献，我们的社区在推广文化和传统、为华裔社区提供支持，并通过倡导、教育和参与促进整个社区的利益方面取得了显著进展。
-
+在青年会议期间，OCC宣布了2023年 Voice of Civic Engagement Award 和 Youth Empowerment Award 的获奖者。这些奖项象征着对他们在积极参与公民事务和对周围人产生积极影响的杰出成就的认可。通过他们的贡献，社区在推广文化和传统、为华裔社区提供支持，并通过倡导、教育和参与促进整个社区的利益方面取得了显著进展。
 
 Due to a significant decrease in youth registrations for the in-person conference, we have made the decision to transform the format into video-recorded interviews with a group of students on-site. These interviews would be uploaded to our YouTube channel and shared on our social media platforms to reach a wider audience and create a greater impact.
 We were incredibly fortunate to have secured the participation of distinguished speakers, Lynda Walker and Raymond Chong. They have covered topics related to services and social justice, which have become particularly relevant to our youth following the emergence from the pandemic.
@@ -27,13 +26,11 @@ During the Youth Conference, the OCC Board announced year 2023 recipients of the
 
 Congratulations!
 
-<br>
-
-<iframe width="2113" height="843" src="https://www.youtube.com/embed/V8YmZO-l9YM" title="2023 Oregon Youth Conference -- Lynda Walker as Guest Speaker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="2135" height="1200"  src="https://www.youtube.com/embed/V8YmZO-l9YM" title="2023 Oregon Youth Conference -- Lynda Walker as Guest Speaker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 
-<iframe width="2113" height="843" src="https://www.youtube.com/embed/Mv2rY3LfXKQ" title="2023 Oregon Youth Conference -- Raymond Chong as Guest Speaker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="2135" height="1200" src="https://www.youtube.com/embed/Mv2rY3LfXKQ" title="2023 Oregon Youth Conference -- Raymond Chong as Guest Speaker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 
