@@ -2,9 +2,9 @@
 title: " "
 permalink: /chinesefestival/
 feature_row0:
-  - image_path: /assets/images/activities/energytrust.png
+  - image_path: /assets/images/festival/energytrust.png
   - image_path: /assets/images/activities/pge2.jpg
-  - image_path: /assets/images/activities/nwnatural.png
+  - image_path: /assets/images/festival/nwnatural.png
   - image_path: /assets/images/activities/mult_county.png
   - image_path: /assets/images/activities/pcs-logo.png
 feature_row1:
