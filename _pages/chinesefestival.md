@@ -2,10 +2,10 @@
 title: " "
 permalink: /chinesefestival/
 feature_row0:
-  - image_path: /assets/images/activities/mult_county.png
+  - image_path: /assets/images/activities/energytrust.png
   - image_path: /assets/images/activities/pge2.jpg
-  - image_path: /assets/images/activities/providence.jpg
-  - image_path: /assets/images/activities/oregonian.jpg
+  - image_path: /assets/images/activities/nwnatural.png
+  - image_path: /assets/images/activities/mult_county.png
   - image_path: /assets/images/activities/pcs-logo.png
 feature_row1:
   - image_path: /assets/images/festival/claire_cao2.jpg
@@ -21,13 +21,15 @@ feature_row2:
 
 The flyer was graciously designed by the staff at the Energy Trust, demonstrating their generous support for the event.
 
+>We have been deeply moved by the overwhelmingly positive feedback we have received thus far. It is truly inspiring to witness the support and encouragement we have received from individuals and organizations from all walks of life, as we work towards building a more diverse and culturally enriched community. We are grateful for the outpouring of support and look forward to continuing this journey together.
+
 ## Masters of Ceremony
 
 {% include feature_row id="feature_row1"%}
 
-## Special Guest Speakers
+## Proud Sponsors
 
-to be annouced
+{% include feature_row id="feature_row0"%}
 
 ## Stage Performances  
 
@@ -135,14 +137,12 @@ Artwork Display and Demonstration by Chinese Artists
 | HPV Vaccine Campaign | Partnership between OCC and OHSU |
 | Mental Health Consultation | OCC Mental Health Peer Support Group |
 
-## Energy & Utilties Lineup
-
-[Energy Trust](https://www.energytrust.org/)  
-more to come...  
-
 ## Festival Sponsors
 
 [Energy Trust](https://www.energytrust.org/)  
+[Portland General Electric](https://portlandgeneral.com/)  
+[NW Natural](https://www.nwnatural.com/)  
+[Multnoamh County Public Health](https://www.multco.us/health)  
 [Pioneer Courthouse Square](https://www.thesquarepdx.org/)  
 more to come...  
 
