@@ -5,7 +5,7 @@ permalink: /mulandrum/
 
 # 木兰鼓队 / Mulan Drum Team
 
-The Mulan Drum Team is an all-women drumming group comprised of community members from diverse backgrounds. They come together to practice and perform some of the most culturally symbolic drums, with the goal of promoting Chinese culture, enriching their social lives, and improving their mental health.
+The Mulan Drum Team is an all-women drumming group comprised of community members from diverse backgrounds. They come together to practice and perform some of the most culturally symbolic drums, with the goal of promoting Chinese culture, enriching their social lives, and improving their physical and mental health.
 
 Since its establishment, the team has actively performed in various community events, including art festivals, nursing homes, schools, and other venues. The sound of their drums is entrancing, powerful, and impactful, echoing the beauty and strength of Chinese women and contributing to the celebration of Chinese culture in our community.
 

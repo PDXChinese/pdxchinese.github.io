@@ -29,7 +29,7 @@ feature_row2:
 
 ## Our Mission
 
-To serve Chinese community with a shared vision and resources.
+Our mission is to build a vibrant community by promoting Chinese culture and heritage, serving the Chinese American community in Oregon, and ensuring that no one is left behind. We strive to advance our community's interests through advocacy, education, and engagement, while fostering a sense of belonging and inclusivity for all. To serve Chinese community with a shared vision and resources.
 
 ## Our Vision
 
