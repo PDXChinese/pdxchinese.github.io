@@ -95,9 +95,10 @@ The following is the program list from 2022 Chinese Festival. Most of them will 
 | Name | Category |
 | [Mandarin House 京华楼](https://www.mandarinhouse97204.com/) | Barbecued Pork Buns, Steamed Dumplings, Spring Rolls |
 | [Wheat Bay Chinese Restaurant 成都名小吃](https://www.wheatbayportland.com/) | Beef Pancake, Carlic Cucumber Salad, Special Chili Potatoes, Steamed BBQ Pork Bun |
-| Great Tang | Chicken skewers, Lamb skewers, Yakisoba, schicandra pear tea, Jingdong meat pie, Pot stickers, Roujiamo |
 | Little Beijing 北京小馆 | JianBing 煎饼果子，BingFen 冰粉，Cold Noodle |
-| [TeaZen-Teahouse](https://www.teazen-teahouse.com/) | Experience Authentic Tea with Ms. Liu |
+| [Red Robe Tea House & Cafe 大红袍](https://www.redrobeteahouse.com/) | Sichuan Noodle, Chicken Wings, Spring Rolls, Bubble Tea, Tea |
+| [Home Tastes 家乡味](https://www.hometaste.org/) | Braised Pork Rice 卤肉饭，Spam Musubi, Spinrg Rolls |
+| LoLo S San Xiang 十三乡 | Pot Stickers, Jian Bao, Lam Skewers, Buba Tea |
 
 ## Kids Friendly Hands-on Craft Activities  
 

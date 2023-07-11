@@ -67,13 +67,3 @@ Time commitment：The training will be June 15 (in-person, food provided, prefer
 
 For details， please check [here](https://www.washingtoncountyor.gov/public-health/urban-heat-island-mapping-campaign)
 or go directly to [sign-up form](https://docs.google.com/forms/d/e/1FAIpQLSeUdBIdteDioaIGaB30yMnJPdiKHheMLzDLqvCCbW3A1I1T2w/viewform).
-
-### Paid Leave Oregon Program 招募出镜社区成员
-
-Brink Communications is working with the Oregon Employment Department to create campaign materials for the Paid Leave Oregon program. This program is designed to ensure that individuals, employers, and families of every kind have the time and support they need to care for themselves and their loved ones when they need it most.
-
-They are casting for people in the Portland-Metropolitan area (or up to 2 hours outside the city) to participate in a video production and/or a photoshoot. They would love to partner with folks who could benefit from programs like Paid Leave Oregon, and would be interested in showcasing their real-life experiences on camera.
-
-If casted, community members would be compensated at least $150/person participating (exact numbers depend on how much time we need + how many productions folk work with them on).
-
-<p><img src="/assets/images/activities/brink.jpg"></p>

@@ -18,6 +18,10 @@ Health Share可以为您提供帮助帮助，这里是他们的[中文资料](ht
 
 [美国癌症协会网站 (英文版)](https://www.cancer.org/treatment/finding-and-paying-for-treatment/choosing-your-treatment-team.html)
 
+### 在校大学生心理咨询资源
+
+[资源汇总](https://www.intelligent.com/online-college-guide-for-students-with-mental-health-disorders/)
+
 ### 波特兰市对新移民和难民提供的各种资源
 
 [为移民及难民提供的资源指南(中文版本)](https://www.portland.gov/sites/default/files/2021/welcome-week-brochure-chinese.pdf)  
