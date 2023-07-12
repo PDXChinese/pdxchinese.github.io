@@ -127,8 +127,8 @@ Culture Specific Gifts & Clothing from XK Gift Shop
 
 ## Artists' Booth
 
-Yanan Dai ([Chinese Ink Studio](https://www.yanandai-chineseink.com/))  
-Emma Ying  
+11am - 2pm: Yanan Dai ([Chinese Ink Studio](https://www.yanandai-chineseink.com/))  
+2pm - 6pm: Emma Ying  
 
 Artwork Display and Demonstration by Chinese Artists
 
