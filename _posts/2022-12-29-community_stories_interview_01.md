@@ -11,6 +11,8 @@ date: "2022-12-19"
 
 On Monday, we started a project in the community, recording the Chinese Americans living in Oregon, our lives and stories. This will be a multi-year plan, through extensive interviews with local Chinese, using their stories to describe the life of Chinese in this land spanning a century. This work will be undertaken by the students of OCC Youth Lens, and Frances, our community youth mentor, will guide the students. Gloria Wong, who was nearly 90 years old and lived in Portland, was the first to be interviewed by Helen and Annie.
 
+<iframe width="2113" height="771" src="https://www.youtube.com/embed/fwgnznDhk3g" title="Real People, Real Stories | Gloria Wong | OCC Youth Lens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ![]({{ site.url }}/assets/images/320959387_680572430204142_8279162842050460109_n.jpg)
 
 ![]({{ site.url }}/assets/images/320962332_679702270279783_1766870584530334153_n.jpg)

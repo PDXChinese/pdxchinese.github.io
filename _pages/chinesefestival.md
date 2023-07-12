@@ -125,7 +125,10 @@ The following is the program list from 2022 Chinese Festival. Most of them will 
 
 Culture Specific Gifts & Clothing from XK Gift Shop
 
-## Arts
+## Artists' Booth
+
+Yanan Dai ([Chinese Ink Studio](https://www.yanandai-chineseink.com/))  
+Emma Ying  
 
 Artwork Display and Demonstration by Chinese Artists
 
