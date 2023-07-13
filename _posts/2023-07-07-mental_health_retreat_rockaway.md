@@ -15,7 +15,7 @@ This retreat has clearly shown that this is a powerful formula.
 
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/xq5NxeVlZzs" title="OCC Mental Health Retreat at Rockaway Oregon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-![]({{ site.url }}/assets/images/359213774_264515602880196_4530440975424232015_n.jpg)
+<br>
 
 ![]({{ site.url }}/assets/images/359450051_264515599546863_1914578876141913074_n.jpg)
 

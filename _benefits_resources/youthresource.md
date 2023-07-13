@@ -8,6 +8,18 @@ title: "华裔青少年年会和圆桌会资料汇总"
 大学奖学金及申请[截止日](https://willamette.edu/offices/saga/students/external/index.html)  
 西北兆：[设立NPO 501c3的八步曲](https://drive.google.com/file/d/1F5pXE9Ml0s2EY1s2_lgn2_IfSTszVgOO/view?usp=sharing)  
 
+## 2023年青少年年会
+
+### Voice of Civic Engagement Award  
+Brian Barker, Sunset High School  
+Katie Jin,	Catlin Gabel School  
+Sophia Hu,	Catlin Gabel School  
+
+### Youth Empowerment Award  
+Claire Cao, Jesuit High School  
+Derica Theobald, Whitford Middle School  
+Ethan Zhang, Westview High School  
+
 ## 2022年青少年年会
 
 ### Voice of Civic Engagement Award  

@@ -257,12 +257,6 @@ collections:
   communities_culture:
     output: true
     permalink: /resources/:collection/:path/
-  communities_nonprofits:
-    output: true
-    permalink: /resources/:collection/:path/
-  communities_organizations:
-    output: true
-    permalink: /resources/:collection/:path/
   communities_religious:
     output: true
     permalink: /resources/:collection/:path/
@@ -450,20 +444,6 @@ defaults:
   - scope:
       path: ""
       type: communities_culture
-    values:
-      layout: single
-      author_profile: false
-  # communities_nonprofits
-  - scope:
-      path: ""
-      type: communities_nonprofits
-    values:
-      layout: single
-      author_profile: false
-  # communities_organizations
-  - scope:
-      path: ""
-      type: communities_organizations
     values:
       layout: single
       author_profile: false
