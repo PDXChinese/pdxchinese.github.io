@@ -24,7 +24,8 @@ feature_row2:
 
 非常感谢俄勒冈州卫生局（Oregon Health Authority，OHA）慷慨提供的资助，旨在应对疫情期间华裔美国人群体的心理和行为健康危机。我们将利用这项资助以及其他资金来源，大力推动社区关注心理健康问题，并提出能够延续资助期限之外的解决方案。OHA的支持使我们能够发起一个有力的倡议，对我们社区的个人健康产生持久而积极的影响。
 
->[Mental Health Advocacy Programs / 精神心理健康倡导计划](https://pdxchinese.org/mentalhealth/)
+>[Mental Health Advocacy Programs / 精神心理健康倡导计划](https://pdxchinese.org/mentalhealth/)  
+>Walking Groups / 集体行走活动  
 
 # Tobacco Prevention and Cessation Campaign / 烟草预防和戒烟宣传
 
