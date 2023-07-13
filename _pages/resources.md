@@ -10,7 +10,6 @@ Disclaimer This is a collection of public data for the convenience of community 
 ## (A)ctivities
 - <a href="{{ site.url }}/resources/activities/academies/">Academies</a> ({{ site.activities_academies | size }})
 - <a href="{{ site.url }}/resources/activities/artinstitute/">Art, Music, Dance</a> ({{ site.activities_artinstitute | size }})
-- <a href="{{ site.url }}/resources/activities/clubs/">Clubs</a> ({{ site.activities_clubs | size }})
 - <a href="{{ site.url }}/resources/activities/sports/">Sports</a> ({{ site.activities_sports | size }})
 
 ## (B)enefits/Resources

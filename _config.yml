@@ -489,13 +489,6 @@ defaults:
     values:
       layout: single
       author_profile: false
-  # activities_clubs
-  - scope:
-      path: ""
-      type: activities_clubs
-    values:
-      layout: single
-      author_profile: false
   # activities_healthy
   - scope:
       path: ""

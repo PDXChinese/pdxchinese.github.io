@@ -17,20 +17,18 @@ Raymond Chong, the author of "Zhang Clan Odyssey on Gold Mountain," was intervie
 
 <br>
 
-![]({{ site.url }}/assets/images/oral_history_raymond_chong_01.jpg)
-
 ![]({{ site.url }}/assets/images/oral_history_raymond_chong_03.jpg)
 
 ![]({{ site.url }}/assets/images/oral_history_raymond_chong_02.jpg)
 
 ![]({{ site.url }}/assets/images/oral_history_raymond_chong_04.jpg)
 
-![]({{ site.url }}/assets/images/oral_history_raymond_chong_05.jpg)
+![]({{ site.url }}/assets/images/oral_history_raymond_chong_05.JPG)
 
-![]({{ site.url }}/assets/images/oral_history_raymond_chong_06.jpg)
+![]({{ site.url }}/assets/images/oral_history_raymond_chong_06.JPG)
 
-![]({{ site.url }}/assets/images/oral_history_raymond_chong_07.jpg)
+![]({{ site.url }}/assets/images/oral_history_raymond_chong_07.JPG)
 
-![]({{ site.url }}/assets/images/oral_history_raymond_chong_08.jpg)
+![]({{ site.url }}/assets/images/oral_history_raymond_chong_08.JPG)
 
-![]({{ site.url }}/assets/images/oral_history_raymond_chong_09.jpg)
+![]({{ site.url }}/assets/images/oral_history_raymond_chong_09.JPG)

@@ -5,7 +5,7 @@ excerpt: "精神心理健康远足团建活动的第二站选择了Rockaway，�
 date: "2023-07-07"
 ---
 
-精神心理健康远足团建活动的第二站选择了Rockaway，有5个家庭参加，这次与之前在Bend的活动不同的是，这次活动包括了孩子们。以下是一位参与者的感想：通过这次活动，我和孩子们有机会一起走出家门，离开熟悉的生活环境，进行短暂而集体的生活体验，与大自然亲密接触。这不仅帮助我们与社区建立更紧密的联系，也加深了我与孩子们之间的纽带，改善了我们的关系。感谢两位老师无私的分享，我学到了一些放松身心的方法，也了解了一些华人精神健康方面的资源。同时，感谢我们整个团队的协作与奉献，大家一起合作、共同出行、分享美食，完成了这次精神健康之旅。这些经历和收获，无论大小，都是一颗种子，必将在不远的将来产生回响。
+精神心理健康远足团建活动的第二站选择了Rockaway，有5个家庭参加，这次与之前在Bend的活动不同的是，这次活动包括了孩子们。以下是一位参与者的感想：*"通过这次活动，我和孩子们有机会一起走出家门，离开熟悉的生活环境，进行短暂而集体的生活体验，与大自然亲密接触。这不仅帮助我们与社区建立更紧密的联系，也加深了我与孩子们之间的纽带，改善了我们的关系。感谢两位老师无私的分享，我学到了一些放松身心的方法，也了解了一些华人精神健康方面的资源。同时，感谢我们整个团队的协作与奉献，大家一起合作、共同出行、分享美食，完成了这次精神健康之旅。这些经历和收获，无论大小，都是一颗种子，必将在不远的将来产生回响。”*
 
 OCC continued its efforts to organize a mental health wellbeing retreat for community members. This past weekend marked the second retreat, which took place in Rockaway. Five families had the opportunity to join, and they had a wonderful experience spending three days and two nights together. The retreat included a range of activities, from outdoor hiking to indoor peer support sessions, creating a supportive and engaging environment for all participants.
 
