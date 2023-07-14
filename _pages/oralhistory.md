@@ -8,9 +8,9 @@ feature_row1:
     excerpt: "<p><a href='https://youtu.be/PJqUWFoYrSc'>Orox Leather Co.</a></p>"
   - image_path: /assets/images/activities/h2c2.jpg
     excerpt: "<p><a href='https://youtu.be/v15E5VRrtJI'>H2C Relay Team</a></p>"  
-  - image_path: /assets/images/320959387_680572430204142_8279162842050460109_n.jpg
-    excerpt: "<p><a href='https://youtu.be/fwgnznDhk3g'>Gloria Wong</a></p>"
   - image_path: /assets/images/activities/gloria2.png
+    excerpt: "<p><a href='https://youtu.be/fwgnznDhk3g'>Gloria Wong</a></p>"
+  - image_path: /assets/images/339278248_1295146854369639_1922066907187848118_n.jpg
     excerpt: "<p><a href='https://youtu.be/tM0kS3jRl2Y'>Xiaohui Chen and Dick Lee</a></p>"  
   - image_path: /assets/images/activities/fred2.png
     excerpt: "<p><a href='https://youtu.be/9nVnHfNJW58'>Fred Wong</a></p>"  
