@@ -39,10 +39,10 @@ feature_row2:
 
 # Culturally Specific and Responsive Cancer Risk Education / 文化特定和响应性的癌症风险教育
 
->HPV 疫苗社区推广计划（与OHSU合作项目）  
->[All of Us Research Program](https://www.joinallofus.org/drive)， NIH Initiative  
+> Four-Season Education on Cancers: HPV in Fall, Breast Cancer in Winter, Canton Cancer in Spring, Stomach Cancer in Summer  
 
 # Public Health Advocacy
 
 >Strategic Data Plan Subcommittee, [OHA Public Health Advisory Board, Oregon](https://www.oregon.gov/oha/ph/about/pages/ophab.aspx)  
->AI-READI Citizens Advisory Council， [AI Ready and Equitable Atlas for Diabetes Insights, UCSD](https://shileyeye.ucsd.edu/research/ai_readi)  
+>Data Equity Advisory Board, [OHA Health Promotion and Chronic Disease Prevention (HPCDP)](https://www.oregon.gov/oha/ph/diseasesconditions/chronicdisease/pages/index.aspx)  
+>AI-READI Advisory Council， [AI Ready and Equitable Atlas for Diabetes Insights, UCSD](https://shileyeye.ucsd.edu/research/ai_readi)  

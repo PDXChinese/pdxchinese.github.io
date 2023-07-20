@@ -7,6 +7,8 @@ feature_row0:
   - image_path: /assets/images/festival/nwnatural.png
   - image_path: /assets/images/activities/mult_county.png
   - image_path: /assets/images/activities/pcs-logo.png
+  - image_path: /assets/images/festival/odot.png
+  - image_path: /assets/images/festival/aou.jpg
 feature_row1:
   - image_path: /assets/images/festival/claire_cao2.jpg
     title: "Claire Cao"
@@ -19,9 +21,7 @@ feature_row2:
     title: "Jeff Selby"
     excerpt: "Deputy Director, City of Portland's Office of Equity & Human Rights"
 ---
-![]({{ site.url }}/assets/images/festival/festival2023.png)
-
-The flyer was graciously designed by the staff at the Energy Trust, demonstrating their generous support for the event.
+![]({{ site.url }}/assets/images/festival/poster_2023.jpg)
 
 >We have been deeply moved by the overwhelmingly positive feedback we have received thus far. It is truly inspiring to witness the support and encouragement we have received from individuals and organizations from all walks of life, as we work towards building a more diverse and culturally enriched community. We are grateful for the outpouring of support and look forward to continuing this journey together.
 
@@ -131,26 +131,29 @@ Culture Specific Gifts & Clothing from XK Gift Shop
 
 11am - 2pm: Yanan Dai ([Chinese Ink Studio](https://www.yanandai-chineseink.com/))  
 2pm - 6pm: Emma Ying  
+11am - 6pm: Stella Wang  
 
 Artwork Display and Demonstration by Chinese Artists
 
 ## Public Health Outreach and Education
 
 | Service | Partner |
-| Test Genetic Ancestry & Risk for Certain Hereditary Diseases | [All of Us Research Program](https://www.joinallofus.org/?utm_source=mea-scripps&utm_medium=print&utm_campaign=j2&utm_content=central_region)，NIH Initiative |
+| Cancer screenings, clinical trials and other related services| [Knight Cancer Institute, OHSU](https://www.ohsu.edu/knight-cancer-institute) |
+| Test Genetic Ancestry & Risk for Certain Hereditary Diseases | [NIH All of Us Research Program](https://www.joinallofus.org/?utm_source=mea-scripps&utm_medium=print&utm_campaign=j2&utm_content=central_region) |
 | Information about Chinese Medicine and OCOM Clinics & Demonstration Auricular Acupuncture Treatments| [Oregon College of Oriental Medicine (OCOM)](https://www.ocom.edu/) |
+| [Environmental Health Services Fish Safety](https://www.multco.us/health/staying-healthy/eating-fish-river) | Multnomah County Health Department |
 | [No Smoking No Vaping Pledge Campaign](https://docs.google.com/forms/d/e/1FAIpQLSeXi9pIxzAE7655rQRaq849D0swRK_nWTkQnPOKDZjSnbdrQA/viewform) | [Oregon Chinese Coalition](https://pdxchinese.org/healthinitiative/) |
-| HPV Vaccine Campaign | Partnership between OCC and OHSU |
-| Mental Health Consultation | OCC Mental Health Peer Support Group |
+| Mental Health Education and Programs| [OCC Mental Health Peer Support Group](https://pdxchinese.org/healthinitiative/) |
 
 ## Festival Sponsors
 
 [Energy Trust](https://www.energytrust.org/)  
 [Portland General Electric](https://portlandgeneral.com/)  
 [NW Natural](https://www.nwnatural.com/)  
-[Multnoamh County Public Health](https://www.multco.us/health)  
+[Multnomah County Public Health](https://www.multco.us/health)  
 [Pioneer Courthouse Square](https://www.thesquarepdx.org/)  
-more to come...  
+[Oregon Department of Transportation](https://www.oregon.gov/odot/pages/index.aspx)  
+[NIH All of Us Research Program](https://www.researchallofus.org/)  
 
 ## Chinese Festivals in the Past
 
