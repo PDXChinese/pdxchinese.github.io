@@ -7,7 +7,7 @@ feature_row0:
   - image_path: /assets/images/festival/nwnatural.png
   - image_path: /assets/images/activities/mult_county.png
   - image_path: /assets/images/activities/pcs-logo.png
-  - image_path: /assets/images/festival/odot.png
+  - image_path: /assets/images/festival/odot1.png
   - image_path: /assets/images/festival/aou.jpg
 feature_row1:
   - image_path: /assets/images/festival/claire_cao2.jpg
@@ -29,7 +29,7 @@ feature_row2:
 
 {% include feature_row id="feature_row1"%}
 
-## Proud Sponsors
+## Proud Festival Sponsors
 
 {% include feature_row id="feature_row0"%}
 
@@ -144,6 +144,13 @@ Artwork Display and Demonstration by Chinese Artists
 | [Environmental Health Services Fish Safety](https://www.multco.us/health/staying-healthy/eating-fish-river) | Multnomah County Health Department |
 | [No Smoking No Vaping Pledge Campaign](https://docs.google.com/forms/d/e/1FAIpQLSeXi9pIxzAE7655rQRaq849D0swRK_nWTkQnPOKDZjSnbdrQA/viewform) | [Oregon Chinese Coalition](https://pdxchinese.org/healthinitiative/) |
 | Mental Health Education and Programs| [OCC Mental Health Peer Support Group](https://pdxchinese.org/healthinitiative/) |
+
+## Community Partner Lineup
+
+[Energy Trust](https://www.energytrust.org/)  
+[I-205 Toll Project](https://www.oregon.gov/odot/tolling/pages/i-205-tolling.aspx), Oregon Department of Transportation  
+[Crime Victim and Survivor Services Division](https://www.doj.state.or.us/oregon-department-of-justice/civil-rights/bias-and-hate/), Oregon Department of Justice  
+Metro parks, Protected Areas, Community Projects. [Metro](https://www.oregonmetro.gov/)  
 
 ## Festival Sponsors
 
