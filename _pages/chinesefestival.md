@@ -21,7 +21,7 @@ feature_row2:
     title: "Jeff Selby"
     excerpt: "Deputy Director, City of Portland's Office of Equity & Human Rights"
 ---
-![]({{ site.url }}/assets/images/festival/poster_2023.jpg)
+![]({{ site.url }}/assets/images/festival/poster_2023.png)
 
 >We have been deeply moved by the overwhelmingly positive feedback we have received thus far. It is truly inspiring to witness the support and encouragement we have received from individuals and organizations from all walks of life, as we work towards building a more diverse and culturally enriched community. We are grateful for the outpouring of support and look forward to continuing this journey together.
 
