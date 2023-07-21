@@ -90,6 +90,7 @@ feature_row2:
 |  | Group Mongolian Dance: 画你 | WLDG (West Linn Dance Group) |
 |  | Group Dance: 山丹丹花开红艳艳 | Portland Chinese Dancing Troupe |
 |  | Martial Arts 武术 | [US Wushu Center](https://uswushu.com/)/[OHCS Wushu Team](http://www.oregon-hope.org) |
+|  | Children Group Singing | Ukriaian Community & [OHCS](http://www.oregon-hope.org) |
 
 *Schedule is subject to change*
 
@@ -151,7 +152,7 @@ Artwork Display and Demonstration by Chinese Artists
 [Energy Trust](https://www.energytrust.org/)  
 [I-205 Toll Project](https://www.oregon.gov/odot/tolling/pages/i-205-tolling.aspx), Oregon Department of Transportation  
 [Crime Victim and Survivor Services Division](https://www.doj.state.or.us/oregon-department-of-justice/civil-rights/bias-and-hate/), Oregon Department of Justice  
-Metro Parks, Protected Areas, Community Projects. [Metro](https://www.oregonmetro.gov/)  
+Metro Parks, Protected Areas, Community Projects, [Metro](https://www.oregonmetro.gov/)  
 
 ## Festival Sponsors
 
