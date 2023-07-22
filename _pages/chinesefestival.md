@@ -156,6 +156,7 @@ Artwork Display and Demonstration by Chinese Artists
 [I-205 Toll Project](https://www.oregon.gov/odot/tolling/pages/i-205-tolling.aspx), Oregon Department of Transportation  
 [Crime Victim and Survivor Services Division](https://www.doj.state.or.us/oregon-department-of-justice/civil-rights/bias-and-hate/), Oregon Department of Justice  
 Metro Parks, Protected Areas, Community Projects, [Metro](https://www.oregonmetro.gov/)  
+[Lan Su Chinese Garden](https://lansugarden.org/)  
 
 ## Festival Sponsors
 
@@ -163,9 +164,9 @@ Metro Parks, Protected Areas, Community Projects, [Metro](https://www.oregonmetr
 [Portland General Electric](https://portlandgeneral.com/)  
 [NW Natural](https://www.nwnatural.com/)  
 [Multnomah County Public Health](https://www.multco.us/health)  
-[Pioneer Courthouse Square](https://www.thesquarepdx.org/)  
 [Oregon Department of Transportation](https://www.oregon.gov/odot/pages/index.aspx)  
 [NIH All of Us Research Program](https://www.researchallofus.org/)  
+[Pioneer Courthouse Square](https://www.thesquarepdx.org/)  
 
 ## Chinese Festivals in the Past
 
