@@ -6,9 +6,11 @@ feature_row0:
   - image_path: /assets/images/activities/pge2.jpg
   - image_path: /assets/images/festival/nwnatural.png
   - image_path: /assets/images/activities/mult_county.png
-  - image_path: /assets/images/activities/pcs-logo.png
+  - image_path: /assets/images/activities/ohsulogo.jpg
   - image_path: /assets/images/festival/odot1.png
   - image_path: /assets/images/festival/aou.jpg
+  - image_path: /assets/images/activities/ocomlogo.png
+  - image_path: /assets/images/activities/pcs-logo.png
 feature_row1:
   - image_path: /assets/images/festival/claire_cao2.jpg
     title: "Claire Cao"
@@ -64,7 +66,7 @@ feature_row2:
 |  | Women's Vocal Duets: Hawthorn Tree 山楂树  | Voice of Spring Singing Group 春之声艺术团 |
 |  | Children Group Dai Dance: Flowers 花儿（傣族) | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
 |  | Chinese Rose Princess | [Oceana Blue Productions](http://oceanablueusa.com/) |
-|  | Group Folk Dance:  阿瓦新歌（瓦族） | [东方舞艺术团 (East Dream Dance Troupe)](http://www.eastdreamdance.org/index.html) |
+|  | Group Folk Dance:  阿瓦新歌（瓦族） | [East Dream Dance Troupe 东方舞艺术团](http://www.eastdreamdance.org/index.html) |
 |  | Hip Hop Street Dance | Phoenix Dunn |
 |  | Hip Hop Street Dance | John Torres  |
 |  | Violin & Cello & Group Dance: Gabriel's Oboe | [Good Time Chinese School](https://www.goodtimechineseschool.org/) |
@@ -76,21 +78,21 @@ feature_row2:
 |  | Group Drumming & Dancing: Rigorous Splendor 象王行 | [Hua Mu Lan Drum Team 花木兰大鼓队](https://pdxchinese.org/mulandrum/) & [Jade Dance Team](https://pdxchinese.org/youthdance/) |
 |  | Solo Dai Dance: Spirit 傣族舞：灵 | YZ Dance Studio 悦姿舞蹈工作室 |
 |  | Hanfu Show: Dreams of Chang'an 汉服表演：梦回长安 | [Phoenix Hanfu Team](https://pdxchinese.org/hanfu/) |
-|  | Kids Group Dance: Butterfly & Explosive Courage 蝴蝶 & 勇气大爆发 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-|  | Group Dance: 山楂树之恋 (扇舞）| [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-|  | Cantonese Opera (Yueju) 粵剧：曲音樂演奏 | Yat Sing Music Club 粵聲音樂社 |
+|  | Pop Dance: Reflection by Fifth Harmony | Emily Shang & Kirby Williams |
 |  | Group Dance: The Friend One is Longing For 秋水伊人| WLDG (West Linn Dance Group) |
+|  | Cantonese Opera (Yueju) 粵剧：曲音樂演奏 | Yat Sing Music Club 粵聲音樂社 |
+|  | Group Dance: 山楂树之恋 (扇舞）| [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 |  | Chinese Yoyo Performenc 空竹表演 | Dragonfly Chinese Yoyo Team |
 |  | Group Dance: Beaded Curtain 卷珠帘 | Portland Chinese Dancing Troupe |
-|  | Adult Taiji 成人太极 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+|  | Kids Group Dance: Butterfly & Explosive Courage 蝴蝶 & 勇气大爆发 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 |  | Guzheng: Maiden's Love, Big Fish 古筝：女儿情，大鱼 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+|  | Adult Taiji 成人太极 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+|  | Group Mongolian Dance: 画你 | WLDG (West Linn Dance Group) |
 |  | Children Group Uighur & Dai Dances 维吾尔族 傣族 舞蹈 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
 |  | Group Dance: Awakening of Tang Figurine 唐印 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-|  | Pop Dance: Reflection by Fifth Harmony | Emily Shang & Kirby Williams |
-|  | Group Mongolian Dance: 画你 | WLDG (West Linn Dance Group) |
 |  | Group Dance: 山丹丹花开红艳艳 | Portland Chinese Dancing Troupe |
 |  | Martial Arts 武术 | [US Wushu Center](https://uswushu.com/)/[OHCS Wushu Team](http://www.oregon-hope.org) |
-|  | Children Group Singing | Ukriaian Community & [OHCS](http://www.oregon-hope.org) |
+|  | Children Group Singing | Ukriaian Community |
 
 *Schedule is subject to change*
 
@@ -108,7 +110,7 @@ feature_row2:
 
 | Category | Activity | Table |
 | --- | --- | ---: |
-| Physical | [Jump Rubber Band/跳橡皮筋](https://youtu.be/H48DTWOlmw0) | Floor |
+| Physical | [Diabolo/抖空竹](https://youtu.be/KBqa5QA461Y) | Floor |
 | | [Shuttlecock Kicking/踢毽子](https://youtu.be/fOn0DhvInSk) | Floor |
 | | [Turn Handkerchief/转手帕](https://youtu.be/qaxhg49elNg) | Floor |
 | | [Taiji/太极](https://youtu.be/Meq5j26QPWc) | Floor |
