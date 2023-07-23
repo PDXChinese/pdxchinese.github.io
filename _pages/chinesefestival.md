@@ -56,6 +56,7 @@ feature_row2:
 |  | Pop Songs: Beloved 诀爱 | Portland Karaoke Group 波特兰K歌组 (Tingting, Jenny Hu) |
 |  | Children Group Dance: Little Fish Spit Bubbles | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
 |  | Group Dance: Bath in Heaven 天裕 | [Jade Dance Team](https://pdxchinese.org/youthdance/) |
+|  | Martial Arts 集体武术表演 | [Summit Wushu Academy](https://www.summitwushu.com/) |
 | Section II | 1:00pm-2:55pm | |
 |  | Shaoxing Opera: Lantern Viewing 观灯 | Huanyue Group 欢悦组合 |
 |  | Chinese Dai Dance: 彩云之南 | 温哥华茉莉花舞队 (Vancouver Jasmine Dancing Troupe) |
@@ -86,12 +87,11 @@ feature_row2:
 |  | Group Dance: Beaded Curtain 卷珠帘 | Portland Chinese Dancing Troupe |
 |  | Kids Group Dance: Butterfly & Explosive Courage 蝴蝶 & 勇气大爆发 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 |  | Guzheng: Maiden's Love, Big Fish 古筝：女儿情，大鱼 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-|  | Adult Taiji 成人太极 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 |  | Group Mongolian Dance: 画你 | WLDG (West Linn Dance Group) |
 |  | Children Group Uighur & Dai Dances 维吾尔族 傣族 舞蹈 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
 |  | Group Dance: Awakening of Tang Figurine 唐印 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 |  | Group Dance: 山丹丹花开红艳艳 | Portland Chinese Dancing Troupe |
-|  | Martial Arts 武术 | [US Wushu Center](https://uswushu.com/)/[OHCS Wushu Team](http://www.oregon-hope.org) |
+|  | Martial Arts 集体武术表演 | [US Wushu Center](https://uswushu.com/)/[OHCS Wushu Team](http://www.oregon-hope.org) |
 |  | Children Group Singing | Ukriaian Community |
 
 *Schedule is subject to change*
