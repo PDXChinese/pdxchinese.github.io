@@ -92,7 +92,7 @@ feature_row2:
 |  | Group Dance: Awakening of Tang Figurine 唐印 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 |  | Group Dance: 山丹丹花开红艳艳 | Portland Chinese Dancing Troupe |
 |  | Martial Arts 集体武术表演 | [US Wushu Center](https://uswushu.com/)/[OHCS Wushu Team](http://www.oregon-hope.org) |
-|  | Children Group Singing | Ukriaian Community |
+|  | Children Group Singing | Sofia Lupyr & DAWN summer camp students from Ukriaian Community |
 
 *Schedule is subject to change*
 
