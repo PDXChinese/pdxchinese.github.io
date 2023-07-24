@@ -16,6 +16,10 @@ feature_row1:
     excerpt: "<p><a href='https://youtu.be/9nVnHfNJW58'>Fred Wong</a></p>"  
   - image_path: /assets/images/activities/raymond_cover.jpg
     excerpt: "<p><a href='https://youtu.be/5fKAs-icqG4'>Raymond Chong</a></p>"  
+  - image_path: /assets/images/activities/keith_cover.jpg
+    excerpt: "<p><a href='https://'>Keith Lee</a></p>"  
+  - image_path: /assets/images/activities/khoo_cover.jpg
+    excerpt: "<p><a href='https://'>Eng Lock Khoo</a></p>"  
 ---
 
 # Oral History: Real People, Real Stories  
