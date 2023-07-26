@@ -36,7 +36,7 @@ feature_row2:
 
 >社区成员使用烟草产品调查（一分钟填写[调查表](https://docs.google.com/forms/d/e/1FAIpQLSeF3BPH9R1RbkrNtEkcEVKpzeQoUtT2aPdvUWfok0nJTvRCEA/viewform?usp=sf_link)）  
 >戒烟计划：提供[个体帮助](https://docs.google.com/forms/d/e/1FAIpQLScXadBaZg-PdM3LbFf2r-eo_nhXYzptnxt-Su1_Qlf_ASU0gw/viewform?usp=sf_link)，推荐[亚裔吸烟者戒烟](https://www.asiansmokersquitline.org/)专线资源  
->预防计划：加入[拒用烟草和电子香烟的承诺](https://docs.google.com/forms/d/e/1FAIpQLSeXi9pIxzAE7655rQRaq849D0swRK_nWTkQnPOKDZjSnbdrQA/viewform?usp=sf_link)，[承诺打印版本](/assets/pdf/NSNV_Pledge.pdf)  
+>预防计划：[加入拒用烟草和电子香烟的承诺](https://docs.google.com/forms/d/e/1FAIpQLSeXi9pIxzAE7655rQRaq849D0swRK_nWTkQnPOKDZjSnbdrQA/viewform?usp=sf_link)，[承诺打印版本](/assets/pdf/NSNV_Pledge.pdf)  
 
 # Culturally Specific and Responsive Cancer Risk Education / 文化特定和响应性的癌症风险教育
 
