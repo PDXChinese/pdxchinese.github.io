@@ -161,11 +161,13 @@ Metro Parks, Protected Areas, Community Projects, [Metro](https://www.oregonmetr
 ## Festival Sponsors
 
 [Energy Trust](https://www.energytrust.org/)  
-[Portland General Electric](https://portlandgeneral.com/)  
+[Portland General Electric, PGE](https://portlandgeneral.com/)  
 [NW Natural](https://www.nwnatural.com/)  
 [Multnomah County Public Health](https://www.multco.us/health)  
-[Oregon Department of Transportation](https://www.oregon.gov/odot/pages/index.aspx)  
+[Oregon Health & Science University, OHSU](https://www.ohsu.edu/)  
+[Oregon Department of Transportation, ODOT](https://www.oregon.gov/odot/pages/index.aspx)  
 [NIH All of Us Research Program](https://www.researchallofus.org/)  
+[Oregon College of Oriental Medicine, OCOM](https://www.ocom.edu/)  
 [Pioneer Courthouse Square](https://www.thesquarepdx.org/)  
 
 ## Chinese Festivals in the Past
