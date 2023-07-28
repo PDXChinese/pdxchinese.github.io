@@ -19,7 +19,7 @@ feature_row1:
   - image_path: /assets/images/activities/keith_cover.jpg
     excerpt: "<p><a href='https://'>Keith Lee</a></p>"  
   - image_path: /assets/images/activities/khoo_cover2.png
-    excerpt: "<p><a href='https://'>Eng Lock Khoo</a></p>"  
+    excerpt: "<p><a href='https://youtu.be/djHA8R9jov8'>Eng Lock Khoo</a></p>"  
 ---
 
 # Oral History: Real People, Real Stories  
