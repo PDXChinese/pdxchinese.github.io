@@ -25,6 +25,8 @@ feature_row1:
 
 ### Albums
 
+[July 2023](https://pdxchinese.org/ride_with_seniors_july_2023/)  
+[June 2023](https://pdxchinese.org/ride_with_seniors_june_2023/)  
 [May 2023](https://pdxchinese.org/ride_with_seniors_may_2023/)  
 [April 2023](https://pdxchinese.org/ride_with_seniors_apr_2023/)  
 [March 2023](https://pdxchinese.org/ride_with_seniors_mar_2023/)  
