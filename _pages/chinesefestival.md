@@ -153,7 +153,7 @@ Artwork Display and Demonstration by Chinese Artists
 ## Community Partner Lineup
 
 [Energy Trust](https://www.energytrust.org/)  
-[I-205 Toll Project](https://www.oregon.gov/odot/tolling/pages/i-205-tolling.aspx), Oregon Department of Transportation  
+[Oregon Toll Program](https://www.oregon.gov/ODOT/tolling/Pages/default.aspx), Oregon Department of Transportation  
 [Crime Victim and Survivor Services Division](https://www.doj.state.or.us/oregon-department-of-justice/civil-rights/bias-and-hate/), Oregon Department of Justice  
 Metro Parks, Protected Areas, Community Projects, [Metro](https://www.oregonmetro.gov/)  
 [Lan Su Chinese Garden](https://lansugarden.org/)  
