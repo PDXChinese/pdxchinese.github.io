@@ -122,7 +122,7 @@ feature_row2:
 | | [Ink Painting/水墨画](https://youtu.be/aw4kEVDSx9A) | 2 |
 | | [Paper Cutting/剪纸](https://youtu.be/xB7GbPBNxPE) | 3 |
 | | [Origami/折纸](https://youtu.be/cZdO2e8K29o) | 3 |  
-| | [Ukriaian Motanka Dolls/乌克兰布娃娃制作](https://youtu.be/HKjT6X8LRW4) | 4 |
+| | DIY Lanterns and Fans/手工制作灯笼和扇子 | 4 |
 | | Chinese Intangible Cultural Heritage/传统文化体验 | 5 |
 | | Costume Photo Booth/古装拍照 | 6 |
 | DIY | DIY Red Lanterns/制作灯笼 | freestanding tent |
