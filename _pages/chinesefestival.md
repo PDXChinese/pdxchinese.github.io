@@ -172,6 +172,7 @@ Metro Parks, Protected Areas, Community Projects, [Metro](https://www.oregonmetr
 
 ## Chinese Festivals in the Past
 
+2023: [Programs](http://pdxchinese.org/chinesefestival/), [KGW Interview](https://youtu.be/qZ4Hj_i3flc?t=189), Photo Album  
 2022: [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2022/), [KOIN Coverage](https://youtu.be/2Ye39CXroww), [KATU Coverage](https://katu.com/news/local/chinese-festival-brings-hundreds-to-portlands-pioneer-courthouse-square?fbclid=IwAR2vlrDy2OkK4xHz1Y27Xjzy8vLDp40a8eTkUzVPlR3vZ1dpOOfgHvB2AII), [Photo Album](https://pdxchinese.org/chinese-festival-2022/)  
 2021: [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2021/), [KOIN Interview](https://www.koin.com/local/multnomah-county/chinese-festival-returning-to-portland-this-saturday/), [Photo Album](https://pdxchinese.org/chinese-festival-2021/)  
 2019: [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2019/), [KGW Interview](https://www.kgw.com/video/life/first-ever-pdx-chinese-festival-on-the-square/283-21872975-6fee-4122-83d1-a83449b083f5), [Photo Album](http://pdxchinese.org/chinese-festival-2019/)  
