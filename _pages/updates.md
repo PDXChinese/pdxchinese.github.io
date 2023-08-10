@@ -5,13 +5,6 @@ permalink: /updates/
 
 # 近期年度活动 / Recent Annual Events
 
-### [2023 Oregon Chinese Festival](https://pdxchinese.org/chinesefestival/)
-
-**Date:** 8/5/2023 11:00 am - 6:00 pm  
-**Place:** Pioneer Courthouse Square, Portland, OR  
-
-******
-
 # 常年活动 / Year Around Activities
 
 ### 口述历史 / Oral History： 我的生活，我的故事 / Real People, Real Story
@@ -21,6 +14,8 @@ permalink: /updates/
 [报名链接/Application](https://docs.google.com/forms/d/e/1FAIpQLScK3ahKKd_XjBtZNlOqSQhaRgjLDolodXpg9dIBx3lLu3mbWg/viewform?usp=sf_link)  
 [采访当地华人推荐表/Recommendation Form](https://docs.google.com/forms/d/e/1FAIpQLSconI7lF4QMz0Wvl34UQhkkMm9pq6PuIGGvP7Ek3Ie8dzvU9A/viewform?usp=sf_link)  
 
+******
+
 ### 庇护所提供晚餐活动 / Meal Provider for the Clark Center
 
 **Date:** Every 2nd Sunday 5:30pm-7pm  
@@ -28,11 +23,15 @@ permalink: /updates/
 
 [报名链接/Registration](https://signup.com/client/invitation2/secure/114701245205736806/false#/invitation)
 
+******
+
 ### [带老人游园活动/Take the Seniors to the Garden](https://pdxchinese.org/ridewseniors/)
 
 **Date:** Every 4th Thursday  
 **Time:** Pick up at 10am and return by 1pm  
 **Place:** [Kirkland Union Manors](https://theunionmanors.org/kirkland-union-manors/) and [Lan Su Chinese Garden](https://lansugarden.org/)  
+
+******
 
 ### OCC参加或赞助文化活动 / OCC Sponsored or Participated Cultural Activities
 
