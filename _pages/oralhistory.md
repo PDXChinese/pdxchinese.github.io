@@ -17,7 +17,7 @@ feature_row1:
   - image_path: /assets/images/activities/raymond_cover.jpg
     excerpt: "<p><a href='https://youtu.be/5fKAs-icqG4'>Raymond Chong</a></p>"  
   - image_path: /assets/images/activities/keith_cover.jpg
-    excerpt: "<p><a href='https://youtu.be/YIHrmd63Rm8'>Keith Lee</a></p>"  
+    excerpt: "<p><a href='https://youtu.be/7bsrbFYPU04'>Keith Lee</a></p>"  
   - image_path: /assets/images/activities/khoo_cover2.png
     excerpt: "<p><a href='https://youtu.be/djHA8R9jov8'>Eng Lock Khoo</a></p>"  
 ---
