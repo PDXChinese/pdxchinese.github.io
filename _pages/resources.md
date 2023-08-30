@@ -5,7 +5,7 @@ permalink: /resources/
 
 # Resources ABC
 
-Disclaimer This is a collection of public data for the convenience of community members. There is no implication of OCC affiliation for the listed organations on this page.
+Disclaimer: This compilation of public data is provided for the convenience of community members. It is important to note that the inclusion of organizations on this page does not imply any affiliation with OCC.
 
 ## (A)ctivities
 - <a href="{{ site.url }}/resources/activities/academies/">Academies</a> ({{ site.activities_academies | size }})
@@ -17,6 +17,7 @@ Disclaimer This is a collection of public data for the convenience of community 
 - <a href="{{ site.url }}/resources/benefits/resources/">Resources</a> ({{ site.benefits_resources | size }})
 
 ## (C)ommunity
+- <a href="{{ site.url }}/resources/communities/business/">Small Business</a> ({{ site.communities_business | size }})
 - <a href="{{ site.url }}/resources/communities/culture/">Culture</a> ({{ site.communities_culture | size }})
 - <a href="{{ site.url }}/resources/communities/religious/">Religious Groups/Churches</a> ({{ site.communities_religious | size }})
 
