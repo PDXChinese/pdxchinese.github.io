@@ -12,3 +12,5 @@ sidebar:
 ---
 
 ![]({{ site.url }}/assets/images/communities/laundrypdx.jpg)
+
+![]({{ site.url }}/assets/images/communities/laundry1.jpg)
