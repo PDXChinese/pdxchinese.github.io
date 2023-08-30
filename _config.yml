@@ -260,7 +260,7 @@ collections:
   communities_religious:
     output: true
     permalink: /resources/:collection/:path/
-  communities_wechat:
+  communities_business:
     output: true
     permalink: /resources/:collection/:path/
   benefits_community:
@@ -454,10 +454,10 @@ defaults:
     values:
       layout: single
       author_profile: false
-  # communities_wechat
+  # communities_business
   - scope:
       path: ""
-      type: communities_wechat
+      type: communities_business
     values:
       layout: single
       author_profile: false
