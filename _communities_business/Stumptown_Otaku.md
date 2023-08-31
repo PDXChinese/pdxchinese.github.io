@@ -1,5 +1,5 @@
 ---
-title: "Stumptown Otaku"
+title: "Stumptown Otaku - 手办店"
 sidebar:
   - title: "Address"
     text: "133 SW 2nd Ave, Portland, OR 97204"
