@@ -6,7 +6,7 @@ date: "2021-09-30"
 feature_row:
 - image_path: /assets/images/activities/for.jpg
 - image_path: /assets/images/activities/trnwr.jpg
-- image_path: /assets/images/logo/occ.png
+- image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/logo/kgwxt2et00nbfs4b7syk
 
 ---
 

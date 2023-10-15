@@ -4,7 +4,7 @@ permalink: /artcontest/
 feature_row:
   - image_path: /assets/images/activities/for.jpg
   - image_path: /assets/images/activities/trnwr.jpg
-  - image_path: /assets/images/logo/occ.png
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/logo/kgwxt2et00nbfs4b7syk
 feature_row1:
   - image_path: /assets/images/artcontest/2022_grp1_1st.jpg
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp1_1st/'>1st Place - Fiona Wang</a></p>"
