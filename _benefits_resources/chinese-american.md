@@ -1,7 +1,7 @@
 ---
 title: "华人美国人在俄勒冈和美国的历史"
 feature_row1:
-  - image_path: /assets/images/logo/halloffame.png
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/logo/oaarg1kffmrs0wyx3yrb
 ---
 
 ### Timeline of Chinese Immigration to the United States

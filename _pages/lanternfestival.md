@@ -4,7 +4,7 @@ permalink: /lanternfestival/
 feature_row:
 - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/logo/kgwxt2et00nbfs4b7syk
 - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/logo/ckvceeskfagsona4raxg
-- image_path: /assets/images/logo/nwnw1.jpg
+- image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/logo/cf5nw5tfdradauegwaik
 ---
 
 <p><img src="/assets/images/7ea775ca5a88fd3763b68b514073033e.jpg"></p>  

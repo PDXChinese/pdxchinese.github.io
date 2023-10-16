@@ -108,7 +108,7 @@ Mr. Zhao attended Peking University in China. He came to the States as a Visitin
 
 {% include feature_row id="feature_row2"%}
 
-![]({{ site.url }}/assets/images/logo/halloffame.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/logo/oaarg1kffmrs0wyx3yrb)
 
 Congratulations to following Chinese Americans who won national recognitions!
 
