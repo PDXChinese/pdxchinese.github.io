@@ -3,7 +3,7 @@ title: ""
 permalink: /vote_matters/
 ---
 
-![]({{ site.url }}/assets/images/activities/vote2022.jpg)
+![Vote Poster](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/yvymjqwkmcumlekegbs7)
 
 # 介绍选举资讯，协助选民登记，鼓励华人投票
 

@@ -98,7 +98,7 @@ Dr. Kuang holds a Doctor of Musical Arts degree from The University of Texas at 
 
 {% include feature_row id="feature_row2"%}
 
-![]({{ site.url }}/assets/images/logo/halloffame.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/logo/oaarg1kffmrs0wyx3yrb)
 
 Congratulations to following Chinese Americans who won national recognitions in recent years!
 

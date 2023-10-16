@@ -1,7 +1,7 @@
 ---
 title: "社会福利信息汇总--不断更新中"
 feature_row1:
-  - image_path: /assets/images/logo/halloffame.png
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/logo/oaarg1kffmrs0wyx3yrb
 ---
 
 我们开始汇总与我们华人相关的各种社会福利信息，我们也会开通电话专线提供帮助给社区成员。如果您有相关信息希望和大家分享，请微信给“项小柔”或“西北兆”，也可以发邮件至 [csw@pdxchinese.org](csw@pdxchinese.org)。

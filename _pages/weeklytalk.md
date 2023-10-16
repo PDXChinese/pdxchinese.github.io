@@ -2,7 +2,7 @@
 title: ""
 permalink: /weeklytalk/
 feature_row0:
-  - image_path: /assets/images/logo/talk_logo1.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/logo/mg85nnq8kchfpesumo1q
 feature_row1:
   - image_path: /assets/images/activities/talk_vincent2.jpg
 feature_row2:
