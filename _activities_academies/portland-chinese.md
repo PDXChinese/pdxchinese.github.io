@@ -4,7 +4,7 @@ location: "724 Harrison St, 3rd Fl. Neuberger Hall, Portland OR 97201"
 sidebar:
   - title: "Address"
     text: "724 Harrison St, 3rd Fl. Neuberger Hall, Portland OR 97201"
-    image: "/assets/images/activities/portland-chinese.png"
+    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/portland-chinese_y1vialejruoduzzvqx44"
   - title: "Phone"
     text: "(503) 564-8720"
   - title: "Email"
@@ -15,4 +15,4 @@ sidebar:
 
 Portland Chinese School is a self-supporting, non-profit organization. The primary focus of the PCS curriculum is on reading and writing traditional Chinese characters as used in Taiwan. It is expected that students already understand and can speak at least some spoken Mandarin Chinese. Portland Chinese School has no political or religious affiliations.
 
-![]({{ site.url }}/assets/images/activities/pdxchineseschool.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pdxchineseschool_wa6b1yrqc4eks7n1pdzv)

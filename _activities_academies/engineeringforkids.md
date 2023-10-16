@@ -4,7 +4,7 @@ location: "11507 SW Pacific Hwy 217, Tigard, OR 97223"
 sidebar:
   - title: "Address"
     text: "11507 SW Pacific Hwy 217, Tigard, OR 97223"
-    image: "/assets/images/activities/e4klogo.jpg"
+    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/e4klogo_ldbztdeu3mdmo9vdpvdi"
   - title: "Phone"
     text: "(503)330-8781"
   - title: "Email"
@@ -19,4 +19,4 @@ We, at the Portland Metro Engineering For Kids, are passionate about our program
 
 At Engineering For Kids, we put the excitement in STEM education by offering fun, hands-on learning for children ages 4 to 14. Our offering includes activities that range from building rockets and roller coasters to making foam and flub to programming video games and robots. The variety of programming is extraordinary!
 
-![]({{ site.url }}/assets/images/activities/e4kpic.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/e4kpic_geyrl6ylxz7njis2vda2)

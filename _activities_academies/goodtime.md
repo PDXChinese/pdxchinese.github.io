@@ -12,7 +12,7 @@ sidebar:
     text: "[www.goodtimechineseschool.org/](http://www.goodtimechineseschool.org/)"
 ---
 
-![]({{ site.url }}/assets/images/activities/goodtime.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/goodtime_ljcrpyxbbeh4vxkivhvh)
 
 愿好时光中文学校是孩子们童年时最美好的一段记忆，是学习感受中国语言文化的最难忘的一段经历。
 
@@ -26,4 +26,4 @@ Our courses are structured around the needs of our students and their families. 
 
 GCS is certified by the AdvancED Accreditation Commission.
 
-![]({{ site.url }}/assets/images/activities/goodtimepic.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/goodtimepic_o5ea1xgk4oxqafnz7hlr)

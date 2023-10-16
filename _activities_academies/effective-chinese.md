@@ -4,7 +4,7 @@ location: "Rm 2007 Lloyd Center, Portland Oregon"
 sidebar:
   - title: "Address"
     text: "Rm 2007 Lloyd Center, Portland Oregon"
-    image: "/assets/images/activities/effectivelogo.jpg"
+    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/effectivelogo_rds63z2ysb75jrit0qos"
   - title: "Phone"
     text: "(503)567-8543"
   - title: "email"
@@ -22,4 +22,4 @@ Use language that resonates with Chinese people
 
 The school continues to evolve with changing technology, a widening circle of teachers and increased diversity among students.
 
-![]({{ site.url }}/assets/images/activities/effectivepic.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/effectivepic_owmxiruvisxware44cyl)

@@ -4,7 +4,7 @@ location: "025 SW Sherman Street, Portland, Oregon 97201-5120"
 sidebar:
   - title: "Address"
     text: "025 SW Sherman Street, Portland, Oregon 97201-5120"
-    image: "/assets/images/activities/international.jpg"
+    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/international_yzetv0cujycixybzscqg"
   - title: "Phone"
     text: "503-226-2496"
   - title: "Email"
@@ -19,4 +19,4 @@ The International School is Portland's first International Baccalaureate element
 
 We encourage you to visit us to learn more!
 
-![]({{ site.url }}/assets/images/activities/internationalpic.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/internationalpic_qwpljlrdzaxohr9e8ydy)

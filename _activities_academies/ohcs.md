@@ -4,7 +4,7 @@ location: "6655 NW Joss Avenue, Portland, OR 97229"
 sidebar:
   - title: "Address"
     text: "<p>6655 NW Joss Avenue, Portland, OR 97229 (Saturday school)</p><p>4010 NW Kaiser Rd., Portland Oregon 97229 (Other programs)</p>"
-    image: "/assets/images/activities/ohcs.jpg"
+    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ohcs_k6ufvvvjqnnpv9zs6wrn"
   - title: "Contact"
     text: "孔敏"
   - title: "Phone"
@@ -17,4 +17,4 @@ sidebar:
 
 It is an Oregon state and IRS-recognized public benefit nonprofit organization that was founded by a group of professional educators and parents in 2005. OHCS provides Saturday Chinese classes, Mandarin Kids Preschool and Kindergarten, Summer Camp, and After-School Chinese club. Please visit www.oregon-hope.org for more details.
 
-![]({{ site.url }}/assets/images/activities/ohcs2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ohcs2_r05irtysttdd2wquawqw)

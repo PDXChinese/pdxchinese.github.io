@@ -4,7 +4,7 @@ location: "Beaverton, OR 97005"
 sidebar:
   - title: "Address"
     text: "Beaverton, OR 97005"
-    image: "/assets/images/activities/mathleticslogo.png"
+    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/mathleticslogo_jbjzwischfl56tvvhygj"
   - title: "Website"
     text: "[https://www.themathletics.com/](https://www.themathletics.com/)"
 ---

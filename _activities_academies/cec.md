@@ -19,4 +19,4 @@ sidebar:
 
 願神繼續賜福中文學校，使得學生們不但學好中華文化，而且能在這裡更新他們的生命，使他们能帶著神所賦予的使命走進大學，走向社會，蒙主引導，成就神所喜悅的一切。
 
-![]({{ site.url }}/assets/images/activities/evangelicalpic.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/evangelicalpic_ycclx3ugfmbcbdd0e6so)

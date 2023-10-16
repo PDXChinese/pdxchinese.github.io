@@ -4,7 +4,7 @@ location: "501 N. Dixon, Portland, OR 97227"
 sidebar:
   - title: "Address"
     text: "501 N. Dixon, Portland, OR 97227"
-    image: "/assets/images/activities/ppslogo.png"
+    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ppslogo_yyd5kh4djjv1c4txsk3e"
   - title: "Phone"
     text: "503-916-3612"
   - title: "email"
