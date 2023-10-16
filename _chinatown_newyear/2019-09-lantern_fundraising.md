@@ -2,7 +2,7 @@
 title: "Fundraising Campaign for Chinatown's Red Lanterns (Sept. 2019)"
 ---
 
-![]({{ site.url }}/assets/images/activities/red_lanterns_fundraising_2019.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/red_lanterns_fundraising_2019_miqbyoyswi8hweoj2exo)
 
 Visit the lantern festival website: [http://chinatownlanterns.org](http://chinatownlanterns.org)
 
@@ -37,7 +37,7 @@ Please mail checks to: c/o Oregon Chinese Coalition, 219 NW 3rd Ave., #227, Port
 
 Note: 2.2% fee will be deducted from the donation.
 
-[![paypal](/assets/images/activities/paypal3.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GWHJ99U9AEFFN)
+[![paypal](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/paypal3_jecibfuthl79dv5l9k2n)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GWHJ99U9AEFFN)
 
 ### A Great Start!
 

@@ -9,7 +9,7 @@ feature_row2:
   - image_path: /assets/images/members/cheng-xuan.jpg
     title: "Xuan Cheng"
     excerpt: "<p>Xuan learned to dance at age of five and started to receive medals in many major ballet competitions from 2004, including Shanghai and New York International Ballet Competitions. She was the Gold medalist at 2006 National Taoli Cup Dance Competition in China.</p><p>Xuan performed in over 20 countries throughout Europe, Asia and North America. She joined Oregon Ballet Theatre as its  female principal dancer in 2011.</p><p>She co-founded <a href='http://oiballet.org/ac/'>Oregon International Ballet Academy</a>, where she shares her experience and passion to young dancers.</p>"
-  - image_path: /assets/images/activities/talk_raymond_chong1.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_raymond_chong1_ra1nmzabzaep4ftfnu8b
     title: "Raymond Chong"
     excerpt: "<p>Raymond is Senior Roadway Manager with the Oregon Department of Transportation at Portland in Oregon. He is responsible for preliminary engineering of transportation improvement projects in Portland metro region.</p><p>Born and raised in Los Angeles, Raymond is 6th generation Chinese American, with family roots in America extending back to California Gold Rush (1849 to 1855), Transcontinental Railroad (1865 to 1869), Boston Chinatown (1892 to 1926), Cambridge Imperial Restaurant (1923 to 1936), and Kubla Khan Theater Restaurant (1946 to 1950).</p>"
   - image_path: /assets/images/members/Min-Gao1.jpg

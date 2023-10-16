@@ -4,7 +4,7 @@ location: "15160 NW Laidlaw Rd, Suite 110 (Mailbox # 12), Portland, OR 97229"
 sidebar:
   - title: "Address"
     text: "<p>Bethany Studio</p><p>15160 NW Laidlaw Rd, Suite 110 (Mailbox # 12), Portland, OR 97229</p><p>Beaverton Studio</p><p>10058 SW Arctic Dr., Beaverton, OR 97005</p>"
-    image: "/assets/images/activities/haiyan-international.png"
+    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/haiyan-international_rfgbj4rq9hhh4gr7gzpp"
   - title: "Phone"
     text: "<p>Director: 786-897-3718</p><p>Manager: 786-427-4840</p>"
   - title: "Email"

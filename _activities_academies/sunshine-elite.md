@@ -4,7 +4,7 @@ location: "15320 NW Central Dr. Ste D6 Portland, OR 97229"
 sidebar:
   - title: "Address"
     text: "15320 NW Central Dr. Ste D6 Portland, OR 97229"
-    image: "/assets/images/activities/sunshine-elite.png"
+    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/sunshine-elite_wsp8heguangqjxj3u4i3"
   - title: "Phone"
     text: "(503) 915-2956"
   - title: "Email"

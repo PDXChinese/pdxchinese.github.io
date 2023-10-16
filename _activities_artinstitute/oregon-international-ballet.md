@@ -4,7 +4,7 @@ location: "10226 SW Park Way, Portland, Oregon 97225"
 sidebar:
   - title: "Address"
     text: "10226 SW Park Way, Portland, Oregon 97225"
-    image: "/assets/images/activities/oiba.png"
+    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/oiba_qyp0cvuitq0b63olucm9"
   - title: "Phone"
     text: "503-297-4325"
   - title: "Email"

@@ -4,7 +4,7 @@ location: "5805 SW 107th Ave. Suite 21, Beaverton, OR 97005"
 sidebar:
   - title: "Address"
     text: "14523 SW Millikan Way # 110, Beaverton, OR 97005"
-    image: "/assets/images/activities/oregon-badminton.png"
+    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/oregon-badminton_v2fxfk8tcgz5qpslo00m"
   - title: "Phone"
     text: "503-430-7861"
   - title: "Email"

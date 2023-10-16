@@ -3,7 +3,7 @@ title: ""
 permalink: /artexhibit/
 ---
 
-![]({{ site.url }}/assets/images/activities/artshow2023.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/artshow2023_lwwoyslajauogjoroghg)
 
 报名截止日：2023年4月28日  
 报名表：[点击这里](https://docs.google.com/forms/d/e/1FAIpQLSeMc3aVAPV5BkmZ8BThHhvHHEYnbNHy1B9YQCgxxiWcpAGoZQ/viewform?usp=sf_link)  
@@ -16,7 +16,7 @@ permalink: /artexhibit/
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
-![]({{ site.url }}/assets/images/activities/ArtShow2022.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ArtShow2022_lco3nwu214litc577alr)
 
 ### 2022 Art Show Highlight
 
@@ -27,7 +27,7 @@ permalink: /artexhibit/
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
-![]({{ site.url }}/assets/images/activities/pp_exhibit_2021.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pp_exhibit_2021_dloumn5akjptnpxonlwi)
 
 Inspired by the success of [Asian Heritage Month Art Gallery Exhibit](https://pdxchinese.org/asian_heritage_month_art_gallery_2021/), we want to ride on the momentum by holding Full Moon Calligraphy and Photography Exhibit, again featuring the works of local Chinese Americans, some are professionals and others are the enthusiasts.
 
@@ -60,7 +60,7 @@ Guangchao Zhang (张光超)
 
 ![]({{ site.url }}/assets/images/divider.jpg)
 
-![]({{ site.url }}/assets/images/activities/artshow2021.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/artshow2021_gjquivffcai6x4xq8mxx)
 ## :ticket: Free Admission :ticket:  :heavy_dollar_sign: Art Work For Sale :heavy_dollar_sign:
 
 ### Background

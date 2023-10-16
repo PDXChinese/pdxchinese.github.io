@@ -12,4 +12,4 @@ sidebar:
     text: "[http://www.leeondong.org/](http://www.leeondong.org/)"
 ---
 
-![]({{ site.url }}/assets/images/activities/Lee-Lion-Dance.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/Lee-Lion-Dance_gdeay3xoy5ureybngmdi)

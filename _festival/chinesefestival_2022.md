@@ -1,11 +1,11 @@
 ---
 title: " "
 feature_row0:
-  - image_path: /assets/images/activities/mult_county.png
-  - image_path: /assets/images/activities/pge2.jpg
-  - image_path: /assets/images/activities/providence.jpg
-  - image_path: /assets/images/activities/oregonian.jpg
-  - image_path: /assets/images/activities/pcs-logo.png
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/mult_county_nf2iqzgmnapl3uxgfock
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pge2_tieksh7yf1tuytixgsee
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/providence_thngpsvqidmsqsaizyh6
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/oregonian_yxpdmshklnnhzhzx2rar
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pcs-logo_vgzamhsfosh7txg6tcar
 feature_row1:
   - image_path: /assets/images/festival/claire_cao.jpg
     title: "Claire Cao"

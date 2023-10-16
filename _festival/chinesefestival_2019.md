@@ -1,22 +1,22 @@
 ---
 title: ""
 feature_row1:
-  - image_path: /assets/images/activities/tanhao.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/tanhao_is4ggfb6fvyevphwr3rr
     title: "Hao Tan"
     excerpt: "11am-8pm"
 feature_row2:
-  - image_path: /assets/images/activities/jackie.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/jackie_l6am0y85qdlcl9dyf6ws
     title: "Jackie Zhang"
     excerpt: "11am-2pm"
-  - image_path: /assets/images/activities/daphne4.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/daphne4_ei8c3lgjnriheyxwoscc
     title: "Daphne Wu"
     excerpt: "2pm-5pm"
-  - image_path: /assets/images/activities/nancy.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/nancy_yabrrbctu1pkid3kfhvz
     title: "Nancy Bai"
     excerpt: "5pm-8pm"
 ---
 
-![]({{ site.url }}/assets/images/activities/festival2019e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/festival2019e_timnusd7rcvm2p4qr6iy)
 
 For the first time ever, our local Chinese community will be hosting a Chinese festival filled with non-stop entertainment, delicious Chinese food, fun activities and much more. We are excited to join the  [India Festival](http://www.icaportland.org/), [Festa Italiana](https://www.festa-italiana.org/), [Pan African Festival](http://www.panafricanfestivalor.org/), and [Celebration of Persian New Year](https://www.andisheh.org/events/norouz-2019/) to offer another splendid cultural event in the living room of Portland.
 

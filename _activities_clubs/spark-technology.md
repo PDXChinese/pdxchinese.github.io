@@ -4,7 +4,7 @@ location: "Bethany Village, OR 97229"
 sidebar:
   - title: "Address"
     text: "Bethany Village, OR 97229"
-    image: "/assets/images/activities/spark.jpg"
+    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/spark_sedxoab3ysgmu5etzzt2"
   - title: "Email"
     text: "[info@sparkteched.org](mailto:info@sparkteched.org)"
   - title: "Website"

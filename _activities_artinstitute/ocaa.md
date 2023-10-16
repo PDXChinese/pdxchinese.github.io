@@ -16,4 +16,4 @@ Oregon Chinese Artist Association (OCAA) was established in 2007 by a group of C
 
 OCAA has very talented artists. A lots of them are national and international recognized.
 
-![]({{ site.url }}/assets/images/activities/ocaa_logo.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ocaa_logo_q4svjgy8pssjdmnv7uje)

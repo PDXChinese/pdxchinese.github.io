@@ -1,23 +1,23 @@
 ---
 title: " "
 feature_row0:
-  - image_path: /assets/images/activities/mult_county.png
-  - image_path: /assets/images/activities/pge2.jpg
-  - image_path: /assets/images/activities/providence.jpg
-  - image_path: /assets/images/activities/oregonian.jpg
-  - image_path: /assets/images/activities/pcs-logo.png
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/mult_county_nf2iqzgmnapl3uxgfock
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pge2_tieksh7yf1tuytixgsee
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/providence_thngpsvqidmsqsaizyh6
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/oregonian_yxpdmshklnnhzhzx2rar
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pcs-logo_vgzamhsfosh7txg6tcar
 feature_row1:
-  - image_path: /assets/images/activities/sophia.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/sophia_bjknnwd1kdneigvyhdjg
     title: "Sophia Pi"
     excerpt: "12pm-2pm"
-  - image_path: /assets/images/activities/nancy3.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/nancy3_i36yr1hug0jckr4ba0dr
     title: "Nancy Bai"
     excerpt: "2pm-4pm"
-  - image_path: /assets/images/activities/victor3.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/victor3_jbuulzrbcwmro9ga6hpv
     title: "Victor Li"
     excerpt: "4pm-7pm"
 feature_row2:
-  - image_path: /assets/images/activities/lori.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/lori_iwgelcvhliw0d77dn2kj
     excerpt: "Commissioner Stegmann"
 ---
 
@@ -145,7 +145,7 @@ Vaccinator: [LECARE Pharmacy](https://www.lecarepharmacy.com/), Family Owned, Lo
 
 Thank You Gifts --  
 $100 for 1st Dose, $50 for 2nd Dose, $150 for J&J Dose  
-[Ox Year Stainless Steel Memorabilia](/assets/images/activities/ox.jpg), While Supplies Last  
+[Ox Year Stainless Steel Memorabilia](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ox_qcjnnhprvobg8sxkcb1n), While Supplies Last  
 
 Vaccine Available Onsite --  
 Pfizer, 1st and 2nd Dose, for 12 & Older  

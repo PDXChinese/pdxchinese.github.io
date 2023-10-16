@@ -4,7 +4,7 @@ location: "P. O. Box 91332 Portland OR 97291"
 sidebar:
   - title: "Address"
     text: "P. O. Box 91332 Portland OR 97291"
-    image: "/assets/images/activities/pacific-violin2.jpg"
+    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pacific-violin2_xido1iogyuldngwdzsds"
   - title: "Contact"
     text: "Hong Chou"
   - title: "Phone"
@@ -20,4 +20,4 @@ Pacific	Violin Academy also	trains exceptional talented students interested	in t
 
 海韵小提琴学校提供全面系统性的小提琴训练课程。参与美国弦乐教师协会考级项目。通过此项目的学生都得到美国全国水准证书， 证明和表彰学生的成就。“新星项目”是专业性培养有音乐天分的学生有兴趣参加波特兰青少年交响乐团，大师课，比赛等活动。
 
-![]({{ site.url }}/assets/images/activities/pacific-violin1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pacific-violin1_wsd0bhrnqvelufppnrvm)

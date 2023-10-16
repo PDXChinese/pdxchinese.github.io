@@ -4,7 +4,7 @@ location: "2057 NW Miller RD, Portland OR 97229"
 sidebar:
   - title: "Address"
     text: "2057 NW Miller RD, Portland OR 97229"
-    image: "/assets/images/activities/xtreme1.png"
+    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/xtreme1_pef6qlv9usrdigj6zefq"
   - title: "Phone"
     text: "503-841-3445"
   - title: "Email"
@@ -19,4 +19,4 @@ Our mission is to foster and build upon children’s natural curiosity about the
 
 We welcome and embrace all students and their families, regardless of gender, race, color, national and ethnic origin. XSTREAM Learning Center is for all families who want their children to be cared for in a warm, nurturing, positive environment that is focused on everyone coming together to improve themselves and by extension the group as a whole.
 
-![]({{ site.url }}/assets/images/activities/xtreme.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/xtreme_ghkyjuyxbjltez5kfosq)

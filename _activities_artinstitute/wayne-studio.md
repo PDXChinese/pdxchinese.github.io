@@ -4,7 +4,7 @@ location: "3610 NE 113th Street, Vancouver, Washington 98686"
 sidebar:
   - title: "Address"
     text: "3610 NE 113th Street, Vancouver, Washington 98686"
-    image: "/assets/images/activities/waynestudiologo1.jpg"
+    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/waynestudiologo1_qzqugjkjrd9peg2q2wkf"
   - title: "Contact"
     text: "Wayne Chin"
   - title: "Phone"
@@ -23,4 +23,4 @@ Wayne Chin maintains his studio in Vancouver, Washington.  One of the city's mos
 
 画画班的地点: Vancouver (3610 NE 113th St., Vancouver WA 98686); SE Portland (永明堂二楼及慧霖寺); Beaverton
 
-![]({{ site.url }}/assets/images/activities/waynestudio.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/waynestudio_vwjncekrxpt0zz4mfdrk)

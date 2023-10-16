@@ -6,11 +6,11 @@ sidebar:
     text: "10058 SW Arctic Drive, Beaverton OR 97005"
   - title: "Address 2"
     text: "15140 SE 82nd Drive, Clackamas 97321"
-    image: "/assets/images/activities/03intl.jpg"
+    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/03intl_o0q6mgfhhtb0j4jfl04i"
   - title: "Phone"
     text: "503-763-0320"
   - title: "Website"
     text: "[www.03intlbadminton.net/](https://www.03intlbadminton.net/Index2.html)"
 ---
 
-![]({{ site.url }}/assets/images/activities/03intl2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/03intl2_qvn2mupd74zmjt7abvpb)
