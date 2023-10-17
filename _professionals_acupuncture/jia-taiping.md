@@ -4,7 +4,7 @@ company: "TJ 中医针灸诊所为您的健康保驾护航，愿您健康快乐�
 sidebar:
   - title: "Address"
     text: "7110 SW Fir Loop, Suite 205, Tigard, OR 97223"
-    image: "/assets/images/professionals/jia-taiping.jpg"
+    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/professionals/jia-taiping"
   - title: "Phone"
     text: "503-475-9657"
   - title: "Email"

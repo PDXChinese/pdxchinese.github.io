@@ -1,7 +1,7 @@
 ---
 title: " "
 feature_row1:
-  - image_path: /assets/images/pvsa/2022_Eliza_Wang.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2022_Eliza_Wang
   - image_path: /assets/images/activities/year_2022.jpg
 ---
 

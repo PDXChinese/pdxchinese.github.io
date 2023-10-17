@@ -4,66 +4,66 @@ permalink: /cultureday/
 feature_row1:
   - image_path: /assets/images/activities/thprdlogo.png
 feature_row2:
-    - image_path: /assets/images/325932671_504747941800947_4915525851583184872_n.jpg
-    - image_path: /assets/images/333224340_237932235252884_5361838649338525864_n.jpg
-    - image_path: /assets/images/329244320_867452781175881_687092103797506605_n.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/325932671_504747941800947_4915525851583184872_n
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/333224340_237932235252884_5361838649338525864_n
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329244320_867452781175881_687092103797506605_n
 feature_row3:
-    - image_path: /assets/images/326789587_749377412864771_4179937397141933224_n.jpg
-    - image_path: /assets/images/326974363_546772340845574_7987278488548586835_n.jpg
-    - image_path: /assets/images/326872184_3341450962737630_3404816325595428826_n.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326789587_749377412864771_4179937397141933224_n
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326974363_546772340845574_7987278488548586835_n
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326872184_3341450962737630_3404816325595428826_n
 feature_row4:
-    - image_path: /assets/images/324921722_1572974789868852_8689207623076226505_n.jpg
-    - image_path: /assets/images/c5d706cd533229cbddb81799d25bf578.jpg
-    - image_path: /assets/images/54af90055c36aa9a49f3e0cc068de064.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/324921722_1572974789868852_8689207623076226505_n
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c5d706cd533229cbddb81799d25bf578
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/54af90055c36aa9a49f3e0cc068de064
 feature_row5:
-    - image_path: /assets/images/298460722_1745525362486690_5254892417078777384_n.jpg
-    - image_path: /assets/images/lan_su_mid_autummn_festival_2022_03.JPG
-    - image_path: /assets/images/8e6f919217eebee1ee511eee97310220.temp.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/298460722_1745525362486690_5254892417078777384_n
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lan_su_mid_autummn_festival_2022_03
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8e6f919217eebee1ee511eee97310220.jpg
 feature_row6:
-    - image_path: /assets/images/2021chinese_festival_072.jpg
-    - image_path: /assets/images/329376108_558174069577947_236637955267336362_n.jpg
-    - image_path: /assets/images/73b98f87e9be5d1a480524c2dd3e1139.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_072
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329376108_558174069577947_236637955267336362_n
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/73b98f87e9be5d1a480524c2dd3e1139
 feature_row7:
-    - image_path: /assets/images/334832877_1909266959471948_8806818628944995337_n.jpg
-    - image_path: /assets/images/328318861_2040298222838951_5592111946553194508_n.jpg
-    - image_path: /assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091117.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/334832877_1909266959471948_8806818628944995337_n
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/328318861_2040298222838951_5592111946553194508_n
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091117
 feature_row8:
-    - image_path: /assets/images/329321684_3581841848712864_9140941873964539826_n.jpg
-    - image_path: /assets/images/308194693_1782838315422061_5224073247999170695_n.jpg
-    - image_path: /assets/images/307755607_1782838835422009_8833984364677932774_n.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329321684_3581841848712864_9140941873964539826_n
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/308194693_1782838315422061_5224073247999170695_n
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/307755607_1782838835422009_8833984364677932774_n
 feature_row9:
-    - image_path: /assets/images/298675473_1745525545820005_7269871071377388207_n.jpg
-    - image_path: /assets/images/8ed06c7136a4862bb548322aa75d4ba4.jpg
-    - image_path: /assets/images/e63a7703a061d32ade465e2ab9b04542.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/298675473_1745525545820005_7269871071377388207_n
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8ed06c7136a4862bb548322aa75d4ba4
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e63a7703a061d32ade465e2ab9b04542
 feature_row10:
-    - image_path: /assets/images/298760687_1745526409153252_1476579341057298271_n.jpg
-    - image_path: /assets/images/7e4dfbe7904ae2d39a663151b7483bc0.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/298760687_1745526409153252_1476579341057298271_n
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7e4dfbe7904ae2d39a663151b7483bc0
 feature_row11:
-    - image_path: /assets/images/298828115_1745525909153302_624307953787638600_n.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/298828115_1745525909153302_624307953787638600_n
 feature_row12:
-    - image_path: /assets/images/2021chinese_festival_009.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_009
 feature_row13:
-    - image_path: /assets/images/39a959cda908b61f71726adbd62570ec.jpg
-    - image_path: /assets/images/69b8e9456b9dd51ea578d10347cf5826.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/39a959cda908b61f71726adbd62570ec
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/69b8e9456b9dd51ea578d10347cf5826
 feature_row14:
-    - image_path: /assets/images/2021chinese_festival_021.JPG
-    - image_path: /assets/images/lan_su_mid_autummn_festival_2022_00.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_021
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lan_su_mid_autummn_festival_2022_00
 feature_row15:
     - image_path: /assets/images/WeChat Image_20220615003011.jpg
-    - image_path: /assets/images/lan_su_mid_autummn_festival_2022_01.JPG
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lan_su_mid_autummn_festival_2022_01
     - image_path: /assets/images/WeChat Image_20220213000322.jpg
 feature_row16:
     - image_path: /assets/images/WeChat Image_20220213000431.jpg
-    - image_path: /assets/images/lan_su_mid_autummn_festival_2022_13.JPG
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lan_su_mid_autummn_festival_2022_13
     - image_path: /assets/images/WeChat Image_20220213000339.jpg
 feature_row17:
-    - image_path: /assets/images/lan_su_mid_autummn_festival_2022_08.JPG
-    - image_path: /assets/images/lan_su_mid_autummn_festival_2022_12.JPG
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lan_su_mid_autummn_festival_2022_08
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lan_su_mid_autummn_festival_2022_12
     - image_path: /assets/images/WeChat Image_20220212172316s.jpg
 feature_row18:
     - image_path: /assets/images/activities/quit_smoking_01.jpg
 feature_row19:
-    - image_path: /assets/images/326387583_1092058778857047_8245403294991861876_n.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326387583_1092058778857047_8245403294991861876_n
 ---
 
 ## >>> [Culture Day Album](https://pdxchinese.org/culture_day_2023/)

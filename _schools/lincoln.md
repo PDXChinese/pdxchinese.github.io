@@ -3,7 +3,7 @@ title: "Lincoln High School"
 excerpt: "Lincoln High School is a top tier high school located in downtown Portland."
 sidebar:
   - title: "High School"
-    image: "/assets/images/schools/Lincoln.png"
+    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/schools/Lincoln"
     image_alt: "Home of the Cardinals"
   - title: "Student Population"
     text: "1563"

@@ -7,7 +7,7 @@ feature_row:
 - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/logo/cf5nw5tfdradauegwaik
 ---
 
-<p><img src="/assets/images/7ea775ca5a88fd3763b68b514073033e.jpg"></p>  
+<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7ea775ca5a88fd3763b68b514073033e"></p>  
 
 ### Blogs
 

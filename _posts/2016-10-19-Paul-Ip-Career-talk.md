@@ -444,7 +444,7 @@ The following is my advice to Nancy.  I like to share with you all for your refe
 西北兆：
 同意Paul的说法，说到留下记录，补充一点，是美国人常用的，我也是尽力在学习的一种做法，就是在会后，通过公司电邮总结谈话要点。不仅可以留下记录，还可以保证双方理解是一致的。如果想再进一步的话，就顺便把另外一个重要的人物，如上级主管，加到收件人里面。
 
-![]({{ site.url }}/assets/images/Paul-Ip-Career-talk.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Paul-Ip-Career-talk)
 
 八名志同道合的華人早組成華賢勵志基金會 (2015)
 

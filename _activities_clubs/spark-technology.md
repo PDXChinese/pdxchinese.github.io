@@ -19,4 +19,4 @@ Spark Technology Education is an Oregon based 501 (c) (3) non-profit organizatio
 
 Spark Technology Education aims to provide opportunities, quality mentoring, and financial support to young minds to spark their interests in science, technology, engineering, and mathematics.
 
-![]({{ site.url }}/assets/images/spark-profile.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/spark-profile)

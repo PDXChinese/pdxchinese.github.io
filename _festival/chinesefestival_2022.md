@@ -11,7 +11,7 @@ feature_row1:
     title: "Claire Cao"
   - image_path: /assets/images/festival/amy_kang2.jpg
     title: "Amy Kang"
-  - image_path: /assets/images/pvsa/2021_Victor_Li.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2021_Victor_Li
     title: "Victor Li"
   - image_path: /assets/images/festival/justin.jpg
     title: "Justin Xia"

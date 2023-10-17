@@ -13,36 +13,36 @@ date: "2022-01-16"
 
 获奖同学们的照片已经陆续刊登在OCC[网站](http://pdxchinese.org/pvsa/)和[脸书](https://www.facebook.com/OregonChineseCoalition/)上了。这次拓宽思路让同学们自选相片，就是希望让社会看到我们的后代不仅仅优秀在学业上，还有他们的公益热情和阳光正面的形象。
 
-![]({{ site.url }}/assets/images/pvsa/2021_Gwyneth_Bao.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2021_Gwyneth_Bao)
 
-![]({{ site.url }}/assets/images/pvsa/2021_Yiran_Chen1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2021_Yiran_Chen1)
 
-![]({{ site.url }}/assets/images/pvsa/2021_Wendy_Du1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2021_Wendy_Du1)
 
-![]({{ site.url }}/assets/images/pvsa/2021_Jenny_Duan.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2021_Jenny_Duan)
 
-![]({{ site.url }}/assets/images/pvsa/2021_Danica_Leung.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2021_Danica_Leung)
 
-![]({{ site.url }}/assets/images/pvsa/2021_Erika_Leung2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2021_Erika_Leung2)
 
-![]({{ site.url }}/assets/images/pvsa/2021_Renee_Liu1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2021_Renee_Liu1)
 
-![]({{ site.url }}/assets/images/pvsa/2021_Jenell_Theobald.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2021_Jenell_Theobald)
 
-![]({{ site.url }}/assets/images/pvsa/2021_Austin_Yan.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2021_Austin_Yan)
 
-![]({{ site.url }}/assets/images/pvsa/2021_Arnold_Yang.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2021_Arnold_Yang)
 
-![]({{ site.url }}/assets/images/pvsa/2021_Fiona_Zou.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2021_Fiona_Zou)
 
-![]({{ site.url }}/assets/images/pvsa/2021_Sophia_Pi.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2021_Sophia_Pi)
 
-![]({{ site.url }}/assets/images/pvsa/2021_Eleanor_Song.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2021_Eleanor_Song)
 
-![]({{ site.url }}/assets/images/pvsa/2021_Ethan_Zhang1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2021_Ethan_Zhang1)
 
-![]({{ site.url }}/assets/images/pvsa/2021_Lucas_Zhang1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2021_Lucas_Zhang1)
 
-![]({{ site.url }}/assets/images/pvsa/2021_Derica_Theobald.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2021_Derica_Theobald)
 
-![]({{ site.url }}/assets/images/pvsa/2021_Leo_Zhao.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2021_Leo_Zhao)

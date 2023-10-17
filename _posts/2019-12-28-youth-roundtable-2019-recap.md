@@ -105,7 +105,7 @@ OCC为准备此次活动也算是做足了功课，在借鉴前两次活动的�
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/139a94e7417f0cff5915c3832032257e)
 
-12:45pm 是我们精心安排的一个场景，大家把两个会场的隔断慢慢打开，学生们和家长们一下子融在了一起。下面是我的讲话[script](/assets/images/pvsa/PVSA_Speech_at_Youth_Roundtable.pdf)。
+12:45pm 是我们精心安排的一个场景，大家把两个会场的隔断慢慢打开，学生们和家长们一下子融在了一起。下面是我的讲话[script](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/PVSA_Speech_at_Youth_Roundtable)。
 
 我讲话中提到的录像，是13位获奖孩子们在接受访问时候的作答，可惜，Victor因为一直发烧没能来得及录像，回头会加进去。
 
