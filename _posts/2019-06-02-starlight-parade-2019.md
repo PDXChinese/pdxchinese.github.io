@@ -14,21 +14,21 @@ xiaojian  10:45
 
 昨天西北区参与舞龙的成员和李氏龙狮团通力合作，圆满完成Starlight Parade。
 
-![]({{ site.url }}/assets/images/288cb47a984ff9c1801cd4208328eaed.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/288cb47a984ff9c1801cd4208328eaed)
 
-![]({{ site.url }}/assets/images/269d4b12e02b8e34e64955a271a35d37.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/269d4b12e02b8e34e64955a271a35d37)
 
-![]({{ site.url }}/assets/images/8d2f29b5ca04075ba02420bb9ebdbc3a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8d2f29b5ca04075ba02420bb9ebdbc3a)
 
-![]({{ site.url }}/assets/images/904896148412d81950b75e786347adbe.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/904896148412d81950b75e786347adbe)
 
-![]({{ site.url }}/assets/images/33567e09c51fbf9ec70ff3ec7ed4e97b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/33567e09c51fbf9ec70ff3ec7ed4e97b)
 
-![]({{ site.url }}/assets/images/93e465ad1d91220c8e42b141d207511c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/93e465ad1d91220c8e42b141d207511c)
 
-![]({{ site.url }}/assets/images/6a5a1c9b8f44e54764fcbcc0c0ad5589.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6a5a1c9b8f44e54764fcbcc0c0ad5589)
 
-![]({{ site.url }}/assets/images/b242b1ca2a0d7ff3cf2a5129dcef1801.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b242b1ca2a0d7ff3cf2a5129dcef1801)
 
 渭渭爸  12:04
 

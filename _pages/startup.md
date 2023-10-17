@@ -105,7 +105,7 @@ Look forward to discussing the topics with you. Thanks!'
 
 两位即将为大家揭开中餐馆多少有些神秘的面纱，会开诚布公和大家交流创业体会，并回答大家的各种问题。
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ## 社区第五次创业座谈会
 
@@ -120,7 +120,7 @@ Look forward to discussing the topics with you. Thanks!'
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g_fSistU3MQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ## 社区第四次创业座谈会
 
@@ -135,7 +135,7 @@ Look forward to discussing the topics with you. Thanks!'
 
 最后半个小时： 李廷凯博士近几年从美国海归到国内创业，开展生物医学工程材料方面的研发和生产。产品在国内已经销售到三甲医院，有极好的临床效果。最近产品又通过了美国FDA认证，在美国有非常好的市场前景。这个项目涉及材料创新，智能制造和网络平台建设。李博士希望通过PDX论坛与有兴趣的朋友，参与共同创业。
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ## 社区第三次创业座谈会
 
@@ -155,7 +155,7 @@ PSU Business Strategy Capstone课程介绍：
 
 迄今为止已经开设了快8年，服务的社区合作伙伴已经超过500个。据Lihong说，我们华人似乎还没有人使用过这么好的社区资源。
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ## 社区第二次创业座谈会
 
@@ -165,7 +165,7 @@ PSU Business Strategy Capstone课程介绍：
 【时间】11.20.2018 周二 7:00 pm - 9:30 pm  
 【地点】GRIFFITH BLDG: Room 100 - Court Room (4755 SW Griffith Drive, Beaverton, OR 97005) ([Google map](https://goo.gl/maps/8CKG6jYK3a82))  
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 【时间】11.20.2018 周二 7:00 pm - 9:30 pm  
 【地点】GRIFFITH BLDG: Room 100 - Court Room (4755 SW Griffith Drive, Beaverton, OR 97005) ([Google map](https://goo.gl/maps/8CKG6jYK3a82))  
@@ -180,7 +180,7 @@ PSU Business Strategy Capstone课程介绍：
 
 有对创业感兴趣的，也请加入《PDX 社区创业论坛》群。
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ## 社区首次创业座谈会
 

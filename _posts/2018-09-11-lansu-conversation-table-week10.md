@@ -13,26 +13,26 @@ date: "2018-09-16"
 
 为Shirley的志愿者精神点赞的同时，也出现了一个小插曲。在兰苏园工作的@Venus Sun在微信群里写道，“昨天從花園走回去office開會，路上巧遇古裝美女從花園奔跑出來，瞬間恍然以為是回到了明朝永樂年間，結果才發現，美女要去繳停車費，一下子被打回2018...[Chuckle]。” @佛系范爷接着回应说，“2018应该是，美女掏出手机，网上付费[Chuckle]。” 大家纷纷赞同，表示“最穿越的是汉服＋手机，好有喜感。”
 
-![]({{ site.url }}/assets/images/85265d6d7d896dc3ee0e62cd57c1bd11.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/85265d6d7d896dc3ee0e62cd57c1bd11)
 
-![]({{ site.url }}/assets/images/c3399526c2919e8aeac4b11007afc744.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c3399526c2919e8aeac4b11007afc744)
 
-![]({{ site.url }}/assets/images/183171fb17ce42f1e4939c2c0ec76465.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/183171fb17ce42f1e4939c2c0ec76465)
 
-![]({{ site.url }}/assets/images/3e2ce276105b3bec72f40c1d54e963bc.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3e2ce276105b3bec72f40c1d54e963bc)
 
-![]({{ site.url }}/assets/images/90a0027f1be8e14109e5d570ea2a41bd.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/90a0027f1be8e14109e5d570ea2a41bd)
 
-![]({{ site.url }}/assets/images/2635df6015bdecc5ed99d8be941ed9f1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2635df6015bdecc5ed99d8be941ed9f1)
 
-![]({{ site.url }}/assets/images/f6d4bc7f3233e64d6cba9c40acf7b9af.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f6d4bc7f3233e64d6cba9c40acf7b9af)
 
-![]({{ site.url }}/assets/images/867036715f4536a7a0012abc63c22db7.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/867036715f4536a7a0012abc63c22db7)
 
-![]({{ site.url }}/assets/images/feaa699744efad2722c633401d9de411.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/feaa699744efad2722c633401d9de411)
 
-![]({{ site.url }}/assets/images/8de2065b6bae78b691f1c63b75e01b87.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8de2065b6bae78b691f1c63b75e01b87)
 
-![]({{ site.url }}/assets/images/52ea71ba6938ea694d893985bdb77462.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/52ea71ba6938ea694d893985bdb77462)
 
-![]({{ site.url }}/assets/images/916f507c93c2218c32bb1e9952c12504.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/916f507c93c2218c32bb1e9952c12504)

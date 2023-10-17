@@ -15,7 +15,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  21:07
 
-![]({{ site.url }}/assets/images/01086f79192181034c1ff234d7498b13.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/01086f79192181034c1ff234d7498b13)
 
 西北兆  21:10
 
@@ -23,19 +23,19 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  21:12
 
-![]({{ site.url }}/assets/images/WechatIMG77.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/WechatIMG77)
 
 我们今天快闪的主角，周虹老师[Rose]
 
 西北兆  21:17
 
-![]({{ site.url }}/assets/images/P1320477.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/P1320477)
 
 旗袍队员开始出现，都想再听一次周老师的一曲《花儿为什么这样红》。
 
 西北兆  21:18
 
-![]({{ site.url }}/assets/images/88722fa84b48bbad72fc0832e251c887.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/88722fa84b48bbad72fc0832e251c887)
 
 西北兆  21:19
 
@@ -43,7 +43,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  21:20
 
-![]({{ site.url }}/assets/images/ddb5ed1cd88177d6d3152930bb6e7a18.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ddb5ed1cd88177d6d3152930bb6e7a18)
 
 西北兆  21:21
 
@@ -51,7 +51,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  21:21
 
-![]({{ site.url }}/assets/images/ae34cc1da6cd158ac8775c2cb3d5486d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ae34cc1da6cd158ac8775c2cb3d5486d)
 
 西北兆  21:22
 
@@ -59,7 +59,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  21:22
 
-![]({{ site.url }}/assets/images/34bf4b80cef504d564c0c92eebe3321a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/34bf4b80cef504d564c0c92eebe3321a)
 
 西北兆  21:23
 
@@ -67,7 +67,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  21:24
 
-![]({{ site.url }}/assets/images/b46852496575a9483afeed38fc124105.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b46852496575a9483afeed38fc124105)
 
 西北兆  21:29
 
@@ -75,7 +75,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  21:32
 
-![]({{ site.url }}/assets/images/f34986e14489faf89016a08757545647.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f34986e14489faf89016a08757545647)
 
 西北兆  21:35
 
@@ -83,7 +83,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  21:35
 
-![]({{ site.url }}/assets/images/f38a448445ef9f0b2d161779d9629ad1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f38a448445ef9f0b2d161779d9629ad1)
 
 西北兆  21:37
 
@@ -95,7 +95,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  21:42
 
-![]({{ site.url }}/assets/images/3225f5fb6e449a4c6b81b7917060140a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3225f5fb6e449a4c6b81b7917060140a)
 
 西北兆  21:43
 
@@ -103,7 +103,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  21:44
 
-![]({{ site.url }}/assets/images/8508f8201cc936c9a3822e4615ba33c8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8508f8201cc936c9a3822e4615ba33c8)
 
 西北兆  21:47
 
@@ -115,7 +115,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  21:52
 
-![]({{ site.url }}/assets/images/97338bb7e0edb94fb893de13646d7a51.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/97338bb7e0edb94fb893de13646d7a51)
 
 西北兆  21:52
 
@@ -123,7 +123,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  21:53
 
-![]({{ site.url }}/assets/images/c6829023d08659dbe95b1fbd70cf8245.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c6829023d08659dbe95b1fbd70cf8245)
 
 西北兆  21:56
 
@@ -131,7 +131,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  21:58
 
-![]({{ site.url }}/assets/images/c2bfb183e8f78eb309e272e584f81300.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c2bfb183e8f78eb309e272e584f81300)
 
 西北兆  21:58
 
@@ -139,7 +139,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  21:59
 
-![]({{ site.url }}/assets/images/ea62610c44c3827c00a0854ae28e31c8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ea62610c44c3827c00a0854ae28e31c8)
 
 西北兆  22:00
 
@@ -147,7 +147,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  22:02
 
-![]({{ site.url }}/assets/images/e6ee2d3159cbb32b230e5c22509d1b12.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e6ee2d3159cbb32b230e5c22509d1b12)
 
 西北兆  22:03
 
@@ -155,7 +155,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  22:04
 
-![]({{ site.url }}/assets/images/dedbaf60f586c54f09776a35e2744b8c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dedbaf60f586c54f09776a35e2744b8c)
 
 西北兆  22:07
 
@@ -167,15 +167,15 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  22:11
 
-![]({{ site.url }}/assets/images/e4103d6e8928fded550a52c610fa755e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e4103d6e8928fded550a52c610fa755e)
 
 西北兆  22:12
 
-![]({{ site.url }}/assets/images/600698352adccfd7b701fe3f8183de16.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/600698352adccfd7b701fe3f8183de16)
 
 西北兆  22:12
 
-![]({{ site.url }}/assets/images/08437a378d9e8800ea3aaa6e14ec3f39.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/08437a378d9e8800ea3aaa6e14ec3f39)
 
 西北兆  22:15
 
@@ -183,7 +183,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  22:27
 
-![]({{ site.url }}/assets/images/b37db71c827901a5d12190188ffcaf22.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b37db71c827901a5d12190188ffcaf22)
 
 陳曉慧  22:28
 
@@ -199,75 +199,75 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  22:30
 
-![]({{ site.url }}/assets/images/b2878355596aa129d9d792a680f65d44.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b2878355596aa129d9d792a680f65d44)
 
 西北兆  22:31
 
-![]({{ site.url }}/assets/images/469aab35a823926a395e58a66efc5b6b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/469aab35a823926a395e58a66efc5b6b)
 
 西北兆  22:32
 
-![]({{ site.url }}/assets/images/fba44632a6377c195b0f8f262ddf1f93.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/fba44632a6377c195b0f8f262ddf1f93)
 
 西北兆  22:32
 
-![]({{ site.url }}/assets/images/89f64c115be1b9aae5a8d324d73bc7af.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/89f64c115be1b9aae5a8d324d73bc7af)
 
 西北兆  22:32
 
-![]({{ site.url }}/assets/images/3651f6bae66592bfabe7102c239678e6.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3651f6bae66592bfabe7102c239678e6)
 
 西北兆  22:32
 
-![]({{ site.url }}/assets/images/82ef49a67fa0b5917fc5443e10166729.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/82ef49a67fa0b5917fc5443e10166729)
 
 西北兆  22:33
 
-![]({{ site.url }}/assets/images/4ade904993c029b4a8f8628579162a9c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4ade904993c029b4a8f8628579162a9c)
 
 西北兆  22:35
 
-![]({{ site.url }}/assets/images/dddc40d697df4b0b910e85142f841f1e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dddc40d697df4b0b910e85142f841f1e)
 
 西北兆  22:36
 
-![]({{ site.url }}/assets/images/dea844cf4e11b383f6dee0389725787e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dea844cf4e11b383f6dee0389725787e)
 
 西北兆  22:36
 
-![]({{ site.url }}/assets/images/3107f2467f66618013a2aee79dff212a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3107f2467f66618013a2aee79dff212a)
 
 西北兆  22:37
 
-![]({{ site.url }}/assets/images/e8356bd0fc13de3eeed0220b740de539.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e8356bd0fc13de3eeed0220b740de539)
 
 西北兆  22:40
 
-![]({{ site.url }}/assets/images/36169debd008369e34a78874d419cbc5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/36169debd008369e34a78874d419cbc5)
 
 西北兆  22:41
 
-![]({{ site.url }}/assets/images/58c09da4ba01ef88774af8858e6833d7.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/58c09da4ba01ef88774af8858e6833d7)
 
 西北兆  22:41
 
-![]({{ site.url }}/assets/images/7a89e1cb52386fa6080204730a19b7e7.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7a89e1cb52386fa6080204730a19b7e7)
 
 西北兆  22:42
 
-![]({{ site.url }}/assets/images/c3b4059fee3b1d10c8028aee46f78866.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c3b4059fee3b1d10c8028aee46f78866)
 
 西北兆  22:43
 
-![]({{ site.url }}/assets/images/f8571ef5681130f7917a820e0f3cc635.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f8571ef5681130f7917a820e0f3cc635)
 
 西北兆  22:43
 
-![]({{ site.url }}/assets/images/ffbf7d703b39753e53e2d45793c53cf5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ffbf7d703b39753e53e2d45793c53cf5)
 
 西北兆  22:44
 
-![]({{ site.url }}/assets/images/50a7f3f452f42343c7b2fcb7bd0d5457.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/50a7f3f452f42343c7b2fcb7bd0d5457)
 
 西北兆  22:50
 
@@ -275,33 +275,33 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  22:50
 
-![]({{ site.url }}/assets/images/051107e96ebbdd3e89cf4cc5645b9e0b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/051107e96ebbdd3e89cf4cc5645b9e0b)
 
 西北兆  22:52
 
-![]({{ site.url }}/assets/images/af2ab0061850c4269e0982aa4ffa39fe.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/af2ab0061850c4269e0982aa4ffa39fe)
 
 西北兆  22:53
 
-![]({{ site.url }}/assets/images/1a8d04a4a7950798e56afd8dfc6ad524.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/1a8d04a4a7950798e56afd8dfc6ad524)
 
 西北兆  22:53
 
-![]({{ site.url }}/assets/images/23d00a7b02de54998fc88e64893e5d5d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/23d00a7b02de54998fc88e64893e5d5d)
 
 西北兆  22:54
 
-![]({{ site.url }}/assets/images/4527ec630312156aa93c4d392acd525d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4527ec630312156aa93c4d392acd525d)
 
 西北兆  22:54
 
-![]({{ site.url }}/assets/images/268cc555d61850ee02f7d0c97eee214a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/268cc555d61850ee02f7d0c97eee214a)
 
 —————  2016-12-22  —————
 
 Marina  00:05
 
-![]({{ site.url }}/assets/images/6c47884e7dca3b9ea49dbe7f8202b2be.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6c47884e7dca3b9ea49dbe7f8202b2be)
 
 Marina  00:08
 
@@ -317,7 +317,7 @@ Kitson Yu 余仕維  04:08
 
 Kitson Yu 余仕維  04:09
 
-![]({{ site.url }}/assets/images/4de36b1ebce988a37f7c4a05ff9fb0b3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4de36b1ebce988a37f7c4a05ff9fb0b3)
 
 Kitson Yu 余仕維  04:09
 

@@ -11,21 +11,21 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 今天去中国城装灯笼，非常感谢三位义工，他/她们都太棒了/:strong/:rose/:rose 曾白飞大家都已经非常熟悉了，关键作为星岛日报记者大家也都知道他的名字了，这次新认识的CY群友是这次活动的惊喜，细节以后再说，大家先欣赏照片/::D
 
-![]({{ site.url }}/assets/images/259312949d251fbb32bfff577045767e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/259312949d251fbb32bfff577045767e)
 
-![]({{ site.url }}/assets/images/18a6a200f4ea4ff5b1d9c8a191965b34.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/18a6a200f4ea4ff5b1d9c8a191965b34)
 
-![]({{ site.url }}/assets/images/6dd593d2639cb29fb16ca90412fe5262.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6dd593d2639cb29fb16ca90412fe5262)
 
-![]({{ site.url }}/assets/images/fae8be3f085051bf2ca8105989c4ceaf.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/fae8be3f085051bf2ca8105989c4ceaf)
 
-![]({{ site.url }}/assets/images/827cfc8c357bbcd1fa6db086cff6711c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/827cfc8c357bbcd1fa6db086cff6711c)
 
-![]({{ site.url }}/assets/images/2c8723ff3e1c819d157ccad8c397b49b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2c8723ff3e1c819d157ccad8c397b49b)
 
-![]({{ site.url }}/assets/images/2ffcec1389a18a16dd6f907a0814dcf6.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2ffcec1389a18a16dd6f907a0814dcf6)
 
-![]({{ site.url }}/assets/images/44fd91f44bdf9edf966ba6142946c2e1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/44fd91f44bdf9edf966ba6142946c2e1)
 
 整个过程中，游人反应非常的好，不断询问，并拍照。就是这么几个华人，让大家对我们刮目相看。
 
@@ -39,10 +39,10 @@ Baifei Zeng  23:04
 
 —————  2018-09-30  —————
 
-![]({{ site.url }}/assets/images/bf2207abc16ce20669e22ac7d7c19ea3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/bf2207abc16ce20669e22ac7d7c19ea3)
 
-![]({{ site.url }}/assets/images/36057c631c38c69f25498cc1c584d191.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/36057c631c38c69f25498cc1c584d191)
 
-![]({{ site.url }}/assets/images/5bba5e0587144328b3b8762bf1c43954.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5bba5e0587144328b3b8762bf1c43954)
 
-![]({{ site.url }}/assets/images/840663a2e98a54b052c9c8fd2a3a55dc.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/840663a2e98a54b052c9c8fd2a3a55dc)

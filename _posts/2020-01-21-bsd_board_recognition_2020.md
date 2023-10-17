@@ -15,16 +15,16 @@ The chatting history for this WeChat group "PDX 华人社区公益一群" is sho
 
 除了同学们的家长外，据说，有的同学的老师还专程过来见证了这一时刻。
 
-![]({{ site.url }}/assets/images/0c4b1b24c555bd41ddedda8ef3ceb0687.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0c4b1b24c555bd41ddedda8ef3ceb0687)
 
-![]({{ site.url }}/assets/images/0c4b1b24c555bd41ddedda8ef3ceb0686.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0c4b1b24c555bd41ddedda8ef3ceb0686)
 
-![]({{ site.url }}/assets/images/0c4b1b24c555bd41ddedda8ef3ceb0685.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0c4b1b24c555bd41ddedda8ef3ceb0685)
 
-![]({{ site.url }}/assets/images/0c4b1b24c555bd41ddedda8ef3ceb0684.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0c4b1b24c555bd41ddedda8ef3ceb0684)
 
-![]({{ site.url }}/assets/images/0c4b1b24c555bd41ddedda8ef3ceb0683.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0c4b1b24c555bd41ddedda8ef3ceb0683)
 
-![]({{ site.url }}/assets/images/0c4b1b24c555bd41ddedda8ef3ceb0682.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0c4b1b24c555bd41ddedda8ef3ceb0682)
 
-![]({{ site.url }}/assets/images/0c4b1b24c555bd41ddedda8ef3ceb0681.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0c4b1b24c555bd41ddedda8ef3ceb0681)

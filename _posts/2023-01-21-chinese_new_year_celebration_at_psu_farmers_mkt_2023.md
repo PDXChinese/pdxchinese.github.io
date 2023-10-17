@@ -43,6 +43,6 @@ Great appreciation to Money Bowl and Great Tang, two Chinese American vendors in
 
 ![]({{ site.url }}/assets/images/326528925_668703951668960_936127475286547206_n.jpg)
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 <iframe width="434" height="771" src="https://www.youtube.com/embed/-IcAQru4s40" title="Dragon dance in PSU Farmers Market" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

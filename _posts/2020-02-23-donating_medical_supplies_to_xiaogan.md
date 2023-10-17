@@ -11,7 +11,7 @@ The chatting history for this WeChat group "PDX 华人社区公益一群" is sho
 
 《波特兰武汉爱心捐赠协调小组》从建群到今天正好是一个月时间，晚些时候153箱价值32,000美元的医用物资将承载着大波特兰地区华人的爱心抵达此次重灾区湖北孝感，捐赠物品将在几家本地医院分配，包括孝感市第一人民医院，安陆市普爱医院，湖北航天医院，安陆市第二人民医院，孝南区妇幼保健院。五家医院共开放3,000张床位给冠状肺炎患者。
 
-![]({{ site.url }}/assets/images/8c495db4103d384f708ab2b4eb959774.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8c495db4103d384f708ab2b4eb959774)
 
 昨天晚上我被拉进了为接收此次捐赠而专门成立的小群，19个人中除了有几位一直全程操作的群友之外，剩下的都是来自孝感本地医院的医生们。知道大家都在火线上，即便是在大洋彼岸坐在静静的书房仍然能感觉得到那里的气氛。我加入后，马上一位医生单独加了我，开口就嘱咐道，“美国风险也蛮大。您一定注意防护。” 看到他的头像，应该是他的小baby，穿着带斗篷的婴儿服，在面部画上了护目镜和氧气管。看到这个画面，心真的都要碎了。我回到群里，试图用一些话题帮助医生们放松一下，我跟他们说，这批护目镜很Cool，等疫情结束后，每个医生都能带回家一个。有人问我波特兰为什么又叫Rip City，我答应等他们来波特兰放松心情的时候，我们社区一定会热情款待他们的每一位，包括去看一场NBA球赛。
 
@@ -31,15 +31,15 @@ The chatting history for this WeChat group "PDX 华人社区公益一群" is sho
 
 写到这里，看到群里最新的信息是货物已经到达武汉，今天晚些时候应该到孝感，几个医院的医生已经翘首期待捐赠物资的到来。
 
-![]({{ site.url }}/assets/images/4abb3f18fa32077df8c2d4a6b95d47f4.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4abb3f18fa32077df8c2d4a6b95d47f4)
 
 在本地仓库准备打包
 
-![]({{ site.url }}/assets/images/d260aafbb8dd1d2962c0036bc129dc02.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d260aafbb8dd1d2962c0036bc129dc02)
 
 装上FedEx卡车，目的地：洛杉矶。
 
-![]({{ site.url }}/assets/images/1efdca9fd27c539b6b6c0a9d21c4a228.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/1efdca9fd27c539b6b6c0a9d21c4a228)
 
 在洛杉矶仓库贴上“孝感加油”，是一位居住在洛杉矶地华裔女孩创作的。
 
@@ -49,17 +49,17 @@ The chatting history for this WeChat group "PDX 华人社区公益一群" is sho
 
 已经到了医院，正在卸货。
 
-![]({{ site.url }}/assets/images/97e739b871e863511b834841b93cf685.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/97e739b871e863511b834841b93cf685)
 
-![]({{ site.url }}/assets/images/fe9fe4d7615bc801b2c8c40d272fdc75.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/fe9fe4d7615bc801b2c8c40d272fdc75)
 
-![]({{ site.url }}/assets/images/740204347189f25ec8cd499b1ca657b6.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/740204347189f25ec8cd499b1ca657b6)
 
-![]({{ site.url }}/assets/images/e59dc58f17110acfe8fb316e1b81beed.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e59dc58f17110acfe8fb316e1b81beed)
 
-![]({{ site.url }}/assets/images/84d054d31dc3c6914ec3cbac43af2bd2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/84d054d31dc3c6914ec3cbac43af2bd2)
 
-![]({{ site.url }}/assets/images/3cd69b260f4e5b17cf58f1cf16d33452.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3cd69b260f4e5b17cf58f1cf16d33452)
 
 医生拿着的是波特兰West Sylvan初中老师们的留言，为疫区医护人员加油！
 

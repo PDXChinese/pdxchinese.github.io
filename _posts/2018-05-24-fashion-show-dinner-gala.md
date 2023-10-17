@@ -17,25 +17,25 @@ Buy tickets: [http://oceanablueproductions.com/?page_id=23](http://oceanabluepro
 
 ## Participants of Miss and Ms. Chinese Rose Princess & Rose Queen Photo Shoot and Contest
 
-![]({{ site.url }}/assets/images/fd25e9c3030f12bf48c23017217b32ae.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/fd25e9c3030f12bf48c23017217b32ae)
 
-![]({{ site.url }}/assets/images/758a7082d31c9e6cea141b2032ff4efe.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/758a7082d31c9e6cea141b2032ff4efe)
 
-![]({{ site.url }}/assets/images/2e71b7e0f0796366abfdacc2418aa406.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2e71b7e0f0796366abfdacc2418aa406)
 
-![]({{ site.url }}/assets/images/da6423d40089fa000a3640f94e36ea28.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/da6423d40089fa000a3640f94e36ea28.jpg)
 
-![]({{ site.url }}/assets/images/3a587f6e207d1c9a36da8b2ace135162.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3a587f6e207d1c9a36da8b2ace135162)
 
-![]({{ site.url }}/assets/images/936840b24d56c3574db6c2f74511d882.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/936840b24d56c3574db6c2f74511d882)
 
-![]({{ site.url }}/assets/images/2018roseprincess1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2018roseprincess1)
 
-![]({{ site.url }}/assets/images/2018roseprincess2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2018roseprincess2)
 
-![]({{ site.url }}/assets/images/2018roseprincess3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2018roseprincess3)
 
-![]({{ site.url }}/assets/images/2018rosequeen1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2018rosequeen1)
 
 ## Fashion Show Segments
 
@@ -69,6 +69,6 @@ To sign up for becoming the Master of Ceremony (MC) of June 10th fashion gala, t
 
 Contestants will prepare 30 seconds of Monologue. Training class will be provided.
 
-![]({{ site.url }}/assets/images/2018fasionmedia.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2018fasionmedia)
 
-![]({{ site.url }}/assets/images/2018fasionmedia0.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2018fasionmedia0)

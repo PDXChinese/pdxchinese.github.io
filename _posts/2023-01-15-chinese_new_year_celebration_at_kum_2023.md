@@ -9,7 +9,7 @@ date: "2023-01-15"
 
 有干不完的活，唠不完的话，道不尽的情，诉不尽的爱。大家走的时候，老人们是百般的不舍，我们说我们还会回来的，因为说好给老人的礼物因为国内的疫情给耽搁在了途中，看看正月十五再和老人们团聚。。。
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 *12-4-2022 12:36 PM*
 
@@ -41,7 +41,7 @@ date: "2023-01-15"
 
 明天即将拉开庆祝春节的序幕，今年似乎全社会都在庆祝农历新年，因此很多机构联系到我们，希望得到支持和参与。今天数了一下，已经接近20家，社区内的活动我们只组织和参与三个，其他的则是各社区自行组织的（[https://pdxchinese.org/updates/](https://pdxchinese.org/updates/)），我们要做的就是积极引导社区资源，让这些星星之火最终形成燎原之势。
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ### 乒乓友谊赛
 
@@ -61,7 +61,7 @@ date: "2023-01-15"
 
 ![]({{ site.url }}/assets/images/325686006_1417724882364810_8682643386023037628_n.jpg)
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ### 给老人们发手工制作的贺年卡
 
@@ -77,7 +77,7 @@ date: "2023-01-15"
 
 ![]({{ site.url }}/assets/images/324273103_592573896039557_7196228581247776672_n.jpg)
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ### 文艺演出
 
@@ -141,7 +141,7 @@ date: "2023-01-15"
 
 ![]({{ site.url }}/assets/images/325584770_1415827269243332_1047667218746997550_n.jpg)
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ### 喜庆的气氛
 
@@ -257,7 +257,7 @@ date: "2023-01-15"
 
 ![]({{ site.url }}/assets/images/325952823_491698059783966_8809764332787105706_n.jpg)
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ### 清洗厨房
 
@@ -309,7 +309,7 @@ date: "2023-01-15"
 
 ![]({{ site.url }}/assets/images/325434359_6596814687001925_8186458247025423363_n.jpg)
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 民族管弦乐团《吴越春秋》中国管弦乐音乐会
 

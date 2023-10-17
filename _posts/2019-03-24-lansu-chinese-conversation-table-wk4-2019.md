@@ -17,14 +17,14 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 >我们最吸引人的活动是做手工—剪春字和做莲花，我们准备了几种不同剪法的春字，各个年纪的游客都喜欢，老的少的年轻的，老师就是我们的小朋友们，小老师把instructions讲完后把OCC 的badge一指说，你看我戴着这个牌子，你有问题来找我，我也会不时来查看你们做得怎样。。。经常听到游客夸 you are the best teacher😀！剪纸的那头经常是坐无虚席。
 
-![]({{ site.url }}/assets/images/039b20799d06c207cbe231508eab5108.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/039b20799d06c207cbe231508eab5108)
 
-![]({{ site.url }}/assets/images/7eecdc91722776b4ea43d8125ed5c047.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7eecdc91722776b4ea43d8125ed5c047)
 
-![]({{ site.url }}/assets/images/60adfecd6c233b8b2b6e8edecd4b3c78.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/60adfecd6c233b8b2b6e8edecd4b3c78.jpg)
 
-![]({{ site.url }}/assets/images/7ddb8f7cbca33ee3fef81420ecb79774.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7ddb8f7cbca33ee3fef81420ecb79774.jpg)
 
-![]({{ site.url }}/assets/images/94f04bdb2dcf94ce94c42178403ad8cb.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/94f04bdb2dcf94ce94c42178403ad8cb)
 
-![]({{ site.url }}/assets/images/774f760f2f8c2f2e18554d6d1accb3ce.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/774f760f2f8c2f2e18554d6d1accb3ce)

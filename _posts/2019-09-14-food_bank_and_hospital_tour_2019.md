@@ -11,11 +11,11 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 —————  2019-09-15  —————
 
-![]({{ site.url }}/assets/images/0cf787184ea7a36c297c02de5998d8a9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0cf787184ea7a36c297c02de5998d8a9)
 
 我平时很喜欢听《You Raise Me Up》，看到照片中Nancy和孩子们昨天在Food Bank的合影，马上联想到因为有了Nancy的奉献，社区多少孩子们培养了爱心，开阔了视野。She raised many kids up! We all want to thank her for her tireless effort to keep this community project moving.
 
-![]({{ site.url }}/assets/images/28feeab14fdc4ff3c0639ddaa619b97e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/28feeab14fdc4ff3c0639ddaa619b97e)
 
 【感谢冯静家长组织社区中学生参观Shriners Hospital for Children】 这是冯静为社区孩子们连续第二年提供这么一个难得的学习机会。从三月份提出这个设想，筹划了进半年时间。我今天跟一些家长讲最难组织的就是医院，因为有隐私保护的问题。冯静最后也表示她的行动希望能鼓励家长们利用自己所拥有的资源，为我们的孩子们提供更多的参观学习机会。
 

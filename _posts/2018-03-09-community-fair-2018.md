@@ -69,7 +69,7 @@ HCY Foundation会向大家展示，中国还有很多需要救助的儿童。我
 
 【4/14/2018 Community Fair Update #5】 感谢《星岛都市报》今天全版篇幅介绍这次社区联展，他们也破例把截至到上周三已经报名的团体和个人名单和宣传句子，原封不动发表了。如果有人接到来自三番客户的询问，一定不要忘记顺便感谢周刊和我们这次联展。后来报名的陈氏厨房，我们的法律顾问McCandlish先生，及MiT Education & School未能赶上这期，抱歉之余，我们的感激之情是一样的。
 
-![]({{ site.url }}/assets/images/880d59656d6fced1de9c79f887c80f9f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/880d59656d6fced1de9c79f887c80f9f)
 
 报导全文： [issuu.com/uscitypost/docs/sfcp20180324/7](https://issuu.com/uscitypost/docs/sfcp20180324/7)
 
@@ -122,11 +122,11 @@ HCY Foundation会向大家展示，中国还有很多需要救助的儿童。我
 
 忽悠高科技不是我擅长的地方，写起来很是吃力。为了补偿大家，还是一起欣赏几张今天下午入选的小模特们试装的情景。穿上这些品牌时装，小朋友们好个兴奋，走起路来，脸上呈现出来的俨然是一副训练有素的神态。今天见识了一位妈妈给女娃做hair donut，简直是奇迹。估计今夏在本村校园里会流行这种发型。
 
-![]({{ site.url }}/assets/images/44e70bc7550df5e8e53fa4d73fbde515.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/44e70bc7550df5e8e53fa4d73fbde515)
 
-![]({{ site.url }}/assets/images/81a63d48fd8fd84bf5bf357d5c0469f0.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/81a63d48fd8fd84bf5bf357d5c0469f0)
 
-![]({{ site.url }}/assets/images/e99798a301f8000ade725564d3e824d1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e99798a301f8000ade725564d3e824d1)
 
 【4/14 11am-4pm Community Fair Update #13】 刚才和凡草说，“开始真的是腿脚朝天了，但是很快乐”，她很是会意的回了我两个shake hand。现在组委会成员和众多志愿者们都在紧张忙碌着，现在什么也没法定稿送出去打印，不妨介绍一下今天的新进展。
 
@@ -162,10 +162,10 @@ Michelle’s Piano Company决定把三角钢琴搬来现场，我们会组织社
 
 Main Stage上的活动有些变化，把抽奖活动集中到了两次，这样节目时间更加充裕了。
 
-![]({{ site.url }}/assets/images/90db79146260ad60bf92c86e210c490c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/90db79146260ad60bf92c86e210c490c)
 
-![]({{ site.url }}/assets/images/49320c6389c6f29ed39c18f21e8ff22c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/49320c6389c6f29ed39c18f21e8ff22c)
 
-![]({{ site.url }}/assets/images/d7ef6dc28a48f0b0dd9c068b153d3c8a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d7ef6dc28a48f0b0dd9c068b153d3c8a)
 
-![]({{ site.url }}/assets/images/25282b6c4b927fae120e0a3c2534d906.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/25282b6c4b927fae120e0a3c2534d906)

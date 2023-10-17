@@ -9,7 +9,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 —————  2019-08-21  —————
 
-![]({{ site.url }}/assets/images/9a207f90227e808ae35d9a2eb9ea7c48b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9a207f90227e808ae35d9a2eb9ea7c48b)
 
 昨天来自社区的25位同学和部分家长参观了位于Tanasbourne Town Center附近的国家灵长类动物研究中心（ONPRC），这是我们鼓励家长们能够利用自己的资源为社区的孩子们提供近距离参观的又一次机会，这次活动非常的成功，不仅仅是满足了孩子们对国家级研究中心的好奇感，连大人们都“惊呼”，这五六千只猴子就生活在我们的后院，实在是“不可思议”，更没想到的是如此规模且世界一流的研究中心就在我们身边，为波特兰感到骄傲！
 

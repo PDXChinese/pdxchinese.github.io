@@ -23,38 +23,38 @@ Cheery的妈妈总结道，“孩子们餐前准备，摆放桌椅，清洁消�
 
 为“孩子们通过自己的劳动愉快了别人也高兴了自己”点赞！
 
-![]({{ site.url }}/assets/images/67ba7222b5595df6fb5cdb1995ac9b99.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/67ba7222b5595df6fb5cdb1995ac9b99)
 
-![]({{ site.url }}/assets/images/6762c665262c0cc24519b68e8398ad81.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6762c665262c0cc24519b68e8398ad81)
 
-![]({{ site.url }}/assets/images/a6589ec259579c9cc6a75174a5085440.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a6589ec259579c9cc6a75174a5085440)
 
-![]({{ site.url }}/assets/images/1240278855cb7920b9b67e649b519ecf.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/1240278855cb7920b9b67e649b519ecf)
 
-![]({{ site.url }}/assets/images/03d214738ec35134ed3a666cbe179983.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/03d214738ec35134ed3a666cbe179983)
 
-![]({{ site.url }}/assets/images/7f6c0312f4459188b219b97dbb4b1f14.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7f6c0312f4459188b219b97dbb4b1f14)
 
-![]({{ site.url }}/assets/images/f5297370b5bad5310498f18e19900fc8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f5297370b5bad5310498f18e19900fc8)
 
-![]({{ site.url }}/assets/images/cec9c5dffe5402ca7e19774dd599a595.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/cec9c5dffe5402ca7e19774dd599a595)
 
-![]({{ site.url }}/assets/images/28f7874472d08f6a36de337ec53a07fe.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/28f7874472d08f6a36de337ec53a07fe)
 
-![]({{ site.url }}/assets/images/d5aae903b7dee674dcd02afc32ad9869.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d5aae903b7dee674dcd02afc32ad9869)
 
-![]({{ site.url }}/assets/images/bcb50b00fbc4b3379dc14426dd3a4e09.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/bcb50b00fbc4b3379dc14426dd3a4e09)
 
-![]({{ site.url }}/assets/images/4acb520a3545f77ace328a10c633d789.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4acb520a3545f77ace328a10c633d789)
 
-![]({{ site.url }}/assets/images/0f1af40f0bd2f238d39252fb6ac85834.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0f1af40f0bd2f238d39252fb6ac85834)
 
-![]({{ site.url }}/assets/images/9eaf16d1a5f75c94b67eafb74e07e710.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9eaf16d1a5f75c94b67eafb74e07e710)
 
-![]({{ site.url }}/assets/images/ff118bae08740b152e349268d5666600.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ff118bae08740b152e349268d5666600)
 
-![]({{ site.url }}/assets/images/fedd38ec583c1b85961525a9be7f77b0.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/fedd38ec583c1b85961525a9be7f77b0)
 
-![]({{ site.url }}/assets/images/c10b17e64e62a2b81121a7a3bf917ead.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c10b17e64e62a2b81121a7a3bf917ead)
 
-![]({{ site.url }}/assets/images/289d60f94bfe8598060e26cfebbaf87c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/289d60f94bfe8598060e26cfebbaf87c)

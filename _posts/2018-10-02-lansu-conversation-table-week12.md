@@ -31,28 +31,28 @@ wei  08:49
 
 三个女人一台戏，我们从未一起共事，但这台戏分工明确，配合默契，我想在我们的人生中一定是一次难忘的经历。
 
-![]({{ site.url }}/assets/images/ad401d831a8240d96d95ec92632a8775.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ad401d831a8240d96d95ec92632a8775)
 
-![]({{ site.url }}/assets/images/c910e1e88eb9159a0d9742129f4434bc.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c910e1e88eb9159a0d9742129f4434bc)
 
-![]({{ site.url }}/assets/images/4902cb4a77de7c546a11c36d6934cdb1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4902cb4a77de7c546a11c36d6934cdb1)
 
-![]({{ site.url }}/assets/images/45a66d642fa7ef0ee3ebc7b6a13d1d58.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/45a66d642fa7ef0ee3ebc7b6a13d1d58)
 
-![]({{ site.url }}/assets/images/538083d603807c9c1592822781f35841.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/538083d603807c9c1592822781f35841)
 
-![]({{ site.url }}/assets/images/0ad4c0872894ac5c018f8d40dff826a6.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0ad4c0872894ac5c018f8d40dff826a6)
 
-![]({{ site.url }}/assets/images/59c3a2b9ec38b8e3bbd5c255de744d79.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/59c3a2b9ec38b8e3bbd5c255de744d79)
 
-![]({{ site.url }}/assets/images/59507142ee73552ffadfd31da7de8903.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/59507142ee73552ffadfd31da7de8903)
 
-![]({{ site.url }}/assets/images/4d3cee9b4ed9768e70254e5a4b19ee33.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4d3cee9b4ed9768e70254e5a4b19ee33)
 
-![]({{ site.url }}/assets/images/136721274e8a1f97ac1aa62070dc7200.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/136721274e8a1f97ac1aa62070dc7200)
 
-![]({{ site.url }}/assets/images/a43b1d0a7cb82b9131072649917ae965.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a43b1d0a7cb82b9131072649917ae965)
 
-![]({{ site.url }}/assets/images/3e1aa9bf661584042a7a8823f5227516.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3e1aa9bf661584042a7a8823f5227516)
 
-![]({{ site.url }}/assets/images/d91043dd211ff98c5a339eb54fc0153e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d91043dd211ff98c5a339eb54fc0153e)

@@ -15,41 +15,41 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 今年的汉语角即将告一段落了，周六的活动趁中秋日也达到了一个小高潮。除了毛笔字和传统游戏外，几位义工还各有专长，她们手工剪纸做出来了应景的灯笼，旋转的手绢成了游人必试的一项活动。老张拍出了许多大师级的照片，为我们留下了精彩的瞬间，让我们大家可以一同分享兰苏园内的中秋气氛。
 
-![]({{ site.url }}/assets/images/2c66bfcd66490405a64447b10c8da577.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2c66bfcd66490405a64447b10c8da577)
 
-![]({{ site.url }}/assets/images/110ebfd5be73479815259a9c7421ea74.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/110ebfd5be73479815259a9c7421ea74)
 
-![]({{ site.url }}/assets/images/0a5f755d500a3604b315b2ac8a02eee2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0a5f755d500a3604b315b2ac8a02eee2)
 
-![]({{ site.url }}/assets/images/12c4a6bfe0c5745f128b37afb3154731.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/12c4a6bfe0c5745f128b37afb3154731)
 
-![]({{ site.url }}/assets/images/b95647845faccbaaaf2c8a68260c92ca.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b95647845faccbaaaf2c8a68260c92ca)
 
-![]({{ site.url }}/assets/images/ca8e7b311c81277092a70c045d2481c1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ca8e7b311c81277092a70c045d2481c1)
 
-![]({{ site.url }}/assets/images/13be749ac6253904aefa90d598ea6e66.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/13be749ac6253904aefa90d598ea6e66)
 
-![]({{ site.url }}/assets/images/47330f50123bf2f5e5a443026f5938db.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/47330f50123bf2f5e5a443026f5938db)
 
-![]({{ site.url }}/assets/images/99808f43839bffdb51df5c1d80d0db84.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/99808f43839bffdb51df5c1d80d0db84)
 
-![]({{ site.url }}/assets/images/0403335fe88b22e3fd09c0b5ffc71a84.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0403335fe88b22e3fd09c0b5ffc71a84)
 
-![]({{ site.url }}/assets/images/597d65625545777ef9ebb8251df42427.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/597d65625545777ef9ebb8251df42427.jpg)
 
-![]({{ site.url }}/assets/images/b5d92128a0e3e4cd0b9282cfa531777d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b5d92128a0e3e4cd0b9282cfa531777d)
 
-![]({{ site.url }}/assets/images/35d04ab7d02d31002c49148a4a83a16b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/35d04ab7d02d31002c49148a4a83a16b)
 
-![]({{ site.url }}/assets/images/db576838cc8e960f2dc30b9068901d97.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/db576838cc8e960f2dc30b9068901d97)
 
-![]({{ site.url }}/assets/images/9b7d9997222617679aca17a33823655b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9b7d9997222617679aca17a33823655b)
 
-![]({{ site.url }}/assets/images/4d5c8357b79db4579dcd1020f1888118.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4d5c8357b79db4579dcd1020f1888118)
 
-![]({{ site.url }}/assets/images/2da671c5814fc7873cb80274dea47716.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2da671c5814fc7873cb80274dea47716)
 
-![]({{ site.url }}/assets/images/ddb88d7ddd1f5aa6755bc34c966d6ec5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ddb88d7ddd1f5aa6755bc34c966d6ec5)
 
 wei  11:29
 
@@ -63,13 +63,13 @@ The chatting history for this WeChat group "兰苏园汉语角志愿者" is show
 
 —————  2019-09-14  —————
 
-![]({{ site.url }}/assets/images/6d85c5e95e5994d352aac91909b7726f.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6d85c5e95e5994d352aac91909b7726f.jpg)
 
-![]({{ site.url }}/assets/images/ef54773d2bb5ea0ae64562582d86082e.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ef54773d2bb5ea0ae64562582d86082e.jpg)
 
-![]({{ site.url }}/assets/images/346a809b6f2896989ef87542bdc5ded3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/346a809b6f2896989ef87542bdc5ded3)
 
-![]({{ site.url }}/assets/images/854ccca1d49dce22d75e1814d2040f3e.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/854ccca1d49dce22d75e1814d2040f3e.jpg)
 
 💗Eliza 陈曦  15:06
 

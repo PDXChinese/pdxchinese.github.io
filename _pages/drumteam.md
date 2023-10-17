@@ -13,11 +13,11 @@ The purposes of forming our community drum team are to provide the community mem
 
 [Chinese Festival](http://pdxchinese.org/chinesefestival/) on August 3, 2019
 
-![]({{ site.url }}/assets/images/34dfbd1245daa96c9056498a9bad3b5f.jpg)  
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/34dfbd1245daa96c9056498a9bad3b5f)  
 
-![]({{ site.url }}/assets/images/50feb0b01941b74a72808399e07bb823.jpg)  
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/50feb0b01941b74a72808399e07bb823)  
 
-![]({{ site.url }}/assets/images/135938f75b434e0f816ac0a3af841b46.jpg)  
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/135938f75b434e0f816ac0a3af841b46)  
 
 ### Performance in Chinese New Year Cultural Fair
 

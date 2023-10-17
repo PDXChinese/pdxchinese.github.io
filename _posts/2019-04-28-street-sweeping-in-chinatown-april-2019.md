@@ -17,20 +17,20 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 最后，值得一提的是，在两个半小时时间里，我们正好绕了一大圈，一共装满了两大桶垃圾，比上两次都要少，这也说明原来的劳动成果保持得相当的不错。希望我们能继续下去，直到不再需要我们的时候。
 
-![]({{ site.url }}/assets/images/1b9685617fe699af1d0c9fac613eb045.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/1b9685617fe699af1d0c9fac613eb045)
 
-![]({{ site.url }}/assets/images/dbf8ac6deaa4dc02d4ccaa4d9f68296e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dbf8ac6deaa4dc02d4ccaa4d9f68296e)
 
-![]({{ site.url }}/assets/images/fd6ddb1aa0bbf318353fc5d95d4c30b8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/fd6ddb1aa0bbf318353fc5d95d4c30b8)
 
-![]({{ site.url }}/assets/images/c4f8d209e6aa4c39514952e3ab3e105a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c4f8d209e6aa4c39514952e3ab3e105a)
 
-![]({{ site.url }}/assets/images/b70c4d0668b7819b17b72432a02f86e5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b70c4d0668b7819b17b72432a02f86e5)
 
-![]({{ site.url }}/assets/images/6733a1a863cfb38826bb7000d3e4dde8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6733a1a863cfb38826bb7000d3e4dde8)
 
-![]({{ site.url }}/assets/images/973091e697413e0cf45662369363a1ec.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/973091e697413e0cf45662369363a1ec)
 
-![]({{ site.url }}/assets/images/97df725d8cefe0167ce9d02cc5e238c7.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/97df725d8cefe0167ce9d02cc5e238c7)
 
 带着女儿参加活动的晓明群友后来写道，“今天感受最深的还是接连收到路人的感谢，真正感觉到我们做的事情很有意义。小朋友回来说 “我们今天做了一件很大的事情”，积极表示以后还要参加[呲牙]”

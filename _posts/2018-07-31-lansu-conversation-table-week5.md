@@ -17,40 +17,40 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 从照片上可以看得出来现场的人流，淼莲介绍说，整个下午不停的有人进来，到4点了一直没法儿收摊儿。因为外面的停车时间最多两个小时，已经加了一次钱又超时了，加上快5点了要堵车了，最后没办法让孩子们把门关上才能有机会收拾东西。Fion以前从来没去过兰苏园，本来想结束后借机会逛逛，也因为担心5点下班后堵车太厉害，没逛成。
 
-![]({{ site.url }}/assets/images/e846a64f8e351a9c03738fde94af5cf3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e846a64f8e351a9c03738fde94af5cf3)
 
-![]({{ site.url }}/assets/images/378ebbd10633ac1f4cdb711f071a9c69.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/378ebbd10633ac1f4cdb711f071a9c69)
 
-![]({{ site.url }}/assets/images/34cbcede31e250da84b22e03aaa3dbf0.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/34cbcede31e250da84b22e03aaa3dbf0)
 
-![]({{ site.url }}/assets/images/f85de79b76ebc3b4d260f0810d379b11.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f85de79b76ebc3b4d260f0810d379b11)
 
-![]({{ site.url }}/assets/images/a2cc709149f242a97e1fc995a0bbfa03.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a2cc709149f242a97e1fc995a0bbfa03)
 
-![]({{ site.url }}/assets/images/223f8fe81e96c15c767a99855e6657aa.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/223f8fe81e96c15c767a99855e6657aa)
 
-![]({{ site.url }}/assets/images/0f7baa0b46eef2daaba8e0d5bacdb9b0.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0f7baa0b46eef2daaba8e0d5bacdb9b0)
 
-![]({{ site.url }}/assets/images/2c80c4bddaa0c4bddeac388f544806b3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2c80c4bddaa0c4bddeac388f544806b3)
 
-![]({{ site.url }}/assets/images/fb776e3b7416354ce60e4a183fdf0297.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/fb776e3b7416354ce60e4a183fdf0297)
 
-![]({{ site.url }}/assets/images/24a96c0c2e258bf1f4f20425b4d62e41.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/24a96c0c2e258bf1f4f20425b4d62e41)
 
-![]({{ site.url }}/assets/images/2c893ef97e6f654464faa3eeb00fab1c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2c893ef97e6f654464faa3eeb00fab1c)
 
-![]({{ site.url }}/assets/images/ca34b799fd0b044ebc9ef76c30f29632.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ca34b799fd0b044ebc9ef76c30f29632)
 
-![]({{ site.url }}/assets/images/46e9869794338f98af49b9d2d08d3e23.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/46e9869794338f98af49b9d2d08d3e23)
 
-![]({{ site.url }}/assets/images/05a62b5d5ea309242766817d1a4bba45.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/05a62b5d5ea309242766817d1a4bba45)
 
-![]({{ site.url }}/assets/images/b686c40b218c4664824a6f7e3c57e93f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b686c40b218c4664824a6f7e3c57e93f)
 
-![]({{ site.url }}/assets/images/aec58e23ba1b0125f1290e24896c312c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/aec58e23ba1b0125f1290e24896c312c)
 
-![]({{ site.url }}/assets/images/d0769bbc545024b54636dfde93ad095c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d0769bbc545024b54636dfde93ad095c)
 
-![]({{ site.url }}/assets/images/c8965ac91ed27d4488de8e74cdc42592.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c8965ac91ed27d4488de8e74cdc42592)
 
-![]({{ site.url }}/assets/images/2cb185217bed0a1d91672d19cd4bdba6.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2cb185217bed0a1d91672d19cd4bdba6)

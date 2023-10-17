@@ -5,7 +5,7 @@ excerpt: "离具有历史意义的中国城春节庆祝活动还有整整一个�
 date: "2018-02-12"
 ---
 
-![]({{ site.url }}/assets/images/7282a1052bd491a0cb6b5f5a17eb7ba5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7282a1052bd491a0cb6b5f5a17eb7ba5)
 
 离具有历史意义的中国城春节庆祝活动越来越近，所有的准备活动正在紧张的进行中，这里面包括了来自社区方方面面，看到忙碌的志愿者，热情的参加活动的团体和个人，让人真的感慨万千。让一个华人社区走到这一步，真心不易，这也说明了，表面看来“支离破碎”的社区，大家都还认同我们都是黄皮肤的华人，正因为如此，我们才更应该努力把这个社区建设成一个家，让每一个华人都有归属感，为做一个华人而感到骄傲。
 
@@ -58,23 +58,23 @@ date: "2018-02-12"
 
 好了，这花絮写的也是太长了一点。最后再次感谢所有参加这一“工程”的群友，包括台前幕后的！感谢Kitson和秉公堂的大力支持和同心合作。相信这条横幅向大家宣示，春天来了！
 
-![]({{ site.url }}/assets/images/8ada2503f84d5cffbdb1dd4a9490331a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8ada2503f84d5cffbdb1dd4a9490331a)
 
-![]({{ site.url }}/assets/images/d76405c172a1391fa4b3699a61f26bac.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d76405c172a1391fa4b3699a61f26bac)
 
-![]({{ site.url }}/assets/images/9214cdd9f8494ce5d778c237203747e3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9214cdd9f8494ce5d778c237203747e3)
 
-![]({{ site.url }}/assets/images/30354bc304ea64d5dc9124212e8e26e9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/30354bc304ea64d5dc9124212e8e26e9)
 
-![]({{ site.url }}/assets/images/58a6f28cca0c48f49608fe55c133eb15.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/58a6f28cca0c48f49608fe55c133eb15)
 
-![]({{ site.url }}/assets/images/e7205d7adbfcc4e014fe81407590ee0d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e7205d7adbfcc4e014fe81407590ee0d)
 
-![]({{ site.url }}/assets/images/8dddaa848818e660be6cd859a8851445.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8dddaa848818e660be6cd859a8851445)
 
-![]({{ site.url }}/assets/images/a0dcd3fec26636852c3f015530f48ce4.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a0dcd3fec26636852c3f015530f48ce4)
 
-![]({{ site.url }}/assets/images/16a7c7bd7e8206241440f0e994d8a85a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/16a7c7bd7e8206241440f0e994d8a85a)
 
 ### 大红灯笼高高挂
 
@@ -83,17 +83,17 @@ date: "2018-02-12"
 
 今天(2/13/2018)的中国城阳光明媚，相信在中国城的人们肯定注意到了什么，那就是沿街那些高悬的大红灯笼。一个月前我们的项导提出这个可能性的时候，我就觉得这是一个brilliant idea，但是真正体会到这些灯笼给中国城带来了什么，还是在今天。
 
-![]({{ site.url }}/assets/images/927a2f6996fc6d6893eedda57f375299.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/927a2f6996fc6d6893eedda57f375299)
 
-![]({{ site.url }}/assets/images/cbe5c84ca0087eba6d7f1f92c3713448.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/cbe5c84ca0087eba6d7f1f92c3713448)
 
-![]({{ site.url }}/assets/images/17689956af37ac4db4736e83eaf6ac78.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/17689956af37ac4db4736e83eaf6ac78)
 
-![]({{ site.url }}/assets/images/8ba7fb610839ea5a62e2ebb626022565.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8ba7fb610839ea5a62e2ebb626022565)
 
-![]({{ site.url }}/assets/images/2970da4f4d84e3e301fdc2cc3902163c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2970da4f4d84e3e301fdc2cc3902163c)
 
-![]({{ site.url }}/assets/images/ecb04d83aade3bf2172fa0a981f5be48.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ecb04d83aade3bf2172fa0a981f5be48)
 
 今天一早，许霓老师就被从睡梦中叫醒，开车到Tigard去取终于寄到的灯笼。我从许老师手里接过来沉甸甸的纸箱子，便马不停蹄开向中国城。中午时分，大家可能已经很熟悉的作为义工的陈曦再次来到中国城，和我回合，我们将一起把30个灯笼挂到灯柱子的上面。陈曦从来没有摆弄过灯笼，但是，不过几分钟就把一个灯笼组装好了。很快，在中国城牌楼下面，30个大红灯笼摆满了人行道。在这个过程中，路过的行人几乎都会停下来，告诉我们这些灯笼有多么的漂亮，我们做这件事有多么的棒。和他们打着招呼，虽然放慢了手中的活，但是，我们相互之间的交流是那么的愉快。在秉公堂楼下的Deli店店主特意走过马路，为中国城的过去感到唏嘘，为我们今天做的不惜各种词汇大加赞扬。临走扔下一句话，“你知道怎么找到我，如果你们有需要我的话”。
 
@@ -103,11 +103,11 @@ date: "2018-02-12"
 
 感谢陈曦[ThumbsUp][Rose][Rose] 感谢Neil[ThumbsUp][Rose][Rose]
 
-![]({{ site.url }}/assets/images/ae28e52b2086ab79b5f418410fc6994e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ae28e52b2086ab79b5f418410fc6994e)
 
-![]({{ site.url }}/assets/images/9c6338687b4728b6e547e1bc26305485.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9c6338687b4728b6e547e1bc26305485)
 
-![]({{ site.url }}/assets/images/61b66cde385f27e85a293d1aeccce1e3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/61b66cde385f27e85a293d1aeccce1e3)
 
 在20个灯柱子上装灯笼，需要先在灯柱子上装上钩子。这些钩子是跑到东边一家铁匠铺特意加工的。周六一天需要跑场，只好临时抓许霓老师，请他把钩子的基座部分喷上红漆，还有40多个固定钩子用的不锈钢圈。晚上到他家去取的时候，许老师说为了保证质量，他喷了4遍！
 
@@ -123,9 +123,9 @@ date: "2018-02-12"
 
 感谢项导[ThumbsUp][Rose][Rose] 感谢许老师[ThumbsUp][Rose][Rose]
 
-![]({{ site.url }}/assets/images/04ef05e2602a049a9fba9a959e25b10b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/04ef05e2602a049a9fba9a959e25b10b)
 
-![]({{ site.url }}/assets/images/2243de3b0d5ab17d2909429dd8ab788e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2243de3b0d5ab17d2909429dd8ab788e)
 
 最后不得不说一个小插曲，周日开车到了中国城，刚过了牌楼，就看见“彪哥”和他的伙伴在用高压水枪清洗秉公堂的前脸。如果我没有猜错的话，上一次清洗很可能是28年前的事了。墙体上的青苔显示着这座砖墙建筑的古老历史，也多少在向主人说，please wash me! 今天洗掉的不仅仅是青苔，也是历史的包袱。我希望，2/18活动中，老侨们打开的不仅仅是那一扇门，而是自己的内心，去真正拥抱春天的到来！
 

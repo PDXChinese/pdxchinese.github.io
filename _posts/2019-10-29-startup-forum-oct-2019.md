@@ -15,8 +15,8 @@ The chatting history for this WeChat group "PDX 华人社区公益一群" is sho
 
 感谢Kristy为我们大家分享了两个她非常喜欢并义务服务的网站： [https://www.mentoring.org/](https://www.mentoring.org/) and [https://www.masterclass.com](https://www.masterclass.com).
 
-![]({{ site.url }}/assets/images/839d1fd3dc00c56ca57fcded7899763f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/839d1fd3dc00c56ca57fcded7899763f)
 
-![]({{ site.url }}/assets/images/320d6de5ed47c3448fb19436726bccf5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/320d6de5ed47c3448fb19436726bccf5)
 
-![]({{ site.url }}/assets/images/7ec5b063088f86c1caa516352601a067.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7ec5b063088f86c1caa516352601a067)

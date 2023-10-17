@@ -15,12 +15,12 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 昨晚讲座过程中接触了一些群友，发掘出了更多的座谈会的话题。我想这些群友也是被这个座谈会的气氛感染了，尤其是看到大拿们纷纷慷慨分享。相信大家这种无我的精神会让我们作为一个群体乃至社区更加的凝聚，也会更加的强大。
 
-![]({{ site.url }}/assets/images/57a6ab351dd274a59ba16a4ce2e84145.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/57a6ab351dd274a59ba16a4ce2e84145)
 
-![]({{ site.url }}/assets/images/a6b01c97e063da8e09819b26dc5ff774.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a6b01c97e063da8e09819b26dc5ff774)
 
-![]({{ site.url }}/assets/images/dc0bff670d1e5c29a5d58789708fcaff.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dc0bff670d1e5c29a5d58789708fcaff)
 
-![]({{ site.url }}/assets/images/d53d05c20f5cfdcf5ea0ab27e188c918.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d53d05c20f5cfdcf5ea0ab27e188c918)
 
-![]({{ site.url }}/assets/images/a054bfcd12fbe12b6c43026ad1720cfa.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a054bfcd12fbe12b6c43026ad1720cfa)

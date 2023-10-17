@@ -2,46 +2,46 @@
 title: "Street Sweeping in Chinatown (06.30.2019)"
 ---
 
-![]({{ site.url }}/assets/images/4bd95611243ae35e35c68d85655116bd.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4bd95611243ae35e35c68d85655116bd)
 
-![]({{ site.url }}/assets/images/0c29ea08dbe4376e01dbc3f54694ba83.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0c29ea08dbe4376e01dbc3f54694ba83)
 
-![]({{ site.url }}/assets/images/8a1711865f2f3e48c4dd3762d4bfd540.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8a1711865f2f3e48c4dd3762d4bfd540)
 
-![]({{ site.url }}/assets/images/79060c7d729c1240c15aba8787908b12.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/79060c7d729c1240c15aba8787908b12)
 
-![]({{ site.url }}/assets/images/cb7b597a4cce3e436eb1e57356d994bd.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/cb7b597a4cce3e436eb1e57356d994bd)
 
-![]({{ site.url }}/assets/images/2918a2d42ca6df8ccdc7115621d6b8c2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2918a2d42ca6df8ccdc7115621d6b8c2)
 
-![]({{ site.url }}/assets/images/2b119cdf5771fb1d9fcf13f08c565817.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2b119cdf5771fb1d9fcf13f08c565817)
 
-![]({{ site.url }}/assets/images/c81bc9fd115677144ce653d3a492021a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c81bc9fd115677144ce653d3a492021a)
 
-![]({{ site.url }}/assets/images/bc2011f9c44f0eabb099e1373a4c956c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/bc2011f9c44f0eabb099e1373a4c956c)
 
-![]({{ site.url }}/assets/images/0c0c71c453ab2e48ac99f355d62e0ad3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0c0c71c453ab2e48ac99f355d62e0ad3)
 
-![]({{ site.url }}/assets/images/09e5b045dcdb1a73052d4d92a93c0a38.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/09e5b045dcdb1a73052d4d92a93c0a38)
 
-![]({{ site.url }}/assets/images/4ec0cc4845763a07d024ebe3cac4639a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4ec0cc4845763a07d024ebe3cac4639a)
 
-![]({{ site.url }}/assets/images/7ad8e0c68dfd3788deb77e8b1265346a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7ad8e0c68dfd3788deb77e8b1265346a)
 
-![]({{ site.url }}/assets/images/45849d54776cfd5e511659625393a7c9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/45849d54776cfd5e511659625393a7c9)
 
-![]({{ site.url }}/assets/images/634855cb9f0804e36eaa7669f8552ccc.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/634855cb9f0804e36eaa7669f8552ccc)
 
-![]({{ site.url }}/assets/images/6bc6b34f700e801808596637cefddb1a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6bc6b34f700e801808596637cefddb1a)
 
-![]({{ site.url }}/assets/images/09e5b045dcdb1a73052d4d92a93c0a38.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/09e5b045dcdb1a73052d4d92a93c0a38)
 
-![]({{ site.url }}/assets/images/4ec0cc4845763a07d024ebe3cac4639a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4ec0cc4845763a07d024ebe3cac4639a)
 
-![]({{ site.url }}/assets/images/7ad8e0c68dfd3788deb77e8b1265346a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7ad8e0c68dfd3788deb77e8b1265346a)
 
-![]({{ site.url }}/assets/images/45849d54776cfd5e511659625393a7c9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/45849d54776cfd5e511659625393a7c9)
 
-![]({{ site.url }}/assets/images/6bc6b34f700e801808596637cefddb1a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6bc6b34f700e801808596637cefddb1a)
 
-![]({{ site.url }}/assets/images/b6a4fdc011a8cd743a9b2f080a966d42.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b6a4fdc011a8cd743a9b2f080a966d42)

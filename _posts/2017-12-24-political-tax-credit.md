@@ -19,7 +19,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  13:10
 
-![]({{ site.url }}/assets/images/ca41b19f430987e06c0c3ee58d45de20.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ca41b19f430987e06c0c3ee58d45de20)
 
 西北兆  13:15
 

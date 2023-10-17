@@ -11,7 +11,7 @@ The chatting history for this WeChat group "PDX 华人社区公益一群" is sho
 
 宣传工作要先行，今天已经把我们的第三个poster安装上去了。这次讲的是大红灯笼的故事。在前后一个小时的时间，看到有人驻足读前两个posters，还有几个人和我打招呼，大赞我们做的这件事，不仅仅是有助于改变周边环境，更主要的是让人们有机会了解中国城，我们华人，无论是在这里生活几十年的老一代人，还是我们新一代移民。信息如此available，如此图文并茂，如此具有针对性，我想旁边的Chinatown Museum都会"嫉妒"的。我们还在争取在春节前把所有的窗户都能装上posters，真真正正成为一个公益橱窗。
 
-![]({{ site.url }}/assets/images/8f364457f0cf02a6bf600ab139654315.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8f364457f0cf02a6bf600ab139654315)
 
 —————  2020-01-09  —————
 
@@ -19,21 +19,21 @@ The chatting history for this WeChat group "PDX 华人社区公益一群" is sho
 
 非常的感谢今天参加装灯笼的几位群友，有老义工有新义工，因为工作量比较大，老张都没来得及拍照，而是来了就直接动起手来。我也是到了最后才想起来拍照。看到大家手里的小灯笼了吧？那些是老侨过去中国城活动时候用过的，现在传给了我们，这次派上了用场。
 
-![]({{ site.url }}/assets/images/baf6465bb6e9d633397c880014fa8d86.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/baf6465bb6e9d633397c880014fa8d86)
 
-![]({{ site.url }}/assets/images/5a0a10da1d646eb9312dab06922c1307.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5a0a10da1d646eb9312dab06922c1307)
 
 看到大家是不是had a lot of fun？似乎都回到了自己的童年。
 
-![]({{ site.url }}/assets/images/4aca80d994b23eee27c4b54bff77dad1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4aca80d994b23eee27c4b54bff77dad1)
 
 大家装好了灯笼，宁布大哥的皮卡很给力，直接拉着这些灯笼在中国城转起了圈子。当时真怕一股风过来，那可真的是要满地春色了。
 
-![]({{ site.url }}/assets/images/54f46da01b3b32d8b3a580968d20ccff.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/54f46da01b3b32d8b3a580968d20ccff)
 
-![]({{ site.url }}/assets/images/3199040dcce28796ddc08859df7a80ac.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3199040dcce28796ddc08859df7a80ac)
 
-![]({{ site.url }}/assets/images/4468f394e688bdc2ce550d859ec94785.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4468f394e688bdc2ce550d859ec94785)
 
 我们决定把18个小灯笼全部挂在协胜和Wong Laundry的逃生铁梯子上，这条街一下子显得生机勃勃，有了浓浓春节的气氛。看着这景色，恍然是当年的中国城又回来了。
 
@@ -41,15 +41,15 @@ The chatting history for this WeChat group "PDX 华人社区公益一群" is sho
 
 💗Eliza 陈曦  17:24
 
-![]({{ site.url }}/assets/images/eae95c07b4c2b0993391295e041ea68f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/eae95c07b4c2b0993391295e041ea68f)
 
 💗Eliza 陈曦  17:24
 
-![]({{ site.url }}/assets/images/d336ea45a99dbfab632db18432046b74.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d336ea45a99dbfab632db18432046b74)
 
 💗Eliza 陈曦  17:24
 
-![]({{ site.url }}/assets/images/0f5d090f1588f0b98fb341806525a36e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0f5d090f1588f0b98fb341806525a36e)
 
 西北兆  17:30
 

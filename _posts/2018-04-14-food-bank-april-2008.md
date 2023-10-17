@@ -19,16 +19,16 @@ Nancy  15:54
 
 Nancy  15:54
 
-![]({{ site.url }}/assets/images/b15957a4f4f0c293ec5a3d0b083ea031.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b15957a4f4f0c293ec5a3d0b083ea031)
 
-![]({{ site.url }}/assets/images/592080df44a2cce79755ca19444d6ac4.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/592080df44a2cce79755ca19444d6ac4)
 
-![]({{ site.url }}/assets/images/60484be3d05093d2c33688257223aeb2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/60484be3d05093d2c33688257223aeb2)
 
-![]({{ site.url }}/assets/images/406deaeb2f150db034e2cecb879df7ef.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/406deaeb2f150db034e2cecb879df7ef)
 
-![]({{ site.url }}/assets/images/8b29a4e0d705ce7d01458e526770ca2c.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8b29a4e0d705ce7d01458e526770ca2c.jpg)
 
-![]({{ site.url }}/assets/images/58974e5eb69faba17586443a23a91da5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/58974e5eb69faba17586443a23a91da5)
 
-![]({{ site.url }}/assets/images/243c1f9b63ce078d5401a4e6018f476e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/243c1f9b63ce078d5401a4e6018f476e)

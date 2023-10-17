@@ -10,39 +10,39 @@ The chatting history for this WeChat group "兰苏园汉语角志愿者" is show
 —————  2019-04-21  —————
 
 
-![]({{ site.url }}/assets/images/d96c410da523824c68961da9e94b630c.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d96c410da523824c68961da9e94b630c.jpg)
 
-![]({{ site.url }}/assets/images/d945298d30428db5e5f92eacae2f5aa7.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d945298d30428db5e5f92eacae2f5aa7)
 
-![]({{ site.url }}/assets/images/cfd6209d14733cd51cd20232322d2377.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/cfd6209d14733cd51cd20232322d2377)
 
-![]({{ site.url }}/assets/images/29885106688ad20919f3321403499828.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/29885106688ad20919f3321403499828.jpg)
 
 xiaojian  18:04
 
 今天在兰苏园做义工，我们一共去了三个家庭，三个大人，五个孩子。天气晴朗，兰苏园里花繁叶茂，游人如织，一直到3:40仍然有一些游客流连忘返，积极参与我们的活动
 
-![]({{ site.url }}/assets/images/063be3dd26397d0f10d35ce57d924c02.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/063be3dd26397d0f10d35ce57d924c02)
 
-![]({{ site.url }}/assets/images/3ff069a65712fe9ec8529f43ab3f0aa6.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3ff069a65712fe9ec8529f43ab3f0aa6)
 
-![]({{ site.url }}/assets/images/cd2ad3d771da4e6e968ce43295b4e7be.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/cd2ad3d771da4e6e968ce43295b4e7be)
 
-![]({{ site.url }}/assets/images/28c6a7bf9d33f34b621e3e30a5b5847d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/28c6a7bf9d33f34b621e3e30a5b5847d)
 
-![]({{ site.url }}/assets/images/b6af3da5ee13a88f98f4cc19694af053.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b6af3da5ee13a88f98f4cc19694af053)
 
-![]({{ site.url }}/assets/images/a644c9770110410fc561c33c80053910.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a644c9770110410fc561c33c80053910)
 
-![]({{ site.url }}/assets/images/ee00efe9e4c50b08c65f58ad8e4165de.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ee00efe9e4c50b08c65f58ad8e4165de)
 
-![]({{ site.url }}/assets/images/beadc83ca94b7fe53628b09ca833f04e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/beadc83ca94b7fe53628b09ca833f04e)
 
-![]({{ site.url }}/assets/images/9ffd4b6e1ff0a5bc26c79a2e60547616.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9ffd4b6e1ff0a5bc26c79a2e60547616)
 
-![]({{ site.url }}/assets/images/20bfe6f5962f431633a04d65a1ea7fb2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/20bfe6f5962f431633a04d65a1ea7fb2)
 
-![]({{ site.url }}/assets/images/ac85ab9f1e8ca8c1a0c8a848df8ea01f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ac85ab9f1e8ca8c1a0c8a848df8ea01f)
 
 西北兆  18:35
 

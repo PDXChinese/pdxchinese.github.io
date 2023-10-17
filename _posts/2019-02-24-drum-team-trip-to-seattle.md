@@ -25,8 +25,8 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 今天打鼓队队员是第一次拜师学艺，由艾力克开车，拉着满满一车的群友专程北上西雅图。这将开启波特兰华人打鼓新的篇章。我们的意图很简单，那就是要让我们的青少年们有机会在打鼓活动中获得一股子力量，让他们的青少年时代也有血脉喷张的经历。我们的目标是希望所有青少年都有机会得到锻炼。目前OCC正在筹划购置大鼓并寻找平时活动场地（连带储存打鼓）。对此项活动有兴趣的青少年，对有能力支持购置大鼓，能提供活动场地的群友，或者对此项活动有任何建议的，都请与我们联系。
 
-![]({{ site.url }}/assets/images/2affdac6e2ee11f905547a10f590c4fe.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2affdac6e2ee11f905547a10f590c4fe)
 
-![]({{ site.url }}/assets/images/f091c5a3fd286c443f35e51e35a0a360.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f091c5a3fd286c443f35e51e35a0a360)
 
 为专程前往西雅图拜师学艺的勇士们点赞[强][玫瑰][玫瑰]

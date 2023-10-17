@@ -24,58 +24,58 @@ Camp Mead Meadowood Springs是给 communication challenge 孩子们的Camp，是
 
 本来大规模的义工活动只是一年一次，但今年因为Camp的厨房要改造刷漆，所以Labor Day long weekend会加一次。这次因为学期末许多孩子们要考试非常忙无法加入，Labor Day是他们开学前最后放松的机会。但是因为位置有限，会挑人，有艺术才能画画好的孩子们优先。想加入的email Let’s Peer Up或者找我报名。我们可能过几个星期才有机会处理Labor Day的事，联系我们的请耐心等待回复。🙏
 
-![]({{ site.url }}/assets/images/db228536c221b9747f9367ad5c57362a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/db228536c221b9747f9367ad5c57362a)
 
-![]({{ site.url }}/assets/images/5b4b459ae793dd35189ae2c6c6084f08.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5b4b459ae793dd35189ae2c6c6084f08)
 
-![]({{ site.url }}/assets/images/9108d9162c06b3bd73a39011806a9f85.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9108d9162c06b3bd73a39011806a9f85)
 
-![]({{ site.url }}/assets/images/873ede8e33171da6cc145ad8f1bc8e66.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/873ede8e33171da6cc145ad8f1bc8e66)
 
-![]({{ site.url }}/assets/images/72f8df66213bca3b7f5c0d0f39a04066.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/72f8df66213bca3b7f5c0d0f39a04066)
 
-![]({{ site.url }}/assets/images/0ec347a1c23f79dc87b61462f61afa06.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0ec347a1c23f79dc87b61462f61afa06)
 
-![]({{ site.url }}/assets/images/1f19098e475bdc455496270afc309955.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/1f19098e475bdc455496270afc309955)
 
-![]({{ site.url }}/assets/images/348cc56fe29c24dba1521e8008245353.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/348cc56fe29c24dba1521e8008245353)
 
-![]({{ site.url }}/assets/images/50ba28da94951e716232ce496f7c6320.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/50ba28da94951e716232ce496f7c6320)
 
-![]({{ site.url }}/assets/images/9baead05723364401dd6726a8cadf692.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9baead05723364401dd6726a8cadf692)
 
-![]({{ site.url }}/assets/images/9310d1fdcf92686cddf511a80b030c51.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9310d1fdcf92686cddf511a80b030c51)
 
-![]({{ site.url }}/assets/images/ad982d87ba45f69ffbc8c199bb34bccc.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ad982d87ba45f69ffbc8c199bb34bccc)
 
-![]({{ site.url }}/assets/images/a03ef5a3f664ebef6ea450f941888fb9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a03ef5a3f664ebef6ea450f941888fb9)
 
-![]({{ site.url }}/assets/images/a29ac3decac510b9a463fa1e58e9d3c0.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a29ac3decac510b9a463fa1e58e9d3c0)
 
-![]({{ site.url }}/assets/images/cf1a33336f01dda26b37c839b715be39.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/cf1a33336f01dda26b37c839b715be39)
 
-![]({{ site.url }}/assets/images/a310ea7d2cbb78563f265ed2a432e504.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a310ea7d2cbb78563f265ed2a432e504)
 
-![]({{ site.url }}/assets/images/194ba6c95676f007f552177dd1f5576a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/194ba6c95676f007f552177dd1f5576a)
 
-![]({{ site.url }}/assets/images/2bcc1427866575fb1966dcc69f130882.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2bcc1427866575fb1966dcc69f130882)
 
-![]({{ site.url }}/assets/images/758b288055fb877378b2ff51164a8e91.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/758b288055fb877378b2ff51164a8e91)
 
-![]({{ site.url }}/assets/images/c4d0c818a183178c64855e1ae8f16784.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c4d0c818a183178c64855e1ae8f16784)
 
-![]({{ site.url }}/assets/images/60564040c9103e567b7fcdd05ffc5159.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/60564040c9103e567b7fcdd05ffc5159)
 
-![]({{ site.url }}/assets/images/8aac1c3926273ad91649b4bc0fba3760.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8aac1c3926273ad91649b4bc0fba3760)
 
-![]({{ site.url }}/assets/images/78abdb149901d8921b972b7fda073fce.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/78abdb149901d8921b972b7fda073fce)
 
-![]({{ site.url }}/assets/images/9f8de96a7468ccba1123639f67c01592.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9f8de96a7468ccba1123639f67c01592)
 
-![]({{ site.url }}/assets/images/d257b7942c7149616df5abe1cec614f7.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d257b7942c7149616df5abe1cec614f7)
 
-![]({{ site.url }}/assets/images/9d242d8935508a17fdfc9c6685152815.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9d242d8935508a17fdfc9c6685152815)
 
-![]({{ site.url }}/assets/images/7029d8020b0e87177669b0a194f204f1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7029d8020b0e87177669b0a194f204f1)
 
-![]({{ site.url }}/assets/images/1a445465eb9ef3e4472637683d3e9437.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/1a445465eb9ef3e4472637683d3e9437)

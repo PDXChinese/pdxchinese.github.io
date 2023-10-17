@@ -20,8 +20,8 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 大家也对能不断邀请到如此高水准的演讲嘉宾表示感谢，我个人也是觉得找人找话题如同挖矿，越来越具挑战性，但是乐在其中，希望能得到大家跟多的推荐，包括毛遂自荐。
 
-![]({{ site.url }}/assets/images/e41177d824750889f8b9717be6cc34c2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e41177d824750889f8b9717be6cc34c2)
 
-![]({{ site.url }}/assets/images/f6820fb6152e7bbb303c0f972748c041.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f6820fb6152e7bbb303c0f972748c041)
 
-![]({{ site.url }}/assets/images/43fa9e7958507cae0cedea92bff2d39b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/43fa9e7958507cae0cedea92bff2d39b)

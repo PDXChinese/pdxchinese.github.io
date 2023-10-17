@@ -6,22 +6,22 @@ date: "2020-10-07"
 ---
 一条极具Oregon特色的小路迎来了社区的一群人，他们是参加THPRD组织的Welcoming Walk。这是一个全国性的活动，却是我们社区第一次参加。这让我想起刚去一个陌生的地方，当地人热情相邀，但你却婉拒了人家的好意，想想看以后这关系处起来是不是就会比较吃力，路上打招呼也会不那么的自然。如果是欣然接受，欢声笑语一番，彼此还是彼此，但是人家不会再当你为陌生人，自己也很快有了归属感。实际上，生活中是如此，移民到一个新的国度也是同样的道理。THPRD的这个活动就是给了我们这么一个印象，走了一小段路，彼此似乎成了至交，今天THPRD主动提供2500美元，邀请我们未来半年内在他们管辖内的任何一个地方举办活动。这不就是所谓的“你敬我一尺，我敬你一丈”吗。
 
-![]({{ site.url }}/assets/images/welcomingwalk2020a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/welcomingwalk2020a)
 
-![]({{ site.url }}/assets/images/welcomingwalk2020b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/welcomingwalk2020b)
 
-![]({{ site.url }}/assets/images/welcomingwalk2020c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/welcomingwalk2020c)
 
-![]({{ site.url }}/assets/images/welcomingwalk2020d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/welcomingwalk2020d)
 
-![]({{ site.url }}/assets/images/welcomingwalk2020e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/welcomingwalk2020e)
 
-![]({{ site.url }}/assets/images/welcomingwalk2020f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/welcomingwalk2020f)
 
-![]({{ site.url }}/assets/images/welcomingwalk2020g.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/welcomingwalk2020g)
 
-![]({{ site.url }}/assets/images/welcomingwalk2020h.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/welcomingwalk2020h)
 
-![]({{ site.url }}/assets/images/welcomingwalk2020i.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/welcomingwalk2020i)
 
-![]({{ site.url }}/assets/images/welcomingwalk2020j.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/welcomingwalk2020j)

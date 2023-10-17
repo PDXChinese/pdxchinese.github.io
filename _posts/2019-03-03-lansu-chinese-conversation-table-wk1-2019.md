@@ -67,7 +67,7 @@ Baifei Zeng  21:17
 
 Baifei Zeng  21:23
 
-![]({{ site.url }}/assets/images/c712388f6e780d2570a024e25c6af0c3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c712388f6e780d2570a024e25c6af0c3)
 
 Liwen张丽文  21:24
 
@@ -79,19 +79,19 @@ Liwen张丽文  21:24
 
 Baifei Zeng  21:25
 
-![]({{ site.url }}/assets/images/c1bf389a714ed99d044570e39bbf8fdf.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c1bf389a714ed99d044570e39bbf8fdf)
 
 Baifei Zeng  21:25
 
-![]({{ site.url }}/assets/images/ee7e0e2f49b70cf488a3fc7a1b272d94.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ee7e0e2f49b70cf488a3fc7a1b272d94)
 
 Baifei Zeng  21:25
 
-![]({{ site.url }}/assets/images/079e77dfda4d74a6420971d9b85071c9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/079e77dfda4d74a6420971d9b85071c9)
 
 Baifei Zeng  21:25
 
-![]({{ site.url }}/assets/images/8324efc4306d9b692760a4a87217e00a.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8324efc4306d9b692760a4a87217e00a.jpg)
 
 Baifei Zeng  21:29
 

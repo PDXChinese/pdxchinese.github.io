@@ -72,8 +72,8 @@ Your name will help extend the list 👍
 
 See us in action: hanging lanterns in Chinatown during [2018 Chinese New Year](http://pdxchinese.org/chinatown/newyear/2018-02-13-red_lanterns_in_chinatown_2018/) and [2019 Chinese New Year](http://pdxchinese.org/chinatown/newyear/2019-01-20-red_lanterns_in_chinatown_2019/)
 
-![]({{ site.url }}/assets/images/6b82f5b0faf5734a3d914fcaf2036443.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6b82f5b0faf5734a3d914fcaf2036443)
 
-![]({{ site.url }}/assets/images/133fd5e3dabbe762a4609895d83ee3c7.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/133fd5e3dabbe762a4609895d83ee3c7.jpg)
 
 ![]({{ site.url }}/assets/images/chinatown/7019ab2c5c44afa526f51c6f473e725d.jpg)

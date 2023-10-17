@@ -66,24 +66,24 @@ Meirong  17:23
 
 照片中一位老先生年轻时在耶鲁大学学习过中文。他是兰苏园的会员，听到有这个汉语角，很兴奋。特意过来参加。他说很久不用中文，很多都忘了。今天和骆老师聊得就像是相识多年的老朋友。
 
-![]({{ site.url }}/assets/images/ef49daf16be854ee5a2d1d000bb536ab.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ef49daf16be854ee5a2d1d000bb536ab)
 
-![]({{ site.url }}/assets/images/09448095eb40935e2ea48c57441c0d31.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/09448095eb40935e2ea48c57441c0d31)
 
-![]({{ site.url }}/assets/images/bd8325d1ca09b168c0510f3f5c7817a6.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/bd8325d1ca09b168c0510f3f5c7817a6)
 
-![]({{ site.url }}/assets/images/9ed0e59ab92c7422a59df01cab7e6a28.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9ed0e59ab92c7422a59df01cab7e6a28)
 
-![]({{ site.url }}/assets/images/9b6f6ac01c4d70e10461c3d69b35c6ea.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9b6f6ac01c4d70e10461c3d69b35c6ea)
 
-![]({{ site.url }}/assets/images/a7b11b6e721122b680ac5cc2e496e4ec.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a7b11b6e721122b680ac5cc2e496e4ec)
 
-![]({{ site.url }}/assets/images/33ecac3198d3a70500c55d8c468aa134.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/33ecac3198d3a70500c55d8c468aa134)
 
-![]({{ site.url }}/assets/images/9b48871ae34504ad8c82ea4668cecf77.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9b48871ae34504ad8c82ea4668cecf77)
 
-![]({{ site.url }}/assets/images/dedc3df39e21cbdba637c5755d0a4b5c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dedc3df39e21cbdba637c5755d0a4b5c)
 
-![]({{ site.url }}/assets/images/b2df5702c3751125d8e0c017225439e0.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b2df5702c3751125d8e0c017225439e0)
 
-![]({{ site.url }}/assets/images/6f28115e1357ca58add9ff3ee90e0b16.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6f28115e1357ca58add9ff3ee90e0b16)

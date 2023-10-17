@@ -27,6 +27,6 @@ Half of the events we support for lunar new year celebration are at schools. Tod
 
 ![]({{ site.url }}/assets/images/325932671_504747941800947_4915525851583184872_n.jpg)
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 <iframe width="1214" height="683" src="https://www.youtube.com/embed/7YG6jgE5A7A" title="Playing Drums with Students at International School of Portland" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -19,21 +19,21 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 我跟韩伯伯和伯母说，我们肯定会常来的，也会带更多的孩子们过来，等他们再做6年后，我自己就会直接搬过来了[OK]
 
-![]({{ site.url }}/assets/images/56b60e23423bd56c667af3324768110e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/56b60e23423bd56c667af3324768110e)
 
-![]({{ site.url }}/assets/images/57f32c17aa44c992fff248a12d7df269.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/57f32c17aa44c992fff248a12d7df269)
 
-![]({{ site.url }}/assets/images/9e67f2a352a459006449edd823514d9a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9e67f2a352a459006449edd823514d9a)
 
-![]({{ site.url }}/assets/images/745a14c5d34a93010c1bb8c356b2356f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/745a14c5d34a93010c1bb8c356b2356f)
 
-![]({{ site.url }}/assets/images/35566974c2f88218c4959950e39540c2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/35566974c2f88218c4959950e39540c2)
 
 The chatting history for this WeChat group "PDX 义工群" is shown below.
 
 —————  2018-12-08  —————
 
-![]({{ site.url }}/assets/images/db0cfc5d795c8e7425ac6dc1956dd428b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/db0cfc5d795c8e7425ac6dc1956dd428b)
 
 The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is shown below.
 
@@ -41,12 +41,12 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 今天慈济在Gresham Rehab and Specialty Service的活动，他们每个月基本每个周末都固定在几个地方做义工。
 
-![]({{ site.url }}/assets/images/0337abc34a762fd93d7b3e28ce47bb3d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0337abc34a762fd93d7b3e28ce47bb3d)
 
-![]({{ site.url }}/assets/images/e9efc688068f80fec16dc280c6fff5fa.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e9efc688068f80fec16dc280c6fff5fa)
 
-![]({{ site.url }}/assets/images/5e1b54523029d481a4959f1c21e8fca0.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5e1b54523029d481a4959f1c21e8fca0)
 
-![]({{ site.url }}/assets/images/1b6939a64f22401ead9159470bc57705.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/1b6939a64f22401ead9159470bc57705)
 
-![]({{ site.url }}/assets/images/f2a7ca0f72d2adf50b6a2b24c38a58fc.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f2a7ca0f72d2adf50b6a2b24c38a58fc)

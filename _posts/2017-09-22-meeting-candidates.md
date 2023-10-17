@@ -15,17 +15,17 @@ date: "2017-09-23"
 
 与此同时，部分热心群友自发通过微信平台组织起了《Silicon Forest 华人参政议政群》，群友们对时政表现出了极大的热情，对许多敏感的议题所做的理智讨论让参加讨论的每一个人都有收获。在去年大选期间，Eric和Kent挑起并组织的与当地候选人的三次见面会给大家留下了深刻印象，也积累了经验。
 
-![]({{ site.url }}/assets/images/ed7a64a64b50da13f77e9f5348237a07.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ed7a64a64b50da13f77e9f5348237a07)
 
-![]({{ site.url }}/assets/images/e887c456e4d36c0c1032153aab8549bf.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e887c456e4d36c0c1032153aab8549bf)
 
-![]({{ site.url }}/assets/images/546085bd9b51ddaba4b027e3589e52f1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/546085bd9b51ddaba4b027e3589e52f1)
 
-![]({{ site.url }}/assets/images/792ab1b504a9a7181390d1b989027614.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/792ab1b504a9a7181390d1b989027614)
 
-![]({{ site.url }}/assets/images/7b5f4fc9cf5186f5e0b92480c6637b98.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7b5f4fc9cf5186f5e0b92480c6637b98)
 
-![]({{ site.url }}/assets/images/f377d525b711136d3c3fe500ce5ee3bb.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f377d525b711136d3c3fe500ce5ee3bb)
 
 上面的图片记录了昨晚碰头会的盛况，大家注意到了照片中有两位外籍客人。两个星期前，我人还在国内的时候，收到拉丁裔社区领袖Maria Garcia的来信，告诉我她要竞选Multnomah County Commissioner。一个候选人主动reached out to us，在我自己的记忆中还是头一次。当然，这也不是偶然的，如果大家还记得的话，在这个群里我曾经介绍过我参加过的几次活动，这位女士都在其中。实际上，与她认识还是通过Teressa，过去一年她们两位为两个社区的融合做了大量的工作。
 
@@ -37,14 +37,14 @@ date: "2017-09-23"
 
 今天晚上（严格说来应该是昨天晚上了）我们几位群友邀请已经宣布竞选波特兰city commissioner的Ms. Williams过来介绍她的竞选平台。交流了两个小时，应该说，整个过程非常的愉快。Felicia愿意特意赶过来，也是看中了我们作为一个社区开始显示出来的力量。我们从竞选人开始交流，说明我们也在进步中。需要学习的地方还很多。只要我们愿意花时间去学习，我们会走到那一步的[OK]
 
-![]({{ site.url }}/assets/images/8fe92217c713f1ff1e856a97aa1b415e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8fe92217c713f1ff1e856a97aa1b415e)
 
-![]({{ site.url }}/assets/images/e126737a1174e0f91e4bb90ca50e5743.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e126737a1174e0f91e4bb90ca50e5743)
 
-![]({{ site.url }}/assets/images/befa77a65f2102fc7db0a9546178a3b1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/befa77a65f2102fc7db0a9546178a3b1)
 
-![]({{ site.url }}/assets/images/42cf860f857417a0f4bc97798b56f6ac.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/42cf860f857417a0f4bc97798b56f6ac)
 
-![]({{ site.url }}/assets/images/5e4e260337102dbf3aa4c236e88a205d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5e4e260337102dbf3aa4c236e88a205d)
 
 在交流过程中，我们刻意强调了我们在中国城问题上的观点和诉求，Felicia在黑人社区遭受驱赶的历史有很好的了解和认识，基于此，我们相信她对同样被marginalized的华人社区，她的感受应该不会有太大的出入。

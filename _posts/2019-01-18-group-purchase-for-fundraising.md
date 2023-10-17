@@ -23,36 +23,36 @@ The chatting history for this WeChat group "PDX 🦀️...." is shown b
 
 Bokkie  19:06
 
-![]({{ site.url }}/assets/images/827553c57b5cc2feabd52bc709eab410.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/827553c57b5cc2feabd52bc709eab410)
 
 Bokkie  19:06
 
-![]({{ site.url }}/assets/images/f377d0c60ca87f79f182b9c98483aa55.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f377d0c60ca87f79f182b9c98483aa55)
 
 丛迅  19:45
 
-![]({{ site.url }}/assets/images/f7f0ee24c65feba7df8b48033f123372.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f7f0ee24c65feba7df8b48033f123372)
 
 丛迅  19:45
 
-![]({{ site.url }}/assets/images/e588693b269c438e4263ed3872031946.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e588693b269c438e4263ed3872031946)
 
 六弦  20:43
 
-![]({{ site.url }}/assets/images/464337d2f963108d260ea654045ca02c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/464337d2f963108d260ea654045ca02c)
 
 六弦  20:43
 
-![]({{ site.url }}/assets/images/1d2287453d9c1140c357b6ba02133061.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/1d2287453d9c1140c357b6ba02133061)
 
 九君  20:46
 
-![]({{ site.url }}/assets/images/2418228ee03cac1fe9716388005be91a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2418228ee03cac1fe9716388005be91a)
 
 Yongtian Zhang  20:53
 
-![]({{ site.url }}/assets/images/60f4e7c165466012db8f62978d894a5c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/60f4e7c165466012db8f62978d894a5c)
 
 六弦  21:06
 
-![]({{ site.url }}/assets/images/e695082319d373ea353fa2e0b14d3c7f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e695082319d373ea353fa2e0b14d3c7f)

@@ -18,18 +18,18 @@ Shirley介绍了她对利用那块教会地产办学的想法，张昊谈了他�
 
 座谈会帮助我们大家开拓眼界是一方面，networking又是一方面，昨天就有一位群友是专门做IP法的，这都是资源啊。实际上座谈会会下也发生了很多故事，一对一的对接已经发生了很多次。
 
-![]({{ site.url }}/assets/images/139f03de3003fedaee63a3678432cc10.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/139f03de3003fedaee63a3678432cc10)
 
-![]({{ site.url }}/assets/images/f7be382378254416ca8e5f54511a2761.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f7be382378254416ca8e5f54511a2761)
 
-![]({{ site.url }}/assets/images/1799b008d30695a64b877fab420e34c8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/1799b008d30695a64b877fab420e34c8)
 
-![]({{ site.url }}/assets/images/69c3732f9b6cbea27f00f0902b79500c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/69c3732f9b6cbea27f00f0902b79500c)
 
-![]({{ site.url }}/assets/images/090ea14649b93ac020dd63fdbe6d0ea0.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/090ea14649b93ac020dd63fdbe6d0ea0)
 
-![]({{ site.url }}/assets/images/e0c78b98ded47d996dd690a0136cfb94.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e0c78b98ded47d996dd690a0136cfb94)
 
-![]({{ site.url }}/assets/images/d1bd0317559978d9f96818c9a339fd6c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d1bd0317559978d9f96818c9a339fd6c)
 
-![]({{ site.url }}/assets/images/50a03e958f2fe978bafeb3fe2cb98d69.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/50a03e958f2fe978bafeb3fe2cb98d69)

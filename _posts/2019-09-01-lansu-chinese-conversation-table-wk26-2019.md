@@ -19,24 +19,24 @@ Jennifer 筱坚  17:13
 
 @Meirong 很高兴今天与你们全家渡过一个愉快的下午。你女儿的古筝还是最吸引人的，很多人都这有别于其他乐器的声音迷住了，很棒[ThumbsUp][ThumbsUp][ThumbsUp]
 
-![]({{ site.url }}/assets/images/b838b273906070887ba8b685d81576d9.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b838b273906070887ba8b685d81576d9.jpg)
 
-![]({{ site.url }}/assets/images/79361b9d36463c1ac04ed0449103f094.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/79361b9d36463c1ac04ed0449103f094)
 
-![]({{ site.url }}/assets/images/600021145f3f508914ca68d2c3e10971.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/600021145f3f508914ca68d2c3e10971)
 
-![]({{ site.url }}/assets/images/a8802e5effbc28d99508488a9f930a3b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a8802e5effbc28d99508488a9f930a3b)
 
-![]({{ site.url }}/assets/images/54af90055c36aa9a49f3e0cc068de064.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/54af90055c36aa9a49f3e0cc068de064)
 
-![]({{ site.url }}/assets/images/4cab013a5d4682a731f24a5e9e1998e5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4cab013a5d4682a731f24a5e9e1998e5)
 
-![]({{ site.url }}/assets/images/fbc77162770e4e2f448083cd7e66dbba.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/fbc77162770e4e2f448083cd7e66dbba)
 
-![]({{ site.url }}/assets/images/65c38e1966ee896debf575fd2ffe8264.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/65c38e1966ee896debf575fd2ffe8264)
 
-![]({{ site.url }}/assets/images/2bc167cdc436d29db67e8204d9cf698e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2bc167cdc436d29db67e8204d9cf698e)
 
-![]({{ site.url }}/assets/images/24c9d437cb0984f4565199a31a4f7133.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/24c9d437cb0984f4565199a31a4f7133)
 
-![]({{ site.url }}/assets/images/014a28f93ef336101b8a68df028f349d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/014a28f93ef336101b8a68df028f349d)

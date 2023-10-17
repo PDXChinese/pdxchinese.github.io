@@ -16,7 +16,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  20:19
 
-![]({{ site.url }}/assets/images/33b585e6dbe675a20e0b41b1f2267961.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/33b585e6dbe675a20e0b41b1f2267961)
 
 西北兆  20:23
 
@@ -24,55 +24,55 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  20:25
 
-![]({{ site.url }}/assets/images/0cff8e5d06ba1a1ea15bc1b18afdf042.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0cff8e5d06ba1a1ea15bc1b18afdf042)
 
 西北兆  20:26
 
-![]({{ site.url }}/assets/images/d573a9e372ed411c7d0ff95130fcc8be.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d573a9e372ed411c7d0ff95130fcc8be)
 
 西北兆  20:28
 
-![]({{ site.url }}/assets/images/f822119aa1dd71e7e4b9c3c44b805d61.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f822119aa1dd71e7e4b9c3c44b805d61)
 
 西北兆  20:29
 
-![]({{ site.url }}/assets/images/5f3d0d0e57ab17da2d9c472525e06135.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5f3d0d0e57ab17da2d9c472525e06135)
 
 西北兆  20:29
 
-![]({{ site.url }}/assets/images/fd1a95f640a2b4e84652712ad1ca2a45.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/fd1a95f640a2b4e84652712ad1ca2a45)
 
 西北兆  20:30
 
-![]({{ site.url }}/assets/images/58cab881245d59aa8acec6b7764434a5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/58cab881245d59aa8acec6b7764434a5)
 
 西北兆  20:31
 
-![]({{ site.url }}/assets/images/7f9d97b3ba0f73b475b5350789fc8174.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7f9d97b3ba0f73b475b5350789fc8174)
 
 西北兆  20:32
 
-![]({{ site.url }}/assets/images/d35567ae751652bfac0888470b090183.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d35567ae751652bfac0888470b090183)
 
 西北兆  20:33
 
-![]({{ site.url }}/assets/images/ea53fdc083fffe88472ec78cec0d347e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ea53fdc083fffe88472ec78cec0d347e)
 
 西北兆  20:34
 
-![]({{ site.url }}/assets/images/e91650e8eebb5414ffb9c91c53de1823.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e91650e8eebb5414ffb9c91c53de1823)
 
 西北兆  20:35
 
-![]({{ site.url }}/assets/images/231d0fdbded6099e7f541a87f64780ea.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/231d0fdbded6099e7f541a87f64780ea)
 
 西北兆  20:36
 
-![]({{ site.url }}/assets/images/dad03a0907884f46b36f6944266e9cc1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dad03a0907884f46b36f6944266e9cc1)
 
 西北兆  20:38
 
-![]({{ site.url }}/assets/images/33f1145739fb1217f82b4cb01c82fd55.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/33f1145739fb1217f82b4cb01c82fd55)
 
 Ying  20:38
 
@@ -84,251 +84,251 @@ Ying  20:38
 
 西北兆  20:39
 
-![]({{ site.url }}/assets/images/e7aef61fa0b2c42b49057d43f2c73ddd.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e7aef61fa0b2c42b49057d43f2c73ddd)
 
 西北兆  20:40
 
-![]({{ site.url }}/assets/images/8f7302041dd86b66217ccf1317de1f15.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8f7302041dd86b66217ccf1317de1f15)
 
 西北兆  20:41
 
-![]({{ site.url }}/assets/images/5ca6ef157c89e750ac7fc81929e83ccc.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5ca6ef157c89e750ac7fc81929e83ccc)
 
 西北兆  20:42
 
-![]({{ site.url }}/assets/images/92f14bc6bcb84e208097f541e828fad9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/92f14bc6bcb84e208097f541e828fad9)
 
 西北兆  20:42
 
-![]({{ site.url }}/assets/images/99b733b1dab9e21ee2269e1acd708176.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/99b733b1dab9e21ee2269e1acd708176)
 
 西北兆  20:45
 
-![]({{ site.url }}/assets/images/8625d221d35358b54160be66f8d22011.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8625d221d35358b54160be66f8d22011)
 
 西北兆  20:46
 
-![]({{ site.url }}/assets/images/439f0f30b88c6206e128ea6bdae09b0e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/439f0f30b88c6206e128ea6bdae09b0e)
 
 西北兆  20:47
 
-![]({{ site.url }}/assets/images/f7561f050bfde65196a9c83f727cc393.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f7561f050bfde65196a9c83f727cc393)
 
 西北兆  20:48
 
-![]({{ site.url }}/assets/images/7291801f78ea190fe99e538ba0da4c77.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7291801f78ea190fe99e538ba0da4c77)
 
 西北兆  20:48
 
-![]({{ site.url }}/assets/images/ba2b6e905a23f441db8de7317741c848.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ba2b6e905a23f441db8de7317741c848)
 
 西北兆  20:49
 
-![]({{ site.url }}/assets/images/d76db98d298050773e28e81ace4c577d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d76db98d298050773e28e81ace4c577d)
 
 西北兆  20:50
 
-![]({{ site.url }}/assets/images/e72f92fb2e0bbc7047d3a642282ce205.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e72f92fb2e0bbc7047d3a642282ce205)
 
 西北兆  20:50
 
-![]({{ site.url }}/assets/images/118fd7c6e913e74288c976f423ae8c98.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/118fd7c6e913e74288c976f423ae8c98)
 
 西北兆  20:51
 
-![]({{ site.url }}/assets/images/53e9a76d8d8ecacc1385372414442e22.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/53e9a76d8d8ecacc1385372414442e22)
 
 西北兆  20:52
 
-![]({{ site.url }}/assets/images/53774108f0144b4d82d8b6745417db75.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/53774108f0144b4d82d8b6745417db75)
 
 西北兆  20:52
 
-![]({{ site.url }}/assets/images/c9c8b056a93e17b8322f816e7668fc23.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c9c8b056a93e17b8322f816e7668fc23)
 
 西北兆  20:54
 
-![]({{ site.url }}/assets/images/7a808ad35bb9d435324c0bcf7128cc14.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7a808ad35bb9d435324c0bcf7128cc14)
 
 西北兆  20:56
 
-![]({{ site.url }}/assets/images/e5671c7710f1673411af3511ecb6db72.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e5671c7710f1673411af3511ecb6db72)
 
 西北兆  20:56
 
-![]({{ site.url }}/assets/images/17fce32ce43f24bea96d8816e3076887.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/17fce32ce43f24bea96d8816e3076887)
 
 西北兆  20:57
 
-![]({{ site.url }}/assets/images/b3b0583f1fcc0b7183f4d2728b5e1ea4.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b3b0583f1fcc0b7183f4d2728b5e1ea4)
 
 西北兆  20:57
 
-![]({{ site.url }}/assets/images/37917c367708ccc3513964e5ad17bc7a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/37917c367708ccc3513964e5ad17bc7a)
 
 西北兆  20:59
 
-![]({{ site.url }}/assets/images/664ce3010ada04b603e1a603edae7907.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/664ce3010ada04b603e1a603edae7907)
 
 西北兆  20:59
 
-![]({{ site.url }}/assets/images/17febdf68c15ebcbc5c2f0dff9e8aec1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/17febdf68c15ebcbc5c2f0dff9e8aec1)
 
 西北兆  21:00
 
-![]({{ site.url }}/assets/images/827c159f1cd0d1707d58c0b7f68988f7.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/827c159f1cd0d1707d58c0b7f68988f7)
 
 西北兆  21:02
 
-![]({{ site.url }}/assets/images/8fbd137e326e362f607ac55b4017d1b5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8fbd137e326e362f607ac55b4017d1b5)
 
 西北兆  21:02
 
-![]({{ site.url }}/assets/images/9d01b7e2371ef8943156d33c1ef5d846.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9d01b7e2371ef8943156d33c1ef5d846)
 
 西北兆  21:03
 
-![]({{ site.url }}/assets/images/a774437ff5a6e121f83233ae0ba5a4e2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a774437ff5a6e121f83233ae0ba5a4e2)
 
 西北兆  21:04
 
-![]({{ site.url }}/assets/images/941962718b3b316891fe98c32c3696fc.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/941962718b3b316891fe98c32c3696fc)
 
 西北兆  21:04
 
-![]({{ site.url }}/assets/images/9077274c34e7e463f4a9cbb0920f1d3f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9077274c34e7e463f4a9cbb0920f1d3f)
 
 西北兆  21:05
 
-![]({{ site.url }}/assets/images/716978c89f316572b47562b9a0d973da.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/716978c89f316572b47562b9a0d973da)
 
 西北兆  21:06
 
-![]({{ site.url }}/assets/images/d6886cbbb389b1cdd19a8bef19cc6c1e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d6886cbbb389b1cdd19a8bef19cc6c1e)
 
 西北兆  21:07
 
-![]({{ site.url }}/assets/images/4f8790ba296fa87aebe5b5a8b346cd08.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4f8790ba296fa87aebe5b5a8b346cd08)
 
 西北兆  21:07
 
-![]({{ site.url }}/assets/images/6ed09f5e8d6b7f5472a0d776894d215f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6ed09f5e8d6b7f5472a0d776894d215f)
 
 西北兆  21:09
 
-![]({{ site.url }}/assets/images/4279b32366b09569db71b037e798ed8a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4279b32366b09569db71b037e798ed8a)
 
 西北兆  21:09
 
-![]({{ site.url }}/assets/images/f7c5803733bf08482ca6a6ab2737eee8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f7c5803733bf08482ca6a6ab2737eee8)
 
 西北兆  21:10
 
-![]({{ site.url }}/assets/images/92fecfc2c6075902c8f6280c42cb4ddd.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/92fecfc2c6075902c8f6280c42cb4ddd)
 
 西北兆  21:11
 
-![]({{ site.url }}/assets/images/d3ad2a5456ec46e21f7f9318b197da44.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d3ad2a5456ec46e21f7f9318b197da44)
 
 西北兆  21:12
 
-![]({{ site.url }}/assets/images/ccb52023f9e6243e452261e78333e610.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ccb52023f9e6243e452261e78333e610)
 
 西北兆  21:13
 
-![]({{ site.url }}/assets/images/b2bcbd110c7a8aa1f52052098a1d1fb5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b2bcbd110c7a8aa1f52052098a1d1fb5)
 
 西北兆  21:13
 
-![]({{ site.url }}/assets/images/61d76cb72dc500a0cfa181dbd65e280a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/61d76cb72dc500a0cfa181dbd65e280a)
 
 西北兆  21:14
 
-![]({{ site.url }}/assets/images/3d0827db1d770cc31cea22f1225423ef.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3d0827db1d770cc31cea22f1225423ef)
 
 西北兆  21:15
 
-![]({{ site.url }}/assets/images/b561f18b746b8fd87aad01516ec6dd4a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b561f18b746b8fd87aad01516ec6dd4a)
 
 西北兆  21:16
 
-![]({{ site.url }}/assets/images/e248a2791509f5b5f60aa39fc344fb78.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e248a2791509f5b5f60aa39fc344fb78)
 
 西北兆  21:17
 
-![]({{ site.url }}/assets/images/3ac2c27529c65f096b2fe33ee5aff733.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3ac2c27529c65f096b2fe33ee5aff733)
 
 西北兆  21:18
 
-![]({{ site.url }}/assets/images/dbfc2967eaf24457fcb8ab0e9c06d415.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dbfc2967eaf24457fcb8ab0e9c06d415)
 
 西北兆  21:19
 
-![]({{ site.url }}/assets/images/b175bdf406693e09ad378545011c2973.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b175bdf406693e09ad378545011c2973)
 
 西北兆  21:20
 
-![]({{ site.url }}/assets/images/ba14759b85a4ed17c0c15379ac5d4884.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ba14759b85a4ed17c0c15379ac5d4884)
 
 西北兆  21:21
 
-![]({{ site.url }}/assets/images/efe181d0eb4469ceb8697fb377be3e4e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/efe181d0eb4469ceb8697fb377be3e4e)
 
 西北兆  21:22
 
-![]({{ site.url }}/assets/images/ab3503eb8262347a393d40492fe1fd19.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ab3503eb8262347a393d40492fe1fd19)
 
 西北兆  21:24
 
-![]({{ site.url }}/assets/images/c403b12bfba21fd514206d7c89f8d65c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c403b12bfba21fd514206d7c89f8d65c)
 
 西北兆  21:27
 
-![]({{ site.url }}/assets/images/3a628c51faf58c0542c109f26af2e3d8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3a628c51faf58c0542c109f26af2e3d8)
 
 西北兆  21:28
 
-![]({{ site.url }}/assets/images/d7e1f585a5515128e897953381f736bc.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d7e1f585a5515128e897953381f736bc)
 
 西北兆  21:29
 
-![]({{ site.url }}/assets/images/6d16713a3ce164b5f6e24c2da25a3ed1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6d16713a3ce164b5f6e24c2da25a3ed1)
 
 西北兆  21:30
 
-![]({{ site.url }}/assets/images/ef4d14cb3952d15b7bf6c6042e53f753.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ef4d14cb3952d15b7bf6c6042e53f753)
 
 西北兆  21:30
 
-![]({{ site.url }}/assets/images/ee1e6b35eebe60fe8159526f1c53f33f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ee1e6b35eebe60fe8159526f1c53f33f)
 
 西北兆  21:31
 
-![]({{ site.url }}/assets/images/54776a4952dce02eb17a28e0a9e982f0.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/54776a4952dce02eb17a28e0a9e982f0)
 
 西北兆  21:32
 
-![]({{ site.url }}/assets/images/c749d3b6958bcbcc561bef0357454905.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c749d3b6958bcbcc561bef0357454905)
 
 西北兆  21:33
 
-![]({{ site.url }}/assets/images/b98bd923e8d20ed5b1f69fb6a2b923c8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b98bd923e8d20ed5b1f69fb6a2b923c8)
 
 西北兆  21:34
 
-![]({{ site.url }}/assets/images/5f6d8c078e6d72f96ae103f373177e92.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5f6d8c078e6d72f96ae103f373177e92)
 
 西北兆  21:34
 
-![]({{ site.url }}/assets/images/600332f1b03ac10f092d827644a938a5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/600332f1b03ac10f092d827644a938a5)
 
 西北兆  21:35
 
-![]({{ site.url }}/assets/images/33afed2164af242a11cade7296926b05.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/33afed2164af242a11cade7296926b05)
 
 西北兆  21:38
 
-![]({{ site.url }}/assets/images/afc561be9e546e9fa3750814440d9d36.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/afc561be9e546e9fa3750814440d9d36)
 
 西北兆  21:42
 

@@ -11,8 +11,8 @@ The chatting history for this WeChat group "兰苏园汉语角志愿者" is show
 
 昨天下午则是我们每周一次的兰苏园汉语角活动，感谢太极林和书法家王星牺牲个人时间前往做志愿者。滴水穿石，相信有我们持之以恒的努力，我们华人在社区的整体形象会越来越好。
 
-![]({{ site.url }}/assets/images/5d4ba834c97749a226eeaf530641cd91.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5d4ba834c97749a226eeaf530641cd91)
 
-![]({{ site.url }}/assets/images/760aa2ce919922803e67d049998df2ac.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/760aa2ce919922803e67d049998df2ac)
 
-![]({{ site.url }}/assets/images/a9362857e1474c5a88a225b3290a3fe1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a9362857e1474c5a88a225b3290a3fe1)

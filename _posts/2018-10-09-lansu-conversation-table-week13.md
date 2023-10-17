@@ -25,28 +25,28 @@ Venus Sun  17:44
 
 我前幾天還在跟我的主管Gary 看這一整個夏天裡每次漢語角活動的照片，他也連連稱讚，說一定要增加春天的週日時段，方便今夏因為週二不方便來的朋友們。
 
-![]({{ site.url }}/assets/images/f65936cbc19fd584bffbab15277891a9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f65936cbc19fd584bffbab15277891a9)
 
-![]({{ site.url }}/assets/images/a70e8adb293ba902276f7f7768ec99d4.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a70e8adb293ba902276f7f7768ec99d4)
 
-![]({{ site.url }}/assets/images/90532445602d6f2b19346f72918d95ee.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/90532445602d6f2b19346f72918d95ee)
 
-![]({{ site.url }}/assets/images/98b81a2145f23328e1bda5c66141db80.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/98b81a2145f23328e1bda5c66141db80)
 
-![]({{ site.url }}/assets/images/bbe1381d0d583108dd9af81328c61469.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/bbe1381d0d583108dd9af81328c61469)
 
-![]({{ site.url }}/assets/images/d41e6452b6c28bfdd23daf4d2987ffa6.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d41e6452b6c28bfdd23daf4d2987ffa6)
 
-![]({{ site.url }}/assets/images/97bafcbd4a12d93c0d733fa555aaf761.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/97bafcbd4a12d93c0d733fa555aaf761)
 
-![]({{ site.url }}/assets/images/4d8fa15f550c40df9d5d13ab5fde7766.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4d8fa15f550c40df9d5d13ab5fde7766)
 
-![]({{ site.url }}/assets/images/9e030d3532d55808790951e159bd3b10.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9e030d3532d55808790951e159bd3b10)
 
-![]({{ site.url }}/assets/images/8f44b740504982df3ef0979909d90d43.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8f44b740504982df3ef0979909d90d43.jpg)
 
-![]({{ site.url }}/assets/images/1c70369197487ac795d37be25e44e750.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/1c70369197487ac795d37be25e44e750)
 
-![]({{ site.url }}/assets/images/c049ec8c205daada0451bdb5a010cfa3.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c049ec8c205daada0451bdb5a010cfa3.jpg)
 
-![]({{ site.url }}/assets/images/1eef139ba8df927172c487e3cd915ea4.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/1eef139ba8df927172c487e3cd915ea4)

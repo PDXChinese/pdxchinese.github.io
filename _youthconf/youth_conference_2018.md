@@ -134,7 +134,7 @@ Maria is an associate professor at Pacific University College of Optometry and t
 
 [Five Flavors Cafe](http://www.5flavorcafe.com/)
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 [Also see 2017 Youth Conference](http://pdxchinese.org/youthconference/youth_conference_2017/)
 

@@ -10,15 +10,15 @@ date: "2020-10-21"
 蘑菇团购还没收到照片，下面是昨天的水果团购活动现场照片。
 
 
-![]({{ site.url }}/assets/images/P1550429.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/P1550429)
 
-![]({{ site.url }}/assets/images/P1550434.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/P1550434)
 
-![]({{ site.url }}/assets/images/P1550435.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/P1550435)
 
-![]({{ site.url }}/assets/images/P1550440.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/P1550440)
 
-![]({{ site.url }}/assets/images/P1550452.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/P1550452)
 
 ![]({{ site.url }}/assets/images/WeChat Image_20201021102152a.jpg)
 

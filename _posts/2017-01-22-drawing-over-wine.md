@@ -17,7 +17,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  21:55
 
-![]({{ site.url }}/assets/images/5d14cab55b31f1f40be88b2566bf205d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5d14cab55b31f1f40be88b2566bf205d)
 
 西北兆  21:59
 
@@ -29,7 +29,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  22:01
 
-![]({{ site.url }}/assets/images/120c75d74096d9a8273e47f4c11d1849.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/120c75d74096d9a8273e47f4c11d1849)
 
 西北兆  22:03
 
@@ -37,7 +37,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  22:03
 
-![]({{ site.url }}/assets/images/fce6230cd02425f38d2554fdbbcb68bf.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/fce6230cd02425f38d2554fdbbcb68bf)
 
 西北兆  22:04
 
@@ -45,7 +45,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  22:04
 
-![]({{ site.url }}/assets/images/7b355360db2c5990251a46cf051dfadbv.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7b355360db2c5990251a46cf051dfadbv)
 
 西北兆  22:06
 
@@ -53,7 +53,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  22:06
 
-![]({{ site.url }}/assets/images/c7e5a01330cba3abb0271420c05830a3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c7e5a01330cba3abb0271420c05830a3)
 
 西北兆  22:07
 
@@ -61,7 +61,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  22:07
 
-![]({{ site.url }}/assets/images/ea30d7fc8ef782662a677e0fccf82e0c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ea30d7fc8ef782662a677e0fccf82e0c)
 
 西北兆  22:08
 
@@ -69,7 +69,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  22:08
 
-![]({{ site.url }}/assets/images/454d05b77aa87086d14cf4264f8313cd.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/454d05b77aa87086d14cf4264f8313cd)
 
 西北兆  22:09
 
@@ -77,7 +77,7 @@ Annie有过绘画训练，但是，仍然一丝不苟重练基本功。
 
 西北兆  22:10
 
-![]({{ site.url }}/assets/images/3a8042bc8cdb9f33647a3e27d44c646e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3a8042bc8cdb9f33647a3e27d44c646e)
 
 西北兆  22:10
 
@@ -85,7 +85,7 @@ Annie有过绘画训练，但是，仍然一丝不苟重练基本功。
 
 西北兆  22:11
 
-![]({{ site.url }}/assets/images/e67dd0e2829b5eb95d776730ab3678b4.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e67dd0e2829b5eb95d776730ab3678b4)
 
 西北兆  22:11
 
@@ -93,7 +93,7 @@ Annie有过绘画训练，但是，仍然一丝不苟重练基本功。
 
 西北兆  22:12
 
-![]({{ site.url }}/assets/images/c1fb4241f1b705b847453f35d792836b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c1fb4241f1b705b847453f35d792836b)
 
 西北兆  22:15
 
@@ -101,7 +101,7 @@ Annie有过绘画训练，但是，仍然一丝不苟重练基本功。
 
 西北兆  22:15
 
-![]({{ site.url }}/assets/images/b75f45544930789ed45529cf9df383e4.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b75f45544930789ed45529cf9df383e4)
 
 西北兆  22:16
 
@@ -109,7 +109,7 @@ Annie有过绘画训练，但是，仍然一丝不苟重练基本功。
 
 西北兆  22:16
 
-![]({{ site.url }}/assets/images/feab8a2f1b69f332acf9de3d89f7613b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/feab8a2f1b69f332acf9de3d89f7613b)
 
 西北兆  22:16
 
@@ -121,7 +121,7 @@ Annie有过绘画训练，但是，仍然一丝不苟重练基本功。
 
 Ming  23:00
 
-![]({{ site.url }}/assets/images/67d9cf69a46583bf36b4f4cbdabfbc6c.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/67d9cf69a46583bf36b4f4cbdabfbc6c.jpg)
 
 Ming  23:01
 

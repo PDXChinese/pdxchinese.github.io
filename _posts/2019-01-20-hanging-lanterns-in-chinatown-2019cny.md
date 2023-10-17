@@ -17,43 +17,43 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 张光超  14:27
 
-![]({{ site.url }}/assets/images/20cbcff10ee24e2edfdb3f32c5826778.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/20cbcff10ee24e2edfdb3f32c5826778)
 
 张光超  14:27
 
-![]({{ site.url }}/assets/images/6d8945fc35db4d56602442c42a75ed54.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6d8945fc35db4d56602442c42a75ed54)
 
 张光超  14:27
 
-![]({{ site.url }}/assets/images/1aef483ef391223cc8cf6b102064b4ad.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/1aef483ef391223cc8cf6b102064b4ad)
 
 张光超  14:27
 
-![]({{ site.url }}/assets/images/45ac07577ddc6bda37cda2390d111b46.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/45ac07577ddc6bda37cda2390d111b46)
 
 张光超  14:27
 
-![]({{ site.url }}/assets/images/b0b1cb002eebd1567d99e252b1ebc610.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b0b1cb002eebd1567d99e252b1ebc610)
 
 张光超  14:27
 
-![]({{ site.url }}/assets/images/8a53c57fff0c8f8e2b788b6b207e53dc.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8a53c57fff0c8f8e2b788b6b207e53dc)
 
 张光超  14:27
 
-![]({{ site.url }}/assets/images/6db19159e0e1e060cd601ac9e2a74975.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6db19159e0e1e060cd601ac9e2a74975)
 
 张光超  14:27
 
-![]({{ site.url }}/assets/images/0086ce1e767549985b4d6632c59266cd.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0086ce1e767549985b4d6632c59266cd)
 
 张光超  14:27
 
-![]({{ site.url }}/assets/images/133fd5e3dabbe762a4609895d83ee3c7.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/133fd5e3dabbe762a4609895d83ee3c7.jpg)
 
 张光超  14:27
 
-![]({{ site.url }}/assets/images/e54765fbcc6bc33e9c632d11b7a1fd2e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e54765fbcc6bc33e9c632d11b7a1fd2e)
 
 西北兆  15:29
 
@@ -79,7 +79,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  17:45
 
-![]({{ site.url }}/assets/images/e42ee2bebc5b8200ceff87005fe2c8bd.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e42ee2bebc5b8200ceff87005fe2c8bd)
 
 西北兆  17:47
 
@@ -87,7 +87,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  17:48
 
-![]({{ site.url }}/assets/images/715c6887ab00cbef7eec66c82b1d607f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/715c6887ab00cbef7eec66c82b1d607f)
 
 西北兆  17:51
 
@@ -95,11 +95,11 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  17:52
 
-![]({{ site.url }}/assets/images/b2e1f6baa808179b1aa42efce815e477.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b2e1f6baa808179b1aa42efce815e477)
 
 西北兆  17:53
 
-![]({{ site.url }}/assets/images/1322be4f54a57cf180f172c0f4a6969d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/1322be4f54a57cf180f172c0f4a6969d)
 
 西北兆  17:53
 
@@ -107,7 +107,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  17:54
 
-![]({{ site.url }}/assets/images/7686ddbbbf93e476a1e873a4fcd917d2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7686ddbbbf93e476a1e873a4fcd917d2)
 
 西北兆  17:55
 
@@ -115,7 +115,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  17:57
 
-![]({{ site.url }}/assets/images/6b82f5b0faf5734a3d914fcaf2036443.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6b82f5b0faf5734a3d914fcaf2036443)
 
 西北兆  17:58
 
@@ -123,7 +123,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  17:59
 
-![]({{ site.url }}/assets/images/3596decf519149ec039e1bbf0fb89531.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3596decf519149ec039e1bbf0fb89531)
 
 西北兆  18:00
 
@@ -131,7 +131,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  18:00
 
-![]({{ site.url }}/assets/images/0d89ecb72a36526b4c49962738475946.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0d89ecb72a36526b4c49962738475946)
 
 西北兆  18:02
 
@@ -139,7 +139,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  18:02
 
-![]({{ site.url }}/assets/images/c4659c3fa1bf1a8819b5b29a5341fda0.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c4659c3fa1bf1a8819b5b29a5341fda0)
 
 西北兆  18:04
 
@@ -147,7 +147,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  18:04
 
-![]({{ site.url }}/assets/images/fed96a68f299c4dcda288366d3bc3034.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/fed96a68f299c4dcda288366d3bc3034)
 
 💗Eliza 陈曦  18:05
 
@@ -159,7 +159,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  18:07
 
-![]({{ site.url }}/assets/images/a1e290a1e571b60ce2debc1da839f84d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a1e290a1e571b60ce2debc1da839f84d)
 
 西北兆  18:09
 
@@ -167,11 +167,11 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  18:10
 
-![]({{ site.url }}/assets/images/bba6166512ee4442134bab01aa5fed54.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/bba6166512ee4442134bab01aa5fed54)
 
 西北兆  18:10
 
-![]({{ site.url }}/assets/images/7429fe192f04df5d18e5d8b95a4215f7.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7429fe192f04df5d18e5d8b95a4215f7)
 
 西北兆  18:11
 
@@ -179,7 +179,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  18:11
 
-![]({{ site.url }}/assets/images/fd82e28026ddea6b00877a7a70999a70.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/fd82e28026ddea6b00877a7a70999a70)
 
 西北兆  18:13
 

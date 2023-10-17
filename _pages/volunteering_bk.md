@@ -7,7 +7,7 @@ feature_row1:
 
 We come together, serving our community where we raise our families, helping those who are in need, growing our passion for a better world with ‘love’ in heart, and connecting with others who share the same value.
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 {% include feature_row id="feature_row1"%}
 
@@ -33,7 +33,7 @@ We will try to list all activities on our [shared community calendar](http://pdx
 
 ## Monthly Volunteering at [Oregon Food Bank](htts://www.oregonfoodbank.org/about-us/locations/beaverton/)
 
-![]({{ site.url }}/assets/images/814d713f1c945fd4568d87160c2848ab2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/814d713f1c945fd4568d87160c2848ab2)
 
 <a href="http://signup.com/go/RtEtDVp" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Available Spots on SignUp.com"></a>
 
@@ -88,7 +88,7 @@ Address: 239 NW Everett St, Portland, OR 97209
 
 确切时间和详情会公布在《PDX 义工群》微信群
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 # More Resources
 

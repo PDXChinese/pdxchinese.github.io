@@ -20,24 +20,24 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 群友梁子揚看完照片写道： “同袍越来越多了，真开心”，兔子坡盛赞，“这个活动真是越来越精彩！” Gloria感恩人生更是开心： “看着苏州园的活动组织得越来越好, 我们做中文老师的职业激情也越来越高昂浓厚了! 下次也一定要带我家孩子去体验一下。”
 
 
-![]({{ site.url }}/assets/images/01850e30eb53116ce3aae80ca9e6377d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/01850e30eb53116ce3aae80ca9e6377d)
 
-![]({{ site.url }}/assets/images/4a33bb134c86f0b06145409a8c870afa.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4a33bb134c86f0b06145409a8c870afa)
 
-![]({{ site.url }}/assets/images/a14fa25468b530c596417e3548f2c666.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a14fa25468b530c596417e3548f2c666)
 
-![]({{ site.url }}/assets/images/e5aa46b79f0c13f5e05f0161c4e1bed7.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e5aa46b79f0c13f5e05f0161c4e1bed7)
 
-![]({{ site.url }}/assets/images/0adee9dcbff7f478e8bc9b0f205eca9d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0adee9dcbff7f478e8bc9b0f205eca9d)
 
-![]({{ site.url }}/assets/images/745d51291166f5ee263f6c760b66b212.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/745d51291166f5ee263f6c760b66b212)
 
-![]({{ site.url }}/assets/images/0de35d640c04a7a250a5ae8366a9acc5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0de35d640c04a7a250a5ae8366a9acc5)
 
-![]({{ site.url }}/assets/images/0dfb93141764a05aa9df300a79956bb8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0dfb93141764a05aa9df300a79956bb8)
 
-![]({{ site.url }}/assets/images/03bfaff62dea0044a24ab084fb912e68.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/03bfaff62dea0044a24ab084fb912e68)
 
-![]({{ site.url }}/assets/images/cdcfb2b769095677f43442e9c54e534d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/cdcfb2b769095677f43442e9c54e534d)
 
-![]({{ site.url }}/assets/images/d62d7f34ea33b50acd23f1a5405e1301.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d62d7f34ea33b50acd23f1a5405e1301.jpg)

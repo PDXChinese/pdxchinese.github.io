@@ -81,7 +81,7 @@ The volunteers have been helping out each of eight lantern viewing evenings at L
 
 ![]({{ site.url }}/assets/images/323628730_1327620784753347_6040701749001147264_n.jpg)
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ![]({{ site.url }}/assets/images/328459534_512518561011777_6070081668841421729_n.jpg)
 
@@ -229,6 +229,6 @@ The volunteers have been helping out each of eight lantern viewing evenings at L
 
 ![]({{ site.url }}/assets/images/326892690_1362808387868707_4124710284758564440_n.jpg)
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 <iframe width="1094" height="619" src="https://www.youtube.com/embed/fIW2nuUUr1g" title="Off Stage: Community Participating Lunar New Year Celebration at Lan Su Chinese Garden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

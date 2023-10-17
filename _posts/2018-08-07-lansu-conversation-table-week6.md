@@ -17,24 +17,24 @@ Tracy事后写道，“遇到的游客有加拿大的，瑞典的，还有一个
 
 星岛日报记者关键先生也特意前往采访了整个活动，他的特别报道会刊登在这个周末的《星岛都市报》上面 ([链接](https://issuu.com/uscitypost/docs/sfcp20180811/8))。他还表示下个星期去拍一些视频，回头在星TV上播放！
 
-![]({{ site.url }}/assets/images/c9d1a8b6c255c75126c51bbc094ee6d6.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c9d1a8b6c255c75126c51bbc094ee6d6)
 
-![]({{ site.url }}/assets/images/be355d2c95a825a84ecdd70d08990214.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/be355d2c95a825a84ecdd70d08990214)
 
-![]({{ site.url }}/assets/images/942d11cf74b88289b10533dc0b8265ad.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/942d11cf74b88289b10533dc0b8265ad)
 
-![]({{ site.url }}/assets/images/fc815939bf381b1d205d95e3ba3f202f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/fc815939bf381b1d205d95e3ba3f202f)
 
-![]({{ site.url }}/assets/images/7531a35e96da3f51129627699b4d927a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7531a35e96da3f51129627699b4d927a)
 
-![]({{ site.url }}/assets/images/667801f8cdcd390d709a59215583804e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/667801f8cdcd390d709a59215583804e)
 
-![]({{ site.url }}/assets/images/60c17ad5db1cb3f25cacee9193bb52c2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/60c17ad5db1cb3f25cacee9193bb52c2)
 
-![]({{ site.url }}/assets/images/39fa08f7313904b4fda8fca4a14c24a0.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/39fa08f7313904b4fda8fca4a14c24a0)
 
-![]({{ site.url }}/assets/images/65d97379b8b4c5e9013a81a28ac08a75.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/65d97379b8b4c5e9013a81a28ac08a75)
 
-![]({{ site.url }}/assets/images/81639f3c964c73a1d5d46f1f5c4767d1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/81639f3c964c73a1d5d46f1f5c4767d1)
 
-![]({{ site.url }}/assets/images/6dde787ff3c0597d97f6fa193041fc53.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6dde787ff3c0597d97f6fa193041fc53)

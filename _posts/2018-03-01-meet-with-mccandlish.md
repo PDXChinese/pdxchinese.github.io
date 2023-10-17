@@ -37,12 +37,12 @@ http://griffinandmccandlish.com
 
 今年春节前夕，我们特意邀请McCandlish先生与我们社区成员见面，并举办了一场有关汽车保险和汽车事故方面的法律知识讲座。感谢许多社区成员牺牲周末时间参加，当然更感谢McCandlish先生百忙中特意从城东开车过来与我们大家见面。病在家中的孔敏老师特意委派她的爱女代表希望中文学校和华人社区给McCandlish先生献上鲜花和我们的感激之情。
 
-![]({{ site.url }}/assets/images/92f28b7703449da028e61a6726a5347c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/92f28b7703449da028e61a6726a5347c)
 
-![]({{ site.url }}/assets/images/c45a00596aa07c6f780d7a077c2cfdb7.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c45a00596aa07c6f780d7a077c2cfdb7)
 
-![]({{ site.url }}/assets/images/f9064ca2b76292855a8f065d02e2ed4a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f9064ca2b76292855a8f065d02e2ed4a)
 
-![]({{ site.url }}/assets/images/860c7502a791f98c892979b45b90ceae.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/860c7502a791f98c892979b45b90ceae)
 
-![]({{ site.url }}/assets/images/4bbe44d7e849293056a31ef9fe2bbcea.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4bbe44d7e849293056a31ef9fe2bbcea)

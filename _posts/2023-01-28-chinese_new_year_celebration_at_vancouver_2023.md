@@ -83,7 +83,7 @@ Huamulan Drum Team and Jade Dance Team were on the big stage for their pro-level
 
 ![]({{ site.url }}/assets/images/328640417_1430714331037687_108665737890953556_n.jpg)
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ![]({{ site.url }}/assets/images/328318830_1524920041326365_5890599335428925576_n.jpg)
 

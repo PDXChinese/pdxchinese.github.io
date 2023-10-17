@@ -17,20 +17,20 @@ OCC乐见社区成员自发组织的各种文化娱乐活动，和在此基础�
 
 舞蹈团特别感谢摄影师TY和摄影师翼翎的精彩演绎！
 
-![]({{ site.url }}/assets/images/b625ff5c07b562801b58935c73e60a5e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b625ff5c07b562801b58935c73e60a5e)
 
-![]({{ site.url }}/assets/images/28b96e6e3823bb99a675fdf01c3682a4.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/28b96e6e3823bb99a675fdf01c3682a4)
 
-![]({{ site.url }}/assets/images/c77ae90005db3d57f45f300a7eeec2bc.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c77ae90005db3d57f45f300a7eeec2bc)
 
-![]({{ site.url }}/assets/images/4ea7bc55fc67b8e746f2783646335bb3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4ea7bc55fc67b8e746f2783646335bb3)
 
-![]({{ site.url }}/assets/images/fae1712f5e8793532c7f13d4cd7b0fb4.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/fae1712f5e8793532c7f13d4cd7b0fb4)
 
-![]({{ site.url }}/assets/images/c977432b832d3e3e49542f26ebab03ae.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c977432b832d3e3e49542f26ebab03ae)
 
-![]({{ site.url }}/assets/images/c7797957bb767a6d2353a59f27ee1583.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c7797957bb767a6d2353a59f27ee1583)
 
-![]({{ site.url }}/assets/images/44d18d29cf87b65240ad874f1da6732b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/44d18d29cf87b65240ad874f1da6732b)
 
-![]({{ site.url }}/assets/images/3e092215440edbd85902a743cbfd595a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3e092215440edbd85902a743cbfd595a)

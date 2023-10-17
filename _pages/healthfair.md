@@ -154,7 +154,7 @@ While supplies last
 
 {% include feature_row id="feature_row2"%}
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 <br>
 
@@ -431,7 +431,7 @@ OCOM诊所服务内容介绍
 
 *每参加一个讲座，可以额外领取3件杂货*
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ### 全新各类杂货派发 (Umpqua River 会议室)
 

@@ -35,7 +35,7 @@ permalink: /lunarnewyear/
 
 # 2018 Portland Chinatown Chinese New Year Celebration
 
-![]({{ site.url }}/assets/images/de218e5e4a36b6490560f64da2444cd8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/de218e5e4a36b6490560f64da2444cd8)
 
 ##### 欢迎大家通过自己的脸书和微信朋友圈广泛传播我们的活动海报，如有需要高清文本，请与西北兆联系。
 

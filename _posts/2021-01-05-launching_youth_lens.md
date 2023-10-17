@@ -12,7 +12,7 @@ date: "2021-01-05"
 
 项目设计和报名链接： [http://pdxchinese.org/youthlens/](http://pdxchinese.org/youthlens/)
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 Youth Lens今天(1/22)开拍。 Jesuit的Jenny Duan和ISB的Michelle Wang, 作为第一组，选择疫情下的中餐馆作为报道题目。第一站就是中国城的金马和共和，非常感谢两家餐馆主人的好意，因为他们的积极配合，让两位学生顺利完成了第一次采访。 可惜又可惜，在旁边的支持团队比她们还“紧张”，愣是忘了拍照。 大家看到的是上个星期老张和许霓两位老师给学生们提供的专业培训，和今天在采访前的准备工作。 看这阵势外人不知道的以为在那里拍电影。
 

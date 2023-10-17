@@ -15,49 +15,49 @@ The chatting history for this WeChat group "PDX 华人社区公益一群" is sho
 
 我们的出现也算是一道风景，有几个老外能很清晰喊出“加油”，很多参赛者都伸出大拇指或是High Five。老陈很有感染力，也非常的幽默，见到跑的就喊“Keep Running!”，见到走的，就说“Keep Walking”。。。趁我和Fanda咖啡还没有完全起作用的情况下，就把我们动员进了明年的马拉松比赛。好在还有一年，看看能不能练出来。。。
 
-![]({{ site.url }}/assets/images/4d0ae5e5537aaf0165f84cd0b163201c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4d0ae5e5537aaf0165f84cd0b163201c)
 
-![]({{ site.url }}/assets/images/af8456504cb753dcbb3178781fe41457.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/af8456504cb753dcbb3178781fe41457)
 
-![]({{ site.url }}/assets/images/6e511ead6a576c9720533e6b4b135222.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6e511ead6a576c9720533e6b4b135222)
 
-![]({{ site.url }}/assets/images/1e3e43c950f9577393a160f7dc53dc76.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/1e3e43c950f9577393a160f7dc53dc76)
 
-![]({{ site.url }}/assets/images/bd010048d12a3b4e51c38cd27cf6ce23.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/bd010048d12a3b4e51c38cd27cf6ce23)
 
-![]({{ site.url }}/assets/images/39ba0e347090ce4a55322821257a148e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/39ba0e347090ce4a55322821257a148e)
 
-![]({{ site.url }}/assets/images/8d075fa3ad64b861c3fc5b7839bc2e55.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8d075fa3ad64b861c3fc5b7839bc2e55.jpg)
 
-![]({{ site.url }}/assets/images/58c0df97ec9fe71653e189544635ab2c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/58c0df97ec9fe71653e189544635ab2c)
 
-![]({{ site.url }}/assets/images/472a88b6f457aae8e417e8c627b79216.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472a88b6f457aae8e417e8c627b79216)
 
-![]({{ site.url }}/assets/images/83678cf0aa889f804f817493707a5632.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/83678cf0aa889f804f817493707a5632)
 
-![]({{ site.url }}/assets/images/d125f87fcda00d7e085705d1a1c77d61.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d125f87fcda00d7e085705d1a1c77d61.jpg)
 
 我们见到了五六个Torch队的队员，完全错过了跑半马的队员，只能从他们的照片上欣赏他们的兴奋 --- 他们获得了团体第二名！获得允许的情况下，搬来了他们秀的现场照片。
 
-![]({{ site.url }}/assets/images/155ec726be02d2086468191b3e5db04f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/155ec726be02d2086468191b3e5db04f)
 
-![]({{ site.url }}/assets/images/ccf95857cd7578077da6a2de04f38a2d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ccf95857cd7578077da6a2de04f38a2d)
 
-![]({{ site.url }}/assets/images/86a4f3df3fadf68b98bfa4d1629ee943.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/86a4f3df3fadf68b98bfa4d1629ee943)
 
-![]({{ site.url }}/assets/images/78f4198025a6963734817142e5575b82.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/78f4198025a6963734817142e5575b82)
 
-![]({{ site.url }}/assets/images/55af048fa12af557a3426b0e3d0b10c2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/55af048fa12af557a3426b0e3d0b10c2)
 
-![]({{ site.url }}/assets/images/bf25bac5fb47129701d713491354cf69.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/bf25bac5fb47129701d713491354cf69)
 
-![]({{ site.url }}/assets/images/d1df7c5fd0da3245eea8ecfae8aa3dd7.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d1df7c5fd0da3245eea8ecfae8aa3dd7)
 
-![]({{ site.url }}/assets/images/015eecf5317b4a643ab711a913d6e664.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/015eecf5317b4a643ab711a913d6e664)
 
-![]({{ site.url }}/assets/images/d586eafd38c0774a3130df2bea3a9057.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d586eafd38c0774a3130df2bea3a9057)
 
-![]({{ site.url }}/assets/images/f6ac94a591fe292005ad28f856882780.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f6ac94a591fe292005ad28f856882780)
 
 💗Eliza 陈曦  07:32
 

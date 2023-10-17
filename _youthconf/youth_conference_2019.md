@@ -76,7 +76,7 @@ Hao, a Class of 2018 Oregon Stamps Scholar, graduated Magna Cum Laude and Phi Be
 <p><img src="/assets/images/activities/bill.jpg"></p>
 Dr. Toepper, former Legacy Hospital emergency physician, organized and led Portland Street Medicine. "This is a crisis of monumental proportions, and no single person or organization can solve this alone," Williams says of what he sees as a growing number of homeless people, including a coming wave of baby boomers who did not prepare for retirement. "One of the things we hope to accomplish is to help fill gaps in services and these three initiatives meet a critical need right now on the streets of our city." ([excerpt](https://pamplinmedia.com/pt/9-news/386897-276815-new-privately-funded-homeless-services-announced) from Portland Tribune)
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ## Archive
 

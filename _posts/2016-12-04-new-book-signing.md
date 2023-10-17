@@ -11,11 +11,11 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  19:05
 
-![]({{ site.url }}/assets/images/4b7ec35b80708794d7b72fc0fccb4d42.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4b7ec35b80708794d7b72fc0fccb4d42)
 
 西北兆  19:06
 
-![]({{ site.url }}/assets/images/507ea07a546bf0e0afcad166a41370ce.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/507ea07a546bf0e0afcad166a41370ce)
 
 西北兆  19:06
 
@@ -47,7 +47,7 @@ Martha  19:50
 
 Martha  19:50
 
-![]({{ site.url }}/assets/images/7cdf4c900b0b3a13959f1787eb59a193.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7cdf4c900b0b3a13959f1787eb59a193)
 
 卜兰子  19:51
 
@@ -73,23 +73,23 @@ Ming  21:16
 
 玫瑰之城  14:26
 
-![]({{ site.url }}/assets/images/23bd2dab8579085c5512a2c3433765b9.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/23bd2dab8579085c5512a2c3433765b9.jpg)
 
 玫瑰之城  14:26
 
-![]({{ site.url }}/assets/images/e11376ea2e71e907b6260e5af01607f4.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e11376ea2e71e907b6260e5af01607f4)
 
 玫瑰之城  14:26
 
-![]({{ site.url }}/assets/images/3e3d8ab731bebcde1574ef9b7821c560.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3e3d8ab731bebcde1574ef9b7821c560)
 
 玫瑰之城  14:26
 
-![]({{ site.url }}/assets/images/ad3264388791c9f621e90a69d17cf519.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ad3264388791c9f621e90a69d17cf519)
 
 玫瑰之城  14:26
 
-![]({{ site.url }}/assets/images/d778bb26101a6a8e15d25c8f5a37e12d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d778bb26101a6a8e15d25c8f5a37e12d)
 
 June Jia  14:28
 
@@ -123,7 +123,7 @@ May-迎春  14:47
 
 應該說前期工作比較到位，自己的作家出席支持也是份內的事兒。房間小了點兒，參與人數之多大概出乎了你的預料⋯⋯一回生、二回熟⋯⋯還是值得點贊[Clap][Clap]
 
-![]({{ site.url }}/assets/images/af8b04e0d2cc18f70f12dc1e59c48d3c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/af8b04e0d2cc18f70f12dc1e59c48d3c)
 
 附上同为校友的王琰事后写的书评
 

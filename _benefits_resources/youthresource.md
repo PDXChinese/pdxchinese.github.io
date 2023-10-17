@@ -35,7 +35,7 @@ Victor Li, Jesuit High School
 Vivian Lu, Camas High School  
 Ziyue Wang, International School of Beaverton  
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ## 2021年青少年年会
 
@@ -53,7 +53,7 @@ Erika Leung, Lincoln High School
 Julia Lin, Sunset High Scvhool  
 Project Lotus, Nonprofit Organization  
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ## 2020年青少年年会
 
@@ -65,7 +65,7 @@ Jiaqi (Jackie) Zhang, Rising Junior at Sunset High School
 Danica Leung, Rising Junior at Lincoln High School  
 Qiyue (Cheery) Zhang, Rising Sophomore at Westview High School  
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ## 2019年青少年年会
 
@@ -76,7 +76,7 @@ Jenell Theobld, Whitford Middle School
 Marshal Xu, Junior at Lincoln High School  
 Beats of Bethany, Volunteering project of young musicians, founded in 2017.    
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ## 2018年青少年年会
 

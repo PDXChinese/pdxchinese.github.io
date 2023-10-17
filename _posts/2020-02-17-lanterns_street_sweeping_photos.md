@@ -12,28 +12,28 @@ The chatting history for this WeChat group "PDX 华人社区公益一群" is sho
 
 值得指出的是，这次活动孩子们绝对充当了主力，他们不仅能胜任每一项工作，他们展现出来的活力和热情也深深感染了大人们。活动结束后，大家都非常的高兴，看到我在和什么人交谈着什么，甚至都忘了参加合影，因为更多的事情可以做了。事情往往就是这样，在为人付出的时候，也就有了被人肯定的机会。
 
-![]({{ site.url }}/assets/images/61c61a10bd17b1b3332461c8f9e4c781.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/61c61a10bd17b1b3332461c8f9e4c781)
 
-![]({{ site.url }}/assets/images/9b0d049036d2de5227617c4cf684b3be.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9b0d049036d2de5227617c4cf684b3be)
 
-![]({{ site.url }}/assets/images/14bb74fdb87d12c12ba63c0684762eeb.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/14bb74fdb87d12c12ba63c0684762eeb)
 
-![]({{ site.url }}/assets/images/e3a426a053ed63454f0dc50a44b0bfaa.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e3a426a053ed63454f0dc50a44b0bfaa)
 
-![]({{ site.url }}/assets/images/e8d97b1c4e00fd59b3d26b2555b2927c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e8d97b1c4e00fd59b3d26b2555b2927c)
 
-![]({{ site.url }}/assets/images/106f30e1392d031e6b3254109964e9eb.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/106f30e1392d031e6b3254109964e9eb)
 
-![]({{ site.url }}/assets/images/35dc3afcd9beeda4d7de7f9ef559753d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/35dc3afcd9beeda4d7de7f9ef559753d)
 
-![]({{ site.url }}/assets/images/0b2d66e0bd5de4da4996ff288e85bd21.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0b2d66e0bd5de4da4996ff288e85bd21)
 
-![]({{ site.url }}/assets/images/a0e8de1dfea589ac1066b7e970754fde.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a0e8de1dfea589ac1066b7e970754fde)
 
-![]({{ site.url }}/assets/images/ea2c148ee3755405a98e6568f01b8996.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ea2c148ee3755405a98e6568f01b8996)
 
-![]({{ site.url }}/assets/images/ca1ed7a11ed81a9949a4eb0374b42e70.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ca1ed7a11ed81a9949a4eb0374b42e70)
 
-![]({{ site.url }}/assets/images/373ab10aee7d8e5db04213d735631614.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/373ab10aee7d8e5db04213d735631614)
 
-![]({{ site.url }}/assets/images/1dac04e05f6c32c951a7789721d625aa.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/1dac04e05f6c32c951a7789721d625aa)

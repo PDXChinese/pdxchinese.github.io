@@ -25,18 +25,18 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 感谢廖冰老师的精彩讲座，感谢OCC和Teck4Kids Club的联手组织，感谢众多义工的辛勤，更感谢来到现场的家长和孩子们。
 
-![]({{ site.url }}/assets/images/5fd3abb59f7fc3d163bbd185f48b1918.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5fd3abb59f7fc3d163bbd185f48b1918)
 
-![]({{ site.url }}/assets/images/86b775044e82158e6af15f6865f05e3e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/86b775044e82158e6af15f6865f05e3e)
 
-![]({{ site.url }}/assets/images/442b89cb10bb91a932e4e2e34ebd721e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/442b89cb10bb91a932e4e2e34ebd721e)
 
-![]({{ site.url }}/assets/images/500ccc8ace82e3f856a73a1d7ad7b416.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/500ccc8ace82e3f856a73a1d7ad7b416)
 
-![]({{ site.url }}/assets/images/d093f2da57fc1184837a26e886b0e976.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d093f2da57fc1184837a26e886b0e976)
 
-![]({{ site.url }}/assets/images/906dbc00865f8ab064656984d0c92d19.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/906dbc00865f8ab064656984d0c92d19)
 
-![]({{ site.url }}/assets/images/24ece871e4e75e88b6ffa07bcc25fcc5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/24ece871e4e75e88b6ffa07bcc25fcc5)
 
-![]({{ site.url }}/assets/images/93b58b6400887032fbd3f1824adafd44.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/93b58b6400887032fbd3f1824adafd44)

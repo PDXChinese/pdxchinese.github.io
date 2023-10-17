@@ -27,56 +27,56 @@ xiaojian  18:42
 
 我家两个中学生开始跟着@刘鸽🌇🏡  @Nancy  两位阿姨一组，后来跟我和@西北兆 一组汇合，干的热火朝天，超出我的预期。两个孩子是完美主义，把隐藏在树丛下面的垃圾和角落的烟头挖的干干净净，三个小时以后，看到明显清爽的街道，两个孩子由衷的高兴[ThumbsUp][ThumbsUp][ThumbsUp]
 
-![]({{ site.url }}/assets/images/4bd95611243ae35e35c68d85655116bd.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4bd95611243ae35e35c68d85655116bd)
 
-![]({{ site.url }}/assets/images/0c29ea08dbe4376e01dbc3f54694ba83.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0c29ea08dbe4376e01dbc3f54694ba83)
 
-![]({{ site.url }}/assets/images/8a1711865f2f3e48c4dd3762d4bfd540.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8a1711865f2f3e48c4dd3762d4bfd540)
 
-![]({{ site.url }}/assets/images/79060c7d729c1240c15aba8787908b12.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/79060c7d729c1240c15aba8787908b12)
 
-![]({{ site.url }}/assets/images/cb7b597a4cce3e436eb1e57356d994bd.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/cb7b597a4cce3e436eb1e57356d994bd)
 
-![]({{ site.url }}/assets/images/2918a2d42ca6df8ccdc7115621d6b8c2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2918a2d42ca6df8ccdc7115621d6b8c2)
 
-![]({{ site.url }}/assets/images/2b119cdf5771fb1d9fcf13f08c565817.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2b119cdf5771fb1d9fcf13f08c565817)
 
-![]({{ site.url }}/assets/images/c81bc9fd115677144ce653d3a492021a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c81bc9fd115677144ce653d3a492021a)
 
-![]({{ site.url }}/assets/images/bc2011f9c44f0eabb099e1373a4c956c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/bc2011f9c44f0eabb099e1373a4c956c)
 
-![]({{ site.url }}/assets/images/0c0c71c453ab2e48ac99f355d62e0ad3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0c0c71c453ab2e48ac99f355d62e0ad3)
 
-![]({{ site.url }}/assets/images/09e5b045dcdb1a73052d4d92a93c0a38.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/09e5b045dcdb1a73052d4d92a93c0a38)
 
-![]({{ site.url }}/assets/images/4ec0cc4845763a07d024ebe3cac4639a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4ec0cc4845763a07d024ebe3cac4639a)
 
-![]({{ site.url }}/assets/images/7ad8e0c68dfd3788deb77e8b1265346a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7ad8e0c68dfd3788deb77e8b1265346a)
 
-![]({{ site.url }}/assets/images/45849d54776cfd5e511659625393a7c9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/45849d54776cfd5e511659625393a7c9)
 
-![]({{ site.url }}/assets/images/634855cb9f0804e36eaa7669f8552ccc.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/634855cb9f0804e36eaa7669f8552ccc)
 
-![]({{ site.url }}/assets/images/6bc6b34f700e801808596637cefddb1a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6bc6b34f700e801808596637cefddb1a)
 
-![]({{ site.url }}/assets/images/09e5b045dcdb1a73052d4d92a93c0a38.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/09e5b045dcdb1a73052d4d92a93c0a38)
 
-![]({{ site.url }}/assets/images/4ec0cc4845763a07d024ebe3cac4639a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4ec0cc4845763a07d024ebe3cac4639a)
 
-![]({{ site.url }}/assets/images/7ad8e0c68dfd3788deb77e8b1265346a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7ad8e0c68dfd3788deb77e8b1265346a)
 
-![]({{ site.url }}/assets/images/45849d54776cfd5e511659625393a7c9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/45849d54776cfd5e511659625393a7c9)
 
-![]({{ site.url }}/assets/images/6bc6b34f700e801808596637cefddb1a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6bc6b34f700e801808596637cefddb1a)
 
-![]({{ site.url }}/assets/images/b6a4fdc011a8cd743a9b2f080a966d42.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b6a4fdc011a8cd743a9b2f080a966d42)
 
 还应该指出的是刚搬到波特兰的樱飞雪和社区成员间的第一次面就是在这次活动中[强]
 
 我们一行12人离开中国城不久，卜兰子一家三口便来到兰苏园参加今天的汉语角活动。卜兰子后来最大的体会也是这项活动对孩子非常的适合，用她的话说，就是“教学相长”。看照片，场面显得其乐融融。
 
-![]({{ site.url }}/assets/images/20e3d51b32cc0b9ab669069776f300d3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/20e3d51b32cc0b9ab669069776f300d3)
 
-![]({{ site.url }}/assets/images/5785f50909c87b61d296ebd05580b46c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5785f50909c87b61d296ebd05580b46c)
 
-![]({{ site.url }}/assets/images/5a2fb8b55682dbc39c5ee207ef89d8b5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5a2fb8b55682dbc39c5ee207ef89d8b5)

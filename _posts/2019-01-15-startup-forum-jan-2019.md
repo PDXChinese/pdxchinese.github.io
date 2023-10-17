@@ -20,22 +20,22 @@ The chatting history for this WeChat group "PDX 社区创业论坛" is shown bel
 
 后一小时的股市投资讲座由TA（技术分析）大师虫虫先生和FA（基本面分析）大拿汤立负责，两人显然经过股市的惊涛骇浪，在群友不断发问之下，显得处事不惊，即便我都知道是在给他们挖坑。留给我自己的时间不多，只能是提醒大家人生苦短，投资一定要做，但是要知道怎么样做才是最为适合自己的方式，无论是Day Trading，做波段，还是buy and hold，乃至请专业人士（财务顾问）。所以，我们回头先搞一个投资群或俱乐部，给操作不多但有比较多投资额的人群。最后我提到的一个相当于现金但有2.37%的mutual fund叫做FZDXX，供大家参考。
 
-![]({{ site.url }}/assets/images/e5ce68123c44ed971f2f60002a658bb1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e5ce68123c44ed971f2f60002a658bb1)
 
-![]({{ site.url }}/assets/images/31652833f2928df7a30202c8a0209a52.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/31652833f2928df7a30202c8a0209a52)
 
-![]({{ site.url }}/assets/images/a112b1c2641fff4d170d2e96e458bc81.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a112b1c2641fff4d170d2e96e458bc81)
 
-![]({{ site.url }}/assets/images/dfa24003eafb0e99fe2ad389f3cc796c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dfa24003eafb0e99fe2ad389f3cc796c)
 
-![]({{ site.url }}/assets/images/078d867f1a8bae66933f881c2cb6b789.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/078d867f1a8bae66933f881c2cb6b789)
 
-![]({{ site.url }}/assets/images/70c815187b1f3a59f33fe7d84fea4ab9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/70c815187b1f3a59f33fe7d84fea4ab9)
 
-![]({{ site.url }}/assets/images/fdbcd59b15d92071329d19440fd0cdcb.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/fdbcd59b15d92071329d19440fd0cdcb)
 
-![]({{ site.url }}/assets/images/4f748eebf7e0aac146c5303e952feedb.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4f748eebf7e0aac146c5303e952feedb)
 
-![]({{ site.url }}/assets/images/a94427b3d80923fc7615c6c4420fc0df.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a94427b3d80923fc7615c6c4420fc0df)
 
-![]({{ site.url }}/assets/images/97885e68c1423456437fa91f3206e8c2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/97885e68c1423456437fa91f3206e8c2)

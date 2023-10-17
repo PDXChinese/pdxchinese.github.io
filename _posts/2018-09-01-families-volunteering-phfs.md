@@ -69,22 +69,22 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 非常感谢[IBe](http://ibeusa.com/)公司提供了大量精美食物
 
-![]({{ site.url }}/assets/images/01a22fc2a09f13b1abacfcca3ce5e574.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/01a22fc2a09f13b1abacfcca3ce5e574)
 
-![]({{ site.url }}/assets/images/29e6e3bd313725f4af99aa2fa701c4f2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/29e6e3bd313725f4af99aa2fa701c4f2)
 
-![]({{ site.url }}/assets/images/69734027031cb34079714d5529c05f5e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/69734027031cb34079714d5529c05f5e)
 
-![]({{ site.url }}/assets/images/f8717aa2e5e118fc5c8b86fe06bc36cf.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f8717aa2e5e118fc5c8b86fe06bc36cf)
 
-![]({{ site.url }}/assets/images/3a8e94fdf388c97b6bbf105b3a827841.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3a8e94fdf388c97b6bbf105b3a827841)
 
-![]({{ site.url }}/assets/images/c956b1f290cf288a829f4be3b3ca8bbe.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c956b1f290cf288a829f4be3b3ca8bbe)
 
-![]({{ site.url }}/assets/images/c92270a32e368ded2cdca15f9b695c22.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c92270a32e368ded2cdca15f9b695c22)
 
-![]({{ site.url }}/assets/images/cf4b7a89ce33e6cf5ef97f9274e4f40e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/cf4b7a89ce33e6cf5ef97f9274e4f40e)
 
-![]({{ site.url }}/assets/images/85cdf705b93d82a26a60572cb85908ff.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/85cdf705b93d82a26a60572cb85908ff)
 
-![]({{ site.url }}/assets/images/ef35d3977273baef19679bcaa3b8a192.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ef35d3977273baef19679bcaa3b8a192)

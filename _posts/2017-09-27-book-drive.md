@@ -21,23 +21,23 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  00:51
 
-![]({{ site.url }}/assets/images/e378925cae02e6de44bbf04fb457653f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e378925cae02e6de44bbf04fb457653f)
 
 西北兆  00:51
 
-![]({{ site.url }}/assets/images/3ace66f23eb8f5ce2f7dc80bc9ef08b3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3ace66f23eb8f5ce2f7dc80bc9ef08b3)
 
 西北兆  00:51
 
-![]({{ site.url }}/assets/images/20b006ead1d4160da0d1c3c60faea4e1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/20b006ead1d4160da0d1c3c60faea4e1)
 
 西北兆  00:51
 
-![]({{ site.url }}/assets/images/316e68f4621566ee220eb83a6fc0c9a3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/316e68f4621566ee220eb83a6fc0c9a3)
 
 西北兆  00:52
 
-![]({{ site.url }}/assets/images/cc141b85548ac8c4a67966fc8135b27d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/cc141b85548ac8c4a67966fc8135b27d)
 
 西北兆  00:52
 
@@ -53,7 +53,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  00:55
 
-![]({{ site.url }}/assets/images/d4e9773f4edfc89271e73155beac17f4.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d4e9773f4edfc89271e73155beac17f4)
 
 西北兆  00:55
 
@@ -72,7 +72,7 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  01:35
 
-![]({{ site.url }}/assets/images/8f7829c4ecfc3f600afb85d142bdc9d1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8f7829c4ecfc3f600afb85d142bdc9d1)
 
 西北兆  01:44
 
@@ -100,15 +100,15 @@ Thank you again and wish you the best for the new school year.
 
 西北兆  02:01
 
-![]({{ site.url }}/assets/images/145c888213abea9e1f66c497d5106372.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/145c888213abea9e1f66c497d5106372)
 
 西北兆  02:01
 
-![]({{ site.url }}/assets/images/f1c7373bdc01b2e2db18833668fb6584.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f1c7373bdc01b2e2db18833668fb6584)
 
 西北兆  02:01
 
-![]({{ site.url }}/assets/images/4c53b381d113384c1a97ea1056c3d507.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4c53b381d113384c1a97ea1056c3d507)
 
 西北兆  02:03
 

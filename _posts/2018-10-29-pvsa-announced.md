@@ -22,7 +22,7 @@ OCC决定成为The President's Volunteer Service Award的认证组织（审批�
 []报名链接](https://docs.google.com/forms/d/e/1FAIpQLSfvRHU44_ukmC_iv_62twuYjw5HgOrPPda-QMG2eI8KtHz9BA/viewform?c=0&w=1)
 
 
-![]({{ site.url }}/assets/images/564dfdffa65fb9edb783a388ddd3839b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/564dfdffa65fb9edb783a388ddd3839b)
 
 —————  2018-10-26  —————
 

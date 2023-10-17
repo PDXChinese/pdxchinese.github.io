@@ -17,28 +17,28 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 九十月份的活动Nancy已经帮我们大家订下日期了，希望能看到更多第一次参加这样活动的群友，如今天的东北老乡Cody，还有Jay一家三口。
 
-![]({{ site.url }}/assets/images/b2d4010ce6c436e9e5a076239420fc46.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b2d4010ce6c436e9e5a076239420fc46)
 
-![]({{ site.url }}/assets/images/94cef39ed11cf2246c860980cae96dc5b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/94cef39ed11cf2246c860980cae96dc5b)
 
-![]({{ site.url }}/assets/images/f61e7750697b4eefc6981e88bbb9d71a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f61e7750697b4eefc6981e88bbb9d71a)
 
-![]({{ site.url }}/assets/images/c22efd4d46fa65e759e6f55831db33ca.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c22efd4d46fa65e759e6f55831db33ca)
 
-![]({{ site.url }}/assets/images/8662dafd4c3d46a91613caa15e10fcd7b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8662dafd4c3d46a91613caa15e10fcd7b)
 
-![]({{ site.url }}/assets/images/3e75b2c7e82405bd1ddc4dc532a378e1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3e75b2c7e82405bd1ddc4dc532a378e1)
 
-![]({{ site.url }}/assets/images/f9b634615c0b27d44c6ee0106658023b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f9b634615c0b27d44c6ee0106658023b)
 
-![]({{ site.url }}/assets/images/eb147a322e2165072e89f876f649f5d7.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/eb147a322e2165072e89f876f649f5d7)
 
-![]({{ site.url }}/assets/images/0c6b9e343948ad46c35d3828de52ac2e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0c6b9e343948ad46c35d3828de52ac2e)
 
-![]({{ site.url }}/assets/images/f566a67adb673076fc1370308eeb6f24b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f566a67adb673076fc1370308eeb6f24b)
 
-![]({{ site.url }}/assets/images/4c125f99c0b2fa985d805d223eda0a03.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4c125f99c0b2fa985d805d223eda0a03)
 
-![]({{ site.url }}/assets/images/d03734559f1ac0c0685fbade2c4695aa.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d03734559f1ac0c0685fbade2c4695aa)
 
-![]({{ site.url }}/assets/images/2dd57efde3acf9f6beb6a193b2f83b67.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2dd57efde3acf9f6beb6a193b2f83b67)

@@ -15,16 +15,16 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 >However, I still feel like I could improve on many things. I felt that I did not speak enough and I didn’t feel independent. Often times, I would ask my mom for help or I would shy away from people. I was very kind and open towards younger children, but I was much more introverted and quiet near adults. Overall, I think my volunteering was very successful.
 
-![]({{ site.url }}/assets/images/0da4e6f1d8a28b0b3019af633f34de3e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0da4e6f1d8a28b0b3019af633f34de3e)
 
-![]({{ site.url }}/assets/images/76707eff6b646b72eb7819eaf1fe17cb.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/76707eff6b646b72eb7819eaf1fe17cb)
 
-![]({{ site.url }}/assets/images/af7f5f9a149121ba3f9264b4be30a822.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/af7f5f9a149121ba3f9264b4be30a822)
 
-![]({{ site.url }}/assets/images/c7753330fc25b45b0de7192ff63d9201.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c7753330fc25b45b0de7192ff63d9201)
 
-![]({{ site.url }}/assets/images/b6f2385229d44c795cd7b338015ddaf3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b6f2385229d44c795cd7b338015ddaf3)
 
-![]({{ site.url }}/assets/images/046577ea931ef66438aa123e75883d58.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/046577ea931ef66438aa123e75883d58)
 
-![]({{ site.url }}/assets/images/9c0743292bafc8276f949a8494ab36ea.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9c0743292bafc8276f949a8494ab36ea)

@@ -17,17 +17,17 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 座谈会有80余人参加，有些“群众运动”的感觉。我个人认为这是一件好事，把大家凑在一起，我相信很多人是会为我们社区人才和资源库存之丰富而感到吃惊的。实际上，就是因为筹备这次座谈会，就很可能促成了一项商业合作。而我们还没有开始呢。我只是希望大家get ready, let the dreams fly (给梦想一双翅膀)。
 
-![]({{ site.url }}/assets/images/71a03b2136bb9032bf71fdbfe449a51a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/71a03b2136bb9032bf71fdbfe449a51a)
 
-![]({{ site.url }}/assets/images/dac3d9c254ab125b18db761495c4ba44.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dac3d9c254ab125b18db761495c4ba44)
 
-![]({{ site.url }}/assets/images/2bb6527a46a6e7dc16cdd8f80cb44256.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2bb6527a46a6e7dc16cdd8f80cb44256)
 
-![]({{ site.url }}/assets/images/8f9964535fa7bc45f78aa3e52c60b431.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8f9964535fa7bc45f78aa3e52c60b431)
 
-![]({{ site.url }}/assets/images/a7e33a5f02a02f3835c26e9e437c8802.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a7e33a5f02a02f3835c26e9e437c8802)
 
-![]({{ site.url }}/assets/images/dcf96d90f110b5df7b9568bcdd5bbc9e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dcf96d90f110b5df7b9568bcdd5bbc9e)
 
 The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is shown below.
 
@@ -41,10 +41,10 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 此次活动能够成功顺利举办，要特别感谢@雪梨 提供的场地和精心的布置，感谢刘勇的夫人@Lihong 一直在走廊照顾孩子们，感谢与会大家带来的精美食品，并参与会前的布置和会后的收拾。
 
-![]({{ site.url }}/assets/images/44d795254556036135e80704113ba524.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/44d795254556036135e80704113ba524)
 
-![]({{ site.url }}/assets/images/aa87c55ec8b5873ef2b6ff13f3fadffb.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/aa87c55ec8b5873ef2b6ff13f3fadffb)
 
-![]({{ site.url }}/assets/images/0268367be7b3cab0a68ccd0512e0aeaf.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0268367be7b3cab0a68ccd0512e0aeaf)
 
-![]({{ site.url }}/assets/images/81505debc27c9862320e271875a23df4.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/81505debc27c9862320e271875a23df4)

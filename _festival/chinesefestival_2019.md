@@ -128,7 +128,7 @@ Please contact us through our [Contact Us](http://pdxchinese.org/contact/) page 
 [Oregonlive](http://s.oregonlive.com/aNu9zFc)  
 [Portland State Vanguard](https://psuvanguard.com/oregon-chinese-coalition-hosts-chinese-festival/)
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ### Recent public cultural events Oregon Chinese Coalition organized
 

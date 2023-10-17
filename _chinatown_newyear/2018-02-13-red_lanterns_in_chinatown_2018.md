@@ -2,27 +2,27 @@
 title: "Hanging Red Lanterns in Chinatown (02.13.2018)"
 ---
 
-![]({{ site.url }}/assets/images/927a2f6996fc6d6893eedda57f375299.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/927a2f6996fc6d6893eedda57f375299)
 
-![]({{ site.url }}/assets/images/cbe5c84ca0087eba6d7f1f92c3713448.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/cbe5c84ca0087eba6d7f1f92c3713448)
 
-![]({{ site.url }}/assets/images/17689956af37ac4db4736e83eaf6ac78.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/17689956af37ac4db4736e83eaf6ac78)
 
-![]({{ site.url }}/assets/images/8ba7fb610839ea5a62e2ebb626022565.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8ba7fb610839ea5a62e2ebb626022565)
 
-![]({{ site.url }}/assets/images/2970da4f4d84e3e301fdc2cc3902163c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2970da4f4d84e3e301fdc2cc3902163c)
 
-![]({{ site.url }}/assets/images/ecb04d83aade3bf2172fa0a981f5be48.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ecb04d83aade3bf2172fa0a981f5be48)
 
-![]({{ site.url }}/assets/images/ae28e52b2086ab79b5f418410fc6994e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ae28e52b2086ab79b5f418410fc6994e)
 
-![]({{ site.url }}/assets/images/9c6338687b4728b6e547e1bc26305485.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9c6338687b4728b6e547e1bc26305485)
 
-![]({{ site.url }}/assets/images/61b66cde385f27e85a293d1aeccce1e3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/61b66cde385f27e85a293d1aeccce1e3)
 
-![]({{ site.url }}/assets/images/04ef05e2602a049a9fba9a959e25b10b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/04ef05e2602a049a9fba9a959e25b10b)
 
-![]({{ site.url }}/assets/images/2243de3b0d5ab17d2909429dd8ab788e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2243de3b0d5ab17d2909429dd8ab788e)
 
 ![]({{ site.url }}/assets/images/chinatown/1d5c6cfdb1b4d8042650a7a931cc7687.jpg)
 

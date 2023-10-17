@@ -49,7 +49,7 @@ feature_row2:
     title: "Isabelle Zheng"
     excerpt: "<p>Isabelle, a freshman at Harvard University, is the co-founder and executive director of <a href='http://projectprelude.org'>Project Prelude</a>, a non-profit organization she started with a fellow musician that provides free after-school group violin lessons to dozens of fourth- through sixth-graders in the Portland area. She is also a dedicated flutist in her youth orchestra, an advocate of youth entrepreneurship, and active club leader at her school.</p><p>Isabelle is the distinguished finalist for 2017 Prudential Spirit of Community Awards.</p>"
 ---
-![]({{ site.url }}/assets/images/bbe6f25c77ca030fbcd56311dbff79de.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/bbe6f25c77ca030fbcd56311dbff79de)
 
 ## Our Mission
 

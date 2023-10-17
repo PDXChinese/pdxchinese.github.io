@@ -11,26 +11,26 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 今天参加在兰苏园举办的每周一次汉语角活动的是@在路上 群友一家。从照片上可以看到不少温馨的场面。我们华人多才多艺世人皆知，但多是停留在传说中。这一家人在今天这样的场景下把琴棋书画表现个淋漓尽致，娱乐了游人，幸福了自己。今天园内园外的华人都是满满的正能量，感谢有他们，因为他们的参与，再一次把华人的正面形象传给了更多的人。
 
-![]({{ site.url }}/assets/images/6994521a71a86db5a03b1223772eda24.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6994521a71a86db5a03b1223772eda24)
 
 Barrett 小朋友在向游客介绍围棋规则。
 
 清奇的竹笛与兰苏园的江南风韵正两相宜。
 
-![]({{ site.url }}/assets/images/4aa396501465a9e06c267676f8d2db84.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4aa396501465a9e06c267676f8d2db84)
 
 乘着音乐的翅膀 ——— "姑苏行”。
 
-![]({{ site.url }}/assets/images/75f3a8630a45e979861d3ca13e67927e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/75f3a8630a45e979861d3ca13e67927e)
 
 游客朋友对中国民乐独有的音色很感兴趣，Nancy在介绍古筝和简谱。
 
-![]({{ site.url }}/assets/images/05f32a32eabcbbda684215ba0e8715bd.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/05f32a32eabcbbda684215ba0e8715bd)
 
 千里之外，千年古筝。
 
-![]({{ site.url }}/assets/images/2a06024640942cd6bae99cd15561b8d6.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2a06024640942cd6bae99cd15561b8d6)
 
-![]({{ site.url }}/assets/images/0ce476587175466695e5f80998c1ae45.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0ce476587175466695e5f80998c1ae45)
 
 图片之间的插话来自于妈妈，也就是@在路上 群友[强]

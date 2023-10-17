@@ -21,6 +21,6 @@ Despite not being a very hardworking or focused person, I actually really enjoy 
 
 But really, what brightens my day is seeing all the people we help out smile.
 
-![]({{ site.url }}/assets/images/5e009dd038c4d56ff3324033fd37c65c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5e009dd038c4d56ff3324033fd37c65c)
 
-![]({{ site.url }}/assets/images/78c6bdcc3a5f102d82b4c50e041da2f9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/78c6bdcc3a5f102d82b4c50e041da2f9)

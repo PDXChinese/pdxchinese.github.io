@@ -48,24 +48,24 @@ Mavis张欣  21:00
 
 文化是一个载体，活动的主体则是我们的志愿者们/:strong
 
-![]({{ site.url }}/assets/images/e4340a5afd1ade91a26f73764c4785bf.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e4340a5afd1ade91a26f73764c4785bf)
 
-![]({{ site.url }}/assets/images/64cf897642d0a21952fec328737e2630.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/64cf897642d0a21952fec328737e2630)
 
-![]({{ site.url }}/assets/images/5454b90b318e1935afaf33c90db58c11.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5454b90b318e1935afaf33c90db58c11.jpg)
 
-![]({{ site.url }}/assets/images/ec156baaca69132c7a3ace5c7495fc2f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ec156baaca69132c7a3ace5c7495fc2f)
 
-![]({{ site.url }}/assets/images/f9abdf6518b87d5b75ccc5b9cc87f0cb.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f9abdf6518b87d5b75ccc5b9cc87f0cb)
 
-![]({{ site.url }}/assets/images/1476b36c447abe358db783ad7897d60c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/1476b36c447abe358db783ad7897d60c)
 
-![]({{ site.url }}/assets/images/cfd3bed3be7b8e70dcbb78976ac96e20.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/cfd3bed3be7b8e70dcbb78976ac96e20)
 
-![]({{ site.url }}/assets/images/01bb9ef985fe40c6990daf9b91923eea.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/01bb9ef985fe40c6990daf9b91923eea)
 
-![]({{ site.url }}/assets/images/4a3c056fc12ab05a76b5e068d5c40143.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4a3c056fc12ab05a76b5e068d5c40143)
 
-![]({{ site.url }}/assets/images/1a19bdd3d2952a27d7cdd39c463fdae2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/1a19bdd3d2952a27d7cdd39c463fdae2)
 
-![]({{ site.url }}/assets/images/35bd394c535f4732105278de86eabfb5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/35bd394c535f4732105278de86eabfb5)

@@ -15,9 +15,9 @@ date: "2020-03-24"
 
 今天，金教授不辞辛苦，驱车3个多小时来到Medford，拜访了Asante Foundation。那里的PPE供应问题更加的严重，她们动员本地900个家庭缝制口罩。金教授深受感动，给她们留下了1,260个N95和500多个一次性口罩。
 
-![]({{ site.url }}/assets/images/15fa8b4971e363e7d988533a6855078d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/15fa8b4971e363e7d988533a6855078d)
 
-![]({{ site.url }}/assets/images/a5924f41a480796d02669437e0d91b56.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a5924f41a480796d02669437e0d91b56)
 
 这次整个南下捐赠活动一共分发出去5,460个N95口罩和1,900多个各式医用口罩。
 
@@ -28,13 +28,13 @@ date: "2020-03-24"
 
 此后的几天，金教授将继续沿着5号高速南下，把余下的N95捐赠给当地两家医院，同时会把手上一次性口罩捐赠给坚守岗位的市政职工们。
 
-![]({{ site.url }}/assets/images/d8148685a81de85c7b490042ceabed15.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d8148685a81de85c7b490042ceabed15)
 
-![]({{ site.url }}/assets/images/ae9d2a43c71583e7ba806e4ec77c4ce3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ae9d2a43c71583e7ba806e4ec77c4ce3)
 
-![]({{ site.url }}/assets/images/036610271adb98329537d55eb73ffb6c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/036610271adb98329537d55eb73ffb6c)
 
-![]({{ site.url }}/assets/images/3e7b8e5f7dacea0eb94d0f27ec4d089f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3e7b8e5f7dacea0eb94d0f27ec4d089f)
 
 【社区捐赠医疗物资活动进展4/20】 抗疫征途上，never a dull moment！州长的stay at home行政令下，大家呆在家里就等于save lives。但是，那些不是很幸运的人们现在更需要别人的关照，有那么一些人，他们置自己的安危而不顾，比平时更加忙碌着。大家熟悉的Clay Street Table的Paul就是这样的人，他与HomePDX的Bruce和The Giving Tree的Gloria合作，为众多街友和低收入及老人公寓的住户提供份饭。当我联系到他们的时候，他们非常的兴奋，正打算为这个人群提供口罩，但是口罩自然是无从寻觅。
 
@@ -42,25 +42,25 @@ date: "2020-03-24"
 
 前一天晚上，突发奇想，想做一个什么东西，可以让人们能再握起手来，这就成了照片里的样子。两个袖子是West Coast Handmade Alliance技术骨干桂香连夜缝制出来的。
 
-![]({{ site.url }}/assets/images/8f9cd2676c055e883b42acad30144c04.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8f9cd2676c055e883b42acad30144c04)
 
-![]({{ site.url }}/assets/images/80f4dee414da350034be9d683a5e3b63.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/80f4dee414da350034be9d683a5e3b63)
 
-![]({{ site.url }}/assets/images/ec31a5263208323e3388522b0fe91949.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ec31a5263208323e3388522b0fe91949)
 
-![]({{ site.url }}/assets/images/8ddad7917101dd48cd356c9323ae1d7d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8ddad7917101dd48cd356c9323ae1d7d)
 
-![]({{ site.url }}/assets/images/7bdd28244e97a2d48201f4b3f5dc09c9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7bdd28244e97a2d48201f4b3f5dc09c9)
 
-![]({{ site.url }}/assets/images/a4c6a59b14e0785583ee1e524adc3c60.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a4c6a59b14e0785583ee1e524adc3c60)
 
 今天早上如期收到了FedEx送过来的N95口罩。白天剩下的时间就忙活落实捐赠医院，明天一天就会载着我们全社区的爱心在捐赠路上。。。
 
-![]({{ site.url }}/assets/images/78b4dfb5ecdf85da27b5d339ecf75742.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/78b4dfb5ecdf85da27b5d339ecf75742)
 
-![]({{ site.url }}/assets/images/04c1524242926cfb9e5f9ef7cb147961.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/04c1524242926cfb9e5f9ef7cb147961)
 
-![]({{ site.url }}/assets/images/6c5a77929b8911ab5796213cdbae5728.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6c5a77929b8911ab5796213cdbae5728)
 
 
 【社区捐赠医疗物资活动进展4/17】 几天没上来，因为的确是分秒必争。首先要和大家说的是我们社区的口罩捐赠活动即将告一段落，向社区家庭征集的口罩已经超过了一万！除了已经介绍过的捐赠活动之外，上个周二驱车到Hillsboro两家WinCo店(SW Oak St and NE Butler St)，向他们各赠送了350只口罩。这个周末会赠送800只口罩给Clay Street Table，他们和HomePdx，The Giving Tree一起会为住在低收入公寓家庭送食品袋中各装入一只口罩。
@@ -71,29 +71,29 @@ date: "2020-03-24"
 
 回来的路上，先后在Tigard和Beaverton两家WinCo店停留，给那里的员工留下了一共700只口罩。明天还会去Hillsboro的两家店。在此之前，乘shopping的机会和店员聊天，在店里不提供口罩的情况下，他们只能四处寻找，幸运得到的并不多，即便如此，应该也是重复使用。希望我们的捐赠能为员工们多少解除一些后顾之忧。
 
-![]({{ site.url }}/assets/images/8c26ae84a36100bf13b7baffc0e5026e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8c26ae84a36100bf13b7baffc0e5026e)
 
 【社区捐赠医疗物资活动进展4/12】 非常高兴与大家分享的是，我们社区活动开始受到主流媒体和社交媒体的热情关注。
 
 周五在Multnomah County Medical Center捐赠的post在我们的脸书上发出以后，在过去的两天时间关注的人数达到了一万八千多人，我脑子蹦出来的一个词就是Go Viral，应该不算是夸张。
 
-![]({{ site.url }}/assets/images/ef212f50e65bed03cb55720eda7d988d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ef212f50e65bed03cb55720eda7d988d)
 
 周日晚上KGW播出了对我们社区捐赠活动的报道，内容丰富，定位准确，应该是近些年来主流媒体比较正面展现华人社区面貌的不多见的一次，归根结底要归功于社区所有人的参与和支持。同时，出镜的几位为提升华人形象也是非常的加分！
 
 昨天收到一封来信，是接受了我们分发N95口罩的一位医生的8岁和4岁孩子写来的感谢信，很有意思，只是画的画我怎么也搞不清楚怎么放才是对的。
 
-![]({{ site.url }}/assets/images/02ff3983c28c916affbb84fa279ef2c4.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/02ff3983c28c916affbb84fa279ef2c4)
 
-![]({{ site.url }}/assets/images/be0cd584201a6b0149b59400a7fc235f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/be0cd584201a6b0149b59400a7fc235f)
 
 【社区捐赠医疗物资活动进展4/10】 今天我们选择的捐赠对象是Multnomah County NE Medical Center，也许很多人不太熟悉这个由政府所有的医疗中心，那些低收入和无医保阶层的看病问题大多在这些地方得到解决，所以，这个中心选址在NE Martin Luther King Jr. Blvd。看见照片背景的5329了吗，对于很多人来说，那个门牌号码很具象征意义。
 
 感谢崔玲群友的推荐，后面附上她前两个星期写的短文，介绍了中心缺少PPE的情况和医护人员的心态。今天接待我们的中心主管看到从车上卸下来的PPE（140个N95，150个KN95，480个外科口罩和三大箱子防护服），难以控制激动的心情，禁不住留下了眼泪。
 
-![]({{ site.url }}/assets/images/760c2f77f9b095c28e5b6d7040e783bf.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/760c2f77f9b095c28e5b6d7040e783bf)
 
-![]({{ site.url }}/assets/images/26ca9b44e11b218c303ef7c232a5b28b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/26ca9b44e11b218c303ef7c232a5b28b)
 
 【社区捐赠医疗物资活动进展4/9】 今天下午将3,000个口罩送到了TriMet位于河东的办公大楼。感谢TriMet给了我们这样一个机会，能够为坚守岗位的公交司机们做点什么。也正因如此，我们在大家捐赠的5,000多个口罩中又做了精心挑选，外科口罩占了三分之一多。为了不让包装上的中文影响使用，在箱子里放进去说明，标注出了不同口罩的类型。
 
@@ -101,17 +101,17 @@ date: "2020-03-24"
 
 我自己也结束了裸奔，看到今天戴的口罩了吗？我是刻意从West Coast Hand-Made Mask Alliance索要来的，打算演示给TriMet，没想到这个是Echo的第一个作品，看着实在是酷，戴起来也非常的舒服。她们非常的用心，中间都预留了夹层，可以自己放进去一个医用口罩，挂在耳朵上的带子还可以调节长度。明天KGW肯定会详细报道，看来她们要火了。
 
-![]({{ site.url }}/assets/images/ad669f209215b1f56439e21da542af50.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ad669f209215b1f56439e21da542af50)
 
-![]({{ site.url }}/assets/images/b35f18768a75ca766f71101bdc4c3b32.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b35f18768a75ca766f71101bdc4c3b32)
 
 【社区捐赠医疗物资活动进展4/7】 我们的口罩收集进展在第三天再次突飞猛进，几近5000大关！现在，我们不仅可以预留足够的口罩捐献给Trimet，还可以考虑一些群友提出来的为坚持岗位的grocery stores员工提供最基本的防护。
 
 今天一大早，群友@J Zhang发微信希望捐赠530个不同型号的口罩，正好一位群友提到Hearthstone at Murrayhill Senior Living Community动员员工自己缝制口罩，我便建议一起去那里把其中的400个口罩捐献给他们。上午11点我们在那里见面的时候，@J Zhang带来了全家，尤其是孩子们很懂事，希望能为住在这里的老爷爷老奶奶们做些什么。老人中心的两位领导喜出望外，跟我介绍了中心的情况，据说已经有三位护理人员有些症状，但老人们都很好。希望我们的捐赠能够给员工和老人们带来一些安全感。
 
-![]({{ site.url }}/assets/images/5a6d777896e0113ca3e91e696962be0a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5a6d777896e0113ca3e91e696962be0a)
 
-![]({{ site.url }}/assets/images/68c3d3c6e57acd47486d1ddadcac4436.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/68c3d3c6e57acd47486d1ddadcac4436)
 
 一下午一直忙活KGW对我们的参访，他们认为我们做的一系列捐赠活动非常的有意义，后来我跟他们说，整个社区还有不少团体及个人做着同样的事，包括West Coast Hand-Made Masks Alliance和Youth-Link。对我们的报道将会在周三或周四播出，尽可能会提前通知大家。
 
@@ -119,11 +119,11 @@ date: "2020-03-24"
 
 【社区捐赠医疗物资活动进展4/6】 望眼欲穿的一万个N95终于要在两个小时之后踏上旅途，不出意外的话，周五或周六就会到达波特兰。我们计划当天就捐赠给医院，只要来得急的话。选定的医院将以收治新冠病人数为主要考量，同时不希望过于分散。这次捐赠将是我们本地华人最大一笔，完全是在大家的支持下才能走到今天，更是有了大家的捐款，我们向社会展现的奉献精神才有可能最终得以实现。
 
-![]({{ site.url }}/assets/images/79c7bc6cb952686b15acd88a3ebd67ad.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/79c7bc6cb952686b15acd88a3ebd67ad)
 
 全部费用估计在2万6千左右，目前账面显示$16,580，加上一些群友利用公司match的捐款和寄来的支票，应该有1万8千上下。看看我们大家能不能再努把力把缺口补上，我们需要尽快把货款还给为我们垫付的群友。
 
-![]({{ site.url }}/assets/images/053455c146be562a6c00ebd1eecfc30a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/053455c146be562a6c00ebd1eecfc30a)
 
 在前天发出为Trimet捐赠口罩的微信之后，仅仅两天时间，即收到3,200个口罩，远远超出了我们的预期。大家看到照片中的口罩，是不是五花八门，品牌型号可以说是应有尽有，这也正好显示出了我们对公交司机们的支持来自我们社区普普通通的家庭（名单会在捐赠活动后公布）。因为有了足够的口罩，我们决定拿出200个，加上原有的100个，明天捐赠给另外一家老人院。
 

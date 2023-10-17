@@ -40,7 +40,7 @@ Okay, I am done with my intro. Thank you for giving me such honor to host this t
 
 西北兆  20:11
 
-![]({{ site.url }}/assets/images/06b151a2b50f66bfffe37f7689148c18.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/06b151a2b50f66bfffe37f7689148c18.jpg)
 
 西北兆  20:12
 
@@ -121,7 +121,7 @@ I think that even during high school
 
 西北兆  20:22
 
-![]({{ site.url }}/assets/images/53c3ba6039b1c35ce97168f1ec2abf19.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/53c3ba6039b1c35ce97168f1ec2abf19)
 
 Wayne Xun  20:22
 
@@ -171,7 +171,7 @@ that many highly academic high schoolers struggle with profoundly in college. No
 
 西北兆  20:27
 
-![]({{ site.url }}/assets/images/c33b69a802abdb8e2a83d95ab389ab22.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c33b69a802abdb8e2a83d95ab389ab22)
 
 Wayne Xun  20:27
 
@@ -443,7 +443,7 @@ is your friend circle changed from high school to college?
 
 西北兆  20:50
 
-![]({{ site.url }}/assets/images/700ee8ee13c20a6f6404df9035dee3f9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/700ee8ee13c20a6f6404df9035dee3f9)
 
 Wayne Xun  20:51
 
@@ -640,7 +640,7 @@ Before we finish, I want to share some of the photos I go from Wayne for his lif
 
 西北兆  21:11
 
-![]({{ site.url }}/assets/images/47dfd874488acccc570e3d8173b0700c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/47dfd874488acccc570e3d8173b0700c)
 
 西北兆  21:12
 
@@ -648,7 +648,7 @@ Ice skating in Chicago freshman year of college
 
 西北兆  21:12
 
-![]({{ site.url }}/assets/images/808f7992eb4199f11bbbc2e5466cdf2f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/808f7992eb4199f11bbbc2e5466cdf2f)
 
 西北兆  21:12
 
@@ -660,11 +660,11 @@ Hung out with the other Mathworks interns in Boston in the summer before Senior 
 
 西北兆  21:12
 
-![]({{ site.url }}/assets/images/a90a955a70a5cab4a9f98a88059b63f3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a90a955a70a5cab4a9f98a88059b63f3)
 
 西北兆  21:13
 
-![]({{ site.url }}/assets/images/ccdedad44f4175810174f82cac6a02fa.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ccdedad44f4175810174f82cac6a02fa)
 
 西北兆  21:13
 
@@ -680,7 +680,7 @@ Just wish she was as organized with me back then as she is with them now...
 
 西北兆  21:13
 
-![]({{ site.url }}/assets/images/669e5288ca0ff750b6b8b69b93ae449b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/669e5288ca0ff750b6b8b69b93ae449b)
 
 西北兆  21:13
 
@@ -688,7 +688,7 @@ Visiting a graduated friend now working at Facebook
 
 西北兆  21:14
 
-![]({{ site.url }}/assets/images/f29c9325b3dd3a530335c991f2e0e407.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f29c9325b3dd3a530335c991f2e0e407)
 
 西北兆  21:14
 

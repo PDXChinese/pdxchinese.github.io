@@ -17,21 +17,21 @@ The chatting history for this WeChat group "PDX 华人社区公益一群" is sho
 
 对于社区，最好的回报则是看到孩子们的成长，尤其是脸上洋溢出来的自信和动作中流露出来的那股子力量。相信大家也会从照片中看得出来。
 
-![]({{ site.url }}/assets/images/09a3351245d850468fd20d69729edad1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/09a3351245d850468fd20d69729edad1)
 
 彩排回家的路上
 
-![]({{ site.url }}/assets/images/9a9a757d0b1762f66321d1b78508205a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9a9a757d0b1762f66321d1b78508205a)
 
-![]({{ site.url }}/assets/images/f1e6a846661aebdde4657c638fec5688.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f1e6a846661aebdde4657c638fec5688)
 
-![]({{ site.url }}/assets/images/0283619406f42f63743495cb2a2c3f9a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0283619406f42f63743495cb2a2c3f9a)
 
-![]({{ site.url }}/assets/images/65d68fc2745aa45313e9d8bec5cb722f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/65d68fc2745aa45313e9d8bec5cb722f)
 
-![]({{ site.url }}/assets/images/09fd55d92516305ef4a3e30cc91245b3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/09fd55d92516305ef4a3e30cc91245b3)
 
-![]({{ site.url }}/assets/images/33bb23d9c2a7f97e3468a04fa2d108b6.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/33bb23d9c2a7f97e3468a04fa2d108b6)
 
 上面这些照片是在中国城做的快闪活动，地点选在了Wong Laundry楼前。当天也是兰苏园新年活动的第一天，中国城博物馆也有每年一度的舞龙游行。我们的鼓声一起，大家马上就聚拢了过来。在中国城近百年历史上，这应该是第一次同时敲响了这么多的大鼓。
 
@@ -41,19 +41,19 @@ The chatting history for this WeChat group "PDX 华人社区公益一群" is sho
 
 现在上年宵会上的照片[OK]
 
-![]({{ site.url }}/assets/images/704284cdc0062a0ec18902b05edd1d57.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/704284cdc0062a0ec18902b05edd1d57)
 
-![]({{ site.url }}/assets/images/6f0199914c709ae08bc080b58b98bfa6.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6f0199914c709ae08bc080b58b98bfa6)
 
-![]({{ site.url }}/assets/images/b62ec54a4dcae1a69e9ff90557bdf0ee.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b62ec54a4dcae1a69e9ff90557bdf0ee)
 
-![]({{ site.url }}/assets/images/92dd912443cfe13e2dfd9371bf205885.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/92dd912443cfe13e2dfd9371bf205885)
 
-![]({{ site.url }}/assets/images/bb7b4728a219ddc47324b87870a52d1d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/bb7b4728a219ddc47324b87870a52d1d)
 
-![]({{ site.url }}/assets/images/6cceec1e3edc98465fa7c3c6434d834c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6cceec1e3edc98465fa7c3c6434d834c)
 
-![]({{ site.url }}/assets/images/905b4661a808a2095ee059fb468011f3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/905b4661a808a2095ee059fb468011f3)
 
 年宵会上的照片和快闪的其中两张都是老张的作品，那天老张忙活了一天，说明社区春节活动遍及了整个城区，五彩缤纷，让人目不暇接。
 

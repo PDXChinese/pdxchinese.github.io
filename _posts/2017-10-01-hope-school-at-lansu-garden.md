@@ -34,31 +34,31 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  12:00
 
-![]({{ site.url }}/assets/images/3c3c39868124849c1fd454e93f1b4b54.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3c3c39868124849c1fd454e93f1b4b54)
 
 西北兆  12:00
 
-![]({{ site.url }}/assets/images/9dc2e995aba232b8d4ab44188fa1b5ee.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9dc2e995aba232b8d4ab44188fa1b5ee)
 
 西北兆  12:00
 
-![]({{ site.url }}/assets/images/d9d16a6517707b5ad5f86285fe8bd50c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d9d16a6517707b5ad5f86285fe8bd50c)
 
 西北兆  12:00
 
-![]({{ site.url }}/assets/images/28c583317416bde293c71ed22c2065a3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/28c583317416bde293c71ed22c2065a3)
 
 西北兆  12:01
 
-![]({{ site.url }}/assets/images/0351f01800b9d079d6d7027fdcc2d7d2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0351f01800b9d079d6d7027fdcc2d7d2)
 
 西北兆  12:01
 
-![]({{ site.url }}/assets/images/c2fdd4fa6366d12b6ac2888c7fbb126a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c2fdd4fa6366d12b6ac2888c7fbb126a)
 
 西北兆  12:01
 
-![]({{ site.url }}/assets/images/1c787f70fc0f6c01ee715f83e12f1992.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/1c787f70fc0f6c01ee715f83e12f1992)
 
 Lihong  12:02
 
@@ -82,11 +82,11 @@ Nancy  12:12
 
 敏Min Kong  12:14
 
-![]({{ site.url }}/assets/images/6ebfeee6bea8be966cc737081d08307a.jpg.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6ebfeee6bea8be966cc737081d08307a.jpg)
 
 敏Min Kong  12:14
 
-![]({{ site.url }}/assets/images/f83b1181c58a02cfb729794bcbecabf3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f83b1181c58a02cfb729794bcbecabf3)
 
 敏Min Kong  12:19
 
@@ -94,7 +94,7 @@ Nancy  12:12
 
 西北兆  12:22
 
-![]({{ site.url }}/assets/images/8844f1aa0ee1b14ecee731b3725fe979.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8844f1aa0ee1b14ecee731b3725fe979)
 
 西北兆  12:23
 
@@ -114,7 +114,7 @@ Nancy  12:12
 
 敏Min Kong  12:32
 
-![]({{ site.url }}/assets/images/7d5a78708530f76581d22ebf7bed796f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7d5a78708530f76581d22ebf7bed796f)
 
 兔子坡  12:33
 

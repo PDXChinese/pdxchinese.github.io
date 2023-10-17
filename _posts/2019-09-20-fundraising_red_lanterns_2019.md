@@ -21,25 +21,25 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 自从在群里发出筹款传单之后，已经陆续收到来自我们自己社区的捐款，名单都会公布在筹款网页上（[http://chinatownlanterns.org](http://chinatownlanterns.org))。到今天为止，包括学生们筹到的现金，总额已经达到了$865[强]
 
-![]({{ site.url }}/assets/images/d6b0052ebcc1c2545bd0393ab5ff5a43.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d6b0052ebcc1c2545bd0393ab5ff5a43)
 
-![]({{ site.url }}/assets/images/e37e4189e555bced027f54092feb388c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e37e4189e555bced027f54092feb388c)
 
-![]({{ site.url }}/assets/images/04dc719e5993207f9d37157b303c353d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/04dc719e5993207f9d37157b303c353d)
 
-![]({{ site.url }}/assets/images/a1c384076a42ac37ad110b1a1b5985fb.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a1c384076a42ac37ad110b1a1b5985fb)
 
-![]({{ site.url }}/assets/images/a280b5ef095e047e91856b08188deef0.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a280b5ef095e047e91856b08188deef0)
 
-![]({{ site.url }}/assets/images/9119e0c144e64bd050c05f84de88b0ac.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9119e0c144e64bd050c05f84de88b0ac)
 
-![]({{ site.url }}/assets/images/b106ac8ca2f919a4f3d6c7e22997b1e8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b106ac8ca2f919a4f3d6c7e22997b1e8)
 
-![]({{ site.url }}/assets/images/dff3aeddb3e07af790dc02e1fcfb462b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dff3aeddb3e07af790dc02e1fcfb462b)
 
-![]({{ site.url }}/assets/images/9b3e543d1c95852ebbf1c471187eaa1e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9b3e543d1c95852ebbf1c471187eaa1e)
 
-![]({{ site.url }}/assets/images/c3a72b4324960f0a7451ffc2807b6f41.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c3a72b4324960f0a7451ffc2807b6f41)
 
 —————  2019-09-19  —————
 

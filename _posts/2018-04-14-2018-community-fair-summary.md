@@ -25,37 +25,37 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 上照片之前，无论如何要提到组委会的成员们： 项小柔 Faye，凡草，孔敏，淼莲。她们付出的心血和时间是大家难以想象的，我不时调侃她们说，我这坑挖得太大了，我自己爬不上来了，也连累了大家。在此，我要对她们表示衷心的感谢，更要感谢她们的家人的理解和支持！
 
-![]({{ site.url }}/assets/images/3d6ea60667f9de80d137bbd8b43b7227.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3d6ea60667f9de80d137bbd8b43b7227)
 
-![]({{ site.url }}/assets/images/6ab40727c6488fcec71d749895193f73.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6ab40727c6488fcec71d749895193f73)
 
 这位就是梁公子，是不是很敬业，也很handsome！
 
 刘鸽在负责播放整个活动的幻灯片，她和Andrew一直坐在那里[ThumbsUp]
 
-![]({{ site.url }}/assets/images/66441e2de346f7cf91d625ea37fbf433.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/66441e2de346f7cf91d625ea37fbf433)
 
 这位是我们的全场主持： David Tan/谭子煜同学。我们在考虑主持的时候，有了更深层的考虑，那就是把这个大舞台让给我们的下一代，给他们机会得到锻炼。因为时间充忙，事前我们只是做了简单的交流，David也只是了解了活动的大概。临开场前半个小时他才拿到了最后的节目单。可是大家当天看到的是多么娴熟的一个主持人。活动结束后，我请他写一个reflection，我相信这就可以是一篇非常好的college essay。
 
-![]({{ site.url }}/assets/images/30fc3ed762796b4e7075095b0c93ed6a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/30fc3ed762796b4e7075095b0c93ed6a)
 
-![]({{ site.url }}/assets/images/5ba48b45d3079f778cf9f2afd66f9dc9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5ba48b45d3079f778cf9f2afd66f9dc9)
 
 再看我们的现场义工们，他们无缘舞台上精彩的节目，始终认认真真负责check-in和午饭工作。
 
 前两天发过的，但是重要的还是可以再发一遍的，“先大赞一下我们的义工们，这里也还指的是昨天在Food Bank和联展来回跑的的几位群友！她们上午先是来到联展现场帮助布置，到了中午，赶紧跑去Food Bank参加社区第三次集体义工活动。没想到的是，她们中的好多人做完后，又跑回到联展现场，即便是这边接近尾声，她们又是花了一个多小时，帮助收拾东西，直到我们大家最后离开。这些真是我们社区做可爱的人！”
 
-![]({{ site.url }}/assets/images/600e6e59426d4e897075d195a6734cb0.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/600e6e59426d4e897075d195a6734cb0)
 
-![]({{ site.url }}/assets/images/5840c091d63fada3d055d60b95de1af6.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5840c091d63fada3d055d60b95de1af6)
 
-![]({{ site.url }}/assets/images/ca03ed941ced646bc55171a5215159a3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ca03ed941ced646bc55171a5215159a3)
 
-![]({{ site.url }}/assets/images/da44ffc464c60dde4d7c2f01453861db.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/da44ffc464c60dde4d7c2f01453861db)
 
-![]({{ site.url }}/assets/images/c33e4fede13ef568a785dfa418a99603.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c33e4fede13ef568a785dfa418a99603)
 
-![]({{ site.url }}/assets/images/bd3ab0fef900f8d8bd82cf675da629bf.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/bd3ab0fef900f8d8bd82cf675da629bf)
 
 ## 第一部分： 社区艺术大师艺术展
 
@@ -63,13 +63,13 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 桌子上的花束大家看着可能有些眼熟了，那时我们家的，也算是为公益屡建功勋了。
 
-![]({{ site.url }}/assets/images/0ba1051af07d15cc2c1ef8031e67a7bb.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0ba1051af07d15cc2c1ef8031e67a7bb)
 
-![]({{ site.url }}/assets/images/8da388cb2d7357f5c536f447c1a566d8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8da388cb2d7357f5c536f447c1a566d8)
 
-![]({{ site.url }}/assets/images/c3f2a61d4862d3549392b909aa5f8449.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c3f2a61d4862d3549392b909aa5f8449)
 
-![]({{ site.url }}/assets/images/b496d5f045d32ef6dc6a5e43aeb3f084.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b496d5f045d32ef6dc6a5e43aeb3f084)
 
 ## 第二部分： 小艺术家作品展示
 
@@ -109,41 +109,41 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 这个名单没有包括直接把作品带到现场的小艺术家们
 
-![]({{ site.url }}/assets/images/71035b3c6d8f23e3c8df88e05080b953.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/71035b3c6d8f23e3c8df88e05080b953)
 
-![]({{ site.url }}/assets/images/175e0c6298d84d08c05f004502235c69.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/175e0c6298d84d08c05f004502235c69)
 
-![]({{ site.url }}/assets/images/e1f4f697e215ca6e0862f4a678b84ebc.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e1f4f697e215ca6e0862f4a678b84ebc)
 
-![]({{ site.url }}/assets/images/8093a4ea1db19e2daa14c8b9c557da0e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8093a4ea1db19e2daa14c8b9c557da0e)
 
-![]({{ site.url }}/assets/images/19288b60171cec1b46b8ce918dfca8ee.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/19288b60171cec1b46b8ce918dfca8ee)
 
-![]({{ site.url }}/assets/images/bd7b6a0231ae7861a86fa7e8348f7456.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/bd7b6a0231ae7861a86fa7e8348f7456)
 
-![]({{ site.url }}/assets/images/71520fdedd70bd0e15ba16206e0b9926.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/71520fdedd70bd0e15ba16206e0b9926)
 
-![]({{ site.url }}/assets/images/a4063112411b2025fc9f22fd7edd107b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a4063112411b2025fc9f22fd7edd107b)
 
-![]({{ site.url }}/assets/images/6d212eedf4ae9636d6f54e11cb36d676.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6d212eedf4ae9636d6f54e11cb36d676)
 
-![]({{ site.url }}/assets/images/2bb8997e3b49f5e5e3b8c3b23ce3d2ba.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2bb8997e3b49f5e5e3b8c3b23ce3d2ba)
 
-![]({{ site.url }}/assets/images/8bc5b4f88814bd9bfdffb443acb02c48.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8bc5b4f88814bd9bfdffb443acb02c48)
 
-![]({{ site.url }}/assets/images/0c30e02d893f0dfb611405c425fe8761.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0c30e02d893f0dfb611405c425fe8761)
 
-![]({{ site.url }}/assets/images/3bed1d1a2adc0d52351aa1412cc39a96.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3bed1d1a2adc0d52351aa1412cc39a96)
 
-![]({{ site.url }}/assets/images/5df585536d517d127e074d048e97ca01.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5df585536d517d127e074d048e97ca01)
 
-![]({{ site.url }}/assets/images/ae336369ffc647e2930b6e51a4fa35ff.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ae336369ffc647e2930b6e51a4fa35ff)
 
-![]({{ site.url }}/assets/images/2048a6a3db7f05e66e8704bef5043abe.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2048a6a3db7f05e66e8704bef5043abe)
 
-![]({{ site.url }}/assets/images/868aa0f0f89051ff602ab0122813d1c1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/868aa0f0f89051ff602ab0122813d1c1)
 
-![]({{ site.url }}/assets/images/6de5ddce050f08607d94252c30e073b8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6de5ddce050f08607d94252c30e073b8)
 
 ## 第三部分： 少年儿童时装走秀
 
@@ -153,23 +153,23 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 我和家长们见证了孩子在短短的两个星期的经历，从audition那个evening的羞涩和少许的笨拙，到连展会上的从容与自信，每个孩子都经历了一个飞跃，不仅仅是如何走T台，而且学会了如何有Eye Contact，如何面带微笑。。。这也是我们所期待的，我们能够给社区孩子们提供的，无论是什么内容，提高他们的自信心是最最重要的。
 
-![]({{ site.url }}/assets/images/ebc54ff4e20c170771d5f7f7e7ac5ae8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ebc54ff4e20c170771d5f7f7e7ac5ae8)
 
-![]({{ site.url }}/assets/images/6da3c4f8f5ea62667d61d3de855abb81.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6da3c4f8f5ea62667d61d3de855abb81)
 
-![]({{ site.url }}/assets/images/4a06bb7ae1262f613cd8ae86154eec59.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4a06bb7ae1262f613cd8ae86154eec59)
 
-![]({{ site.url }}/assets/images/c70fc827ee5bc78459418d8ef634c8be.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c70fc827ee5bc78459418d8ef634c8be)
 
-![]({{ site.url }}/assets/images/6c72ae5720cb37dd7fb434d73271cfcb.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6c72ae5720cb37dd7fb434d73271cfcb)
 
-![]({{ site.url }}/assets/images/49175ff59dd56f98d03ec781d936004a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/49175ff59dd56f98d03ec781d936004a)
 
-![]({{ site.url }}/assets/images/6b8c1ccfda648f513bb37463951b96a9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6b8c1ccfda648f513bb37463951b96a9)
 
-![]({{ site.url }}/assets/images/24b4ba4c7b94bee42e25ed2e89118e85.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/24b4ba4c7b94bee42e25ed2e89118e85)
 
-![]({{ site.url }}/assets/images/12cf9f14406c398f311c6352a00ac5ce.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/12cf9f14406c398f311c6352a00ac5ce)
 
 ## 第四部分： 孩子活动角
 
@@ -181,51 +181,51 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 大家注意到了吗？在我们西边的孩子们有着充足的课外活动的同时，他们却很少有机会近距离接触多在东边华人社区里的传统华人文化，包括舞狮舞龙活动。同样的，在东边的孩子对上面有着12个sensors的机器人肯定很是好奇。上面的画面中两边的孩子能很融洽的在一起活动，我想是让我得到最大满足的一个方面。
 
-![]({{ site.url }}/assets/images/946fa97bf09f1daaf2f975a02b7264e0.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/946fa97bf09f1daaf2f975a02b7264e0)
 
-![]({{ site.url }}/assets/images/078f827b27056e1f6ef939812e0cdc8b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/078f827b27056e1f6ef939812e0cdc8b)
 
-![]({{ site.url }}/assets/images/93a90ffe31223b27f9c811f792bf25bb.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/93a90ffe31223b27f9c811f792bf25bb)
 
-![]({{ site.url }}/assets/images/a641a0debed913af366d31217f61988a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a641a0debed913af366d31217f61988a)
 
-![]({{ site.url }}/assets/images/2d69e6f78f87fa2f5a584e63d180088b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2d69e6f78f87fa2f5a584e63d180088b)
 
-![]({{ site.url }}/assets/images/3bce47bcdb19eb03206cb866aebb170f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3bce47bcdb19eb03206cb866aebb170f)
 
-![]({{ site.url }}/assets/images/fee095802ca417c2bf9018b609d94e19.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/fee095802ca417c2bf9018b609d94e19)
 
-![]({{ site.url }}/assets/images/cf362a69fd4e7761285fb4f7a81349d1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/cf362a69fd4e7761285fb4f7a81349d1)
 
-![]({{ site.url }}/assets/images/f9e1e9b526d3d6f95e52525a1e0a30dc.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f9e1e9b526d3d6f95e52525a1e0a30dc)
 
-![]({{ site.url }}/assets/images/3828315a54482222e237254d5f150fe6.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3828315a54482222e237254d5f150fe6)
 
-![]({{ site.url }}/assets/images/4dab9599cd5213ead9e5c97024b7f1da.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4dab9599cd5213ead9e5c97024b7f1da)
 
-![]({{ site.url }}/assets/images/9495782f60b27324eabcacb16ceca769.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9495782f60b27324eabcacb16ceca769)
 
-![]({{ site.url }}/assets/images/67dfad32f4999b7ae9d4902268eaff67.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/67dfad32f4999b7ae9d4902268eaff67)
 
-![]({{ site.url }}/assets/images/0a27bebc4c3a3d86052ee62ebaa9561b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0a27bebc4c3a3d86052ee62ebaa9561b)
 
-![]({{ site.url }}/assets/images/c1cea40e46e3ed48de058d95b670aaae.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c1cea40e46e3ed48de058d95b670aaae)
 
-![]({{ site.url }}/assets/images/b38421686b7e4526f0336e295aa106e3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b38421686b7e4526f0336e295aa106e3)
 
-![]({{ site.url }}/assets/images/8bc6e8593836f2d16f50172e9a0941f9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8bc6e8593836f2d16f50172e9a0941f9)
 
-![]({{ site.url }}/assets/images/a8be96ba4c459df93eabb1abdd2ea50d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a8be96ba4c459df93eabb1abdd2ea50d)
 
-![]({{ site.url }}/assets/images/5ce9acaaa331d40c92911d20c69b0f19.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5ce9acaaa331d40c92911d20c69b0f19)
 
-![]({{ site.url }}/assets/images/0d475056dcfb17da3cfe02a1198e460c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0d475056dcfb17da3cfe02a1198e460c)
 
-![]({{ site.url }}/assets/images/88c5d6caf7122f4be202b6ef39d08ed2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/88c5d6caf7122f4be202b6ef39d08ed2)
 
-![]({{ site.url }}/assets/images/e694eb8365609d1f240f3d1d2ff88fb8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e694eb8365609d1f240f3d1d2ff88fb8)
 
-![]({{ site.url }}/assets/images/63e8fe00fad87fd7970facee76a9ba9e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/63e8fe00fad87fd7970facee76a9ba9e)
 
 ## 第五部分： 舞台演出
 
@@ -235,25 +235,25 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 值得一提的一件事，在希望中文学校的武术表演后紧接着上场的是学校舞蹈队，正在排列队形时，舞蹈队教练储老师一只腿陷进了舞台裂开的一道缝里面了。原来，宾馆的舞台出于方便，舞台下面都是轮子，每块之间也只是靠上面的胶布粘在一起。武术动作比较大，出现了裂缝被胶布遮着，没人能注意到。万幸的是，储老师只是受到了皮肉伤，估计和练舞出身有关。她被大家扶她来后，继续演出，从照片上看，她仍然是满面笑容。可以想象她的精神该有多么的强大。我们感谢有这样的好老师！
 
-![]({{ site.url }}/assets/images/31d9a297f3135f7f433fd438d3ecc486.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/31d9a297f3135f7f433fd438d3ecc486)
 
-![]({{ site.url }}/assets/images/4d346eed8a2d4cd60c9ebf47c6034153.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4d346eed8a2d4cd60c9ebf47c6034153)
 
-![]({{ site.url }}/assets/images/522803cc5b431524c557925e6196be95.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/522803cc5b431524c557925e6196be95)
 
-![]({{ site.url }}/assets/images/f76bbf68b9f747c014475f2b9d9a602b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f76bbf68b9f747c014475f2b9d9a602b)
 
-![]({{ site.url }}/assets/images/18a0ac6cc258cbfa3c71730afb42ba0c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/18a0ac6cc258cbfa3c71730afb42ba0c)
 
 看到上面最后一张照片，我的第一个反应就是，小朋友肯定是觉得为什么不让我上台，旁边的奶奶劝解到，等你长大了，你就可以上台了，和那些打哥哥姐姐们一起演出了。我们能够答应的就是，每个小朋友都会有机会的，我们会继续为社区搭建孩子们展示自己才能的舞台。
 
-![]({{ site.url }}/assets/images/07b2583605400bc2374e459dd1d95678.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/07b2583605400bc2374e459dd1d95678)
 
-![]({{ site.url }}/assets/images/814421b8209063117d7a274471cf2547.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/814421b8209063117d7a274471cf2547)
 
-![]({{ site.url }}/assets/images/67e43b3e0dbdda67b408fec5cc4cad3c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/67e43b3e0dbdda67b408fec5cc4cad3c)
 
-![]({{ site.url }}/assets/images/db13bcf3ee37fd1ade561645716d8355.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/db13bcf3ee37fd1ade561645716d8355)
 
 ## 第六部分： 钢琴独奏
 
@@ -283,25 +283,25 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 感谢参加演奏的孩子们[ThumbsUp][Rose][Rose]
 
-![]({{ site.url }}/assets/images/3c16c948c62120ecdd835627c6258a84.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3c16c948c62120ecdd835627c6258a84)
 
-![]({{ site.url }}/assets/images/62df9933d1fd8cb94190b0545153b13d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/62df9933d1fd8cb94190b0545153b13d)
 
 ## 第七部分： 公共讲座
 
 难得大家聚在一起，我们自然想到邀请专家在大家感兴趣或关心的话题做几个讲座，最后落实下来的有George Wu的华人家庭安全防范，萧峰的本地商业地产投资要领，和好时光周老师的双语教育。这三位在他们讲的内容方面都是学有心得的专家。平时也有讲座，都是济济一堂。这次安排不是很周到，尤其是把George的讲座安排过去靠前，那时来联展的人还不是很多，尽管没有影响George的演讲情绪（反正他总是一个乐呵呵的人），作为组织者还是有些过意不去，也让希望了解这方面知识的社区成员错失了机会。
 
-![]({{ site.url }}/assets/images/0f6dec352ed29d6b55b001080634e0a5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0f6dec352ed29d6b55b001080634e0a5)
 
-![]({{ site.url }}/assets/images/d2b5e3358c36a861e1504a08ee1d6118.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d2b5e3358c36a861e1504a08ee1d6118)
 
-![]({{ site.url }}/assets/images/d1cbb940c0042f1e1b403dd6a407f43e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d1cbb940c0042f1e1b403dd6a407f43e)
 
-![]({{ site.url }}/assets/images/92517f14a8be58f2d12acfa0408b4532.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/92517f14a8be58f2d12acfa0408b4532)
 
-![]({{ site.url }}/assets/images/06248b045adb833d5d0af08fa01b0b38.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/06248b045adb833d5d0af08fa01b0b38)
 
-![]({{ site.url }}/assets/images/9ae173f8baca535e9841859b8ae9cc71.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9ae173f8baca535e9841859b8ae9cc71)
 
 ## 第八部分： 医生律师义务服务
 
@@ -309,35 +309,35 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 一个社区的公益活动能否达到一个较高层次，在很大程度上取决于在社会上已经取得成绩的专业人士的参与。这个在其它社区，已经是一个现实。所以，他们在活动的时候，无论是筹款，还是networking，还是专业知识的协助，都对社区的公益活动有着举足轻重的影响力。我们社区在这方面做的还是很不够，我们从这次活动中，深刻体会到，这些专业人士非常希望参与社区活动，这是我们的希望所在。
 
-![]({{ site.url }}/assets/images/afe6b1a42e293811f5408b6e135ee084.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/afe6b1a42e293811f5408b6e135ee084)
 
-![]({{ site.url }}/assets/images/e87faa56c13089c0bf80edc47b27561f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e87faa56c13089c0bf80edc47b27561f)
 
-![]({{ site.url }}/assets/images/e22d8036c5d1deab1af93ad15df0f4b3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e22d8036c5d1deab1af93ad15df0f4b3)
 
-![]({{ site.url }}/assets/images/e4641954c66e272adc8a7c7be9bda00b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e4641954c66e272adc8a7c7be9bda00b)
 
-![]({{ site.url }}/assets/images/5707582b78d6b1c0b3af166a560c2a4b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5707582b78d6b1c0b3af166a560c2a4b)
 
-![]({{ site.url }}/assets/images/ca15365ceac98b670e01439a227488c5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ca15365ceac98b670e01439a227488c5)
 
-![]({{ site.url }}/assets/images/8e18828bce2ea2280cf1cd2589c0df57.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8e18828bce2ea2280cf1cd2589c0df57)
 
-![]({{ site.url }}/assets/images/a68c34e0ccc1c943c2bed21499593245.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a68c34e0ccc1c943c2bed21499593245)
 
-![]({{ site.url }}/assets/images/55c42d61af669f7d6ab0b2d52c81eb0e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/55c42d61af669f7d6ab0b2d52c81eb0e)
 
-![]({{ site.url }}/assets/images/e0cd0a6c22fb117250505759967a166b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e0cd0a6c22fb117250505759967a166b)
 
-![]({{ site.url }}/assets/images/42b99df0aef8c7db0668cebf8644d53e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/42b99df0aef8c7db0668cebf8644d53e)
 
-![]({{ site.url }}/assets/images/7042881d6056eed183eab34cc2b107e8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7042881d6056eed183eab34cc2b107e8)
 
-![]({{ site.url }}/assets/images/4d9f2ff0301d9b1953d232046edf3f5a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4d9f2ff0301d9b1953d232046edf3f5a)
 
-![]({{ site.url }}/assets/images/8539512128c044d9944ef99fb1d76e09.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8539512128c044d9944ef99fb1d76e09)
 
-![]({{ site.url }}/assets/images/2eaf2dc478835dd8803831f30b1623ef.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2eaf2dc478835dd8803831f30b1623ef)
 
 ## 第九部分： 社区学校/课外活动团体
 
@@ -358,35 +358,35 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 | Oregon International Ballet Academy |
 | Engineering for Kids |
 
-![]({{ site.url }}/assets/images/c5c073cd0141390573d072a8ba977fd5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c5c073cd0141390573d072a8ba977fd5)
 
-![]({{ site.url }}/assets/images/faddb8e5a8ba740cf9812d3497c6dece.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/faddb8e5a8ba740cf9812d3497c6dece)
 
-![]({{ site.url }}/assets/images/cf563e3dfab153c6c5a51e4e3e9ae51b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/cf563e3dfab153c6c5a51e4e3e9ae51b)
 
-![]({{ site.url }}/assets/images/b2157f2cddf4ce3a3034ac58d2f5f14c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b2157f2cddf4ce3a3034ac58d2f5f14c)
 
-![]({{ site.url }}/assets/images/2f4bb7f8531ec517812158f1fe5c8015.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2f4bb7f8531ec517812158f1fe5c8015)
 
-![]({{ site.url }}/assets/images/cd9425f5d14ebd1abfa3b4a2a9ed7e20.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/cd9425f5d14ebd1abfa3b4a2a9ed7e20)
 
-![]({{ site.url }}/assets/images/feb42af064231580ad4cdd79fb3111dc.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/feb42af064231580ad4cdd79fb3111dc)
 
-![]({{ site.url }}/assets/images/a4124de54dc98c86f10b1dd6eccd4d88.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a4124de54dc98c86f10b1dd6eccd4d88)
 
-![]({{ site.url }}/assets/images/f9a07b7c17818779998c9a65d118e928.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f9a07b7c17818779998c9a65d118e928)
 
-![]({{ site.url }}/assets/images/a567f59f47fa9a04a8e74b647b558d23.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a567f59f47fa9a04a8e74b647b558d23)
 
-![]({{ site.url }}/assets/images/64f2bb3bfb5550c544c3726e76ec7483.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/64f2bb3bfb5550c544c3726e76ec7483)
 
-![]({{ site.url }}/assets/images/4ff79c56782cc8c68b0d70ec7fb92e19.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4ff79c56782cc8c68b0d70ec7fb92e19)
 
-![]({{ site.url }}/assets/images/1638458eb092d10a8ced88076ebe32cb.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/1638458eb092d10a8ced88076ebe32cb)
 
-![]({{ site.url }}/assets/images/f503610d517b7f344e0a024e16a635f4.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f503610d517b7f344e0a024e16a635f4)
 
-![]({{ site.url }}/assets/images/ce69a911ae520a916ae1476a08437b34.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ce69a911ae520a916ae1476a08437b34)
 
 ## 第十部分： 参展商家
 
@@ -413,4 +413,4 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 最后，让我们记住这一美好时刻，我们是可以做成任何一件事的，只要我们肯努力！
 
-![]({{ site.url }}/assets/images/00c2b6ceb08a45b39067f503efcba11b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/00c2b6ceb08a45b39067f503efcba11b)

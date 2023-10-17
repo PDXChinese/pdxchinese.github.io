@@ -69,15 +69,15 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  13:53
 
-![]({{ site.url }}/assets/images/94d381570c31fa1e3516a2a9a94e2553a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/94d381570c31fa1e3516a2a9a94e2553a)
 
 西北兆  13:53
 
-![]({{ site.url }}/assets/images/a3c18e4f8a47a650c2f9dade4a49b5f5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a3c18e4f8a47a650c2f9dade4a49b5f5)
 
 西北兆  13:54
 
-![]({{ site.url }}/assets/images/e819cbd49e0cff63cf7147d39c173485a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e819cbd49e0cff63cf7147d39c173485a)
 
 西北兆  14:06
 
@@ -105,7 +105,7 @@ The chatting history for this WeChat group "OCC讲座系列—7/29 Mitchell教�
 
 西北兆  12:56
 
-![]({{ site.url }}/assets/images/5e6a3178d8f0c800076f6600b414c5c8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5e6a3178d8f0c800076f6600b414c5c8)
 
 西北兆  13:00
 

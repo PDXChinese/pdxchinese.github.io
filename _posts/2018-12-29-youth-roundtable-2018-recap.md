@@ -39,8 +39,8 @@ Alisha Zhao在林肯就是在上面的哥哥姐姐们的关照下长大的，她
 
 我们明年再见!
 
-![]({{ site.url }}/assets/images/18417a5629d67dc41e89ffea059b9133.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/18417a5629d67dc41e89ffea059b9133)
 
-![]({{ site.url }}/assets/images/54c2b1f4480b763725596a2b8fd01ed9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/54c2b1f4480b763725596a2b8fd01ed9)
 
-![]({{ site.url }}/assets/images/4e9186bed91002fee193b56afb6f3c58.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4e9186bed91002fee193b56afb6f3c58)

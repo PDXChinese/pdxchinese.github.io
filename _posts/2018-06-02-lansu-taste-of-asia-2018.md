@@ -17,37 +17,37 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 也非常感谢兰苏园园长Lisa女士，特意从家里赶过来和大家见面并合影。
 
-![]({{ site.url }}/assets/images/8f9b2760f14942e05dbb5d84ead99895.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8f9b2760f14942e05dbb5d84ead99895)
 
-![]({{ site.url }}/assets/images/7ed5f10812b364a2ab3105f0dfe19567.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7ed5f10812b364a2ab3105f0dfe19567)
 
-![]({{ site.url }}/assets/images/1afba08fe03203792c5271b2177f21ee.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/1afba08fe03203792c5271b2177f21ee)
 
-![]({{ site.url }}/assets/images/5aac1157173451e11149dab4f96b166a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5aac1157173451e11149dab4f96b166a)
 
-![]({{ site.url }}/assets/images/0392941020970daf84ae17a967c37838.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0392941020970daf84ae17a967c37838)
 
-![]({{ site.url }}/assets/images/ae4dccb3f875155f8b967a24adea9d53.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ae4dccb3f875155f8b967a24adea9d53)
 
-![]({{ site.url }}/assets/images/821583607fcc697368e8d5940464a0e5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/821583607fcc697368e8d5940464a0e5)
 
-![]({{ site.url }}/assets/images/005597264ec0879f93aa09b46807e085.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/005597264ec0879f93aa09b46807e085)
 
-![]({{ site.url }}/assets/images/7f599d47f7ca9de9de8994143cfd191e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7f599d47f7ca9de9de8994143cfd191e)
 
-![]({{ site.url }}/assets/images/bdba71906bbba0128ce0018986ea4c5b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/bdba71906bbba0128ce0018986ea4c5b)
 
-![]({{ site.url }}/assets/images/2e199a9b90d5a2ac92453244ee5dd8ba.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2e199a9b90d5a2ac92453244ee5dd8ba)
 
-![]({{ site.url }}/assets/images/d33e6cf9adec4b0e2fefc0dc9cdd76a3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d33e6cf9adec4b0e2fefc0dc9cdd76a3)
 
-![]({{ site.url }}/assets/images/a59988f5b6d9260f0e1bcfe8254a5685.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a59988f5b6d9260f0e1bcfe8254a5685)
 
-![]({{ site.url }}/assets/images/5a60a67299317f6842bbaa6281a18c5a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5a60a67299317f6842bbaa6281a18c5a)
 
-![]({{ site.url }}/assets/images/7f88166d4a533116c09f32d247a23a09.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7f88166d4a533116c09f32d247a23a09)
 
-![]({{ site.url }}/assets/images/b18262c28251772fcfb11c03f66c5107.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b18262c28251772fcfb11c03f66c5107)
 
 下面是此次参加活动的店家，很多是头一次知道，感谢兰苏园提供了这么好的一次机会，让我们知道了这么多深藏在巷子里面的美食。
 

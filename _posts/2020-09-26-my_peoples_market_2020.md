@@ -9,30 +9,30 @@ date: "2020-09-26"
 
 作为回报，组织方很慷慨让我们在market设立摊位，宣传我们的COVID-19项目，顺便为筹款也会卖一些旧的灯笼和很具文化特色的小礼物。有希望和我们面谈的社区成员，欢迎来中国城。进入Market免费，但需要事先“购票”，是为了更好的控制人数。购票链接： [https://www.eventbrite.com/e/my-peoples-market-6-tickets-118358329951](https://www.eventbrite.com/e/my-peoples-market-6-tickets-118358329951)
 
-![]({{ site.url }}/assets/images/4f402c1eb82284b5062c0ab2b5e67ff5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4f402c1eb82284b5062c0ab2b5e67ff5)
 
-![]({{ site.url }}/assets/images/93a8e5e2172b4f782edb7f2489366e85.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/93a8e5e2172b4f782edb7f2489366e85)
 
-![]({{ site.url }}/assets/images/f9e6e8d2291b37399c7297d7157e85bd.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f9e6e8d2291b37399c7297d7157e85bd)
 
-![]({{ site.url }}/assets/images/a740c4079a6aecb2fd17561209b8bf9a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a740c4079a6aecb2fd17561209b8bf9a)
 
-![]({{ site.url }}/assets/images/119b8b215ea522bd2007ac2d2720845f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/119b8b215ea522bd2007ac2d2720845f)
 
-![]({{ site.url }}/assets/images/29ec7f7c1f08ea87c46760077752b48d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/29ec7f7c1f08ea87c46760077752b48d)
 
-![]({{ site.url }}/assets/images/913ac4eb47f14be95d9ce5e50c0c55a7.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/913ac4eb47f14be95d9ce5e50c0c55a7)
 
-![]({{ site.url }}/assets/images/2bdfba0d8d530f955aacc2dcdd12a4f0.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2bdfba0d8d530f955aacc2dcdd12a4f0)
 
-![]({{ site.url }}/assets/images/1ff50fd52ddbfc17b77e7f7ef8ab9410.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/1ff50fd52ddbfc17b77e7f7ef8ab9410)
 
-![]({{ site.url }}/assets/images/58b404da44d474d7992a02160dabfcd5.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/58b404da44d474d7992a02160dabfcd5.jpg)
 
-![]({{ site.url }}/assets/images/fa9a7d8f0d003b0ac8e8b52295426abf.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/fa9a7d8f0d003b0ac8e8b52295426abf)
 
-![]({{ site.url }}/assets/images/800e1b40b1ca00301537c0987b2b20d3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/800e1b40b1ca00301537c0987b2b20d3)
 
-![]({{ site.url }}/assets/images/6b132b213a64bd40e8a1bdecbe8af534.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/6b132b213a64bd40e8a1bdecbe8af534)
 
-![]({{ site.url }}/assets/images/edf689989b39bd8bc2e64f660d82ab23.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/edf689989b39bd8bc2e64f660d82ab23)

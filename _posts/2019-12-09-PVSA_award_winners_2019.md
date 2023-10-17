@@ -18,7 +18,7 @@ OCC在成为总统义工奖（PVSA）认证组织后第一次接受社区成员�
 
 以下是今年获奖名单，让我们向每一位获奖者表示衷心的祝贺。
 
-![]({{ site.url }}/assets/images/881bc6363b33c396f7ed3467de29fde9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/881bc6363b33c396f7ed3467de29fde9)
 
 —————  2019-12-10  —————
 
@@ -34,14 +34,14 @@ OCC在成为总统义工奖（PVSA）认证组织后第一次接受社区成员�
 
 这里分享几张拍照现场的照片，我除了感动还是感动。
 
-![]({{ site.url }}/assets/images/b75106cf2bd4774f097c9358eabc01fd.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b75106cf2bd4774f097c9358eabc01fd)
 
-![]({{ site.url }}/assets/images/f8824b148c1892bf5d45152fffcf0880.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f8824b148c1892bf5d45152fffcf0880)
 
-![]({{ site.url }}/assets/images/f78961e9e81dd81a0f12be3ade70a7e8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f78961e9e81dd81a0f12be3ade70a7e8)
 
-![]({{ site.url }}/assets/images/602512a4180e24cd2b2cb98b22a76260.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/602512a4180e24cd2b2cb98b22a76260)
 
-![]({{ site.url }}/assets/images/3817d5d69c9e1bd7d0324cce6be55be0.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3817d5d69c9e1bd7d0324cce6be55be0)
 
-![]({{ site.url }}/assets/images/0950568716edeb77fa103e118b582960.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0950568716edeb77fa103e118b582960)

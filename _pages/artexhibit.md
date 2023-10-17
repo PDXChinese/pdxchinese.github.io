@@ -14,7 +14,7 @@ permalink: /artexhibit/
 [华人和乌克兰社区的年轻艺术家们相聚](https://pdxchinese.org/art_show_young_artists_2023/)  
 [艺术展参展作品欣赏](https://pdxchinese.org/art_show_artworks_2023/)  
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ArtShow2022_lco3nwu214litc577alr)
 
@@ -25,7 +25,7 @@ permalink: /artexhibit/
 [华人社区艺术展:庆祝亚裔文化月](https://pdxchinese.org/artshow_closing_2022/)  
 [华人社区艺术展:文艺演出](https://pdxchinese.org/artshow_performance_2022/)  
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pp_exhibit_2021_dloumn5akjptnpxonlwi)
 
@@ -58,7 +58,7 @@ Guangchao Zhang (张光超)
 [https://www.instagram.com/tv/CT-5bLEIeWo/?utm_source=ig_web_copy_link](https://www.instagram.com/tv/CT-5bLEIeWo/?utm_source=ig_web_copy_link)  
 
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/artshow2021_gjquivffcai6x4xq8mxx)
 ## :ticket: Free Admission :ticket:  :heavy_dollar_sign: Art Work For Sale :heavy_dollar_sign:

@@ -7,20 +7,20 @@ date: "2021-05-08"
 
 To celebrate Asian American and Pacific Islander Heritage Month, OCC purchased the books written by the Asian authors and about the sweet-bitter lives of the AAPI communities. The books are free for the OCC community and will help to inspire retrospection and discussion on the history, the present, and the future of our community. This time, we are distributing in Corvallis area. Next round will be in Eugene area.
 
-![]({{ site.url }}/assets/images/asianheritagemonthbook1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/asianheritagemonthbook1)
 
-![]({{ site.url }}/assets/images/asianheritagemonthbook2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/asianheritagemonthbook2)
 
-![]({{ site.url }}/assets/images/asianheritagemonthbook3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/asianheritagemonthbook3)
 
-![]({{ site.url }}/assets/images/asianheritagemonthbook4.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/asianheritagemonthbook4)
 
-![]({{ site.url }}/assets/images/asianheritagemonthbook5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/asianheritagemonthbook5)
 
-![]({{ site.url }}/assets/images/asianheritagemonthbook6.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/asianheritagemonthbook6)
 
-![]({{ site.url }}/assets/images/asianheritagemonthbook7.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/asianheritagemonthbook7)
 
-![]({{ site.url }}/assets/images/asianheritagemonthbook8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/asianheritagemonthbook8)
 
-![]({{ site.url }}/assets/images/asianheritagemonthbook9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/asianheritagemonthbook9)

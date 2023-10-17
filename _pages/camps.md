@@ -14,17 +14,17 @@ The camps/tours open to all youth in the community. When the space is limited, p
 ## 2018.03.11 Motion Analysis Center, [Shriners Hospitals for Children](https://www.shrinershospitalsforchildren.org/shc)  
 ### Thanks to Jing Feng, Ph.D., Director of Motion Analysis Center  
 
-![]({{ site.url }}/assets/images/049251f1873e43066d1e13f0fe321b00.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/049251f1873e43066d1e13f0fe321b00)
 
 ## 2018.08.18 [Touring IBe Electronics Inc.](http://pdxchinese.org/ibe-tour-kids-2018/)  
 ### Thanks to Jason Chen, CEO of [IBe Electronics](http://pcbaaa.com/)  
 
-![]({{ site.url }}/assets/images/4f53e0550167bd51b0bba82f2d101876.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4f53e0550167bd51b0bba82f2d101876)
 
 ## 2019.08.20 [Visiting Oregon National Primate Research Center (ONPRC)](http://pdxchinese.org/visit_primate_center_2019/)  
 ### Thanks to Frances Ippolito  
 
-![]({{ site.url }}/assets/images/9a207f90227e808ae35d9a2eb9ea7c48b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9a207f90227e808ae35d9a2eb9ea7c48b)
 
 ## 2019.09.15 Motion Analysis Center, [Shriners Hospitals for Children](https://www.shrinershospitalsforchildren.org/shc)   
 ### Thanks to Jing Feng, Ph.D., Director of Motion Analysis Center  
@@ -34,7 +34,7 @@ The camps/tours open to all youth in the community. When the space is limited, p
 ## 2019.10.11 [Oregon State University Rotics Laboratory](https://mime.oregonstate.edu/research/drl/)   
 ### Thanks to Zhunquin Wang, Coach of FTC Robotics Team 12808 RevAmped  
 
-![]({{ site.url }}/assets/images/e8412acd478a29aa118e9e7d1162d38f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e8412acd478a29aa118e9e7d1162d38f)
 
 ## 2022.03.21 [Clackamas Women’s Service Center](https://www.cwsor.org/)   
 ![]({{ site.url }}/assets/images/WeChat Image_20220322002857.jpg)  

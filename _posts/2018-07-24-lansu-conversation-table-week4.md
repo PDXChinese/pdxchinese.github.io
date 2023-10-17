@@ -17,14 +17,14 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 谢谢我们的志愿者们！
 
-![]({{ site.url }}/assets/images/8619c82508910673b3720006b018c244.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8619c82508910673b3720006b018c244)
 
-![]({{ site.url }}/assets/images/03a268cf75f3d47f49a3f6a715107b55.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/03a268cf75f3d47f49a3f6a715107b55)
 
-![]({{ site.url }}/assets/images/11409ce20dd9d2d310916c67fe402008.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/11409ce20dd9d2d310916c67fe402008)
 
-![]({{ site.url }}/assets/images/f88e193a3e70a7ffdd908dfb186b8d35.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f88e193a3e70a7ffdd908dfb186b8d35.jpg)
 
-![]({{ site.url }}/assets/images/3f45486c0fe60fc724fe76dd61fdfb1f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3f45486c0fe60fc724fe76dd61fdfb1f)
 
-![]({{ site.url }}/assets/images/9dc0e9500709959633c1be329f2b7d2c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9dc0e9500709959633c1be329f2b7d2c)

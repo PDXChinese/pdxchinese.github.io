@@ -344,7 +344,7 @@ Maggie got two Master’s degrees in Educational Psychology and Counseling respe
 
 Maggie's topics will include 1. internet addiction, 2. why do children hurt themselves, 3. what lessons can adults learn from children who commit suicide.
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ### 08.22.2020 3pm
 

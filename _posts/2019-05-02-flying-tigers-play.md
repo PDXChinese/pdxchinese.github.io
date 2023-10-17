@@ -45,21 +45,21 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 回到筹备的细节方面，首先要感谢硅谷剧社队员们为此行付出的努力，大家白天都要上班，昨天晚上排练到了午夜。这是刚刚传来的排练照片。
 
-![]({{ site.url }}/assets/images/d479e0490d6519ef24b25cc361fa2685.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d479e0490d6519ef24b25cc361fa2685)
 
-![]({{ site.url }}/assets/images/38338e006a6b471b878b74111f67e01c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/38338e006a6b471b878b74111f67e01c)
 
-![]({{ site.url }}/assets/images/4c23739a422b4f77b19d5491d9cd09d4.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4c23739a422b4f77b19d5491d9cd09d4)
 
-![]({{ site.url }}/assets/images/4b990cc03f5b8e8961ec3bbc0da43915.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4b990cc03f5b8e8961ec3bbc0da43915)
 
 最令人感动的是永雄工作室的陈老师，为了社区公益再次出手，放下大师姿态，但仍以专业精神，制作剧中需要的一棵大树道具。陈老师过去三天连续作战，作品惟妙惟肖，几乎达到以假乱真的程度。值得一说的是整个大树高12尺，宽8尺，估计他家里这几天的生活就是围绕着这棵树了。
 
-![]({{ site.url }}/assets/images/4375f9b443b4db28225e174599399275.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4375f9b443b4db28225e174599399275)
 
-![]({{ site.url }}/assets/images/f0a4dec8007af193164a5467db0c8283.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f0a4dec8007af193164a5467db0c8283)
 
-![]({{ site.url }}/assets/images/de05e5603ff56c90221fd839f6765956.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/de05e5603ff56c90221fd839f6765956)
 
 这里要剧透一下，在剧中一个场景中，我们本地华人也会在剧中出现，包括三位大人和十位小孩子。她们都将身着当年服装参加演出，唱的也将是我们非常熟悉的在那个年代十分流行的歌曲。至于都是谁，大家要拭目以待！
 
@@ -78,12 +78,12 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 今天参加《飞虎恋》演出的本地的两位大人和10位孩子聚在一起练习《送别》，短短的一个小时之内，孩子们的声音就已经越来越响亮，配上刚刚从淘宝上买回来的40年代的服装，一下子把我们拉回到那难忘的抗战岁月。
 
-![]({{ site.url }}/assets/images/aa6221c01c04b45db90edfe40f0e52fa.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/aa6221c01c04b45db90edfe40f0e52fa)
 
-![]({{ site.url }}/assets/images/902ad16e1bb0c556db47a72e084d5e3e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/902ad16e1bb0c556db47a72e084d5e3e)
 
-![]({{ site.url }}/assets/images/39c9ea1faee1200e6b519870a4d11a82.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/39c9ea1faee1200e6b519870a4d11a82)
 
-![]({{ site.url }}/assets/images/f66d5db648f2cff7127d7a69170df870.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f66d5db648f2cff7127d7a69170df870)
 
 特别感谢妞妈帮助协调服装的订购，雯雯和林红培训孩子们唱中文歌，夏维山老师接收包裹并带回来，林老师和陈老师用手中的二胡和申胡配合孩子们的演唱。。。当然更要感谢孩子们的勇敢和家长们的辛劳。

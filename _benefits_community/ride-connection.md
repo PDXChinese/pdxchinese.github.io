@@ -17,7 +17,7 @@ Ride Connection免费的交通服务主要包括：
 邮箱地址：[info@rideconnection.org](mailto:info@rideconnection.org)  
 网站：[https://rideconnection.org/](https://rideconnection.org/)  
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 Ride Connection is a private, non-profit organization based in Portland, Oregon. By providing people free transportation services to get around, Ride Connection offers independence, health, and inclusion. The service areas include Washington and Multnomah Counties. Our focus is on older adults (more than 60 years old) and people with disabilities.
 

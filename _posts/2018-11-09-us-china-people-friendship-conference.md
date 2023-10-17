@@ -17,47 +17,47 @@ The program mix was perfect. Master Lin showed the fluidity of Taichi that can o
 
 Thanks again for all your hard work. Without this component, the conference would not be complete and perfect.
 
-![]({{ site.url }}/assets/images/d733aa7c2c4b28df5593576215766d25.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d733aa7c2c4b28df5593576215766d25)
 
-![]({{ site.url }}/assets/images/e1fc6369a6e341a43dd2fbf4ca7105cd.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e1fc6369a6e341a43dd2fbf4ca7105cd)
 
-![]({{ site.url }}/assets/images/5f4991b1dde0f78d0e4b7174c50a74f3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5f4991b1dde0f78d0e4b7174c50a74f3)
 
-![]({{ site.url }}/assets/images/7843ccc405b797bf17e9367d539675ea.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7843ccc405b797bf17e9367d539675ea)
 
-![]({{ site.url }}/assets/images/f59bd08490b0b550575c051f2eb5d629.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f59bd08490b0b550575c051f2eb5d629)
 
-![]({{ site.url }}/assets/images/d0a50d3716d4db85eb640dc8c56e6f57.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d0a50d3716d4db85eb640dc8c56e6f57)
 
-![]({{ site.url }}/assets/images/8f95d1eeebbd3bcfb6fa092f87d1676e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8f95d1eeebbd3bcfb6fa092f87d1676e)
 
-![]({{ site.url }}/assets/images/dc57ca7b60d209ea429b87060d3b868f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dc57ca7b60d209ea429b87060d3b868f)
 
-![]({{ site.url }}/assets/images/7b7c90bceb6fc313ea8e45b916ba7c53.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7b7c90bceb6fc313ea8e45b916ba7c53)
 
-![]({{ site.url }}/assets/images/f5703ac2a5295a692903e2189bc58b91.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f5703ac2a5295a692903e2189bc58b91)
 
-![]({{ site.url }}/assets/images/9afcb715f529e3990b3e6c41ddfbd28c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9afcb715f529e3990b3e6c41ddfbd28c)
 
-![]({{ site.url }}/assets/images/7476f7c933a32378d832bd2fd9186138.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7476f7c933a32378d832bd2fd9186138)
 
-![]({{ site.url }}/assets/images/50f529c8c5dcb11f5bff84149b5bf242.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/50f529c8c5dcb11f5bff84149b5bf242)
 
-![]({{ site.url }}/assets/images/f38d4d3dfccf1ca89850d1f64561444c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f38d4d3dfccf1ca89850d1f64561444c)
 
-![]({{ site.url }}/assets/images/9f1bd5b8fec95fbbe226728eb2981b2a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9f1bd5b8fec95fbbe226728eb2981b2a)
 
-![]({{ site.url }}/assets/images/c3375610ef1a51b1218907a1d2331245.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c3375610ef1a51b1218907a1d2331245)
 
-![]({{ site.url }}/assets/images/fda5cd988a1a657864d6b139f7e60ca6.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/fda5cd988a1a657864d6b139f7e60ca6)
 
-![]({{ site.url }}/assets/images/67101b5ced865043c25cc3b189050d77.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/67101b5ced865043c25cc3b189050d77)
 
-![]({{ site.url }}/assets/images/67311d5e7a7c4ac0ba1214907b8d9e91.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/67311d5e7a7c4ac0ba1214907b8d9e91)
 
-![]({{ site.url }}/assets/images/0fc52161d9de49e48a11ad98a0821c25.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/0fc52161d9de49e48a11ad98a0821c25)
 
-![]({{ site.url }}/assets/images/655129ca72d444a958853dc0614e46ae.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/655129ca72d444a958853dc0614e46ae)
 
 看到这么精彩的照片，大家肯定猜到出自老张的相机。每次看到他拍出来的照片都是二次享受[ThumbsUp]
 

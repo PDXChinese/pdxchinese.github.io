@@ -15,24 +15,24 @@ The chatting history for this WeChat group "兰苏园汉语角志愿者" is show
 
 这个月还有3次，都是在周二的下午。看看大家谁能挤出时间来主持，我作为最后替补，肯定是随叫随到。昨天的感觉有几个志愿者最为理想，否则一个人很难招呼得过来。
 
-![]({{ site.url }}/assets/images/38d791940e5dea040e464a6aeed7d0cb.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/38d791940e5dea040e464a6aeed7d0cb)
 
-![]({{ site.url }}/assets/images/2ab90b5fc1a41437419db6e9a7203bab.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2ab90b5fc1a41437419db6e9a7203bab)
 
-![]({{ site.url }}/assets/images/39439b39990d898fca6b5ad46343f107.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/39439b39990d898fca6b5ad46343f107)
 
-![]({{ site.url }}/assets/images/980c4d03e038040cf47e7d88c4c65bcb.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/980c4d03e038040cf47e7d88c4c65bcb)
 
-![]({{ site.url }}/assets/images/c6a9ee9872cea6b5b2012658a69b94cd.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c6a9ee9872cea6b5b2012658a69b94cd)
 
-![]({{ site.url }}/assets/images/a64c7818dc827d9e0c23a6b5a6c716f6.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a64c7818dc827d9e0c23a6b5a6c716f6)
 
-![]({{ site.url }}/assets/images/7145bac7d27cb1cd475da314962a9eb5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7145bac7d27cb1cd475da314962a9eb5)
 
-![]({{ site.url }}/assets/images/3e75d8dfe8a8b8464e10004d06ff6911.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3e75d8dfe8a8b8464e10004d06ff6911)
 
-![]({{ site.url }}/assets/images/4ef6c1b3c46e9f3b8355856840c26965.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4ef6c1b3c46e9f3b8355856840c26965)
 
-![]({{ site.url }}/assets/images/a0c0242e201ec69dd421e6a2a88464d1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a0c0242e201ec69dd421e6a2a88464d1)
 
-![]({{ site.url }}/assets/images/59b8f8d958f2186e0bb8058ec4b0c9d4.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/59b8f8d958f2186e0bb8058ec4b0c9d4)

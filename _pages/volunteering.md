@@ -7,7 +7,7 @@ feature_row1:
 
 We come together, serving our community where we raise our families, helping those who are in need, growing our passion for a better world with ‘love’ in heart, and connecting with others who share the same value.
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 {% include feature_row id="feature_row1"%}
 
@@ -27,7 +27,7 @@ Once the documentation is received via email ([volunteer@pdxchinese.org](mailto:
 
 ![]({{ site.url }}/assets/images/communities/pvsa_award.jpg)
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 # How We Organize Volunteer Activities?
 

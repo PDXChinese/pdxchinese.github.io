@@ -18,17 +18,17 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 我们会继续与罗教授保持联系，看看如何能帮助到社区的孩子们，尤其是在数学竞赛方面。
 
-![]({{ site.url }}/assets/images/ec17da9d591b34b30a3706882fc8355d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/ec17da9d591b34b30a3706882fc8355d)
 
-![]({{ site.url }}/assets/images/a474545ac124952fe73b31b0f87ebecc.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a474545ac124952fe73b31b0f87ebecc)
 
-![]({{ site.url }}/assets/images/4ff5b4158d20b801ff42e5bcf9fd052c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4ff5b4158d20b801ff42e5bcf9fd052c)
 
-![]({{ site.url }}/assets/images/01d2e87f2c66aae77819e6c666d82071.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/01d2e87f2c66aae77819e6c666d82071)
 
-![]({{ site.url }}/assets/images/a4a9b9eef0d7f337bf9b98be1bc9d06c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a4a9b9eef0d7f337bf9b98be1bc9d06c)
 
-![]({{ site.url }}/assets/images/287d0f7e07a81f288507728eeeee5a38.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/287d0f7e07a81f288507728eeeee5a38)
 
 对了，罗教授对如何学好数学的回答就是，It's nice to always know how to solve a problem. 这也是他在读7年级的女儿赢得宾州mathcounts后说的话。
 

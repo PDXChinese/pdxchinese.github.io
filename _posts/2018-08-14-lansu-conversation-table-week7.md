@@ -19,30 +19,30 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 感谢《星岛日报》记者关键和社区资深义工张光超的精彩照片。《星TV》的专辑报道会在稍后播出。
 
-![]({{ site.url }}/assets/images/8489af3653adba14f57bf2dc754c276a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8489af3653adba14f57bf2dc754c276a)
 
-![]({{ site.url }}/assets/images/3e17928ca1de76224f836f1989c32afa.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/3e17928ca1de76224f836f1989c32afa)
 
-![]({{ site.url }}/assets/images/213ecdbc527cbdf3dca9a45e47ca87f2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/213ecdbc527cbdf3dca9a45e47ca87f2)
 
-![]({{ site.url }}/assets/images/927fcaeaffb101f924f6249a220284bf.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/927fcaeaffb101f924f6249a220284bf)
 
-![]({{ site.url }}/assets/images/09a5b85a936dd6bee8411068ff402498.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/09a5b85a936dd6bee8411068ff402498)
 
-![]({{ site.url }}/assets/images/587e82ea37a782b48e1dd23966a8427b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/587e82ea37a782b48e1dd23966a8427b)
 
-![]({{ site.url }}/assets/images/8c368bd0784c07e66f0d96a7bbdede6d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8c368bd0784c07e66f0d96a7bbdede6d)
 
-![]({{ site.url }}/assets/images/99c045df8df1c21fbda204c8ee8252a0.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/99c045df8df1c21fbda204c8ee8252a0)
 
-![]({{ site.url }}/assets/images/9d044e1858ac2eff9256cefb7a2740c1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9d044e1858ac2eff9256cefb7a2740c1)
 
-![]({{ site.url }}/assets/images/e951818233d857285da27f4977f9f46c.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e951818233d857285da27f4977f9f46c.jpg)
 
-![]({{ site.url }}/assets/images/663430f2f034f88dc82afaa3b79fb9f6.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/663430f2f034f88dc82afaa3b79fb9f6)
 
-![]({{ site.url }}/assets/images/cc03eedc326f854d5e4194f277d7e163.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/cc03eedc326f854d5e4194f277d7e163)
 
-![]({{ site.url }}/assets/images/90b2a19ecc91bc6ed29ab926009b855a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/90b2a19ecc91bc6ed29ab926009b855a)
 
-![]({{ site.url }}/assets/images/b9b7fcba51dc941f592c47b1a5f2b046.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/b9b7fcba51dc941f592c47b1a5f2b046)

@@ -67,7 +67,7 @@ Shauna Tominey, Ph.D.
 
 <p><img src="/assets/images/activities/shauna-tominey.jpg"></p>
 
-![]({{ site.url }}/assets/images/divider.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ## Archive
 

@@ -17,9 +17,9 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 想加入社区击鼓队的，请与@艾里克 和@张昊🦁面膜大法 联系。
 
-![]({{ site.url }}/assets/images/d630fa2ad1e993e37894b4462b6c0091.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d630fa2ad1e993e37894b4462b6c0091)
 
-![]({{ site.url }}/assets/images/a7ce3a32f03ccdc98991681b7966f2fe.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a7ce3a32f03ccdc98991681b7966f2fe)
 
 —————  2019-07-01  —————
 
@@ -27,14 +27,14 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 因为离8/3演出只有一个月的时间，我们“动员”雯雯担当重任，帮助孩子们尽快熟悉谱子并设计出一些动作。果然是不负众望，仅仅一个小时不到，孩子们敲出的鼓点就已经非常的像模像样的了。这让我想起上个月组织《飞虎恋》参演的孩子们，也是在一个晚上，大家便进入佳境。后来我在群里说有了雯雯是我们社区的blessing。即便后来不能再敲鼓了，也没有浪费一分钟时间，和大家一起研究好了舞台上的站位和服装设计。
 
-![]({{ site.url }}/assets/images/45856a08f897c585ff300b5d868694df.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/45856a08f897c585ff300b5d868694df)
 
-![]({{ site.url }}/assets/images/98ad8328feb8c0ebf11661a16a00c147.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/98ad8328feb8c0ebf11661a16a00c147)
 
-![]({{ site.url }}/assets/images/1eabbac6a88386843bc88efb251709ce.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/1eabbac6a88386843bc88efb251709ce)
 
-![]({{ site.url }}/assets/images/f281464b16011b349c4c6ad0eb7fc7cb.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f281464b16011b349c4c6ad0eb7fc7cb)
 
 晚上回到家，@xiaojian 带着两个孩子跑去学校操场又练了一个多小时[强]
 
-![]({{ site.url }}/assets/images/5f224ab2c4cff345a2865afc695ed0ae.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/5f224ab2c4cff345a2865afc695ed0ae)

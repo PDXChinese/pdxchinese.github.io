@@ -17,56 +17,56 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 收到老张拍的照片相册链接，不知道为什么，看着看着，眼睛有些湿润了。老张用他的镜头把瞬间凝固了下来，让我们有机会慢慢去品尝这人生的一个小小的时刻。人生本无贵贱，贫富在这些老人面前显得那么的无足轻重，我们的一点点付出会让这个世界显得多么的美好！
 
-![]({{ site.url }}/assets/images/65255764f215f998e7d5a8c9729cbb89.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/65255764f215f998e7d5a8c9729cbb89)
 
-![]({{ site.url }}/assets/images/11e21c8387db77fb37d85410c100652f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/11e21c8387db77fb37d85410c100652f)
 
-![]({{ site.url }}/assets/images/a44e5a0ad7b3673b3e2ebe1e860cec76.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a44e5a0ad7b3673b3e2ebe1e860cec76)
 
-![]({{ site.url }}/assets/images/487c2dec8956ceb6f03db69a1164612c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/487c2dec8956ceb6f03db69a1164612c)
 
-![]({{ site.url }}/assets/images/7b725370281db80cc0a8f0c4f2e847bb.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/7b725370281db80cc0a8f0c4f2e847bb)
 
-![]({{ site.url }}/assets/images/c1cae96daf47327198881a6a4be4d8b9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/c1cae96daf47327198881a6a4be4d8b9)
 
-![]({{ site.url }}/assets/images/f45a4e6196c931f4951e338d7f7b3be9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f45a4e6196c931f4951e338d7f7b3be9)
 
-![]({{ site.url }}/assets/images/08890986e613055a3305d6e5029ffd72.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/08890986e613055a3305d6e5029ffd72)
 
-![]({{ site.url }}/assets/images/a8df17f889732368e62737dab6f97f09.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a8df17f889732368e62737dab6f97f09)
 
-![]({{ site.url }}/assets/images/503cb6a8a0bc14d18dfff171a0f9aebc.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/503cb6a8a0bc14d18dfff171a0f9aebc)
 
-![]({{ site.url }}/assets/images/9c5656d14822172b79ec7b172f9dbb93.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/9c5656d14822172b79ec7b172f9dbb93)
 
-![]({{ site.url }}/assets/images/dc58adf42f11e4dd65272095c77cbbc3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dc58adf42f11e4dd65272095c77cbbc3)
 
-![]({{ site.url }}/assets/images/64199ddb4c14f86eae1db73f6c0f51e9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/64199ddb4c14f86eae1db73f6c0f51e9)
 
-![]({{ site.url }}/assets/images/d374d052e09afb76ba5a370040b8bf64.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d374d052e09afb76ba5a370040b8bf64)
 
 老张今天负责音响，照相，轮到自己唱歌的时候，赶紧换上衣服，唱起来真的是一丝不苟，一边唱还一边做着DJ的事。
 
-![]({{ site.url }}/assets/images/f17812fe0fde2372f905bd85ab3912fc.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f17812fe0fde2372f905bd85ab3912fc)
 
-![]({{ site.url }}/assets/images/24ea2c105fe6a4283aa35c5660df3c49.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/24ea2c105fe6a4283aa35c5660df3c49)
 
-![]({{ site.url }}/assets/images/38f9ff94b1a2f6deab686b47c3cd55a8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/38f9ff94b1a2f6deab686b47c3cd55a8)
 
-![]({{ site.url }}/assets/images/4e8083e95965bb33a399448cc23d8389.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/4e8083e95965bb33a399448cc23d8389)
 
-![]({{ site.url }}/assets/images/fea7f9c1d0814ea2eff4ce3e0d183506.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/fea7f9c1d0814ea2eff4ce3e0d183506)
 
-![]({{ site.url }}/assets/images/a98b93da077fb9b16cab0dc56815a2b7.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/a98b93da077fb9b16cab0dc56815a2b7)
 
-![]({{ site.url }}/assets/images/f7fad4f1532d140b2fe16a33042177ff.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/f7fad4f1532d140b2fe16a33042177ff)
 
-![]({{ site.url }}/assets/images/fc3110b4f05a241f49938d689d64ca10.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/fc3110b4f05a241f49938d689d64ca10)
 
-![]({{ site.url }}/assets/images/30aa681e2d104dc302545a595b784a48.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/30aa681e2d104dc302545a595b784a48)
 
-![]({{ site.url }}/assets/images/d49c1eb141eaceded554c705214d0bf1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/d49c1eb141eaceded554c705214d0bf1)
 
-![]({{ site.url }}/assets/images/2902217acedbf6d66591d71ce9454e96.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2902217acedbf6d66591d71ce9454e96)
 
-![]({{ site.url }}/assets/images/e2c5b32ffa4071881b30fe1b14424974.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e2c5b32ffa4071881b30fe1b14424974)

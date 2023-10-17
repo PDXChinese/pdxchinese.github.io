@@ -14,7 +14,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  22:42
 
-![]({{ site.url }}/assets/images/8644a3462249bcf522d044f5166ed03f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/8644a3462249bcf522d044f5166ed03f)
 
 西北兆  22:46
 
@@ -47,7 +47,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  23:26
 
-![]({{ site.url }}/assets/images/cff98b1f30093155f0130d7eeaa13b3d2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/cff98b1f30093155f0130d7eeaa13b3d2)
 
 西北兆  23:26
 
@@ -55,7 +55,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  23:29
 
-![]({{ site.url }}/assets/images/35f871655c93655ee3fb8c67fcee0c7d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/35f871655c93655ee3fb8c67fcee0c7d)
 
 西北兆  23:30
 
