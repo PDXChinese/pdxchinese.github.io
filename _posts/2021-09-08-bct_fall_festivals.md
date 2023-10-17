@@ -11,7 +11,7 @@ date: "2021-09-08"
 
 在注册页面上，有两个文件([training manual](http://www.beavertoncivictheatre.org/uploads/1/0/4/6/10469435/time_travelers_fall_festival_training_manual.pdf) and [supply list](http://www.beavertoncivictheatre.org/uploads/1/0/4/6/10469435/fall_festivals_mission_supply_list.pdf))是给家人做手工活动准备的，欢迎大家在群里分享手绘月饼图案。在当天午夜前发在微信群的图案，我们会选取一些优秀作品酌情给予奖励。
 
-![]({{ site.url }}/assets/images/activities/WeChat%20Image_20210908172847.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/WeChat%20Image_20210908172847)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210914100054)
 

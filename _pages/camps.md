@@ -29,7 +29,7 @@ The camps/tours open to all youth in the community. When the space is limited, p
 ## 2019.09.15 Motion Analysis Center, [Shriners Hospitals for Children](https://www.shrinershospitalsforchildren.org/shc)   
 ### Thanks to Jing Feng, Ph.D., Director of Motion Analysis Center  
 
-![]({{ site.url }}/assets/images/activities/WeChat%20Image_20191013212703.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/WeChat%20Image_20191013212703)
 
 ## 2019.10.11 [Oregon State University Rotics Laboratory](https://mime.oregonstate.edu/research/drl/)   
 ### Thanks to Zhunquin Wang, Coach of FTC Robotics Team 12808 RevAmped  
