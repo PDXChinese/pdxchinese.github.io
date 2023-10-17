@@ -24,7 +24,7 @@ feature_row2:
     excerpt: "Deputy Director, City of Portland's Office of Equity & Human Rights"
 ---
 
-# See you at the 2024 Chinese Festival on August 4!
+# See you next year on August 3, 2024!
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/festival_2023)
 
