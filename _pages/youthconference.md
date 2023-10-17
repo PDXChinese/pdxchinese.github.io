@@ -53,13 +53,13 @@ Victoria Ren Scholarship
 
 ### Lynda Walker
 
-<p><img src="/assets/images/activities/lynda_walker1.jpg"></p>
+<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/lynda_walker1"></p>
 
 Founded in 1889 as an orphanage for abandoned and wayward children, today St. Mary’s offers residential treatment and services to at-risk boys between the ages of 10 and 17 who are emotionally disturbed and behaviorally delinquent.  The individualized program provides each client with a structured regimen to ensure his successful transition to public school, the community, and appropriate living environment. Adolescent boys of all ethnic heritages and religious backgrounds are accepted.
 
 ### Raymond Chong
 
-<p><img src="/assets/images/activities/raymond_chong.jpg"></p>
+<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/raymond_chong"></p>
 
 "As a sixth generation American Born Chinese (ABC), I grew up in a barrio (neighborhood) of Elysian Valley near Chinatown of Los Angeles, City of Angels, in California, The Golden State of America - Gold Mountain. I was vaguely aware of my Chinese heritage and was utterly ignorant of my Zhang clan ancestry. My narrow realm was Chinatown and Little Tokyo in Downtown. I ate our Chop Suey, Cantonese cuisine. I attended family affairs. I celebrated traditional festivals. But I was a jook sing, bamboo rod, one who looked Chinese (solid) outside but who thought American (hollow) inside.
 

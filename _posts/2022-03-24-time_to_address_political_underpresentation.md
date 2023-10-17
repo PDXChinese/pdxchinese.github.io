@@ -11,4 +11,4 @@ date: "2022-03-24"
 
 另外一件事是Asian Pacific American Institute for Congressional Studies (APAICS)于4月1-2日将在波特兰举办Regional Leadership Academy，主要面对有志于未来竞选公职的亚裔高中学生，机会非常难得，这样的活动轮到波特兰好多年才会有一次，而且因为有Grant而全部免费。参加活动的同学也会更容易得到国会实习的机会。主办方特意为我们延长申请时间到下周一。报名链接：[https://apaics.formstack.com/forms/portland_regional_leadership_academy_2022](https://apaics.formstack.com/forms/portland_regional_leadership_academy_2022)。
 
-![]({{ site.url }}/assets/images/activities/WeChat Image_20220324210152.jpg)
+![]({{ site.url }}/assets/images/activities/WeChat%20Image_20220324210152.jpg)

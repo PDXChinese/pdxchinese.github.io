@@ -15,4 +15,4 @@ sidebar:
 
 Laundry is host to special events and activations, and has worked with the Portland Trail Blazers, adidas, and CarMax, among other brands. Clothing from Laundry has appeared on LeBron James, Odell Beckham Jr., and many other nice people."
 
-![]({{ site.url }}/assets/images/communities/laundrypdx.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/laundrypdx)

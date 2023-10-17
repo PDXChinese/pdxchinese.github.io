@@ -29,16 +29,16 @@ The orchestra is trained and conducted by Robert Lau, the former conductor of th
 3. Sight reading: reading material will be provided by the orchestra  
 4. Minimal age to join the orchestra is 6 years old  
 
-![]({{ site.url }}/assets/images/activities/orchestra20220501-01.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/orchestra20220501-01)
 
-![]({{ site.url }}/assets/images/activities/orchestra20220501-02.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/orchestra20220501-02)
 
-![]({{ site.url }}/assets/images/activities/orchestra20220501-03.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/orchestra20220501-03)
 
-![]({{ site.url }}/assets/images/activities/orchestra20220501-04.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/orchestra20220501-04)
 
-![]({{ site.url }}/assets/images/activities/orchestra20220501-05.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/orchestra20220501-05)
 
-![]({{ site.url }}/assets/images/activities/orchestra20220501-06.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/orchestra20220501-06)
 
-![]({{ site.url }}/assets/images/activities/orchestra20220501-07.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/orchestra20220501-07)

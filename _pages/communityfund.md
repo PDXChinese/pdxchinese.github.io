@@ -32,7 +32,7 @@ Beaverton, OR 97075
 
 Note: 2.2% fee will be deducted from the donation.
 
-[![paypal](/assets/images/activities/paypal3.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GWHJ99U9AEFFN)
+[![paypal](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/paypal3_jecibfuthl79dv5l9k2n)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GWHJ99U9AEFFN)
 
 ### Employee Matching Gifts
 
@@ -46,7 +46,7 @@ are donations an employer makes to match its employees' charitable contributions
 
 # Victoria Ren Scholarship
 
-<p><img src="/assets/images/activities/victoria_scholarship.jpg"></p>
+<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/victoria_scholarship"></p>
 Designed by Sophia, Victoria's twin sister.
 
 Victoria (Zifan) Ren was a student at Findley Elementary School, Beaverton Oregon. She passed away in 2017 after fighting a rare type of cancer for more than three years. [She was remembered by her teachers, classmates, friends and neighbors as a very beautiful, talented, and brave girl](https://pdxchinese.org/victoria-ren/). Victoria’s parents decided to set up Victoria Ren Scholarship to let her sweetest smile brighten other children in the community who need assistance emotionally and/or financially.

@@ -5,7 +5,7 @@ sidebar:
     text: "[eugeneccc.org](http://eugeneccc.org)"
 ---
 
-![]({{ site.url }}/assets/images/communities/eugene-church.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/eugene-church)
 
 ## 歡迎
 

@@ -29,7 +29,7 @@ The camps/tours open to all youth in the community. When the space is limited, p
 ## 2019.09.15 Motion Analysis Center, [Shriners Hospitals for Children](https://www.shrinershospitalsforchildren.org/shc)   
 ### Thanks to Jing Feng, Ph.D., Director of Motion Analysis Center  
 
-![]({{ site.url }}/assets/images/activities/WeChat Image_20191013212703.jpg)
+![]({{ site.url }}/assets/images/activities/WeChat%20Image_20191013212703.jpg)
 
 ## 2019.10.11 [Oregon State University Rotics Laboratory](https://mime.oregonstate.edu/research/drl/)   
 ### Thanks to Zhunquin Wang, Coach of FTC Robotics Team 12808 RevAmped  
@@ -37,17 +37,17 @@ The camps/tours open to all youth in the community. When the space is limited, p
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/e8412acd478a29aa118e9e7d1162d38f)
 
 ## 2022.03.21 [Clackamas Women’s Service Center](https://www.cwsor.org/)   
-![]({{ site.url }}/assets/images/WeChat Image_20220322002857.jpg)  
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220322002857)  
 
 ## 2022.7.22 [PGE Integrated Operational Center](https://portlandgeneral.com/media-gallery/operations-facilities)   
 ### Thanks to Hao Liu, Senior Thermal Performance Engineer, PGE  
 
-![]({{ site.url }}/assets/images/WeChat Image_20220722165221.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220722165221)
 
 ## 2022.8.12 [Knight Cancer Research Building](https://www.ohsu.edu/visit/knight-cancer-research-building)   
 ### Thanks to Zhunquin Wang, Coach of FTC Robotics Team 12808 RevAmped   
 
-![]({{ site.url }}/assets/images/WeChat Image_20220826220119.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220826220119)
 
 ## 2022.8.24 [PGE Sherwood Training Center](https://portlandgeneral.com/media-gallery/pge-line-crews-in-action)   
 ### Thanks to Zhunquin Wang, Coach of FTC Robotics Team 12808 RevAmped   

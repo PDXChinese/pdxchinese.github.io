@@ -29,13 +29,13 @@ Victoria Ren Scholarship 得主
 Yunyan Zhang from Spencer Butte Middle School
 
 
-![]({{ site.url }}/assets/images/WeChat Image_20210704154721.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210704154721)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210704154559.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210704154559)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210704154520.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210704154520)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210704154439.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210704154439)
 
 最后，再次感谢所有与会的同学及家长们，支持我们的演讲嘉宾，获奖的同学们。我们2022年再见！
 

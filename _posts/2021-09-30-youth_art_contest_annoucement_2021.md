@@ -4,8 +4,8 @@ author: XiBei Zhao
 excerpt: "不久前在野生保护区的集体义工活动在很大程度上增强了我们对自然和野生动物保护意识。沿着这个思路，我们和Tualatin River国家野生动物保护区和保护区之友进一步扩展合作关系，决定开展每年一度以大自然为主题的青少年绘画竞赛活动。"
 date: "2021-09-30"
 feature_row:
-- image_path: /assets/images/activities/for.jpg
-- image_path: /assets/images/activities/trnwr.jpg
+- image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/for_u5k30hqifk64gjp1lszr
+- image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/trnwr_moiscvamz47rxiy9pnb0
 - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/logo/kgwxt2et00nbfs4b7syk
 
 ---

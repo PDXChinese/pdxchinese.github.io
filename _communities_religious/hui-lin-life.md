@@ -9,7 +9,7 @@ sidebar:
     text: "[huilinlife.org/](http://huilinlife.org/)"
 ---
 
-![]({{ site.url }}/assets/images/communities/hui-lin-life.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/hui-lin-life)
 
 元丹欽列多吉仁波切，於2005年開始至美國奧勒岡卅波特蘭市弘法，並於2006年六月在福地中國城內成立了慧霖寺。“慧”指祈願所有有緣者，皆能成就圓滿智慧，“霖”指法雨甘露之遍灑大地，一如諸佛菩薩對所有眾生慈悲的教化。
 

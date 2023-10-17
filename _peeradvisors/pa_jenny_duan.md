@@ -1,7 +1,7 @@
 ---
 title: " "
 feature_row1:
-  - image_path: /assets/images/activities/pa_jenny_duan.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pa_jenny_duan
 ---
 
 {% include feature_row id="feature_row1"%}

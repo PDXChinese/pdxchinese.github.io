@@ -12,18 +12,18 @@ date: "2020-10-25"
 这几天我们会公布精神心理健康救助计划的几项活动，敬请大家留意。另外，我们平时发布信息基本上限制在几个区域性的微信群和两个公益群，如果您发现对OCC开展的各项活动老是后知后觉，欢迎加入上述微信群。
 
 
-![]({{ site.url }}/assets/images/WeChat Image_20201025223503a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201025223503a)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201025223959.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201025223959)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201025224104.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201025224104)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201025223713a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201025223713a)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201025223611a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201025223611a)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201025223121a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201025223121a)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201025223801a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201025223801a)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201025223846.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201025223846)

@@ -9,15 +9,15 @@ date: "2022-03-23"
 
 对于以后橱窗内容，欢迎大家帮助多出点子，让这个宣传窗口能够发挥最大的功效。橱窗位置：219 NW 3rd Ave.
 
-![]({{ site.url }}/assets/images/WeChat Image_20220323194400.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220323194400)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220323194417.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220323194417)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220323194422.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220323194422)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220323194429.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220323194429)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220323194434.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220323194434)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/two_generations_001s)
 

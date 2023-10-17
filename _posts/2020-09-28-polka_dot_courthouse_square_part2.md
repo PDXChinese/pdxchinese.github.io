@@ -7,30 +7,30 @@ date: "2020-10-08"
 
 一个星期前，社区两个演出团体再次来到先锋广场，参加Polka Dot Courthouse Square活动。[Rose City Rhythmic Gymnastics](https://www.rosecityrhythmic.com/) 的女孩子们的活泼和 [Oregon Hope Chinese School](http://oregon-hope.org/)小选手们的英姿相互交映，给空旷的广场带来了新鲜的气息，这个从不多的观众脸上流露出的笑意可以看得出来。感谢刘鸽为组织协调这次活动付出的时间和心血，也感谢参加活动的两个社区团体，为了参加活动，提前做了很多工作，不仅仅是排练，还有所有人的时间安排。
 
-![]({{ site.url }}/assets/images/WeChat Image_20201005225733.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201005225733)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201005225725.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201005225725)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201005225718.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201005225718)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201005225709.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201005225709)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201005225651.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201005225651)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201005225733a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201005225733a)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201005225733b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201005225733b)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201005225733c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201005225733c)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201005225733d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201005225733d)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201005225733e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201005225733e)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201005225733f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201005225733f)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201005225733g.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201005225733g)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201005225733h.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201005225733h)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201005225733i.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201005225733i)

@@ -18,4 +18,4 @@ date: "2022-10-21"
 报名宣传活动[链接](https://docs.google.com/forms/d/e/1FAIpQLSdDkSEsNT7spiNmR2SpgkD8B5XCd_BwHloPaUdURl6SgGErzA/viewform?usp=sf_link)
 
 
-![]({{ site.url }}/assets/images/activities/city_council_debate_translation.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/city_council_debate_translation)

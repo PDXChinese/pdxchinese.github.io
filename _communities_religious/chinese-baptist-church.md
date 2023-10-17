@@ -5,7 +5,7 @@ sidebar:
     text: "[portlandcbc.org](http://portlandcbc.org)"
 ---
 
-![]({{ site.url }}/assets/images/communities/firstbaptist.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/firstbaptist)
 
 ## About Us
 

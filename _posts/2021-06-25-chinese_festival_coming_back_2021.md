@@ -14,7 +14,7 @@ date: "2021-06-25"
 
 文化节每天都有进展，昨天刘鸽辛苦了几天后，把节目单基本落实了下来，非常感谢所有参与演出的个人和团体的大力支持，当天呈现给这座城市的人们将是一台非常精彩的演出。 大家可以浏览文化节的网页([http://pdxchinesefestival.org](http://pdxchinesefestival.org))，内容是不是已经很丰富了？ 注意到OHA也希望借此机会第一次在市中心广场为人们接种疫苗，即便我们原来的想法还只是做些宣传动员工作。
 
-![]({{ site.url }}/assets/images/WeChat Image_20210725155436.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210725155436)
 
 今天先锋广场把8月份的活动做成了宣传广告，我们的文化节很有可能成为[今年夏天唯一的一个](https://www.thesquarepdx.org/our-events/?tribe-bar-date=2021-08)。 中午路过那里，发现已经恢复到了疫情前的景象。 这个让我感到非常的欣慰，我们的文化节将是一个盛会。
 
@@ -24,7 +24,7 @@ date: "2021-06-25"
 
 我们的文化节得到了全社会的支持，大家看到了目前已经有Multnomah County和PGE作为我们的赞助单位，相信还会有新的加入进来。届时，OHA，County和City在过去一年多与我们共同抗击疫情的很多同事都会来到现场，这也会是我们第一次线下的大团聚。
 
-在文化节期间，我们与OHA和County合作，会在现场提供疫苗注射的机会。我们考虑到12岁以上的学生在秋季回到学校之前打完两针，文化节可以是很好的打第一针的时机。全家人来到广场要么参加活动，要么是观看演出，可以顺便把这件事做了。为了鼓励大家充分利用这次机会，County会提供现金卡，OCC会提供[不锈钢牛年纪念币](/assets/images/activities/ox.jpg)给每一位接受疫苗注射的人。另外，来回的车费（Uber, Lyft) 也可以凭收据报销，省了停车的麻烦和费用。
+在文化节期间，我们与OHA和County合作，会在现场提供疫苗注射的机会。我们考虑到12岁以上的学生在秋季回到学校之前打完两针，文化节可以是很好的打第一针的时机。全家人来到广场要么参加活动，要么是观看演出，可以顺便把这件事做了。为了鼓励大家充分利用这次机会，County会提供现金卡，OCC会提供[不锈钢牛年纪念币](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ox_qcjnnhprvobg8sxkcb1n)给每一位接受疫苗注射的人。另外，来回的车费（Uber, Lyft) 也可以凭收据报销，省了停车的麻烦和费用。
 
 为了帮助统计疫苗和现金卡数量，欢迎大家填写下面这个[表格](https://docs.google.com/forms/d/e/1FAIpQLScYnT81RswCNSO1zroOldu7wnUtktDQOPNCYDhzoMRiZvZiBw/viewform?usp=sf_link)。
 

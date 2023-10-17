@@ -3,7 +3,7 @@ title: "为街道公园大楼广场命名或更名建议"
 permalink: /namingproj/
 ---
 
-![]({{ site.url }}/assets/images/activities/namingproj.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/namingproj)
 
 现在各个城市部门或公共机构都在做这方面的努力，之前已经有THPRD和Clark County通过我们在社区征集过，现在是City of Hillsboro。我们决定把这件事作为一个常态来做，把[建议表格](https://docs.google.com/forms/d/e/1FAIpQLScDq7oDdTlgHZ9HE8UrkUpwEoYi81sqyE3sH9bq1kVii_XttQ/viewform?usp=sf_link)放在OCC网站上。
 

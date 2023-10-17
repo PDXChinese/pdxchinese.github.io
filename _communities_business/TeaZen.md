@@ -27,4 +27,4 @@ This place is perfect for a romantic getaway or wedding or baby shower, and a my
 
 NOTE FROM HUSBAND JOE: I personally built this tea house for my Chinese wife, just for her to maintain the habit of drinking tea."
 
-![]({{ site.url }}/assets/images/communities/teazen.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/teazen)

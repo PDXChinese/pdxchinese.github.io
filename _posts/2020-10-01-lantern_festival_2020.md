@@ -9,7 +9,7 @@ date: "2020-10-01"
 
 感谢昨天参加活动的19位义工，感谢波特兰新闻为我们提供的大力支持，感谢兰苏园特意为我们的义工们敞开大门，感谢所有前往中国城欣赏夜景的群友们。我们无需好高骛远，脚踏实地做好每一件事。给以时日，我们华人和社区在这个社会的地位终将得到改善。
 
-![]({{ site.url }}/assets/images/activities/lanternfest_2020.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/lanternfest_2020)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7M39379)
 

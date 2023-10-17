@@ -13,90 +13,90 @@ date: "2021-06-19"
 
 《大俄勒冈华人公益群》将会成为我们联系都市区之外华人的一个重要平台，欢迎大家介绍认识的散落在全州各地的华人进入到这个微信群。 我们希望通过这个平台让所有的华人平等享受到各种信息，也希望能服务到更多的华人，最后通过大家共同的参与，让我们华人族群在当地社会得到更多的也是应得的尊重。
 
-![]({{ site.url }}/assets/images/activities/trip2021.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/trip2021)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210619003142.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210619003142)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210619003228.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210619003228)
 
 Ashland
 
-![]({{ site.url }}/assets/images/WeChat Image_20210619003433.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210619003433)
 
 Redmond
 
-![]({{ site.url }}/assets/images/WeChat Image_20210619003313.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210619003313)
 
 Heminston
 
-![]({{ site.url }}/assets/images/WeChat Image_20210619003307.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210619003307)
 
 Dalles
 
-![]({{ site.url }}/assets/images/WeChat Image_20210619003253.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210619003253)
 
 Bend
 
-![]({{ site.url }}/assets/images/WeChat Image_20210619003357.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210619003357)
 
 Newport
 
-![]({{ site.url }}/assets/images/WeChat Image_20210619003348.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210619003348)
 
 Newport
 
-![]({{ site.url }}/assets/images/WeChat Image_20210619003241.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210619003241)
 
 Astoria
 
-![]({{ site.url }}/assets/images/WeChat Image_20210619003427.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210619003427)
 
 Prineville
 
-![]({{ site.url }}/assets/images/WeChat Image_20210619003300.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210619003300)
 
 Burns
 
-![]({{ site.url }}/assets/images/WeChat Image_20210619003339.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210619003339)
 
 Medford
 
-![]({{ site.url }}/assets/images/WeChat Image_20210619003247.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210619003247)
 
 Baker City
 
-![]({{ site.url }}/assets/images/WeChat Image_20210619003455.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210619003455)
 
 Roseburg
 
-![]({{ site.url }}/assets/images/WeChat Image_20210619003447.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210619003447)
 
 Roseburg
 
-![]({{ site.url }}/assets/images/WeChat Image_20210619003332.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210619003332)
 
 La Grande
 
-![]({{ site.url }}/assets/images/WeChat Image_20210619003326.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210619003326)
 
 La Grande
 
-![]({{ site.url }}/assets/images/WeChat Image_20210619003440.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210619003440)
 
 Roseburg
 
-![]({{ site.url }}/assets/images/WeChat Image_20210619003420.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210619003420)
 
 Pendleton
 
-![]({{ site.url }}/assets/images/WeChat Image_20210619003414.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210619003414)
 
 Pendleton
 
-![]({{ site.url }}/assets/images/WeChat Image_20210619003404.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210619003404)
 
 Pendleton
 
-![]({{ site.url }}/assets/images/WeChat Image_20210619003320.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210619003320)
 
 Heminston

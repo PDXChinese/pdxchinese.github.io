@@ -1,7 +1,7 @@
 ---
 title: "2017 Oregon Chinese Youth Conference"
 ---
-![]({{ site.url }}/assets/images/activities/youth_flyer.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/youth_flyer)
 Designed by 西湖明月@Brain Zuo
 
 ## Date
@@ -91,21 +91,21 @@ Corporate Sponsors ($300 each, 30% discount for those on community fund donation
 ## Speakers
 
 ## John Iglesias
-<p><img src="/assets/images/activities/iglesias.png"></p>
+<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/iglesias"></p>
 John Iglesias, born in the Territory of Guam, served 18 years as Intelligence Officer in US Navy, is now President &
 Chief Executive Officer at Northwest Community Credit Union.
 
 ## Teressa Raiford
-<p><img src="/assets/images/activities/teressa2.jpg"></p>
+<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/teressa2"></p>
 Teressa Raiford, a prominent Black Lives Matter protestor and founder of the accountability group Don't Shoot Portland, has been very supportive to Chinese community in defending social justice.
 
 ## Robert Tadjiki
-<p><img src="/assets/images/activities/robert2.jpg"></p>
+<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/robert2"></p>
 
 Robert Tadjiki is a co-founder and board member of Education for Chinese Orphans (EChO), a nonprofit that starts schools in China for special-needs orphans. He has been a special-education teacher since 1995. In 2006, he was awarded a national educator's award. He has lived in Central Oregon since 2001, and is a loving husband to his wife and father to his four children, two of whom were born in China.
 
 ## Mae Yih
-<p><img src="/assets/images/activities/mae_yih2.jpg"></p>
+<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/mae_yih2"></p>
 Mae Yih serves in both Oregon House and Senate. First Chinese American woman to be elected to the state legislature in the US in 1976.  
 
 [Please submit your suggestion to 2017 Youth Conference here](https://docs.google.com/forms/d/e/1FAIpQLSdy9DbHbfM3W9Bwmi7z55zI96RQXiJjUZT58lHFCYFDP0X6Hg/viewform?c=0&w=1)

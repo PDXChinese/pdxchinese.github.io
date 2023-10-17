@@ -3,7 +3,7 @@ title: ""
 permalink: /startup/
 ---
 
-<p><img src="/assets/images/activities/startup.jpg"></p>  
+<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/startup"></p>  
 
 座谈会资料：[http://pdxchinese.org/resources/benefits_resources/own-resources/](http://pdxchinese.org/resources/benefits_resources/own-resources/)
 

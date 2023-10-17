@@ -2,8 +2,8 @@
 title: " "
 permalink: /pvsa/
 feature_row1:
-  - image_path: /assets/images/activities/pvsa_logo.jpg
-  - image_path: /assets/images/activities/year_2022.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pvsa_logo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/year_2022
 feature_row2:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2022_Gwyneth_Bao
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2022_Gwyneth_Bao/'>Gwyneth Bao, Lincoln High School (Gold Award)</a></p>"

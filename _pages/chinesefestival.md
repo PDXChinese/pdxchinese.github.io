@@ -2,28 +2,28 @@
 title: " "
 permalink: /chinesefestival/
 feature_row0:
-  - image_path: /assets/images/festival/energytrust.png
-  - image_path: /assets/images/activities/pge2.jpg
-  - image_path: /assets/images/festival/nwnatural.png
-  - image_path: /assets/images/activities/mult_county.png
-  - image_path: /assets/images/activities/ohsulogo.jpg
-  - image_path: /assets/images/festival/odot1.png
-  - image_path: /assets/images/festival/aou.jpg
-  - image_path: /assets/images/activities/ocomlogo.png
-  - image_path: /assets/images/activities/pcs-logo.png
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/energytrust
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pge2_tieksh7yf1tuytixgsee
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/nwnatural
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/mult_county_nf2iqzgmnapl3uxgfock
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ohsulogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/odot1
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/aou
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ocomlogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pcs-logo_vgzamhsfosh7txg6tcar
 feature_row1:
-  - image_path: /assets/images/festival/claire_cao2.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/claire_cao2
     title: "Claire Cao"
-  - image_path: /assets/images/festival/justin_xia.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/justin_xia
     title: "Justin Xia"
-  - image_path: /assets/images/festival/meilan_xu1.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/meilan_xu1
     title: "Meilan Xu"
 feature_row2:
-  - image_path: /assets/images/festival/jeff_selby.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/jeff_selby
     title: "Jeff Selby"
     excerpt: "Deputy Director, City of Portland's Office of Equity & Human Rights"
 ---
-![]({{ site.url }}/assets/images/festival/festival_2023.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/festival_2023)
 
 >We have been deeply moved by the overwhelmingly positive feedback we have received thus far. It is truly inspiring to witness the support and encouragement we have received from individuals and organizations from all walks of life, as we work towards building a more diverse and culturally enriched community. We are grateful for the outpouring of support and look forward to continuing this journey together.
 

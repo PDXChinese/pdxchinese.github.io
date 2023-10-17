@@ -10,8 +10,8 @@ Beaverton商会和THPRD与我们社区的合作日益密切，因为有了众多
 
 大家可以先欣赏去年的作品： Cinderella: Celebrating Culture As ​Good Triumphs Over Evil
 
-![]({{ site.url }}/assets/images/WeChat Image_20210725150002.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210725150002)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210725145955.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210725145955)
 
 <iframe width="640" height="360" style="border:1px solid #e6e6e6" src="https://www.youtube.com/embed/6imqcMFQA8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

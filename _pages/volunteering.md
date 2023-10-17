@@ -2,7 +2,7 @@
 title: " "
 permalink: /volunteering/
 feature_row1:
-  - image_path: /assets/images/activities/pvsacertorg1.gif
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pvsacertorg1
 ---
 
 We come together, serving our community where we raise our families, helping those who are in need, growing our passion for a better world with ‘love’ in heart, and connecting with others who share the same value.
@@ -25,7 +25,7 @@ Hours are measured over a 12-month period (Oct 27 through Oct 26) and awards are
 
 Once the documentation is received via email ([volunteer@pdxchinese.org](mailto:volunteer@pdxchinese.org)) by announced deadline, OCC will verify all records and confirm that the candidate has completed the number of service hours in good standing as required to earn a President’s Volunteer Service Award.
 
-![]({{ site.url }}/assets/images/communities/pvsa_award.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/pvsa_award)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 

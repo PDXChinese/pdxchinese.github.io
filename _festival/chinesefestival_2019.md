@@ -22,7 +22,7 @@ For the first time ever, our local Chinese community will be hosting a Chinese f
 
 **Date:** <span style="color:blue">August 3, 2019 (Saturday) 11am - 8pm </span>  
 **Place:** [<span style="color:blue">Pioneer Courthouse Square, Portland</span>](https://www.google.com/maps/place/Pioneer+Courthouse+Square/@45.5189095,-122.6795446,19.21z/data=!4m5!3m4!1s0x54950a051d703e13:0xfebc36dc49ec79c7!8m2!3d45.5189217!4d-122.6793478)  
-[Site Map](/assets/images/festival/sitemap2.pdf)  :sparkles: <span style="color:green"> Free Admission</span> :tada:  
+[Site Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/sitemap2)  :sparkles: <span style="color:green"> Free Admission</span> :tada:  
 
 ## Masters of Ceremony
 
@@ -116,7 +116,7 @@ Your brands will be exposed to 50,000 visitors that day and more after in the ne
 | Prominent name and logo placement on site(1) and OCC social media, booth space outside floor | | | | X | |
 | Logo placement on banners, which serve as backdrop in all press photo opportunities | X | X | X | X | X |
 
-Please help distribute [sponsorship flyer](/assets/images/festival/sponsorflyer.png).
+Please help distribute [sponsorship flyer](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/sponsorflyer).
 
 ## Contact Us
 

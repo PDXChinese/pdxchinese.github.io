@@ -9,12 +9,12 @@ Totally 96.4% respondents have received at least the first dose. Among three vac
 
 Community members expressed their gratitude to all the vaccination opportunities provided to BIPOC communities. The strategy adopted by OHA and counties has been working very well in getting the resources to the communities that have been disproportionally affected by the pandemic.
 
-![]({{ site.url }}/assets/images/WeChat Image_20210505142047.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210505142047)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210505142130.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210505142130)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210505142139.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210505142139)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210505142147.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210505142147)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210505143918.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210505143918)

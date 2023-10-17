@@ -23,4 +23,4 @@ More and more government agencies are engaging Chinese American community in pro
 
 We have set up a [Google form](https://docs.google.com/forms/d/e/1FAIpQLScDq7oDdTlgHZ9HE8UrkUpwEoYi81sqyE3sH9bq1kVii_XttQ/viewform?usp=sf_link) to solicit commemorative naming proposals from our community members. The list is open to all local government agencies.
 
-![]({{ site.url }}/assets/images/activities/namingproj.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/namingproj)

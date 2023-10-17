@@ -32,10 +32,10 @@ First Christian Church
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/141198349_1319004395138791_5363970992185100905_o)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210127092750.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210127092750)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210127092742.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210127092742)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210127092726.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210127092726)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210127092713.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210127092713)

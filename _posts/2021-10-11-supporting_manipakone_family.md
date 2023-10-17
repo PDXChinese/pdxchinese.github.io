@@ -11,12 +11,12 @@ date: "2021-10-11"
 
 'Words can’t even begin to describe how grateful we are to be surrounded by such amazing people and such a great community. We would like to give special recognition to Shirley Ma, Julia and her husband, and the Oregon Chinese Coalition for your kindness and generosity. Through troubled times, the people of this community has gone above and beyond to help us get back on our feet. You are truly a blessing and from the bottom of our hearts, we, the Manipakone family, would like to say thank you.'
 
-![]({{ site.url }}/assets/images/WeChat Image_20211011190115.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211011190115)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211011185245.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211011185245)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211011185237.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211011185237)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211011185222.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211011185222)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211011185254.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211011185254)

@@ -9,12 +9,12 @@ Audrey和Allison姐妹俩来到了位于中国城的[OROX皮件店](https://www.
 
 刚刚进入林肯高中的Audrey和在West Sylvan初中上学的Allison是今年波特兰华人玫瑰公主，姐俩一直很喜欢时尚，因为疫情闷在家里一年，再次见面，沉稳成熟了许多，尤其是好动的妹妹，这次操作录影机很是娴熟，尽管也是刚刚熟悉了一个星期，显示出了她在采访方面的天赋。非常期待剪辑后的采访录象。
 
-![]({{ site.url }}/assets/images/WeChat Image_20210902093017.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210902093017)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210902093040.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210902093040)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210902093055.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210902093055)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210902093117.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210902093117)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210902093137.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210902093137)

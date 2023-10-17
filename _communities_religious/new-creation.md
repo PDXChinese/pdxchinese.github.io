@@ -7,7 +7,7 @@ sidebar:
     text: "portlandnewcreation"
 ---
 
-![]({{ site.url }}/assets/images/communities/newcreation.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/newcreation)
 
 ## Our Location 聚会地址及联系方式
 

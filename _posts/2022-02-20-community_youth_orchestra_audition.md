@@ -9,14 +9,14 @@ date: "2022-02-20"
 
 参加面试的孩子家长们对柳老师的负责认真专业态度印象深刻，柳老师不仅仅拥有英国皇家弦乐团表演和提琴教授的证书，更重要的是他的执着和热情，对音乐的喜爱，对社区的认同，对青少年的培养。。。两天面试过程中，所有的人都表示对这个弦乐队充满了期待。
 
-![]({{ site.url }}/assets/images/WeChat Image_20220220164323.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220220164323)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220220164241.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220220164241)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220220164355.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220220164355)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220220164346.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220220164346)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220220164332.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220220164332)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220220164339.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220220164339)

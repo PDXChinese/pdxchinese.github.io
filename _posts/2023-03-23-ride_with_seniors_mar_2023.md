@@ -151,6 +151,6 @@ The photos (except the very last two) taken by Rachel LeCrone Photography captur
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/337139103_1186327242017528_3625371194756275439_n)
 
-![]({{ site.url }}/assets/images/activities/ridewseniors1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ridewseniors1)
 
-![]({{ site.url }}/assets/images/activities/ridewseniors2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ridewseniors2)

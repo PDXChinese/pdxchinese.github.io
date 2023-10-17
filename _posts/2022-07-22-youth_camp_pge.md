@@ -11,6 +11,6 @@ date: "2022-07-22"
 
 “我家也是几代人都从事电厂设计，电站运行的工作。今天学生都踊跃提问，气氛非常融洽。很高兴您女儿这次有所收获。之后我们还有活动，可能会参观一些电厂设备，变电站等等。”
 
-![]({{ site.url }}/assets/images/WeChat Image_20220722165221.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220722165221)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220724144221.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220724144221)

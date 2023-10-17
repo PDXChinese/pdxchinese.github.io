@@ -2,11 +2,11 @@
 title: ""
 permalink: /updates_bk/
 feature_row1:
-  - image_path: /assets/images/activities/oha1.jpg
-  - image_path: /assets/images/activities/cityofportland.png
-  - image_path: /assets/images/activities/washingtonco.jpg
-  - image_path: /assets/images/activities/mult_county.png
-  - image_path: /assets/images/activities/communityaction.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/oha1
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/cityofportland
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/washingtonco
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/mult_county_nf2iqzgmnapl3uxgfock
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/communityaction
 ---
 
 ## 热线电话

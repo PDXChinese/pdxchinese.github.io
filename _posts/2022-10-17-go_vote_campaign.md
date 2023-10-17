@@ -11,4 +11,4 @@ date: "2022-10-17"
 
 2) 投票截止日为11/8, 投票日前的周末(11/5-11/6)动员社区成员，尤其是青少年们，走上街头，提醒，鼓励，帮助华人投票。相信很多人一忙乎就把投票的事情忘在了脑后，我们没法人盯人，但是希望看到街上的活动，每个人都能重视起来。和3.21抗议相比，这个意义会更为重大，如果我们的宣传点能星罗棋布在全州所有华人生活购物的小区，相信会创造本地选举草根活动的一个记录。期待大家踊跃报名选址。
 
-![]({{ site.url }}/assets/images/activities/vote_matters.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/vote_matters)

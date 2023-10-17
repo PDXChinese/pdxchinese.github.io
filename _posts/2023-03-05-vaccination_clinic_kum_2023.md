@@ -9,24 +9,24 @@ date: "2023-03-05"
 
 A special vaccination clinic for the seniors in Kirkland Union Manors was successfully held last Sunday in SE Portland thanks to the strong support from the volunteers, OHA and of course those seniors. It was quite a scene in the parking lot of a Chinese restaurant. It went so smoothly and even the weather was very cooperating.
 
-![]({{ site.url }}/assets/images/WeChat Image_20230307180438.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20230307180438)
 
-![]({{ site.url }}/assets/images/WeChat Image_20230307180249.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20230307180249)
 
-![]({{ site.url }}/assets/images/WeChat Image_20230307180410.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20230307180410)
 
-![]({{ site.url }}/assets/images/WeChat Image_20230307180417.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20230307180417)
 
-![]({{ site.url }}/assets/images/WeChat Image_20230307180423.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20230307180423)
 
-![]({{ site.url }}/assets/images/WeChat Image_20230307180344.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20230307180344)
 
-![]({{ site.url }}/assets/images/WeChat Image_20230307180349.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20230307180349)
 
-![]({{ site.url }}/assets/images/WeChat Image_20230307180354.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20230307180354)
 
-![]({{ site.url }}/assets/images/WeChat Image_20230307180359.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20230307180359)
 
-![]({{ site.url }}/assets/images/WeChat Image_20230307180405.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20230307180405)
 
-![]({{ site.url }}/assets/images/WeChat Image_20230307180430.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20230307180430)

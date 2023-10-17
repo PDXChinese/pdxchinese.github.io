@@ -5,7 +5,7 @@ sidebar:
     text: "[ptlc.org](http://www.ptlc.org)"
 ---
 
-![]({{ site.url }}/assets/images/communities/churchcross.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/churchcross)
 
 ## 歡迎
 

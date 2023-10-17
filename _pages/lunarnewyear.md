@@ -5,7 +5,7 @@ permalink: /lunarnewyear/
 
 # 2023【常回家看看】社区春节联欢活动
 
-![]({{ site.url }}/assets/images/activities/cny2023.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/cny2023)
 
 [义工报名链接](https://docs.google.com/forms/d/e/1FAIpQLSerbP7209LCkipAJUhnEdkvN0S-N-lbFywEG5Jc7MZtjexAlA/viewform?usp=sf_link)
 
@@ -29,7 +29,7 @@ permalink: /lunarnewyear/
 
 # 2021 Lifting Hope -- Celebrating Chinese New Year
 
-![]({{ site.url }}/assets/images/activities/lifting_hope_2021.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/lifting_hope_2021)
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FOregonChineseCoalition%2Fposts%2F1330277750678122&width=500&show_text=true&height=787&appId" width="500" height="787" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 

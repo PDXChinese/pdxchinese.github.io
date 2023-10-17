@@ -2,7 +2,7 @@
 title: ""
 permalink: /cultureday/
 feature_row1:
-  - image_path: /assets/images/activities/thprdlogo.png
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/thprdlogo
 feature_row2:
     - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/325932671_504747941800947_4915525851583184872_n
     - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/333224340_237932235252884_5361838649338525864_n
@@ -49,26 +49,26 @@ feature_row14:
     - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_021
     - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lan_su_mid_autummn_festival_2022_00
 feature_row15:
-    - image_path: /assets/images/WeChat Image_20220615003011.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615003011
     - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lan_su_mid_autummn_festival_2022_01
-    - image_path: /assets/images/WeChat Image_20220213000322.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220213000322
 feature_row16:
-    - image_path: /assets/images/WeChat Image_20220213000431.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220213000431
     - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lan_su_mid_autummn_festival_2022_13
-    - image_path: /assets/images/WeChat Image_20220213000339.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220213000339
 feature_row17:
     - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lan_su_mid_autummn_festival_2022_08
     - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lan_su_mid_autummn_festival_2022_12
-    - image_path: /assets/images/WeChat Image_20220212172316s.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220212172316s
 feature_row18:
-    - image_path: /assets/images/activities/quit_smoking_01.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/quit_smoking_01
 feature_row19:
     - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326387583_1092058778857047_8245403294991861876_n
 ---
 
 ## >>> [Culture Day Album](https://pdxchinese.org/culture_day_2023/)
 
-![]({{ site.url }}/assets/images/activities/culturedayflyer.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/culturedayflyer)
 
 # 2023 文化体验日 / Culture Day
 

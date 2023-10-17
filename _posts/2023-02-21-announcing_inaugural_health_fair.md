@@ -9,4 +9,4 @@ date: "2023-02-21"
 
 博览会链接：[https://pdxchinese.org/healthfair/](https://pdxchinese.org/healthfair/)
 
-![]({{ site.url }}/assets/images/activities/2023fairflyer.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023fairflyer)

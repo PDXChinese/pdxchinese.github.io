@@ -2,7 +2,7 @@
 title: " "
 permalink: /volunteering_bk/
 feature_row1:
-  - image_path: /assets/images/activities/pvsacertorg1.gif
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pvsacertorg1
 ---
 
 We come together, serving our community where we raise our families, helping those who are in need, growing our passion for a better world with ‘love’ in heart, and connecting with others who share the same value.
@@ -25,7 +25,7 @@ Hours are measured over a 12-month period (Oct 27 through Oct 26) and awards are
 
 Once the documentation is received via email ([volunteer@pdxchinese.org](mailto:volunteer@pdxchinese.org)) by announced deadline, OCC will verify all records and confirm that the candidate has completed the number of service hours in good standing as required to earn a President’s Volunteer Service Award.
 
-![]({{ site.url }}/assets/images/communities/pvsa_award.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/pvsa_award)
 
 # Group Volunteering Opportunities
 
@@ -53,7 +53,7 @@ Nancy会替大家去FB 网站上注册，更新和当天的sign in，也会提�
 
 ## Weekly Volunteering at [Lan Su Chinese Garden](https://lansugarden.org/)
 
-![]({{ site.url }}/assets/images/activities/hanyujiao2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/hanyujiao2)
 
 <a href="http://signup.com/go/xXOohJS" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Available Spots on SignUp.com"></a>
 
@@ -74,7 +74,7 @@ Address: 239 NW Everett St, Portland, OR 97209
 
 ## Monthly Volunteering at Clay Street Table's Asian Brunch
 
-![]({{ site.url }}/assets/images/activities/fc3110b4f05a241f49938d689d64ca102.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/fc3110b4f05a241f49938d689d64ca102)
 
 <a href="https://signup.com/go/KhUykiz" target="_blank"><img src="https://signup.com/imgs/icons/signup-choose-a-spot-btn.png" alt="Click to View Available Spots on SignUp.com"></a>
 
@@ -84,7 +84,7 @@ Address: 239 NW Everett St, Portland, OR 97209
 
 ## Monthly Street Sweeping in Chinatown
 
-![]({{ site.url }}/assets/images/activities/sweeping2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/sweeping2)
 
 确切时间和详情会公布在《PDX 义工群》微信群
 

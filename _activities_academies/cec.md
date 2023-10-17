@@ -4,7 +4,7 @@ location: "5529 NW Five Oaks Dr. Hillsboro, OR 97124"
 sidebar:
   - title: "Address"
     text: "5529 NW Five Oaks Dr. Hillsboro, OR 97124"
-    image: "/assets/images/communities/evangelicallogo1.png"
+    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/evangelicallogo1"
   - title: "Phone"
     text: "503-466-2762"
   - title: "email"

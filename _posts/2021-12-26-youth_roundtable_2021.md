@@ -13,19 +13,19 @@ date: "2021-12-26"
 
 ### 圆桌会截屏
 
-![]({{ site.url }}/assets/images/WeChat Image_20211227121939.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211227121939)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211227121949.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211227121949)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211227121932.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211227121932)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211227121919.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211227121919)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211227121832.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211227121832)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211227121910.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211227121910)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211227121852.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211227121852)
 
 ### 背景
 

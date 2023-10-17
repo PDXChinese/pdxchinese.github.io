@@ -4,77 +4,77 @@ permalink: /weeklytalk/
 feature_row0:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/logo/mg85nnq8kchfpesumo1q
 feature_row1:
-  - image_path: /assets/images/activities/talk_vincent2.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_vincent2
 feature_row2:
-  - image_path: /assets/images/activities/talk_ftc3.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_ftc3
 feature_row3:
-  - image_path: /assets/images/activities/talk_rona1.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_rona1
 feature_row4:
-  - image_path: /assets/images/activities/talk_liaobing1.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_liaobing1
 feature_row5:
-    - image_path: /assets/images/activities/talk_kyler2.jpg
-    - image_path: /assets/images/activities/talk_jenell1.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_kyler2
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_jenell1
 feature_row6:
-    - image_path: /assets/images/activities/talk_christine.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_christine
 feature_row7:
-    - image_path: /assets/images/activities/talk_loh.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_loh
 feature_row8:
-    - image_path: /assets/images/activities/talk_frances.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_frances
 feature_row9:
-    - image_path: /assets/images/activities/talk_irene.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_irene
 feature_row10:
-    - image_path: /assets/images/activities/talk_nokes.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_nokes
 feature_row11:
-    - image_path: /assets/images/activities/talk_chris.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_chris
 feature_row12:
-    - image_path: /assets/images/activities/talk_eric.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_eric
 feature_row13:
-    - image_path: /assets/images/activities/talk_kyu.jpg
-    - image_path: /assets/images/activities/talk_kathy.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_kyu
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_kathy
 feature_row14:
-    - image_path: /assets/images/activities/talk_students1.jpg
-    - image_path: /assets/images/activities/talk_students.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_students1
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_students
 feature_row15:
-    - image_path: /assets/images/activities/talk_justin.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_justin
 feature_row16:
-    - image_path: /assets/images/activities/talk_maggie.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_maggie
 feature_row17:
-    - image_path: /assets/images/activities/talk_arlene.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_arlene
 feature_row18:
-    - image_path: /assets/images/activities/talk_eva_lu1.jpg
-    - image_path: /assets/images/activities/talk_joseph_yang.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_eva_lu1
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_joseph_yang
 feature_row19:
-    - image_path: /assets/images/activities/talk_zhen_cheng.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_zhen_cheng
 feature_row20:
-    - image_path: /assets/images/activities/talk_xiegang.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_xiegang
 feature_row21:
-    - image_path: /assets/images/activities/talk_carl_shan.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_carl_shan
       excerpt: "<p>Carl Shan</p>"
-    - image_path: /assets/images/activities/talk_christie_lin.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_christie_lin
       excerpt: "<p>Christie Lin</p>"
-    - image_path: /assets/images/activities/talk_chloe_lim.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_chloe_lim
       excerpt: "<p>Chloe Lim</p>"
 feature_row22:
-    - image_path: /assets/images/activities/talk_raymond_chong1.jpg
-    - image_path: /assets/images/activities/talk_raymond_chong2.jpg
-    - image_path: /assets/images/activities/talk_raymond_chong3.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_raymond_chong1_ra1nmzabzaep4ftfnu8b
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_raymond_chong2
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_raymond_chong3
 feature_row23:
-    - image_path: /assets/images/activities/talk_bjpark.JPG
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_bjpark
 feature_row24:
-    - image_path: /assets/images/activities/talk_szu_hui_lee.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_szu_hui_lee
 feature_row25:
-    - image_path: /assets/images/activities/talk_nami_class.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_nami_class
 feature_row26:
-    - image_path: /assets/images/activities/talk_meisel.jpg
-    - image_path: /assets/images/activities/talk_mazzotta.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_meisel
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_mazzotta
 feature_row27:
-    - image_path: /assets/images/activities/talk_tkxu.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_tkxu
 feature_row28:
-    - image_path: /assets/images/activities/talk_kim.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_kim
 feature_row29:
-    - image_path: /assets/images/activities/talk_kevin.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_kevin
 feature_row30:
-    - image_path: /assets/images/activities/jessica_zhou.jpg
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/jessica_zhou
 ---
 
 {% include feature_row id="feature_row0"%}
@@ -99,7 +99,7 @@ Please register here: [https://us02web.zoom.us/meeting/register/tZUkcuuqqTIuHNYY
 
 ### 03.26.2022 2:30pm
 
-<p><img src="/assets/images/activities/talk_yinuo.jpg"></p>
+<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/talk_yinuo"></p>
 
 ### 11.06.2021 Saturday 3pm
 

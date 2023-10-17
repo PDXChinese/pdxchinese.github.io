@@ -15,7 +15,7 @@ date: "2023-02-26"
 
 ### Best in Show -  Fiona Wang from Sunset High School
 
-![]({{ site.url }}/assets/images/artcontest/2022_grp1_1st_large.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2022_grp1_1st_large)
 
 ### 来自颁奖仪式的精彩图片
 

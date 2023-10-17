@@ -3,7 +3,7 @@ title: " "
 permalink: /youthroundtable/
 ---
 
-![]({{ site.url }}/assets/images/communities/youthroundtable_logo3.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/youthroundtable_logo3)
 
 ## 2022年俄勒冈华裔青少年圆桌会
 # 6th Annual Oregon Chinese Youth Roundtable

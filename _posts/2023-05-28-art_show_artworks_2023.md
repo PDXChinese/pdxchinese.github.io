@@ -9,120 +9,120 @@ date: "2023-05-28"
 
 凝视着那精心布置过的画廊，回想起短短一个月中所发生的点点滴滴，由衷地感谢这些艺术作品，因为它们让我们的社区凝聚在一起，让两种文化在这里交融融合。这个展览成为了一个桥梁，架起了相互理解和共享的平台，展现了艺术的力量，超越了语言和国界的限制。这样的经历让我们深感荣幸，也让我们更加珍惜艺术对人们的影响和交流的力量。
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_01.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_01)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_02.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_02)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_03.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_03)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_04.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_04)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_05.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_05)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_06.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_06)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_07.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_07)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_08.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_08)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_09.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_09)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_10.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_10)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_11.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_11)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_11a.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_11a)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_12.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_12)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_13.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_13)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_14.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_14)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_15.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_15)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_16.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_16)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_17.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_17)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_18.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_18)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_19.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_19)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_19a.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_19a)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_19b.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_19b)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_20.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_20)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_21.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_21)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_22.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_22)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_23.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_23)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_24.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_24)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_25.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_25)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_26.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_26)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_27.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_27)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_28.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_28)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_29.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_29)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_30.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_30)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_31.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_31)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_32.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_32)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_33.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_33)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_34.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_34)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_35.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_35)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_36.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_36)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_36a.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_36a)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_37.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_37)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_38.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_38)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_39.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_39)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_40.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_40)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_41.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_41)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_42.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_42)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_43.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_43)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_44.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_44)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_45.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_45)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_46.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_46)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_47.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_47)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_48.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_48)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_49.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_49)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_50.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_50)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_51.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_51)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_52.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_52)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_52a.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_52a)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_53.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_53)
 
-  ![]({{ site.url }}/assets/images/artshow/2023_artworks_54.JPG)
+  ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artshow/2023_artworks_54)

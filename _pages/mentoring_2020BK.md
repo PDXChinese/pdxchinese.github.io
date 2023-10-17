@@ -17,7 +17,7 @@ feature_row1:
   - title: "Hongcheng Zhao"
     excerpt: "<p>Hongcheng has a graduate degree in Economics and worked in healthcare industry for more than 20 years. He had three years of teaching and mentoring experience in college. He has devoted his time to Chinese community in the last 3 years, including helping develop youth programs.</p>"
 ---
-<p><img src="/assets/images/activities/mentorheader.jpg"></p>  
+<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/mentorheader"></p>  
 [http://pdxchinesementoring.org](http://www.pdxchinesementoring.org)  
 
 If you want to join our mentorship program, either as a mentor or mentee, please [contact us](http://pdxchinese.org/contact/). All  prospective mentees are required to fill out the [application](https://docs.google.com/forms/d/e/1FAIpQLSdqvee6XxvmWx8VpyCZu_s-o17OdQXv-5CVznpoapuYV3mRqQ/viewform?usp=sf_link) and then contact us.  If prospective mentee is under age 18, parent or guardian needs to fill out the application.

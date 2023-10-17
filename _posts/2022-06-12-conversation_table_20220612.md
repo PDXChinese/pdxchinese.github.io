@@ -9,50 +9,50 @@ date: "2022-06-12"
 
 ### June 12, 2022
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615003632.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615003632)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606094254.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606094254)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615002937.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615002937)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615003011.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615003011)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615003103.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615003103)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615003228.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615003228)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615003308.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615003308)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615003400.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615003400)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615003457.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615003457)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615003548.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615003548)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615003732.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615003732)
 
 ### June 19, 2022
 
-![]({{ site.url }}/assets/images/WeChat Image_20220621000628.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220621000628)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220621000713.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220621000713)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220621000754.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220621000754)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220621000849.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220621000849)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220621000931.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220621000931)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220621001013.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220621001013)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220621001210.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220621001210)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220621001240.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220621001240)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220621001250.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220621001250)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220621001302.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220621001302)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220621001312.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220621001312)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220621001323.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220621001323)

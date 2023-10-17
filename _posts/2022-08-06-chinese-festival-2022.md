@@ -105,7 +105,7 @@ date: "2022-08-06"
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/298448467_1745527209153172_2624064747582058503_n)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220901214727.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220901214727)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/298498917_1745527272486499_5846706177706397271_n)
 

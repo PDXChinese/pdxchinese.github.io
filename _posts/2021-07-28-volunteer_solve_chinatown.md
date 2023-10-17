@@ -14,12 +14,12 @@ date: "2021-07-28"
 SOLVE（https://www.solveoregon.org/）欢迎更多的华人参加他们每月的清扫活动，不一定都在老城/中国城。
 
 
-![]({{ site.url }}/assets/images/WeChat Image_20210730015710.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210730015710)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210730015720.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210730015720)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210730015651.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210730015651)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210730015638.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210730015638)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210730015703.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210730015703)

@@ -9,4 +9,4 @@ date: "2020-09-12"
 
 所有参加的作文都刊登在THPRD[网站](http://www.thprd.org/activities/virtual-recreation-center/events?fbclid=IwAR3UcfqssId1HAwtkxU4bQe26idMv8wSM0crwTF5SJLLLEcXyzWH6C2byyA#OCC)上了，欢迎大家阅读欣赏。
 
-![]({{ site.url }}/assets/images/activities/thprd_winners.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/thprd_winners)

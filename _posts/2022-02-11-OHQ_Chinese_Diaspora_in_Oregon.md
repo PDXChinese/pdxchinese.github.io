@@ -5,7 +5,7 @@ excerpt: "俄勒冈历史协会最新一期季刊收集近两年对在本州华�
 date: "2022-02-11"
 ---
 
-![]({{ site.url }}/assets/images/chinatown/Cover_OHQ-122_4_Winter-2021.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/Cover_OHQ-122_4_Winter-2021)
 
 俄勒冈历史协会(Oregon Historical Society)最新一期季刊收集近两年对在本州华人历史的研究成果，近300页，罕见的很有深度的就华人在俄勒冈的历史做了极有说服力的研究，向世人展示了无可否认的一个基本事实，那就是华人的历史就是俄勒冈的历史。我们华人一直与俄勒冈同在，且为地方经济的发展做出了不可磨灭的贡献。该期季刊题目就是“Chinese Diaspora in Oregon”，简单但极具震撼力，我们作为华人对自己的历史也就是模模糊糊知道一些而已，通过这个季刊看到这么多的人为探索历史真相付出，并愿意为华人正名，这是正义(Justice)的胜利！
 

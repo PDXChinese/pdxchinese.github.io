@@ -26,13 +26,13 @@ The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is
 
 西北兆  15:26
 
-![]({{ site.url }}/assets/images/chinatown/a28e8103c901f9968fe0b819068abe17.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/a28e8103c901f9968fe0b819068abe17.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/34a4ec9b27b24d41e0685dd3580b0fd0.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/34a4ec9b27b24d41e0685dd3580b0fd0)
 
-![]({{ site.url }}/assets/images/chinatown/04fa90c0c0eec5107f5dcc95000609eb.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/04fa90c0c0eec5107f5dcc95000609eb)
 
-![]({{ site.url }}/assets/images/chinatown/887b25b044f151fb9c207d0e7c18342b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/887b25b044f151fb9c207d0e7c18342b)
 
 很喜欢后面一张，几代华人同框[ThumbsUp]
 
@@ -46,93 +46,93 @@ At their age I would suggest their priority is concentration in taking tough and
 
 我们先来欣赏文艺演出现场的精彩镜头，感谢Hardy和众群友提供的照片！
 
-![]({{ site.url }}/assets/images/chinatown/f77379bc2951cde156ebb191702d5f82.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/f77379bc2951cde156ebb191702d5f82)
 
-![]({{ site.url }}/assets/images/chinatown/9028f8b22b7de9a5ff0712563091a5fb.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/9028f8b22b7de9a5ff0712563091a5fb)
 
-![]({{ site.url }}/assets/images/chinatown/a63e93bdc8d20b717cf515ff88d30f7f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/a63e93bdc8d20b717cf515ff88d30f7f)
 
-![]({{ site.url }}/assets/images/chinatown/03b71bd44640f521cc8f9e9437cfbd2b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/03b71bd44640f521cc8f9e9437cfbd2b)
 
-![]({{ site.url }}/assets/images/chinatown/3ade515645e9ca16ac87388a45c5bd86.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/3ade515645e9ca16ac87388a45c5bd86)
 
-![]({{ site.url }}/assets/images/chinatown/8bf2eb44a61e1fc9833ad56641f9b1b0.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/8bf2eb44a61e1fc9833ad56641f9b1b0)
 
-![]({{ site.url }}/assets/images/chinatown/1a3cb598afc99af26d9352d318f3f0ce.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/1a3cb598afc99af26d9352d318f3f0ce)
 
-![]({{ site.url }}/assets/images/chinatown/06d4f3d4f1244ed3066ce5ed8658d24b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/06d4f3d4f1244ed3066ce5ed8658d24b)
 
-![]({{ site.url }}/assets/images/chinatown/c977f8ae644efa7ab0ed3115cfded392.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/c977f8ae644efa7ab0ed3115cfded392)
 
-![]({{ site.url }}/assets/images/chinatown/f39e1453720031e3b7acd1ff9b2c152f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/f39e1453720031e3b7acd1ff9b2c152f)
 
-![]({{ site.url }}/assets/images/chinatown/e5383f73c9dac5e4b30b5746ae04b121.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/e5383f73c9dac5e4b30b5746ae04b121)
 
-![]({{ site.url }}/assets/images/chinatown/4ee4c31c6bf2b457c709e68d6af88ea7.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/4ee4c31c6bf2b457c709e68d6af88ea7)
 
-![]({{ site.url }}/assets/images/chinatown/fd22fb93accafc6c782487c2e9233fff.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/fd22fb93accafc6c782487c2e9233fff)
 
-![]({{ site.url }}/assets/images/chinatown/dd1e6e23d9772a71853aef3fa3173f08.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/dd1e6e23d9772a71853aef3fa3173f08)
 
-![]({{ site.url }}/assets/images/chinatown/6f838ea7373b6b719683a3874dcc6d62.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/6f838ea7373b6b719683a3874dcc6d62)
 
-![]({{ site.url }}/assets/images/chinatown/e5ab3733ace466dcb7eb9544929ec248.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/e5ab3733ace466dcb7eb9544929ec248)
 
-![]({{ site.url }}/assets/images/chinatown/4d3376bbdd609326f7e5672cae1ecf86.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/4d3376bbdd609326f7e5672cae1ecf86)
 
-![]({{ site.url }}/assets/images/chinatown/8fde561b892bc8f05010cdd259d6c6f5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/8fde561b892bc8f05010cdd259d6c6f5)
 
-![]({{ site.url }}/assets/images/chinatown/460821b08a492e4b25bc1fc7e516dca3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/460821b08a492e4b25bc1fc7e516dca3)
 
-![]({{ site.url }}/assets/images/chinatown/4e9f5cac9047ff24c6ac9c6308ffa3d9.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/4e9f5cac9047ff24c6ac9c6308ffa3d9)
 
-![]({{ site.url }}/assets/images/chinatown/de928bf6abe97bb9a773d0cb9b173bc0.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/de928bf6abe97bb9a773d0cb9b173bc0)
 
-![]({{ site.url }}/assets/images/chinatown/4a9bf7afb0a12cab6c14887199fb7518.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/4a9bf7afb0a12cab6c14887199fb7518)
 
-![]({{ site.url }}/assets/images/chinatown/dc04a2e73a340c1d7f5e1864f41e2ab8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/dc04a2e73a340c1d7f5e1864f41e2ab8)
 
-![]({{ site.url }}/assets/images/chinatown/2b4042c98a364cbad2bfbb8db15e35d8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/2b4042c98a364cbad2bfbb8db15e35d8)
 
-![]({{ site.url }}/assets/images/chinatown/1c529f848dba38cb4d16bf277fbc88c0.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/1c529f848dba38cb4d16bf277fbc88c0)
 
-![]({{ site.url }}/assets/images/chinatown/90ddaf7474feff47f5ee6fd034f6fb94.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/90ddaf7474feff47f5ee6fd034f6fb94)
 
-![]({{ site.url }}/assets/images/chinatown/fa5d081bcee1492559a75a5b604a5e4f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/fa5d081bcee1492559a75a5b604a5e4f)
 
-![]({{ site.url }}/assets/images/chinatown/f349077b873eea066a98825b663b679f.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/f349077b873eea066a98825b663b679f)
 
-![]({{ site.url }}/assets/images/chinatown/29decb43ad6aa8a4f277ff1e6219f322.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/29decb43ad6aa8a4f277ff1e6219f322)
 
-![]({{ site.url }}/assets/images/chinatown/5f12a1d28c4d7142da61c6d6122e7f47.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/5f12a1d28c4d7142da61c6d6122e7f47)
 
-![]({{ site.url }}/assets/images/chinatown/7fc559dcace9cde72bdd98a71ea0fffe.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/7fc559dcace9cde72bdd98a71ea0fffe)
 
-![]({{ site.url }}/assets/images/chinatown/98d6b9af174207c15b478b7bd57791e1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/98d6b9af174207c15b478b7bd57791e1)
 
-![]({{ site.url }}/assets/images/chinatown/8dc64e0b2e0790eb4e3b36cd380f58c7.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/8dc64e0b2e0790eb4e3b36cd380f58c7)
 
-![]({{ site.url }}/assets/images/chinatown/d07e1658184c2ed9b0fb1b377b4016ea.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/d07e1658184c2ed9b0fb1b377b4016ea)
 
-![]({{ site.url }}/assets/images/chinatown/4a288fb86aae6aaeb956bb35c9cc14c4.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/4a288fb86aae6aaeb956bb35c9cc14c4)
 
-![]({{ site.url }}/assets/images/chinatown/5a5f4fe2eafcb508a67069831e426938.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/5a5f4fe2eafcb508a67069831e426938)
 
-![]({{ site.url }}/assets/images/chinatown/897962973595f6c4de369dd95b1e8ae3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/897962973595f6c4de369dd95b1e8ae3)
 
-![]({{ site.url }}/assets/images/chinatown/e194d3c9c78101533a86c256b095a559.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/e194d3c9c78101533a86c256b095a559)
 
-![]({{ site.url }}/assets/images/chinatown/13959e587bfafc6f5e8ffd72b49d715e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/13959e587bfafc6f5e8ffd72b49d715e)
 
-![]({{ site.url }}/assets/images/chinatown/1fc04b28be0f588225ae6d3c14ebc8db.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/1fc04b28be0f588225ae6d3c14ebc8db)
 
-![]({{ site.url }}/assets/images/chinatown/8df277c3c3e5bb63b10c08d89b043200.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/8df277c3c3e5bb63b10c08d89b043200)
 
-![]({{ site.url }}/assets/images/chinatown/85d746ccfaa2c17c0edf3eb0be553456.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/85d746ccfaa2c17c0edf3eb0be553456)
 
-![]({{ site.url }}/assets/images/chinatown/b42f28fff6b3549b407a1dce80999548.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/b42f28fff6b3549b407a1dce80999548)
 
-![]({{ site.url }}/assets/images/chinatown/906606c6c7406f7b5ab49bee7604d447.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/906606c6c7406f7b5ab49bee7604d447)
 
 以下是所有参加演出的团体和个人
 
@@ -226,47 +226,47 @@ Meirong  16:48
 
 有太多的要讲了，这样下去，我的酒也没了，大家也等不及看下面的介绍了。先休息一下，回来继续介绍传统文化活动部分。可以先放照片[OK]
 
-![]({{ site.url }}/assets/images/chinatown/fc9280efa28a6b1d83cd7ffbeb316ae5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/fc9280efa28a6b1d83cd7ffbeb316ae5)
 
-![]({{ site.url }}/assets/images/chinatown/c85e0195ea116b3ca1cc97fa12bd3bfb.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/c85e0195ea116b3ca1cc97fa12bd3bfb)
 
-![]({{ site.url }}/assets/images/chinatown/38398682db201c600c235ee6e04ca131.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/38398682db201c600c235ee6e04ca131)
 
-![]({{ site.url }}/assets/images/chinatown/37d188634670442f6e4067bc8406daf3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/37d188634670442f6e4067bc8406daf3)
 
-![]({{ site.url }}/assets/images/chinatown/e60d57e041faec5e7541db311e195475.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/e60d57e041faec5e7541db311e195475)
 
-![]({{ site.url }}/assets/images/chinatown/51d42890473b38383891505da58bcefb.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/51d42890473b38383891505da58bcefb)
 
-![]({{ site.url }}/assets/images/chinatown/deb650cc2500cae24e4d2892458812a1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/deb650cc2500cae24e4d2892458812a1)
 
-![]({{ site.url }}/assets/images/chinatown/adfa7cf213e97b8a82c325beba5c3cdd.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/adfa7cf213e97b8a82c325beba5c3cdd)
 
-![]({{ site.url }}/assets/images/chinatown/98e957a853bcf5fca35da2dbe7f1c948.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/98e957a853bcf5fca35da2dbe7f1c948)
 
-![]({{ site.url }}/assets/images/chinatown/373278037bdd008a3028f4537faa900e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/373278037bdd008a3028f4537faa900e)
 
-![]({{ site.url }}/assets/images/chinatown/5cc1d45a137f461ff1493950ded863e6.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/5cc1d45a137f461ff1493950ded863e6)
 
-![]({{ site.url }}/assets/images/chinatown/00c9c905bbdd5ed159f40e759f4fa861.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/00c9c905bbdd5ed159f40e759f4fa861)
 
-![]({{ site.url }}/assets/images/chinatown/a5f729953746f4a100282ba32fd8fae5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/a5f729953746f4a100282ba32fd8fae5)
 
-![]({{ site.url }}/assets/images/chinatown/827822cbfe28f74d6598177dedc176a8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/827822cbfe28f74d6598177dedc176a8)
 
-![]({{ site.url }}/assets/images/chinatown/41c4ecfe856cafb48df7e15efcf56d51.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/41c4ecfe856cafb48df7e15efcf56d51)
 
-![]({{ site.url }}/assets/images/chinatown/186660b1faa3fcf40a9fd2dede65c38c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/186660b1faa3fcf40a9fd2dede65c38c)
 
-![]({{ site.url }}/assets/images/chinatown/bc804df9a4499bd403a31707e0eaa48d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/bc804df9a4499bd403a31707e0eaa48d)
 
-![]({{ site.url }}/assets/images/chinatown/cfa812290e7e8b2cc77054ee35552cf8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/cfa812290e7e8b2cc77054ee35552cf8)
 
-![]({{ site.url }}/assets/images/chinatown/537a0e8951ddca1870465e863cbd83b6.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/537a0e8951ddca1870465e863cbd83b6)
 
-![]({{ site.url }}/assets/images/chinatown/bc25eff953ccbfe25178864d0d702cc2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/bc25eff953ccbfe25178864d0d702cc2)
 
-![]({{ site.url }}/assets/images/chinatown/4a5660d542d7ff87a17c257a48e1aacb.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/4a5660d542d7ff87a17c257a48e1aacb)
 
 在中华会馆三楼举办的传统文化活动属于“创新之举”，如何把在广场上的文艺演出和中国城侨社联系起来，各做各的显然缺少些什么。我们开始试图拉几位我们已经很熟悉的画家和书法家，如在这两年社区活动中活跃的陈老师，王老师，林老师和左老师，实话实说，本来是想将这一部分作为广场活动的陪衬，以前活动也是这么做的。完全没有想到，在我们一边介绍参与的团体和个人的那些天，一个接一个来自陌生人的微信出现了，显然是了解到了这次活动，言语中完全没有大师的口气，非常的humble。但是，我意识到了什么，每天一篇的介绍实际上起到了“挖矿”的效用。这就是后来我向大家开始介绍的诸位大家，这次活动之后，他们都成了在华人社区家喻户晓的名字。
 
@@ -332,11 +332,11 @@ Jennifer 筱坚老师 转手帕
 
 义工的部分要留到明天了，剩下点时间邀请大家一同欣赏波村K歌群在秉公堂的活动。
 
-![]({{ site.url }}/assets/images/chinatown/acd53d6398fba2997483d956a919908a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/acd53d6398fba2997483d956a919908a)
 
-![]({{ site.url }}/assets/images/chinatown/5738fdd75a5b20e71e318b4e2d0a1b62.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/5738fdd75a5b20e71e318b4e2d0a1b62)
 
-![]({{ site.url }}/assets/images/chinatown/782630d8705ec84cf63c3453f740b906.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/782630d8705ec84cf63c3453f740b906)
 
 在秉公堂二楼阳台举办小提琴和唱歌为主要内容的快闪活动，因为天气实在不好，只好作罢，改为在二楼大厅举办一场卡拉OK专场。波村K歌群我有专门介绍过，他们这次除了卡拉OK之外，还在广场文艺演出中出演联唱。我正好在后台，听到群主婷婷的京剧片段，Wow，这也太专业了，我事后跟她说，现在拜师学京剧还来得及，这样的人才应该有更大的舞台。
 
@@ -358,30 +358,30 @@ Jennifer 筱坚老师 转手帕
 
 首先是Neil Lee，作为老侨社团的新一代领袖，毫无身架，在整个筹备阶段，他几乎是奉献了全部的时间，从申请Permit，与市府各部门协调，安排清洗街道，到亲自动手按装中华会馆楼上的横幅和灯笼。从没有怨言，总是展现乐观幽默的一面。很多人不知道他自己有自己的建筑设计公司，www.leekainc.com，我真担心他的员工会不会把他开除了。这样的侨领级的义工，理应得到我们的尊重和支持。
 
-![]({{ site.url }}/assets/images/chinatown/4e2dc65b0e8444b5e2a862bad224cc8b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/4e2dc65b0e8444b5e2a862bad224cc8b)
 
 如果Neil属于义工“专业户”，那么为此次活动尽一份心意的众多义工，则是“尽力而为”了。但是，为了他们这份心意，我们就应该为他们点赞叫好。
 作为花絮，我们曾经以《蚂蚁搬家，为了节省公益的每一个铜板》为题，介绍过人肉搬运活动所需材料的故事。就是为了节省可能是一家人出去晚餐一顿的钱，我们决定动用群友的力量，把项导在淘宝网上订的东西搬运回波村。我们收到的第一件物品是@anna 老公从上海搬运回来的演出舞台用的幕布。40磅的重量，连@anna自己都无法搬动，最后是通过陈永雄老师来西边教课顺便送到了我的手里。第二批则是@Yanbin Luo的家人，我去取的时候，开的是小车，绝没想到是一个很大的需要check in的行李，而且也是相当的重。第三批则是周六从张丽文手里接过来的，包括财神爷的全套服饰加用品。前后有超过十位群友积极响应，愿意无条件提供任何帮助，真的令我们感动至极。
 
 在传统文化活动的准备过程中，Jennifer主动提出转手帕这一活动，没想到，一提出，就得到了大家的积极反应。为了有足够的义工掌握基本动作，她们特意成立了《中国城迎春转手帕组》。在Jennifer的指导之下，陈曦，曾翔飞, Lisa成了现场互动的主力。
 
-![]({{ site.url }}/assets/images/chinatown/bcb21f8d601b5418c32c30829808e1c3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/bcb21f8d601b5418c32c30829808e1c3)
 
-![]({{ site.url }}/assets/images/chinatown/28384be1596eb315faed5f83cb9b7dcf.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/28384be1596eb315faed5f83cb9b7dcf)
 
 前面提到我们重点布阵传统文化活动部分，义工们对这项活动的重视程度甚至超出了我们的预期。她们一定要提前一天到活动现场布置场地。没想到的是，那天来的人还真的不少，包括了家人。对于这些花花绿绿的东西，我是没一点概念，完全信任在场的女士们。我和李老师和林老师跑到下面开始组装煤气炉子。我想我不用介绍他们的名字，大家也能从照片上认出他们出来。
 
-![]({{ site.url }}/assets/images/chinatown/7384cae85947d3dffdffe3128f15b86b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/7384cae85947d3dffdffe3128f15b86b)
 
-![]({{ site.url }}/assets/images/chinatown/d68d2cf785814dc21c0a4535e88115ee.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/d68d2cf785814dc21c0a4535e88115ee)
 
-![]({{ site.url }}/assets/images/chinatown/b5ef71d53230f17242a76710ebc36eb3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/b5ef71d53230f17242a76710ebc36eb3)
 
-![]({{ site.url }}/assets/images/chinatown/1d3198428d8e988675f90404a547cd83.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/1d3198428d8e988675f90404a547cd83)
 
-![]({{ site.url }}/assets/images/chinatown/8c102bfb22a7239d208bf4f085c16e34.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/8c102bfb22a7239d208bf4f085c16e34)
 
-![]({{ site.url }}/assets/images/chinatown/78bbcc17d6b91169650b77fb3eaf41fc.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/78bbcc17d6b91169650b77fb3eaf41fc)
 
 在另外一个场地，本来打算活动当天上午组装heaters临时决定今天就做出来，免得明天手忙脚乱。结果，组装起来也的确很是费时。大家肯定想不到做这件事情的主力是林老师和李老师两位艺术大师，还有我们的二代，张丽文的公子，最后Nancy和陈曦过来帮忙，也一起组装完成了一个[ThumbsUp][Rose][Rose]
 
@@ -420,19 +420,19 @@ Jennifer 筱坚老师 转手帕
 
 最后用陈曦的发言作为我们此次活动小结，会十分的贴切：“来波特兰断断续续一年多了，说今天是我来后过的最高兴最有意义的一天，毫不夸张。 由衷地为中华传统文化和本地华人社区感到无比骄傲。再次感谢组织者，领导者和参与者的话不再重复啦。一句话：摩拳擦掌期待下次社区活动！💪💪🎉🎉🎉”
 
-![]({{ site.url }}/assets/images/chinatown/5ff0a7d16d8d083e495327fbd3233741.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/5ff0a7d16d8d083e495327fbd3233741)
 
-![]({{ site.url }}/assets/images/chinatown/9f28c273724b81e2bbbc57c114c1b5a4.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/9f28c273724b81e2bbbc57c114c1b5a4)
 
-![]({{ site.url }}/assets/images/chinatown/79e870afa02e440f55a8780c1c06a31a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/79e870afa02e440f55a8780c1c06a31a)
 
-![]({{ site.url }}/assets/images/chinatown/067edd68517b0c078246bdc8a06f23e3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/067edd68517b0c078246bdc8a06f23e3)
 
-![]({{ site.url }}/assets/images/chinatown/d906b0c88462dc4bbc83b10afdea35c4.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/d906b0c88462dc4bbc83b10afdea35c4)
 
-![]({{ site.url }}/assets/images/chinatown/9247a653add39114d2ab1f7d932e5d69.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/9247a653add39114d2ab1f7d932e5d69)
 
-![]({{ site.url }}/assets/images/chinatown/4fd4784a11d103b8148799e7380eb83e.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/4fd4784a11d103b8148799e7380eb83e)
 
 This community, with our effort, shall have a new hope of tomorrow—and that community of the people, by the people, for the people, shall not get lost from our hands.
 

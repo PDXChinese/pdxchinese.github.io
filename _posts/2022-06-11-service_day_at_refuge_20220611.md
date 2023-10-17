@@ -7,56 +7,56 @@ date: "2022-06-11"
 
 周日在图拉丁河国家野生保护区参加服务日活动，来自社区40多人参加。到目前为止，这是一个超级雨季。但天气并没有阻止这些家庭出来享受和关心大自然。
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615001636.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615001636)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615001709.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615001709)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615001718.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615001718)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615001729.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615001729)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615001740.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615001740)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615001745.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615001745)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615001755.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615001755)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615001804.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615001804)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615001815.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615001815)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615001823.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615001823)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615002225.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615002225)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615002316.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615002316)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615002336.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615002336)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615002353.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615002353)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615002426.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615002426)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615002433.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615002433)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615002504.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615002504)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615002511.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615002511)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615002520.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615002520)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615002553.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615002553)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615002603.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615002603)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220615002623.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220615002623)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220621001352.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220621001352)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220621001404.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220621001404)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220621001412.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220621001412)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220621001422.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220621001422)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220621001431.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220621001431)
