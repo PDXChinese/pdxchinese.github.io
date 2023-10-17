@@ -5,11 +5,11 @@ excerpt: "为了帮助波特兰华人家庭在新冠居家生活的环境中丰�
 date: "2020-06-23"
 ---
 
-![]({{ site.url }}/assets/images/WeChat Image_20200623192953.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20200623192953)
 
-![]({{ site.url }}/assets/images/WeChat Image_20200623193014.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20200623193014)
 
-![]({{ site.url }}/assets/images/WeChat Image_20200623193022.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20200623193022)
 
 为了帮助波特兰华人家庭在新冠居家生活的环境中丰富家庭情趣, [Oceana Blue Production公司](http://www.oceanablueusa.com)特主办此次名为“瞧这一家子“ 创意主题照片有奖征集活动。
 

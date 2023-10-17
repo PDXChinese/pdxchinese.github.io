@@ -9,22 +9,22 @@ date: "2022-09-10"
 
 我们的青少年舞队和花木兰鼓队则是利用下午时间做演出前的排练，明天在Beaverton新剧场会是社区演出活动，台上节目来自各个社区演出团体，活动对社区免费开放，从上午11点到晚上7点，咱们社区的节目安排在4点半开始的40分钟。这里是[全天节目安排](https://thereser.org/event/shine-the-light-a-community-celebration-2/)，欢迎大家前来观赏。
 
-![]({{ site.url }}/assets/images/WeChat Image_20220910170309.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220910170309)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220910171725.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220910171725)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220910171732.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220910171732)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220910170314.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220910170314)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220910171738.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220910171738)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220910170302.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220910170302)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220910170144.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220910170144)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220910170601.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220910170601)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220910170620.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220910170620)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DIegaQPT4Js" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

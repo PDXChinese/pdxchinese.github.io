@@ -2,23 +2,23 @@
 title: ""
 permalink: /oralhistory/
 feature_row1:
-  - image_path: /assets/images/WeChat Image_20210902095255.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210902095255
     excerpt: "<p><a href='https://youtu.be/x4xYzixb5bQ'>Mandarin House</a></p>"
-  - image_path: /assets/images/WeChat Image_20210902093137.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210902093137
     excerpt: "<p><a href='https://youtu.be/PJqUWFoYrSc'>Orox Leather Co.</a></p>"
-  - image_path: /assets/images/activities/h2c2.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/h2c2
     excerpt: "<p><a href='https://youtu.be/v15E5VRrtJI'>H2C Relay Team</a></p>"  
-  - image_path: /assets/images/activities/gloria2.png
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/gloria2
     excerpt: "<p><a href='https://youtu.be/fwgnznDhk3g'>Gloria Wong</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/339278248_1295146854369639_1922066907187848118_n
     excerpt: "<p><a href='https://youtu.be/tM0kS3jRl2Y'>Xiaohui Chen and Dick Lee</a></p>"  
-  - image_path: /assets/images/activities/fred2.png
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/fred2
     excerpt: "<p><a href='https://youtu.be/9nVnHfNJW58'>Fred Wong</a></p>"  
-  - image_path: /assets/images/activities/raymond_cover.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/raymond_cover
     excerpt: "<p><a href='https://youtu.be/5fKAs-icqG4'>Raymond Chong</a></p>"  
-  - image_path: /assets/images/activities/keith_cover.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/keith_cover
     excerpt: "<p><a href='https://youtu.be/7bsrbFYPU04'>Keith Lee</a></p>"  
-  - image_path: /assets/images/activities/khoo_cover2.png
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/khoo_cover2
     excerpt: "<p><a href='https://youtu.be/djHA8R9jov8'>Eng Lock Khoo</a></p>"  
 ---
 

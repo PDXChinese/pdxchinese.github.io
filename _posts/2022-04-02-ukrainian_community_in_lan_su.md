@@ -11,4 +11,4 @@ date: "2022-04-02"
 
 今天我们还邀请Anna特意过来给乌克兰朋友们介绍兰苏园，Anna也是二话没说，满口答应下来。我们俩都觉得能在这个时候能为他们做些什么心里稍有些宽慰。
 
-![]({{ site.url }}/assets/images/WeChat Image_20220404003629.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220404003629)

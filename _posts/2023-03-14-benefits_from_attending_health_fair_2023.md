@@ -5,7 +5,7 @@ excerpt: "第一次知道还有解药的存在，在发现有家人中毒的情�
 date: "2023-03-17"
 ---
 
-![]({{ site.url }}/assets/images/activities/healthfair2023c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfair2023c)
 
 *每日一贴，请持续关注！健康博览会网页：[https://pdxchinese.org/healthfair/](https://pdxchinese.org/healthfair/)*
 

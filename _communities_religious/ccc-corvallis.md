@@ -10,7 +10,7 @@ sidebar:
     text: "[www.ccc-corvallis.org](http://www.ccc-corvallis.org)"
 ---
 
-![]({{ site.url }}/assets/images/communities/ccc-corvallis.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/ccc-corvallis)
 
 Our church is a group of believing followers of Jesus Christ gathering locally here in Corvallis Oregon to worship, fellowship and disciple. We are a non-denominational independent church embracing all walks of emphasis in the Christian faith, based solely on Bible.
 

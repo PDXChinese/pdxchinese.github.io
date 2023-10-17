@@ -2,52 +2,52 @@
 title: ""
 permalink: /healthfair/
 feature_row1:
-  - image_path: /assets/images/activities/ohsulogo.jpg
-  - image_path: /assets/images/activities/careoregonlogo.png
-  - image_path: /assets/images/activities/ocomlogo.png
-  - image_path: /assets/images/activities/cwslogo.jpg
-  - image_path: /assets/images/activities/fjclogo.png
-  - image_path: /assets/images/activities/namilogo.jpg
-  - image_path: /assets/images/activities/ohaflogo.png
-  - image_path: /assets/images/activities/ohcslogo.png
-  - image_path: /assets/images/activities/ahsclogo.png
-  - image_path: /assets/images/activities/adrc_logo.jpg
-  - image_path: /assets/images/activities/shibalogo.png
-  - image_path: /assets/images/activities/medicaresavinglogo.png
-  - image_path: /assets/images/activities/cfpalogo.png  
-  - image_path: /assets/images/activities/lecarelogo.jpg
-  - image_path: /assets/images/activities/arrayrxlogo.jpg
-  - image_path: /assets/images/activities/poisonlogo.png
-  - image_path: /assets/images/activities/hhhs_logo.png  
-  - image_path: /assets/images/activities/asqlonglogo.png
-  - image_path: /assets/images/activities/youthlinelogo.jpg  
-  - image_path: /assets/images/activities/rosewoodlogo.jpg
-  - image_path: /assets/images/activities/healthysmileslogo.png  
-  - image_path: /assets/images/activities/yinglogo.jpg  
-  - image_path: /assets/images/activities/ppblogo1.png  
-  - image_path: /assets/images/activities/211logo.png
-  - image_path: /assets/images/activities/rideconnection.png
-  - image_path: /assets/images/activities/santoshalogo.png  
-  - image_path: /assets/images/activities/missionlogo.png
-  - image_path: /assets/images/activities/gaolaoshilogo.png  
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ohsulogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/careoregonlogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ocomlogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/cwslogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/fjclogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/namilogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ohaflogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ohcslogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ahsclogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/adrc_logo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/shibalogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/medicaresavinglogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/cfpalogo  
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/lecarelogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/arrayrxlogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/poisonlogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/hhhs_logo  
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/asqlonglogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/youthlinelogo  
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/rosewoodlogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthysmileslogo  
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/yinglogo  
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ppblogo1  
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/211logo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/rideconnection
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/santoshalogo  
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/missionlogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/gaolaoshilogo  
 feature_row2:
-  - image_path: /assets/images/activities/blanklogo.jpg
-  - image_path: /assets/images/activities/ohalogo.png
-  - image_path: /assets/images/activities/blanklogo.jpg
-  - image_path: /assets/images/activities/mult_county.png
-  - image_path: /assets/images/activities/wacountylogo.jpg
-  - image_path: /assets/images/activities/clacklogo.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/blanklogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ohalogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/blanklogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/mult_county_nf2iqzgmnapl3uxgfock
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/wacountylogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/clacklogo
 ---
 
 *[Health Fair Album / 健康博览会相册](https://pdxchinese.org/community_health_fair_2023/)*
 
 **中文信息在此页面的下半部分**
 
-![]({{ site.url }}/assets/images/activities/2023fairflyer.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023fairflyer)
 
 [>> Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
 [>> Health Fair Survey](https://docs.google.com/forms/d/e/1FAIpQLSd_4AIMlIc641pCQophuSprlJhwqz_ZYHnQVsaNNvEMTKJYEg/viewform?usp=sf_link)  
-[>> Tabling Map](/assets/images/activities/healthfairmap2023.pdf)  
+[>> Tabling Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2023)  
 
 Health is of utmost importance to everyone, from the youth navigating between two cultures, to the parents shouldering the responsibilities of raising a family, and certainly to the elderly who strive to age gracefully. The health fair is dedicated to the well-being of the entire community.
 
@@ -169,7 +169,7 @@ While supplies last
 [>> 现场义工报名表格](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
 [>> 计划到场人流调查表](https://docs.google.com/forms/d/e/1FAIpQLSd_4AIMlIc641pCQophuSprlJhwqz_ZYHnQVsaNNvEMTKJYEg/viewform?usp=sf_link)  
 [>> 社区健康博览会内容介绍](https://pdxchinese.org/benefits_from_attending_health_fair_2023/)  
-[>> 现场摊位位置图](/assets/images/activities/healthfairmap2023.pdf)  
+[>> 现场摊位位置图](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2023)  
 
 **波特兰西南区免费专车**
 

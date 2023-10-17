@@ -53,19 +53,19 @@ Ordered alphabetically
 
 Jing Chen
 
-<p><img src="/assets/images/activities/jing-chen.jpg"></p>
+<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/jing-chen"></p>
 
 Daniel Gu
 
-<p><img src="/assets/images/activities/daniel-gu.png"></p>
+<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/daniel-gu"></p>
 
 Sophia Pi
 
-<p><img src="/assets/images/activities/sophia_pi.jpg"></p>
+<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/sophia_pi"></p>
 
 Shauna Tominey, Ph.D.
 
-<p><img src="/assets/images/activities/shauna-tominey.jpg"></p>
+<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/shauna-tominey"></p>
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 

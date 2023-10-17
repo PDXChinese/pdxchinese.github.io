@@ -2,12 +2,12 @@
 title: "Peer Connect"
 permalink: /peerconnect/
 feature_row1:
-  - image_path: /assets/images/activities/penpallogo5.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/penpallogo5
 feature_row2:
-  - image_path: /assets/images/activities/multlogo.png
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/multlogo
 feature_row3:
-  - image_path: /assets/images/activities/apano-logo.png
-  - image_path: /assets/images/activities/derose.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/apano-logo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/derose
 ---
 
 Peer Connect program is designed to provide opportunities for the youth to get connected through organizing and participating in the activities.
@@ -16,16 +16,16 @@ Any middle and high school students are welcome to join the program with the com
 
 ### Service Day at Wapato Lake National Wildlife Refuge in Gaston
 
-![]({{ site.url }}/assets/images/WeChat Image_20211205232100.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211205232100)
 
 For more pictures, please read the [blog](https://pdxchinese.org/peer_connect_service_day_dec_2021/)
 
 ### Toys Drive
 
-![]({{ site.url }}/assets/images/WeChat Image_20211212233245.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211212233245)
 
 For more pictures, please read the [blog](https://pdxchinese.org/toy_drive_2021/)
 
 ### Volunteering at Children's Books
 
-![]({{ site.url }}/assets/images/WeChat Image_20220216153555.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220216153555)

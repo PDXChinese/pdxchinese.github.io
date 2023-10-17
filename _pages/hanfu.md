@@ -13,7 +13,7 @@ The Phoenix Hanfu Team was established earlier this year (2023) by a group of lo
 
 To have us perform in your events, please [contact us](http://pdxchinese.org/contact/).
 
-![]({{ site.url }}/assets/images/activities/hanfuflyer.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/hanfuflyer)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329321684_3581841848712864_9140941873964539826_n)
 

@@ -15,7 +15,7 @@ feature_row1:
   - title: "Zhunquin Wang"
     excerpt: "<p>Zhunqing graduated from Tsinghua University and has been a software developer for Oracle since 1997. He has been coaching world-class robotics teams for over a dozen years. He was also active in a local Boy Scout troop. His passion is to foster the holistic growth of future technology leaders.</p>"
 ---
-<p><img src="/assets/images/activities/mentorheader.jpg"></p>  
+<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/mentorheader"></p>  
 [http://pdxchinesementoring.org](http://www.pdxchinesementoring.org)  
 
 If you want to join our mentorship program, either as a mentor or mentee, please [contact us](http://pdxchinese.org/contact/). All  prospective mentees are required to fill out the [application](https://docs.google.com/forms/d/e/1FAIpQLSdqvee6XxvmWx8VpyCZu_s-o17OdQXv-5CVznpoapuYV3mRqQ/viewform?usp=sf_link) and then contact us.  If prospective mentee is under age 18, parent or guardian needs to fill out the application.

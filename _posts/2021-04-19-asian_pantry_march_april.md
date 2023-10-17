@@ -16,36 +16,36 @@ Amber是领导，需要一个能顶替Gloria做事的，所以，就雇了照片
 疫情期间，这项活动越办越红火，因为老人们出不了门，每月到这天老人们都是欣喜若狂，早早就等着通知什么时候下楼取东西。平时回到子女家的老人，那天基本上都会回来。另外一个原因，提供给老人们的食品绝对是越来越好，因为Gloria也争取到了OHA的grants，每个月一次这样的活动花在食品上的支出就要上4000美元。和活动刚开始相比，那就是天壤之别。
 
 
-![]({{ site.url }}/assets/images/WeChat Image_20210420161804.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210420161804)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210420161819.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210420161819)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210420161855.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210420161855)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210420161833.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210420161833)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210420161917.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210420161917)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210420161910.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210420161910)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210420161846.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210420161846)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210420161840.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210420161840)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210420161956.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210420161956)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210420162011.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210420162011)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210420162003.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210420162003)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210420161826.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210420161826)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210420161938.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210420161938)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210420161924.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210420161924)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210420161930.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210420161930)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210420161902.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210420161902)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210421231512.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210421231512)

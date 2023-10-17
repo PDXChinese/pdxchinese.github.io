@@ -11,4 +11,4 @@ sidebar:
     text: "[https://www.stumptownotaku.com/](https://www.stumptownotaku.com/)"
 ---
 
-![]({{ site.url }}/assets/images/communities/otaku.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/otaku)

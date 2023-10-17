@@ -7,23 +7,23 @@ feature_row0:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/oregonian_yxpdmshklnnhzhzx2rar
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pcs-logo_vgzamhsfosh7txg6tcar
 feature_row1:
-  - image_path: /assets/images/festival/claire_cao.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/claire_cao
     title: "Claire Cao"
-  - image_path: /assets/images/festival/amy_kang2.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/amy_kang2
     title: "Amy Kang"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2021_Victor_Li
     title: "Victor Li"
-  - image_path: /assets/images/festival/justin.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/justin
     title: "Justin Xia"
 feature_row2:
-  - image_path: /assets/images/festival/jeff_selby.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/jeff_selby
     title: "Jeff Selby"
     excerpt: "Deputy Director, City of Portland's Office of Equity & Human Rights"
 ---
 # See you again in 2023. It will be on August 5!
 <br>
 <br>
-![]({{ site.url }}/assets/images/festival/festival2022b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/festival2022b)
 
 The art works incorporated into the flyer, banner and posters are from the first [community youth art contest](https://pdxchinese.org/artcontest/) in collaboration with the [Friends of Tualatin River National Wildlife Refuge](https://www.friendsoftualatinrefuge.org/).
 

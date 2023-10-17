@@ -11,46 +11,46 @@ date: "2021-09-11"
 
 从老张拍到的照片中可以看出现场大家的干劲和热情，我们的妈妈们仍然是一马当先，但是这次活动中有不少爸爸的身影，是社区活动中不太常见的，值得大大的称赞。看到大家的合影，场面很是震撼，在我们当地华人史上应该会留下很浓重的一笔。
 
-![]({{ site.url }}/assets/images/WeChat Image_20210914102032.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210914102032)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210914102040.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210914102040)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210914102046.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210914102046)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210914102054.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210914102054)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210914102101.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210914102101)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210914102107.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210914102107)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210914102114.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210914102114)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210914102120.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210914102120)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210914102128.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210914102128)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210914102134.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210914102134)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210914102141.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210914102141)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210914102148.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210914102148)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210914102155.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210914102155)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210914102202.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210914102202)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210914102208.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210914102208)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210914102223.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210914102223)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210914102300.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210914102300)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210914102307.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210914102307)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210914102313.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210914102313)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210914102319.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210914102319)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210914102326.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210914102326)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210914102332.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210914102332)

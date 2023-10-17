@@ -5,7 +5,7 @@ excerpt: "OCC继续努力为社区成员争取福利，各种演出团购如火�
 date: "2019-03-25"
 ---
 
-![]({{ site.url }}/assets/images/activities/villasport.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/villasport)
 
 
 The families of the Oregon Chinese Coalition have been offered a great opportunity from VillaSport Athletic Club and Spa.

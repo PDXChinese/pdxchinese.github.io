@@ -2,9 +2,9 @@
 title: ""
 permalink: /ridewseniors/
 feature_row1:
-  - image_path: /assets/images/activities/rideconnection.png
-  - image_path: /assets/images/activities/lansulogo.png
-  - image_path: /assets/images/activities/kumlogo.png
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/rideconnection
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/lansulogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/kumlogo
 ---
 
 # Take the Seniors to the Garden
@@ -15,7 +15,7 @@ feature_row1:
 
 *义工会提前在公寓大厅接受报名*
 
-![]({{ site.url }}/assets/images/activities/ridewseniors2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ridewseniors2)
 <br>
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/hYQRBRf0vsg" title="Ride with Seniors to Visit Lan Su Chinese Garden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>

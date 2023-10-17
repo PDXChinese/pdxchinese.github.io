@@ -5,7 +5,7 @@ excerpt: "大家也许都知道，过去两年OCC利用社区的捐款从淘宝�
 date: "2019-09-22"
 ---
 
-![]({{ site.url }}/assets/images/activities/red_lanterns_fundraising_2019.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/red_lanterns_fundraising_2019)
 
 The chatting history for this WeChat group "PDX华人大公益pdxchinese.org" is shown below.
 

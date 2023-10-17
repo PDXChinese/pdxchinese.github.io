@@ -8,32 +8,32 @@ date: "2021-12-18"
 
 感谢Lecare Pharmacy给予的大力支持，店主一再表示只要是我们提出任何要求，他们都会尽量给予满足。我知道这是因为我们社区在过去的三个星期给予他们的极大支持，尤其是从Bethany这边过去的人们，单程往往就是50分钟。更要感谢今天所有参加后勤服务的人员，她们都是大家的邻居或同事，他们的辛苦付出（三个小时几乎都没有机会喝水）为社区很多家庭带来了方便。这也是我和OHA一再说的，这才是现代公共卫生的基石。相信大家都是看在眼里的，未来OCC作为社区组织会继续努力把公共卫生资源带给社区大众。
 
-![]({{ site.url }}/assets/images/WeChat Image_20211218233529.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211218233529)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211220085316.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211220085316)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211218233425.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211218233425)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211218233432.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211218233432)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211218233439.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211218233439)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211218233446.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211218233446)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211218233454.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211218233454)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211218233500.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211218233500)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211218233506.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211218233506)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211218233514.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211218233514)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211218233522.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211218233522)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211218233555.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211218233555)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211218233606.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211218233606)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211218233615.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211218233615)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211218233628.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211218233628)

@@ -23,7 +23,7 @@ feature_row2:
 
 # See you again on August 6, 2022!:
 
-![]({{ site.url }}/assets/images/festival/festival2021c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/festival2021c)
 
 **Official Site:** [http://pdxchinesefestival.org](http://pdxchinesefestival.org)
 

@@ -5,7 +5,7 @@ sidebar:
     text: "[chinesefaith.org](http://www.chinesefaith.org/)"
 ---
 
-![]({{ site.url }}/assets/images/communities/faithbaptist.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/faithbaptist)
 
 ## Mission
 

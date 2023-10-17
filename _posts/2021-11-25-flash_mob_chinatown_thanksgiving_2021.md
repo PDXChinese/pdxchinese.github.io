@@ -8,16 +8,16 @@ Let the singing penetrate the broken walls of Chinatown, so as to comfort the lo
 
 昨晚突发奇想，临时约了张光超夫妇和Youth Lens的Michelle和Jenny，今天去到中国城，在Wong Laundry前人行道上高歌了两首曲子：Amazing Grace和You Raise Me Up，让歌声穿透老城断壁残墙，慰藉百年前多孑然一身华人前辈的孤魂，也为现在横卧在大街上的人们带来一些希望。我们匆匆来匆匆去，留下了那些因为歌声而有了生命的大红灯笼飘忽在那里，虽然是一种不定的感觉，但谁都知道我们没有离开，从来就没有离开过。
 
-![]({{ site.url }}/assets/images/WeChat Image_20211126101854.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211126101854)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211126101507.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211126101507)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211126101835.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211126101835)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211126101723.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211126101723)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211126101817.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211126101817)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211126101746.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211126101746)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211126101913.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211126101913)

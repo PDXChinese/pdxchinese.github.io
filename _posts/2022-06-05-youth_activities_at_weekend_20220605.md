@@ -11,51 +11,51 @@ date: "2022-06-05"
 
 弦乐队的照片是一位爸爸帮拍的，每张呈现出来的都是非常感人的画面，认真的孩子们，和蔼可亲的老师们，还有主动帮助分组训练的家长。柳老师为7月份兰苏园和8月份文化节表演准备了非常好听的曲子，包括大家都特别喜欢的《送别》。
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606094344.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606094344)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606094357.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606094357)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606094408.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606094408)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606094643.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606094643)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606094854.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606094854)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606094936.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606094936)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606094221.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606094221)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606094226.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606094226)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606094232.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606094232)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606094238.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606094238)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606094243.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606094243)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606094250.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606094250)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606094304.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606094304)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606094309.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606094309)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606095139.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606095139)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606095146.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606095146)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606095155.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606095155)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606095206.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606095206)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606095212.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606095212)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606095217.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606095217)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606095222.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606095222)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606095229.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606095229)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220606095233.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220606095233)
 
 <iframe width="383" height="681" src="https://www.youtube.com/embed/rU_5REM-Smw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

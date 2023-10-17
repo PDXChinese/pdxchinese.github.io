@@ -11,28 +11,28 @@ date: "2021-11-23"
 
 下面是今天上午拍到的一些活动镜头
 
-![]({{ site.url }}/assets/images/WeChat Image_20211123202117.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211123202117)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211123202154.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211123202154)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211123202250.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211123202250)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211123202328.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211123202328)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211124214014.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211124214014)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211124213907.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211124213907)
 
 Next Day
 
-![]({{ site.url }}/assets/images/WeChat Image_20211124121713.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211124121713)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211124155218.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211124155218)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211124160706.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211124160706)
 
 Proud to serve
 
-![]({{ site.url }}/assets/images/WeChat Image_20211130090552.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211130090552)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211210193748.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211210193748)

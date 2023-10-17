@@ -13,4 +13,4 @@ date: "2022-01-30"
 
 ### Best in Show - Jenny Chen from Lincoln High School
 
-![]({{ site.url }}/assets/images/artcontest/2021_grp2_2nd_large.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2021_grp2_2nd_large)

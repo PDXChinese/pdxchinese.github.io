@@ -2,7 +2,7 @@
 title: ""
 permalink: /youthlens/
 feature_row1:
-  - image_path: /assets/images/activities/logo-lens_v5.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/logo-lens_v5
 ---
 
 {% include feature_row id="feature_row1"%}
@@ -12,7 +12,7 @@ feature_row1:
 Journalism Mentors: Frances Lu Pai Ippolito, Christine Pitawanich  
 Technology Mentors: Ni Xu, Guangchao Zhang  
 
-![]({{ site.url }}/assets/images/activities/youtubechannel.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/youtubechannel)
 [OCC YouTube Channel](https://www.youtube.com/channel/UCEirGv1g7DAC0udxm_-Fvxg)
 
 [Youth Journalist Application](https://docs.google.com/forms/d/e/1FAIpQLScK3ahKKd_XjBtZNlOqSQhaRgjLDolodXpg9dIBx3lLu3mbWg/viewform?usp=sf_link) (Highschool and college students only)
@@ -30,13 +30,13 @@ Michelle Wang, International School of Beaverton
 
 ### Youth Lens in Action
 
-![]({{ site.url }}/assets/images/WeChat Image_20210122222742.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210122222742)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210902095255.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210902095255)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210902093137.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210902093137)
 
-![]({{ site.url }}/assets/images/WeChat Image_20221220001022.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20221220001022)
 
 ### Resources
 

@@ -25,7 +25,7 @@ Hanging Red Lanterns in Chinatown ([08.25.2018](http://pdxchinese.org/chinatown/
 
 ### SOP
 
-SOP of Lantern Assembly: Step [1](/assets/images/activities/sop_lantern_01.jpg), [2](/assets/images/activities/sop_lantern_02.jpg), [3](/assets/images/activities/sop_lantern_03.jpg), [4](/assets/images/activities/sop_lantern_04.jpg), [5](/assets/images/activities/sop_lantern_05.jpg), [6](/assets/images/activities/sop_lantern_06.jpg)
+SOP of Lantern Assembly: Step [1](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/sop_lantern_01), [2](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/sop_lantern_02), [3](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/sop_lantern_03), [4](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/sop_lantern_04), [5](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/sop_lantern_05), [6](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/sop_lantern_06)
 
 ### History
 

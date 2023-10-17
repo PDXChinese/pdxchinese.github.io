@@ -13,30 +13,30 @@ It rained on and off during the first Qingming Festival. Yesterday, a small grou
 
 <iframe src="{{ site.url }}/assets/pdf/shengyao.pdf" style="width: 100%; height: 600px"></iframe>
 
-![]({{ site.url }}/assets/images/WeChat Image_20220410174722.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220410174722)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220410174805.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220410174805)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220410174812.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220410174812)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220410174818.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220410174818)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220410174825.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220410174825)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220410174840.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220410174840)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220410174851.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220410174851)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220410174858.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220410174858)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220410174904.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220410174904)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220410174910.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220410174910)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220410174917.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220410174917)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220410174922.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220410174922)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220410174935.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220410174935)
 
 <iframe width="351" height="624" src="https://www.youtube.com/embed/9ijuT11rDPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

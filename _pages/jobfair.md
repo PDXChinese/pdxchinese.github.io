@@ -2,21 +2,21 @@
 title: "2017 Portland High-Tech Job Fair"
 permalink: /jobfair/
 feature_row1:
-  - image_path: /assets/images/activities/faraday.jpg
-  - image_path: /assets/images/activities/huawei.jpg
-  - image_path: /assets/images/activities/kingsemi.jpg
-  - image_path: /assets/images/activities/smic.jpg
-  - image_path: /assets/images/activities/hlmc.jpg
-  - image_path: /assets/images/activities/symantec.jpg
-  - image_path: /assets/images/activities/standard.jpg
-  - image_path: /assets/images/activities/ust2.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/faraday
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/huawei
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/kingsemi
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/smic
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/hlmc
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/symantec
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/standard
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ust2
 feature_row2:
-  - image_path: /assets/images/activities/cfa.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/cfa
     title: "Chinese Friendship Association of Portland"
-  - image_path: /assets/images/activities/beida.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/beida
     title: "Peking University Alumni Association of Oregon"
 ---
-<p><img src="/assets/images/activities/JobFair_Ads.jpg"></p>
+<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/JobFair_Ads"></p>
 
 ## Date and Time
 5/12/2017 10:00 am - 3:30 pm

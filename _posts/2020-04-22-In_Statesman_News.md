@@ -8,7 +8,7 @@ date: "2020-04-22"
 
 [https://www.statesmanjournal.com/story/news/2020/04/22/oregon-coronavirus-donation-chinese-nonprofit-n-95-masks-salem-health/5169051002/](https://www.statesmanjournal.com/story/news/2020/04/22/oregon-coronavirus-donation-chinese-nonprofit-n-95-masks-salem-health/5169051002/)
 
-![]({{ site.url }}/assets/images/activities/statesman_article.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/statesman_article)
 
 在KOIN 6 TV播出我们的捐赠活动后，很快就收到一封来信。实际上我们也是再看到这封来信的时候才知道捐赠活动上了电视新闻。
 
@@ -26,4 +26,4 @@ Warmest regards,
 
 [https://youtu.be/CeRSq9hpe2g?t=23](https://youtu.be/CeRSq9hpe2g?t=23)
 
-![]({{ site.url }}/assets/images/activities/koin6_mask.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/koin6_mask)

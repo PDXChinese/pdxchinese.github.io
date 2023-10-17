@@ -6,22 +6,22 @@ date: "2021-06-17"
 ---
 The eye-catching feature of the Asian Pantry event in June was the OCC hat. We were supposed to give them to the volunteers from our community. To our surprise, it was so popular that everyone wanted one. It was a hot day anyway. The hats did bring needed protection for the volunteers.
 
-![]({{ site.url }}/assets/images/WeChat Image_20210706225353.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210706225353)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210706225406.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210706225406)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210706225414.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210706225414)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210706225421.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210706225421)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210706225428.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210706225428)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210706225435.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210706225435)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210706225442.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210706225442)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210706225449.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210706225449)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210706225455.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210706225455)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210706225504.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210706225504)

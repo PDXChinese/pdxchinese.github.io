@@ -19,26 +19,26 @@ date: "2022-04-02"
 
 感谢太极林的一片公益心，他自己平时时间安排很满，包括在PCC教授太极课程。有兴趣参加这个活动的，请填写报名表。
 
-![]({{ site.url }}/assets/images/WeChat Image_20220404002817.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220404002817)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220404002902.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220404002902)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220404002909.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220404002909)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220404002914.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220404002914)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220404002920.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220404002920)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220404002927.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220404002927)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220404002932.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220404002932)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220404002939.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220404002939)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220404002945.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220404002945)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220404002951.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220404002951)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220404003000.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220404003000)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220404003005.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220404003005)

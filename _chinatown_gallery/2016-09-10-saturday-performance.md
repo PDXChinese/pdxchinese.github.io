@@ -1,62 +1,62 @@
 ---
 title: "Chinatown Mid-Autumn Festival Performance (09.10.2016)"
 main_performance:
-  - url: /assets/images/chinatown/09102016/poster09102016.jpg
-    image_path: /assets/images/chinatown/09102016/poster09102016.jpg  
-  - url: /assets/images/chinatown/09102016/IMG_5270.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5270.jpg
-  - url: /assets/images/chinatown/09102016/IMG_5271.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5271.jpg
-  - url: /assets/images/chinatown/09102016/IMG_5282.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5282.jpg
-  - url: /assets/images/chinatown/09102016/IMG_5284.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5284.jpg
-  - url: /assets/images/chinatown/09102016/IMG_5286.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5286.jpg
-  - url: /assets/images/chinatown/09102016/IMG_5293.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5293.jpg
-  - url: /assets/images/chinatown/09102016/IMG_5304.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5304.jpg
-  - url: /assets/images/chinatown/09102016/IMG_5306.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5306.jpg
-  - url: /assets/images/chinatown/09102016/IMG_5316.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5316.jpg
-  - url: /assets/images/chinatown/09102016/IMG_5326.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5326.jpg
-  - url: /assets/images/chinatown/09102016/IMG_5349.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5349.jpg  
-  - url: /assets/images/chinatown/09102016/IMG_5394.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5394.jpg
-  - url: /assets/images/chinatown/09102016/IMG_5410.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5410.jpg
-  - url: /assets/images/chinatown/09102016/IMG_5414.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5414.jpg
-  - url: /assets/images/chinatown/09102016/IMG_5438.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5438.jpg
-  - url: /assets/images/chinatown/09102016/IMG_5444.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5444.jpg
-  - url: /assets/images/chinatown/09102016/IMG_5453.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5453.jpg
-  - url: /assets/images/chinatown/09102016/IMG_5464.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5464.jpg
-  - url: /assets/images/chinatown/09102016/IMG_5509.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5509.jpg  
-  - url: /assets/images/chinatown/09102016/IMG_5644.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5644.jpg
-  - url: /assets/images/chinatown/09102016/IMG_5650.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5650.jpg
-  - url: /assets/images/chinatown/09102016/IMG_5760.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5760.jpg
-  - url: /assets/images/chinatown/09102016/IMG_5771.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5771.jpg
-  - url: /assets/images/chinatown/09102016/IMG_5780.jpg
-    image_path: /assets/images/chinatown/09102016/IMG_5780.jpg      
-  - url: /assets/images/chinatown/09102016/mmexport1473602790510.jpg
-    image_path: /assets/images/chinatown/09102016/mmexport1473602790510.jpg
-  - url: /assets/images/chinatown/09102016/mmexport1473602912800.jpg
-    image_path: /assets/images/chinatown/09102016/mmexport1473602912800.jpg
-  - url: /assets/images/chinatown/09102016/mmexport1473602942295.jpg
-    image_path: /assets/images/chinatown/09102016/mmexport1473602942295.jpg
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/poster09102016
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/poster09102016  
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5270
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5270
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5271
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5271
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5282
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5282
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5284
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5284
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5286
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5286
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5293
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5293
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5304
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5304
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5306
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5306
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5316
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5316
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5326
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5326
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5349
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5349  
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5394
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5394
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5410
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5410
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5414
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5414
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5438
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5438
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5444
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5444
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5453
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5453
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5464
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5464
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5509
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5509  
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5644
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5644
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5650
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5650
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5760
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5760
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5771
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5771
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5780
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/IMG_5780      
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/mmexport1473602790510
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/mmexport1473602790510
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/mmexport1473602912800
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/mmexport1473602912800
+  - url: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/mmexport1473602942295
+    image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/09102016/mmexport1473602942295
 ---
 
 昨天在中国城举办的周六展演中秋专场取得圆满成功，为我们华人社区的广泛参与，无私的奉献，为精彩的演出，水乳交融的场景，感到无比自豪。要感谢参演的每一个团体和个人，每一位现场志愿者，来自全城各地的每一位观众，前来支持打气的所有侨社领袖们，当然，尤其感谢我们的筹备小组的每一位成员和她们的家属们。每一个人的参与是这次演出成功的关键，也是我们组织这次活动的一个重要目的。谢谢您们

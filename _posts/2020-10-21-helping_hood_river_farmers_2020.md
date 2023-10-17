@@ -20,10 +20,10 @@ date: "2020-10-21"
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/P1550452)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201021102152a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201021102152a)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201022120136.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201022120136)
 
-![]({{ site.url }}/assets/images/WeChat Image_20201022120153.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20201022120153)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/orderlist_20201021)

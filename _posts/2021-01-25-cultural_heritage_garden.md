@@ -5,7 +5,7 @@ excerpt: "这段时间我们正在组织社区家庭给Metro写信，要求为�
 date: "2021-01-25"
 ---
 
-![]({{ site.url }}/assets/images/WeChat Image_20210306085717.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210306085717)
 
 *[Update]记得一个多月前我们曾经向全社区呼吁为Lone Fir文化遗产公园拨款发声，在这关键的一段时间，许多家庭参与了进来，家长和孩子们共同学习这段历史，了解项目的背景，最后由孩子们执笔，先后有26位同学给Metro议员写信。 今天Metro[官网发文](https://www.oregonmetro.gov/news/work-begin-lone-fir-cemeterys-cultural-heritage-garden-block-14)，宣布拨款4百万美元筹建Lone Fir文化遗产公园！ 这个消息实在是太重要了，不仅仅是长达二十年的努力在我们社区家庭和孩子们的参与下而最终梦想成真，更重要的是显示出了参与的力量，无论是作为整个社区的一部分，或者是作为先人的后代，甚至只是作为议员所在选区有投票权的选民。 我们正在学会主动参与，学会如何主宰自己的命运。 对于我们华人社区，这是一个非常可喜的进步。-- 3/5/2021*
 

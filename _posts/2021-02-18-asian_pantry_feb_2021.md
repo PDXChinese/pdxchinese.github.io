@@ -7,20 +7,20 @@ date: "2021-02-18"
 
 上个月赶上春节，由The Giving Tree 和 Clay Street Table组织的每月一次活动更是格外用心，购物袋里面的食品十分的丰富。来自我们社区的义工们承担了相当大一部分食品分装，运输和分发工作。 Clay Street Table的Paul每次总是拍很多照片并记下每一位义工的名字。
 
-![]({{ site.url }}/assets/images/WeChat Image_20210224095326.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210224095326)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210224095339.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210224095339)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210224095348.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210224095348)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210303095201.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210303095201)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210303095154.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210303095154)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210303095148.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210303095148)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210303095139.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210303095139)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210303095129.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210303095129)
 
-![]({{ site.url }}/assets/images/WeChat Image_20210303095113.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20210303095113)

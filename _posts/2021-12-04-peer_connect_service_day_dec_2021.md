@@ -12,26 +12,26 @@ date: "2021-12-04"
 
 （礼静）今天那里一直刮风下雨、非常寒冷，孩子们步行了半英里去播种。道路很泥泞，种植的地方像沼泽地一样，旷野中风大雨大温度非常低，大家的手都几乎冻僵。小朋友得到了非常好的锻炼！艰苦的环境中努力发挥自己的潜能，我们做到了！！
 
-![]({{ site.url }}/assets/images/WeChat Image_20211205232100.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211205232100)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211205232119.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211205232119)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211205232135.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211205232135)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211205232146.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211205232146)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211205232159.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211205232159)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211205232214.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211205232214)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211205232226.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211205232226)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211205232239.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211205232239)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211205232256.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211205232256)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211205232309.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211205232309)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211205232324.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211205232324)
 
-![]({{ site.url }}/assets/images/WeChat Image_20211205232342.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20211205232342)

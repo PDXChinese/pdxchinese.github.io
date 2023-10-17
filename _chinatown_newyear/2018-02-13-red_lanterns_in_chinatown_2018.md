@@ -24,28 +24,28 @@ title: "Hanging Red Lanterns in Chinatown (02.13.2018)"
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2243de3b0d5ab17d2909429dd8ab788e)
 
-![]({{ site.url }}/assets/images/chinatown/1d5c6cfdb1b4d8042650a7a931cc7687.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/1d5c6cfdb1b4d8042650a7a931cc7687)
 
-![]({{ site.url }}/assets/images/chinatown/5720cea09d17eb79afa5eb484968f5de.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/5720cea09d17eb79afa5eb484968f5de)
 
-![]({{ site.url }}/assets/images/chinatown/7019ab2c5c44afa526f51c6f473e725d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/7019ab2c5c44afa526f51c6f473e725d)
 
-![]({{ site.url }}/assets/images/chinatown/c6d33a66d55b391218245515db1b2e29.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/c6d33a66d55b391218245515db1b2e29.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/ae56e2f7bac4e0d777b9105f99b3dcae.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/ae56e2f7bac4e0d777b9105f99b3dcae)
 
-![]({{ site.url }}/assets/images/chinatown/04a9d92f2d43d732f3b9cc5045293d6c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/04a9d92f2d43d732f3b9cc5045293d6c)
 
-![]({{ site.url }}/assets/images/chinatown/b3ee4ef91d33097f8cf54070e760031d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/b3ee4ef91d33097f8cf54070e760031d)
 
-![]({{ site.url }}/assets/images/chinatown/7aec39405fa6620fc735d5aa65d09cb2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/7aec39405fa6620fc735d5aa65d09cb2)
 
-![]({{ site.url }}/assets/images/chinatown/0a1204c6c6c8b2a145b41e4d57ccc69d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/0a1204c6c6c8b2a145b41e4d57ccc69d)
 
-![]({{ site.url }}/assets/images/chinatown/83e1f3bd7665cf23d935c64219823dd7.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/83e1f3bd7665cf23d935c64219823dd7)
 
-![]({{ site.url }}/assets/images/chinatown/ab40db54af974b8a878e73ce7d2c0121.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/ab40db54af974b8a878e73ce7d2c0121)
 
-![]({{ site.url }}/assets/images/chinatown/94caaf0ed457bfb482bf8623eb01f20a.temp.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/94caaf0ed457bfb482bf8623eb01f20a.jpg)
 
-![]({{ site.url }}/assets/images/chinatown/03901117fda74e8a28e0a2ae3dbbae33.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/03901117fda74e8a28e0a2ae3dbbae33)

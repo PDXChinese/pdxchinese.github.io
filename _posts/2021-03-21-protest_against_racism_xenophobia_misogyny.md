@@ -4,11 +4,11 @@ author: XiBei Zhao
 excerpt: "In the year of Covid 19, we have witnessed the rising pandemic of anti-Asian racism. The cold-blooded murder of Asian American women in Atlanta is only a culmination of nation-wide racial violence against Americans of Asian descent since the presidential slur of “China virus” and “Kungflu.” We stand in solidarity with American of all races, genders, and creeds, who’d join our fight against racism, xenophobia, misogyny and for social justice and equality."
 date: "2021-03-21"
 feature_row1:
-  - image_path: /assets/images/activities/protest_chinatown.jpg
-  - image_path: /assets/images/activities/protest_division_87.jpg
-  - image_path: /assets/images/activities/protest_happy_valley.jpg
-  - image_path: /assets/images/activities/protest_tvhw_217.jpg
-  - image_path: /assets/images/activities/protest_washington_square.jpg
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/protest_chinatown
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/protest_division_87
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/protest_happy_valley
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/protest_tvhw_217
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/protest_washington_square
 ---
 
 ## Sunday Protest Info/周日上街抗议具体信息
@@ -88,11 +88,11 @@ Stop Racism
 
 ## QR Codes for Working Groups
 
-![]({{ site.url }}/assets/images/activities/qr_code.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/qr_code)
 
 ## Press Release
 
-[March 21, 2021](/assets/images/activities/press_release_03_21_2021.pdf)
+[March 21, 2021](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/press_release_03_21_2021)
 
 ## Contact Us
 

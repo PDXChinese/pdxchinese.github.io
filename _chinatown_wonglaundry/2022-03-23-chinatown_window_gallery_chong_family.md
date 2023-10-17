@@ -2,20 +2,20 @@
 title: "Storefront Window Gallery: Two Generations of Chinese Immigrants (03.23.2022)"
 ---
 
-![]({{ site.url }}/assets/images/WeChat Image_20220528001403.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220528001403)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220528001449.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220528001449)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220528001530.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220528001530)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220323194400.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220323194400)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220323194417.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220323194417)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220323194422.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220323194422)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220323194429.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220323194429)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220323194434.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220323194434)
 
-![]({{ site.url }}/assets/images/WeChat Image_20220528001317.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220528001317)

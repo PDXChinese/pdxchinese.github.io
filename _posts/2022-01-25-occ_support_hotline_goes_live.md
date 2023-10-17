@@ -17,4 +17,4 @@ The circumstances under which this support should be called include being attack
 
 Life is beautiful and the road is long, and it is inevitable that sometimes you will get lost or fall. There is community here and we will move forward together.
 
-![]({{ site.url }}/assets/images/activities/supportline.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/supportline)

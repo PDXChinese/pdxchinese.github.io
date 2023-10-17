@@ -29,6 +29,6 @@ date: "2022-09-24"
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/309471384_1782418405464052_1160281372827534655_n)
 
-![]({{ site.url }}/assets/images/WeChat Image_20230516120413.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20230516120413)
 
-![]({{ site.url }}/assets/images/WeChat Image_20230516120403.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20230516120403)

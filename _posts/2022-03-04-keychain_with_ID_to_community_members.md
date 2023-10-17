@@ -11,4 +11,4 @@ date: "2022-03-04"
 
 To start a new chapter for serving the community, we will send a whistle and keychain with engraved support and unique ID number to community members. Imagine an elderly gets lost in downtown. With the help of the support and ID number, we can contact the family in no time and provide the basic information to the first responders. This becomes possible even the elderly does not speak English or only speak Taishanese. Currently it is open to the elderly over 62 years old who live alone. Family members are welcome to fill in the [required information form](https://docs.google.com/forms/d/e/1FAIpQLSeZ0rxnIFec4ophgt0He00ofv6X2Lj6JE5PfgHTfn0pP8fpog/viewform?usp=sf_link).
 
-![]({{ site.url }}/assets/images/WeChat Image_20220304164300.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20220304164300)

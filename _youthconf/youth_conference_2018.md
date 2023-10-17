@@ -97,19 +97,19 @@ An Insider View on College Application, **Prof. Yue Liu**, Scholarship Review Co
 Ordered alphabetically
 
 ### Knute Buehler
-<p><img src="/assets/images/activities/Knute_buehler.jpg"></p>
+<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/Knute_buehler"></p>
 Buehler attended Oregon State University graduated from OSU in 1986 with degrees in history and microbiology. Buehler then attended Merton College, Oxford as OSU's first Rhodes Scholar studying philosophy, politics and economics, before graduating from Johns Hopkins Medical School in Baltimore, Maryland. He currently serves in the Oregon House of Representatives. He is currently running for Governor of Oregon in the 2018 election.
 
 ### Jo Ann Hardesty
-<p><img src="/assets/images/activities/JoAnn_Hardesty2.jpeg"></p>
+<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/JoAnn_Hardesty2"></p>
 Hardesty served in the United States Navy, was one of the first women to go on board ships. Sher was elected to the Oregon House in 1994, holding office until 2001. She later served as executive director of Oregon Action, and became president of the Portland chapter of the NAACP in January 2015. Hardesty is running for Portland City Council in 2018.
 
 ### Pam Pearce
-<p><img src="/assets/images/activities/Pam-Pearce2.jpeg"></p>
+<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/Pam-Pearce2"></p>
 A long-time community activist in Oregon, Pam is currently on the steering committee for West Linn Young Life.  Pam is also a Community Organizer for the Portland Leadership Foundation (PLF). Prior to PLF, Pam served as Executive Director of the Teen Division of the YMCA. Pam got her start as an aide to then U.S. Senator Mark Hatfield in Washington, D.C., shortly after attending the University of Southern California. Pam is in her 21st year of long-term recovery and takes advantage of every opportunity to share her passion for the gifts and hope of recovery.
 
 ### Selma Pierce
-<p><img src="/assets/images/activities/Selma-Pierce.jpg"></p>
+<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/Selma-Pierce"></p>
 Selma had been a dentist in Salem area for 20 years. After she retired, Selma's still plying her trade pro bono for a variety of nonprofits and has added fundraising and event planning to her repertoire. Her husband, Bud Pierce, used to be Kate Brown challenger in 2016 election. In February she decided to run for State Representative. “In Order for Democracy to Work, You Have to be Involved.”  And she won in May Primary. Selma is a 3rd generation of ABC!
 
 ## Seminar Speakers
@@ -117,11 +117,11 @@ Selma had been a dentist in Salem area for 20 years. After she retired, Selma's 
 Ordered alphabetically
 
 ### Celeste Jones
-<p><img src="/assets/images/activities/2f7d2abb155661b0b954b77accf900ca2.jpg"></p>
+<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2f7d2abb155661b0b954b77accf900ca2"></p>
 Celeste is an assistant professor of clinical psychology at George Fox University, and a board-certified, licensed psychologist who specializes in working with children with Autism Spectrum Disorder and their families. Her research interests are in the broad areas of adversity and resilience in children and families, and in diversity populations. Jones also serves in state leadership, as chair of the Oregon Psychological Association Public Education Committee.
 
 ### Maria Liu
-<p><img src="/assets/images/activities/73d25a66bffa2091f119d15f45b3936c2.jpg"></p>
+<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/73d25a66bffa2091f119d15f45b3936c2"></p>
 Maria is an associate professor at Pacific University College of Optometry and the founder of UC Berkeley Myopia Control Clinic. She received her bachelor degree of clinical medicine from Peking University, her OD from Pacific University, her PhD and MPH from UC Berkeley. She is a world renowned clinical researcher in the field of myopia and her expertise focus on the impact of complex multifocal environment on emmetropization and myopia development, as well as novel optical and pharmaceutical treatments in myopia retardation.
 
 ## Conference Sponsors

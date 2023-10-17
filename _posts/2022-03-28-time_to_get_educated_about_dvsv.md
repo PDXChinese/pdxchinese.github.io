@@ -10,4 +10,4 @@ date: "2022-03-28"
 报名链接： [https://docs.google.com/forms/d/e/1FAIpQLSdrW7TFmgfKGJ_nIftIu4Y5KLL6vntleKplnV78ggafCBX8CQ/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSdrW7TFmgfKGJ_nIftIu4Y5KLL6vntleKplnV78ggafCBX8CQ/viewform?usp=sf_link)
 
 
-![]({{ site.url }}/assets/images/activities/signal_for_help.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/signal_for_help)

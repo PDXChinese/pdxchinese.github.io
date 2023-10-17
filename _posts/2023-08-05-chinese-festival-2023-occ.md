@@ -43,7 +43,7 @@ Under OCC, there are Mulan Drum Team, Jade Youth Team, Phoenix Hanfu Team and Dr
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/363395702_278212038177219_7491982166402629872_n)
 
-![]({{ site.url }}/assets/images/WeChat Image_20231011184424.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Wechat%20Image_20231011184424)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/391760087_311714598160296_6201123309394318558_n)
 

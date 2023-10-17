@@ -85,4 +85,4 @@ permalink: /vote_matters/
 
 查看您目前的选民资格：[英文，可以选择中文界面](https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do)  
 自行在州政府网站上选民登记：[中文界面](https://sos.oregon.gov/voting/Pages/registration.aspx?lang=zh)  
-公民资格考试免费辅导，外加入籍费用补贴：[秋季课程](/assets/images/activities/citizenship_class.pdf)    
+公民资格考试免费辅导，外加入籍费用补贴：[秋季课程](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/citizenship_class)    

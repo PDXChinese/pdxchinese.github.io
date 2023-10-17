@@ -4,7 +4,7 @@ location: "5529 NW Five Oaks Dr. Hillsboro, OR 97124"
 sidebar:
   - title: "Address"
     text: "5529 NW Five Oaks Dr. Hillsboro, OR 97124"
-    image: "/assets/images/communities/evangelicallogo1.png"
+    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/evangelicallogo1"
   - title: "Phone"
     text: "503-466-2762"
   - title: "email"
@@ -23,4 +23,4 @@ sidebar:
 09:30 AM    兒童崇拜, 華語成人主日學
 11:00 AM    華語崇拜, 青少年崇拜, 英語成人主日學, 兒童主日學
 
-![]({{ site.url }}/assets/images/communities/evangelicalpic.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/evangelicalpic)
