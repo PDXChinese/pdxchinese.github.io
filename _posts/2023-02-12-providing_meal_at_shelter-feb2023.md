@@ -11,21 +11,21 @@ date: "2023-02-12"
 
 Starting today, the community will start its monthly meal serving program at The Clark Center in downtown Portland. As one of the residents said, the families brought buffet to the shelter. The food variety and quality were both top notch. At the end, the food left there would be plenty for their lunch next day.
 
-![]({{ site.url }}/assets/images/330830657_723599542697370_6540674985131004213_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/330830657_723599542697370_6540674985131004213_n)
 
-![]({{ site.url }}/assets/images/330647008_1806126513099673_8040187875230673824_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/330647008_1806126513099673_8040187875230673824_n)
 
-![]({{ site.url }}/assets/images/330610141_2252012798320408_365761052367257203_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/330610141_2252012798320408_365761052367257203_n)
 
-![]({{ site.url }}/assets/images/330431564_875584980360561_6583319700473678288_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/330431564_875584980360561_6583319700473678288_n)
 
-![]({{ site.url }}/assets/images/330980349_1367716217379025_3629093038916990800_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/330980349_1367716217379025_3629093038916990800_n)
 
-![]({{ site.url }}/assets/images/330613628_717347523342113_9100943828691447629_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/330613628_717347523342113_9100943828691447629_n)
 
-![]({{ site.url }}/assets/images/331023713_557178039696637_9037003736513316328_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/331023713_557178039696637_9037003736513316328_n)
 
-![]({{ site.url }}/assets/images/330765444_1067410340646625_2496241461844610000_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/330765444_1067410340646625_2496241461844610000_n)
 
 <iframe width="1100" height="619" src="https://www.youtube.com/embed/rhTtdmiUPsU" title="Providing Meal at the Clark Center in Portland Downtown" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

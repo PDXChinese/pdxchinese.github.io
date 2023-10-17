@@ -15,26 +15,26 @@ Callie Chu
 
 Xiaorou Xiang
 
-![]({{ site.url }}/assets/images/2023_chinese_festival_yoyo_01.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2023_chinese_festival_yoyo_01)
 
-![]({{ site.url }}/assets/images/2023_chinese_festival_yoyo_02.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2023_chinese_festival_yoyo_02)
 
-![]({{ site.url }}/assets/images/2023_chinese_festival_yoyo_03.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2023_chinese_festival_yoyo_03)
 
-![]({{ site.url }}/assets/images/2023_chinese_festival_yoyo_00.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2023_chinese_festival_yoyo_00)
 
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/OTYKtwNo7oQ" title="Untitled video 16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 
-![]({{ site.url }}/assets/images/369851384_287922147206208_6427446102597119173_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/369851384_287922147206208_6427446102597119173_n)
 
-![]({{ site.url }}/assets/images/370439212_287921907206232_4373963875256704060_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/370439212_287921907206232_4373963875256704060_n)
 
-![]({{ site.url }}/assets/images/370538899_287922120539544_2177815326312774083_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/370538899_287922120539544_2177815326312774083_n)
 
-![]({{ site.url }}/assets/images/370587997_287921963872893_8780475839541714919_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/370587997_287921963872893_8780475839541714919_n)
 
-![]({{ site.url }}/assets/images/370594705_287921857206237_7452105025048896655_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/370594705_287921857206237_7452105025048896655_n)
 
-![]({{ site.url }}/assets/images/371822847_287921877206235_2804618339096733958_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/371822847_287921877206235_2804618339096733958_n)

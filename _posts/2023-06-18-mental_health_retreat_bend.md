@@ -29,18 +29,18 @@ Last weekend, we successfully organized our highly anticipated mental health ret
 
 Through the support of OHA's HB4071 Grant, we were able to realize the potential of our mental health retreat. This experience laid the foundation for continued growth and empowered individuals to embrace their mental health journeys with strength and resilience.
 
-![]({{ site.url }}/assets/images/355667389_252841970714226_3272980211124780394_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355667389_252841970714226_3272980211124780394_n)
 
-![]({{ site.url }}/assets/images/355705166_252841810714242_2963108989867790737_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355705166_252841810714242_2963108989867790737_n)
 
-![]({{ site.url }}/assets/images/355821310_252841820714241_1096355747202882570_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355821310_252841820714241_1096355747202882570_n)
 
-![]({{ site.url }}/assets/images/355726308_252841870714236_4722441458828687202_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355726308_252841870714236_4722441458828687202_n)
 
-![]({{ site.url }}/assets/images/355685590_252841930714230_6088324362938861061_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355685590_252841930714230_6088324362938861061_n)
 
-![]({{ site.url }}/assets/images/355664068_252842010714222_5382841334235434575_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355664068_252842010714222_5382841334235434575_n)
 
-![]({{ site.url }}/assets/images/355628876_252841837380906_2866369440459761284_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355628876_252841837380906_2866369440459761284_n)
 
-![]({{ site.url }}/assets/images/355665913_252841847380905_2130322555644533927_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355665913_252841847380905_2130322555644533927_n)

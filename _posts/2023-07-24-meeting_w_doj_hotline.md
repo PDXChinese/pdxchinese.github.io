@@ -9,6 +9,6 @@ date: "2023-07-24"
 
 We are incredibly thankful for the representatives from the Crime Victim and Survivor Services Division, Oregon Department of Justice, for meeting with us today. In the face of ongoing anti-hate sentiments, even as the pandemic recedes, the support they provide to victims holds immense significance for our community. We deeply value their outreach efforts and are delighted that they will be hosting a table at the upcoming Chinese Festival on August 5.
 
-![]({{ site.url }}/assets/images/361607019_271004515564638_1063748243970933884_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/361607019_271004515564638_1063748243970933884_n)
 
-![]({{ site.url }}/assets/images/363311037_270650885600001_8370629323305481145_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/363311037_270650885600001_8370629323305481145_n)

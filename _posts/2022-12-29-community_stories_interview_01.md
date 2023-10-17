@@ -15,8 +15,8 @@ On Monday, we started a project in the community, recording the Chinese American
 
 <br>
 
-![]({{ site.url }}/assets/images/320959387_680572430204142_8279162842050460109_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/320959387_680572430204142_8279162842050460109_n)
 
-![]({{ site.url }}/assets/images/320962332_679702270279783_1766870584530334153_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/320962332_679702270279783_1766870584530334153_n)
 
-![]({{ site.url }}/assets/images/320888696_1231808787692259_6098570875316899185_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/320888696_1231808787692259_6098570875316899185_n)

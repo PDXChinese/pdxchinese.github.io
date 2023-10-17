@@ -13,32 +13,32 @@ Dragon was also very energetic. After the long trip to McMinnville yesterday, th
 
 The Guzheng students from Oregon Hope CHinese School, Huanyue Group and Huamulan Drum Team also performed for the audience.
 
-![]({{ site.url }}/assets/images/327028509_712874417017084_3336743779522914089_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/327028509_712874417017084_3336743779522914089_n)
 
-![]({{ site.url }}/assets/images/326494515_3576554882572353_5413629305574559877_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326494515_3576554882572353_5413629305574559877_n)
 
-![]({{ site.url }}/assets/images/326517921_699899995108689_8289669779699589235_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326517921_699899995108689_8289669779699589235_n)
 
-![]({{ site.url }}/assets/images/326789587_749377412864771_4179937397141933224_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326789587_749377412864771_4179937397141933224_n)
 
-![]({{ site.url }}/assets/images/326789607_783797893187433_5861544428359420956_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326789607_783797893187433_5861544428359420956_n)
 
-![]({{ site.url }}/assets/images/326543877_604633191472137_8140062545189421995_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326543877_604633191472137_8140062545189421995_n)
 
-![]({{ site.url }}/assets/images/326575889_1148802609156138_2261322933099928924_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326575889_1148802609156138_2261322933099928924_n)
 
-![]({{ site.url }}/assets/images/326932383_568452404895977_5603633380253754028_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326932383_568452404895977_5603633380253754028_n)
 
-![]({{ site.url }}/assets/images/326525780_851170089518672_3113565330228910436_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326525780_851170089518672_3113565330228910436_n)
 
-![]({{ site.url }}/assets/images/326991885_726770909111646_8150954468727097863_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326991885_726770909111646_8150954468727097863_n)
 
-![]({{ site.url }}/assets/images/326586780_1235502560735573_277031043704421518_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326586780_1235502560735573_277031043704421518_n)
 
-![]({{ site.url }}/assets/images/326982034_6405803086098826_5096867600060086890_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326982034_6405803086098826_5096867600060086890_n)
 
-![]({{ site.url }}/assets/images/326800363_2305967376247790_7168768466887757329_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326800363_2305967376247790_7168768466887757329_n)
 
-![]({{ site.url }}/assets/images/326517678_710290800689096_1438447162428909241_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326517678_710290800689096_1438447162428909241_n)
 
-![]({{ site.url }}/assets/images/326392977_567138928637428_5970058581077483331_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326392977_567138928637428_5970058581077483331_n)

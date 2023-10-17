@@ -11,6 +11,6 @@ date: "2023-03-07"
 
 Today in Multnomah County Courthouse, OCC pro bono legal counsel represented a young Chinese American business owner from Chinatown for his legal case. For someone who was willing to take risks to have some representations in Chinatown, the community had the obligation to stand with him when he looked for support. That is what we do as the community organization -- leave no Chinese American behind.
 
-![]({{ site.url }}/assets/images/330432063_950203229491429_6744556040727616914_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/330432063_950203229491429_6744556040727616914_n)
 
-![]({{ site.url }}/assets/images/335016202_1384338005664260_1001256605419946896_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/335016202_1384338005664260_1001256605419946896_n)

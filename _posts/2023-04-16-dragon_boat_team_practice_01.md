@@ -11,51 +11,51 @@ date: "2023-04-16"
 
 First day to to have all new Portland Fire team members out to practice the dragon boat! The rain didn't put out the fire of the team at all. After merely an hour practice, they looked very good with the uniform rolling moves. Congratulations!
 
-![]({{ site.url }}/assets/images/341864680_2158361871015177_1312651476156265021_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/341864680_2158361871015177_1312651476156265021_n)
 
-![]({{ site.url }}/assets/images/341681274_1618097818617012_7815053000526627408_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/341681274_1618097818617012_7815053000526627408_n)
 
-![]({{ site.url }}/assets/images/341556619_942099766925072_8631519577045411511_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/341556619_942099766925072_8631519577045411511_n)
 
-![]({{ site.url }}/assets/images/341836429_1359814384581743_6022123627198470198_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/341836429_1359814384581743_6022123627198470198_n)
 
-![]({{ site.url }}/assets/images/341541537_1280005336261884_1927159206983671038_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/341541537_1280005336261884_1927159206983671038_n)
 
-![]({{ site.url }}/assets/images/341889864_242197338290894_2198906110822853711_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/341889864_242197338290894_2198906110822853711_n)
 
-![]({{ site.url }}/assets/images/342056023_913512433034330_6358326877336158065_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/342056023_913512433034330_6358326877336158065_n)
 
-![]({{ site.url }}/assets/images/341481487_127780923547826_5331266342539086133_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/341481487_127780923547826_5331266342539086133_n)
 
-![]({{ site.url }}/assets/images/342007104_791496865641178_8322277101802030292_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/342007104_791496865641178_8322277101802030292_n)
 
-![]({{ site.url }}/assets/images/341665147_1449687175826141_4147892278245324877_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/341665147_1449687175826141_4147892278245324877_n)
 
-![]({{ site.url }}/assets/images/341860227_223054040316221_2379962460138208821_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/341860227_223054040316221_2379962460138208821_n)
 
-![]({{ site.url }}/assets/images/342012061_1402989773834512_6772546133293427234_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/342012061_1402989773834512_6772546133293427234_n)
 
-![]({{ site.url }}/assets/images/341692701_1699290453860438_2292778010691217861_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/341692701_1699290453860438_2292778010691217861_n)
 
-![]({{ site.url }}/assets/images/341844853_1000669227587942_5851790876353461736_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/341844853_1000669227587942_5851790876353461736_n)
 
-![]({{ site.url }}/assets/images/341889895_752400326365952_5114308219078351998_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/341889895_752400326365952_5114308219078351998_n)
 
-![]({{ site.url }}/assets/images/341465335_577577061013868_1598222870632120829_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/341465335_577577061013868_1598222870632120829_n)
 
-![]({{ site.url }}/assets/images/341689128_1195824431120627_7748524105678894503_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/341689128_1195824431120627_7748524105678894503_n)
 
-![]({{ site.url }}/assets/images/341873151_3591808891047411_6511189413884761214_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/341873151_3591808891047411_6511189413884761214_n)
 
-![]({{ site.url }}/assets/images/341607592_765324955033191_3921616987192019097_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/341607592_765324955033191_3921616987192019097_n)
 
-![]({{ site.url }}/assets/images/341904043_626392332665022_3063533234490555144_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/341904043_626392332665022_3063533234490555144_n)
 
-![]({{ site.url }}/assets/images/341481489_183068564552410_317051851118889683_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/341481489_183068564552410_317051851118889683_n)
 
-![]({{ site.url }}/assets/images/342011706_693968389090956_4858793675088373960_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/342011706_693968389090956_4858793675088373960_n)
 
-![]({{ site.url }}/assets/images/341597219_206003005469547_1528684655176755163_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/341597219_206003005469547_1528684655176755163_n)
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/fl4oW2nMZdg" title="Portland Fire Dragon Boat Team First Practice (Leaving Dock)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

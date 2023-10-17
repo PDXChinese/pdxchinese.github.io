@@ -9,4 +9,4 @@ OCC与波特兰市社区安全部门和司法部热线工作人员拜访了最�
 
 The President of OCC and our Legal Counsel organized a meeting with the City of Portland Community Safety Division and DOJ Hotline staff to connect with the residents of SE 122 Ave, who recently experienced a violent home break-in during daylight hours. Through our discussions, we came to a mutual understanding that the residents do not need another round of safety education; instead, what the community truly needs is to come together and provide real support to help these families restore a sense of home and security in their lives.
 
-![]({{ site.url }}/assets/images/362968592_275985968399826_1290607236194712108_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/362968592_275985968399826_1290607236194712108_n)

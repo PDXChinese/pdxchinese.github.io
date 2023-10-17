@@ -15,17 +15,17 @@ The dragon was born in Chinatown at San Francisco. The owner of 50 years old cul
 
 Half of the events we support for lunar new year celebration are at schools. Today Mulan Drum Team had a great time with the students at International School of Portland. For all Chinese programs, the community will be with them and also behind them with the resources.
 
-![]({{ site.url }}/assets/images/326872184_3341450962737630_3404816325595428826_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326872184_3341450962737630_3404816325595428826_n)
 
-![]({{ site.url }}/assets/images/326417658_854653669092716_539867473667975636_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326417658_854653669092716_539867473667975636_n)
 
-![]({{ site.url }}/assets/images/326114278_913214803185877_2791838047198261426_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326114278_913214803185877_2791838047198261426_n)
 
-![]({{ site.url }}/assets/images/327049648_1768013133599424_983281581903561928_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/327049648_1768013133599424_983281581903561928_n)
 
-![]({{ site.url }}/assets/images/326330715_708470550729455_6607825545613884420_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326330715_708470550729455_6607825545613884420_n)
 
-![]({{ site.url }}/assets/images/325932671_504747941800947_4915525851583184872_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/325932671_504747941800947_4915525851583184872_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 

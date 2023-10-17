@@ -11,122 +11,122 @@ OCC理事王准勤介绍了OCC为培养青少年公益意识方面所做的努�
 
 此次出席圆桌会的同学很多是在社区公益活动中的积极参与者，并且做得都非常的出色，所以，也可以说是一次Youth Summit。
 
-![]({{ site.url }}/assets/images/319430452_969433800701457_2812474698908484632_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/319430452_969433800701457_2812474698908484632_n)
 
-![]({{ site.url }}/assets/images/323010618_1657012181381063_509389590908676798_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323010618_1657012181381063_509389590908676798_n)
 
-![]({{ site.url }}/assets/images/323012997_612133900716971_2007546347018015290_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323012997_612133900716971_2007546347018015290_n)
 
-![]({{ site.url }}/assets/images/323048475_502860951936225_586791112932830665_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323048475_502860951936225_586791112932830665_n)
 
-![]({{ site.url }}/assets/images/323050503_1910567095946782_2213292863286229270_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323050503_1910567095946782_2213292863286229270_n)
 
-![]({{ site.url }}/assets/images/323057413_1283429105848361_6348185770814593132_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323057413_1283429105848361_6348185770814593132_n)
 
-![]({{ site.url }}/assets/images/323058246_716739483358067_2346505877507631128_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323058246_716739483358067_2346505877507631128_n)
 
-![]({{ site.url }}/assets/images/323092234_726012018914959_7603565838621208314_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323092234_726012018914959_7603565838621208314_n)
 
-![]({{ site.url }}/assets/images/323093980_1206374420262889_4422508196521489512_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323093980_1206374420262889_4422508196521489512_n)
 
-![]({{ site.url }}/assets/images/323097639_2250886168427175_185013103260153982_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323097639_2250886168427175_185013103260153982_n)
 
-![]({{ site.url }}/assets/images/323116861_862474521743020_3647923585330007927_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323116861_862474521743020_3647923585330007927_n)
 
-![]({{ site.url }}/assets/images/323133916_825676411831979_7574582310341542199_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323133916_825676411831979_7574582310341542199_n)
 
-![]({{ site.url }}/assets/images/323161705_1199604920970181_6375427810238448478_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323161705_1199604920970181_6375427810238448478_n)
 
-![]({{ site.url }}/assets/images/323165367_723451645848318_7176872098668621120_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323165367_723451645848318_7176872098668621120_n)
 
-![]({{ site.url }}/assets/images/323165553_3359580124258150_8297775819621559124_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323165553_3359580124258150_8297775819621559124_n)
 
-![]({{ site.url }}/assets/images/323213115_1723034564757861_3990534894218897288_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323213115_1723034564757861_3990534894218897288_n)
 
-![]({{ site.url }}/assets/images/323244558_824006832031560_3496460067453116201_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323244558_824006832031560_3496460067453116201_n)
 
-![]({{ site.url }}/assets/images/323272357_885328255933747_4615342540077802142_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323272357_885328255933747_4615342540077802142_n)
 
-![]({{ site.url }}/assets/images/323281930_1245706532677344_1729966792650614538_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323281930_1245706532677344_1729966792650614538_n)
 
-![]({{ site.url }}/assets/images/323285082_1283465035531954_2327738818422653630_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323285082_1283465035531954_2327738818422653630_n)
 
-![]({{ site.url }}/assets/images/323299701_1336928160430755_3936060802069640302_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323299701_1336928160430755_3936060802069640302_n)
 
-![]({{ site.url }}/assets/images/323299753_1742618469468986_8614164859049645748_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323299753_1742618469468986_8614164859049645748_n)
 
-![]({{ site.url }}/assets/images/323330229_570269454465012_7485044353762957130_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323330229_570269454465012_7485044353762957130_n)
 
-![]({{ site.url }}/assets/images/323331686_860234495255257_7548994471700284945_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323331686_860234495255257_7548994471700284945_n)
 
-![]({{ site.url }}/assets/images/323347700_834195831209370_4002187403806538810_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323347700_834195831209370_4002187403806538810_n)
 
-![]({{ site.url }}/assets/images/323357111_876564303489389_5789653228925633517_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323357111_876564303489389_5789653228925633517_n)
 
-![]({{ site.url }}/assets/images/323378939_502301845324552_4933802281526660479_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323378939_502301845324552_4933802281526660479_n)
 
-![]({{ site.url }}/assets/images/323386705_508667418030959_3852320668839958194_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323386705_508667418030959_3852320668839958194_n)
 
-![]({{ site.url }}/assets/images/323398607_496120249328813_7328693330188139571_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323398607_496120249328813_7328693330188139571_n)
 
-![]({{ site.url }}/assets/images/323405898_834781184287914_2953864811196461196_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323405898_834781184287914_2953864811196461196_n)
 
-![]({{ site.url }}/assets/images/323406123_1336279380469520_7970072143981788755_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323406123_1336279380469520_7970072143981788755_n)
 
-![]({{ site.url }}/assets/images/323407778_1243885796482533_2714903121111421609_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323407778_1243885796482533_2714903121111421609_n)
 
-![]({{ site.url }}/assets/images/323409739_1887836884902874_2940755634191011736_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323409739_1887836884902874_2940755634191011736_n)
 
-![]({{ site.url }}/assets/images/323423200_555187952914602_9014302430669387728_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323423200_555187952914602_9014302430669387728_n)
 
-![]({{ site.url }}/assets/images/323427287_516009117209640_2745287028260234394_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323427287_516009117209640_2745287028260234394_n)
 
-![]({{ site.url }}/assets/images/323429520_1316535365865206_1833119389898425999_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323429520_1316535365865206_1833119389898425999_n)
 
-![]({{ site.url }}/assets/images/323430596_504647758427099_2690117357753454818_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323430596_504647758427099_2690117357753454818_n)
 
-![]({{ site.url }}/assets/images/323443161_1187368832171249_950294816711049443_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323443161_1187368832171249_950294816711049443_n)
 
-![]({{ site.url }}/assets/images/323444990_826846455076856_4893813100602742554_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323444990_826846455076856_4893813100602742554_n)
 
-![]({{ site.url }}/assets/images/323447464_908342960201067_7674711479647338212_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323447464_908342960201067_7674711479647338212_n)
 
-![]({{ site.url }}/assets/images/323557944_1098563630824725_5993178875168893568_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323557944_1098563630824725_5993178875168893568_n)
 
-![]({{ site.url }}/assets/images/323567514_590429382896051_7737539559155422180_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323567514_590429382896051_7737539559155422180_n)
 
-![]({{ site.url }}/assets/images/323619242_1336393657195186_4195226144407190865_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323619242_1336393657195186_4195226144407190865_n)
 
-![]({{ site.url }}/assets/images/323619338_3290764791171660_1517421011014069718_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323619338_3290764791171660_1517421011014069718_n)
 
-![]({{ site.url }}/assets/images/323619741_728194768722926_2808745098552959571_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323619741_728194768722926_2808745098552959571_n)
 
-![]({{ site.url }}/assets/images/323623854_706402164393917_6294204045974956282_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323623854_706402164393917_6294204045974956282_n)
 
-![]({{ site.url }}/assets/images/323630117_848498656229341_4291737282105675760_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323630117_848498656229341_4291737282105675760_n)
 
-![]({{ site.url }}/assets/images/323631157_1106967543307711_6889979047111788969_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323631157_1106967543307711_6889979047111788969_n)
 
-![]({{ site.url }}/assets/images/323632614_685892923183756_2104185307437589585_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323632614_685892923183756_2104185307437589585_n)
 
-![]({{ site.url }}/assets/images/323633563_1529101934228861_8756338531551853399_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323633563_1529101934228861_8756338531551853399_n)
 
-![]({{ site.url }}/assets/images/323634523_1852652518426001_1548039311237364874_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323634523_1852652518426001_1548039311237364874_n)
 
-![]({{ site.url }}/assets/images/323634903_5594667453976166_2639280257797760116_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323634903_5594667453976166_2639280257797760116_n)
 
-![]({{ site.url }}/assets/images/323636105_832708724690316_6250504825971883315_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323636105_832708724690316_6250504825971883315_n)
 
-![]({{ site.url }}/assets/images/323786069_871549480713705_4902229146755851550_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323786069_871549480713705_4902229146755851550_n)
 
-![]({{ site.url }}/assets/images/323870241_5439062876220366_4887757141104939644_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323870241_5439062876220366_4887757141104939644_n)
 
-![]({{ site.url }}/assets/images/323876092_881347406329633_5300769344790491647_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323876092_881347406329633_5300769344790491647_n)
 
-![]({{ site.url }}/assets/images/323878261_706818764331790_4280274889441426477_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323878261_706818764331790_4280274889441426477_n)
 
-![]({{ site.url }}/assets/images/323888752_2236655639846991_980839824811830093_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323888752_2236655639846991_980839824811830093_n)
 
-![]({{ site.url }}/assets/images/323971854_909188353827036_4443971554312755420_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323971854_909188353827036_4443971554312755420_n)
 
-![]({{ site.url }}/assets/images/324081923_877894130305207_4350661082949747645_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/324081923_877894130305207_4350661082949747645_n)

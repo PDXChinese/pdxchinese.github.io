@@ -19,10 +19,10 @@ date: "2022-03-23"
 
 ![]({{ site.url }}/assets/images/WeChat Image_20220323194434.jpg)
 
-![]({{ site.url }}/assets/images/two_generations_001s.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/two_generations_001s)
 
-![]({{ site.url }}/assets/images/two_generations_002s.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/two_generations_002s)
 
-![]({{ site.url }}/assets/images/two_generations_003s.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/two_generations_003s)
 
-![]({{ site.url }}/assets/images/two_generations_004s.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/two_generations_004s)

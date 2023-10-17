@@ -11,21 +11,21 @@ date: "2020-08-17"
 
 此次活动全程由刘鸽负责联络协调，果然不负众望，今天再次惊艳了先锋广场。刘鸽被告知在未来两个星期，广场活动会继续为我们社区开放。
 
-![]({{ site.url }}/assets/images/polka_dot_2020_1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/polka_dot_2020_1)
 
-![]({{ site.url }}/assets/images/polka_dot_2020_2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/polka_dot_2020_2)
 
-![]({{ site.url }}/assets/images/polka_dot_2020_3.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/polka_dot_2020_3)
 
-![]({{ site.url }}/assets/images/polka_dot_2020_4.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/polka_dot_2020_4)
 
-![]({{ site.url }}/assets/images/polka_dot_2020_5.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/polka_dot_2020_5)
 
-![]({{ site.url }}/assets/images/polka_dot_2020_6.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/polka_dot_2020_6)
 
-![]({{ site.url }}/assets/images/polka_dot_2020_7.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/polka_dot_2020_7)
 
-![]({{ site.url }}/assets/images/polka_dot_2020_8.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/polka_dot_2020_8)
 
 <iframe width="1189" height="669" src="https://www.youtube.com/embed/WR0bRKIH2jM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

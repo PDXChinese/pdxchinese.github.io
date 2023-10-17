@@ -31,79 +31,79 @@ Steve Chen -- 名称(群名)取得好，希望今后更多新朋友进来，感�
 
 令人高兴的是这个想法得到参展画家们的理解和支持，说明我们这个理念是对的。我们想在不远的将来能有社区自己的艺术空间，展示这些作品。 同时，我们会把所有的收藏放在OCC的网站上，让这些作品有机会永久展示给世人。 下一步，我们也会考虑开发一个Virtual Gallery，为社区艺术家接触潜在买主或收藏家提供一个平台。 过去几个月，通过Google搜索引擎登录OCC网站每月都过千，相信这个做法会切实帮助到社区的艺术家们，我想这也是为这个群体可以做的一件实事。
 
-![]({{ site.url }}/assets/images/2021artgallery_001.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_001)
 
-![]({{ site.url }}/assets/images/2021artgallery_002.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_002)
 
-![]({{ site.url }}/assets/images/2021artgallery_003.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_003)
 
-![]({{ site.url }}/assets/images/2021artgallery_004.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_004)
 
-![]({{ site.url }}/assets/images/2021artgallery_005.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_005)
 
-![]({{ site.url }}/assets/images/2021artgallery_006.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_006)
 
-![]({{ site.url }}/assets/images/2021artgallery_007.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_007)
 
-![]({{ site.url }}/assets/images/2021artgallery_008.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_008)
 
-![]({{ site.url }}/assets/images/2021artgallery_009.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_009)
 
-![]({{ site.url }}/assets/images/2021artgallery_010.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_010)
 
-![]({{ site.url }}/assets/images/2021artgallery_011.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_011)
 
-![]({{ site.url }}/assets/images/2021artgallery_012.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_012)
 
-![]({{ site.url }}/assets/images/2021artgallery_013.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_013)
 
-![]({{ site.url }}/assets/images/2021artgallery_014.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_014)
 
-![]({{ site.url }}/assets/images/2021artgallery_015.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_015)
 
-![]({{ site.url }}/assets/images/2021artgallery_016.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_016)
 
-![]({{ site.url }}/assets/images/2021artgallery_017.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_017)
 
-![]({{ site.url }}/assets/images/2021artgallery_019.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_019)
 
-![]({{ site.url }}/assets/images/2021artgallery_020.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_020)
 
-![]({{ site.url }}/assets/images/2021artgallery_021.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_021)
 
-![]({{ site.url }}/assets/images/2021artgallery_022.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_022)
 
-![]({{ site.url }}/assets/images/2021artgallery_023.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_023)
 
-![]({{ site.url }}/assets/images/2021artgallery_024.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_024)
 
-![]({{ site.url }}/assets/images/2021artgallery_025.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_025)
 
-![]({{ site.url }}/assets/images/2021artgallery_026.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_026)
 
 
 ### 部分参展作品
 
-![]({{ site.url }}/assets/images/2021artgallery_01.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_01)
 
-![]({{ site.url }}/assets/images/2021artgallery_02.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_02)
 
-![]({{ site.url }}/assets/images/2021artgallery_03.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_03)
 
-![]({{ site.url }}/assets/images/2021artgallery_04.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_04)
 
-![]({{ site.url }}/assets/images/2021artgallery_05.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_05)
 
-![]({{ site.url }}/assets/images/2021artgallery_06.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_06)
 
-![]({{ site.url }}/assets/images/2021artgallery_07.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_07)
 
-![]({{ site.url }}/assets/images/2021artgallery_08.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_08)
 
-![]({{ site.url }}/assets/images/2021artgallery_09.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_09)
 
-![]({{ site.url }}/assets/images/2021artgallery_10.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_10)
 
-![]({{ site.url }}/assets/images/2021artgallery_11.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_11)
 
-![]({{ site.url }}/assets/images/2021artgallery_12.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021artgallery_12)

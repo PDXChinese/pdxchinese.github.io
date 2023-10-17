@@ -9,28 +9,28 @@ date: "2023-05-21"
 
 The Portland Fire Dragon Boat Team finally has its uniforms today! We are incredibly proud of the men and women who are dedicated to team building, striving for better race results, and creating a resilient community.
 
-![]({{ site.url }}/assets/images/348463072_1180475852643619_5992514888213307724_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/348463072_1180475852643619_5992514888213307724_n)
 
-![]({{ site.url }}/assets/images/348629854_1378836429510773_4577126854648436476_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/348629854_1378836429510773_4577126854648436476_n)
 
-![]({{ site.url }}/assets/images/347834970_247078227927059_4829399083998220496_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/347834970_247078227927059_4829399083998220496_n)
 
-![]({{ site.url }}/assets/images/348443899_6626084710757079_5644290778708224323_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/348443899_6626084710757079_5644290778708224323_n)
 
-![]({{ site.url }}/assets/images/348291880_589094466624427_2297393827594116299_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/348291880_589094466624427_2297393827594116299_n)
 
-![]({{ site.url }}/assets/images/348590291_200350966272356_7379139535128633540_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/348590291_200350966272356_7379139535128633540_n)
 
-![]({{ site.url }}/assets/images/348549086_3430386050546542_1574926098352907410_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/348549086_3430386050546542_1574926098352907410_n)
 
-![]({{ site.url }}/assets/images/348647548_814782273564142_3978440115920326900_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/348647548_814782273564142_3978440115920326900_n)
 
-![]({{ site.url }}/assets/images/348350329_158385543698140_7150924975417348990_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/348350329_158385543698140_7150924975417348990_n)
 
-![]({{ site.url }}/assets/images/348827120_629054112577197_4875658212299741402_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/348827120_629054112577197_4875658212299741402_n)
 
-![]({{ site.url }}/assets/images/347864292_798420764811385_865186895751967671_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/347864292_798420764811385_865186895751967671_n)
 
-![]({{ site.url }}/assets/images/348292868_1429594051155433_2014047689223990793_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/348292868_1429594051155433_2014047689223990793_n)
 
-![]({{ site.url }}/assets/images/347638771_758137322686013_5194916300140327131_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/347638771_758137322686013_5194916300140327131_n)

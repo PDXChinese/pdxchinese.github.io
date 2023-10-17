@@ -16,64 +16,64 @@ date: "2022-02-05"
 
 从600多张照片中精选了30多张供大家欣赏
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020501.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020501)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020502.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020502)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020503.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020503)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020504.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020504)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020505.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020505)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020506.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020506)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020507.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020507)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020508.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020508)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020509.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020509)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020510.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020510)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020511.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020511)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020512.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020512)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020513.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020513)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020514.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020514)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020515.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020515)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020516.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020516)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020517.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020517)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020518.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020518)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020519.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020519)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020520.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020520)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020521.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020521)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020522.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020522)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020523.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020523)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020524.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020524)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020525.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020525)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020526.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020526)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020527.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020527)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020528.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020528)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020529.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020529)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020530.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020530)
 
-![]({{ site.url }}/assets/images/crafts_table_lansu_2022020531.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/crafts_table_lansu_2022020531)

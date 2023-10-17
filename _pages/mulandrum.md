@@ -11,9 +11,9 @@ Since its establishment, the team has actively performed in various community ev
 
 To have us perform in your events, please [contact us](http://pdxchinese.org/contact/).
 
-![]({{ site.url }}/assets/images/323437593_726320622488111_6182391873791495212_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/323437593_726320622488111_6182391873791495212_n)
 
-![]({{ site.url }}/assets/images/345424743_651302106822940_5592377646873928980_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345424743_651302106822940_5592377646873928980_n)
 
 
 ### Performance in Patricia Reser Center for the Arts in Beaverton

@@ -25,28 +25,28 @@ date: "2021-02-11"
 
 代购们的性别一边倒以女性为主，从居住年数看，多为近几年搬倒波特兰，问卷没有直接问年龄，但是从居住时间看，应该基本上以年轻人居多。
 
-![]({{ site.url }}/assets/images/daigou_survey01.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/daigou_survey01)
 
-![]({{ site.url }}/assets/images/daigou_survey02.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/daigou_survey02)
 
 
 从参加问卷的人看，所有人都是已婚，其中绝大多数又都是有家有口的家庭主妇。令人吃惊的是，这些人中的90%都有至少大学本科教育背景。
 
-![]({{ site.url }}/assets/images/daigou_survey03.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/daigou_survey03)
 
-![]({{ site.url }}/assets/images/daigou_survey04.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/daigou_survey04)
 
 下一个问题是，他们为什么选择这个“职业”？在对“您做代购对家庭收入的影响程度”问题回答中，我们看到了近30%的人通过代购为家庭提供了全部或大部分收入来源，如果加上部分补充了家庭收入的人，就等于说超过2/3的人是通过代购讨生计的。这个和在高科技公司做工程师，或者别的职业，是没有任何本质性区别的。
 
-![]({{ site.url }}/assets/images/daigou_survey05.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/daigou_survey05)
 
 那么代购们在商店购物活动中的体验如何呢？回答感受到歧视的人数是回答没有感受到的人数的一倍，所以，在开头背景中提到的店方存在带有歧视性的做法就不足以为奇了。大家似乎只能接受着这么一个现实，这也能从对“在Coach店购物体验觉得愉快吗”的问题回答中体现出来。代购们为了生计，不接受这个现实似无别的选择，再者，基本上作为“个体户”的代购们，也没有什么底气能做些什么。
 
-![]({{ site.url }}/assets/images/daigou_survey06.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/daigou_survey06)
 
-![]({{ site.url }}/assets/images/daigou_survey07.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/daigou_survey07)
 
-![]({{ site.url }}/assets/images/daigou_survey08.png)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/daigou_survey08)
 
 ### 最新进展
 

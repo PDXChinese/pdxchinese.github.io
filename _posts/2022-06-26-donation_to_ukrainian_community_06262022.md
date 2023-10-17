@@ -11,30 +11,30 @@ date: "2022-06-26"
 
 Way to go! 今天我们帮了别人，明天我们有需要的时候相信不会孤独。
 
-![]({{ site.url }}/assets/images/290804716_1710988779273682_6541631092967944461_n.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/290804716_1710988779273682_6541631092967944461_n)
 
-![]({{ site.url }}/assets/images/289613034_1711378565901370_5393092941660605800_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/289613034_1711378565901370_5393092941660605800_n)
 
-![]({{ site.url }}/assets/images/289652135_1711379409234619_1959998392085735509_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/289652135_1711379409234619_1959998392085735509_n)
 
-![]({{ site.url }}/assets/images/290446157_1710990039273556_2693162159012941794_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/290446157_1710990039273556_2693162159012941794_n)
 
-![]({{ site.url }}/assets/images/290580686_1710989532606940_6462263147332672674_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/290580686_1710989532606940_6462263147332672674_n)
 
-![]({{ site.url }}/assets/images/290599557_1710990022606891_5145660210433608372_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/290599557_1710990022606891_5145660210433608372_n)
 
-![]({{ site.url }}/assets/images/290680142_1710989982606895_3065153414319210330_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/290680142_1710989982606895_3065153414319210330_n)
 
-![]({{ site.url }}/assets/images/290727355_1710989665940260_1452889561191646899_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/290727355_1710989665940260_1452889561191646899_n)
 
-![]({{ site.url }}/assets/images/290773569_1710989572606936_3139524794226911745_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/290773569_1710989572606936_3139524794226911745_n)
 
-![]({{ site.url }}/assets/images/290816964_1710989582606935_4611943102181691873_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/290816964_1710989582606935_4611943102181691873_n)
 
-![]({{ site.url }}/assets/images/290819235_1710990085940218_5496072850151003301_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/290819235_1710990085940218_5496072850151003301_n)
 
-![]({{ site.url }}/assets/images/290844346_1710990005940226_5862478573914306921_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/290844346_1710990005940226_5862478573914306921_n)
 
-![]({{ site.url }}/assets/images/290910279_1710989555940271_5733476697786532730_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/290910279_1710989555940271_5733476697786532730_n)
 
-![]({{ site.url }}/assets/images/290577718_1711378485901378_5382836984487054229_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/290577718_1711378485901378_5382836984487054229_n)

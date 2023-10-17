@@ -11,33 +11,33 @@ date: "2023-05-20"
 
 After seeing the temperature rise to 90 degrees, we resumed the air conditioning installation in the SE senior apartments from last Saturday. Today, three high schoolers volunteered to connect the hoses and provide instructions to the seniors on how to use the units.
 
-![]({{ site.url }}/assets/images/348599886_572811721651578_893887700700550014_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/348599886_572811721651578_893887700700550014_n)
 
-![]({{ site.url }}/assets/images/347433935_276402381452110_8983016135904573023_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/347433935_276402381452110_8983016135904573023_n)
 
-![]({{ site.url }}/assets/images/347793991_263648349363268_3191587412640469881_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/347793991_263648349363268_3191587412640469881_n)
 
-![]({{ site.url }}/assets/images/347263178_788287022625292_3185872797967673460_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/347263178_788287022625292_3185872797967673460_n)
 
-![]({{ site.url }}/assets/images/347402873_563762705915112_8051659113856237749_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/347402873_563762705915112_8051659113856237749_n)
 
-![]({{ site.url }}/assets/images/348312928_3516317051948091_8911236800757352465_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/348312928_3516317051948091_8911236800757352465_n)
 
-![]({{ site.url }}/assets/images/348473684_581400420644114_2997862394220874385_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/348473684_581400420644114_2997862394220874385_n)
 
-![]({{ site.url }}/assets/images/347440213_1912035579181976_1633994450367334509_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/347440213_1912035579181976_1633994450367334509_n)
 
-![]({{ site.url }}/assets/images/346818746_783522483171343_6336691650607231298_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/346818746_783522483171343_6336691650607231298_n)
 
-![]({{ site.url }}/assets/images/347563845_778627360606543_1398437560527222483_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/347563845_778627360606543_1398437560527222483_n)
 
-![]({{ site.url }}/assets/images/348319721_1680066242444801_4432959243845059308_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/348319721_1680066242444801_4432959243845059308_n)
 
-![]({{ site.url }}/assets/images/348550193_553789076937920_5257174409737103444_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/348550193_553789076937920_5257174409737103444_n)
 
-![]({{ site.url }}/assets/images/348309758_932282547986600_3903933405468972649_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/348309758_932282547986600_3903933405468972649_n)
 
-![]({{ site.url }}/assets/images/348324752_941903783516583_6299809680016797894_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/348324752_941903783516583_6299809680016797894_n)
 
 <br>
 

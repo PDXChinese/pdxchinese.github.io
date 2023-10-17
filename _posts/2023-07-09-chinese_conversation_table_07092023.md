@@ -9,10 +9,10 @@ date: "2023-07-09"
 
 The volunteers provided hands-on experiences for visitors at Lan Su Chinese Garden, offering activities such as calligraphy and Guzheng during the weekly Chinese Conversational Table. Their efforts created an engaging and interactive environment, allowing tourists to immerse themselves in Chinese culture and arts.
 
-![]({{ site.url }}/assets/images/358684705_263575432974213_7953362649078736610_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/358684705_263575432974213_7953362649078736610_n)
 
-![]({{ site.url }}/assets/images/359128699_263575429640880_1084182913351316315_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/359128699_263575429640880_1084182913351316315_n)
 
-![]({{ site.url }}/assets/images/359741592_263575436307546_737555196632284721_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/359741592_263575436307546_737555196632284721_n)
 
-![]({{ site.url }}/assets/images/358435491_263575446307545_553881154785103331_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/358435491_263575446307545_553881154785103331_n)

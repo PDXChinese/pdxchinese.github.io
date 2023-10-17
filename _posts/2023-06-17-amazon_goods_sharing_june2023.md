@@ -9,20 +9,20 @@ date: "2023-06-17"
 
 Out of the 35 pallets of donations, we distributed 28 pallets to various local communities, fostering collaboration and inclusivity. These included sharing with Pacific Islanders through Pacific Islander Community Development Associate, Latino communities through Iglesia Restauacion Oregon (IRO), Slavic communities through Clackamas County, Ukrainian communities through Ukrainian Foundation, African immigrant/refugee communities through Multnomah County, the youth at Wooden Fish schools, and BIPOC families through East County Coalition. There is nothing more gratifying than the act of sharing with others, and we are delighted to have had this opportunity.
 
-![]({{ site.url }}/assets/images/355110536_251417454190011_3137083761248746940_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355110536_251417454190011_3137083761248746940_n)
 
-![]({{ site.url }}/assets/images/355102335_251417510856672_4505615849311277018_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355102335_251417510856672_4505615849311277018_n)
 
-![]({{ site.url }}/assets/images/355239881_251417314190025_4889822399114872669_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355239881_251417314190025_4889822399114872669_n)
 
-![]({{ site.url }}/assets/images/354622605_251417464190010_2510448575473641806_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/354622605_251417464190010_2510448575473641806_n)
 
-![]({{ site.url }}/assets/images/354897578_251417304190026_5327964345986075106_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/354897578_251417304190026_5327964345986075106_n)
 
-![]({{ site.url }}/assets/images/355149882_251417434190013_8136486676976527475_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355149882_251417434190013_8136486676976527475_n)
 
-![]({{ site.url }}/assets/images/355220077_251417207523369_3496276713925543543_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355220077_251417207523369_3496276713925543543_n)
 
-![]({{ site.url }}/assets/images/355158979_251417250856698_3126571898593776226_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355158979_251417250856698_3126571898593776226_n)
 
-![]({{ site.url }}/assets/images/355077189_251417240856699_110693195762561217_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355077189_251417240856699_110693195762561217_n)

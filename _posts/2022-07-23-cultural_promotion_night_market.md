@@ -19,8 +19,8 @@ date: "2022-07-23"
 
 ![]({{ site.url }}/assets/images/WeChat Image_20220724021115.jpg)
 
-![]({{ site.url }}/assets/images/295740839_1733562133683013_6932698045946443022_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/295740839_1733562133683013_6932698045946443022_n)
 
-![]({{ site.url }}/assets/images/295749095_1733562147016345_7536786407627821212_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/295749095_1733562147016345_7536786407627821212_n)
 
-![]({{ site.url }}/assets/images/295929758_1733562090349684_7960340551719396760_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/295929758_1733562090349684_7960340551719396760_n)

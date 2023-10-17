@@ -9,30 +9,30 @@ date: "2023-04-08"
 
 Some of the parents and OCC Board members who were involved in winter drives and serving meals in the shelter attended the Transition Projects, Inc.'s IMPACTful evening in Portland Art Museum on Saturday. What an honor to be among the large crowd to witness the impact from the work done by the 300 staff and with the support from the community.
 
-![]({{ site.url }}/assets/images/340444762_1711588055965591_613339670530551942_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/340444762_1711588055965591_613339670530551942_n)
 
-![]({{ site.url }}/assets/images/340325123_458231549810214_6134996117459110405_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/340325123_458231549810214_6134996117459110405_n)
 
-![]({{ site.url }}/assets/images/340027125_912206613229713_2884234292788678672_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/340027125_912206613229713_2884234292788678672_n)
 
-![]({{ site.url }}/assets/images/339907907_463359779279036_9095152778265604302_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/339907907_463359779279036_9095152778265604302_n)
 
-![]({{ site.url }}/assets/images/340325158_2421733841332399_3228641047820015159_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/340325158_2421733841332399_3228641047820015159_n)
 
-![]({{ site.url }}/assets/images/340447947_779564826826372_8629875751293283433_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/340447947_779564826826372_8629875751293283433_n)
 
-![]({{ site.url }}/assets/images/340487263_897784714669991_8531995187980460110_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/340487263_897784714669991_8531995187980460110_n)
 
-![]({{ site.url }}/assets/images/340435956_129599359986125_3363849957323949250_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/340435956_129599359986125_3363849957323949250_n)
 
-![]({{ site.url }}/assets/images/340430484_225766940126781_7649447626554554070_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/340430484_225766940126781_7649447626554554070_n)
 
-![]({{ site.url }}/assets/images/340500115_6016502361720729_6342051895950108641_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/340500115_6016502361720729_6342051895950108641_n)
 
-![]({{ site.url }}/assets/images/340432195_258475696610509_7214490053062910778_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/340432195_258475696610509_7214490053062910778_n)
 
-![]({{ site.url }}/assets/images/340375375_615580263397527_6639842942007719611_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/340375375_615580263397527_6639842942007719611_n)
 
-![]({{ site.url }}/assets/images/340775195_136055496095454_2025271720889179949_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/340775195_136055496095454_2025271720889179949_n)
 
-![]({{ site.url }}/assets/images/340385114_1344185352822629_3124475795961286710_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/340385114_1344185352822629_3124475795961286710_n)

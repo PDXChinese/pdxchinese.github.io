@@ -19,53 +19,53 @@ Oregon Chinese Coalition – Chinese Opera & Dance / 4:30 PM
 The Happy Family Forever – Maasai Singing & Dancing / 5:30 PM  
 Courtney Freed & Hamondy Hindi – Jazz Vocals & Guitar / 6:30 PM  
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091101.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091101)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091102.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091102)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091105.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091105)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091111.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091111)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091106.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091106)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091107.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091107)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091108.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091108)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091109.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091109)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091110.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091110)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091104.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091104)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091112.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091112)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091113.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091113)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091114.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091114)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091103.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091103)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091115.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091115)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091116.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091116)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091117.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091117)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091118.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091118)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091119.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091119)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091120.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091120)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091121.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091121)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091122.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091122)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091123.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091123)
 
-![]({{ site.url }}/assets/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091124.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Performing_at_Patricia_Reser_Center_for_the_Arts_2022091124)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WBV4_cZL_dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

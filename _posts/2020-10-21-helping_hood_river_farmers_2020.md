@@ -26,4 +26,4 @@ date: "2020-10-21"
 
 ![]({{ site.url }}/assets/images/WeChat Image_20201022120153.jpg)
 
-![]({{ site.url }}/assets/images/orderlist_20201021.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/orderlist_20201021)

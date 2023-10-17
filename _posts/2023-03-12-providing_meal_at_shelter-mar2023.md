@@ -9,51 +9,51 @@ date: "2023-03-12"
 
 Another wonderful evening at The Clark Center. Families from the community brought in many delicious dishes to the shelter residents. Some of them were the first time to provide meal at shelter. It becomes pretty hard to sign up for a spot now. We will add more dates during the summer time when the kids are off school.
 
-![]({{ site.url }}/assets/images/335591408_185161037585397_8314387686910041692_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/335591408_185161037585397_8314387686910041692_n)
 
-![]({{ site.url }}/assets/images/335899325_581284320602977_3442050604208115282_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/335899325_581284320602977_3442050604208115282_n)
 
-![]({{ site.url }}/assets/images/335438871_219266237423401_5224771522054554199_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/335438871_219266237423401_5224771522054554199_n)
 
-![]({{ site.url }}/assets/images/335668911_892241448667551_8133882583998687878_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/335668911_892241448667551_8133882583998687878_n)
 
-![]({{ site.url }}/assets/images/335733077_610259087612856_5319212286438107993_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/335733077_610259087612856_5319212286438107993_n)
 
-![]({{ site.url }}/assets/images/336095023_9231484180195781_551756260236798656_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/336095023_9231484180195781_551756260236798656_n)
 
-![]({{ site.url }}/assets/images/335637209_952638712410871_1669420504939393372_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/335637209_952638712410871_1669420504939393372_n)
 
-![]({{ site.url }}/assets/images/336008127_3468890936667479_8586726092511459778_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/336008127_3468890936667479_8586726092511459778_n)
 
-![]({{ site.url }}/assets/images/336172408_767180964683832_6899003011319052471_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/336172408_767180964683832_6899003011319052471_n)
 
-![]({{ site.url }}/assets/images/336294189_911663006620994_5441490113767421031_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/336294189_911663006620994_5441490113767421031_n)
 
-![]({{ site.url }}/assets/images/335625710_926601635158325_7767291575232480536_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/335625710_926601635158325_7767291575232480536_n)
 
-![]({{ site.url }}/assets/images/335592974_2061189857418557_3538831668520578912_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/335592974_2061189857418557_3538831668520578912_n)
 
-![]({{ site.url }}/assets/images/336182398_1907714739586168_8626909423723982987_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/336182398_1907714739586168_8626909423723982987_n)
 
-![]({{ site.url }}/assets/images/335873603_174347918696685_74250391632100462_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/335873603_174347918696685_74250391632100462_n)
 
-![]({{ site.url }}/assets/images/335611489_1339433140175624_2260010207659693047_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/335611489_1339433140175624_2260010207659693047_n)
 
-![]({{ site.url }}/assets/images/335581369_600404348613892_371208719267201391_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/335581369_600404348613892_371208719267201391_n)
 
-![]({{ site.url }}/assets/images/335502614_548782400689347_9203524334316181594_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/335502614_548782400689347_9203524334316181594_n)
 
-![]({{ site.url }}/assets/images/335605478_176595171814633_8772258733640041545_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/335605478_176595171814633_8772258733640041545_n)
 
-![]({{ site.url }}/assets/images/335943213_758716678913906_3231389489810345082_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/335943213_758716678913906_3231389489810345082_n)
 
-![]({{ site.url }}/assets/images/335942564_224450353329051_2995667959571926998_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/335942564_224450353329051_2995667959571926998_n)
 
-![]({{ site.url }}/assets/images/335597788_775852400558109_4571020741875009958_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/335597788_775852400558109_4571020741875009958_n)
 
-![]({{ site.url }}/assets/images/335602996_1191971264755872_6629461601650134565_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/335602996_1191971264755872_6629461601650134565_n)
 
-![]({{ site.url }}/assets/images/335511047_595002565544588_1730402035624438849_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/335511047_595002565544588_1730402035624438849_n)
 
 <iframe width="1100" height="619" src="https://www.youtube.com/embed/Y34tBlOIHhs" title="Providing Meal at the Clark Center in Portland Downtown" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

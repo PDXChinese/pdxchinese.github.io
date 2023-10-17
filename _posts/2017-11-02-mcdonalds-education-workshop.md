@@ -6,7 +6,7 @@ excerpt: "「教育是成功的起點」，『麥當勞教育展』為滿足莘�
 date: "2017-11-02"
 ---
 
-![]({{ site.url }}/assets/images/mcdonalds_poster.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/mcdonalds_poster)
 
 　　由麥當勞作主題贊助的『麥當勞教育展』，今年增設波特蘭地區的展場，由波特蘭新聞和波特蘭文藝中心負責策劃承辦，並定於11月18日在東南區波特蘭社區學院內舉行（82街Division 街），由上午十時至晚上四時舉行。
 
@@ -30,8 +30,8 @@ date: "2017-11-02"
 
 　　當日的時間表及講座時間表，請參照刊登在[本期波特蘭新聞B1版的廣告](http://portlandchinesetimes.com/%E5%B0%88%E7%82%BA%E4%BA%9E%E8%A3%94%E5%AD%B8%E7%94%9F%E8%80%8C%E8%A8%AD%E7%9A%84%E3%80%8E%E9%BA%A5%E7%95%B6%E5%8B%9E%E6%95%99%E8%82%B2%E5%B1%95%E3%80%8F11%E6%9C%8818%E6%97%A5%E8%88%89%E8%A1%8C/)。
 
-![]({{ site.url }}/assets/images/mcdonalds_agenda.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/mcdonalds_agenda)
 
-![]({{ site.url }}/assets/images/mcdonalds_schedule.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/mcdonalds_schedule)
 
 …………

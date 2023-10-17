@@ -13,30 +13,30 @@ Dr. Khoo was a highly esteemed community leader within the Chinese American comm
 
 <br>
 
-![]({{ site.url }}/assets/images/dr_khoo_interview_01.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_01)
 
-![]({{ site.url }}/assets/images/dr_khoo_interview_02.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_02)
 
-![]({{ site.url }}/assets/images/dr_khoo_interview_03.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_03)
 
-![]({{ site.url }}/assets/images/dr_khoo_interview_04.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_04)
 
-![]({{ site.url }}/assets/images/dr_khoo_interview_05.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_05)
 
-![]({{ site.url }}/assets/images/dr_khoo_interview_06.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_06)
 
-![]({{ site.url }}/assets/images/dr_khoo_interview_07.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_07)
 
-![]({{ site.url }}/assets/images/dr_khoo_interview_08.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_08)
 
-![]({{ site.url }}/assets/images/dr_khoo_interview_09.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_09)
 
-![]({{ site.url }}/assets/images/dr_khoo_interview_10.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_10)
 
-![]({{ site.url }}/assets/images/dr_khoo_interview_11.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_11)
 
-![]({{ site.url }}/assets/images/dr_khoo_interview_12.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_12)
 
-![]({{ site.url }}/assets/images/dr_khoo_interview_13.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_13)
 
-![]({{ site.url }}/assets/images/dr_khoo_interview_14.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_14)

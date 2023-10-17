@@ -11,52 +11,52 @@ date: "2020-10-01"
 
 ![]({{ site.url }}/assets/images/activities/lanternfest_2020.jpg)
 
-![]({{ site.url }}/assets/images/lantern_festival_7M39379.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7M39379)
 
-![]({{ site.url }}/assets/images/lantern_festival_7M39394.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7M39394)
 
-![]({{ site.url }}/assets/images/lantern_festival_7M39398.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7M39398)
 
-![]({{ site.url }}/assets/images/lantern_festival_7M39451.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7M39451)
 
-![]({{ site.url }}/assets/images/lantern_festival_7M39455.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7M39455)
 
-![]({{ site.url }}/assets/images/lantern_festival_7M39483.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7M39483)
 
-![]({{ site.url }}/assets/images/lantern_festival_7M39485.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7M39485)
 
-![]({{ site.url }}/assets/images/lantern_festival_7M39493.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7M39493)
 
-![]({{ site.url }}/assets/images/lantern_festival_7M39498.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7M39498)
 
-![]({{ site.url }}/assets/images/lantern_festival_7M39504.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7M39504)
 
-![]({{ site.url }}/assets/images/lantern_festival_7M39516.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7M39516)
 
-![]({{ site.url }}/assets/images/lantern_festival_7M39517.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7M39517)
 
-![]({{ site.url }}/assets/images/lantern_festival_7M39602.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7M39602)
 
-![]({{ site.url }}/assets/images/lantern_festival_7M39627.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7M39627)
 
-![]({{ site.url }}/assets/images/lantern_festival_7M39644.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7M39644)
 
-![]({{ site.url }}/assets/images/lantern_festival_7M39645.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7M39645)
 
-![]({{ site.url }}/assets/images/lantern_festival_7M39648.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7M39648)
 
-![]({{ site.url }}/assets/images/lantern_festival_7M39660.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7M39660)
 
-![]({{ site.url }}/assets/images/lantern_festival_7M39697.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7M39697)
 
-![]({{ site.url }}/assets/images/lantern_festival_7M39756.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7M39756)
 
-![]({{ site.url }}/assets/images/lantern_festival_7R35686.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7R35686)
 
-![]({{ site.url }}/assets/images/lantern_festival_7R35713.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7R35713)
 
-![]({{ site.url }}/assets/images/lantern_festival_7R35716.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7R35716)
 
-![]({{ site.url }}/assets/images/lantern_festival_7R35730.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7R35730)
 
-![]({{ site.url }}/assets/images/lantern_festival_7R35775.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_festival_7R35775)

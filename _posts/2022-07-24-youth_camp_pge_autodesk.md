@@ -13,46 +13,46 @@ date: "2022-08-24"
 
 ### Tour at PGE Training Center at Sherwood on August 24
 
-![]({{ site.url }}/assets/images/second_pge_tour_01.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/second_pge_tour_01)
 
-![]({{ site.url }}/assets/images/second_pge_tour_02.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/second_pge_tour_02)
 
-![]({{ site.url }}/assets/images/second_pge_tour_03.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/second_pge_tour_03)
 
-![]({{ site.url }}/assets/images/second_pge_tour_04.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/second_pge_tour_04)
 
-![]({{ site.url }}/assets/images/second_pge_tour_05.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/second_pge_tour_05)
 
-![]({{ site.url }}/assets/images/second_pge_tour_06.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/second_pge_tour_06)
 
-![]({{ site.url }}/assets/images/second_pge_tour_07.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/second_pge_tour_07)
 
-![]({{ site.url }}/assets/images/second_pge_tour_08.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/second_pge_tour_08)
 
-![]({{ site.url }}/assets/images/second_pge_tour_09.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/second_pge_tour_09)
 
-![]({{ site.url }}/assets/images/second_pge_tour_10.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/second_pge_tour_10)
 
-![]({{ site.url }}/assets/images/second_pge_tour_11.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/second_pge_tour_11)
 
 ### Tour at Autodesk on August 25
 
-![]({{ site.url }}/assets/images/301567638_1757605184612041_6258038733382845436_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/301567638_1757605184612041_6258038733382845436_n)
 
-![]({{ site.url }}/assets/images/301590863_1757605571278669_5649943591671114279_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/301590863_1757605571278669_5649943591671114279_n)
 
-![]({{ site.url }}/assets/images/301633186_1757605347945358_5025734313276663653_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/301633186_1757605347945358_5025734313276663653_n)
 
-![]({{ site.url }}/assets/images/301718336_1757605361278690_4781488472404226550_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/301718336_1757605361278690_4781488472404226550_n)
 
-![]({{ site.url }}/assets/images/301790664_1757605557945337_6493913017155978219_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/301790664_1757605557945337_6493913017155978219_n)
 
-![]({{ site.url }}/assets/images/301803657_1757605267945366_262822284078859211_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/301803657_1757605267945366_262822284078859211_n)
 
-![]({{ site.url }}/assets/images/301814684_1757605227945370_6360055949109155063_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/301814684_1757605227945370_6360055949109155063_n)
 
-![]({{ site.url }}/assets/images/301818546_1757605201278706_3109915541713920210_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/301818546_1757605201278706_3109915541713920210_n)
 
-![]({{ site.url }}/assets/images/301819518_1757605304612029_8584307474485059155_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/301819518_1757605304612029_8584307474485059155_n)
 
-![]({{ site.url }}/assets/images/301833655_1757605174612042_2698867313769092747_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/301833655_1757605174612042_2698867313769092747_n)

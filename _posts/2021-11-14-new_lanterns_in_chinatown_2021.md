@@ -11,88 +11,88 @@ Today, a group of volunteers from the local Chinese American community came to C
 
 欢迎浏览[过去三年有关灯笼的活动](https://pdxchinese.org/lanternfestival/)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_01.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_01)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_02.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_02)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_03.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_03)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_04.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_04)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_05.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_05)
 
 街头艺人特意为我们演奏了一曲
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_06.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_06)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_07.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_07)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_08.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_08)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_09.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_09)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_10.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_10)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_11.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_11)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_12.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_12)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_13.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_13)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_14.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_14)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_15.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_15)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_16.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_16)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_17.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_17)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_18.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_18)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_19.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_19)
 
 她们的工作做得非常的完美，闲暇时不忘了娱乐一下。
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_20.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_20)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_21.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_21)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_22.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_22)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_23.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_23)
 
 老张夫妇，我们社区公益活动的照片绝大多数来自他的相机。
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_24.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_24)
 
 骑自行车的人主动停下来行注目礼
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_25.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_25)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_26.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_26)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_27.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_27)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_28.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_28)
 
 神奇的一景
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_29.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_29)
 
 名字叫玥玥的小义工可以看得出来几个小时下来，已经有些疲态了。我们在一个小组，负责大街的一边，她和她的小伙伴几乎负责了所有爬梯子部分，而这是既耗体力又耗精力的一项工作。
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_31.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_31)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_32.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_32)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_33.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_33)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_34.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_34)
 
 入夜后的景象
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_35.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_35)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_36.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_36)
 
-![]({{ site.url }}/assets/images/lantern_chinatown_2021_11_14_37.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/lantern_chinatown_2021_11_14_37)

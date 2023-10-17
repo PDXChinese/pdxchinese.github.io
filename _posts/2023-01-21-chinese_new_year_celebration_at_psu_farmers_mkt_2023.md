@@ -11,37 +11,37 @@ Portland Farmers Market welcomed volunteers from Chinese American community to c
 
 Great appreciation to Money Bowl and Great Tang, two Chinese American vendors in the market, who offered delicious food to the volunteers. It was really cold that morning. Hot dumplings and noodles brought huge comfort to the volunteers.
 
-![]({{ site.url }}/assets/images/326711202_839501383810165_4903639639870556855_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326711202_839501383810165_4903639639870556855_n)
 
-![]({{ site.url }}/assets/images/326387583_1092058778857047_8245403294991861876_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326387583_1092058778857047_8245403294991861876_n)
 
-![]({{ site.url }}/assets/images/326984514_743471656874914_817509881774202439_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326984514_743471656874914_817509881774202439_n)
 
-![]({{ site.url }}/assets/images/326963563_1213313892635572_8847427382166746388_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326963563_1213313892635572_8847427382166746388_n)
 
-![]({{ site.url }}/assets/images/326932823_497360559146852_115630834479121290_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326932823_497360559146852_115630834479121290_n)
 
-![]({{ site.url }}/assets/images/326466870_1743729892688478_759365096203636255_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326466870_1743729892688478_759365096203636255_n)
 
-![]({{ site.url }}/assets/images/326982493_1217543872502935_175704044651660893_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326982493_1217543872502935_175704044651660893_n)
 
-![]({{ site.url }}/assets/images/326793270_3318502668463192_1912048503042832477_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326793270_3318502668463192_1912048503042832477_n)
 
-![]({{ site.url }}/assets/images/326701001_1354514768656928_5843381313204198330_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326701001_1354514768656928_5843381313204198330_n)
 
-![]({{ site.url }}/assets/images/326557143_1356675011735651_170671472125132385_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326557143_1356675011735651_170671472125132385_n)
 
-![]({{ site.url }}/assets/images/326738866_930942788316497_5454605515106036750_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326738866_930942788316497_5454605515106036750_n)
 
-![]({{ site.url }}/assets/images/326424468_3307391902886277_4507036670305090334_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326424468_3307391902886277_4507036670305090334_n)
 
-![]({{ site.url }}/assets/images/326770013_883551736121126_5606245395938530339_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326770013_883551736121126_5606245395938530339_n)
 
-![]({{ site.url }}/assets/images/326967160_617580783512559_2387121653755818287_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326967160_617580783512559_2387121653755818287_n)
 
-![]({{ site.url }}/assets/images/326988700_5956545394434320_4235692137530552868_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326988700_5956545394434320_4235692137530552868_n)
 
-![]({{ site.url }}/assets/images/326528925_668703951668960_936127475286547206_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326528925_668703951668960_936127475286547206_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 

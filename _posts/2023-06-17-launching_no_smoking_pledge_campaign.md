@@ -10,20 +10,20 @@ date: "2023-06-17"
 OCC successfully launched the No Smoking No Vaping Pledge campaign at the donation distribution event held yesterday at PCC SE. We strongly believe that community-based organizations are in a better position to connect with youth and provide them with tobacco prevention education. During the event, our dedicated volunteers had the privilege of having 50 young individuals join the pledge, demonstrating their commitment to a tobacco-free lifestyle. Additionally, we had 5 smokers sign up for personalized tobacco cessation programs, showing their determination to quit.
 
 
-![]({{ site.url }}/assets/images/355083821_251414514190305_6168920282966624936_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355083821_251414514190305_6168920282966624936_n)
 
-![]({{ site.url }}/assets/images/355239641_251414400856983_492283916734700346_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355239641_251414400856983_492283916734700346_n)
 
-![]({{ site.url }}/assets/images/355118435_251414537523636_6062989402135169778_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355118435_251414537523636_6062989402135169778_n)
 
-![]({{ site.url }}/assets/images/354571815_251414254190331_5348108122656054743_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/354571815_251414254190331_5348108122656054743_n)
 
-![]({{ site.url }}/assets/images/355105898_251414474190309_4974332794618232715_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355105898_251414474190309_4974332794618232715_n)
 
-![]({{ site.url }}/assets/images/355159463_251414437523646_5969826412610166452_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355159463_251414437523646_5969826412610166452_n)
 
-![]({{ site.url }}/assets/images/355120008_251414264190330_1895196967162690267_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355120008_251414264190330_1895196967162690267_n)
 
-![]({{ site.url }}/assets/images/355266845_251414377523652_3083797328654038269_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355266845_251414377523652_3083797328654038269_n)
 
-![]({{ site.url }}/assets/images/355162962_251414330856990_5915241824252048916_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355162962_251414330856990_5915241824252048916_n)

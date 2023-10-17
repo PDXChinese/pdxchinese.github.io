@@ -17,30 +17,30 @@ Our Mulan Drum Team and Jade Dance Team participated in the first AAPI event at 
 
 <br>
 
-![]({{ site.url }}/assets/images/346464828_191791813782492_3136458715146317758_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/346464828_191791813782492_3136458715146317758_n)
 
-![]({{ site.url }}/assets/images/346285498_1361027854464358_4133070765360249059_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/346285498_1361027854464358_4133070765360249059_n)
 
-![]({{ site.url }}/assets/images/346286948_1235937597283169_5125472595603709631_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/346286948_1235937597283169_5125472595603709631_n)
 
-![]({{ site.url }}/assets/images/346279498_773586387731899_4917504944717868790_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/346279498_773586387731899_4917504944717868790_n)
 
-![]({{ site.url }}/assets/images/346633289_173866205622133_4488363264859110329_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/346633289_173866205622133_4488363264859110329_n)
 
-![]({{ site.url }}/assets/images/346318832_6444417632245392_8597797759343148399_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/346318832_6444417632245392_8597797759343148399_n)
 
-![]({{ site.url }}/assets/images/346637148_2389686834539171_5070834747438547911_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/346637148_2389686834539171_5070834747438547911_n)
 
-![]({{ site.url }}/assets/images/346302367_935357487794274_4170075226796940249_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/346302367_935357487794274_4170075226796940249_n)
 
-![]({{ site.url }}/assets/images/346305592_194151376869802_7241326427982684433_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/346305592_194151376869802_7241326427982684433_n)
 
-![]({{ site.url }}/assets/images/346618550_228480869796158_7693379628508607243_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/346618550_228480869796158_7693379628508607243_n)
 
-![]({{ site.url }}/assets/images/346475467_2073674242825146_4444312188578667805_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/346475467_2073674242825146_4444312188578667805_n)
 
-![]({{ site.url }}/assets/images/346288684_576069951337338_3855539153957859714_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/346288684_576069951337338_3855539153957859714_n)
 
-![]({{ site.url }}/assets/images/346454601_495453072710538_2820781930404452498_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/346454601_495453072710538_2820781930404452498_n)
 
-![]({{ site.url }}/assets/images/346612073_196286359966375_6490342977251109732_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/346612073_196286359966375_6490342977251109732_n)

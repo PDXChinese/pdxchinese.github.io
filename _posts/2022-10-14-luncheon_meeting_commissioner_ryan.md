@@ -11,6 +11,6 @@ date: "2022-10-14"
 
 最后，我们开诚布公谈了中国城的现状，我首先表达了作为娱乐区定义的关切，和对文化历史遭受忽视的不满。Ryan专员均表示理解，也愿意接受我的建议，开启对话，真真正正能从政策层面鼓励华人拥有地产和商业。我把这看作是reparation for local Chinese American community的一个开始也是一个测试。
 
-![]({{ site.url }}/assets/images/311486108_1799325390440020_516579260495039646_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/311486108_1799325390440020_516579260495039646_n)
 
-![]({{ site.url }}/assets/images/311595713_1799324937106732_1353366013026481165_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/311595713_1799324937106732_1353366013026481165_n)

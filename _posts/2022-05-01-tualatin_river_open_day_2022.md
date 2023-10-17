@@ -9,68 +9,68 @@ date: "2022-05-01"
 
 这次活动也是对我们与保护区合作初衷提交了一个圆满答卷，从服务日活动，到青少年绘画展，再到昨天的VIP待遇，我们成功展现了华人作为一个整体是热爱大自然的，我们对野生动物的保护也是责无旁贷，在这里再次感谢所有参与各项活动的社区成员，我只想说，您们带来的影响远远超出了您我的想象。
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_01.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_01)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_02.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_02)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_03.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_03)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_04.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_04)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_05.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_05)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_06.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_06)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_07.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_07)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_08.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_08)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_09.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_09)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_10.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_10)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_11.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_11)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_12.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_12)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_13.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_13)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_14.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_14)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_15.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_15)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_16.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_16)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_17.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_17)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_18.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_18)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_19.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_19)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_20.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_20)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_21.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_21)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_22.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_22)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_23.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_23)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_24.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_24)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_25.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_25)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_26.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_26)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_27.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_27)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_28.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_28)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_29.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_29)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_30.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_30)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_31.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_31)
 
-![]({{ site.url }}/assets/images/tualatin_river_open_day_2022_32.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/tualatin_river_open_day_2022_32)
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=317&href=https%3A%2F%2Fwww.facebook.com%2FOregonChineseCoalition%2Fvideos%2F1055660675355094%2F&show_text=false&width=560&t=0" width="560" height="317" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>

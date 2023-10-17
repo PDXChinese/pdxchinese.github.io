@@ -9,26 +9,26 @@ date: "2022-01-29"
 
 欢迎大家早春二月来中国城走走，正好可以好好利用手中的兰苏园会员卡，路过斜对面的画展，感受一下，希望这个画廊给那里的人们和外来的游人一点正常生活的感受。
 
-![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202201.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/volunteering_in_chinatown_0129202201)
 
-![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202202.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/volunteering_in_chinatown_0129202202)
 
-![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202203.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/volunteering_in_chinatown_0129202203)
 
-![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202204.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/volunteering_in_chinatown_0129202204)
 
-![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202205.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/volunteering_in_chinatown_0129202205)
 
-![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202206.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/volunteering_in_chinatown_0129202206)
 
-![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202207.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/volunteering_in_chinatown_0129202207)
 
-![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202208.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/volunteering_in_chinatown_0129202208)
 
-![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202209.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/volunteering_in_chinatown_0129202209)
 
-![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202210.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/volunteering_in_chinatown_0129202210)
 
-![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202211.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/volunteering_in_chinatown_0129202211)
 
-![]({{ site.url }}/assets/images/volunteering_in_chinatown_0129202212.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/volunteering_in_chinatown_0129202212)

@@ -30,7 +30,7 @@ First Christian Church
 - Kelly  
 - 礼静 （1:30pm-3:30pm)  
 
-![]({{ site.url }}/assets/images/141198349_1319004395138791_5363970992185100905_o.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/141198349_1319004395138791_5363970992185100905_o)
 
 ![]({{ site.url }}/assets/images/WeChat Image_20210127092750.png)
 

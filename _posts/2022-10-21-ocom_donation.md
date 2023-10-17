@@ -9,4 +9,4 @@ OCC再次接受来自社区的捐赠，这次捐赠者是俄勒冈东方医学�
 
 ## [借阅，续借和归还登记表](https://docs.google.com/forms/d/e/1FAIpQLSdxa5wLGNIdTZCN7kYeeSJRgSU1Ro0YQoH7aLMx08ed-ZD01w/viewform?usp=sf_link)
 
-![]({{ site.url }}/assets/images/312601634_160959499902474_6009572189754533884_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/312601634_160959499902474_6009572189754533884_n)

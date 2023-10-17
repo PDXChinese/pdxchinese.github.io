@@ -37,6 +37,6 @@ Springville K-8 School on February 21, 2020
 
 Portland Pioneer Courthouse Square, August 6, 2021
 
-![]({{ site.url }}/assets/images/2021chinese_festival_060.jpg)  
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_060)  
 
-![]({{ site.url }}/assets/images/2021chinese_festival_062.jpg)  
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_062)  

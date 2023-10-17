@@ -13,24 +13,24 @@ Dick Lee and Xiaohui Chen are among those in the community who were willing to d
 
 <br>
 
-![]({{ site.url }}/assets/images/339276999_1981604972181299_7770111102246970301_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/339276999_1981604972181299_7770111102246970301_n)
 
-![]({{ site.url }}/assets/images/339501486_178599585033281_5661110211203283832_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/339501486_178599585033281_5661110211203283832_n)
 
-![]({{ site.url }}/assets/images/339278248_1295146854369639_1922066907187848118_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/339278248_1295146854369639_1922066907187848118_n)
 
-![]({{ site.url }}/assets/images/339279450_760249845615349_1821664085701590781_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/339279450_760249845615349_1821664085701590781_n)
 
-![]({{ site.url }}/assets/images/339267082_1004149230577076_6285384930214753544_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/339267082_1004149230577076_6285384930214753544_n)
 
-![]({{ site.url }}/assets/images/339270375_866786154419402_3793568723596028490_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/339270375_866786154419402_3793568723596028490_n)
 
-![]({{ site.url }}/assets/images/339148490_956619045341210_7132317526921318722_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/339148490_956619045341210_7132317526921318722_n)
 
-![]({{ site.url }}/assets/images/339562313_990882605141901_1879238343912743218_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/339562313_990882605141901_1879238343912743218_n)
 
-![]({{ site.url }}/assets/images/339119189_988890485410334_9129824279514219828_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/339119189_988890485410334_9129824279514219828_n)
 
-![]({{ site.url }}/assets/images/339468335_244701554645465_4969824267394214252_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/339468335_244701554645465_4969824267394214252_n)
 
-![]({{ site.url }}/assets/images/339522493_216381707657969_6556452260458169653_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/339522493_216381707657969_6556452260458169653_n)

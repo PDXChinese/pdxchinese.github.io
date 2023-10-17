@@ -135,17 +135,17 @@ date: "2020-03-24"
 
 在老人中心住的都是此次疫情中最为脆弱的一群人，对于照顾他们的工作人员，在家远程工作会是一件多么可望而不可及的事情。这次捐赠希望能够体现出我们华人社区对他们的关爱，同时也为华人与犹太人两个社区的互动做了很好的铺垫。
 
-![]({{ site.url }}/assets/images/sinai_donation_04022020a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/sinai_donation_04022020a)
 
-![]({{ site.url }}/assets/images/sinai_donation_04022020b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/sinai_donation_04022020b)
 
 【社区捐赠医疗物资活动进展4/1】 今天，前往Kaiser Westside Medical Center，将转运中国(uszcn.com)和京华楼(mandarinhousepo.com)东家丛迅捐赠的120付护目镜和100件防护服送给了战斗在抗击疫情一线的医护人员，这两样物品正是医护人员最缺的。感谢徐风平医生从中安排并介绍医院为应对疫情而采取的各项措施，期间也提到医院对医生使用N95几近'吝啬'的程度，令人不胜唏嘘。希望我们订购的口罩能尽快顺利到达，早日送到他们手中。
 
 目前我们的捐款缺口依然很大，我们建立的Coronavirus Relief Fund，除了用来购买一万N95口罩外，希望能有剩余资金，以帮助到因疫情出现生活困难的社区家庭。
 
-![]({{ site.url }}/assets/images/kaiser_donation_04012020a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/kaiser_donation_04012020a)
 
-![]({{ site.url }}/assets/images/kaiser_donation_04012020b.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/kaiser_donation_04012020b)
 
 **【社区捐赠医疗物资活动进展3/29】** 我们订的一万N95口罩还在集结过程中，物流公司已经有些紧张了，我们只能是祈祷这批货能顺利启程。与此同时，我们的筹款活动仍在继续，到今晚为止，大家的捐款已经达到$14,480！ 刘鲁粤群友出手帮助设立了[gofundme page](https://www.gofundme.com/f/xrp4ks-fund-raising-for-purchase-masks-for-local-hospital?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet)，请大家帮助散发，尤其是社区外的朋友。
 
@@ -165,7 +165,7 @@ Aris群友提醒让医生开处方的时候开90天，价格和30天是一样的
 
 **【社区捐赠医疗物资活动进展3/25】** 辛苦了这一段时间收获的不只是我们即将收到的一万只N95口罩，昨天还协助肯塔基一家医院订到了6万只，今天又争取到几千只给了华盛顿州的华人医生协会。一边等待着这批货，一边着手准备捐赠的医院名单。非常凑巧的是，昨天本地华人运营的[转运公司](https://www.uszcn.com/)向我们赠送了一批用以支持医护人员抗疫物资，今天一早就收到来自[Rose City Urgent Care](http://www.rosecitymed.com/)的告急信息，下午其中的2,400个N95口罩便送到了他们手中。在和Medical Director交流中得知，他们有三个地点，病人以Medicaid为主，医生们的口罩每个都要用两三天。我向他们表示了敬意，也希望他们和他们的家人安安康康。
 
-![]({{ site.url }}/assets/images/rose_city_donation_03252020.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/rose_city_donation_03252020)
 
 **【社区捐赠医疗物资活动进展3/24】** 很高兴看到社区个人和团体自发组织起来为本地医院捐献急需的物资，与此同时我们也一直在努力着，非常高兴告诉大家，我们已经订购了首批10,000个Halyard Fluidshield N95口罩。作为美国著名品牌，FDA 510K认证，内外包装，技术指标。。。都完全符合捐赠要求。此刻，我有很多话要说，但是我最想说的是，走到这一步真心的不易，过去一星期得到了无数（没有夸张）群友的支持，这次订货从联系货源，物流，清关，现场验货，资金预付完全依赖咱们本地群友提供的资源。我们不想证明什么，我们所做的一切只是为了那些为我们付出牺牲的医护人员，无论他们是在武汉孝感还是在波特兰尤金。
 

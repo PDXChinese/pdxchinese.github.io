@@ -9,10 +9,10 @@ date: "2023-06-17"
 
 A heartwarming incident occurred during yesterday's event that touched us deeply. A mother had misplaced her bag, which contained her phone, car keys, and most importantly, $600 in cash that she had borrowed from her cousin to pay her rent. She was in a state of desperation, and our hearts went out to her throughout the entire ordeal. One of our volunteers tirelessly called her phone until finally getting through to someone who had accidentally picked up her bag as a donation item. The emotional moment of the daughter speaking with the lady in possession of the bag brought tears to everyone's eyes. OCC assured the mother that we would send her a gift card to compensate for what she had gone through, as well as one for the lady who returned the bag with everything intact.
 
-![]({{ site.url }}/assets/images/355157159_251425647522525_3150926901563326076_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355157159_251425647522525_3150926901563326076_n)
 
-![]({{ site.url }}/assets/images/355243559_251425687522521_1711765503375595628_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355243559_251425687522521_1711765503375595628_n)
 
-![]({{ site.url }}/assets/images/355103000_251425637522526_2184171715944795270_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355103000_251425637522526_2184171715944795270_n)
 
-![]({{ site.url }}/assets/images/355115677_251425750855848_6183037427232732756_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/355115677_251425750855848_6183037427232732756_n)

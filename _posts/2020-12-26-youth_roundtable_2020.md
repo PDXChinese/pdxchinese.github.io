@@ -18,9 +18,9 @@ date: "2020-12-27"
 
 ### 圆桌会截屏
 
-![]({{ site.url }}/assets/images/roundtable_2020_1.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/roundtable_2020_1)
 
-![]({{ site.url }}/assets/images/roundtable_2020_2.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/roundtable_2020_2)
 
 
 ### 背景

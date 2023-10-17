@@ -11,98 +11,98 @@ date: "2023-02-05"
 
 At the invitation of Lakeridge High School AAPI Student Union, the community has put up a performance that consisted of best cultural elements for their inaugural Lunar New Year Festival last Sunday. "I've only heard positive responses from all who attended. A lot of people loved the drums and the energy they brought, and the performers from Hope were an amazing closer to the event!", as said by the SU leader Annabel Jackson.
 
-![]({{ site.url }}/assets/images/329481052_631958998690590_3683354905888767426_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329481052_631958998690590_3683354905888767426_n)
 
-![]({{ site.url }}/assets/images/329321684_3581841848712864_9140941873964539826_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329321684_3581841848712864_9140941873964539826_n)
 
-![]({{ site.url }}/assets/images/329262843_517742403826646_3217382971516857620_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329262843_517742403826646_3217382971516857620_n)
 
-![]({{ site.url }}/assets/images/329262477_918609982498158_6563613767689867399_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329262477_918609982498158_6563613767689867399_n)
 
-![]({{ site.url }}/assets/images/329393817_1211617996449989_3341547770792716290_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329393817_1211617996449989_3341547770792716290_n)
 
-![]({{ site.url }}/assets/images/329244320_867452781175881_687092103797506605_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329244320_867452781175881_687092103797506605_n)
 
-![]({{ site.url }}/assets/images/329677266_1324277538362105_2648902240017569334_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329677266_1324277538362105_2648902240017569334_n)
 
-![]({{ site.url }}/assets/images/329433857_1843006796067301_6899481959497936823_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329433857_1843006796067301_6899481959497936823_n)
 
-![]({{ site.url }}/assets/images/329276293_1514983365656083_949283439687172123_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329276293_1514983365656083_949283439687172123_n)
 
-![]({{ site.url }}/assets/images/329293799_505222885104470_2995309776775725904_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329293799_505222885104470_2995309776775725904_n)
 
-![]({{ site.url }}/assets/images/329256957_595789068552166_3691093266254886652_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329256957_595789068552166_3691093266254886652_n)
 
-![]({{ site.url }}/assets/images/329399562_499131442378544_3256914655717761974_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329399562_499131442378544_3256914655717761974_n)
 
-![]({{ site.url }}/assets/images/329326410_881557683176344_8589613882969916511_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329326410_881557683176344_8589613882969916511_n)
 
-![]({{ site.url }}/assets/images/329375689_589816922571500_7703870512109169459_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329375689_589816922571500_7703870512109169459_n)
 
-![]({{ site.url }}/assets/images/329433519_1560480084363970_5820291183659965607_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329433519_1560480084363970_5820291183659965607_n)
 
-![]({{ site.url }}/assets/images/329236484_3103626569782163_9126348555320794930_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329236484_3103626569782163_9126348555320794930_n)
 
-![]({{ site.url }}/assets/images/329352001_757101175756802_8468300455195503110_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329352001_757101175756802_8468300455195503110_n)
 
-![]({{ site.url }}/assets/images/329320076_1603914616776555_7548852196704099547_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329320076_1603914616776555_7548852196704099547_n)
 
-![]({{ site.url }}/assets/images/329232702_524157703148322_8585894073142102008_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329232702_524157703148322_8585894073142102008_n)
 
-![]({{ site.url }}/assets/images/329376108_558174069577947_236637955267336362_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329376108_558174069577947_236637955267336362_n)
 
-![]({{ site.url }}/assets/images/329262379_874596570522430_5560050758300227188_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329262379_874596570522430_5560050758300227188_n)
 
-![]({{ site.url }}/assets/images/329184094_564461685594091_3445776529730557302_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329184094_564461685594091_3445776529730557302_n)
 
-![]({{ site.url }}/assets/images/329234165_922179715581181_6306069348460472205_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329234165_922179715581181_6306069348460472205_n)
 
-![]({{ site.url }}/assets/images/329248215_1366583044125197_1603533449457062493_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329248215_1366583044125197_1603533449457062493_n)
 
-![]({{ site.url }}/assets/images/329358852_1898630230496133_6622032160247425095_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329358852_1898630230496133_6622032160247425095_n)
 
-![]({{ site.url }}/assets/images/329233018_5879399045487520_79675599337168905_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329233018_5879399045487520_79675599337168905_n)
 
-![]({{ site.url }}/assets/images/329388191_501066648841440_7694702920118166540_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329388191_501066648841440_7694702920118166540_n)
 
-![]({{ site.url }}/assets/images/329247762_1369464307177533_3253502514095709547_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329247762_1369464307177533_3253502514095709547_n)
 
-![]({{ site.url }}/assets/images/329347618_906350980503038_6310577548043028513_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329347618_906350980503038_6310577548043028513_n)
 
-![]({{ site.url }}/assets/images/329191255_480120180809322_7951944133944956268_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329191255_480120180809322_7951944133944956268_n)
 
-![]({{ site.url }}/assets/images/329262806_1129346587760474_1295660845594461434_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329262806_1129346587760474_1295660845594461434_n)
 
-![]({{ site.url }}/assets/images/329363010_1213935842882082_5589398764459133642_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329363010_1213935842882082_5589398764459133642_n)
 
-![]({{ site.url }}/assets/images/329327321_1245988853023112_8736898613399306932_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329327321_1245988853023112_8736898613399306932_n)
 
-![]({{ site.url }}/assets/images/329391695_1547155445783560_6984544250432080488_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329391695_1547155445783560_6984544250432080488_n)
 
-![]({{ site.url }}/assets/images/329262854_1509117549916360_8479899272867242673_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329262854_1509117549916360_8479899272867242673_n)
 
-![]({{ site.url }}/assets/images/329229523_1221214518789236_1813045185180218011_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329229523_1221214518789236_1813045185180218011_n)
 
-![]({{ site.url }}/assets/images/329320062_858429305347777_3659392654274446064_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329320062_858429305347777_3659392654274446064_n)
 
-![]({{ site.url }}/assets/images/329323875_6025521090832379_6326471886597571065_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329323875_6025521090832379_6326471886597571065_n)
 
-![]({{ site.url }}/assets/images/329323891_509338711315709_1871780164322213952_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329323891_509338711315709_1871780164322213952_n)
 
-![]({{ site.url }}/assets/images/329342402_1617761601997016_4465028289863984885_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329342402_1617761601997016_4465028289863984885_n)
 
-![]({{ site.url }}/assets/images/329254788_923488329009520_4307912749711537729_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329254788_923488329009520_4307912749711537729_n)
 
-![]({{ site.url }}/assets/images/329235832_1863982820668941_3737753887409093798_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329235832_1863982820668941_3737753887409093798_n)
 
-![]({{ site.url }}/assets/images/329320259_720740352896004_1067734420275740187_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329320259_720740352896004_1067734420275740187_n)
 
-![]({{ site.url }}/assets/images/329263748_974680786791957_3286291856585464114_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329263748_974680786791957_3286291856585464114_n)
 
-![]({{ site.url }}/assets/images/327896297_3464079690582182_704345958164957821_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/327896297_3464079690582182_704345958164957821_n)
 
-![]({{ site.url }}/assets/images/329229523_432914522323545_2535080213888176200_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329229523_432914522323545_2535080213888176200_n)
 
-![]({{ site.url }}/assets/images/329318554_1175079326711410_8503145723996938698_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329318554_1175079326711410_8503145723996938698_n)
 
-![]({{ site.url }}/assets/images/327556043_2418271081679864_1467820249092481078_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/327556043_2418271081679864_1467820249092481078_n)

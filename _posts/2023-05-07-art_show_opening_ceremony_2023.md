@@ -17,112 +17,112 @@ In the last two years, we have been together, for the freedom of Ukrainian peopl
 
 The joint art exhibition that we are opening today is a testament to the commitment between the Chinese American and Ukrainian communities to work together and support each other. As we come together to appreciate the beauty of our cultures, let us also remember the important work that we have done and will continue to do together.
 
-![]({{ site.url }}/assets/images/345442224_3380033512258180_5926186550691103986_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345442224_3380033512258180_5926186550691103986_n)
 
-![]({{ site.url }}/assets/images/345438739_952112219467563_5878301711802024909_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345438739_952112219467563_5878301711802024909_n)
 
-![]({{ site.url }}/assets/images/345309716_112548928501076_6454503060646180921_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345309716_112548928501076_6454503060646180921_n)
 
-![]({{ site.url }}/assets/images/345844276_201139769440875_1494547339814216001_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345844276_201139769440875_1494547339814216001_n)
 
-![]({{ site.url }}/assets/images/345210813_253370927096884_5271173980588974561_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345210813_253370927096884_5271173980588974561_n)
 
-![]({{ site.url }}/assets/images/345648799_1029409658027747_3442844701072218247_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345648799_1029409658027747_3442844701072218247_n)
 
-![]({{ site.url }}/assets/images/345435576_1623945678107589_5498617230143875806_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345435576_1623945678107589_5498617230143875806_n)
 
-![]({{ site.url }}/assets/images/345602199_633299588310966_8558577776909718387_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345602199_633299588310966_8558577776909718387_n)
 
-![]({{ site.url }}/assets/images/345439775_629147605383759_1586623742252848217_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345439775_629147605383759_1586623742252848217_n)
 
-![]({{ site.url }}/assets/images/345220608_1242872493000962_521225195008977668_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345220608_1242872493000962_521225195008977668_n)
 
-![]({{ site.url }}/assets/images/345261695_227237376613637_3189609101988201790_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345261695_227237376613637_3189609101988201790_n)
 
-![]({{ site.url }}/assets/images/345212067_1572409969923921_227639843605956015_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345212067_1572409969923921_227639843605956015_n)
 
-![]({{ site.url }}/assets/images/345201420_781782529932639_1632318868500506753_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345201420_781782529932639_1632318868500506753_n)
 
-![]({{ site.url }}/assets/images/345443257_116846041402158_255527802513444822_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345443257_116846041402158_255527802513444822_n)
 
-![]({{ site.url }}/assets/images/345223620_191218223808703_4863422175671680210_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345223620_191218223808703_4863422175671680210_n)
 
-![]({{ site.url }}/assets/images/345430532_747618136908334_4719479959926849182_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345430532_747618136908334_4719479959926849182_n)
 
-![]({{ site.url }}/assets/images/345435220_580398250868540_7402745117536492094_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345435220_580398250868540_7402745117536492094_n)
 
-![]({{ site.url }}/assets/images/345206419_6560473103985663_7430415901855497500_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345206419_6560473103985663_7430415901855497500_n)
 
-![]({{ site.url }}/assets/images/345448748_1401106864000619_6428685019735214965_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345448748_1401106864000619_6428685019735214965_n)
 
-![]({{ site.url }}/assets/images/345434863_805287877238317_5257501255990443101_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345434863_805287877238317_5257501255990443101_n)
 
-![]({{ site.url }}/assets/images/345272455_936209997612415_120869023109915389_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345272455_936209997612415_120869023109915389_n)
 
-![]({{ site.url }}/assets/images/345225869_1629751400819676_922840888259011778_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345225869_1629751400819676_922840888259011778_n)
 
-![]({{ site.url }}/assets/images/345915849_1396437651179677_9111734366752961073_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345915849_1396437651179677_9111734366752961073_n)
 
-![]({{ site.url }}/assets/images/345259757_230508983002231_4488914687547327295_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345259757_230508983002231_4488914687547327295_n)
 
-![]({{ site.url }}/assets/images/345257202_944049266909444_6753281884024723619_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345257202_944049266909444_6753281884024723619_n)
 
-![]({{ site.url }}/assets/images/346086231_548366887370673_2833129843154927741_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/346086231_548366887370673_2833129843154927741_n)
 
-![]({{ site.url }}/assets/images/345473654_787597176088588_2952494746068028875_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345473654_787597176088588_2952494746068028875_n)
 
-![]({{ site.url }}/assets/images/345445192_594572685767003_1664378996767445738_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345445192_594572685767003_1664378996767445738_n)
 
-![]({{ site.url }}/assets/images/345638754_938201670726237_7398288949650372822_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345638754_938201670726237_7398288949650372822_n)
 
-![]({{ site.url }}/assets/images/345925997_251259010722862_7702090131010135742_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345925997_251259010722862_7702090131010135742_n)
 
-![]({{ site.url }}/assets/images/345268091_151782957689762_4622152612597504981_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345268091_151782957689762_4622152612597504981_n)
 
-![]({{ site.url }}/assets/images/345626653_3337875959875389_3245857595750155978_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345626653_3337875959875389_3245857595750155978_n)
 
-![]({{ site.url }}/assets/images/345636700_1882586088781181_7247778742759399088_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345636700_1882586088781181_7247778742759399088_n)
 
-![]({{ site.url }}/assets/images/345274616_910622160219305_7483779473990559691_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345274616_910622160219305_7483779473990559691_n)
 
-![]({{ site.url }}/assets/images/346063303_198021899748484_4818167801900694290_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/346063303_198021899748484_4818167801900694290_n)
 
-![]({{ site.url }}/assets/images/345179799_6163620970386746_4117709365528178138_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345179799_6163620970386746_4117709365528178138_n)
 
-![]({{ site.url }}/assets/images/345433060_274149735039299_6180924694147518479_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345433060_274149735039299_6180924694147518479_n)
 
-![]({{ site.url }}/assets/images/345431813_748735220326291_1767605625981730328_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345431813_748735220326291_1767605625981730328_n)
 
-![]({{ site.url }}/assets/images/345438047_3116242992017166_1674463015811725770_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345438047_3116242992017166_1674463015811725770_n)
 
-![]({{ site.url }}/assets/images/345846579_203336132467718_2328641346639305571_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345846579_203336132467718_2328641346639305571_n)
 
-![]({{ site.url }}/assets/images/345217470_6724287010917744_4553729147700895828_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345217470_6724287010917744_4553729147700895828_n)
 
-![]({{ site.url }}/assets/images/345839359_189061637398665_972436730292091139_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345839359_189061637398665_972436730292091139_n)
 
-![]({{ site.url }}/assets/images/345258087_205930835534727_3265601292148863738_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345258087_205930835534727_3265601292148863738_n)
 
-![]({{ site.url }}/assets/images/345427118_1185924668746947_8923458160960510313_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345427118_1185924668746947_8923458160960510313_n)
 
-![]({{ site.url }}/assets/images/345264069_1735313983552529_4254348244446404104_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345264069_1735313983552529_4254348244446404104_n)
 
-![]({{ site.url }}/assets/images/345819978_790402892284590_6785653324366012310_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345819978_790402892284590_6785653324366012310_n)
 
-![]({{ site.url }}/assets/images/345317748_6064471810328940_8497106900501589420_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345317748_6064471810328940_8497106900501589420_n)
 
-![]({{ site.url }}/assets/images/345167364_170646822297670_8070014377430872058_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345167364_170646822297670_8070014377430872058_n)
 
-![]({{ site.url }}/assets/images/345434969_622694169429963_1418294802707050948_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345434969_622694169429963_1418294802707050948_n)
 
-![]({{ site.url }}/assets/images/345833110_6039639442799433_185570790502272350_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345833110_6039639442799433_185570790502272350_n)
 
-![]({{ site.url }}/assets/images/345208891_102302006200350_9029120121888091662_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345208891_102302006200350_9029120121888091662_n)
 
-![]({{ site.url }}/assets/images/345659711_631899655054270_6084188306337986262_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345659711_631899655054270_6084188306337986262_n)
 
-![]({{ site.url }}/assets/images/345265345_1870266966706832_7241613691074229433_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345265345_1870266966706832_7241613691074229433_n)
 
-![]({{ site.url }}/assets/images/345432878_217162851022175_7662380740887192281_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345432878_217162851022175_7662380740887192281_n)
 
 <iframe width="1280" height="724" src="https://www.youtube.com/embed/FxUR6MyZzZ8" title="Mandarin Narration for the Joint Art Show of the Chinese and Ukrainian Communities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

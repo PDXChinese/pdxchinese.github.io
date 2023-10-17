@@ -9,68 +9,68 @@ date: "2023-05-03"
 
 OCC's three performance teams participated in the first multicultural festival of Sherwood High School, showcasing their diverse cultures through music and dance. Despite the challenges of being in the middle of the week and some team members having AP tests that day, they persevered and put on a fantastic show. The performances, combined with those from other cultures, left the audience inspired and engaged throughout the event. (Photo credit: Zongyaowen)
 
-![]({{ site.url }}/assets/images/345061830_904544840637765_535292414053965795_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345061830_904544840637765_535292414053965795_n)
 
-![]({{ site.url }}/assets/images/345207376_157519157280310_5308032708509650109_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345207376_157519157280310_5308032708509650109_n)
 
-![]({{ site.url }}/assets/images/345424743_651302106822940_5592377646873928980_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345424743_651302106822940_5592377646873928980_n)
 
-![]({{ site.url }}/assets/images/345444775_1315340262381391_5257554883155174898_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345444775_1315340262381391_5257554883155174898_n)
 
-![]({{ site.url }}/assets/images/344563302_761593485347232_7879455196209932323_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/344563302_761593485347232_7879455196209932323_n)
 
-![]({{ site.url }}/assets/images/345216936_188117660804162_1390031982098679501_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345216936_188117660804162_1390031982098679501_n)
 
-![]({{ site.url }}/assets/images/345029367_4278382749052699_3179937908072106580_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345029367_4278382749052699_3179937908072106580_n)
 
-![]({{ site.url }}/assets/images/344832831_762941548604292_3421830902146600084_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/344832831_762941548604292_3421830902146600084_n)
 
-![]({{ site.url }}/assets/images/344923697_621115806259781_3678520564302724781_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/344923697_621115806259781_3678520564302724781_n)
 
-![]({{ site.url }}/assets/images/345218031_633608064952289_7307918257127718230_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345218031_633608064952289_7307918257127718230_n)
 
-![]({{ site.url }}/assets/images/345048293_1523266388478403_4038913714620522830_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345048293_1523266388478403_4038913714620522830_n)
 
-![]({{ site.url }}/assets/images/345197970_704564964758284_8157105616804668352_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345197970_704564964758284_8157105616804668352_n)
 
-![]({{ site.url }}/assets/images/345052385_931890531264998_7470790290484530746_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345052385_931890531264998_7470790290484530746_n)
 
-![]({{ site.url }}/assets/images/345248169_192860640297691_899441289988459183_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345248169_192860640297691_899441289988459183_n)
 
-![]({{ site.url }}/assets/images/345455818_192834523619687_5886265494619134981_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345455818_192834523619687_5886265494619134981_n)
 
-![]({{ site.url }}/assets/images/345170238_761649175442761_1063466628724772350_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345170238_761649175442761_1063466628724772350_n)
 
-![]({{ site.url }}/assets/images/344756862_1278366003107770_8028265373303143937_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/344756862_1278366003107770_8028265373303143937_n)
 
-![]({{ site.url }}/assets/images/344955088_207787232028698_3590263650904480191_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/344955088_207787232028698_3590263650904480191_n)
 
-![]({{ site.url }}/assets/images/345035723_1210761303136221_1369618451900553185_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345035723_1210761303136221_1369618451900553185_n)
 
-![]({{ site.url }}/assets/images/344561375_163976829669093_5923398583498496272_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/344561375_163976829669093_5923398583498496272_n)
 
-![]({{ site.url }}/assets/images/345251468_763085511929847_6982506920259453415_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345251468_763085511929847_6982506920259453415_n)
 
-![]({{ site.url }}/assets/images/345056275_130609500006780_6302007683293003944_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345056275_130609500006780_6302007683293003944_n)
 
-![]({{ site.url }}/assets/images/345278197_1846420882408017_3625768535451508914_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345278197_1846420882408017_3625768535451508914_n)
 
-![]({{ site.url }}/assets/images/345056030_206243772175249_6834820992285908990_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345056030_206243772175249_6834820992285908990_n)
 
-![]({{ site.url }}/assets/images/345048774_1806193979780360_2167808317354711910_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345048774_1806193979780360_2167808317354711910_n)
 
-![]({{ site.url }}/assets/images/344561295_1949866078684160_8556678934985058588_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/344561295_1949866078684160_8556678934985058588_n)
 
-![]({{ site.url }}/assets/images/344826360_911286410132058_3648597588236334816_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/344826360_911286410132058_3648597588236334816_n)
 
-![]({{ site.url }}/assets/images/345465294_284847140531813_2976830405027159858_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345465294_284847140531813_2976830405027159858_n)
 
-![]({{ site.url }}/assets/images/344277886_1378172712975189_6949525376595620623_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/344277886_1378172712975189_6949525376595620623_n)
 
-![]({{ site.url }}/assets/images/345476558_1433697510766765_6471073366267095011_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345476558_1433697510766765_6471073366267095011_n)
 
-![]({{ site.url }}/assets/images/345204771_923449122244532_5215448623009508334_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345204771_923449122244532_5215448623009508334_n)
 
-![]({{ site.url }}/assets/images/344809985_1321076341809807_2237224498108726304_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/344809985_1321076341809807_2237224498108726304_n)
 
-![]({{ site.url }}/assets/images/345024893_549411027391360_7596906139706737723_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345024893_549411027391360_7596906139706737723_n)

@@ -9,16 +9,16 @@ date: "2023-03-22"
 
 Thank you, Megan, Griffin and Barbara, for your generosity and trust to donate the artifacts you treasured to us. We love to hear the touching stories behind those artifacts. Together they become invaluable assets to the Chinese American community.
 
-![]({{ site.url }}/assets/images/336122753_523567263295318_5819826097948037976_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/336122753_523567263295318_5819826097948037976_n)
 
-![]({{ site.url }}/assets/images/336113285_210516878241281_7251215730382208196_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/336113285_210516878241281_7251215730382208196_n)
 
-![]({{ site.url }}/assets/images/335728322_965120361565582_6035587939904389606_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/335728322_965120361565582_6035587939904389606_n)
 
-![]({{ site.url }}/assets/images/335398523_889964555557147_1924430858356012960_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/335398523_889964555557147_1924430858356012960_n)
 
-![]({{ site.url }}/assets/images/336166447_1864698330553639_4416507427124528764_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/336166447_1864698330553639_4416507427124528764_n)
 
-![]({{ site.url }}/assets/images/335278284_1548785192199595_9082153100031928059_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/335278284_1548785192199595_9082153100031928059_n)
 
-![]({{ site.url }}/assets/images/336272930_1656010764853274_6735912918033425020_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/336272930_1656010764853274_6735912918033425020_n)

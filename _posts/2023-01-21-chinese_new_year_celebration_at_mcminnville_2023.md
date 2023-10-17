@@ -9,23 +9,23 @@ date: "2023-01-21"
 
 The dragon could fly high and far. On Saturday, it flew from PSU Farmers Market all the way to McMinnville, to say Happy New Year to the kids and parents in the celebration organized by Asian Heritage Association in Yamhill County.
 
-![]({{ site.url }}/assets/images/326750295_1390486915024810_8521027281442990969_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326750295_1390486915024810_8521027281442990969_n)
 
-![]({{ site.url }}/assets/images/326414768_450051190552017_375422983563226351_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326414768_450051190552017_375422983563226351_n)
 
-![]({{ site.url }}/assets/images/326775449_1427014438034659_7367822090325399375_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326775449_1427014438034659_7367822090325399375_n)
 
-![]({{ site.url }}/assets/images/326981105_2559281064237685_8672537488986845613_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326981105_2559281064237685_8672537488986845613_n)
 
-![]({{ site.url }}/assets/images/326730785_2104229903097571_4892563336584762525_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326730785_2104229903097571_4892563336584762525_n)
 
-![]({{ site.url }}/assets/images/326950124_720901062939580_4554523863636736532_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326950124_720901062939580_4554523863636736532_n)
 
-![]({{ site.url }}/assets/images/326795251_744936417196507_2694323563808218823_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326795251_744936417196507_2694323563808218823_n)
 
-![]({{ site.url }}/assets/images/326974363_546772340845574_7987278488548586835_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326974363_546772340845574_7987278488548586835_n)
 
-![]({{ site.url }}/assets/images/326669058_1232478394143293_827621519208795580_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326669058_1232478394143293_827621519208795580_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 

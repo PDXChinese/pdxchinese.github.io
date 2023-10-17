@@ -19,9 +19,9 @@ feature_row1:
 <br>
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/hYQRBRf0vsg" title="Ride with Seniors to Visit Lan Su Chinese Garden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
-![]({{ site.url }}/assets/images/342699477_241210718450578_282488543528299638_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/342699477_241210718450578_282488543528299638_n)
 <br>
-![]({{ site.url }}/assets/images/343204498_252309410638732_1019423205945033575_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/343204498_252309410638732_1019423205945033575_n)
 
 ### Albums
 

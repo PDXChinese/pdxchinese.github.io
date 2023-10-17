@@ -9,4 +9,4 @@ date: "2023-07-30"
 
 The US Wushu Center will represent US Wushu Team to compete in the 4th Pan American Kungfu & Taijiquan Championship/第四届泛美传统武术锦标赛. The team members proudly joined OCC No Smoking No Vaping Pledge before heading to Canada.
 
-![]({{ site.url }}/assets/images/364100992_273455421986214_636710387150791521_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/364100992_273455421986214_636710387150791521_n)

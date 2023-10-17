@@ -23,250 +23,250 @@ date: "2021-08-07"
 
 ## Programs On Stage
 
-![]({{ site.url }}/assets/images/2021chinese_festival_025.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_025)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_026.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_026)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_027.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_027)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_028.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_028)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_028a.JPEG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_028a)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_029.JPEG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_029)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_030.JPEG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_030)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_031.JPEG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_031)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_032.JPEG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_032)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_033.JPEG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_033)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_034.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_034)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_035.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_035)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_036.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_036)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_037.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_037)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_100.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_100)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_038.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_038)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_039.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_039)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_040.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_040)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_041.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_041)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_042.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_042)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_043.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_043)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_044.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_044)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_045.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_045)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_046.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_046)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_047.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_047)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_048.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_048)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_049.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_049)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_051a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_051a)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_052.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_052)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_053.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_053)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_054.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_054)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_055.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_055)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_056.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_056)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_057.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_057)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_058.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_058)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_059.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_059)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_060.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_060)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_061.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_061)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_062.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_062)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_063.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_063)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_064.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_064)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_065.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_065)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_066.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_066)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_067.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_067)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_068.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_068)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_105.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_105)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_069.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_069)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_070.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_070)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_071.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_071)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_072.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_072)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_073.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_073)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_074.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_074)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_075.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_075)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_076.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_076)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_077.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_077)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_078.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_078)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_079.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_079)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_103.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_103)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_104.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_104)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_101.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_101)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_080.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_080)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_081.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_081)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_081a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_081a)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_082.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_082)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_102.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_102)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_083.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_083)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_084.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_084)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_085a.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_085a)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_085c.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_085c)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_085d.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_085d)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_086.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_086)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_087.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_087)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_088.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_088)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_050.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_050)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_051.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_051)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_116.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_116)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_090.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_090)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_091.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_091)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_092.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_092)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_099.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_099)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_093.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_093)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_094.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_094)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_095.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_095)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_096.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_096)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_097.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_097)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_098.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_098)
 
 ## Artists
 
-![]({{ site.url }}/assets/images/2021chinese_festival_016.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_016)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_017.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_017)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_018.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_018)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_019.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_019)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_020.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_020)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_021.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_021)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_022.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_022)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_023.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_023)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_024.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_024)
 
 ## Food Vendors
 
-![]({{ site.url }}/assets/images/2021chinese_festival_001.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_001)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_002.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_002)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_003.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_003)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_004.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_004)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_005.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_005)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_006.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_006)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_007.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_007)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_008.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_008)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_009.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_009)
 
 ## Vaccination Clinic
 
-![]({{ site.url }}/assets/images/2021chinese_festival_010.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_010)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_011.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_011)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_012.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_012)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_013.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_013)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_014.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_014)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_015.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_015)
 
 ## KOIN 6 Live Interview on August 6
 
-![]({{ site.url }}/assets/images/2021chinese_festival_106.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_106)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_107.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_107)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_108.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_108)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_109.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_109)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_110.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_110)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_111.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_111)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_112.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_112)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_113.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_113)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_114.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_114)
 
-![]({{ site.url }}/assets/images/2021chinese_festival_115.JPG)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2021chinese_festival_115)

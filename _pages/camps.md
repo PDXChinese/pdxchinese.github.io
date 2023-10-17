@@ -52,12 +52,12 @@ The camps/tours open to all youth in the community. When the space is limited, p
 ## 2022.8.24 [PGE Sherwood Training Center](https://portlandgeneral.com/media-gallery/pge-line-crews-in-action)   
 ### Thanks to Zhunquin Wang, Coach of FTC Robotics Team 12808 RevAmped   
 
-![]({{ site.url }}/assets/images/301340220_1757199694652590_8689314536682204855_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/301340220_1757199694652590_8689314536682204855_n)
 
 ## 2022.8.25 [Autodesk Inc.](https://www.autodesk.com/)   
 ### Thanks to Hao Liu, Senior Thermal Performance Engineer, PGE   
 
-![]({{ site.url }}/assets/images/301819518_1757605304612029_8584307474485059155_n.jpg)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/301819518_1757605304612029_8584307474485059155_n)
 
 ## Recommended Tours
 
