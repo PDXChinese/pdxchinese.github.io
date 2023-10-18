@@ -43,9 +43,9 @@ Terresa White, TCPP Community Coordinator, led the effort earlier this year to d
 3）安装my chart 教使用方法  
 4）粮食卷预约的面试电话申请人没有接到。需要重新预约。打电话去无人接听已留言 需要follow up。  
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/WeChat Image_20231018091115)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/WeChat Image_20231018104625)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/WeChat Image_20231018091129)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/WeChat Image_20231018104616)
 
 【9/18】首次看家庭医生
 
