@@ -40,12 +40,12 @@ Terresa White, TCPP Community Coordinator, led the effort earlier this year to d
 
 1）10月16日早晨10点 去34街诊所复诊。已要求广东话翻译。免费接送车9:06-9:36会来接。11:10-11:30 医疗车去诊所接回家。  
 2）10月31日下午1点 物理治疗。已要求广东话翻译 诊所地址： 8028 NE Glisan St B Portland OR 97213 免费医疗接送车12:20-12:40上门接，2:20-2:50来接回家。  
-3）安装my chart 教使用方法  
-4）粮食卷预约的面试电话申请人没有接到。需要重新预约。打电话去无人接听已留言 需要follow up。  
+3）安装 My Chart, 教使用方法  
+4）处理福利申请的面试  
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/WeChat Image_20231018104625)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/392883935_316114451053644_3496064631728620611_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/WeChat Image_20231018104616)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/392936717_316114534386969_7960201825299922642_n)
 
 【9/18】首次看家庭医生
 
