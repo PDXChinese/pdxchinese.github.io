@@ -1,11 +1,11 @@
 ---
-title: "与乌克兰社区和拉丁裔社区站在一起"
+title: "与乌克兰社区和拉丁裔社区在一起"
 author: XiBei Zhao
 excerpt: "昨天，我们很荣幸能够参与在Westmoreland举行的乌克兰日活动以及在Hillsboro举行的返校日活动，与乌克兰社区和拉丁裔社区站在一起，感到非常自豪。"
 date: "2023-08-27"
 ---
 
-昨天，我们很荣幸能够参与在Westmoreland举行的乌克兰日活动以及在Hillsboro举行的返校日活动，与乌克兰社区和拉丁裔社区站在一起，感到非常自豪。
+昨天，我们很荣幸能够参与在Westmoreland举行的乌克兰日活动以及在Hillsboro举行的返校日活动，与乌克兰社区和拉丁裔社区在一起，感到非常荣幸与自豪。
 
 We took pride in standing alongside the Ukrainian and Latino communities by participating in Ukrainian Day in Westmoreland and Back to School event in Hillsboro yesterday.
 
