@@ -9,4 +9,4 @@ date: "2023-08-25"
 
 We are deeply honored to have received a generous donation today from Ms. Whitcher. Her collection of Chinese paintings and publications from the 1970s in China is truly remarkable. It is heartening to see such a profound appreciation for our culture within the community, especially during a time when racial hate crimes continue to be a concern.
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/392813792_313916021273487_2030876140995395125_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/370183311_287038020627954_2760753543653395865_n)
