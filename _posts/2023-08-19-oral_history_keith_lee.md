@@ -1,42 +1,26 @@
 ---
-title: "口述历史访问邱永乐医生"
+title: "口述历史访问飞虎队后代"
 author: XiBei Zhao
-excerpt: "Dr. Khoo 是华人社区中备受尊崇的社区领袖，他在80年代和90年代赢得了这一声誉。凭借他的智慧、奉献精神和对保护中华文化的专注，他取得了卓越的成就，巩固了他在社区中的传奇地位。他的显著成就中包括了当时全美第一大的唐人街牌楼和被纳入波特兰市玫瑰节的龙舟赛，它们成为了他所作贡献的永久象征。此外，蓝苏中国园的实现很大程度上归功于他不懈的努力和远见。"
-date: "2023-07-23"
+excerpt: "Youth Lens 有幸访问到 Keith Lee 和 Fay Lee，他们是原飞虎队杰出成员 Pal On Lee 的儿子。我们由衷感谢 Keith 慷慨地与我们分享他的故事和收藏。我们也要感谢 Fay，因为他为我们介绍了更多的年长华人接受我们的采访。"
+date: "2023-08-19"
 ---
 
-Dr. Khoo 是华人社区中备受尊崇的社区领袖，他在80年代和90年代赢得了这一声誉。凭借他的智慧、奉献精神和对保护中华文化的专注，他取得了卓越的成就，巩固了他在社区中的传奇地位。他的显著成就中包括了当时全美第一大的唐人街牌楼和被纳入波特兰市玫瑰节的龙舟赛，它们成为了他所作贡献的永久象征。此外，蓝苏中国园的实现很大程度上归功于他不懈的努力和远见。
+Youth Lens 有幸访问到 Keith Lee 和 Fay Lee，他们是原飞虎队杰出成员 Pal On Lee 的儿子。我们由衷感谢 Keith 慷慨地与我们分享他的故事和收藏。我们也要感谢 Fay，因为他为我们介绍了更多的年长华人接受我们的采访。
 
-Dr. Khoo was a highly esteemed community leader within the Chinese American community, a reputation he earned during the 80s and 90s. Through his wisdom, dedication, and focus on preserving Chinese American culture, he achieved remarkable milestones, solidifying his legendary status within the community. Notable among his direct accomplishments were the Chinatown Gate and Dragon Boat Race, which stand as enduring symbols of his contributions. Moreover, the realization of the Lan Su Chinese Garden owes much to his relentless efforts and vision.
+The Youth Lens had the privilege of sitting down for a conversation with Keith Lee and Fay Lee, the sons of Pal On Lee, a distinguished member of the original Flying Tigers. We extend our heartfelt gratitude to Keith for generously sharing his story and collections with us. We would also like to express our appreciation to Fay for introducing us to more elderly Chinese Americans for our interviews.
 
-<iframe width="2135" height="1200" src="https://www.youtube.com/embed/djHA8R9jov8" title="Real People, Real Stories | Eng Lock Khoo | OCC Youth Lens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="2135" height="1200" src="https://www.youtube.com/embed/7bsrbFYPU04" title="Real People, Real Stories | Keith Lee | OCC Youth Lens (enhanced audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_01)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/393813357_316388574359565_8732253965940126040_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_02)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/393776790_316388804359542_4221012615882945579_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_03)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/392945701_316388477692908_3382029082045707220_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_04)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/393365165_316388414359581_5994329361646700134_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_05)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/393338494_316388424359580_2455599793631697111_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_06)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_07)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_08)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_09)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_10)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_11)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_12)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_13)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/dr_khoo_interview_14)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/393015338_316388661026223_1628386748115855925_n)
