@@ -13,7 +13,7 @@ The Youth Lens had the privilege of sitting down for a conversation with Keith L
 
 <br>
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/393813357_316388574359565_8732253965940126040_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/393813357_316388574359565_8732253965940126040_n.jpg)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/393776790_316388804359542_4221012615882945579_n)
 
