@@ -61,6 +61,8 @@ Thanks to the generosity of Suzhou artist Shirakawa, we are in the process of es
 
 Arrangements for pickup or shipment will be made through mutual agreement. Payments can be made to OCC using the methods outlined on the [OCC Donate page](https://pdxchinese.org/communityfund/).
 
+*Attention to OCC student organizations: You can receive 1/3 of sales when you assist with any sales. This money can only be used for the organization's activities.*
+
 Below are the featured auction items from 2021 to showcase Shirakawa's artistic mastery.
 
 {% include feature_row id="feature_row2"%}
