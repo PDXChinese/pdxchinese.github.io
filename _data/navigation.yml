@@ -24,8 +24,8 @@ extra:
     children:
       - title: "<b>:: Community ::</b>"
         url:
-      - title: "Charity Auction"
-        url: /auction/
+      - title: "Art Gallery"
+        url: /gallery/
       - title: "Go Vote"
         url: /vote_matters/
       - title: "Health Initiative"

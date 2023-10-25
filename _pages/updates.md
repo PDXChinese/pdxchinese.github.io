@@ -3,7 +3,7 @@ title: ""
 permalink: /updates/
 ---
 
-# <code style="color:blue">近期年度活动/Recent Annual Events</code>
+# <code style="color:red">近期年度活动/Recent Annual Events</code>
 
 ### 更换中国城灯笼/Replacing Red Lanterns in Chinatown
 
@@ -16,7 +16,7 @@ permalink: /updates/
 Place: Multiple drop-off locations across State of Oregon
 Register To join, please [register here](https://docs.google.com/forms/d/e/1FAIpQLSdrA8gtPEE5_7kHLy67J5aQJpBaAxnMR-nlSZLc9KiupzaE_A/viewform?usp=sf_link).
 
-# <code style="color:blue">常年活动/Year Around Activities</code>
+# <code style="color:red">常年活动/Year Around Activities</code>
 
 ### 口述历史/Oral History： 我的生活，我的故事/Real People, Real Story
 
@@ -63,4 +63,4 @@ Please [contact us](https://pdxchinese.org/contact/) for information on the avai
 
 **********
 
-# <code style="color:blue">来自社区伙伴的信息/Reachout from Community Partners</code>
+# <code style="color:red">来自社区伙伴的信息/Reachout from Community Partners</code>
