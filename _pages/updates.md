@@ -3,16 +3,16 @@ title: ""
 permalink: /updates/
 ---
 
-# <code style="color:orangered">近期年度活动 / Recent Annual Events</code>
+# <code style="color:blue">近期年度活动/Recent Annual Events</code>
 
-<code style="color:orangered">更换中国城灯笼/Replacing Red Lanterns in Chinatown</code>
+### 更换中国城灯笼/Replacing Red Lanterns in Chinatown
 
-**Place:** 209, NW 3rd Ave., Chinatown, Portland
-**Date:** 11/18/2023 (tentative depending on weather), 10am-1pm
+**Place:** 209, NW 3rd Ave., Chinatown, Portland  
+**Date:** 11/18/2023 (tentative depending on weather), 10am-1pm  
 
-# <code style="color:orangered">常年活动 / Year Around Activities</code>
+# <code style="color:blue">常年活动/Year Around Activities</code>
 
-### 口述历史 / Oral History： 我的生活，我的故事 / Real People, Real Story
+### 口述历史/Oral History： 我的生活，我的故事/Real People, Real Story
 
 详情/Details：[https://pdxchinese.org/youthlens/](https://pdxchinese.org/youthlens/)
 
@@ -21,7 +21,7 @@ permalink: /updates/
 
 ******
 
-### 庇护所提供晚餐活动 / Meal Provider for the Clark Center
+### 庇护所提供晚餐活动/Meal Provider for the Clark Center
 
 **Date:** Every 2nd Sunday 5:30pm-7pm  
 **Place:** The Clark Center by Transition Projects 请参加《OCC庇护所晚餐微信群》  
@@ -30,7 +30,7 @@ permalink: /updates/
 
 ******
 
-### 兰苏园汉语角 / Chinese Conversation Table
+### 兰苏园汉语角/Chinese Conversation Table
 
 **Date:** Every Sunday 2pm-4pm （April-September)  
 **Place:** Lan Su Chinese Garden 请参加《兰苏园之友微信群》  
@@ -47,7 +47,7 @@ permalink: /updates/
 
 ******
 
-### OCC参加或赞助文化活动 / OCC Sponsored or Participated Cultural Activities
+### OCC参加或赞助文化活动/OCC Sponsored or Participated Cultural Activities
 
 Please [contact us](https://pdxchinese.org/contact/) for information on the availability of programs offerred by OCC and other community groups.
 
@@ -57,4 +57,4 @@ Please [contact us](https://pdxchinese.org/contact/) for information on the avai
 
 **********
 
-# <code style="color:orangered">来自社区伙伴的信息 / Reachout from Community Partners</code>
+# <code style="color:blue">来自社区伙伴的信息/Reachout from Community Partners</code>
