@@ -10,6 +10,12 @@ permalink: /updates/
 **Place:** 209, NW 3rd Ave., Chinatown, Portland  
 **Date:** 11/18/2023 (tentative depending on weather), 10am-1pm  
 
+### [6th Annual Communitywide Winter Drive](https://pdxchinese.org/winterdrive/)
+
+**Date:** November 19, 2023 Sunday, 1:00 pm - 4:00 pm
+Place: Multiple drop-off locations across State of Oregon
+Register To join, please [register here](https://docs.google.com/forms/d/e/1FAIpQLSdrA8gtPEE5_7kHLy67J5aQJpBaAxnMR-nlSZLc9KiupzaE_A/viewform?usp=sf_link).
+
 # <code style="color:blue">常年活动/Year Around Activities</code>
 
 ### 口述历史/Oral History： 我的生活，我的故事/Real People, Real Story
