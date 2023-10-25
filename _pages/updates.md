@@ -5,6 +5,11 @@ permalink: /updates/
 
 # 近期年度活动 / Recent Annual Events
 
+更换中国城灯笼/Replacing Red Lanterns in Chinatown
+
+Place: 209, NW 3rd Ave., Chinatown, Portland
+Date: 11/18/2023 (tentative depending on weather), 10am-1pm
+
 # 常年活动 / Year Around Activities
 
 ### 口述历史 / Oral History： 我的生活，我的故事 / Real People, Real Story
@@ -19,17 +24,26 @@ permalink: /updates/
 ### 庇护所提供晚餐活动 / Meal Provider for the Clark Center
 
 **Date:** Every 2nd Sunday 5:30pm-7pm  
-**Place:** The Clark Center by Transition Projects 请参加《OCC庇护所晚餐群》  
+**Place:** The Clark Center by Transition Projects 请参加《OCC庇护所晚餐微信群》  
 
 [报名链接/Registration](https://signup.com/client/invitation2/secure/114701245205736806/false#/invitation)
 
 ******
 
+### 兰苏园汉语角 / Chinese Conversation Table
+
+**Date:** Every Sunday 2pm-4pm （April-September)  
+**Place:** Lan Su Chinese Garden 请参加《兰苏园之友微信群》  
+
+[报名链接/Registration](https://signup.com/go/Cmnbbhf)
+
+******
+
 ### [带老人游园活动/Take the Seniors to the Garden](https://pdxchinese.org/ridewseniors/)
 
-**Date:** Every 4th Thursday  
+**Date:** Every 4th Thursday (April-September)  
 **Time:** Pick up at 10am and return by 1pm  
-**Place:** [Kirkland Union Manors](https://theunionmanors.org/kirkland-union-manors/) and [Lan Su Chinese Garden](https://lansugarden.org/)  
+**Place:** Kirkland Union Manors, Marshall Union Manors and Rose Schnitzer Tower  
 
 ******
 
@@ -44,25 +58,3 @@ Please [contact us](https://pdxchinese.org/contact/) for information on the avai
 **********
 
 # 来自社区伙伴的信息 / Reachout from Community Partners
-
-### 水资源调查
-
-PSU的一个项目Oregon's Kitchen Table （OKT）和 Oregon Department of Water Resources合作进行全州的water resource的调查，邀请OCC在社区收集问卷调查。水资源和质量关系到千家万户，这是一个很好的机会表达自己的声音。凡是Oregon居民都可以参加问卷调查，提交截至日期2023年6月15日，根据PSU的要求和指定，**如果希望得到礼品卡，需要在问题16的对话框注明”OCC sent me this“，以及你的电子邮件地址（如果希望收到电子卡），或者住址（如果希望收到Physical gift card），虽然问题16的问题和这个说明无关。标明 “OCC sent me link“ 的前50名参加问卷调查的居民可以得到25美金的礼品卡。欢迎大家踊跃参加。**
-
-[中文调查链接](https://bit.ly/435am5V), [English](https://bit.ly/oregonswater)
-
-中英文填写一次即可，希望认真填写，重复提交的调查会被剔除。
-
-### 2023 Regional Campaign to Map Urban Heat Islands
-
-OCC 收到Multnomah，Clackmas and Washignton County 的邀请，希望在社区招募 ”2023 Regional Campaign to Map Urban Heat Islands” volunteer, 详情见下。高中生和成年人可以参与。可以算作Volunteer Hour，还有100美元Incentive
-
-Highlights：
-Helping to Identify the areas most impacted on the hot days in Multnomah County
-Participating in an hour in person lunch and learn training about the campaign data collection day
-Earning $100 intensive for participating in campaign day activities in Mid July. All of the hours can be counted as volunteer hours as well. 
-
-Time commitment：The training will be June 15 (in-person, food provided, preference for people to attend this if possible) and June 22 (virtual, back-up option) in the evening; All volunteers are eligible for the $100 incentive and we can also offer volunteer hour sign-off in addition. We are hoping folks will be available for (3) one hour shifts during one day (morning, afternoon, and evening) but will also accept volunteers that can only be available for one or two of the shifts as well. Maximum time commitment appx. 4 hours, minimum time commitment appx. 2 hours. But there will be a bit of time involved in picking up their equipment and dropping it off the day of so maybe add an additional hour or so.
-
-For details， please check [here](https://www.washingtoncountyor.gov/public-health/urban-heat-island-mapping-campaign)
-or go directly to [sign-up form](https://docs.google.com/forms/d/e/1FAIpQLSeUdBIdteDioaIGaB30yMnJPdiKHheMLzDLqvCCbW3A1I1T2w/viewform).
