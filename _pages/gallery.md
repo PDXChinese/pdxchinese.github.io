@@ -55,13 +55,13 @@ feature_row6:
     excerpt: "<p>Tibetan. 布面油画，不带框，60 × 70 cm. Oil on canvas, from $380. Authored and donated by Shirakawa (顾更青).</p>"
 ---
 
-# <code style="color:green">社区公益画廊/Community Charity Gallery</code>
+# <code style="color:green">社区公益画廊/Community Art Gallery</code>
 
-Thanks to the generosity of Suzhou artist Shirakawa, we are in the process of establishing this online gallery. People from around the world will have the opportunity to enjoy his artworks. Artwork can be purchased at a fixed price, and there will be no administrative costs or commissions for OCC. 100% of the proceeds will go to the OCC community fund, with a portion possibly directed to Lan Su Chinese Garden.
+Thanks to the generosity of Suzhou artist Shirakawa, we are in the process of establishing this online gallery. People from around the world will have the opportunity to enjoy his artworks. Artwork can be purchased at the listed price, and there will be no administrative costs or commissions for OCC. 100% of the proceeds will go to the OCC community fund, with a portion directed to Lan Su Chinese Garden.
 
 Arrangements for pickup or shipment will be made through mutual agreement. Payments can be made to OCC using the methods outlined on the [OCC Donate page](https://pdxchinese.org/communityfund/).
 
-*Attention to OCC student organizations: You can receive 1/3 of sales when you assist with any sales. This money can only be used for the organization's activities.*
+*Attention to student organizations (OCC youth teams, registered student clubs, nonprofits): You can receive 1/3 of sales when you assist with any sales. This money can only be used for the group's activities.*
 
 Below are the featured auction items from 2021 to showcase Shirakawa's artistic mastery.
 
