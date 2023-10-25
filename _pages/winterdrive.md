@@ -5,9 +5,9 @@ permalink: /winterdrive/
 
 <p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/winter_drive_banner"></p>  
 
-# 2022 Community Winter Drive  
-**Date:** November 20, 2022 Sunday, 1:00 pm - 4:00 pm  
-**Place:** Tentatively 9 drop off locations across State of Oregon  
+# 2023 Community Winter Drive  
+**Date:** November 19, 2023 Sunday, 1:00 pm - 4:00 pm  
+**Place:** Multiple locations across State of Oregon  
 **Register** To join, please **[register here](https://docs.google.com/forms/d/e/1FAIpQLSdrA8gtPEE5_7kHLy67J5aQJpBaAxnMR-nlSZLc9KiupzaE_A/viewform?usp=sf_link)**.  
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DDGcnMkl_hOzU-W7GuZiZ8RI-FF91bFS" width="640" height="480"></iframe>
@@ -23,59 +23,19 @@ permalink: /winterdrive/
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/winter_drive_2022_se_english) | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://www.google.com/maps/place/%E7%A5%A5%E5%8F%91%E8%B6%85%E5%B8%82/@45.5046919,-122.5784504,17.63z/data=!4m5!3m4!1s0x0:0x64e85b424c469026!8m2!3d45.5044216!4d-122.5775423) | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/winter_drive_2022_sw) | :eight: [Hamilton Park, Bridlemile, SW Portland](https://www.google.com/maps/place/Hamilton+City+Park,+Portland,+OR+97221/@45.4917709,-122.7220884,15z/data=!4m5!3m4!1s0x0:0xf0e5b71c4defafee!8m2!3d45.4917709!4d-122.7220884) | |
 
-**[2022 OCC Donation Receipt](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/occ_donation_receipt_2022)**
+**[2023 OCC Donation Receipt](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/occ_donation_receipt_2022)**
 
 ## Student Volunteers
 
 | Name/Drop Off Location | School/Organization |
 | --- | --- |
 | :one: [Sunset High School](https://www.google.com/maps/place/Sunset+High+School/@45.5281211,-122.8205103,15z/data=!4m2!3m1!1s0x0:0xee13c5fd283ea1a8?ved=2ahUKEwj2-Mi2udPeAhVKyFQKHigh SchoolB5DhAQ_BIwCnoECAUQCA) | |
-| Andrik Chan | ChildsWork |
-| Michael Fu | Sunset High School |
-| Aidan Gao | Sunset High School |
-| Aaron Guo | Sunset High School |
-| Joanna Mei | Sunset High School |
-| Sophia Wang | Sunset High School |
 | :two: [Stoller Middle School](https://www.google.com/maps/place/Stoller+Middle+School/@45.557277,-122.822358,15z/data=!4m2!3m1!1s0x0:0x8ed51b34f0447f22?ved=2ahUKEwj43-zdudPeAhVO7VQKHe5DBqkQ_BIwD3oECAYQCA) | |
-| Melvin Bao | Tumwater Middle School |
-| Monica Bao | BASE |
-| Katie Jin | Catlin Gabel |
-| Leon Liu | Catlin Gabel |
-| Jayden Mei | Tumwater Middle School |
-| Ethan Wang |  Westview High School |
-| Zhunquin Wang | Stoller Middle School |
-| Justin Xia | Catlin Gabel |
-| Eric Zhao | Tumwater Middle School |
-| Alan Zhuang | Stoller Middle School |
 | :three: Bethany Village | [QFC parking lot](https://www.google.com/maps/place/Walgreens/@45.555242,-122.836414,17.25z/data=!4m5!3m4!1s0x0:0x13e6b71d8ca8bcde!8m2!3d45.5551922!4d-122.8352382) |
-| Joyce | Bonny Slope Elementary |
-| Junwei Li | Goodtime Chinese School |
-| Alexander Pi | Catlin Gabel |
-| MS | Bonny Slope Elementary |
 | :four: [Lake Oswego High School](https://www.google.com/maps/place/Westlake+Park/@45.4240433,-122.738775,16z/data=!4m5!3m4!1s0x0:0xf92db3a1fa94a97e!8m2!3d45.4253979!4d-122.726774) | |
-| Lola Litofe | St Mary’s Academy |
-| Qinglu Xu |  Lake Oswego High School |
-| Alexis Zou | Lake Oswego High School |
 | :five: [Forest Park Elementary School](https://www.google.com/maps/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
-| Ming Che | Westview High School |
-| Eric Chen | ACCESS Academy |
-| Jenny Chen | Lincoln High School |
-| Anthony Qin | Westview High School |
-| Ethan Qin | Westview High School |
-| Zhi Qu | OES |
-| Zong Qu | CGS |
-| Austin Yan | Lincoln High School |
-| Ethan Zhang | Westview High School |
-| Lucas Zhang | Catlin Gabel |
-| Jerry Zhou | OES |
-| Ziyu Zhu | Lincoln High School |
 | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://www.google.com/maps/place/%E7%A5%A5%E5%8F%91%E8%B6%85%E5%B8%82/@45.5046919,-122.5784504,17.63z/data=!4m5!3m4!1s0x0:0x64e85b424c469026!8m2!3d45.5044216!4d-122.5775423) | |
-| Xiaohui Chen | Parent |
-| Maggie Qian* | Abernathy Elementary |
-| Dick Lee | Parent |
 | :eight: [Hamilton Park](https://www.google.com/maps/place/Hamilton+City+Park,+Portland,+OR+97221/@45.4917709,-122.7220884,15z/data=!4m5!3m4!1s0x0:0xf0e5b71c4defafee!8m2!3d45.4917709!4d-122.7220884) | |
-| Oscar | Bridlemile Elementary |
-| Jasper | Bridlemile Elementary |
 
 *Use parent names for elementary students
 
