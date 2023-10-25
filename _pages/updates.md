@@ -5,12 +5,12 @@ permalink: /updates/
 
 # <code style="color:orangered">近期年度活动 / Recent Annual Events</code>
 
-### 更换中国城灯笼/Replacing Red Lanterns in Chinatown
+<code style="color:orangered">更换中国城灯笼/Replacing Red Lanterns in Chinatown</code>
 
 **Place:** 209, NW 3rd Ave., Chinatown, Portland
 **Date:** 11/18/2023 (tentative depending on weather), 10am-1pm
 
-# 常年活动 / Year Around Activities
+# <code style="color:orangered">常年活动 / Year Around Activities</code>
 
 ### 口述历史 / Oral History： 我的生活，我的故事 / Real People, Real Story
 
@@ -57,4 +57,4 @@ Please [contact us](https://pdxchinese.org/contact/) for information on the avai
 
 **********
 
-# 来自社区伙伴的信息 / Reachout from Community Partners
+# <code style="color:orangered">来自社区伙伴的信息 / Reachout from Community Partners</code>
