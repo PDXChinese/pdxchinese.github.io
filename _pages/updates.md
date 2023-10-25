@@ -3,12 +3,12 @@ title: ""
 permalink: /updates/
 ---
 
-# 近期年度活动 / Recent Annual Events
+# <code style="color:orangered">近期年度活动 / Recent Annual Events</code>
 
-更换中国城灯笼/Replacing Red Lanterns in Chinatown
+### 更换中国城灯笼/Replacing Red Lanterns in Chinatown
 
-Place: 209, NW 3rd Ave., Chinatown, Portland
-Date: 11/18/2023 (tentative depending on weather), 10am-1pm
+**Place:** 209, NW 3rd Ave., Chinatown, Portland
+**Date:** 11/18/2023 (tentative depending on weather), 10am-1pm
 
 # 常年活动 / Year Around Activities
 
