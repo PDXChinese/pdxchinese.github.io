@@ -27,6 +27,8 @@ Once the documentation is received via email ([volunteer@pdxchinese.org](mailto:
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/pvsa_award)
 
+## [PVSA Application Instruction](/assets/pdf/PVSA_Application_Instruction_v2023.pdf)
+
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 # How We Organize Volunteer Activities?
