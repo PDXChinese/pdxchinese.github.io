@@ -27,9 +27,8 @@ Once the documentation is received via email ([volunteer@pdxchinese.org](mailto:
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/pvsa_award)
 
-## [PVSA Application Instruction](/assets/pdf/PVSA_Application_Instruction_v2023.pdf)
-
-## [PVSA Honorees](https://pdxchinese.org/pvsa/)
+[PVSA Application Instruction](/assets/pdf/PVSA_Application_Instruction_v2023.pdf)  
+[Current and past PVSA honorees](https://pdxchinese.org/pvsa/)  
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
@@ -43,12 +42,8 @@ We also have a few special WeChat groups for specific volunteer activities, incl
 
 # More Resources
 
-[Ten-Plus Kid-Friendly Volunteer Opportunities in Portland](http://www.pdxparent.com/family-friendly-volunteering-portland/)
-
-[More Volunteering Opportunities for Teens and Help for Getting Ready](https://multcolib.org/teens/job-help-teens)
-
-[HandsOn Greater Portland](https://www.handsonportland.org/)
-
-[The Complete List of Community Service Scholarships](https://blog.prepscholar.com/community-service-scholarships-complete-list)
-
-[How People Can Help Charities Remotely](https://www.ireviews.com/remote-volunteer-opportunities/)
+[Ten-Plus Kid-Friendly Volunteer Opportunities in Portland](http://www.pdxparent.com/family-friendly-volunteering-portland/)  
+[More Volunteering Opportunities for Teens and Help for Getting Ready](https://multcolib.org/teens/job-help-teens)  
+[HandsOn Greater Portland](https://www.handsonportland.org/)  
+[The Complete List of Community Service Scholarships](https://blog.prepscholar.com/community-service-scholarships-complete-list)  
+[How People Can Help Charities Remotely](https://www.ireviews.com/remote-volunteer-opportunities/)  
