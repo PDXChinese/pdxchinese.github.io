@@ -17,7 +17,7 @@ OCC has been approved as an official Certifying Organization for The President's
 
 To be qualified as a volunteer for PVSA awards under OCC, you will have to (1) meet the [requirements by PVSA](https://presidentialserviceawards.gov/eligibility) **AND** (2) fill out and sign OCC's [PVSA Volunteer Supplemental Form](https://docs.google.com/forms/d/e/1FAIpQLSdn2_Mz3uZ6ghY64BRqC696LkbrRbGoJEH2eRUdX33zT_Fedw/viewform?c=0&w=1).
 
-You will be responsible for recording hours after each volunteer activity. Also please keep the volunteer hour logs for future verification. OCC provides you an [hour log sheet](https://res.cloudinary.com/dhngj18do/pdf/volunteer_hour_log_sheet.pdf) for your convenience.
+You will be responsible for recording hours after each volunteer activity. Also please keep the volunteer hour logs for future verification. OCC provides you an [hour log sheet](https://res.cloudinary.com/dhngj18do/image/upload/v1698644790/pdf/volunteer_hour_log_sheet.pdf) for your convenience.
 
 What counts as volunteer hours? We recommend a few online articles ([No.1](https://www.realizedworth.com/2018/07/19/what-counts-as-volunteer-time/), [No.2](https://lcl.okstate.edu/volunteer/what-counts-service-hours.html), [No.3](http://www.gscwm.org/content/dam/girlscouts-gscwm/documents/GSCWM%20guidelines%20for%20Hours%20for%20PVSA.pdf)) for your reference. Even though we request supervisor's signature and possible hour log verification, it is still up to the volunteers themselves to report hours with the highest level of integrity.
 
