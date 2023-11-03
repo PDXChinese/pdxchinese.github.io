@@ -35,6 +35,7 @@ permalink: /winterdrive/
 | :three: Bethany Village | [QFC parking lot](https://www.google.com/maps/place/Walgreens/@45.555242,-122.836414,17.25z/data=!4m5!3m4!1s0x0:0x13e6b71d8ca8bcde!8m2!3d45.5551922!4d-122.8352382) |
 | :four: [Lake Oswego High School](https://www.google.com/maps/place/Westlake+Park/@45.4240433,-122.738775,16z/data=!4m5!3m4!1s0x0:0xf92db3a1fa94a97e!8m2!3d45.4253979!4d-122.726774) | |
 | :five: [Forest Park Elementary School](https://www.google.com/maps/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
+| Jenny Chen | Lincoln High School | 
 | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://www.google.com/maps/place/%E7%A5%A5%E5%8F%91%E8%B6%85%E5%B8%82/@45.5046919,-122.5784504,17.63z/data=!4m5!3m4!1s0x0:0x64e85b424c469026!8m2!3d45.5044216!4d-122.5775423) | |
 | :eight: [Hamilton Park](https://www.google.com/maps/place/Hamilton+City+Park,+Portland,+OR+97221/@45.4917709,-122.7220884,15z/data=!4m5!3m4!1s0x0:0xf0e5b71c4defafee!8m2!3d45.4917709!4d-122.7220884) | |
 
