@@ -22,6 +22,7 @@ permalink: /winterdrive/
 | | :six: [Woodstock Elementary, SE Portland](https://www.google.com/maps/@45.4826914,-122.6113733,3a,75y,345.06h,103.47t/data=!3m6!1e1!3m4!1sB68Lfe4g0Fuzlo0V6pfItQ!2e0!7i16384!8i8192) | On south side of the building |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/winter_drive_2022_se_english) | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://www.google.com/maps/place/%E7%A5%A5%E5%8F%91%E8%B6%85%E5%B8%82/@45.5046919,-122.5784504,17.63z/data=!4m5!3m4!1s0x0:0x64e85b424c469026!8m2!3d45.5044216!4d-122.5775423) | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/winter_drive_2022_sw) | :eight: [Hamilton Park, Bridlemile, SW Portland](https://www.google.com/maps/place/Hamilton+City+Park,+Portland,+OR+97221/@45.4917709,-122.7220884,15z/data=!4m5!3m4!1s0x0:0xf0e5b71c4defafee!8m2!3d45.4917709!4d-122.7220884) | |
+| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/winter_drive_2022_sw) | :nine: [Whitford Middle School, Beaverton](https://www.google.com/maps/place/Whitford+Middle+School/@45.4633425,-122.7861167,16.66z/data=!4m6!3m5!1s0x54950c435cd6ca45:0x5a4ddf8926d5e166!8m2!3d45.4631967!4d-122.7827836!16s%2Fm%2F0760wnl?entry=ttu) | |
 
 **[2023 OCC Donation Receipt](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/occ_donation_receipt_2023)**
 
@@ -30,13 +31,19 @@ permalink: /winterdrive/
 | Name/Drop Off Location | School/Organization |
 | --- | --- |
 | :one: [Sunset High School](https://www.google.com/maps/place/Sunset+High+School/@45.5281211,-122.8205103,15z/data=!4m2!3m1!1s0x0:0xee13c5fd283ea1a8?ved=2ahUKEwj2-Mi2udPeAhVKyFQKHigh SchoolB5DhAQ_BIwCnoECAUQCA) | |
+| Aaron Guo | Sunset High School |
+| Brian Barker | Sunset High School |
 | Sophia Wang | Sunset High School |
 | :two: [Stoller Middle School](https://www.google.com/maps/place/Stoller+Middle+School/@45.557277,-122.822358,15z/data=!4m2!3m1!1s0x0:0x8ed51b34f0447f22?ved=2ahUKEwj43-zdudPeAhVO7VQKHe5DBqkQ_BIwD3oECAYQCA) | |
+| Adam Li | Catlin Gabel School |
 | :three: Bethany Village | [QFC parking lot](https://www.google.com/maps/place/Walgreens/@45.555242,-122.836414,17.25z/data=!4m5!3m4!1s0x0:0x13e6b71d8ca8bcde!8m2!3d45.5551922!4d-122.8352382) |
 | :four: [Lake Oswego High School](https://www.google.com/maps/place/Westlake+Park/@45.4240433,-122.738775,16z/data=!4m5!3m4!1s0x0:0xf92db3a1fa94a97e!8m2!3d45.4253979!4d-122.726774) | |
 | :five: [Forest Park Elementary School](https://www.google.com/maps/@45.5425002,-122.7773606,15z/data=!4m2!3m1!1s0x0:0x539640c237e4d9fb?ved=2ahUKEwiGsub_udPeAhVDwZ8KHc0GDDUQ_BIwDnoECAYQCA) | |
-| Jenny Chen | Lincoln High School | 
+| Jenny Chen | Lincoln High School |
+| Zhi Qu | OES |
+| Zong Qu | Catlin Gabel School |
 | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://www.google.com/maps/place/%E7%A5%A5%E5%8F%91%E8%B6%85%E5%B8%82/@45.5046919,-122.5784504,17.63z/data=!4m5!3m4!1s0x0:0x64e85b424c469026!8m2!3d45.5044216!4d-122.5775423) | |
+| Maggie Qian* | Hosford Middle School |
 | :eight: [Hamilton Park](https://www.google.com/maps/place/Hamilton+City+Park,+Portland,+OR+97221/@45.4917709,-122.7220884,15z/data=!4m5!3m4!1s0x0:0xf0e5b71c4defafee!8m2!3d45.4917709!4d-122.7220884) | |
 
 *Use parent names for elementary students
