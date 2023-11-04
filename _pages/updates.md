@@ -15,6 +15,7 @@ Please register [here](https://www.friendsoftualatinrefuge.org/event-5456256?Cal
 
 **Place:** 209 NW 3rd Ave., Chinatown, Portland  
 **Date:** 11/18/2023 (tentative depending on weather), 10am-1pm  
+Register To join, please [register here](https://docs.google.com/forms/d/e/1FAIpQLSd35ZdMmd-vcINdoi6K8KQ5mNnl1fyc6LbadxeM0YsmqNbj9w/viewform?usp=sf_link)  
 
 ### [6th Annual Communitywide Winter Drive](https://pdxchinese.org/winterdrive/)
 
