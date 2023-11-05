@@ -59,7 +59,7 @@ Revisit the [gathering for 2021 art contest](https://pdxchinese.org/chinatown_wi
 
 <!-- -
 > **Announcement**: The second year of the Youth Art Contest with planning occurring directly with the OCC, the Friends and the Refuge has started to accept artwork entries.
---->
+
 
 ### Best in Show - Fiona Wang from Sunset High School
 
@@ -81,6 +81,7 @@ Revisit the [gathering for 2021 art contest](https://pdxchinese.org/chinatown_wi
 
 {% include feature_row id="feature_row4"%}
 
+--->
 ### Program Overview:
 
 The Oregon Chinese Coalition (OCC) aims to provide an Art Contest for the community in collaboration with the [Friends of Tualatin River NWRC](https://fotr.wildapricot.org/) (Friends) and the [Tualatin River NWRC](https://www.fws.gov/refuge/Tualatin_River/) (Refuge). The goals of the program are intended to assist in the following ways:
