@@ -18,7 +18,7 @@ permalink: /winterdrive/
 |  | :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
 |  | :three: Bethany Village | [In front of Walgreens](https://maps.app.goo.gl/xFw6Q1vBBVDvNdR79) |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/) | :four: Lake Oswego High School | [Westlake Park (next to play structure)](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) |
-| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/) | :five: [Forest Park Elementary School, NW Portland](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
+| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_fp) | :five: [Forest Park Elementary School, NW Portland](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | | :six: [Woodstock Elementary, SE Portland](https://maps.app.goo.gl/5Nizp1EAuune5Yng9) | On south side of the building |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/) | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/) | :eight: [Hamilton Park, Bridlemile, SW Portland](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5) | |
@@ -33,17 +33,20 @@ permalink: /winterdrive/
 | :one: [Sunset High School](https://maps.app.goo.gl/kp4qnw5j3C2j1jYu6) | |
 | Aaron Guo | Sunset High School |
 | Brian Barker | Sunset High School |
+| Claudia Zhuge | Sunset High School |
 | Sophia Lee | Sunset High School |
 | Sophia Wang | Sunset High School |
 | :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
 | Adam Li | Catlin Gabel School |
 | Nicholas Peng | Jesuit High School |
 | :three: Bethany Village | [QFC parking lot](https://maps.app.goo.gl/xFw6Q1vBBVDvNdR79) |
+| Elsa Fan | Flex Online School |
 | :four: [Lake Oswego High School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | Eric Chen | Lincoln High School |
 | Jenny Chen | Lincoln High School |
 | Zhi Qu | OES |
+| Ziyu Zhu | Lincoln High School |
 | Zong Qu | Catlin Gabel School |
 | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
 | Maggie Qian* | Hosford Middle School |
@@ -51,7 +54,9 @@ permalink: /winterdrive/
 | Oscar | Bridlemile Elementary |
 | Jasper | Bridlemile Elementary |
 | :nine: [Whitford Middle School](https://maps.app.goo.gl/LW45HzD81vVQmj9Q6) | |
-| Derica Theobald | Whitford MIddle School |
+| Arianna Hong | Whitford Middle School |
+| Brianna Hong | Whitford MIddle School |
+| Derica Theobald | Whitford Middle School |
 | Jenell Theobald | International School of Beaverton |
 
 *Use parent names for elementary students
