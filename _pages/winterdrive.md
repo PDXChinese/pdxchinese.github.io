@@ -54,8 +54,8 @@ permalink: /winterdrive/
 | Oscar | Bridlemile Elementary |
 | Jasper | Bridlemile Elementary |
 | :nine: [Whitford Middle School](https://maps.app.goo.gl/LW45HzD81vVQmj9Q6) | |
-| Arianna Hong | Whitford Middle School |
-| Brianna Hong | Whitford MIddle School |
+| Arianna Hong | Scholls Heights Elementary |
+| Brianna Hong | Scholls Heights Elementary |
 | Derica Theobald | Whitford Middle School |
 | Jenell Theobald | International School of Beaverton |
 
