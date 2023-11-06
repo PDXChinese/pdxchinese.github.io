@@ -39,6 +39,7 @@ permalink: /winterdrive/
 | Sophia Wang | Sunset High School |
 | :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
 | Adam Li | Catlin Gabel School |
+| Eric Zhao | Tumwater Middle School |
 | Jayden Mei | Westview High School |
 | Joanna Mei | Sunset High School |
 | Nicholas Peng | Jesuit High School |
