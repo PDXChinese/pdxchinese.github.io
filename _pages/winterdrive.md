@@ -32,12 +32,15 @@ permalink: /winterdrive/
 | --- | --- |
 | :one: [Sunset High School](https://maps.app.goo.gl/kp4qnw5j3C2j1jYu6) | |
 | Aaron Guo | Sunset High School |
+| Alex Chang | Sunset High School |
 | Brian Barker | Sunset High School |
 | Claudia Zhuge | Sunset High School |
 | Sophia Lee | Sunset High School |
 | Sophia Wang | Sunset High School |
 | :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
 | Adam Li | Catlin Gabel School |
+| Jayden Mei | Westview High School |
+| Joanna Mei | Sunset High School |
 | Nicholas Peng | Jesuit High School |
 | :three: Bethany Village | [QFC parking lot](https://maps.app.goo.gl/xFw6Q1vBBVDvNdR79) |
 | Elsa Fan | Flex Online School |
