@@ -49,6 +49,7 @@ permalink: /winterdrive/
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | Eric Chen | Lincoln High School |
 | Jenny Chen | Lincoln High School |
+| Jerry Zhou | OES |
 | Zhi Qu | OES |
 | Ziyu Zhu | Lincoln High School |
 | Zong Qu | Catlin Gabel School |
