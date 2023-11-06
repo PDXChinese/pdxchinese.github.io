@@ -42,7 +42,6 @@ permalink: /winterdrive/
 | Eric Zhao | Tumwater Middle School |
 | Jayden Mei | Westview High School |
 | Joanna Mei | Sunset High School |
-| Nicholas Peng | Jesuit High School |
 | :three: Bethany Village | [QFC parking lot](https://maps.app.goo.gl/xFw6Q1vBBVDvNdR79) |
 | Elsa Fan | Flex Online School |
 | :four: [Lake Oswego High School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
