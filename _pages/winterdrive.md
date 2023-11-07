@@ -14,7 +14,7 @@ permalink: /winterdrive/
 
 | Flyer | School/Location | Spot if Specified |
 | --- | --- | --- |
-| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/) | :one: [Sunset High School](https://maps.app.goo.gl/kp4qnw5j3C2j1jYu6) | Outside school main entrance|
+| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_sunset) | :one: [Sunset High School](https://maps.app.goo.gl/kp4qnw5j3C2j1jYu6) | Outside school main entrance|
 |  | :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
 |  | :three: Bethany Village | [In front of Walgreens](https://maps.app.goo.gl/xFw6Q1vBBVDvNdR79) |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/) | :four: Lake Oswego High School | [Westlake Park (next to play structure)](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) |
