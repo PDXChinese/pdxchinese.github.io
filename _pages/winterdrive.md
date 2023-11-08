@@ -44,6 +44,7 @@ permalink: /winterdrive/
 | Joanna Mei | Sunset High School |
 | :three: Bethany Village | [QFC parking lot](https://maps.app.goo.gl/xFw6Q1vBBVDvNdR79) |
 | Elsa Fan | Flex Online School |
+| Ethan Knapp | Westview High School |
 | :four: [Lake Oswego High School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | Eric Chen | Lincoln High School |
