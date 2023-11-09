@@ -20,7 +20,7 @@ permalink: /winterdrive/
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/) | :four: Lake Oswego High School | [Westlake Park (next to play structure)](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_fp) | :five: [Forest Park Elementary School, NW Portland](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | | :six: [Woodstock Elementary, SE Portland](https://maps.app.goo.gl/5Nizp1EAuune5Yng9) | On south side of the building |
-| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/) | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
+| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_se_c) [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_se_e) | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/) | :eight: [Hamilton Park, Bridlemile, SW Portland](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5) | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_whitford) | :nine: [Whitford Middle School, Beaverton](https://maps.app.goo.gl/LW45HzD81vVQmj9Q6) | |
 
