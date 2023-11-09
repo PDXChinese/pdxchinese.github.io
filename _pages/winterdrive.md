@@ -48,6 +48,7 @@ permalink: /winterdrive/
 | :four: [Lake Oswego High School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | Eric Chen | Lincoln High School |
+| Ethan Zhang | Westview High School |
 | Jenny Chen | Lincoln High School |
 | Jerry Zhou | OES |
 | Zhi Qu | OES |
