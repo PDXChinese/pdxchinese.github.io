@@ -39,12 +39,14 @@ permalink: /winterdrive/
 | Sophia Wang | Sunset High School |
 | :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
 | Adam Li | Catlin Gabel School |
-| Eric Zhao | Tumwater Middle School |
 | Jayden Mei | Westview High School |
 | Joanna Mei | Sunset High School |
 | :three: Bethany Village | [QFC parking lot](https://maps.app.goo.gl/xFw6Q1vBBVDvNdR79) |
+| Aiden Chang | International School of Beaverton |
+| Alexander Tai | International School of Beaverton |
 | Elsa Fan | Flex Online School |
 | Ethan Knapp | Westview High School |
+| Sabrina Change | International School of Beaverton |
 | :four: [Lake Oswego High School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | Eric Chen | Lincoln High School |
