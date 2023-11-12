@@ -111,3 +111,5 @@ Soap, shampoo, tooth brush, tooth paste, feminine hygiene items, toilet paper, e
 2022 Community Winter Drive [Event](/assets/pdf/community-winter-drive-2022.pdf), [Highlight](http://pdxchinese.org/winter-drive-2022/)  
 
 <p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/winterdrive2020"></p>  
+
+<iframe width="2135" height="1200" src="https://www.youtube.com/embed/YdiO-HnFBuQ" title="OCC Community Winter Drive Promotion Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
