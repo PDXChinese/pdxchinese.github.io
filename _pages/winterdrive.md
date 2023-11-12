@@ -17,11 +17,11 @@ permalink: /winterdrive/
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_sunset) | :one: [Sunset High School](https://maps.app.goo.gl/kp4qnw5j3C2j1jYu6) | Outside school main entrance|
 |  | :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
 |  | :three: Bethany Village | [In front of Walgreens](https://maps.app.goo.gl/xFw6Q1vBBVDvNdR79) |
-| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/) | :four: Lake Oswego High School | [Westlake Park (next to play structure)](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) |
+|  | :four: Lake Oswego High School | [Westlake Park (next to play structure)](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_fp) | :five: [Forest Park Elementary School, NW Portland](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | | :six: [Woodstock Elementary, SE Portland](https://maps.app.goo.gl/5Nizp1EAuune5Yng9) | On south side of the building |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_se_c) [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_se_e) | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
-| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/) | :eight: [Hamilton Park, Bridlemile, SW Portland](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5) | |
+| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/activities/2023_winter_drive_sw) | :eight: [Hamilton Park, Bridlemile, SW Portland](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5) | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_whitford) | :nine: [Whitford Middle School, Beaverton](https://maps.app.goo.gl/LW45HzD81vVQmj9Q6) | |
 
 **[2023 OCC Donation Receipt](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/occ_donation_receipt_2023)**
