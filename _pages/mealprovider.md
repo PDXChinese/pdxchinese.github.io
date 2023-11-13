@@ -16,6 +16,8 @@ permalink: /mealprovider/
 
 ### Monthly Service
 
+[November 12, 2023](https://pdxchinese.org/providing_meal_at_shelter-nov2023/)  
+[October 8, 2023](https://pdxchinese.org/providing_meal_at_shelter-oct2023/)  
 September 10, 2023  
 August 13, 2023  
 [August 6, 2023](https://youtu.be/0hlQzDIgV0o)  
