@@ -31,8 +31,8 @@ July 16, 2023
 
 ### Pilot Phase
 
-[December 20, 2023](https://pdxchinese.org/providing_meal_at_shelter-dec2022/)  
-[November 27, 2023](https://pdxchinese.org/providing_meal_at_shelter-nov2022/)  
+[December 20, 2022](https://pdxchinese.org/providing_meal_at_shelter-dec2022/)  
+[November 27, 2022](https://pdxchinese.org/providing_meal_at_shelter-nov2022/)  
 
 > I heard absolute RAVE reviews from the team at the Clark center about last night’s dinner!! Sounds like folks were wild about the food, and pretty excited to have a crew of enthusiastic volunteers onsite to serve it.
 
