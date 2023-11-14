@@ -12,7 +12,7 @@ feature_row3:
 
 Youth are the cornerstone of our community's future, and their active involvement is crucial to achieving our mission of addressing the civic and political engagement challenges faced by Chinese Americans. Establishing student organizations within schools expands our outreach to a broader youth community. The community stands to gain from the vibrancy and innovative ideas brought by the youth. This dynamic engagement represents a significant milestone in our community work.
 
-### Chinese Heritage Society @ Sunset High School
+## Chinese Heritage Society @ Sunset High School
 
 {% include feature_row id="feature_row1"%}
 
