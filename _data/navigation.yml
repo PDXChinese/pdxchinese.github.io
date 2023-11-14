@@ -46,14 +46,12 @@ extra:
         url: /yoyo/
       - title: "Jade Dance Team"
         url: /youthdance/
-      - title: "Peer Connect"
-        url: /peerconnect/
       - title: "Phoenix Hanfu Team"
         url: /hanfu/
       - title: "PVSA Honorees"
         url: /pvsa/
-      - title: "Youth Ambassadors"
-        url: /youthambassadors/
+      - title: "Student Chapterss"
+        url: /chapters/
       - title: "Youth Art Contest"
         url: /artcontest/
       - title: "Youth Camps"
