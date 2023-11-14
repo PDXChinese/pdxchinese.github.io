@@ -57,6 +57,7 @@ permalink: /winterdrive/
 | Ziyu Zhu | Lincoln High School |
 | Zong Qu | Catlin Gabel School |
 | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
+| Su Jie Li | David Douglas High School |
 | Maggie Qian* | Hosford Middle School |
 | :eight: [Hamilton Park](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5) | |
 | Oscar | Bridlemile Elementary |
