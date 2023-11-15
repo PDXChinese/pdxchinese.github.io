@@ -23,6 +23,7 @@ permalink: /winterdrive/
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_se_c) [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_se_e) | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
 | | :eight: [Hamilton Park, Bridlemile, SW Portland](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5) | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_whitford) | :nine: [Whitford Middle School, Beaverton](https://maps.app.goo.gl/LW45HzD81vVQmj9Q6) | |
+| | :one: :zero: [Hosford Middle School, SE Portland](https://maps.app.goo.gl/Rejd7MSdbGChdQAD8) | |
 
 **[2023 OCC Donation Receipt](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/occ_donation_receipt_2023)**
 
@@ -59,7 +60,6 @@ permalink: /winterdrive/
 | Zong Qu | Catlin Gabel School |
 | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
 | Jenny Du | Centennial High School |
-| Maggie Qian* | Hosford Middle School |
 | Su Jie Li | David Douglas High School |
 | :eight: [Hamilton Park](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5) | |
 | Oscar | Bridlemile Elementary |
@@ -69,8 +69,8 @@ permalink: /winterdrive/
 | Brianna Hong | Scholls Heights Elementary |
 | Derica Theobald | Whitford Middle School |
 | Jenell Theobald | International School of Beaverton |
-
-*Use parent names for elementary students
+| :one: :zero: [Hosford Middle School, SE Portland](https://maps.app.goo.gl/Rejd7MSdbGChdQAD8) | |
+| Ashley Fong | Hosford Middle School |
 
 ## Donation Items
 
