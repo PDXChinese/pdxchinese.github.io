@@ -5,12 +5,6 @@ permalink: /updates/
 
 # <code style="color:red">近期年度活动/Recent Annual Events</code>
 
-### 自然保护区义工活动/TRNWR November Second Saturday Work Party
-
-**Place:** Meet at the Refuge, (19255 SW Pacific Hwy, Sherwood, OR) at 9:45 a.m. for check in. We will walk to the worksite together at 10:00 a.m.  
-**Date:** 11/11/2023, 9:45am-12pm  
-Please register [here](https://www.friendsoftualatinrefuge.org/event-5456256?CalendarViewType=1&SelectedDate=11/2/2023) to join us there  
-
 ### 更换中国城灯笼/Replacing Red Lanterns in Chinatown
 
 **Place:** 209 NW 3rd Ave., Chinatown, Portland  
