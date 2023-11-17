@@ -71,10 +71,10 @@ permalink: /winterdrive/
 | Brianna Hong | Scholls Heights Elementary |
 | Derica Theobald | Whitford Middle School |
 | Jenell Theobald | International School of Beaverton |
-| :one::zero: [Hosford Middle School, SE Portland](https://maps.app.goo.gl/Rejd7MSdbGChdQAD8) | |
+| :one::zero: [Hosford Middle School](https://maps.app.goo.gl/Rejd7MSdbGChdQAD8) | |
 | Ashley Fong | Hosford Middle School |
 | Samantha Nyan | Hosford Middle School |
-| | :one::one: [Hope Chinese Charter School, Beaverton](https://www.google.com/maps/place/Hope+Chinese+Charter+School/@45.4948458,-122.7853069,18z/data=!4m6!3m5!1s0x5495095af942afd9:0x759fa57a8326c607!8m2!3d45.4946694!4d-122.783813!16s%2Fg%2F1264hsl_c?entry=ttu) |
+| :one::one: [Hope Chinese Charter School](https://www.google.com/maps/place/Hope+Chinese+Charter+School/@45.4948458,-122.7853069,18z/data=!4m6!3m5!1s0x5495095af942afd9:0x759fa57a8326c607!8m2!3d45.4946694!4d-122.783813!16s%2Fg%2F1264hsl_c?entry=ttu) | |
 | Jade Dance Team | From various local high schools |
 
 ## Donation Items
