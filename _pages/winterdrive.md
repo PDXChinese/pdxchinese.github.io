@@ -61,8 +61,10 @@ permalink: /winterdrive/
 | Zong Qu | Catlin Gabel School |
 | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
 | Charles | |
+| Fenglan Zhen | Nelosen High School |
+| Fengyao Zhen | Happy Valley Middle School |
 | Jenny Du | Centennial High School |
-| Wenjun Zhen | |
+| Wenjun Zhen | Nelosen High School |
 | :eight: [Hamilton Park](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5) | |
 | Oscar | Bridlemile Elementary |
 | Jasper | Bridlemile Elementary |
