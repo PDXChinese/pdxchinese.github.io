@@ -1,11 +1,11 @@
 ---
 title: "希望大红灯笼为人们带来温暖、希望和节日氛围"
 author: XiBei Zhao
-excerpt: "今天有一大群志愿者，我们设法在4小时内更换了唐人街所有的灯笼。时机再合适不过，因为节日期间即将来临：感恩节、圣诞节、新年、农历新年和元宵节。志愿者们深受邻里、游客、店主以及那些不幸生活在街头的人的赞赏所激励。我们希望这些灯笼为每个人带来温暖、希望和节日氛围。"
+excerpt: "今天中国城换灯笼活动很幸与碰上了晴天，来自社区不同地方的义工们聚在一起，度过了一段非常愉快的时光。这次很多义工都是第一次参加，她们为街上的人们给予的赞许感到十分的兴奋，心底里的那份自豪洋溢在每个人的脸上。整整四个小时，大家配合非常的棒，高质量完成了更换所有近百个灯笼的艰巨任务。相信这些灯笼不仅仅会给那里的人们带来温暖和希望，也会出现在人们打卡的图片中，而传遍世界各地。中国城作为我们的一个极其重要的文化符号和遗产，我们会不离不弃，希望在新的一年会有更多的事情可以做，到时会及时分享给大家，一如既往邀请我们大家一起来参与。"
 date: "2023-11-18"
 ---
 
-今天有一大群志愿者，我们设法在4小时内更换了唐人街所有的灯笼。时机再合适不过，因为节日期间即将来临：感恩节、圣诞节、新年、农历新年和元宵节。志愿者们深受邻里、游客、店主以及那些不幸生活在街头的人的赞赏所激励。我们希望这些灯笼为每个人带来温暖、希望和节日氛围。
+今天中国城换灯笼活动很幸与碰上了晴天，来自社区不同地方的义工们聚在一起，度过了一段非常愉快的时光。这次很多义工都是第一次参加，她们为街上的人们给予的赞许感到十分的兴奋，心底里的那份自豪洋溢在每个人的脸上。整整四个小时，大家配合非常的棒，高质量完成了更换所有近百个灯笼的艰巨任务。相信这些灯笼不仅仅会给那里的人们带来温暖和希望，也会出现在人们打卡的图片中，而传遍世界各地。中国城作为我们的一个极其重要的文化符号和遗产，我们会不离不弃，希望在新的一年会有更多的事情可以做，到时会及时分享给大家，一如既往邀请我们大家一起来参与。
 
 With a large group of volunteers today, we managed to replace all the lanterns in Chinatown within 4 hours. The timing couldn't be more perfect with the holiday season approaching: Thanksgiving, Christmas, New Year, Chinese New Year, and Lantern Festival. Volunteers were motivated by the appreciation expressed by neighbors, visitors, store owners, as well as those less fortunate living on the streets. We hope these lanterns bring warmth, hope, and a festive atmosphere to everyone.
 
@@ -98,3 +98,9 @@ With a large group of volunteers today, we managed to replace all the lanterns i
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/402894552_332854669379622_1348987834557428703_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/402865951_332854716046284_22512901315302119_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/402883143_332886452709777_4984915878589783213_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/402880266_332886436043112_5210558364173808178_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/402891961_332886462709776_4893240807279807176_n)
