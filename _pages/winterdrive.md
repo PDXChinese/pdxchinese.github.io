@@ -47,12 +47,15 @@ permalink: /winterdrive/
 | Alexander Tai | International School of Beaverton |
 | Elsa Fan | Flex Online School |
 | Ethan Knapp | Westview High School |
+| Michael Fu | Sunset High School |
 | Sabrina Change | International School of Beaverton |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | Eric Chen | Lincoln High School |
 | Ethan Zhang | Westview High School |
 | Jenny Chen | Lincoln High School |
 | Jerry Zhou | OES |
+| Justin Wu | Forest Park Elementary |
+| Max Wu | West Sylvan Middle School |
 | Peter Shao | OES |
 | Zhi Qu | OES |
 | Ziyu Zhu | Lincoln High School |
@@ -64,8 +67,9 @@ permalink: /winterdrive/
 | Jenny Du | Centennial High School |
 | Wenjun Zhen | Nelosen High School |
 | :eight: [Hamilton Park](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5) | |
-| Oscar | Bridlemile Elementary |
-| Jasper | Bridlemile Elementary |
+| Glisan Xu | Bridlemile Elementary |
+| Jasper Xu | Bridlemile Elementary |
+| Oscar Xu | Bridlemile Elementary |
 | :nine: [Whitford Middle School](https://maps.app.goo.gl/LW45HzD81vVQmj9Q6) | |
 | Arianna Hong | Scholls Heights Elementary |
 | Brianna Hong | Scholls Heights Elementary |
