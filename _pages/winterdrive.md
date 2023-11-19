@@ -50,12 +50,12 @@ permalink: /winterdrive/
 | Elsa Fan | Flex Online School |
 | Ethan Knapp | Westview High School |
 | Sabrina Change | International School of Beaverton |
-| :four: [Lake Oswego High School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | Eric Chen | Lincoln High School |
 | Ethan Zhang | Westview High School |
 | Jenny Chen | Lincoln High School |
 | Jerry Zhou | OES |
+| Peter Shao | OES |
 | Zhi Qu | OES |
 | Ziyu Zhu | Lincoln High School |
 | Zong Qu | Catlin Gabel School |
@@ -80,6 +80,7 @@ permalink: /winterdrive/
 | Claire Cao | Jade Dance Team / Jesuit High School |
 | Claudia Zhuange | Jade Dance Team / Sunset High School |
 | Sandy Tang | Jade Dance Team / West Linn High School |
+| Siyi Liang | Jade Dance Team / Sherwood High School|
 
 ## Donation Items
 
