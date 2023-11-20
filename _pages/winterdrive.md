@@ -61,7 +61,6 @@ permalink: /winterdrive/
 | Ziyu Zhu | Lincoln High School |
 | Zong Qu | Catlin Gabel School |
 | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
-| Charles | |
 | Fenglan Zhen | Nelosen High School |
 | Fengyao Zhen | Happy Valley Middle School |
 | Jenny Du | Centennial High School |
@@ -119,11 +118,12 @@ Soap, shampoo, tooth brush, tooth paste, feminine hygiene items, toilet paper, e
 
 ## Archive
 
-2018 Community Winter Drive [Event](/assets/pdf/community-winter-drive-2018.pdf), [Highlight](http://pdxchinese.org/winter-drive-2018/)  
-2019 Community Winter Drive [Event](/assets/pdf/community-winter-drive-2019.pdf), [Highlight](http://pdxchinese.org/winter-drive-2019/)  
-2020 Community Winter Drive [Event](/assets/pdf/community-winter-drive-2020.pdf), [Highlight](http://pdxchinese.org/winter-drive-2020/)  
-2021 Community Winter Drive [Event](/assets/pdf/community-winter-drive-2021.pdf), [Highlight](http://pdxchinese.org/winter-drive-2021/)  
+2023 Community Winter Drive [Event](/assets/pdf/community-winter-drive-2023.pdf), [Highlight](http://pdxchinese.org/winter-drive-2023/)  
 2022 Community Winter Drive [Event](/assets/pdf/community-winter-drive-2022.pdf), [Highlight](http://pdxchinese.org/winter-drive-2022/)  
+2021 Community Winter Drive [Event](/assets/pdf/community-winter-drive-2021.pdf), [Highlight](http://pdxchinese.org/winter-drive-2021/)  
+2020 Community Winter Drive [Event](/assets/pdf/community-winter-drive-2020.pdf), [Highlight](http://pdxchinese.org/winter-drive-2020/)  
+2019 Community Winter Drive [Event](/assets/pdf/community-winter-drive-2019.pdf), [Highlight](http://pdxchinese.org/winter-drive-2019/)  
+2018 Community Winter Drive [Event](/assets/pdf/community-winter-drive-2018.pdf), [Highlight](http://pdxchinese.org/winter-drive-2018/)  
 
 <p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/winterdrive2020"></p>  
 
