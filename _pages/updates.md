@@ -5,31 +5,31 @@ permalink: /updates/
 
 # <code style="color:red">近期年度活动/Recent Annual Events</code>
 
-### 2023青少年圆桌会/Youth Roundtable
+### [2023青少年圆桌会/Youth Roundtable](https://pdxchinese.org/youthroundtable/)
 
 **Place:** TBD （in person)  
 **Date:** 12/30/2023, 2pm-4pm  
 Register To join, please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_mgEl-2QBBaTOLoIwdgKmCw3K9CXkgN2Kg/viewform?usp=sf_link)  
 
-### [2024 Annual Community Health Fair](https://pdxchinese.org/healthfair/)
+### [2024 社区健康博览会/Community Health Fair](https://pdxchinese.org/healthfair/)
 
 **Date:** March xx, 2024, 12pm - 4pm  
 Place: TBD  
 No registration required  
 
-### [2024 Culture Day](https://pdxchinese.org/cultureday/)
+### [2024 文化日/Culture Day](https://pdxchinese.org/cultureday/)
 
 **Date:** May xx, 2024, 10pm - 4pm  
 Place: TBD  
 No registration required  
 
-### [2024 Youth Conference](https://pdxchinese.org/youthconference/)
+### [2024 青少年大会/Youth Conference](https://pdxchinese.org/youthconference/)
 
 **Date:** June xx, 2024, 1pm - 5pm  
 Place: TBD  
 Register To join, please [register here](https://docs.google.com/forms/d/e/1FAIpQLSeSSDTPGiyHgZ2CmYjjpXz7SlZvqoqpYTIdMOnCIHzdFsBRZA/viewform?usp=sf_link)  
 
-### [2024 Chinese Festival](https://pdxchinese.org/chinesefestival/)
+### [2024 华人文化节/Chinese Festival](https://pdxchinese.org/chinesefestival/)
 
 **Date:** August 3, 2024, 11am - 6pm  
 Place: Pioneer COurthouse Square, Portland, Oregon  
