@@ -5,17 +5,35 @@ permalink: /updates/
 
 # <code style="color:red">近期年度活动/Recent Annual Events</code>
 
-### 更换中国城灯笼/Replacing Red Lanterns in Chinatown
+### 2023青少年圆桌会/Youth Roundtable
 
-**Place:** 209 NW 3rd Ave., Chinatown, Portland  
-**Date:** 11/18/2023 (tentative depending on weather), 10am-1pm  
-Register To join, please [register here](https://docs.google.com/forms/d/e/1FAIpQLSd35ZdMmd-vcINdoi6K8KQ5mNnl1fyc6LbadxeM0YsmqNbj9w/viewform?usp=sf_link)  
+**Place:** TBD （in person)  
+**Date:** 12/30/2023, 2pm-4pm  
+Register To join, please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_mgEl-2QBBaTOLoIwdgKmCw3K9CXkgN2Kg/viewform?usp=sf_link)  
 
-### [6th Annual Communitywide Winter Drive](https://pdxchinese.org/winterdrive/)
+### [2024 Annual Community Health Fair](https://pdxchinese.org/healthfair/)
 
-**Date:** November 19, 2023 Sunday, 1:00 pm - 4:00 pm
-Place: Multiple drop-off locations across State of Oregon
-Register To join, please [register here](https://docs.google.com/forms/d/e/1FAIpQLSdrA8gtPEE5_7kHLy67J5aQJpBaAxnMR-nlSZLc9KiupzaE_A/viewform?usp=sf_link).
+**Date:** March xx, 2024, 12pm - 4pm  
+Place: TBD  
+No registration required  
+
+### [2024 Culture Day](https://pdxchinese.org/cultureday/)
+
+**Date:** May xx, 2024, 10pm - 4pm  
+Place: TBD  
+No registration required  
+
+### [2024 Youth Conference](https://pdxchinese.org/youthconference/)
+
+**Date:** June xx, 2024, 1pm - 5pm  
+Place: TBD  
+Register To join, please [register here](https://docs.google.com/forms/d/e/1FAIpQLSeSSDTPGiyHgZ2CmYjjpXz7SlZvqoqpYTIdMOnCIHzdFsBRZA/viewform?usp=sf_link)  
+
+### [2024 Chinese Festival](https://pdxchinese.org/chinesefestival/)
+
+**Date:** August 3, 2024, 11am - 6pm  
+Place: Pioneer COurthouse Square, Portland, Oregon  
+Open to public and free admission  
 
 # <code style="color:red">常年活动/Year Around Activities</code>
 
