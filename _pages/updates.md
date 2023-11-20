@@ -28,11 +28,12 @@ No registration required
 **Date:** June xx, 2024, 1pm - 5pm  
 Place: TBD  
 Register To join, please [register here](https://docs.google.com/forms/d/e/1FAIpQLSeSSDTPGiyHgZ2CmYjjpXz7SlZvqoqpYTIdMOnCIHzdFsBRZA/viewform?usp=sf_link)  
+Please help recommend distinguished speakers  
 
 ### [2024 华人文化节/Chinese Festival](https://pdxchinese.org/chinesefestival/)
 
 **Date:** August 3, 2024, 11am - 6pm  
-Place: Pioneer COurthouse Square, Portland, Oregon  
+Place: Pioneer Courthouse Square, Portland, Oregon  
 Open to public and free admission  
 
 # <code style="color:red">常年活动/Year Around Activities</code>
