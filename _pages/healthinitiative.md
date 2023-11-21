@@ -5,6 +5,8 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023fairflyer
 feature_row2:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/occ_nsnv
+feature_row3:
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/occ_hpv
 ---
 
 最近经历的疫情引发了一场公共卫生危机，这提醒了我们日常工作的重要性。在应对挑战的过程中，我们意识到公共卫生领域存在着制度性缺陷和社区资源的严重短缺。因此，公共卫生将成为我们未来工作的一个重要方面。
@@ -40,7 +42,11 @@ feature_row2:
 
 # Culturally Specific and Responsive Cancer Risk Education / 文化特定和响应性的癌症风险教育
 
-> Four-Season Education on Cancers: HPV in Fall, Breast Cancer in Winter, Canton Cancer in Spring, Stomach Cancer in Summer  
+Four-Season Education on Cancers: HPV in Fall, Breast Cancer in Winter, Canton Cancer in Spring, Stomach Cancer in Summer  
+
+{% include feature_row id="feature_row3"%}
+
+>对 HPV (人类乳突病毒 Human Papillomavirus)，疫苗和接种的[社区问卷调查](https://docs.google.com/forms/d/e/1FAIpQLSfBLNIl1qobNfjZtJB1fpB5U7LdaQBUdCqqsAEL_jjHpd1inA/viewform?usp=sf_link)，问卷调查结果
 
 # Public Health Advocacy
 

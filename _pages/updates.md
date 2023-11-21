@@ -3,7 +3,7 @@ title: ""
 permalink: /updates/
 ---
 
-# <code style="color:red">近期年度活动/Recent Annual Events</code>
+# <code style="color:red">近期年度活动/Next Annual Events</code>
 
 ### [2023青少年圆桌会/Youth Roundtable](https://pdxchinese.org/youthroundtable/)
 
