@@ -125,6 +125,8 @@ Soap, shampoo, tooth brush, tooth paste, feminine hygiene items, toilet paper, e
 2019 Community Winter Drive [Event](/assets/pdf/community-winter-drive-2019.pdf), [Highlight](http://pdxchinese.org/winter-drive-2019/)  
 2018 Community Winter Drive [Event](/assets/pdf/community-winter-drive-2018.pdf), [Highlight](http://pdxchinese.org/winter-drive-2018/)  
 
-<p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/winterdrive2020"></p>  
-
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/YdiO-HnFBuQ" title="OCC Community Winter Drive Promotion Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
+
+<iframe width="2135" height="1200" src="https://www.youtube.com/embed/p_2oyBLOYtc" title="2023 Community Winter Drive -- Whitford Middle School Location" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
