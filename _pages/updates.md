@@ -3,7 +3,7 @@ title: ""
 permalink: /updates/
 ---
 
-# <code style="color:red">近期年度活动/Next Annual Events</code>
+# <code style="color:brown">近期年度活动/Next Annual Events</code>
 
 ### [2023青少年圆桌会/Youth Roundtable](https://pdxchinese.org/youthroundtable/)
 
@@ -36,7 +36,7 @@ Please help recommend distinguished speakers
 Place: Pioneer Courthouse Square, Portland, Oregon  
 Open to public and free admission  
 
-# <code style="color:red">常年活动/Year Around Activities</code>
+# <code style="color:brown">常年活动/Year Around Activities</code>
 
 ### 口述历史/Oral History： 我的生活，我的故事/Real People, Real Story
 
@@ -83,4 +83,4 @@ Please [contact us](https://pdxchinese.org/contact/) for information on the avai
 
 **********
 
-# <code style="color:red">来自社区伙伴的信息/Reachout from Community Partners</code>
+# <code style="color:brown">来自社区伙伴的信息/Reachout from Community Partners</code>
