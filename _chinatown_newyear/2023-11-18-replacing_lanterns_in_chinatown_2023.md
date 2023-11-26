@@ -97,3 +97,5 @@ title: "Replacing Red Lanterns in Chinatown (11.18.2023)"
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/402880266_332886436043112_5210558364173808178_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/402891961_332886462709776_4893240807279807176_n)
+
+<iframe width="2135" height="1200" src="https://www.youtube.com/embed/dLwvcd7OGXQ" title="2023 Replacing Red Lanterns in Chinatown" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
