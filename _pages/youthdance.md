@@ -47,8 +47,4 @@ Sophia Alicata
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/300981501_1755346288171264_3083607302847864463_n)
 
-<iframe width="728" height="410" src="https://www.youtube.com/embed/2-iY0BY_-gE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="2135" height="1200" src="https://www.youtube.com/embed/wWoR1TD-_bA?t=4334" title="2023 Chinese Festival -- Stage Performances" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="2135" height="1200" src="https://www.youtube.com/embed/wWoR1TD-_bA?t=11036" title="2023 Chinese Festival -- Stage Performances" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1707" height="960" src="https://www.youtube.com/embed/2-iY0BY_-gE" title="OCC Special Performances in Lan Su Chinese Garden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
