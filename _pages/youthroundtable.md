@@ -5,11 +5,11 @@ permalink: /youthroundtable/
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/youthroundtable_logo3)
 
-## 2022年俄勒冈华裔青少年圆桌会
-# 6th Annual Oregon Chinese Youth Roundtable
+## 2023年俄勒冈华裔青少年圆桌会
+# 7th Annual Oregon Chinese Youth Roundtable
 
 ## Date
-12/31/2022 Saturday 2:00 pm - 4:00 pm
+12/30/2022 Saturday 1pm - 4pm
 
 ## Place
 
@@ -27,30 +27,31 @@ Middle and high school students, college students, and college graduates
 
 Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_mgEl-2QBBaTOLoIwdgKmCw3K9CXkgN2Kg/viewform?usp=sf_link), we will update you the latest update about the event. (We understand parents can register the event for their children especially when they are under eighteen years old.)
 
-## Agenda 2:00 pm - 4:00 pm
+## Agenda 1pm - 2pm
 
-**PVSA Ceremony:** Congratulations to the 56 PVSA recipients OCC helped certify in 2022!
+**PVSA Ceremony:** Congratulations to the PVSA recipients OCC helped certify in 2023!
 
-**Roundtable Topics as Registered Participants Suggested:**
+**Whole Group Roundtable**
 
-> Environmental and climate justice  
-> Invite college students to share their stories  
-> Burnout, mental health stigma  
-> College applications  
-> How can we "bring out" Chinese culture in the US, or represent Chinese culture more accurately?  
-> Why volunteer?  
-> More activities in local areas  
-> Habits that have had a positive effect on your life  
-> High school time management and summer camp  
+**Breakout Sessions**
 
-What can we as the community do better to support our youth? resources, opportunities?
+> Military Career  
+> Hosted by  
 
-**Social time:** Get to know the students-run organizations.
+> Reflection of 4 Years College Life  
+> Hosted by:  
+
+> Career Track on Law and Humanities  
+> Hosted by:  
+
+*more sessions will be added...*
+
 
 ### Logo designed by [Olando Lin](https://www.linkedin.com/in/olando-lin-3696ab37/)
 
 ## Archive
 
+2022 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2022.pdf) | [Recap](http://pdxchinese.org/youth_roundtable_2022-recap/)  
 2021 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2021.pdf)  
 2020 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2020.pdf)  
 2019 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2019.pdf) | [Recap](http://pdxchinese.org/youth-roundtable-2019-recap/)  
