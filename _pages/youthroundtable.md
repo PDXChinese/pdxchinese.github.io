@@ -44,6 +44,9 @@ Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_
 > Career Track on Law and Humanities  
 > Hosted by  
 
+> AI: Opportunities and Challenges   
+> Hosted by  
+
 *more sessions will be added...*
 
 
