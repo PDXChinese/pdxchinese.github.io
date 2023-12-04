@@ -6,7 +6,7 @@ permalink: /youthguitarclub/
 # 社区青少年吉他俱乐部/Youth Guitar Club  
 <br>  
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/guitar_background1)
+<iframe width="2135" height="1200" src="https://www.youtube.com/embed/UKCpIt3rYL0" title="OCC Youth Guitar Club Recruitment Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Time:** 5-6:30pm, every Saturday   
 **Place:** [Hope Chinese Charter School](https://hopeccs.org/)  
@@ -21,6 +21,3 @@ OCC has six guitars donated by [Natasha Guitars](https://natashaguitar.com/). St
 ### Links
 
 [Portland Guitar Society](https://www.pdxguitarsociety.org/)
-
-
-<iframe width="2135" height="1200" src="https://www.youtube.com/embed/UKCpIt3rYL0" title="OCC Youth Guitar Club Recruitment Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
