@@ -3,9 +3,10 @@ title: ""
 permalink: /youthguitarclub/
 ---
 
-# 社区青少年吉他俱乐部/Youth Guitar Club
+# 社区青少年吉他俱乐部/Youth Guitar Club  
+<br>  
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/guitar_background)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/guitar_background1)
 
 **Time:** 5-6:30pm, every Saturday   
 **Place:** [Hope Chinese Charter School](https://hopeccs.org/)  

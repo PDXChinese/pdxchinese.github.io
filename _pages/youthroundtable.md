@@ -39,10 +39,10 @@ Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_
 > Hosted by  
 
 > Reflection of 4 Years College Life  
-> Hosted by:  
+> Hosted by  
 
 > Career Track on Law and Humanities  
-> Hosted by:  
+> Hosted by  
 
 *more sessions will be added...*
 
@@ -55,6 +55,6 @@ Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_
 2021 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2021.pdf)  
 2020 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2020.pdf)  
 2019 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2019.pdf) | [Recap](http://pdxchinese.org/youth-roundtable-2019-recap/)  
-2018 Youth Roundtable [Agenmda](/assets/pdf/youth-roundtable-2018.pdf) | [Recap](http://pdxchinese.org/youth-roundtable-2018-recap/)  
+2018 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2018.pdf) | [Recap](http://pdxchinese.org/youth-roundtable-2018-recap/)  
 2017 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2017.pdf) | [Recap](http://pdxchinese.org/youth-roundtable-2017-recap/)  
 [Materials distributed at Roundtables](http://pdxchinese.org/resources/benefits_resources/roundtable/)
