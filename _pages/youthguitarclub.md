@@ -1,9 +1,9 @@
 ---
-title: "社区青少年吉他俱乐部"
+title: ""
 permalink: /youthguitarclub/
 ---
 
-<br>
+社区青少年吉他俱乐部/Youth Guitar Club
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/guitar_background)
 
@@ -14,4 +14,8 @@ Students play and jam on guitars individually and/or collaboratively in styles o
 
 Students are ecnouraged to perform in the community events upon requests from OCC.
 
-OCC has six guitars. Students can borrow them based on their needs.
+OCC has six guitars donated by [Natasha Guitars](https://natashaguitar.com/). Students can borrow them based on their needs.
+
+### Useful links
+
+[Portland Guitar Society](https://www.pdxguitarsociety.org/)
