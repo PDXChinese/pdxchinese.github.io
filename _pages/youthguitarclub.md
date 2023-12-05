@@ -14,8 +14,8 @@ permalink: /youthguitarclub/
 **Place:** [Hope Chinese Charter School](https://hopeccs.org/)  
 **Virtual Place:** 《OCC 青少年吉他之友》微信群  
 
-**Student Volunteer Coach:** Sirena Chen，Lincoln High School  
-**Student Volunteer Assistant Coach:** Monica Luo, International School of Beaverton  
+**Volunteer Coach:** Sirena Chen, Lincoln High School  
+**Volunteer Assistant Coach:** Monica Luo, International School of Beaverton  
 
 Club members play and jam on guitars individually and/or collaboratively in styles of their choice. Veteran players share their knowledge with novice players and presentations from guest guitarists throughout the year.
 
