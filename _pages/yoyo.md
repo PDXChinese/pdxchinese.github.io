@@ -7,13 +7,8 @@ The Dragonfly Yo-Yo Team emerged in the spring of 2023, born out of the pandemic
 
 To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxchinese.org). They will love to show off their culture in the community events.
 
-### Founders
-
-Callie Chu
-
-### Mentor
-
-Xiaorou Xiang
+**Founder and Coach:** Callie Chu
+**Mentor:** Xiaorou Xiang
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/2023_chinese_festival_yoyo_01)
 
