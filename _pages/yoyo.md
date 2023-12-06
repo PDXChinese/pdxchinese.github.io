@@ -22,7 +22,6 @@ To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxc
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/OTYKtwNo7oQ" title="Untitled video 16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
-
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/369851384_287922147206208_6427446102597119173_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/370439212_287921907206232_4373963875256704060_n)
