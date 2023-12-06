@@ -25,4 +25,5 @@ OCC has six guitars donated by [Natasha Guitars](https://natashaguitar.com/). St
 
 ### Links
 
-[Portland Guitar Society](https://www.pdxguitarsociety.org/)
+[Portland Guitar Society](https://www.pdxguitarsociety.org/)  
+[Violin and Guitar Samples](https://serenatastringsdfw.com/violin-and-guitar-samples/disney-violin-and-guitar-samples/)  
