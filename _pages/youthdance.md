@@ -15,12 +15,17 @@ Claire Cao
 Amy Kang  
 Sophia Alicata  
 
+### They perform in the Chinese Festival
+
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/2m6eeHYzSGI" title="Heavenly Shower by Jade Dance Team" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/OLzsCZRTe3w" title="Book Dance by Jade Dance Team" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/pJ8NmP8XBeQ" title="Group Drumming & Dancing: Rigorous Splendor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
+
+### They perform in the multicultural celebration events at schools
+
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345207376_157519157280310_5308032708509650109_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345444775_1315340262381391_5257554883155174898_n)
@@ -33,9 +38,13 @@ Sophia Alicata
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/344809985_1321076341809807_2237224498108726304_n)
 
+### They perform in community parks
+
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/346057442_187597300842384_2839534818253709766_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345624430_918996386052076_398775275701993164_n)
+
+### They perform in the art center
 
 <iframe width="728" height="410" src="https://www.youtube.com/embed/W-nYv0gLKoc" title="Jade Dance Team Performing Up to the Moon at Patricia Reser Center for the Arts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -48,6 +57,8 @@ Sophia Alicata
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/299581538_1748627322176494_48052684740289644_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/299456093_1748627258843167_3279795217705904897_n)
+
+### They perform in Lan Su Chinese Garden
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/301043271_1755345611504665_8034846644624882200_n)
 
