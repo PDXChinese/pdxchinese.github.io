@@ -22,7 +22,6 @@ Sophia Alicata
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/OLzsCZRTe3w" title="Book Dance by Jade Dance Team" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/pJ8NmP8XBeQ" title="Group Drumming & Dancing: Rigorous Splendor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br>
 
 ### They perform in the multicultural celebration events at schools
 
