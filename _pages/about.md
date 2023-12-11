@@ -29,7 +29,7 @@ feature_row2:
 
 ## Our Mission
 
-Our mission is to build a vibrant community by promoting Chinese culture and heritage, serving the Chinese American community in Oregon, and ensuring that no one is left behind. We strive to advance our community's interests through advocacy, education, and engagement, while fostering a sense of belonging and inclusivity for all. 
+Our mission is to build a vibrant community by promoting Chinese culture and heritage, serving the Chinese American community in Oregon, and ensuring that no one is left behind. We strive to advance our community's interests through advocacy, education, and engagement, while fostering a sense of belonging and inclusivity for all.
 
 ## Our Vision
 
@@ -104,7 +104,8 @@ Congratulations to following Chinese Americans who won national recognitions in 
 
 ### Marshall Scholarship
 
-2020 Isaac Cui ’20 at Pomona College, from Beaverton [News](https://www.pomona.edu/news/2019/12/09-isaac-cui-20-awarded-prestigious-marshall-scholarship-study-uk)
+2024 Rupert Li '24 at MIT, from Portland [News](https://news.mit.edu/2023/anushree-chaudhuri-rupert-li-marshall-scholars-1211)  
+2020 Isaac Cui ’20 at Pomona College, from Beaverton [News](https://www.pomona.edu/news/2019/12/09-isaac-cui-20-awarded-prestigious-marshall-scholarship-study-uk)  
 
 ### Prudential Community Service Award National Honorees
 
@@ -112,14 +113,12 @@ Congratulations to following Chinese Americans who won national recognitions in 
 
 ### Regeneron Science Talent Search (STS) Top 10 Winners
 
-2020 Rupert Li, Senior at Jesuit High School, from Portland [News](https://www.societyforscience.org/press-release/virtual-regeneron-science-talent-search-2020-winners/)
-
-2021 Wenjun Hou, Senior at Jesuit High School, from Portland [News](https://www.prnewswire.com/news-releases/teen-scientists-win-1-8-million-at-virtual-regeneron-science-talent-search-2021-for-remarkable-research-on-infinite-matching-algorithms-machine-learning-to-evaluate-new-medicines-and-water-filtration-301249747.html)
+2020 Rupert Li, Senior at Jesuit High School, from Portland [News](https://www.societyforscience.org/press-release/virtual-regeneron-science-talent-search-2020-winners/)  
+2021 Wenjun Hou, Senior at Jesuit High School, from Portland [News](https://www.prnewswire.com/news-releases/teen-scientists-win-1-8-million-at-virtual-regeneron-science-talent-search-2021-for-remarkable-research-on-infinite-matching-algorithms-machine-learning-to-evaluate-new-medicines-and-water-filtration-301249747.html)  
 
 ### Scholastic Art & Writing Awards National Winners
 
-2022 Jenny Chen, Freshman at Lincoln High School, from Portland [News](https://newsroom.artandwriting.org/2022/05/31/best-of-the-best-meet-the-2022-best-in-grade-award-winners/)
-
-2016 Sophia Mautz, Junior at Lincoln High School, from Portland [News](https://oomscholasticblog.com/post/scholastic-art-writing-awards-2016-national-winners-announced)
+2022 Jenny Chen, Freshman at Lincoln High School, from Portland [News](https://newsroom.artandwriting.org/2022/05/31/best-of-the-best-meet-the-2022-best-in-grade-award-winners/)  
+2016 Sophia Mautz, Junior at Lincoln High School, from Portland [News](https://oomscholasticblog.com/post/scholastic-art-writing-awards-2016-national-winners-announced)  
 
 *There is no implication of OCC affiliation or sponsorship for the Hall of Famers.*
