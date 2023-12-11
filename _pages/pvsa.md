@@ -122,10 +122,7 @@ feature_row3:
 
 {% include feature_row id="feature_row1"%}
 
-
-### Community Volunteer Service Award  
-(PVSA Equivalent Award for Non-Resident Volunteers)
-
+Contents will be available soon...
 
 ### Archive
 
