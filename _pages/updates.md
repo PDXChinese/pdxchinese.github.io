@@ -8,7 +8,7 @@ permalink: /updates/
 ### [2023青少年圆桌会/Youth Roundtable](https://pdxchinese.org/youthroundtable/)
 
 **Place:** TBD （in person)  
-**Date:** 12/30/2023, 2pm-4pm  
+**Date:** 12/30/2023, 1pm-4pm  
 Register To join, please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_mgEl-2QBBaTOLoIwdgKmCw3K9CXkgN2Kg/viewform?usp=sf_link)  
 
 ### [2024 社区健康博览会/Community Health Fair](https://pdxchinese.org/healthfair/)

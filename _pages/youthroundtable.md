@@ -9,7 +9,7 @@ permalink: /youthroundtable/
 # 7th Annual Oregon Chinese Youth Roundtable
 
 ## Date
-12/30/2022 Saturday 1pm - 4pm
+12/30/2023 Saturday 1pm - 4pm
 
 ## Place
 
