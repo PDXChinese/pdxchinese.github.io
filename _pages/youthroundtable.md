@@ -42,13 +42,13 @@ Host 1: **Brian Barker**, Junior at Sunset High School, Founder of [Chinese Heri
 >### Education and Career Planning:  
 *Share experiences and tips on academic success.*  
 *Discuss career aspirations and potential pathways.*  
-Host 1: **Poline's son**, Sophmore at George Tech, Naval ROTC, majoring in civi engineering.  
-Host 2: **Mei's daughter**, Freshman at , Air Force ROTC, aiming to become a pilot.  
+Host 1: **Eatin Wen**, Sophmore at George Tech, Naval ROTC, majoring in civi engineering.  
+Host 2: **Sophia Wang**, Freshman at Boston University, Air Force ROTC, aiming to become a pilot.  
 
 >### Mental Health and Well-being:  
 *Address the importance of mental health awareness.*  
 *Share coping strategies for stress and challenges.*  
-Organized by OCC Youth Council  
+2nd round of breakout session organized by OCC Youth Council  
 
 >### Technology and Social Media:  
 *Discuss the role of technology in youth lives.*  
@@ -59,6 +59,7 @@ Host 2: **Ethan Zhang**, Junior at Westview High Schoiok, [Youth Cyber Defender]
 >### Environmental Awareness:  
 *Explore ways youth can contribute to environmental sustainability.*  
 *Discuss the impact of climate change on communities.*  
+Host 1: **Alan Ma**, Freshman at Stanford University, Organizor of Youth Environmental Summit with TRNWR  
 
 >### Community Building Projects:  
 *Brainstorm ideas for youth-led community projects.*  
@@ -79,7 +80,7 @@ Host 1: **[Natalie Wang](https://studentaffairs.jhu.edu/socialconcern/an-insight
 >### Arts and Culture Expression:  
 *Discuss the role of arts and culture in personal expression.*  
 *Share creative projects and initiatives.*  
-Host 1: **Matthew** at The Art Institute of California, majoring in animation design.  
+Host 1: **Matthew** at California Institute of the Arts, majoring in animation design.  
 
 >### Building Bridges between Generations:  
 *Discuss ways to enhance understanding and communication between youth and older generations.*  

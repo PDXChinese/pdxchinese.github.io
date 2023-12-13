@@ -82,7 +82,7 @@ Mr. Shi graduated from Peking University with B.S. and M.S. degree, both in elec
 ### Katie Jin, President  
 Sophomore at Catlin Gabel School  
 
-### Claire Cao, Vise President  
+### Claire Cao, Vice President  
 Junior at Jesuit High School  
 
 ### Ethan Zhang, Secretary  
