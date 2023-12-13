@@ -28,24 +28,69 @@ Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_
 
 **PVSA Ceremony:** Congratulations to the PVSA recipients OCC helped certify in 2023!
 
-**Whole Group Roundtable**
+** 1st Round of Breakout Sessions**
 
-**Breakout Sessions**
+<code style="color:brown">Community Engagement and Volunteering:</code>  
+*Discuss the impact of youth engagement in community service.*  
+*Share success stories of community projects led by youth.*  
+Host 1: Brian Barker, Junior at Sunset High School, Founder of [Chinese Heritage Society](https://sites.google.com/view/sunsetchs/home)  
 
-> Military Career  
-> Hosted by  
+<code style="color:brown">Cultural Identity and Diversity:</code>  
+*Explore the challenges and benefits of maintaining cultural identity.*  
+*Discuss ways to promote diversity and inclusion within the community.*  
 
-> Reflection of 4 Years College Life  
-> Hosted by  
+<code style="color:brown">Education and Career Planning:</code>  
+*Share experiences and tips on academic success.*  
+*Discuss career aspirations and potential pathways.*  
+Host 1: Poline, Sophmore at George Tech, Naval ROTC, majoring in civi engineering.  
+Host 2: Mei, Freshman at , Air Force ROTC, aiming to become a pilot.  
 
-> Career Track on Law and Humanities  
-> Hosted by  
+<code style="color:brown">Mental Health and Well-being:</code>  
+*Address the importance of mental health awareness.*  
+*Share coping strategies for stress and challenges.*  
+Organized by OCC Youth Council  
 
-> AI: Opportunities and Challenges   
-> Hosted by  
+<code style="color:brown">Technology and Social Media:</code>  
+*Discuss the role of technology in youth lives.*  
+*Share insights on responsible social media usage.*  
+Host 1: Fiona Wang, Senior at Sunset High School, Captain of [FTC Team 12599](https://overchargedrobotics.org/)  
+Host 2: Ethan Zhang, Junior at Westview High Schoiok, [Youth Cyber Defender](https://www.youthcyberdefender.org/)  
 
-*more sessions will be added...*
+<code style="color:brown">Environmental Awareness:</code>  
+*Explore ways youth can contribute to environmental sustainability.*  
+*Discuss the impact of climate change on communities.*  
 
+<code style="color:brown">Community Building Projects:</code>  
+*Brainstorm ideas for youth-led community projects.*  
+*Discuss the challenges and rewards of initiating community initiatives.*  
+Host 1：Claire Cao，Junior at Jesuit High School, Founder and Team Leader of [Jade Dance Team](https://pdxchinese.org/youthdance/)  
+Host 2: Katie Jin, Sophmore at Catlin Gabel School, Leader of [Chinatown Mural Project](https://pdxchinese.org/murals_in_chinatown_2023/)  
+
+<code style="color:brown">Civic Engagement and Advocacy:</code>  
+*Discuss the importance of youth participation in civic activities.*  
+*Explore ways to advocate for positive change in the community.*  
+Host 1: Jenell Theobald, Junior at ISB, Founder of [Let's Peer Up](https://letspeerup.godaddysites.com/)  
+
+<code style="color:brown">Youth Leadership Development:</code>  
+*Share experiences and challenges in leadership roles.*  
+*Discuss opportunities for youth leadership development.*  
+Host 1: Natalie Wang, Senior at John Hopkins Univ, majoring in Neuroscience, etc  
+
+<code style="color:brown">Arts and Culture Expression:</code>  
+*Discuss the role of arts and culture in personal expression.*  
+*Share creative projects and initiatives.*  
+Host 1: Matthew at The Art Institute of California in Los Angeles  
+
+<code style="color:brown">Building Bridges between Generations:</code>  
+*Discuss ways to enhance understanding and communication between youth and older generations.*  
+*Share experiences of intergenerational collaboration.*  
+Host 1: Grace Liu, retired architect and community advocate  
+
+*The Breakout sessions will be finalized based on the availablability of hosts*
+
+**2nd Round of Breakout Sessions**
+
+In design stage by OCC Youth Council
 
 ### Logo designed by [Olando Lin](https://www.linkedin.com/in/olando-lin-3696ab37/)
 
