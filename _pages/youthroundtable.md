@@ -64,7 +64,7 @@ Host 2: **Ethan Zhang**, Junior at Westview High Schoiok, [Youth Cyber Defender]
 *Brainstorm ideas for youth-led community projects.*  
 *Discuss the challenges and rewards of initiating community initiatives.*  
 Host 1：**Claire Cao**，Junior at Jesuit High School, Founder and Team Leader of [Jade Dance Team](https://pdxchinese.org/youthdance/)  
-Host 2: **Katie Jin**, Sophmore at Catlin Gabel School, Leader of [Chinatown Mural Project](https://pdxchinese.org/murals_in_chinatown_2023/)  
+Host 2: **Katie Jin**, Sophomore at Catlin Gabel School, Leader of [Chinatown Mural Project](https://pdxchinese.org/murals_in_chinatown_2023/)  
 
 >### Civic Engagement and Advocacy:  
 *Discuss the importance of youth participation in civic activities.*  

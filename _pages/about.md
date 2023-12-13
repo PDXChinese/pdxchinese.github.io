@@ -79,20 +79,20 @@ Mr. Shi graduated from Peking University with B.S. and M.S. degree, both in elec
 
 ## Student Council
 
-### President  
-Katie Jin, Sophmore at Catrlin Gabel School  
+### Katie Jin, President  
+Sophomore at Catlin Gabel School  
 
-### Vise President  
-Claire Cao, Junior at Jesuit High School  
+### Claire Cao, Vise President  
+Junior at Jesuit High School  
 
-### Secretary  
-Ethan Zhang, Junior ar Westview High School  
+### Ethan Zhang, Secretary  
+Junior at Westview High School  
 
-### Public Relations/Communicatiobs Officer
-Fiona Wang, Senior at Sunset High School
+### Fiona Wang, Public Relations/Communications Officer
+Senior at Sunset High School
 
-### Community Liaison
-Brian Barker, Junior at Sunset High School
+### Brian Barker, Community Liaison
+Junior at Sunset High School
 
 ## Legal Counsel
 
