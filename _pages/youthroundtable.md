@@ -79,7 +79,7 @@ Host 1: **[Natalie Wang](https://studentaffairs.jhu.edu/socialconcern/an-insight
 ### Arts and Culture Expression:  
 *Discuss the role of arts and culture in personal expression.*  
 *Share creative projects and initiatives.*  
-Host 1: **Matthew** at The Art Institute of California in Los Angeles  
+Host 1: **Matthew** at The Art Institute of California, majoring in animation design.  
 
 ### Building Bridges between Generations:  
 *Discuss ways to enhance understanding and communication between youth and older generations.*  
