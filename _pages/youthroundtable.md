@@ -24,11 +24,11 @@ Middle and high school students, college students, and college graduates
 
 Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_mgEl-2QBBaTOLoIwdgKmCw3K9CXkgN2Kg/viewform?usp=sf_link), we will update you the latest update about the event. (We understand parents can register the event for their children especially when they are under eighteen years old.)
 
-## Agenda 1pm - 2pm
+## Agenda 1pm - 4pm
 
 **PVSA Ceremony:** Congratulations to the PVSA recipients OCC helped certify in 2023!
 
-** 1st Round of Breakout Sessions**
+### 1st Round of Breakout Sessions
 
 ### Community Engagement and Volunteering:  
 *Discuss the impact of youth engagement in community service.*  
@@ -74,7 +74,7 @@ Host 1: **Jenell Theobald**, Junior at ISB, Founder of [Let's Peer Up](https://l
 ### Youth Leadership Development:  
 *Share experiences and challenges in leadership roles.*  
 *Discuss opportunities for youth leadership development.*  
-Host 1: **Natalie Wang**, Senior at John Hopkins Univ, majoring in Neuroscience, etc  
+Host 1: **[Natalie Wang](https://studentaffairs.jhu.edu/socialconcern/an-insight-into-ciip-natalie-wang/)**, Senior at John Hopkins Univ, majoring in Neuroscience, etc  
 
 ### Arts and Culture Expression:  
 *Discuss the role of arts and culture in personal expression.*  
@@ -88,7 +88,7 @@ Host 1: **Grace Liu**, retired architect and community advocate
 
 *The Breakout sessions will be finalized based on the availablability of hosts*
 
-**2nd Round of Breakout Sessions**
+### 2nd Round of Breakout Sessions
 
 In design stage by OCC Youth Council
 
