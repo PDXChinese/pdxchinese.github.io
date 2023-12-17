@@ -26,7 +26,8 @@ Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_
 
 ## Agenda 1pm - 4pm
 
-**PVSA Ceremony:** Congratulations to the PVSA recipients OCC helped certify in 2023!
+**PVSA Ceremony:** Congratulations to 68 PVSA recipients OCC helped certify in 2023!  
+Hosted by the certification volunteers: **Xinmei Li** and **Jing Liu**  
 
 ### 1st Round of Breakout Sessions
 
@@ -42,6 +43,7 @@ Host 1: **Brian Barker**, Junior at Sunset High School, Founder of [Chinese Heri
 >### Education and Career Planning:  
 *Share experiences and tips on academic success.*  
 *Discuss career aspirations and potential pathways.*  
+Host 1: **[Rupert Li](https://news.mit.edu/2023/anushree-chaudhuri-rupert-li-marshall-scholars-1211)**, Senior at MIT, majoring in math  
 Host 1: **Eatin Wen**, Sophmore at George Tech, Naval ROTC, majoring in civi engineering.  
 Host 2: **Sophia Wang**, Freshman at Boston University, Air Force ROTC, aiming to become a pilot.  
 
@@ -59,7 +61,7 @@ Host 2: **Ethan Zhang**, Junior at Westview High Schoiok, [Youth Cyber Defender]
 >### Environmental Awareness:  
 *Explore ways youth can contribute to environmental sustainability.*  
 *Discuss the impact of climate change on communities.*  
-Host 1: **Alan Ma**, Freshman at Stanford University, Organizor of Youth Environmental Summit with TRNWR  
+Host 1: **Alan Ma**, Freshman at Stanford University, Organizer of Youth Environmental Summit with TRNWR  
 
 >### Community Building Projects:  
 *Brainstorm ideas for youth-led community projects.*  
@@ -85,7 +87,7 @@ Host 1: **Matthew** at California Institute of the Arts, majoring in animation d
 >### Building Bridges between Generations:  
 *Discuss ways to enhance understanding and communication between youth and older generations.*  
 *Share experiences of intergenerational collaboration.*  
-Host 1: **Grace Liu**, retired architect and community advocate  
+Host 1: **Grace Liu**, retired engineer and community advocate  
 
 *The Breakout sessions will be finalized based on the availablability of hosts*
 
