@@ -43,7 +43,7 @@ Host 1: **Brian Barker**, Junior at Sunset High School, Founder of [Chinese Heri
 >### Education and Career Planning:  
 *Share experiences and tips on academic success.*  
 *Discuss career aspirations and potential pathways.*  
-Host 1: **[Rupert Li](https://news.mit.edu/2023/anushree-chaudhuri-rupert-li-marshall-scholars-1211)**, Senior at MIT, majoring in mathematics  
+Host 1: **[Rupert Li](https://news.mit.edu/2023/anushree-chaudhuri-rupert-li-marshall-scholars-1211)**, Senior at MIT, majoring in mathematics, 2024 Marshall Scholar  
 Host 2: **Eatin Wen**, Sophomore at George Tech, Naval ROTC, majoring in civic engineering.  
 Host 3: **Sophia Wang**, Freshman at Boston University, Air Force ROTC, aiming to become a pilot.  
 
