@@ -105,8 +105,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Helen_Wang/'>Helen Wang, Sunset High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Sophia_Wang
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Sophia_Wang/'>Sophia Wang, Sunset High School (Silver Award)</a></p>"
-    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Ziyue_Wang
-      excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Ziyue_Wang/'>Ziyue Wang, Lincoln High School (Gold Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Ziyue_Wang
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Ziyue_Wang/'>Ziyue Wang, Lincoln High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Emma_Wei
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Emma_Wei/'>Emma Wei, St. Mary’s Academy (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Jasper_Xu
