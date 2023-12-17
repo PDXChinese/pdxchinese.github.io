@@ -43,9 +43,9 @@ Host 1: **Brian Barker**, Junior at Sunset High School, Founder of [Chinese Heri
 >### Education and Career Planning:  
 *Share experiences and tips on academic success.*  
 *Discuss career aspirations and potential pathways.*  
-Host 1: **[Rupert Li](https://news.mit.edu/2023/anushree-chaudhuri-rupert-li-marshall-scholars-1211)**, Senior at MIT, majoring in math  
-Host 1: **Eatin Wen**, Sophmore at George Tech, Naval ROTC, majoring in civi engineering.  
-Host 2: **Sophia Wang**, Freshman at Boston University, Air Force ROTC, aiming to become a pilot.  
+Host 1: **[Rupert Li](https://news.mit.edu/2023/anushree-chaudhuri-rupert-li-marshall-scholars-1211)**, Senior at MIT, majoring in mathematics  
+Host 2: **Eatin Wen**, Sophomore at George Tech, Naval ROTC, majoring in civic engineering.  
+Host 3: **Sophia Wang**, Freshman at Boston University, Air Force ROTC, aiming to become a pilot.  
 
 >### Mental Health and Well-being:  
 *Address the importance of mental health awareness.*  
@@ -56,7 +56,7 @@ Host 2: **Sophia Wang**, Freshman at Boston University, Air Force ROTC, aiming t
 *Discuss the role of technology in youth lives.*  
 *Share insights on responsible social media usage.*  
 Host 1: **Fiona Wang**, Senior at Sunset High School, Captain of [FTC Team 12599](https://overchargedrobotics.org/)  
-Host 2: **Ethan Zhang**, Junior at Westview High Schoiok, [Youth Cyber Defender](https://www.youthcyberdefender.org/)  
+Host 2: **Ethan Zhang**, Junior at Westview High School, [Youth Cyber Defender](https://www.youthcyberdefender.org/)  
 
 >### Environmental Awareness:  
 *Explore ways youth can contribute to environmental sustainability.*  
