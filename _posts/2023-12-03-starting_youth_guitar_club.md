@@ -16,3 +16,6 @@ date: "2023-12-03"
 δος μοι που στω και κινο την γην. Thank you, Natasha（娜塔莎）吉他, for your donation, which inspired us to start this youth guitar group in the community. People will see them performing in schools, senior homes and community centers.
 
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/UKCpIt3rYL0" title="OCC Youth Guitar Club Recruitment Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
+<iframe width="2135" height="1200" src="https://www.youtube.com/embed/Pg47mP2xfuQ" title="Meet our Teachers at First Gathering of Youth Guitar Club" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

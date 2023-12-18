@@ -12,7 +12,7 @@ date: "2023-12-14"
 The holiday season performance debut at Bolton Elementary School yesterday was a tremendous success. The students in the two Mandarin classes had the chance to learn and play drums with our Mulan Drum team members. The team also prepared a new program specifically for Lunar New Year celebrations, and it turned out to be a big hit with the students, who even asked for a second performance.
 
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/4rYBPRmogc8" title="Holiday Season Performance Debut at Bolton Elementary School" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<br>
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/411310298_347178311280591_5665395286844911806_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/411321015_347178104613945_8193415025395424118_n)
@@ -66,3 +66,7 @@ The holiday season performance debut at Bolton Elementary School yesterday was a
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/411344118_347178904613865_2441899760421256341_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/411344549_347179071280515_6961190555281993860_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/411038935_348757277789361_8917134349642489759_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/412427948_348757424456013_5174845086337198378_n)
