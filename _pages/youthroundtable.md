@@ -8,21 +8,20 @@ permalink: /youthroundtable/
 ## 2023年俄勒冈华裔青少年圆桌会
 # 7th Annual Oregon Chinese Youth Roundtable
 
-## Date
-12/30/2023 Saturday 1pm - 4pm
+## Date  
+12/30/2023 Saturday 1pm - 4pm  
 
-## Place
-Hope Chinese Charter School (3500 SW 104th Ave, Beaverton, OR 97005)
+## Place  
+Hope Chinese Charter School (3500 SW 104th Ave, Beaverton, OR 97005)  
 
-**Parking:** Please park in the the west side of the school building (in front of school main entrance), try not to park on the north side which is lodge's property.
+**Parking:** Please park in the west side of the school building (in front of school main entrance), try not to park on the north side which is lodge's property.
 
-## Participants
+## Participants  
+Middle and high school students, college students, and college graduates  
+**To list your name below as one of the hosts for a breakout session, please contact 西北兆 via WeChat or email to info@pdxchinese.org**  
 
-Middle and high school students, college students, and college graduates
-
-## Registration
-
-Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_mgEl-2QBBaTOLoIwdgKmCw3K9CXkgN2Kg/viewform?usp=sf_link), we will update you the latest update about the event. (We understand parents can register the event for their children especially when they are under eighteen years old.)
+## Registration  
+Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_mgEl-2QBBaTOLoIwdgKmCw3K9CXkgN2Kg/viewform?usp=sf_link), we will update you the latest update about the event. (We understand parents can register the event for their children especially when they are under eighteen years old.)  
 
 ## Agenda 1pm - 4pm
 
