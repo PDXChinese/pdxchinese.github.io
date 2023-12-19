@@ -18,7 +18,7 @@ feature_row2:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Yiran_Chen
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Yiran_Chen/'>Yiran Chen, Lincoln High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Eli_Du
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Eli__Du/'>Eli Du, Lakeridge High School (Gold Award)</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Eli_Du/'>Eli Du, Lakeridge High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Shunyu_Du
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Shunyu_Du/'>Shunyu Du, Westview High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Michael_Fu
