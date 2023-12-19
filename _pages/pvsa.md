@@ -57,7 +57,9 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Joanna_Mei/'>Joanna Mei, Sunset High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Tiantong_Shang
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Tiantong_Shang/'>Tiantong Shang, Oregon Episcopal School (Gold Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Eleanor_Song
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Ashvika_Singhal
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Ashvika_Singhal/'>Ashvika Singhal, Sunset High School (Gold Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Yining_Tang
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Eleanor_Song/'>Eleanor Song, Sunset High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Yining_Tang
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Yining_Tang/'>Yining Tang, Sunset High School (Gold Award)</a></p>"
