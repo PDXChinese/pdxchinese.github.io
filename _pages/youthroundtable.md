@@ -41,6 +41,7 @@ Host 1: **Brian Barker**, Junior at Sunset High School, Founder of [Chinese Heri
 >### Cultural Identity and Diversity:  
 *Explore the challenges and benefits of maintaining cultural identity.*  
 *Discuss ways to promote diversity and inclusion within the community.*  
+Host 1: Justin Xia, Junior at Catlin Gabel School  
 
 >### Education and Career Planning:  
 *Share experiences and tips on academic success.*  

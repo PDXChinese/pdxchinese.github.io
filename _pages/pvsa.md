@@ -13,8 +13,6 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Brian_Barker/'>Brian Barker, Sunset High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Claire_Cao
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Claire_Cao/'>Claire Cao, Jesuit High School (Gold Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Kyle_Chen
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Kyle_Chen/'>Kyle Chen, Lincoln High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Xinyan_Chen
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Xinyan_Chen/'>Xinyan Chen, Lake Oswego High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Yiran_Chen
@@ -103,6 +101,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Claudia_Zhuge/'>Claudia Zhuge, Sunset High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Noah_Von_Dem_Bruch
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Noah_Von_Dem_Bruch/'>Noah Von Dem Bruch, Lincoln High School (Silver Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Kyle_Chen
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Kyle_Chen/'>Kyle Chen, Lincoln High School (Silver Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Aaron_Guo
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Aaron_Guo/'>Aaron Guo, Sunset High School (Silver Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Theodore_Guo
