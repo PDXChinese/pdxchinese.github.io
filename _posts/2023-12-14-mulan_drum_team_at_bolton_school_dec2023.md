@@ -9,9 +9,9 @@ date: "2023-12-14"
 
 这次演出为庆祝农历新年拉开了序幕，这已经是 OCC 走进社区庆祝中国农历新年和多元文化的第二个年头了，鼓队还有其他的几个表演团体一年下来要参加近50场演出，大家为能有机会深入社区宣传中国文化而感到自豪。虽然很辛苦，而且都是义务在做，但大家都觉得这样的付出非常的值得。
 
-The holiday season performance debut at Bolton Elementary School yesterday was a tremendous success. The students in the two Mandarin classes had the chance to learn and play drums with our Mulan Drum team members. The team also prepared a new program specifically for Lunar New Year celebrations, and it turned out to be a big hit with the students, who even asked for a second performance.
+The holiday season performance debut at Bolton Primary School yesterday was a tremendous success. The students in the two Mandarin classes had the chance to learn and play drums with our Mulan Drum team members. The team also prepared a new program specifically for Lunar New Year celebrations, and it turned out to be a big hit with the students, who even asked for a second performance.
 
-<iframe width="2135" height="1200" src="https://www.youtube.com/embed/4rYBPRmogc8" title="Holiday Season Performance Debut at Bolton Elementary School" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="2135" height="1200" src="https://www.youtube.com/embed/4rYBPRmogc8" title="Holiday Season Performance Debut at Bolton Primary School" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/411310298_347178311280591_5665395286844911806_n)
 
@@ -40,8 +40,6 @@ The holiday season performance debut at Bolton Elementary School yesterday was a
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/411333439_347178211280601_2574897714498399792_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/411252712_347177847947304_197129786783298942_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/411330695_347178221280600_3522733317359691405_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images411302366_347177997947289_8890276037838309762_n)
 
