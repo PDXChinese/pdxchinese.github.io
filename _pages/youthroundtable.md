@@ -98,22 +98,22 @@ Host 1: **Grace Liu**, retired engineer and community advocate
 
 You can choose to either be apart of the Parent Panel or the Youth Panel (they will be happening simultaneously). Organizations Representatives are a part of the Youth Panel, so speakers may be both a Youth Panel Speaker and Organization Representative.
 
-**If you would like to be a speaker or presenter at the event, please register using [this form](https://docs.google.com/forms/d/e/1FAIpQLSdbvXt6jZmNA1z79NhKGUGmB4GU7wZoIDr20ztO4kmWNxAbEg/viewform) by Saturday, December 23rd (12/23/2023) at 11:00AM. **
+**If you would like to be a speaker or presenter at the event, please register using [this form](https://docs.google.com/forms/d/e/1FAIpQLSdbvXt6jZmNA1z79NhKGUGmB4GU7wZoIDr20ztO4kmWNxAbEg/viewform) by Saturday, December 23rd (12/23/2023) at 11:00AM.**
 
->###Parent Panel Speaker (~60 minutes):  
+>### Parent Panel Speaker (~60 minutes):  
 Parent panel speakers are youth who will answer questions about mental health to foster conversation and communication between adults and youth.   
-High school upperclassmen and college speakers (4-6 speakers)  
-Answering parents' questions on teen mental health (eg. burnout, academic pressure, social anxiety, etc.)  
+- High school upperclassmen and college speakers (4-6 speakers)  
+- Answering parents' questions on teen mental health (eg. burnout, academic pressure, social anxiety, etc.)  
 
 >### Youth Panel Speaker (~90 minutes):
 Middle and high school students will have the opportunity to ask high school upperclassmen, college, and post-college speakers questions.  
-We are looking for high school upperclassmen, college, and post-college speakers  
-You will sit in the front and answer any questions students may have about high school, extracurricular activities, college applications, college, post-college, etc.  
+- We are looking for high school upperclassmen, college, and post-college speakers  
+- You will sit in the front and answer any questions students may have about high school, extracurricular activities, college applications, college, post-college, etc.  
 
 >### Youth Panel Organization Representative (Presentations occur during the Youth Panel):   
 Presentations about community organizations will occur during the Youth Panel as an opportunity for individuals to showcase their organizations and for other students to discover new organizations to join.  
-You will have ~1-2 minutes to present and 1 Google slide about your organization  
-Please only have one member per organization sign up, but you may have multiple presenters during the roundtable youth panel  
+- You will have ~1-2 minutes to present and 1 Google slide about your organization  
+- Please only have one member per organization sign up, but you may have multiple presenters during the roundtable youth panel  
 
 ### Logo designed by [Olando Lin](https://www.linkedin.com/in/olando-lin-3696ab37/)
 
