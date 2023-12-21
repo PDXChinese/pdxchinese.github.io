@@ -9,7 +9,7 @@ feature_row1:
 
 # Claire Cao - Gold Award
 
-**School: Lincoln High School**  
+**School: Jesuit High School**  
 **Category: Young Adults (16-25)**  
 **Hours: 382**  
 
