@@ -152,6 +152,8 @@ feature_row3:
 
 Congratulations to the 70 youth OCC has assisted in certifying their volunteering hours for the President's Volunteer Service Awards (PVSA). Together, in one year, they have contributed 11,387 hours in supporting the community, aiding vulnerable individuals, and extending helping hands to their peers. We will hold a ceremony for all awardees during the 7th [Community Youth Roundtable](https://pdxchinese.org/youthroundtable/) on Dec 30.
 
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/pvsa_letter)
+
 {% include feature_row id="feature_row2"%}
 
 ### Community Volunteer Service Award  
