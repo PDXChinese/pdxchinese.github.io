@@ -7,7 +7,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Brian Barker - Bronze Award
+# Brian Barker - Gold Award
 
 **School: Sunset High School**  
 **Category: Teens (11-15)**  
@@ -17,7 +17,7 @@ Hi! My name is Brian and I’m a Junior at Sunset High School. Over the past yea
 
 I aim to achieve my mission in large part through digital multimedia formats. I enjoy capturing the vibrant and memorable aspects of Chinese culture and history in Oregon and sharing them with others. I participate in the Youth Lens program as a youth journalist, working to interview Chinese-American residents of Oregon and document their stories through video, producing interviews on Oral history that are available to all.  I also work as a photographer, videographer, and video producer for the OCC, covering festivals, events, and the OCC Portland Fire Dragon boating team.
 
-Additionally, I often work as a general volunteer or backstage at OCC events, assisting with operations or technical tasks. This year, I became a member of the OCC's youth council, and co-founded the Chinese Heritage Society club in Sunset High School. Both of these initiatives are focused on advocating and providing opportunities for young members of our communities, bringing meaningful change to our communities throughout Oregon. 
+Additionally, I often work as a general volunteer or backstage at OCC events, assisting with operations or technical tasks. This year, I became a member of the OCC's youth council, and co-founded the Chinese Heritage Society club in Sunset High School. Both of these initiatives are focused on advocating and providing opportunities for young members of our communities, bringing meaningful change to our communities throughout Oregon.
 
 In addition to working with the OCC, I also volunteer for the American Red Cross as a coordinator for the Volunteer Screening team. I help recruit volunteers and manage the screening process for potential candidates. I’m proud to be part of an organization that provides humanitarian aid and disaster relief to those in need.
 

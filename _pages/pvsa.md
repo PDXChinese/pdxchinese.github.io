@@ -11,6 +11,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Monica_Bao/'>Monica Bao, Beaverton Academy of Science and Engineering High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Brian_Barker
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Brian_Barker/'>Brian Barker, Sunset High School (Gold Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Noah_Von_Dem_Bruch
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Noah_Von_Dem_Bruch/'>Noah Von Dem Bruch, Lincoln High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Claire_Cao
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Claire_Cao/'>Claire Cao, Jesuit High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Xinyan_Chen
@@ -99,8 +101,6 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Ziyu_Zhu/'>Ziyu Zhu, Lincoln High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Claudia_Zhuge
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Claudia_Zhuge/'>Claudia Zhuge, Sunset High School (Gold Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Noah_Von_Dem_Bruch
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Noah_Von_Dem_Bruch/'>Noah Von Dem Bruch, Lincoln High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Kyle_Chen
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Kyle_Chen/'>Kyle Chen, Lincoln High School (Silver Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Ashley_Fong
@@ -150,7 +150,7 @@ feature_row3:
 
 {% include feature_row id="feature_row1"%}
 
-Congratulations to the 70 youth OCC has assisted in certifying their volunteering hours for the President's Volunteer Service Awards (PVSA). Together, in one year, they have contributed 11,362 hours in supporting the community, aiding vulnerable individuals, and extending helping hands to their peers. We will hold a ceremony for all awardees during the 7th [Community Youth Roundtable](https://pdxchinese.org/youthroundtable/) on Dec 30.
+Congratulations to the 70 youth OCC has assisted in certifying their volunteering hours for the President's Volunteer Service Awards (PVSA). Together, in one year, they have contributed 11,387 hours in supporting the community, aiding vulnerable individuals, and extending helping hands to their peers. We will hold a ceremony for all awardees during the 7th [Community Youth Roundtable](https://pdxchinese.org/youthroundtable/) on Dec 30.
 
 {% include feature_row id="feature_row2"%}
 
