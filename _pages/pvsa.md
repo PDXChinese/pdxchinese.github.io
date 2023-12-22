@@ -11,7 +11,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Monica_Bao/'>Monica Bao, Beaverton Academy of Science and Engineering High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Brian_Barker
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Brian_Barker/'>Brian Barker, Sunset High School (Gold Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Noah_Von_Dem_Bruch
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Noah_Von_Dem_Bruch1
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Noah_Von_Dem_Bruch/'>Noah Von Dem Bruch, Lincoln High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Claire_Cao
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Claire_Cao/'>Claire Cao, Jesuit High School (Gold Award)</a></p>"
