@@ -33,6 +33,8 @@ Hosted by the certification volunteers: **Xinmei Li** and **Jing Liu**
 
 ### 1st Round of Breakout Sessions
 
+To join as one of the hosts, please contact 西北兆 on WeChat or send an email to info@pdxchinese.org.
+
 >### Community Engagement and Volunteering:  
 *Discuss the impact of youth engagement in community service.*  
 *Share success stories of community projects led by youth.*  
