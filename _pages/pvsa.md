@@ -29,7 +29,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Michael_Fu/'>Michael Fu, Sunset High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Doris_Hong
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Doris_Hong/'>Doris Hong, Hope Chinese Charter School (Gold Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Allison_Hu
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Allison_Hu1
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Allison_Hu/'>Allison Hu, Lincoln High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Sophia_Hu
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Sophia_Hu/'>Sophia_Hu, Catlin Gabel School (Gold Award)</a></p>"
