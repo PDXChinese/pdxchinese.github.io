@@ -39,6 +39,7 @@ To join as one of the hosts, please contact 西北兆 on WeChat or send an email
 *Discuss the impact of youth engagement in community service.*  
 *Share success stories of community projects led by youth.*  
 Host 1: **Brian Barker**, Junior at Sunset High School, Founder of [Chinese Heritage Society](https://sites.google.com/view/sunsetchs/home)  
+Host 2: **Allison Hu**, Freshman at Lincoln High School, Lincoln HS Freshman Student Government  
 
 >### Cultural Identity and Diversity:  
 *Explore the challenges and benefits of maintaining cultural identity.*  
@@ -49,8 +50,8 @@ Host 1: **Justin Xia**, Junior at Catlin Gabel School
 *Share experiences and tips on academic success.*  
 *Discuss career aspirations and potential pathways.*  
 Host 1: **[Rupert Li](https://news.mit.edu/2023/anushree-chaudhuri-rupert-li-marshall-scholars-1211)**, Senior at MIT, majoring in mathematics, 2024 Marshall Scholar  
-Host 2: **Eatin Wen**, Sophomore at Georgia Tech, Naval ROTC, majoring in civic engineering.  
-Host 3: **Sophia Wang**, Freshman at Boston University, Air Force ROTC, aiming to become a pilot.  
+Host 2: **Sophia Wang**, Freshman at Boston University, Air Force ROTC, aiming to become a pilot.  
+Host 3: **Eatin Wen**, Sophomore at Georgia Tech, Naval ROTC, majoring in civic engineering.  
 
 >### Mental Health and Well-being:  
 *Address the importance of mental health awareness.*  
