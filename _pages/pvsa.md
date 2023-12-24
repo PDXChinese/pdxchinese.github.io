@@ -141,6 +141,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_James_Prasad/'>James Prasad, Lake Oswego Junior High School (Bronze Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Zong_Qu
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Zong_Qu/'>Zong Qu, Catlin Gabel School (Bronze Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Grace_Wang
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Grace_Wang/'>Grace Wang, Sunset High School (Bronze Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Sophia_Wang
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Sophia_Wang/'>Sophia Wang, Sunset High School (Bronze Award)</a></p>"
 feature_row3:
