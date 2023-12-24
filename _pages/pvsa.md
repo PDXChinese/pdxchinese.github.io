@@ -107,7 +107,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Kyle_Chen/'>Kyle Chen, Lincoln High School (Silver Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Aaron_Guo
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Aaron_Guo/'>Aaron Guo, Sunset High School (Silver Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Theodore_Guo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Theodore_Guo1
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Theodore_Guo/'>Theodore Guo, Jesuit High School (Silver Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Arianna_Hong
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Arianna_Hong/'>Arianna Hong, Scholls Heights Elementary (Silver Award)</a></p>"
