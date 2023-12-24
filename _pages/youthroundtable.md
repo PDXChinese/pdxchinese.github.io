@@ -72,8 +72,9 @@ Host 3: **Jenell Theobald**, Junior at ISB, Founder of [Let's Peer Up](https://l
 >### Youth Leadership Development:  
 *Share experiences and challenges in leadership roles.*  
 *Discuss opportunities for youth leadership development.*  
-Host 1: **[Natalie Wang](https://studentaffairs.jhu.edu/socialconcern/an-insight-into-ciip-natalie-wang/)**, Senior at John Hopkins Univ, majoring in Neuroscience, etc  
-Host 2: **Alisha Zhao**, Compass Family Services  
+Host 1: **Alvin Liu**, Majoring in Political Science at University of Southern California  
+Host 2: **[Natalie Wang](https://studentaffairs.jhu.edu/socialconcern/an-insight-into-ciip-natalie-wang/)**, Senior at John Hopkins Univ, majoring in Neuroscience, etc  
+Host 3: **Alisha Zhao**, Compass Family Services, San Francisco  
 
 >### Arts and Culture Expression:  
 *Discuss the role of arts and culture in personal expression.*  
