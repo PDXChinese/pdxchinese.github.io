@@ -28,10 +28,12 @@ Please **[register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZ
 
 ## Agenda 1pm - 4pm
 
-**PVSA Ceremony:** Congratulations to 68 PVSA recipients OCC helped certify in 2023!  
+### PVSA Ceremony 1pm-1:15pm
+
+Congratulations to 71 PVSA recipients OCC helped certify in 2023!  
 Hosted by the certification volunteers: **Xinmei Li** and **Jing Liu**  
 
-### 1st Round of Breakout Sessions
+### Group or Breakout Sessions 1:15pm-2:45pm
 
 To join as one of the hosts, please contact 西北兆 on WeChat or send an email to info@pdxchinese.org.
 
@@ -53,51 +55,34 @@ Host 1: **[Rupert Li](https://news.mit.edu/2023/anushree-chaudhuri-rupert-li-mar
 Host 2: **Sophia Wang**, Freshman at Boston University, Air Force ROTC, aiming to become a pilot.  
 Host 3: **Eatin Wen**, Sophomore at Georgia Tech, Naval ROTC, majoring in civic engineering.  
 
->### Mental Health and Well-being:  
-*Address the importance of mental health awareness.*  
-*Share coping strategies for stress and challenges.*  
-2nd round of breakout session organized by OCC Youth Council  
-
->### Technology and Social Media:  
+>### Technology, Environmental Awareness and Social Media:  
 *Discuss the role of technology in youth lives.*  
 *Share insights on responsible social media usage.*  
-Host 1: **Fiona Wang**, Senior at Sunset High School, Captain of [FTC Team 12599](https://overchargedrobotics.org/)  
-Host 2: **Ethan Zhang**, Junior at Westview High School, [Youth Cyber Defender](https://www.youthcyberdefender.org/)  
-
->### Environmental Awareness:  
-*Explore ways youth can contribute to environmental sustainability.*  
-*Discuss the impact of climate change on communities.*  
 Host 1: **Alan Ma**, Freshman at Stanford University, Organizer of Youth Environmental Summit with TRNWR  
+Host 2: **Fiona Wang**, Senior at Sunset High School, Captain of [FTC Team 12599](https://overchargedrobotics.org/)  
+Host 3: **Ethan Zhang**, Junior at Westview High School, [Youth Cyber Defender](https://www.youthcyberdefender.org/)  
 
->### Community Building Projects:  
-*Brainstorm ideas for youth-led community projects.*  
+>### Community Building Projects and Civic Engagement and Advocacy:  
+*Brainstorm ideas for youth-led community projects, Discuss the importance of youth participation in civic activities.*  
 *Discuss the challenges and rewards of initiating community initiatives.*  
 Host 1：**Claire Cao**，Junior at Jesuit High School, Founder and Team Leader of [Jade Dance Team](https://pdxchinese.org/youthdance/)  
 Host 2: **Katie Jin**, Sophomore at Catlin Gabel School, Leader of [Chinatown Mural Project](https://pdxchinese.org/murals_in_chinatown_2023/)  
-
->### Civic Engagement and Advocacy:  
-*Discuss the importance of youth participation in civic activities.*  
-*Explore ways to advocate for positive change in the community.*  
-Host 1: **Jenell Theobald**, Junior at ISB, Founder of [Let's Peer Up](https://letspeerup.godaddysites.com/)  
+Host 3: **Jenell Theobald**, Junior at ISB, Founder of [Let's Peer Up](https://letspeerup.godaddysites.com/)  
 
 >### Youth Leadership Development:  
 *Share experiences and challenges in leadership roles.*  
 *Discuss opportunities for youth leadership development.*  
 Host 1: **[Natalie Wang](https://studentaffairs.jhu.edu/socialconcern/an-insight-into-ciip-natalie-wang/)**, Senior at John Hopkins Univ, majoring in Neuroscience, etc  
+Host 2: **Alisha Zhao**, Compass Family Services  
 
 >### Arts and Culture Expression:  
 *Discuss the role of arts and culture in personal expression.*  
 *Share creative projects and initiatives.*  
 Host 1: **Matthew** at California Institute of the Arts, majoring in animation design.  
 
->### Building Bridges between Generations:  
-*Discuss ways to enhance understanding and communication between youth and older generations.*  
-*Share experiences of intergenerational collaboration.*  
-Host 1: **Grace Liu**, retired engineer and community advocate  
-
 *The Breakout sessions will be finalized based on the availability of hosts*
 
-### 2nd Round of Breakout Sessions
+### Panel Discussions 3pm-4:30pm
 
 You can choose to either be apart of the Parent Panel or the Youth Panel (they will be happening simultaneously). Organizations Representatives are a part of the Youth Panel, so speakers may be both a Youth Panel Speaker and Organization Representative.
 
