@@ -32,7 +32,7 @@ Please **[register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZ
 
 ### PVSA Ceremony 1pm-1:15pm
 
-Congratulations to 71 PVSA recipients OCC helped certify in 2023!  
+Congratulations to [71 PVSA recipients](https://pdxchinese.org/pvsa/) OCC helped certify in 2023!  
 Hosted by the certification volunteers: **Xinmei Li** and **Jing Liu**  
 
 ### Group or Breakout Sessions 1:15pm-2:45pm

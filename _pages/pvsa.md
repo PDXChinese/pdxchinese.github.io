@@ -129,7 +129,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Alexis_Zou/'>Alexis Zou, Lake Oswego High School (Silver Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Fiona_Zou
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Fiona_Zou/'>Fiona Zou, Camas High School (Silver Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Yezhen_Chen
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Yezhen_Chen1
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Yezhen_Chen/'>Yezhen Chen, Forest Park Elementary (Bronze Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Xirui_Jin
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Xirui_Jin/'>Xirui Jin, Westview High School (Bronze Award)</a></p>"
