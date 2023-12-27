@@ -55,7 +55,7 @@ Host 1: **Justin Xia**, Junior at Catlin Gabel School
 *Discuss career aspirations and potential pathways.*  
 Host 1: **[Rupert Li](https://news.mit.edu/2023/anushree-chaudhuri-rupert-li-marshall-scholars-1211)**, Senior at MIT, majoring in mathematics, 2024 Marshall Scholar  
 Host 2: **Sophia Wang**, Freshman at Boston University, Air Force ROTC, aiming to become a pilot.  
-Host 3: **Eatin Wen**, Sophomore at Georgia Tech, Naval ROTC, majoring in civic engineering.  
+Host 3: **Eaton Wen**, Sophomore at Virginia Tech, Naval ROTC, majoring in civil engineering.  
 
 >### Technology, Environmental Awareness and Social Media:  
 *Discuss the role of technology in youth lives.*  
