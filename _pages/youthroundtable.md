@@ -85,7 +85,7 @@ Host 1: **Matthew** at California Institute of the Arts, majoring in animation d
 
 *The Breakout sessions will be finalized based on the availability of hosts*
 
-### Panel Discussions 3pm-4:30pm
+### Panel Discussions 3pm-4pm
 
 You can choose to either be apart of the Parent Panel or the Youth Panel (they will be happening simultaneously). Organizations Representatives are a part of the Youth Panel, so speakers may be both a Youth Panel Speaker and Organization Representative.
 
