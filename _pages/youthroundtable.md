@@ -39,37 +39,32 @@ Hosted by the certification volunteers: **Xinmei Li** and **Jing Liu**
 
 To join as one of the hosts, please contact 西北兆 on WeChat or send an email to info@pdxchinese.org.
 
->### Community Engagement and Volunteering:  
+>### Community Engagement and Volunteering (@ Cafeteria):  
 *Discuss the impact of youth engagement in community service.*  
 *Share success stories of community projects led by youth.*  
-Host 1: **Brian Barker**, Junior at Sunset High School, Founder of [Chinese Heritage Society](https://sites.google.com/view/sunsetchs/home)  
-Host 2: **Allison Hu**, Freshman at Lincoln High School, Lincoln HS Freshman Student Government  
-
->### Cultural Identity and Diversity:  
 *Explore the challenges and benefits of maintaining cultural identity.*  
 *Discuss ways to promote diversity and inclusion within the community.*  
-Host 1: **Justin Xia**, Junior at Catlin Gabel School  
+Host 1: **Brian Barker**, Junior at Sunset High School, Founder of [Chinese Heritage Society](https://sites.google.com/view/sunsetchs/home)  
+Host 2：**Claire Cao**，Junior at Jesuit High School, Founder and Team Leader of [Jade Dance Team](https://pdxchinese.org/youthdance/)  
+Host 3: **Allison Hu**, Freshman at Lincoln High School, Lincoln HS Freshman Student Government  
+Host 4: **Katie Jin**, Sophomore at Catlin Gabel School, Leader of [Chinatown Mural Project](https://pdxchinese.org/murals_in_chinatown_2023/)  
+Host 5: **Jenell Theobald**, Junior at ISB, Founder of [Let's Peer Up](https://letspeerup.godaddysites.com/)  
+Host 6: **Fiona Wang**, Senior at Sunset High School, Captain of [FTC Team 12599](https://overchargedrobotics.org/)  
+Host 7: **Justin Xia**, Junior at Catlin Gabel School  
+Host 8: **Ethan Zhang**, Junior at Westview High School, [Youth Cyber Defender](https://www.youthcyberdefender.org/)  
 
->### Education and Career Planning:  
+>### Education and Career Planning (@ Room 6):  
 *Share experiences and tips on academic success.*  
 *Discuss career aspirations and potential pathways.*  
-Host 1: **[Rupert Li](https://news.mit.edu/2023/anushree-chaudhuri-rupert-li-marshall-scholars-1211)**, Senior at MIT, majoring in mathematics, 2024 Marshall Scholar  
-Host 2: **Sophia Wang**, Freshman at Boston University, Air Force ROTC, aiming to become a pilot.  
-Host 3: **Eaton Wen**, Sophomore at Virginia Tech, Naval ROTC, majoring in civil engineering.  
+Host 1: **Sophia Wang**, Freshman at Boston University, Air Force ROTC, aiming to become a pilot.  
+Host 2: **Eaton Wen**, Sophomore at Virginia Tech, Naval ROTC, majoring in civil engineering.  
+Host 3: **Matthew** at California Institute of the Arts, majoring in animation design.  
 
->### Technology, Environmental Awareness and Social Media:  
+>### Technology, Environmental Awareness and Social Media (@ Room 7):  
 *Discuss the role of technology in youth lives.*  
 *Share insights on responsible social media usage.*  
-Host 1: **Alan Ma**, Freshman at Stanford University, Organizer of Youth Environmental Summit with TRNWR  
-Host 2: **Fiona Wang**, Senior at Sunset High School, Captain of [FTC Team 12599](https://overchargedrobotics.org/)  
-Host 3: **Ethan Zhang**, Junior at Westview High School, [Youth Cyber Defender](https://www.youthcyberdefender.org/)  
-
->### Community Building Projects and Civic Engagement and Advocacy:  
-*Brainstorm ideas for youth-led community projects, Discuss the importance of youth participation in civic activities.*  
-*Discuss the challenges and rewards of initiating community initiatives.*  
-Host 1：**Claire Cao**，Junior at Jesuit High School, Founder and Team Leader of [Jade Dance Team](https://pdxchinese.org/youthdance/)  
-Host 2: **Katie Jin**, Sophomore at Catlin Gabel School, Leader of [Chinatown Mural Project](https://pdxchinese.org/murals_in_chinatown_2023/)  
-Host 3: **Jenell Theobald**, Junior at ISB, Founder of [Let's Peer Up](https://letspeerup.godaddysites.com/)  
+Host 1: **[Rupert Li](https://news.mit.edu/2023/anushree-chaudhuri-rupert-li-marshall-scholars-1211)**, Senior at MIT, majoring in mathematics, 2024 Marshall Scholar  
+Host 2: **Alan Ma**, Freshman at Stanford University, Organizer of Youth Environmental Summit with TRNWR  
 
 >### Youth Leadership Development:  
 *Share experiences and challenges in leadership roles.*  
@@ -77,11 +72,6 @@ Host 3: **Jenell Theobald**, Junior at ISB, Founder of [Let's Peer Up](https://l
 Host 1: **Alvin Liu**, Majoring in Political Science at University of Southern California  
 Host 2: **[Natalie Wang](https://studentaffairs.jhu.edu/socialconcern/an-insight-into-ciip-natalie-wang/)**, Senior at John Hopkins Univ, majoring in Neuroscience, etc  
 Host 3: **Alisha Zhao**, Compass Family Services, San Francisco  
-
->### Arts and Culture Expression:  
-*Discuss the role of arts and culture in personal expression.*  
-*Share creative projects and initiatives.*  
-Host 1: **Matthew** at California Institute of the Arts, majoring in animation design.  
 
 *The Breakout sessions will be finalized based on the availability of hosts*
 
@@ -96,15 +86,10 @@ Parent panel speakers are youth who will answer questions about mental health to
 - High school upperclassmen and college speakers (4-6 speakers)  
 - Answering parents' questions on teen mental health (eg. burnout, academic pressure, social anxiety, etc.)  
 
->### Youth Panel Speaker (~90 minutes):
+>### Youth Panel Speaker (~60 minutes):
 Middle and high school students will have the opportunity to ask high school upperclassmen, college, and post-college speakers questions.  
 - We are looking for high school upperclassmen, college, and post-college speakers  
 - You will sit in the front and answer any questions students may have about high school, extracurricular activities, college applications, college, post-college, etc.  
-
->### Youth Panel Organization Representative (Presentations occur during the Youth Panel):   
-Presentations about community organizations will occur during the Youth Panel as an opportunity for individuals to showcase their organizations and for other students to discover new organizations to join.  
-- You will have ~1-2 minutes to present and 1 Google slide about your organization  
-- Please only have one member per organization sign up, but you may have multiple presenters during the roundtable youth panel  
 
 ### Logo designed by [Olando Lin](https://www.linkedin.com/in/olando-lin-3696ab37/)
 
