@@ -65,12 +65,13 @@ Host 3: **Matthew** at California Institute of the Arts, majoring in animation d
 *Share insights on responsible social media usage.*  
 Host 1: **[Rupert Li](https://news.mit.edu/2023/anushree-chaudhuri-rupert-li-marshall-scholars-1211)**, Senior at MIT, majoring in mathematics, 2024 Marshall Scholar  
 Host 2: **Alan Ma**, Freshman at Stanford University, Organizer of Youth Environmental Summit with TRNWR  
+Host 3: **[Natalie Wang](https://studentaffairs.jhu.edu/socialconcern/an-insight-into-ciip-natalie-wang/)**, Senior at John Hopkins Univ, majoring in Neuroscience, etc  
 
 >### Youth Leadership Development (@ Room 9):  
 *Share experiences and challenges in leadership roles.*  
 *Discuss opportunities for youth leadership development.*  
-Host 1: **Alvin Liu**, Majoring in Political Science at University of Southern California  
-Host 2: **[Natalie Wang](https://studentaffairs.jhu.edu/socialconcern/an-insight-into-ciip-natalie-wang/)**, Senior at John Hopkins Univ, majoring in Neuroscience, etc  
+Host 1: **Danica Leung**, Majoring in Political Science at Emory University  
+Host 2: **Alvin Liu**, Majoring in Political Science at University of Southern California  
 Host 3: **Alisha Zhao**, Compass Family Services, San Francisco  
 
 *The Breakout sessions will be finalized based on the availability of hosts*
