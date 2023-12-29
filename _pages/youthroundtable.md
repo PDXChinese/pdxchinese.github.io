@@ -66,7 +66,7 @@ Host 3: **Matthew** at California Institute of the Arts, majoring in animation d
 Host 1: **[Rupert Li](https://news.mit.edu/2023/anushree-chaudhuri-rupert-li-marshall-scholars-1211)**, Senior at MIT, majoring in mathematics, 2024 Marshall Scholar  
 Host 2: **Alan Ma**, Freshman at Stanford University, Organizer of Youth Environmental Summit with TRNWR  
 
->### Youth Leadership Development:  
+>### Youth Leadership Development (@ Room 9):  
 *Share experiences and challenges in leadership roles.*  
 *Discuss opportunities for youth leadership development.*  
 Host 1: **Alvin Liu**, Majoring in Political Science at University of Southern California  
