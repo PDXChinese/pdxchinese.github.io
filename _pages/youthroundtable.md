@@ -84,12 +84,12 @@ You can choose to either be apart of the Parent Panel or the Youth Panel (they w
 
 >### Parent Panel Speaker (~60 minutes):  
 Parent panel speakers are youth who will answer questions about mental health to foster conversation and communication between adults and youth.   
-- High school upperclassmen and college speakers (4-6 speakers): **[Alvin Liu](https://www.linkedin.com/in/alvinyliu/), [Sara Shao](https://www.linkedin.com/in/sara-shao/, and OCC Youth Council members**  
+- High school upperclassmen and college speakers (4-6 speakers): **[Alvin Liu](https://www.linkedin.com/in/alvinyliu/), [Sara Shao](https://www.linkedin.com/in/sara-shao/), and OCC Youth Council members**  
 - Answering parents' questions on teen mental health (eg. burnout, academic pressure, social anxiety, etc.)  
 
 >### Youth Panel Speaker (~60 minutes):
 Middle and high school students will have the opportunity to ask high school upperclassmen, college, and post-college speakers questions.  
-- We are looking for high school upperclassmen, college, and post-college speakers: **[Rupert Li](https://news.mit.edu/2023/anushree-chaudhuri-rupert-li-marshall-scholars-1211), [Megan Tian](https://www.linkedin.com/in/megan-tian/), [Jerry Zhang](https://www.linkedin.com/in/jerry-zhang-9a17a9244/)  
+- We are looking for high school upperclassmen, college, and post-college speakers: **[Rupert Li](https://news.mit.edu/2023/anushree-chaudhuri-rupert-li-marshall-scholars-1211), [Megan Tian](https://www.linkedin.com/in/megan-tian/), and [Jerry Zhang](https://www.linkedin.com/in/jerry-zhang-9a17a9244/)**  
 - You will sit in the front and answer any questions students may have about high school, extracurricular activities, college applications, college, post-college, etc.  
 
 ### Logo designed by [Olando Lin](https://www.linkedin.com/in/olando-lin-3696ab37/)
