@@ -61,7 +61,7 @@ Host 3: **[Matthew Lei](https://www.linkedin.com/in/leidoodles)** at California 
 >### College Life: from 'Small Fish in Big Pond' to 'Big Fish in Small Pond' (@ Room 7):  
 *Discuss the role of technology in youth lives.*  
 *Share insights on responsible social media usage.*  
-Host 1: **[Rupert Li](https://news.mit.edu/2023/anushree-chaudhuri-rupert-li-marshall-scholars-1211)**, Senior at MIT, majoring in mathematics, 2024 Marshall Scholar  
+Host 1: **[Rupert Li](https://www.linkedin.com/in/rupert-li/)**, Senior at MIT, majoring in mathematics, 2024 Marshall Scholar  
 Host 2: **[Alan Ma](https://www.linkedin.com/in/alanma23/)**, Freshman at Stanford University, Organizer of Youth Environmental Summit with TRNWR  
 Host 3: **[Natalie Wang](https://www.linkedin.com/in/natalie-wang-75b6391a2/)**, Senior at John Hopkins Univ, majoring in Neuroscience, etc  
 
