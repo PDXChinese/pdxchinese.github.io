@@ -58,7 +58,7 @@ Host 8: **Ethan Zhang**, Junior at Westview High School, [Youth Cyber Defender](
 *Discuss career aspirations and potential pathways.*  
 Host 1: **Sophia Wang**, Freshman at Boston University, Air Force ROTC, aiming to become a pilot.  
 Host 2: **[Eaton Wen](https://www.facebook.com/eaton.wen.39/)**, Sophomore at Virginia Tech, Naval ROTC, majoring in civil engineering.  
-Host 3: **Matthew** at California Institute of the Arts, majoring in animation design.  
+Host 3: **[Matthew Lei](linkedin.com/in/leidoodles)** at California Institute of the Arts, majoring in animation design.  
 
 >### College Life: from 'Small Fish in Big Pond' to 'Big Fish in Small Pond' (@ Room 7):  
 *Discuss the role of technology in youth lives.*  
