@@ -43,13 +43,14 @@ To join as one of the hosts, please contact 西北兆 on WeChat or send an email
 *Explore the challenges and benefits of maintaining cultural identity.*  
 *Discuss ways to promote diversity and inclusion within the community.*  
 Host 1: **Brian Barker**, Junior at Sunset High School, Founder of [Chinese Heritage Society](https://sites.google.com/view/sunsetchs/home)  
-Host 2：**Claire Cao**，Junior at Jesuit High School, Founder and Team Leader of [Jade Dance Team](https://pdxchinese.org/youthdance/)  
-Host 3: **Allison Hu**, Freshman at Lincoln High School, Lincoln HS Freshman Student Government  
-Host 4: **Katie Jin**, Sophomore at Catlin Gabel School, Organizer of [Chinatown Mural Project](https://pdxchinese.org/murals_in_chinatown_2023/)  
-Host 5: **Jenell Theobald**, Junior at ISB, Founder of [Let's Peer Up](https://letspeerup.godaddysites.com/)  
-Host 6: **Fiona Wang**, Senior at Sunset High School, Captain of [FTC Team 12599](https://overchargedrobotics.org/)  
-Host 7: **Justin Xia**, Junior at Catlin Gabel School, Diversity leadership for students of color  
-Host 8: **Ethan Zhang**, Junior at Westview High School, [Youth Cyber Defender](https://www.youthcyberdefender.org/)  
+Host 2: **Callie Chu**, Junior at Sunset High School, Founder of [OCC Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
+Host 3：**Claire Cao**, Junior at Jesuit High School, Founder and Team Leader of [Jade Dance Team](https://pdxchinese.org/youthdance/)  
+Host 4: **Allison Hu**, Freshman at Lincoln High School, Lincoln HS Freshman Student Government  
+Host 5: **Katie Jin**, Sophomore at Catlin Gabel School, Organizer of [Chinatown Mural Project](https://pdxchinese.org/murals_in_chinatown_2023/)  
+Host 6: **Jenell Theobald**, Junior at ISB, Founder of [Let's Peer Up](https://letspeerup.godaddysites.com/)  
+Host 7: **Fiona Wang**, Senior at Sunset High School, Captain of [FTC Team 12599](https://overchargedrobotics.org/)  
+Host 8: **Justin Xia**, Junior at Catlin Gabel School, Diversity leadership for students of color  
+Host 9: **Ethan Zhang**, Junior at Westview High School, [Youth Cyber Defender](https://www.youthcyberdefender.org/)  
 
 >### Education and Career Planning (@ Room 6):  
 *Share experiences and tips on academic success.*  
