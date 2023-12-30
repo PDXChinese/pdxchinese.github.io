@@ -60,7 +60,7 @@ Host 1: **Sophia Wang**, Freshman at Boston University, Air Force ROTC, aiming t
 Host 2: **Eaton Wen**, Sophomore at Virginia Tech, Naval ROTC, majoring in civil engineering.  
 Host 3: **Matthew** at California Institute of the Arts, majoring in animation design.  
 
->### Technology, Environmental Awareness and Social Media (@ Room 7):  
+>### College Life: from 'Small Fish in Big Pond' to 'Big Fish in Small Pond' (@ Room 7):  
 *Discuss the role of technology in youth lives.*  
 *Share insights on responsible social media usage.*  
 Host 1: **[Rupert Li](https://news.mit.edu/2023/anushree-chaudhuri-rupert-li-marshall-scholars-1211)**, Senior at MIT, majoring in mathematics, 2024 Marshall Scholar  
@@ -72,7 +72,7 @@ Host 3: **[Natalie Wang](https://studentaffairs.jhu.edu/socialconcern/an-insight
 *Discuss opportunities for youth leadership development.*  
 Host 1: **Danica Leung**, Majoring in Political Science at Emory University  
 Host 2: **Alvin Liu**, Majoring in Political Science at University of Southern California  
-Host 3: **Alisha Zhao**, Compass Family Services, San Francisco  
+Host 3: **Alisha Zhao**, Majored in Political Science and Sociology at Stanford, now at Compass Family Services, San Francisco  
 
 *The Breakout sessions will be finalized based on the availability of hosts*
 
