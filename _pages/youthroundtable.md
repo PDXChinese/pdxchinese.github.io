@@ -9,10 +9,10 @@ permalink: /youthroundtable/
 # 7th Annual Oregon Chinese Youth Roundtable
 
 ## Date  
-12/30/2023 Saturday 1pm - 4:30pm  
+12/30/2023 Saturday 1pm - 4pm  
 
 ## Place  
-Hope Chinese Charter School (3500 SW 104th Ave, Beaverton, OR 97005)  
+Hope Chinese Charter School ([3500 SW 104th Ave, Beaverton, OR 97005](https://www.google.com/maps/place/3500+SW+104th+Ave,+Beaverton,+OR+97005/@45.4946017,-122.7859877,17.23z/data=!4m6!3m5!1s0x54950eaa592b68cf:0x95f1a9e4aa037731!8m2!3d45.4946761!4d-122.7838146!16s%2Fg%2F11bw43ybzc?entry=ttu))  
 
 **Parking:** Please park in the west side of the school building (in front of school main entrance), try not to park on the north side which is lodge's property.
 
@@ -35,7 +35,7 @@ Please **[register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZ
 Congratulations to [71 PVSA recipients](https://pdxchinese.org/pvsa/) OCC helped certify in 2023!  
 Hosted by the certification volunteers: **Xinmei Li** and **Jing Liu**  
 
-### Group or Breakout Sessions 1:15pm-2:45pm
+### Breakout Sessions 1:15pm-2:45pm
 
 To join as one of the hosts, please contact 西北兆 on WeChat or send an email to info@pdxchinese.org.
 
