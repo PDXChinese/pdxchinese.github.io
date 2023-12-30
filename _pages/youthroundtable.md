@@ -23,8 +23,6 @@ Middle and high school students, college students, and college graduates
 
 To list your name below as one of the hosts for a breakout session, please contact 西北兆 via WeChat or email to info@pdxchinese.org  
 
-We will offer 100 selfie lights to participants and 13 Nike employee store passes and Nike store discount passes to the college hosts
-
 ## Registration  
 Please **[register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_mgEl-2QBBaTOLoIwdgKmCw3K9CXkgN2Kg/viewform?usp=sf_link)**, we will update you the latest update about the event. (We understand parents can register the event for their children especially when they are under eighteen years old.)  
 
