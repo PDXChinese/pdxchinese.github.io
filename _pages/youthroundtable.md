@@ -47,32 +47,32 @@ To join as one of the hosts, please contact 西北兆 on WeChat or send an email
 Host 1: **Brian Barker**, Junior at Sunset High School, Founder of [Chinese Heritage Society](https://sites.google.com/view/sunsetchs/home)  
 Host 2：**Claire Cao**，Junior at Jesuit High School, Founder and Team Leader of [Jade Dance Team](https://pdxchinese.org/youthdance/)  
 Host 3: **Allison Hu**, Freshman at Lincoln High School, Lincoln HS Freshman Student Government  
-Host 4: **Katie Jin**, Sophomore at Catlin Gabel School, Leader of [Chinatown Mural Project](https://pdxchinese.org/murals_in_chinatown_2023/)  
+Host 4: **Katie Jin**, Sophomore at Catlin Gabel School, Organizer of [Chinatown Mural Project](https://pdxchinese.org/murals_in_chinatown_2023/)  
 Host 5: **Jenell Theobald**, Junior at ISB, Founder of [Let's Peer Up](https://letspeerup.godaddysites.com/)  
 Host 6: **Fiona Wang**, Senior at Sunset High School, Captain of [FTC Team 12599](https://overchargedrobotics.org/)  
-Host 7: **Justin Xia**, Junior at Catlin Gabel School  
+Host 7: **Justin Xia**, Junior at Catlin Gabel School, Diversity leadership for students of color  
 Host 8: **Ethan Zhang**, Junior at Westview High School, [Youth Cyber Defender](https://www.youthcyberdefender.org/)  
 
 >### Education and Career Planning (@ Room 6):  
 *Share experiences and tips on academic success.*  
 *Discuss career aspirations and potential pathways.*  
 Host 1: **Sophia Wang**, Freshman at Boston University, Air Force ROTC, aiming to become a pilot.  
-Host 2: **Eaton Wen**, Sophomore at Virginia Tech, Naval ROTC, majoring in civil engineering.  
+Host 2: **[Eaton Wen](https://www.facebook.com/eaton.wen.39/)**, Sophomore at Virginia Tech, Naval ROTC, majoring in civil engineering.  
 Host 3: **Matthew** at California Institute of the Arts, majoring in animation design.  
 
 >### College Life: from 'Small Fish in Big Pond' to 'Big Fish in Small Pond' (@ Room 7):  
 *Discuss the role of technology in youth lives.*  
 *Share insights on responsible social media usage.*  
 Host 1: **[Rupert Li](https://news.mit.edu/2023/anushree-chaudhuri-rupert-li-marshall-scholars-1211)**, Senior at MIT, majoring in mathematics, 2024 Marshall Scholar  
-Host 2: **Alan Ma**, Freshman at Stanford University, Organizer of Youth Environmental Summit with TRNWR  
-Host 3: **[Natalie Wang](https://studentaffairs.jhu.edu/socialconcern/an-insight-into-ciip-natalie-wang/)**, Senior at John Hopkins Univ, majoring in Neuroscience, etc  
+Host 2: **[Alan Ma](https://www.linkedin.com/in/alanma23/)**, Freshman at Stanford University, Organizer of Youth Environmental Summit with TRNWR  
+Host 3: **[Natalie Wang](https://www.linkedin.com/in/natalie-wang-75b6391a2/)**, Senior at John Hopkins Univ, majoring in Neuroscience, etc  
 
 >### Youth Leadership Development (@ Room 9):  
 *Share experiences and challenges in leadership roles.*  
 *Discuss opportunities for youth leadership development.*  
-Host 1: **Danica Leung**, Majoring in Political Science at Emory University  
-Host 2: **Alvin Liu**, Majoring in Political Science at University of Southern California  
-Host 3: **Alisha Zhao**, Majored in Political Science and Sociology at Stanford, now at Compass Family Services, San Francisco  
+Host 1: **[Danica Leung](https://www.linkedin.com/in/danicaleung/)**, Majoring in Political Science at Emory University  
+Host 2: **[Alvin Liu](https://www.linkedin.com/in/alvinyliu/)**, Majoring in Political Science at University of Southern California  
+Host 3: **[Alisha Zhao](https://www.linkedin.com/in/alishazhao/)**, Majored in Political Science and Sociology at Stanford, now at Compass Family Services, San Francisco  
 
 *The Breakout sessions will be finalized based on the availability of hosts*
 
@@ -84,12 +84,12 @@ You can choose to either be apart of the Parent Panel or the Youth Panel (they w
 
 >### Parent Panel Speaker (~60 minutes):  
 Parent panel speakers are youth who will answer questions about mental health to foster conversation and communication between adults and youth.   
-- High school upperclassmen and college speakers (4-6 speakers)  
+- High school upperclassmen and college speakers (4-6 speakers): **[Alvin Liu](https://www.linkedin.com/in/alvinyliu/), [Sara Shao](https://www.linkedin.com/in/sara-shao/, and OCC Youth Council members**  
 - Answering parents' questions on teen mental health (eg. burnout, academic pressure, social anxiety, etc.)  
 
 >### Youth Panel Speaker (~60 minutes):
 Middle and high school students will have the opportunity to ask high school upperclassmen, college, and post-college speakers questions.  
-- We are looking for high school upperclassmen, college, and post-college speakers  
+- We are looking for high school upperclassmen, college, and post-college speakers: **[Rupert Li](https://news.mit.edu/2023/anushree-chaudhuri-rupert-li-marshall-scholars-1211), [Megan Tian](https://www.linkedin.com/in/megan-tian/), [Jerry Zhang](https://www.linkedin.com/in/jerry-zhang-9a17a9244/)  
 - You will sit in the front and answer any questions students may have about high school, extracurricular activities, college applications, college, post-college, etc.  
 
 ### Logo designed by [Olando Lin](https://www.linkedin.com/in/olando-lin-3696ab37/)
