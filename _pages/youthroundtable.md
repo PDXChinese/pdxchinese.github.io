@@ -80,12 +80,12 @@ You can choose to either be apart of the Parent Panel or the Youth Panel (they w
 
 **If you would like to be a speaker or presenter at the event, please register using [this form](https://docs.google.com/forms/d/e/1FAIpQLSdbvXt6jZmNA1z79NhKGUGmB4GU7wZoIDr20ztO4kmWNxAbEg/viewform) by Saturday, December 23rd (12/23/2023) at 11:00AM.**
 
->### Parent Panel Speaker (~60 minutes):  
+>### Parent Panel Speaker (@ Cafeteria):  
 Parent panel speakers are youth who will answer questions about mental health to foster conversation and communication between adults and youth.   
 - High school upperclassmen and college speakers (4-6 speakers): **[Alvin Liu](https://www.linkedin.com/in/alvinyliu/), [Sara Shao](https://www.linkedin.com/in/sara-shao/), and OCC Youth Council members**  
 - Answering parents' questions on teen mental health (eg. burnout, academic pressure, social anxiety, etc.)  
 
->### Youth Panel Speaker (~60 minutes):
+>### Youth Panel Speaker (@ Room 9):
 Middle and high school students will have the opportunity to ask high school upperclassmen, college, and post-college speakers questions.  
 - We are looking for high school upperclassmen, college, and post-college speakers: **[Rupert Li](https://news.mit.edu/2023/anushree-chaudhuri-rupert-li-marshall-scholars-1211), [Megan Tian](https://www.linkedin.com/in/megan-tian/), and [Jerry Zhang](https://www.linkedin.com/in/jerry-zhang-9a17a9244/)**  
 - You will sit in the front and answer any questions students may have about high school, extracurricular activities, college applications, college, post-college, etc.  
