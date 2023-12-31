@@ -9,7 +9,7 @@ date: "2023-12-30"
 
 在第二轮分组讨论中，我和许多家长一起进入了探讨青少年精神健康的教室。听到青少年们的真实感受，只能说他们表达得非常诚恳。更难能可贵的是，他们根据自身经历提出了许多中肯的建议。作为家长的我，真的受益匪浅。
 
-在大厅里和一些家长交谈后，发现很多人对这个活动有着相似的感受。能够利用社区平台让青少年们直接交流，交流的内容不仅仅关乎如何完善自己，更多的是相互理解、鼓励和支持。这些孩子还没有完全走进社会，正在用他们的眼睛观察，用他们的心体会，用他们的行动实践。他们需要相互验证他们的所思、所想和所为，这是每个人都在经历的，本身就是非常健康的一件事。在成长过程中，如果他们能够得到更多同伴、老师和家长的理解和支持，那将是他们所期待的，也是我们希望看到的。
+在大厅里和一些家长交谈后，发现很多人对这个活动有着相似的感受。能够利用社区平台让青少年们直接交流，交流的内容不仅仅关乎如何完善自己，更多的是相互理解、鼓励和支持。这些孩子还没有完全走进社会，正在用他们的眼睛观察，用他们的心体会，用他们的行动实践。他们需要相互验证他们所看、所想和所为，这是每个人都在经历的，本身就是非常健康的一件事。在成长过程中，如果他们能够得到更多同伴、老师和家长的理解和支持，那将是他们所期待的，也是我们希望看到的。
 
 一晃七年过去了，我们会坚持下去，会尝试不同的做法，但主调不会改变。
 
@@ -19,11 +19,13 @@ In the second round of group discussions, I and many parents entered the classro
 
 Talking to some parents in the hall, I found that many people have similar feelings about this activity. Being able to use the community platform to allow teenagers to communicate directly, the content of the communication is not only about how to improve themselves, but more about mutual understanding, encouragement, and support. These children have not fully entered society yet; they are using their eyes to observe, their hearts to experience, and their actions to practice. They need to validate each other's thoughts, ideas, and actions, which is something everyone goes through and is inherently very healthy. In the process of growing up, if they can get more understanding and support from peers, teachers, and parents, it will be what they expect and what we hope to see.
 
-Seven years have passed in a flash, and we will stick to it, try different approaches, but the main theme will not change.
+Seven years have passed in a flash, and we will try different approaches, but the main theme will not change.
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/416067837_355864287078660_658544287823920342_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/416114845_355866433745112_3753016988307603319_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/415311968_356195023712253_1505780980981047134_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/416098514_355864240411998_2904045969291997783_n)
 
