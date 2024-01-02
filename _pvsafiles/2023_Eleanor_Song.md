@@ -10,7 +10,7 @@ feature_row1:
 
 # Eleanor Song - Gold Award
 
-**School: Sunset High School**  
+**School: Early College High School**  
 **Category: Teens (11-15)**  
 **Hours: 179**  
 

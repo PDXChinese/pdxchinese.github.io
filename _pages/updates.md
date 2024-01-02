@@ -5,12 +5,6 @@ permalink: /updates/
 
 # <code style="color:brown">近期年度活动/Next Annual Events</code>
 
-### [2023青少年圆桌会/Youth Roundtable](https://pdxchinese.org/youthroundtable/)
-
-**Place:** Hope Chinese Charter School (3500 SW 104th Ave, Beaverton, OR 97005)  
-**Date:** 12/30/2023, 1pm-4pm  
-Register To join, please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_mgEl-2QBBaTOLoIwdgKmCw3K9CXkgN2Kg/viewform?usp=sf_link)  
-
 ### [2024 社区健康博览会/Community Health Fair](https://pdxchinese.org/healthfair/)
 
 **Date:** March xx, 2024, 12pm - 4pm  
