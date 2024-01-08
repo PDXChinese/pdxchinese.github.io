@@ -7,7 +7,7 @@ date: "2024-01-06"
 
 多么美好的一天！今天，来自OCC的一卡车捐赠物品（确切地说是13个托盘）被送到了由克拉克马斯县政府安排的位于Canby的Bridging Cultures社区组织。500多名社区成员获得了他们的三王节的免费礼物。这项活动显示出社区组织和地方公共卫生机构之间持续的合作伙伴关系，以及在大流行期间社区组织之间加强的协作。
 
-Out of the 35 pallets of donations, we distributed 28 pallets to various local communities, fostering collaboration and inclusivity. These included sharing with Pacific Islanders through Pacific Islander Community Development Associate, Latino communities through Iglesia Restauacion Oregon (IRO), Slavic communities through Clackamas County, Ukrainian communities through Ukrainian Foundation, African immigrant/refugee communities through Multnomah County, the youth at Wooden Fish schools, and BIPOC families through East County Coalition. There is nothing more gratifying than the act of sharing with others, and we are delighted to have had this opportunity.
+What an amazing day! A truckload of donations (13 pallets exactly) from OCC was delivered to [Bridging Cultures](https://www.bridgingculturescanby.org/) in Canby today, arranged by Clackamas County. Over 500 community members enjoyed the free gifts for their Three Kings Day. This highlights the ongoing partnership between CBOs and LPHAs and the collaboration among CBOs that has been strengthened during the pandemic.
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/415496067_359854236679665_8452391965425894338_n)
 
