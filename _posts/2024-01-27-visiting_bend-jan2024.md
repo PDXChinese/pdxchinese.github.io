@@ -15,12 +15,8 @@ date: "2024-01-27"
 
 The trip to Bend over the last two days was truly rewarding. OCC was on a mission to connect Chinese Americans across the state of Oregon by building a resilient community. Hongcheng Zhao, the President of OCC, had a long and constructive meeting with local volunteers and the staff from Deschutes County Health Services late Friday afternoon. The following day, he visited a patient injured in a fatal car accident during the stormy weather. On behalf of the community and the patient, Mr. Zhao expressed deep appreciation for the efforts and care provided by the doctors, nurses, and social workers at St. Charles Health System. That afternoon, he proceeded to visit a community member at Deer Ridge Correctional Institution. OCC has been supporting him and his family since the first day of his mental health breakdown.
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/423480416_372344515430637_8535946383083458068_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/424632695_372623598736062_7304490319116959258_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/423672374_372344442097311_5879897779885817671_n)
