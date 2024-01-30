@@ -11,7 +11,7 @@ date: "2023-01-22"
 
 Dragon was also very energetic. After the long trip to McMinnville yesterday, the dragon showed up in Milwaukie Community Center on Sunday. In many kids' dream, they could parade together with the dragon, which was typically in the picture books. The dream came true as a surprise to all the families there today.
 
-The Guzheng students from Oregon Hope CHinese School, Huanyue Group and Huamulan Drum Team also performed for the audience.
+The Guzheng students from Oregon Hope Chinese School, Huanyue Group and Huamulan Drum Team also performed for the audience.
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/327028509_712874417017084_3336743779522914089_n)
 
