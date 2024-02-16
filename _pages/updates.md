@@ -7,15 +7,23 @@ permalink: /updates/
 
 ### [2024 社区健康博览会/Community Health Fair](https://pdxchinese.org/healthfair/)
 
-**Date:** March xx, 2024, 12pm - 4pm  
-Place: TBD  
-No registration required  
+**Date:** March 17, 2024, 12pm - 4pm  
+Place: Oregon Zoo, Cadcade Crest Ballroom  
+Address: 4001 SW Canyon Road, Portland, OR 97221  
+No Registration Required, Free Admission, Open to Public  
 
 ### [2024 文化日/Culture Day](https://pdxchinese.org/cultureday/)
 
-**Date:** May xx, 2024, 10pm - 4pm  
+**Date:** May 19, 2024, 10pm - 4pm  
+Place: Jenkins Estate  
+Address: 8005 SW Grabhorn Rd, Beaverton, OR 97007  
+No Registration Required, Free Admission, Open to Public  
+
+### [2024 社区画展/Community Art Show](https://pdxchinese.org/artexhibit/)
+
+**Date:** May xx, 2024, 12pm - 4pm  
 Place: TBD  
-No registration required  
+No Registration Required, Free Admission, Open to Public  
 
 ### [2024 青少年大会/Youth Conference](https://pdxchinese.org/youthconference/)
 
@@ -28,7 +36,7 @@ Please help recommend distinguished speakers
 
 **Date:** August 3, 2024, 11am - 6pm  
 Place: Pioneer Courthouse Square, Portland, Oregon  
-Open to public and free admission  
+No Registration Required, Free Admission, Open to Public  
 
 # <code style="color:brown">常年活动/Year Around Activities</code>
 

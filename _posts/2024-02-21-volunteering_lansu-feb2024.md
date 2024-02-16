@@ -5,7 +5,7 @@ excerpt: "义工们这周两次来到兰苏园，挂起灯笼并装饰窗户。�
 date: "2024-02-01"
 ---
 
-义工们这周两次来到兰苏园，挂起灯笼并装饰窗户。象是有魔法一样，我们用自己的双手营造出了节日氛围。感谢兰苏园给予我们这个机会。园内已经为春节做好了充分的准备。我们对即将到来的庆祝活动可期可盼。社区将会在那里演出和做手工活动，今年还新增了一项新活动，身穿汉服的青少年将在人群中表演丝绸舞龙彩带。
+义工们这周两次来到兰苏园，挂起灯笼并装饰窗户。象是有魔法一样，我们用自己的双手营造出了节日氛围。感谢兰苏园给予我们这个机会。园内已经为春节做好了充分的准备。我们对即将到来的庆祝活动可期可盼。社区将会在那里演出和做手工活动，今年还新增了一项活动，身穿汉服的青少年将在人群中表演丝绸舞龙彩带。
 
 Volunteers came to Lan Su Chinese Garden this week to hang up lanterns and create window decorations. We had a lot of fun with the lanterns and enjoyed the magic of creating a festive atmosphere with our own hands.  Thank you, Lan Su Chinese Garden for giving us the opportunity.
 
