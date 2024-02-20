@@ -10,7 +10,7 @@ To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxc
 **Founder and Coach:** Callie Chu  
 **Mentor:** Xiaorou Xiang  
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/WeChat Image_20240220111725)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/WeChat Image_20240220111725_small)
 
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/84DRyQGSh0M" title="Performance by Dragonfly YoYo Team" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
