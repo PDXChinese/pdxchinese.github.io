@@ -25,13 +25,9 @@ With ten more events to go...
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/428462512_385352964129792_9133594725239281830_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/428608390_385353290796426_2566731710194184518_n)
-
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/428469590_385353367463085_6137661911523460010_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/428473225_385352764129812_3233344560446724859_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/428458956_385352717463150_5075539846081609452_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/428464183_385352827463139_4399698865011664380_n)
 
@@ -53,8 +49,6 @@ With ten more events to go...
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/428457732_385353437463078_3031245352914230564_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/428469064_385353497463072_6048085888442057957_n)
-
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/428478654_385353524129736_6487832147766225696_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/428474198_385353630796392_4974388276767658667_n)
@@ -64,8 +58,6 @@ With ten more events to go...
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/428463925_385353580796397_1885102460435999755_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/428507336_385353614129727_8234491164983689696_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/428456923_385353710796384_4224934881953003340_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/428463911_385353730796382_3605901565245335221_n)
 
@@ -148,8 +140,6 @@ With ten more events to go...
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/428683468_385444090787346_6325240547728103908_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/428689520_385444100787345_5598837989109741740_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/428704147_385444164120672_2775521198338984322_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/428704147_385444164120672_2775521198338984322_n)
 
