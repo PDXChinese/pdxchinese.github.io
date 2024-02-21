@@ -12,6 +12,11 @@ Health Share可以为您提供帮助帮助，这里是他们的[中文资料](ht
 
 [华人服务中心(AHSC)](https://ahscpdx.org/) 有不同语种专线帮助社区成员加入政府医保计划(OHP)和奥巴马医疗保险计划：英文：503-772-5888，广东话：503-772-5889，普通话：503-7782-5890。
 
+### 选择和购买 Medicare 医疗保险
+
+[政府网站](https://www.medicare.gov/basics/get-started-with-medicare/get-more-coverage/joining-a-plan)  
+[购买 Medicare 和 Medicare Advantage Plan 的区别](/https://www.medicare.gov/Pubs/pdf/12026-Understanding-Medicare-Advantage-Plans.pdf)  
+
 ### 找寻本地华人医生
 
 美国有个[华人医生数据库](http://physician.cmgforum.net/)。这个网站的信息相当完善，包括了几乎全部中国大陆医学院毕业、在美国行医的医生。你可以根据地理位置，比如哪个州、哪个城市来查找华人医生。也可以根据专业来搜查，比如查眼科医生或皮肤科医生。还可以根据中国哪个医学院毕业的来查，其中北京医科大学和上海医科大学在美国的执业医生最多。
