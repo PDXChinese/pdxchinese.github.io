@@ -2,7 +2,7 @@
 title: ""
 permalink: /healthinitiative/
 feature_row1:
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023fairflyer
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024fairflyer
 feature_row2:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/occ_nsnv
 feature_row3:
@@ -19,7 +19,7 @@ feature_row3:
 
 作为一个以社区为基础的组织，我们的优势在于解决身心健康问题的根本原因。健康博览会超越了简单的健康教育和筛查，它是一个平台，向社区成员介绍重要的健康和社会服务。我们坚信，赋予个人知识和资源是提升公共健康的最有效途径。
 
->[2024 Health Fair / 健康博览会](https://pdxchinese.org/healthfair/)  
+>**[2024 Health Fair / 健康博览会](https://pdxchinese.org/healthfair/)  **
 >  
 >[2023 Health Fair / 健康博览会](https://pdxchinese.org/healthfair_2023/)  
 >[2023 Health Fair Album / 健康博览会相册](https://pdxchinese.org/community_health_fair_2023/)  
