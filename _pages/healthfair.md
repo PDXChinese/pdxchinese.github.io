@@ -50,12 +50,14 @@ feature_row3:
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024fairflyer)
 
 ### Our Proud Sponsors
+<br>
 
 {% include feature_row id="feature_row3"%}
 
 [>> Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
-[>> Health Fair Survey](https://docs.google.com/forms/d/e/1FAIpQLSd_4AIMlIc641pCQophuSprlJhwqz_ZYHnQVsaNNvEMTKJYEg/viewform?usp=sf_link)  
 [>> Tabling Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2023)  
+
+*Strongly encourage riding on Max Red Line or Blue Line. The Oregon Zoo is 2 minutes walk from Washington Park station.*
 
 Health is of utmost importance to everyone, from the youth navigating between two cultures, to the parents shouldering the responsibilities of raising a family, and certainly to the elderly who strive to age gracefully. The health fair is dedicated to the well-being of the entire community.
 
@@ -158,34 +160,26 @@ People who've attended one presentation can choose 3 additional items
 During entire health fair, each person can choose up to 10 items max.  
 While supplies last  
 
-### The Fair is Partially Funded with Grants from
-
-{% include feature_row id="feature_row2"%}
+<br>
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 <br>
 
-# 2023华人社区健康博览会
+# 2024华人社区健康博览会
 
 此次由OCC主办的社区健康博览会定位在两个方面：第一，健康关乎每个人，关乎在两种文化中成长的青少年，关乎肩负养家重任的年轻的爸爸妈妈们，更关乎学会优雅老去的长者。健康博览会着眼于全体社区成员的福祉。第二，作为一个社区组织，我们看中的不仅仅是健康筛检和教育，更重要的是那些影响我们身心健康的社会因素，所以，我们也会邀请有关的服务机构团体和个人参加活动。令人欣慰的是，我们的定位受到广泛的认可和支持。
 
-**时间:** 3月19日, 周日，下午 12-4点  
-**地点:** Embassy Suites Washington Square  
-**地址:** 9000 SW Washington Square Rd, Tigard, OR 97223  
+**时间:** 3月17日, 周日，下午 12-4点  
+**地点:** Oregon Zoo, Cascade Crest Ballroom  
+**地址:** 4001 SW Canyon Road, Portland, OR 97221  
 
 [>> 现场义工报名表格](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
-[>> 计划到场人流调查表](https://docs.google.com/forms/d/e/1FAIpQLSd_4AIMlIc641pCQophuSprlJhwqz_ZYHnQVsaNNvEMTKJYEg/viewform?usp=sf_link)  
-[>> 社区健康博览会内容介绍](https://pdxchinese.org/benefits_from_attending_health_fair_2023/)  
 [>> 现场摊位位置图](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2023)  
 
-**波特兰西南区免费专车**
+**波特兰地铁(MAX)交通信息**
 
-出发上车地点：SE 老人公寓 (3530 SE 84th Ave, Portland, OR 97266)  
-出发上车时间：12点，1点半 (时间可能会有变动)  
-返回上车时间：2点，3点半 (时间可能会有变动)  
-
-如果自行乘车前往：从 SE 可以搭乘  FX2 (30分钟）转 56 号公交 (36分钟），从 NE 可以搭乘 56 号公交 直接到终点下车。
+乘坐红色线或蓝色线，在华盛顿公园(Washington Park)下车，在公园停车场中午时分会比较紧张，建议尽可能乘坐地铁过去。
 
 ### [17-21] 俄勒冈健康与科学大学/OHSU
 
