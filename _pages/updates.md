@@ -8,7 +8,7 @@ permalink: /updates/
 ### [2024 社区健康博览会/Community Health Fair](https://pdxchinese.org/healthfair/)
 
 **Date:** March 17, 2024, 12pm - 4pm  
-Place: Oregon Zoo, Cadcade Crest Ballroom  
+Place: Oregon Zoo, Cascade Crest Ballroom  
 Address: 4001 SW Canyon Road, Portland, OR 97221  
 No Registration Required, Free Admission, Open to Public  
 

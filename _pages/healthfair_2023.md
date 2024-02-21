@@ -1,6 +1,5 @@
 ---
 title: ""
-permalink: /healthfair/
 feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ohsulogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/careoregonlogo
@@ -37,21 +36,13 @@ feature_row2:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/mult_county_nf2iqzgmnapl3uxgfock
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/wacountylogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/clacklogo
-feature_row3:
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/careoregonlogo
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/trimet
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pslogo.svg
 ---
 
-*[2023 Health Fair Album / 健康博览会相册](https://pdxchinese.org/community_health_fair_2023/)*
+*[Health Fair Album / 健康博览会相册](https://pdxchinese.org/community_health_fair_2023/)*
 
 **中文信息在此页面的下半部分**
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024fairflyer)
-
-### Our Proud Sponsors
-
-{% include feature_row id="feature_row3"%}
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023fairflyer)
 
 [>> Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
 [>> Health Fair Survey](https://docs.google.com/forms/d/e/1FAIpQLSd_4AIMlIc641pCQophuSprlJhwqz_ZYHnQVsaNNvEMTKJYEg/viewform?usp=sf_link)  
