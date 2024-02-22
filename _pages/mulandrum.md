@@ -17,6 +17,12 @@ To have us perform in your events, please [contact us](http://pdxchinese.org/con
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345424743_651302106822940_5592377646873928980_n)
 
+### Performance in Vancouver Lunar New Year Gala
+
+Skyview High School, Feburary 18, 2024
+
+<iframe width="2277" height="1280" src="https://www.youtube.com/embed/2sPLax95vcU" title="Mulan Drum Team at VCA LNY Gala" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Performance in Chinese Festival
 
 Pioneer Courthouse Square, August 5, 2023
