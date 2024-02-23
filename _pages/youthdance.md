@@ -15,6 +15,10 @@ Claire Cao
 Amy Kang  
 Sophia Alicata  
 
+### They perform in Lunar New Year Gala
+
+<iframe width="2277" height="1280" src="https://www.youtube.com/embed/8rhNi01o8H0" title="Jade Dance Team in Lunar New Year Gala" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### They perform in the Chinese Festival
 
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/2m6eeHYzSGI" title="Heavenly Shower by Jade Dance Team" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
