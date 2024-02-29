@@ -15,7 +15,7 @@ To have us perform in your events, please [contact us](http://pdxchinese.org/con
 
 >The Mulan Drum Team's presentation was not only a beautiful display of talent and hard work, but also an enlightening journey through Chinese culture. The passion and dedication your team showed on stage were truly inspiring, not just to our students, but to all who were fortunate enough to witness your artistry. More than a few parents (including myself) told me they got a bit choked up during the performance because it was so beautiful! It really started our event off with a bang!
 
->We are so grateful for the time and effort in making our event a memorable experience for our community and for giving our students the chance to experience and appreciate the beauty and diversity of different cultures through dance.
+>We are so grateful for the time and effort in making our event a memorable experience for our community and for giving our students the chance to experience and appreciate the beauty and diversity of different cultures through the performance.
 
 **Coach:** Wen Wang  
 
