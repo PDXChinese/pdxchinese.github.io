@@ -11,6 +11,12 @@ Since its establishment, the team has actively performed in various community ev
 
 To have us perform in your events, please [contact us](http://pdxchinese.org/contact/).
 
+>On behalf of Westridge Elementary School community, I want to extend our sincerest thanks for your incredible performance at our recent cultural event.
+
+>The Mulan Drum Team's presentation was not only a beautiful display of talent and hard work, but also an enlightening journey through Chinese culture. The passion and dedication your team showed on stage were truly inspiring, not just to our students, but to all who were fortunate enough to witness your artistry. More than a few parents (including myself) told me they got a bit choked up during the performance because it was so beautiful! It really started our event off with a bang!
+
+>We are so grateful for the time and effort in making our event a memorable experience for our community and for giving our students the chance to experience and appreciate the beauty and diversity of different cultures through dance.
+
 **Coach:** Wen Wang  
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/428478712_385502834114805_3725444155917707792_n)
