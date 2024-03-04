@@ -7,7 +7,7 @@ main:
   - title: "Upcoming Events"
     url: /updates/
   - title: "Donate"
-    url: /communityfund/
+    url: /donate/
   - title: "Contact Us"
     url: /contact/
   # - title: "About"

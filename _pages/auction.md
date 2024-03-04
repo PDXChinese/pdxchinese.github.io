@@ -107,7 +107,7 @@ This event is organized by the Friends of Lan Su Chinese Garden in the Chinese A
 
 There will be no admin cost or commission for the auctions. 100% proceeds go to Lan Su Chinese Garden. The amount combined with cash donations will be delivered to Lan Su late October by OCC.
 
-All items will be in donor's possession until being picked up by the winning bidders. Payment will be made to OCC with the methods listed on [OCC Donate page](https://pdxchinese.org/communityfund/).
+All items will be in donor's possession until being picked up by the winning bidders. Payment will be made to OCC with the methods listed on [OCC Donate page](https://pdxchinese.org/donate/).
 
 OCC will provide donation receipts to the donors upon request.
 

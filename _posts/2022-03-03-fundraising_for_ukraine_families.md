@@ -13,7 +13,7 @@ Olga 有一个星期没有去上班了，她每天穿着睡衣坐在电脑前，
 
 事实是，她现在什么都做不了，她的父母不敢走出地下室，而且Olga的账上也没有那么多钱去买机票。。。
 
-OCC决定在社区筹款，帮助在这里生活的乌克兰家庭，希望他们能用来帮助在乌克兰的家人或来美国与他们团聚。3月份所有捐款均会作为此次专项筹款，捐款方式可见 [https://pdxchinese.org/communityfund/](https://pdxchinese.org/communityfund/)。最简单的方式是通过 PayPal或Zelle到 [donate@pdxchinese.org](mailto:donate@pdxchinese.org).
+OCC决定在社区筹款，帮助在这里生活的乌克兰家庭，希望他们能用来帮助在乌克兰的家人或来美国与他们团聚。3月份所有捐款均会作为此次专项筹款，捐款方式可见 [https://pdxchinese.org/donate/](https://pdxchinese.org/donate/)。最简单的方式是通过 PayPal或Zelle到 [donate@pdxchinese.org](mailto:donate@pdxchinese.org).
 
 今天4点在市中心河边(Salmon Street Fountain)有乌克兰本地组织举办的集会活动，希望能看到更多的华人和他们站在一起。
 

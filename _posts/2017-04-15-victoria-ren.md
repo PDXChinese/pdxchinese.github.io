@@ -275,7 +275,7 @@ Liwen张丽文  07:46
 
 基金成员名单和奖学金细节可以在社区网站上看到，
 
-http://pdxchinese.org/communityfund/
+http://pdxchinese.org/donate/
 
 June Jia  10:09
 

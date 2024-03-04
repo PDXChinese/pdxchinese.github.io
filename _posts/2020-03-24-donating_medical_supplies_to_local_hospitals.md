@@ -169,7 +169,7 @@ Aris群友提醒让医生开处方的时候开90天，价格和30天是一样的
 
 **【社区捐赠医疗物资活动进展3/24】** 很高兴看到社区个人和团体自发组织起来为本地医院捐献急需的物资，与此同时我们也一直在努力着，非常高兴告诉大家，我们已经订购了首批10,000个Halyard Fluidshield N95口罩。作为美国著名品牌，FDA 510K认证，内外包装，技术指标。。。都完全符合捐赠要求。此刻，我有很多话要说，但是我最想说的是，走到这一步真心的不易，过去一星期得到了无数（没有夸张）群友的支持，这次订货从联系货源，物流，清关，现场验货，资金预付完全依赖咱们本地群友提供的资源。我们不想证明什么，我们所做的一切只是为了那些为我们付出牺牲的医护人员，无论他们是在武汉孝感还是在波特兰尤金。
 
-感谢大家的期待和耐心，OCC正式建立了Coronavirus Relief Fund，开始接受大家的捐款。这次通过OCC账户，可以得到抵税优惠和公司matching的资格(TAX ID: 82-1027620)。具体捐款方式，请见 [http://pdxchinese.org/communityfund/](http://pdxchinese.org/communityfund/)。
+感谢大家的期待和耐心，OCC正式建立了Coronavirus Relief Fund，开始接受大家的捐款。这次通过OCC账户，可以得到抵税优惠和公司matching的资格(TAX ID: 82-1027620)。具体捐款方式，请见 [http://pdxchinese.org/donate/](http://pdxchinese.org/donate/)。
 
 这次筹款将不仅仅是为了物资采购，余留款项将会用于与此次疫情相关的支出，包括为社区成员提供紧急救助。在此也希望所有社区成员严格遵守政府有关规定，并注意自身安全（不被感染，不成为侵犯目标）。Viruses come and go, we will survive and thrive!
 
@@ -179,4 +179,4 @@ PayPal: Select 'send to friend' and send to donate@pdxchinese.org
 Zelle: donate@pdxchinese.org  
 
 公司matching请选择Oregon Chinese Coalition, Tax ID: 82-1027620  
-支票和信用卡捐赠，请见: [http://pdxchinese.org/communityfund/](http://pdxchinese.org/communityfund/)  
+支票和信用卡捐赠，请见: [http://pdxchinese.org/donate/](http://pdxchinese.org/donate/)  

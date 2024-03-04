@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /communityfund/
+permalink: /donate/
 ---
 Oregon Chinese Coalition is an IRS approved 501c(3) non-profit organization (TAX ID: 82-1027620). Its funding entirely comes from donations from community members. Everyone works in this organization as a volunteer. All donations will be used to fund community activities.
 

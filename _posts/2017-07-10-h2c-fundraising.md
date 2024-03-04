@@ -68,7 +68,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 西北兆  23:34
 
-捐款方式，可见：[http://pdxchinese.org/communityfund](http://pdxchinese.org/communityfund/)
+捐款方式，可见：[http://pdxchinese.org/donate](http://pdxchinese.org/donate/)
 
 西北兆  23:37
 

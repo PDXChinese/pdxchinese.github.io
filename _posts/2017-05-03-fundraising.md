@@ -35,7 +35,7 @@ The chatting history for this WeChat group "PDX华人大公益-220波村正事" 
 
 欢迎大家加入捐款行列。我们的捐款目标并不那么远大，今年将限制在五万美元之内，处于我们注册的NPO形式的限制。捐款方式暂时限于PayPal，银行转账，支票。详情请见
 
-http://pdxchinese.org/communityfund/
+http://pdxchinese.org/donate/
 
 另外，值得提醒大家的是，许多公司有捐款Matching计划。这样会让我们的捐款大大提速。
 

@@ -59,7 +59,7 @@ feature_row6:
 
 Thanks to the generosity of Suzhou artist Shirakawa, we are in the process of establishing this online gallery. People from around the world will have the opportunity to enjoy his artworks. Artwork can be purchased at the listed price, and there will be no administrative costs or commissions for OCC. 100% of the proceeds will go to the OCC community fund, with a portion directed to Lan Su Chinese Garden.
 
-Arrangements for pickup or shipment will be made through mutual agreement. Payments can be made to OCC using the methods outlined on the [OCC Donate page](https://pdxchinese.org/communityfund/).
+Arrangements for pickup or shipment will be made through mutual agreement. Payments can be made to OCC using the methods outlined on the [OCC Donate page](https://pdxchinese.org/donate/).
 
 *Attention to student organizations (OCC youth teams, registered student clubs, nonprofits): You can receive 1/3 of sales when you assist with any sales. This money can only be used for the group's activities.*
 
