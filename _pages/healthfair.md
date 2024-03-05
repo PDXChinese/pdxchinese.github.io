@@ -247,6 +247,7 @@ Family and Youth Mental Health Counseling from [Huiying Jessica Zhou Tull](https
 >社区健康和保健服务  
 行为健康预防计划  
 亚裔癌症资源和支持服务  
+低收入健康保险（OHP）登记服务  
 
 ### [32] 瑰丽家庭健康中心/[Rosewood Family Health Center](https://www.yvfwc.com/locations/rosewood-family-health-center/)
 
@@ -318,7 +319,7 @@ Family and Youth Mental Health Counseling from [Huiying Jessica Zhou Tull](https
 义工活动与总统义工奖申请
 投票与选举  
 中文学习与项目支持  
-老人心理健康与支持项目 
+老人心理健康与支持项目
 
 
 ### [15] 俄勒冈州住房和社区服务/[Oregon Housing and Community Services](https://www.oregon.gov/ohcs/pages/index.aspx)
@@ -332,15 +333,17 @@ Family and Youth Mental Health Counseling from [Huiying Jessica Zhou Tull](https
 帮助回答日趋复杂的保险覆盖服务的各种问题  
 为有需要的人提供去看医生所需的交通  
 
-### [16] 低收入健康保险登记服务
-
->现场帮助加入OHP低收入州政府医疗保险计划
-
 ### [35] 俄勒冈东方医学院/[OCOM](https://www.ocom.edu/)
 
 >中医知识宣传与咨询  
 耳针治疗展示，欢迎现场观众参与。  
 OCOM诊所服务内容介绍  
+
+### [36-37] 华人医生现场咨询
+
+Dr. Xi Zheng, 内科 (Internal Medicine) 和预防医学 (Preventive Medicine)，Vancouver Clinic (12-2pm)  
+Dr. Wei Wang, 肠胃科 (Gastroenterology)，The Oregon Clinic Gastroenterology South （12-4pm）  
+Dr. Jie Wang，家庭医生 (Family Practice), Kaiser Permanente (12-2pm)
 
 ### [A] OCC青玉青少年舞蹈队/[Jade Dance Team](https://pdxchinese.org/youthdance/)  
 *有双语人员*  
