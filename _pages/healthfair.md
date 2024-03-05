@@ -10,6 +10,7 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/fjclogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ornamilogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/redcross
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/metrowestlogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ohaflogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ohcslogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ahsclogo
@@ -309,8 +310,16 @@ Family and Youth Mental Health Counseling from [Huiying Jessica Zhou Tull](https
 ### [14] OCC社区支持团队  
 *有双语人员*  
 
->心冠初期补贴项目  
+>戒烟戒毒支持  
 精神心理健康同伴支持项目  
+空调发放与安装  
+特困家庭补贴  
+法律援助
+义工活动与总统义工奖申请
+投票与选举  
+中文学习与项目支持  
+老人心理健康与支持项目 
+
 
 ### [15] 俄勒冈州住房和社区服务/[Oregon Housing and Community Services](https://www.oregon.gov/ohcs/pages/index.aspx)
 
@@ -347,4 +356,10 @@ OCOM诊所服务内容介绍
 *有双语人员*  
 
 ### [D] OCC空竹队/[Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
+*有双语人员*  
+
+### [E] OCC龙舟队/Portland Fire Dragon Boat Team  
+*有双语人员*  
+
+### [F] OCC青少年委员会/OCC Youth Council  
 *有双语人员*  
