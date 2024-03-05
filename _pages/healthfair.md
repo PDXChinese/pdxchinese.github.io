@@ -125,12 +125,11 @@ Community programs that bring positive impacts to mental health
 [The Essence of Meditation](https://www.amazon.com/Essence-Meditation-Weishan-Xia/dp/B0BNV2FXYV/ref=sr_1_1?crid=6QCROW6FYVX0&keywords=weishan+xia&qid=1676751432&sprefix=weishan+xia%2Caps%2C157&sr=8-1) from Weishan Xia  
 Family and Youth Mental Health Counseling from [Huiying Jessica Zhou Tull](https://www.bewellfamilycounseling.com/)  
 
-Mental Health Support Group  
-[Community Support/Hot Line](https://pdxchinese.org/support/)  
+[OCC Community Support/Hot Line](https://pdxchinese.org/support/)  
 [Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
 [Jade Dance Team](https://pdxchinese.org/youthdance/)  
-[Hanfu Team](https://pdxchinese.org/hanfu/)  
-
+[Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
+[Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
 
 <br>
 
@@ -339,10 +338,13 @@ OCOM诊所服务内容介绍
 
 >演示和分享舞蹈队活动对身心健康的正面积极的影响  
 
-### [B] OCC汉服表演队/[Hanfu Dress Team](https://pdxchinese.org/hanfu/)  
+### [B] OCC汉服表演队/[Phoenix Hanfu Dress Team](https://pdxchinese.org/hanfu/)  
 *有双语人员*  
 
 >演示和分享汉服队活动对身心健康的正面积极的影响  
 
 ### [C] OCC木兰大鼓队/[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
+*有双语人员*  
+
+### [D] OCC空竹队/[Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
 *有双语人员*  
