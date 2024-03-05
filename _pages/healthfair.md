@@ -105,14 +105,9 @@ Nicotine patches and nicotine gum giveaway
 [Oregon poison help hotline](https://www.ohsu.edu/oregon-poison-center)  
 Substance use and overdose prevention  
 
->[Covid and flu onsite vaccination](https://www.lecarepharmacy.com/)  
-Pharmacy/prescription drug consultation  
-
 >Oral hygiene and dental care consulting by dentist
 
->Taiji demonstration and onsite coaching  
-Meditation demonstration and onsite coaching  
-Yoga demonstration and onsite coaching  
+>Meditation demonstration and onsite coaching  
 
 >Wraparound support for those infected with Covid  
 Onsite rent assistance intake  
@@ -127,35 +122,15 @@ Community programs that bring positive impacts to mental health
 
 ### Valuable Resources from the Community
 
-Chinese Martial Arts: Taiji from [The U. S. Wushu Center](https://uswushu.com/)  
-Yoga demonstration by Dahui Dunn (陈大慧) and Chris Schaus from [Santosha Yoga by Bethany Athletic Club](https://santoshayogabethany.com/)  
 [The Essence of Meditation](https://www.amazon.com/Essence-Meditation-Weishan-Xia/dp/B0BNV2FXYV/ref=sr_1_1?crid=6QCROW6FYVX0&keywords=weishan+xia&qid=1676751432&sprefix=weishan+xia%2Caps%2C157&sr=8-1) from Weishan Xia  
-Holistic Health Coach, Weiming Lin 全人健康教练 -- 微鸣  
 Family and Youth Mental Health Counseling from [Huiying Jessica Zhou Tull](https://www.bewellfamilycounseling.com/)  
 
-Rent Assistance Intake Team  
-Covid Wraparound Support Group  
 Mental Health Support Group  
 [Community Support/Hot Line](https://pdxchinese.org/support/)  
 [Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
 [Jade Dance Team](https://pdxchinese.org/youthdance/)  
 [Hanfu Team](https://pdxchinese.org/hanfu/)  
 
-### Presentations (Rogue River Room)
-
-1pm Youth Mental Health by NAMI Washington County (English)  
-2pm Dementia (Chinese/Mandarin)  
-3pm The Essence of Meditation (Chinese/Mandarin)  
-
-*Attendees can pick up additional 3 free brand new household items*
-
-### Brand New Household Items Giveaway (Umpqua River Room)
-
-Each person can choose 5 items  
-People who've pledged to quit smoking can choose 3 additional items  
-People who've attended one presentation can choose 3 additional items  
-During entire health fair, each person can choose up to 10 items max.  
-While supplies last  
 
 <br>
 
@@ -297,7 +272,7 @@ While supplies last
 
 >中国广东长大，2006年搬到美国上大学。作为一名LPC-A和育儿教练，在为个人和家庭服务的心理健康领域有着丰富的经验。
 
-### [4] 全国精神疾病联盟华盛顿县分部/[NAMI](https://www.washconami.org/)
+### [4] 全国精神疾病联盟俄勒冈州分部/[NAMI](https://www.namior.org/)
 
 >青少年精神心理健康英文讲座 (会议室)  
 心理健康互助小组  
@@ -327,39 +302,10 @@ While supplies last
 
 >为老年人和残疾人提供免费门到门交通便利
 
-### [9] 使命:公民学生志愿组织/[Mission:Citizen](https://missioncitizen.org/)
-
->高中学生社团，为社区服务超过10年  
-义务帮助社区成员准备公民入籍考试  
-如有需要，会帮助提供入籍考试部分费用  
-提供最新入籍方面的资讯  
-
-### [10-11] [Lecare](https://www.lecarepharmacy.com/) 药店
-
->Covid疫苗接种，包括适用于儿童和成人(3岁及以上)的 Moderna & Pfizer 双价增强疫苗  
-流感疫苗接种  
-处方药现场咨询(疫苗接种空闲时间)  
-
-### [12] 波特兰警察局/[Portland Police Bureau](https://www.portland.gov/police)
-
->社区与个人安全方面知识  
-面对面与社区成员交谈大家关心的各种问题  
-
 ### [13] 冥想的本质/[夏维山](https://www.amazon.com/Essence-Meditation-Weishan-Xia/dp/B0BNV2FXYV/ref=sr_1_1?crid=6QCROW6FYVX0&keywords=weishan+xia&qid=1676751432&sprefix=weishan+xia%2Caps%2C157&sr=8-1)  
 *有双语人员*  
 
 >讨论冥想的生物学本质，而不是从中衍生出的哲学和宗教话题。
-
-### [14] OCC房租补贴团队  
-*有双语人员*  
-
->现场登记，针对因无法支付房租，有可能成为居无定所的个人和家庭。  
-可以补贴的月份：4月，5月，6月  
-
-### [14] OCC热线电话团队/[Community Support Line](https://pdxchinese.org/support/)  
-*有双语人员*  
-
->印有热线电话号码和ID的安全口哨申请  
 
 ### [14] OCC社区支持团队  
 *有双语人员*  
@@ -382,25 +328,6 @@ While supplies last
 
 >现场帮助加入OHP低收入州政府医疗保险计划
 
-### [33] Bethany 运动俱乐部/[Bethany Athletic Club](https://bethanyathleticclub.com/)  
-*有双语人员*  
-
->陈大慧和 Chris Schaus 展示讲解 Santosha 瑜伽  
-
-### [34] 美国武术中心/[US Wushu Center](https://uswushu.com/)  
-*有双语人员*  
-
->健身气功展示和互动  
-
-*12点-2点时段*
-
-### [34] 全人健康教练/微鸣  
-*有双语人员*  
-
->全人健康方法论及太极展示  
-
-*2-4点时段*
-
 ### [35] 俄勒冈东方医学院/[OCOM](https://www.ocom.edu/)
 
 >中医知识宣传与咨询  
@@ -419,24 +346,3 @@ OCOM诊所服务内容介绍
 
 ### [C] OCC木兰大鼓队/[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
 *有双语人员*  
-
->演示和分享大鼓队活动对身心健康的正面积极的影响  
-
-### 专题讲座 (Rogue River 会议室)
-
-1点 青少年精神健康讲座 (英文)  
-2点 脑退化症资讯讲座 (普通话)  
-3点 冥想的本质讲座 (普通话)  
-
-*每参加一个讲座，可以额外领取3件杂货*
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
-
-### 全新各类杂货派发 (Umpqua River 会议室)
-
-感谢善心人士慷慨捐赠  
-到场每人限5件  
-填写戒烟意向表，可以额外领取3件  
-每参加一个讲座，可以额外领取3件  
-整个活动中每人最多可以领取10件  
-发完为止  
