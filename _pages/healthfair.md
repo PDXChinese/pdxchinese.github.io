@@ -315,11 +315,11 @@ Family and Youth Mental Health Counseling from [Huiying Jessica Zhou Tull](https
 精神心理健康同伴支持项目  
 空调发放与安装  
 特困家庭补贴  
-法律援助
-义工活动与总统义工奖申请
+法律援助  
+义工活动与总统义工奖申请  
 投票与选举  
 中文学习与项目支持  
-老人心理健康与支持项目
+老人心理健康与支持项目  
 
 
 ### [15] 俄勒冈州住房和社区服务/[Oregon Housing and Community Services](https://www.oregon.gov/ohcs/pages/index.aspx)
