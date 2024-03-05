@@ -341,19 +341,15 @@ OCOM诊所服务内容介绍
 
 ### [36-37] 华人医生现场咨询
 
-Dr. Xi Zheng, 内科 (Internal Medicine) 和预防医学 (Preventive Medicine)，Vancouver Clinic (12-2pm)  
-Dr. Wei Wang, 肠胃科 (Gastroenterology)，The Oregon Clinic Gastroenterology South （12-4pm）  
-Dr. Jie Wang，家庭医生 (Family Practice), Kaiser Permanente (12-2pm)
+>**Dr. Xi Zheng**, 内科和预防医学，Vancouver Clinic (12-2pm)  
+**Dr. Wei Wang**, 肠胃科，The Oregon Clinic Gastroenterology South （12-4pm）  
+**Dr. Jie Wang**，家庭医学, Kaiser Permanente (12-2pm)
 
 ### [A] OCC青玉青少年舞蹈队/[Jade Dance Team](https://pdxchinese.org/youthdance/)  
 *有双语人员*  
 
->演示和分享舞蹈队活动对身心健康的正面积极的影响  
-
 ### [B] OCC汉服表演队/[Phoenix Hanfu Dress Team](https://pdxchinese.org/hanfu/)  
 *有双语人员*  
-
->演示和分享汉服队活动对身心健康的正面积极的影响  
 
 ### [C] OCC木兰大鼓队/[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
 *有双语人员*  
