@@ -18,7 +18,6 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/medicaresavinglogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/oedlogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/cfpalogo  
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/lecarelogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/arrayrxlogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/poisonlogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/hhhs_logo  
@@ -46,16 +45,16 @@ feature_row3:
 
 **中文信息在此页面的下半部分**
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024fairflyer)
-
 ### Our Proud Sponsors
 
 {% include feature_row id="feature_row3"%}
 
-[>> Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
-[>> Tabling Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2023)  
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024fairflyer)
 
-*Strongly encourage riding on Max Red Line or Blue Line. The Oregon Zoo is 2 minutes walk from Washington Park station.*
+[>> Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
+[>> Tabling Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2024)  
+
+*Strongly encourage taking the MAX Red Line or Blue Line. The Oregon Zoo is just a couple of minutes' walk from the Washington Park station. If you decide to drive, carpooling is also a great idea. We will assist with parking payment through the Parking Kitty application. Please write down your plate number and the Zone number posted nearby and give to the volunteer near the registration desk.*
 
 Health is of utmost importance to everyone, from the youth navigating between two cultures, to the parents shouldering the responsibilities of raising a family, and certainly to the elderly who strive to age gracefully. The health fair is dedicated to the well-being of the entire community.
 
@@ -173,11 +172,11 @@ While supplies last
 **地址:** 4001 SW Canyon Road, Portland, OR 97221  
 
 [>> 现场义工报名表格](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
-[>> 现场摊位位置图](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2023)  
+[>> 现场摊位位置图](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2024)  
 
 **波特兰地铁(MAX)交通信息**
 
-乘坐红色线或蓝色线，在华盛顿公园(Washington Park)下车，在公园停车场中午时分会比较紧张，建议尽可能乘坐地铁过去。
+强烈建议搭乘MAX红线或蓝线，动物园距离华盛顿公园站(Washington Park)仅有2分钟步行路程。如果您决定驾车前往，合车也是一个很好的选择。我们将通过Parking Kitty应用程序帮助支付您的停车费。请记下您的车牌号码和附近张贴的区域号码(Zone Number)，交给大会门口负责此事的义工。
 
 ### [17-21] 俄勒冈健康与科学大学/OHSU
 
