@@ -326,9 +326,9 @@ OCOM诊所服务内容介绍
 
 ### [36-37] 华人医生现场咨询
 
->**Dr. Xi Zheng**, 内科和预防医学，Vancouver Clinic (12-2pm)  
-**Dr. Wei Wang**, 肠胃科，The Oregon Clinic Gastroenterology South （12-4pm）  
-**Dr. Jie Wang**，家庭医学, Kaiser Permanente (12-2pm)  
+>**[Dr. Xi Zheng](https://www.tvc.org/clinician/emily-xi-zheng-md-phd/)**, 内科和预防医学，Vancouver Clinic (12-2pm)  
+**[Dr. Wei Wang](https://www.oregonclinic.com/our-team/wei-wang/)**, 肠胃科，The Oregon Clinic Gastroenterology South （12-4pm）  
+**[Dr. Jie Wang](https://healthy.kaiserpermanente.org/oregon-washington/clinicians/jie-wang-2478646)**，家庭医学, Kaiser Permanente (12-2pm)  
 **Taiping Jia**, 中医学, TJ Acupuncture (2-4pm)  
 
 现场会有血压计和血糖仪，为咨询医生提供参考数据。
