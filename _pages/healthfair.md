@@ -28,7 +28,7 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthysmileslogo  
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/yinglogo  
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/211logo
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/rideconnection
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/inspectionlogo
 feature_row2:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/blanklogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ohalogo
@@ -212,16 +212,6 @@ Family and Youth Mental Health Counseling from [Huiying Jessica Zhou Tull](https
 
 *OCC是推荐组织之一*
 
-### [24] 克拉克默斯县卫生住房和公众服务/[H3S-Clackamas County](https://www.clackamas.us/h3s)
-
->吸烟毒害预防宣传教育  
-其他公共服务咨询  
-
-### [25] 克拉克默斯县烟草、药物使用和药物过量预防计划/[Clackamas County Substance Use and Overdose Prevention](https://www.clackamas.us/publichealth/substancesafety)
-
->毒品使用和中毒预防宣传  
-介绍纳洛酮使用及发放  
-
 ### [26] 俄勒冈州处方药计划/[ArrayRx](https://arrayrxcard.com/)
 
 >帮助节省高达 80% 的处方药费用  
@@ -298,11 +288,6 @@ Family and Youth Mental Health Counseling from [Huiying Jessica Zhou Tull](https
 >这是州政府几乎所有福利和资源集中在一起的门户  
 参加活动的职员讲一口流利中文，他欢迎大家通过他了解211热线电话运作和服务内容  
 
-### [8] 出行无忧/[Ride Connection](https://rideconnection.org/)  
-*有双语人员*  
-
->为老年人和残疾人提供免费门到门交通便利
-
 ### [13] 冥想的本质/[夏维山](https://www.amazon.com/Essence-Meditation-Weishan-Xia/dp/B0BNV2FXYV/ref=sr_1_1?crid=6QCROW6FYVX0&keywords=weishan+xia&qid=1676751432&sprefix=weishan+xia%2Caps%2C157&sr=8-1)  
 *有双语人员*  
 
@@ -343,7 +328,12 @@ OCOM诊所服务内容介绍
 
 >**Dr. Xi Zheng**, 内科和预防医学，Vancouver Clinic (12-2pm)  
 **Dr. Wei Wang**, 肠胃科，The Oregon Clinic Gastroenterology South （12-4pm）  
-**Dr. Jie Wang**，家庭医学, Kaiser Permanente (12-2pm)
+**Dr. Jie Wang**，家庭医学, Kaiser Permanente (12-2pm)  
+**Taiping Jia**, 中医学, TJ Acupuncture (2-4pm)  
+
+现场会有血压计和血糖仪，为咨询医生提供参考数据。
+
+**【免责声明】** 参加活动的医生均为志愿者，免费为大家提供健康方面的咨询，仅供参考，不应视为正式诊断。如果有进一步的问题，请咨询您的家庭医生。
 
 ### [A] OCC青玉青少年舞蹈队/[Jade Dance Team](https://pdxchinese.org/youthdance/)  
 *有双语人员*  
