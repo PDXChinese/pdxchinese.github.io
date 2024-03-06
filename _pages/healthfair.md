@@ -55,7 +55,7 @@ feature_row3:
 [>> Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
 [>> Tabling Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2024)  
 
-*Strongly encourage taking the MAX Red Line or Blue Line. The Oregon Zoo is just a couple of minutes' walk from the Washington Park station. If you decide to drive, carpooling is also a great idea. We will assist with parking payment through the Parking Kitty application. Please write down your plate number and the Zone number posted nearby and give to the volunteer near the registration desk.*
+<code style="color:green">*Strongly encourage taking the MAX Red Line or Blue Line. The Oregon Zoo is just a couple of minutes' walk from the Washington Park station. If you decide to drive, carpooling is also a great idea. We will assist with parking payment through the Parking Kitty application. Please write down your plate number and the Zone number posted nearby and give to the volunteer near the registration desk.*</code>
 
 Health is of utmost importance to everyone, from the youth navigating between two cultures, to the parents shouldering the responsibilities of raising a family, and certainly to the elderly who strive to age gracefully. The health fair is dedicated to the well-being of the entire community.
 
@@ -151,9 +151,9 @@ Family and Youth Mental Health Counseling from [Huiying Jessica Zhou Tull](https
 
 **波特兰地铁(MAX)交通信息**
 
-强烈建议搭乘MAX红线或蓝线，动物园距离华盛顿公园站(Washington Park)仅有2分钟步行路程。如果您决定驾车前往，合车也是一个很好的选择。我们将通过Parking Kitty应用程序帮助支付您的停车费。请记下您的车牌号码和附近张贴的区域号码(Zone Number)，交给大会门口负责此事的义工。
+<code style="color:green">强烈建议搭乘MAX红线或蓝线，动物园距离华盛顿公园站(Washington Park)仅有2分钟步行路程。如果您决定驾车前往，合车也是一个很好的选择。我们将通过Parking Kitty应用程序帮助支付您的停车费。请记下您的车牌号码和附近张贴的区域号码(Zone Number)，交给大会门口负责此事的义工。</code>
 
-### [17-21] 俄勒冈健康与科学大学/OHSU
+### [摊位5-8和17-20] 俄勒冈健康与科学大学/OHSU
 
 [17] 奈特癌症研究所/[Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute)  
 *有双语人员*  
@@ -328,8 +328,8 @@ OCOM诊所服务内容介绍
 
 >**[Dr. Xi Zheng](https://www.tvc.org/clinician/emily-xi-zheng-md-phd/)**, 内科和预防医学，Vancouver Clinic (12-2pm)  
 **[Dr. Wei Wang](https://www.oregonclinic.com/our-team/wei-wang/)**, 肠胃科，The Oregon Clinic Gastroenterology South （12-4pm）  
-**[Dr. Jie Wang](https://healthy.kaiserpermanente.org/oregon-washington/clinicians/jie-wang-2478646)**，家庭医学, Kaiser Permanente (12-2pm)  
-**Taiping Jia**, 中医学, TJ Acupuncture (2-4pm)  
+**[Dr. Jie Wang](https://healthy.kaiserpermanente.org/oregon-washington/clinicians/jie-wang-2478646)**，家庭医生, Kaiser Permanente (12-2pm)  
+**Taiping Jia**, 中医, TJ Acupuncture (2-4pm)  
 
 现场会有血压计和血糖仪，为咨询医生提供参考数据。
 
