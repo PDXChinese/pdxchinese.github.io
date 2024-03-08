@@ -79,11 +79,9 @@ feature_row3:
 
 >徐娜牙医提供口腔卫生和牙齿保健咨询
 
-*OCC是推荐组织之一*
+### [摊位 5] 冥想的本质/[夏维山](https://www.amazon.com/Essence-Meditation-Weishan-Xia/dp/B0BNV2FXYV/ref=sr_1_1?crid=6QCROW6FYVX0&keywords=weishan+xia&qid=1676751432&sprefix=weishan+xia%2Caps%2C157&sr=8-1)  
 
-### [摊位 5] 华人医生现场咨询：处方药和非处方药
-
->梁冰冰药学博士处方药和非处方药咨询
+>讨论冥想的生物学本质，而不是从中衍生出的哲学和宗教话题。
 
 ### [摊位 6] 华人医生现场咨询：内科和预防医学
 
@@ -102,11 +100,11 @@ feature_row3:
 
 >**Taiping Jia**, 中医, TJ Acupuncture (2-4pm)  
 
-**【摊位 5-9 免责声明】** 参加活动的医生均为志愿者，免费为大家提供健康方面的咨询，仅供参考，不应视为正式诊断。如果有进一步的问题，请咨询您的家庭医生。
+### [摊位 10] 华人医生现场咨询：处方药和非处方药
 
-### [摊位 10] 冥想的本质/[夏维山](https://www.amazon.com/Essence-Meditation-Weishan-Xia/dp/B0BNV2FXYV/ref=sr_1_1?crid=6QCROW6FYVX0&keywords=weishan+xia&qid=1676751432&sprefix=weishan+xia%2Caps%2C157&sr=8-1)  
+>梁冰冰药学博士处方药和非处方药咨询
 
->讨论冥想的生物学本质，而不是从中衍生出的哲学和宗教话题。
+**【摊位 5-10 免责声明】** 参加活动的医生和专业人士均为志愿者，免费为大家提供健康方面的咨询，仅供参考，不应视为正式诊断。如果有进一步的问题，请咨询您的家庭医生。
 
 ### [摊位 11] OCC社区服务团队  
 
@@ -126,6 +124,8 @@ feature_row3:
 与受过培训的电话戒烟顾问一对一商谈  
 制定最适合你的戒烟计划  
 免费自助戒烟资料  
+
+*OCC是推荐组织之一*
 
 ### [摊位 12] 现场广东话翻译义工工作站
 
