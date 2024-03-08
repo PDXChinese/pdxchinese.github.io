@@ -85,16 +85,16 @@ feature_row3:
 
 ### [摊位 6] 华人医生现场咨询：内科和预防医学
 
->**[Dr. Xi Zheng](https://www.tvc.org/clinician/emily-xi-zheng-md-phd/)**, Vancouver Clinic (12-2pm)  
+>**[Xi Zheng, MD, PhD](https://www.tvc.org/clinician/emily-xi-zheng-md-phd/)**, Vancouver Clinic (12-2pm)  
 现场会有血压计和血糖仪，为咨询医生提供参考数据。  
 
 ### [摊位 7] 华人医生现场咨询：家庭医生
 
->**[Dr. Jie Wang](https://healthy.kaiserpermanente.org/oregon-washington/clinicians/jie-wang-2478646)**，Kaiser Permanente (12-2pm)  
+>**[Dr. Jie Wang, MD](https://healthy.kaiserpermanente.org/oregon-washington/clinicians/jie-wang-2478646)**，Kaiser Permanente (12-2pm)  
 
 ### [摊位 8] 华人医生现场咨询：肠胃科
 
->**[Dr. Wei Wang](https://www.oregonclinic.com/our-team/wei-wang/)**, The Oregon Clinic Gastroenterology South （12-4pm）  
+>**[Dr. Wei Wang, MD](https://www.oregonclinic.com/our-team/wei-wang/)**, The Oregon Clinic Gastroenterology South （12-4pm）  
 
 ### [摊位 9] 华人医生现场咨询：中医
 
@@ -102,7 +102,7 @@ feature_row3:
 
 ### [摊位 10] 华人医生现场咨询：处方药和非处方药
 
->梁冰冰药学博士处方药和非处方药咨询
+>**BingBing Liang**, Pharm.D (12-4pm)
 
 **【摊位 5-10 免责声明】** 参加活动的医生和专业人士均为志愿者，免费为大家提供健康方面的咨询，仅供参考，不应视为正式诊断。如果有进一步的问题，请咨询您的家庭医生。
 
