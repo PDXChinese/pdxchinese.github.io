@@ -21,7 +21,6 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/poisonlogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/hhhs_logo  
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/asqlonglogo
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/youthlinelogo  
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/rosewoodlogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthysmileslogo  
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/yinglogo  
@@ -75,19 +74,11 @@ Help with Medicare Part B and D premiums, Co-pays and deductibles, Prescription 
 [Understanding, diagnosis and treatment of Alzheimer’s disease](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
 Free door to door transportation for seniors  
 
->[Domestic violence education, women shelter, legal support, youth camp counselor opportunity...](https://www.cwsor.org/)  
-[County clinic, food programs, youth programs, affordable housing...](https://www.multco.us/dchs/bienestar-de-la-familia)  
-Community and personal safety by [PPB](https://www.portland.gov/police) officers  
-[Free program to help with citizenship exams](https://missioncitizen.org/)  
-
 >Acupuncture and herbal medicine  
 [Auricular acupuncture treatments](https://www.healthline.com/health/ear-acupuncture) demonstration  
 
->[Mental health support groups at community level](https://www.washconami.org/)  
-Presentation on youth mental health  
-[Family and youth mental health counseling](https://www.bewellfamilycounseling.com/)  
+>[Family and youth mental health counseling](https://www.bewellfamilycounseling.com/)  
 Behavioral health prevention program  
-[Youth mental health and crisis](https://www.theyouthline.org/)  
 Children and youth with special health care needs  
 
 >Cancer genetic screening  
@@ -107,13 +98,6 @@ Substance use and overdose prevention
 >Oral hygiene and dental care consulting by dentist
 
 >Meditation demonstration and onsite coaching  
-
->Wraparound support for those infected with Covid  
-Onsite rent assistance intake  
-Mortgage assistance to homeowners through [HAF program](https://www.oregon.gov/ohcs/homeownership/Documents/HAF-Packet-simpchi.pdf)  
-[OCC safety whistle](https://pdxchinese.org/support/) registration and giveaway  
-Community programs that bring positive impacts to mental health  
-[Community volunteer opportunities and PVSA certification](https://pdxchinese.org/volunteering/)  
 
 ### Our Proud Community Partners in the Fair
 
@@ -189,38 +173,44 @@ OCC Youth Council
 
 *OCC是推荐组织之一*
 
-### [摊位 5] 健康微笑牙医诊所/[Healthy Smiles Family Dental at Idylwood](https://www.myfamilydentistsalem.com/)  
+### [摊位 5] 华人医生现场咨询：处方药和非处方药
 
->徐娜牙医提供口腔卫生和牙齿保健咨询
+>梁冰冰药学博士处方药和非处方药咨询
 
-### [摊位 6] 家庭和青少年心理健康咨询/[Huiying Jessica Tull](https://www.bewellfamilycounseling.com/)  
-*有双语人员*  
-
->中国广东长大，2006年搬到美国上大学。作为一名LPC-A和育儿教练，在为个人和家庭服务的心理健康领域有着丰富的经验。
-
-### [摊位 7] 华人医生现场咨询：内科和预防医学
+### [摊位 6] 华人医生现场咨询：内科和预防医学
 
 >**[Dr. Xi Zheng](https://www.tvc.org/clinician/emily-xi-zheng-md-phd/)**, Vancouver Clinic (12-2pm)  
 现场会有血压计和血糖仪，为咨询医生提供参考数据。  
 
-### [摊位 8] 华人医生现场咨询：家庭医生和中医
+### [摊位 7] 华人医生现场咨询：家庭医生
 
 >**[Dr. Jie Wang](https://healthy.kaiserpermanente.org/oregon-washington/clinicians/jie-wang-2478646)**，Kaiser Permanente (12-2pm)  
-**Taiping Jia**, 中医, TJ Acupuncture (2-4pm)  
 
-### [摊位 9] 华人医生现场咨询：肠胃科
+### [摊位 8] 华人医生现场咨询：肠胃科
 
 >**[Dr. Wei Wang](https://www.oregonclinic.com/our-team/wei-wang/)**, The Oregon Clinic Gastroenterology South （12-4pm）  
 
-**【摊位 7-9 免责声明】** 参加活动的医生均为志愿者，免费为大家提供健康方面的咨询，仅供参考，不应视为正式诊断。如果有进一步的问题，请咨询您的家庭医生。
+### [摊位 9] 华人医生现场咨询：中医
+
+>**Taiping Jia**, 中医, TJ Acupuncture (2-4pm)  
+
+**【摊位 5-9 免责声明】** 参加活动的医生均为志愿者，免费为大家提供健康方面的咨询，仅供参考，不应视为正式诊断。如果有进一步的问题，请咨询您的家庭医生。
 
 ### [摊位 10] 冥想的本质/[夏维山](https://www.amazon.com/Essence-Meditation-Weishan-Xia/dp/B0BNV2FXYV/ref=sr_1_1?crid=6QCROW6FYVX0&keywords=weishan+xia&qid=1676751432&sprefix=weishan+xia%2Caps%2C157&sr=8-1)  
 
 >讨论冥想的生物学本质，而不是从中衍生出的哲学和宗教话题。
 
+### [摊位 11] 健康微笑牙医诊所/[Healthy Smiles Family Dental at Idylwood](https://www.myfamilydentistsalem.com/)  
+
+>徐娜牙医提供口腔卫生和牙齿保健咨询
+
 ### [摊位 12] 现场广东话翻译义工工作站
 
 ### [摊位 13] 现场普通话翻译义工工作站
+
+### [摊位 14] 家庭和青少年心理健康咨询/[Huiying Jessica Tull](https://www.bewellfamilycounseling.com/)  
+
+>中国广东长大，2006年搬到美国上大学。作为一名LPC-A和育儿教练，在为个人和家庭服务的心理健康领域有着丰富的经验。
 
 ### [摊位 15] 全国精神疾病联盟俄勒冈州分部/[NAMI](https://www.namior.org/)
 
