@@ -90,11 +90,11 @@ feature_row3:
 
 ### [摊位 7] 华人医生现场咨询：家庭医生
 
->**[Dr. Jie Wang, MD](https://healthy.kaiserpermanente.org/oregon-washington/clinicians/jie-wang-2478646)**，Kaiser Permanente (12-2pm)  
+>**[Jie Wang, MD](https://healthy.kaiserpermanente.org/oregon-washington/clinicians/jie-wang-2478646)**，Kaiser Permanente (12-2pm)  
 
 ### [摊位 8] 华人医生现场咨询：肠胃科
 
->**[Dr. Wei Wang, MD](https://www.oregonclinic.com/our-team/wei-wang/)**, The Oregon Clinic Gastroenterology South （12-4pm）  
+>**[Wei Wang, MD](https://www.oregonclinic.com/our-team/wei-wang/)**, The Oregon Clinic Gastroenterology South （12-4pm）  
 
 ### [摊位 9] 华人医生现场咨询：中医
 
