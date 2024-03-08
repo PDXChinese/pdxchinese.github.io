@@ -153,148 +153,22 @@ Family and Youth Mental Health Counseling from [Huiying Jessica Zhou Tull](https
 
 <code style="color:green">强烈建议搭乘MAX红线或蓝线，动物园距离华盛顿公园站(Washington Park)仅有2分钟步行路程。如果您决定驾车前往，合车也是一个很好的选择。我们将通过Parking Kitty应用程序帮助支付您的停车费。请记下您的车牌号码和附近张贴的区域号码(Zone Number)，交给大会门口负责此事的义工。</code>
 
-### [摊位5-8和17-20] 俄勒冈健康与科学大学/OHSU
+### [摊位 1] 公益性房屋检查公司/[Nonprofit Home Inspections](https://nonprofithomeinspections.org/)
 
-[17] 奈特癌症研究所/[Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute)  
-*有双语人员*  
+>平价政策  
+对低收入家庭按照收入不同程度优惠价格  
+为低收入家庭做免费氡气检测  
 
->癌症教育和知识普及  
-两个参与癌症临床试验的机会  
-健康俄勒冈项目/The Healthy Oregon Project -- 通过血液或唾液的癌症基因测试  
+### [摊位 2] 俄勒冈州住房和社区服务/[Oregon Housing and Community Services](https://www.oregon.gov/ohcs/pages/index.aspx)
 
-[18] 俄勒冈州有特殊医疗保健需求的儿童和青少年中心/[Oregon Center for Children and Youth with Special Health Needs](https://www.ohsu.edu/oregon-family-to-family-health-information-center)
+>宣传下半年开始的针对低收入家庭提供的房租补贴项目  
 
->为有特殊健康需求的儿童和青少年的父母和看护人提供服务  
-帮助人们获得残疾和特殊需要儿童所需的服务  
-
-[19] 俄勒冈毒物中心/[Oregon Poison Center](https://www.ohsu.edu/oregon-poison-center)
-
->为什么说毒物随处可见  
-每12秒就会有一个人打电话到毒物中心，自己能做什么？  
-
-[20] 雷顿衰老和阿尔茨海默病中心/[Layton Aging and Alzheimer's Disease Center](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
-*有双语人员*  
-
->脑退化症资讯中文讲座 (会议室)  
-失智症预防知识咨询  
-
-[21] 凯西眼科研究所/[Casey Eye Institute](https://www.ohsu.edu/casey-eye-institute)
-
->有关视力健康知识咨询  
-发放免费视力检查和配眼镜 (VSP Eyes of Hope) 礼品券  
-
-### [22] 华盛顿县家庭司法中心/[Family Justice Center of Washington County](https://www.fjcwc.org/)
-
->为家庭暴力，性侵犯，性剥削，虐待老人，家庭暴力的幸存者及其子女提供服务。  
-协助办理限制令  
-家庭法援助计划，包括离婚和子女监护权  
-电费煤气费补贴计划  
-紧急房租补贴  
-食品补贴，现金券，托儿费补贴，医疗保险计划。  
-家暴幸存者心理咨询和庇护所信息  
-为人口拐卖受害者提供捐助  
-育儿和婚姻问题咨询  
-为民事家庭法案件和刑事案件幸存者提供支持  
-在犯罪报告，调查和跟进方面提供帮助。  
-
-### [23] 克拉克马斯妇女服务中心/[Clackamas Women's Services](https://www.cwsor.org/)
-
->家庭暴力知识宣传与咨询  
-妇女庇护所  
-妇女权益保护，包括法律权益介绍  
-
-### [24] 亚裔吸烟者戒烟热线/[Asian Smokers' Quitline](https://www.asiansmokersquitline.org/)
-
->免费戒烟服务  
-与受过培训的电话戒烟顾问一对一商谈  
-制定最适合你的戒烟计划  
-免费自助戒烟资料  
-
-*OCC是推荐组织之一*
-
-### [26] 俄勒冈州处方药计划/[ArrayRx](https://arrayrxcard.com/)
-
->帮助节省高达 80% 的处方药费用  
-免费加入，无年龄和收入限制  
-所有FDA批准的处方药都包括在内  
-
-### [27] 州政府为低收入健康保险(OHP)持有者提供支持服务/[OHA Ombuds Team](https://www.oregon.gov/oha/ERD/Pages/Ombuds-Program.aspx)
-
->如果您对得到的服务有抱怨，她们会帮助到您。
-
-### [28] 州政府老年人和残疾人服务团队/[Aging and People with Disabilities Team](https://www.oregon.gov/dhs/seniors-disabilities/Pages/index.aspx)
-
->为智障人提供就业和其他保障性质的服务  
-为老人和残疾人提供服务信息，包括护工，长期护理等  
-
-### [29] 州政府医疗保险选购市场团队/[OHA Market Place Team](https://healthcare.oregon.gov/Pages/index.aspx)
-
->如果您打算为个人或家庭或自己的公司选购医疗保险，选购市场提供众多选项，团队成员现场回答任何问题
-
-### [30-31] 华人服务中心/[Asian Health & Service Center](https://ahscpdx.org/)  
-*有双语人员*  
-
->社区健康和保健服务  
-行为健康预防计划  
-亚裔癌症资源和支持服务  
-低收入健康保险（OHP）登记服务  
-
-### [32] 瑰丽家庭健康中心/[Rosewood Family Health Center](https://www.yvfwc.com/locations/rosewood-family-health-center/)
-
->专长为低收入家庭提供健康服务  
-现场回答大家提出各种问题，包括接收新病人，预约，保险，服务范围等  
-
-### [1] 摩特诺玛县老年人、残疾人和退伍军人服务部/[Multnomah County Aging Disability & Veterans Services](https://www.multco.us/ads)
-
->为老年人，残疾人和看护人提供帮助，包括政府项目，寻找监护人服务，调查虐待事件，护理中心  
-协助老年人健康保险福利援助 (SHIBA) 计划 (Medicare)  
-老年人医疗保险(Medicare)个人支付部分补贴  
-
-### [2] 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)  
-*有双语人员*  
-
->交通补贴 -- 免费公交车卡  
-低收入房租和水气电补贴  
-协助申请低收入医疗保险(OHP)  
-低收入食物保障计划  
-
-### [3] 家庭和青少年心理健康咨询/[Huiying Jessica Tull](https://www.bewellfamilycounseling.com/)  
-*有双语人员*  
-
->中国广东长大，2006年搬到美国上大学。作为一名LPC-A和育儿教练，在为个人和家庭服务的心理健康领域有着丰富的经验。
-
-### [4] 全国精神疾病联盟俄勒冈州分部/[NAMI](https://www.namior.org/)
-
->青少年精神心理健康英文讲座 (会议室)  
-心理健康互助小组  
-育儿与心理健康  
-
-*OCC将会与他们长期合作，分享资源，培训社区精神心理健康义工*
-
-### [5] 青少年精神健康支持专线/[YouthLine](https://www.theyouthline.org/)
-
->青少年危机和帮助专线服务内容介绍  
-招揽参与专线服务青少年志愿者  
-青少年精神健康一线报告  
-
-### [6] 健康微笑牙医诊所/[Healthy Smiles Family Dental at Idylwood](https://www.myfamilydentistsalem.com/)  
-*有双语人员*  
-
->徐娜牙医提供口腔卫生和牙齿保健咨询
-
-### [7] 211 热线电话/[211 Info Hotline](https://www.211info.org/)  
-*有双语人员*  
+### [摊位 3] 211 热线电话/[211 Info Hotline](https://www.211info.org/)  
 
 >这是州政府几乎所有福利和资源集中在一起的门户  
 参加活动的职员讲一口流利中文，他欢迎大家通过他了解211热线电话运作和服务内容  
 
-### [13] 冥想的本质/[夏维山](https://www.amazon.com/Essence-Meditation-Weishan-Xia/dp/B0BNV2FXYV/ref=sr_1_1?crid=6QCROW6FYVX0&keywords=weishan+xia&qid=1676751432&sprefix=weishan+xia%2Caps%2C157&sr=8-1)  
-*有双语人员*  
-
->讨论冥想的生物学本质，而不是从中衍生出的哲学和宗教话题。
-
-### [14] OCC社区支持团队  
-*有双语人员*  
+### [摊位 4] OCC社区服务团队  
 
 >戒烟戒毒支持  
 精神心理健康同伴支持项目  
@@ -306,34 +180,172 @@ Family and Youth Mental Health Counseling from [Huiying Jessica Zhou Tull](https
 中文学习与项目支持  
 老人心理健康与支持项目  
 
+### [摊位 4] 亚裔吸烟者戒烟热线/[Asian Smokers' Quitline](https://www.asiansmokersquitline.org/)
 
-### [15] 俄勒冈州住房和社区服务/[Oregon Housing and Community Services](https://www.oregon.gov/ohcs/pages/index.aspx)
+>免费戒烟服务  
+与受过培训的电话戒烟顾问一对一商谈  
+制定最适合你的戒烟计划  
+免费自助戒烟资料  
 
->3/8开始的新一轮房主抵押贷款补贴项目  
-现场回答有关申请问题  
+*OCC是推荐组织之一*
 
-### [16] [CareOregon](https://www.careoregon.org/) 医疗保险公司
+### [摊位 5] 健康微笑牙医诊所/[Healthy Smiles Family Dental at Idylwood](https://www.myfamilydentistsalem.com/)  
 
->协助寻找医生  
-帮助回答日趋复杂的保险覆盖服务的各种问题  
-为有需要的人提供去看医生所需的交通  
+>徐娜牙医提供口腔卫生和牙齿保健咨询
 
-### [35] 俄勒冈东方医学院/[OCOM](https://www.ocom.edu/)
+### [摊位 6] 家庭和青少年心理健康咨询/[Huiying Jessica Tull](https://www.bewellfamilycounseling.com/)  
+*有双语人员*  
+
+>中国广东长大，2006年搬到美国上大学。作为一名LPC-A和育儿教练，在为个人和家庭服务的心理健康领域有着丰富的经验。
+
+### [摊位 7] 华人医生现场咨询：内科和预防医学
+
+>**[Dr. Xi Zheng](https://www.tvc.org/clinician/emily-xi-zheng-md-phd/)**, Vancouver Clinic (12-2pm)  
+现场会有血压计和血糖仪，为咨询医生提供参考数据。  
+
+### [摊位 8] 华人医生现场咨询：家庭医生和中医
+
+>**[Dr. Jie Wang](https://healthy.kaiserpermanente.org/oregon-washington/clinicians/jie-wang-2478646)**，Kaiser Permanente (12-2pm)  
+**Taiping Jia**, 中医, TJ Acupuncture (2-4pm)  
+
+### [摊位 9] 华人医生现场咨询：肠胃科
+
+>**[Dr. Wei Wang](https://www.oregonclinic.com/our-team/wei-wang/)**, The Oregon Clinic Gastroenterology South （12-4pm）  
+
+**【摊位 7-9 免责声明】** 参加活动的医生均为志愿者，免费为大家提供健康方面的咨询，仅供参考，不应视为正式诊断。如果有进一步的问题，请咨询您的家庭医生。
+
+### [摊位 10] 冥想的本质/[夏维山](https://www.amazon.com/Essence-Meditation-Weishan-Xia/dp/B0BNV2FXYV/ref=sr_1_1?crid=6QCROW6FYVX0&keywords=weishan+xia&qid=1676751432&sprefix=weishan+xia%2Caps%2C157&sr=8-1)  
+
+>讨论冥想的生物学本质，而不是从中衍生出的哲学和宗教话题。
+
+### [摊位 12] 现场广东话翻译义工
+
+### [摊位 13] 现场普通话翻译义工
+
+### [摊位 15] 全国精神疾病联盟俄勒冈州分部/[NAMI](https://www.namior.org/)
+
+>青少年精神心理健康  
+心理健康互助小组  
+NAMI各地分布    
+
+### [摊位 16] 瑰丽家庭健康中心/[Rosewood Family Health Center](https://www.yvfwc.com/locations/rosewood-family-health-center/)
+
+>专长为低收入家庭提供健康服务  
+现场回答大家提出各种问题，包括接收新病人，预约，保险，服务范围等  
+
+### [摊位 17] 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)  
+
+>交通补贴 -- 免费公交车卡  
+水气电补贴  
+协助申请低收入医疗保险(OHP)  
+低收入食物保障计划  
+
+### [摊位 18] 华人服务中心/[Asian Health & Service Center](https://ahscpdx.org/)  
+
+>社区健康和保健服务  
+行为健康预防计划  
+亚裔癌症资源和支持服务  
+低收入健康保险（OHP）登记服务  
+
+### [摊位 21-24] 俄勒冈东方医学院/[OCOM](https://www.ocom.edu/)
 
 >中医知识宣传与咨询  
 耳针治疗展示，欢迎现场观众参与。  
 OCOM诊所服务内容介绍  
 
-### [36-37] 华人医生现场咨询
+### [摊位 25] 俄勒冈健康与科学大学/OHSU 乳腺癌筛查项目
+>乳腺癌筛查日项目宣传
+筛查预登记（六月份在OHSU的河边校园）  
 
->**[Dr. Xi Zheng](https://www.tvc.org/clinician/emily-xi-zheng-md-phd/)**, 内科和预防医学，Vancouver Clinic (12-2pm)  
-**[Dr. Wei Wang](https://www.oregonclinic.com/our-team/wei-wang/)**, 肠胃科，The Oregon Clinic Gastroenterology South （12-4pm）  
-**[Dr. Jie Wang](https://healthy.kaiserpermanente.org/oregon-washington/clinicians/jie-wang-2478646)**，家庭医生, Kaiser Permanente (12-2pm)  
-**Taiping Jia**, 中医, TJ Acupuncture (2-4pm)  
+### [摊位 25] 俄勒冈州有特殊医疗保健需求的儿童和青少年中心/[Oregon Center for Children and Youth with Special Health Needs](https://www.ohsu.edu/oregon-family-to-family-health-information-center)
 
-现场会有血压计和血糖仪，为咨询医生提供参考数据。
+>为有特殊健康需求的儿童和青少年的父母和看护人提供服务  
+帮助人们获得残疾和特殊需要儿童所需的服务  
 
-**【免责声明】** 参加活动的医生均为志愿者，免费为大家提供健康方面的咨询，仅供参考，不应视为正式诊断。如果有进一步的问题，请咨询您的家庭医生。
+### [摊位 26] 俄勒冈毒物中心/[Oregon Poison Center](https://www.ohsu.edu/oregon-poison-center)
+
+>为什么说毒物随处可见  
+每12秒就会有一个人打电话到毒物中心，自己能做什么？  
+
+### [摊位 27] 凯西眼科研究所/[Casey Eye Institute](https://www.ohsu.edu/casey-eye-institute)
+
+>有关视力健康知识咨询  
+发放免费视力检查和配眼镜 (VSP Eyes of Hope) 礼品券  
+
+### [摊位 28] 雷顿衰老和阿尔茨海默病中心/[Layton Aging and Alzheimer's Disease Center](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
+
+>脑退化症中文资讯  
+失智症预防知识咨询  
+
+### [摊位 29-32] 俄勒冈健康与科学大学/OHSU 奈特癌症研究所/[Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute)  
+
+>癌症教育和知识普及  
+两个参与癌症临床试验的机会  
+健康俄勒冈项目/The Healthy Oregon Project -- 通过血液或唾液的癌症基因测试  
+
+### [摊位 33-34] 都市西部救护服务/[Metro West Ambulance](https://www.metrowest.us.com/)
+
+>CPR/AED动手体验  
+EMT经历与医学院申请  
+
+### [摊位 35] 红十字会波特兰分部/[Red Cross Portland](https://www.redcross.org/local/oregon/about-us/locations/northwest-oregon-chapter.html)
+
+>应急常识和训练  
+义工机会  
+
+### [摊位 36] 日落高中红十字会俱乐部/[Sunset High School Red Cross Club](https://www.redcross.org/local/oregon/about-us/locations/northwest-oregon-chapter.html)
+
+>俱乐部活动介绍  
+成员招募  
+
+### [摊位 37] [CareOregon](https://www.careoregon.org/) 医疗保险公司
+
+>协助寻找医生  
+帮助回答日趋复杂的保险覆盖服务的各种问题  
+为有需要的人提供去看医生所需的交通  
+
+### [摊位 38] 俄勒冈健康与科学大学/OHSU 远程医疗
+
+>个人电子病历档案知识普及  
+远程医疗咨询  
+
+### [摊位 39] 俄勒冈州失业保险部门/[Oregon Employment Department-EAUI Unit](https://unemployment.oregon.gov/)
+
+>失业保险领取问答
+
+### [摊位 40] [TriMet](https://trimet.org/)
+
+>老年和低收入优惠
+
+### [摊位 41] 俄勒冈州处方药计划/[ArrayRx](https://arrayrxcard.com/)
+
+>帮助节省高达 80% 的处方药费用  
+免费加入，无年龄和收入限制  
+所有FDA批准的处方药都包括在内  
+
+### [摊位 42] 州政府为低收入健康保险(OHP)持有者提供支持服务/[OHA Ombuds Team](https://www.oregon.gov/oha/ERD/Pages/Ombuds-Program.aspx)
+
+>如果您对得到的服务有抱怨，她们会帮助到您。
+
+### [摊位 43] 州政府老年人和残疾人服务团队/[Aging and People with Disabilities Team](https://www.oregon.gov/dhs/seniors-disabilities/Pages/index.aspx)
+
+>为智障人提供就业和其他保障性质的服务  
+为老人和残疾人提供服务信息，包括护工，长期护理等  
+
+### [摊位 44] 州政府医疗保险选购市场团队/[OHA Market Place Team](https://healthcare.oregon.gov/Pages/index.aspx)
+
+>如果您打算为个人或家庭或自己的公司选购医疗保险，选购市场提供众多选项，团队成员现场回答任何问题
+
+
+
+
+
+
+
+
+
+
+
 
 ### [A] OCC青玉青少年舞蹈队/[Jade Dance Team](https://pdxchinese.org/youthdance/)  
 *有双语人员*  
