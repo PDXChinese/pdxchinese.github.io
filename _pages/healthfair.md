@@ -6,8 +6,6 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/trimetlogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/careoregonlogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ocomlogo
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/cwslogo
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/fjclogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ornamilogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/redcross
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/metrowestlogo
@@ -53,7 +51,7 @@ feature_row3:
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024fairflyer)
 
 [>> Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
-[>> Tabling Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2024)  
+[>> Tabling Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfair2024b)  
 
 <code style="color:green">Strongly encourage taking the MAX Red Line or Blue Line. The Oregon Zoo is just a couple of minutes' walk from the Washington Park station. If you decide to drive, carpooling is also a great idea. We will assist with parking payment through the Parking Kitty application. Please write down your plate number and the Zone number posted nearby and give to the volunteer near the registration desk.</code>
 
@@ -131,6 +129,8 @@ Family and Youth Mental Health Counseling from [Huiying Jessica Zhou Tull](https
 [Jade Dance Team](https://pdxchinese.org/youthdance/)  
 [Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
 [Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
+Portland Fire Dragon Boat Team  
+OCC Youth Council  
 
 <br>
 
@@ -218,9 +218,9 @@ Family and Youth Mental Health Counseling from [Huiying Jessica Zhou Tull](https
 
 >讨论冥想的生物学本质，而不是从中衍生出的哲学和宗教话题。
 
-### [摊位 12] 现场广东话翻译义工
+### [摊位 12] 现场广东话翻译义工工作站
 
-### [摊位 13] 现场普通话翻译义工
+### [摊位 13] 现场普通话翻译义工工作站
 
 ### [摊位 15] 全国精神疾病联盟俄勒冈州分部/[NAMI](https://www.namior.org/)
 
@@ -336,31 +336,14 @@ EMT经历与医学院申请
 
 >如果您打算为个人或家庭或自己的公司选购医疗保险，选购市场提供众多选项，团队成员现场回答任何问题
 
+### [大厅 A] OCC青玉青少年舞蹈队/[Jade Dance Team](https://pdxchinese.org/youthdance/)  
 
+### [大厅 B] OCC汉服表演队/[Phoenix Hanfu Dress Team](https://pdxchinese.org/hanfu/)  
 
+### [大厅 C] OCC木兰大鼓队/[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
 
+### [大厅 D] OCC空竹队/[Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
 
+### [大厅 E] OCC龙舟队/Portland Fire Dragon Boat Team  
 
-
-
-
-
-
-
-### [A] OCC青玉青少年舞蹈队/[Jade Dance Team](https://pdxchinese.org/youthdance/)  
-*有双语人员*  
-
-### [B] OCC汉服表演队/[Phoenix Hanfu Dress Team](https://pdxchinese.org/hanfu/)  
-*有双语人员*  
-
-### [C] OCC木兰大鼓队/[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
-*有双语人员*  
-
-### [D] OCC空竹队/[Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
-*有双语人员*  
-
-### [E] OCC龙舟队/Portland Fire Dragon Boat Team  
-*有双语人员*  
-
-### [F] OCC青少年委员会/OCC Youth Council  
-*有双语人员*  
+### [大厅 F] OCC青少年委员会/OCC Youth Council  
