@@ -41,88 +41,11 @@ feature_row3:
 
 *[2023 Health Fair Album / 健康博览会相册](https://pdxchinese.org/community_health_fair_2023/)*
 
-**中文信息在此页面的下半部分**
-
 ### Our Proud Sponsors
 
 {% include feature_row id="feature_row3"%}
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024fairflyer)
-
-[>> Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
-[>> Tabling Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfair2024b)  
-
-<code style="color:green">Strongly encourage taking the MAX Red Line or Blue Line. The Oregon Zoo is just a couple of minutes' walk from the Washington Park station. If you decide to drive, carpooling is also a great idea. We will assist with parking payment through the Parking Kitty application. Please write down your plate number and the Zone number posted nearby and give to the volunteer near the registration desk.</code>
-
-Health is of utmost importance to everyone, from the youth navigating between two cultures, to the parents shouldering the responsibilities of raising a family, and certainly to the elderly who strive to age gracefully. The health fair is dedicated to the well-being of the entire community.
-
-As a community-based organization, our strength lies in addressing the underlying causes of both physical and mental health issues. The health fair goes beyond mere health education and screening; it serves as a platform to introduce essential health and social services to community members. We firmly believe that empowering individuals with knowledge and resources is the most effective means of enhancing public health.
-
-*Full programs are in development and you have every reason to expect...*
-
->OHP insurance enrollment  
-[Prescription drug discount card program enrollment](https://arrayrxcard.com/)  
-Medicaid (OHP) members, [OHA Ombuds Team](https://www.oregon.gov/oha/ERD/Pages/Ombuds-Program.aspx) is on your side to get quality health care  
-VSP Eyes of Hope Gift card  
-Transportation Assistance (TriMet Fare Relief--free HOP card)  
-Food Security Assistance  
-Utility assistance  
-
->Get connected to local information and services for seniors and people with disabilities through [ADRC](https://www.adrcoforegon.org/consumersite/index.php)  
-Senior Health Insurance Benefits Assistance ([SHIBA](https://www.multco.us/shiba)) Program  
-Help with Medicare Part B and D premiums, Co-pays and deductibles, Prescription costs through [Oregon Medicare Savings Connect](https://www.multco.us/services/oregon-medicare-savings-connect)  
-[Understanding, diagnosis and treatment of Alzheimer’s disease](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
-Free door to door transportation for seniors  
-
->Acupuncture and herbal medicine  
-[Auricular acupuncture treatments](https://www.healthline.com/health/ear-acupuncture) demonstration  
-
->[Family and youth mental health counseling](https://www.bewellfamilycounseling.com/)  
-Behavioral health prevention program  
-Children and youth with special health care needs  
-
->Cancer genetic screening  
-Cancer risk education  
-Cancer clinic trial opportunities  
-Asian cancer resource and support services  
-
->[Tobacco smoker quitline referral](https://www.asiansmokersquitline.org/quitnow/tchinese/)  
-Community-wide tobacco use survey with incentive  
-Tobacco cessation consultation with experts  
-Nicotine patches and nicotine gum giveaway  
-
->[211 services and how you may benefit from the calls](https://www.211info.org/)  
-[Oregon poison help hotline](https://www.ohsu.edu/oregon-poison-center)  
-Substance use and overdose prevention  
-
->Oral hygiene and dental care consulting by dentist
-
->Meditation demonstration and onsite coaching  
-
-### Our Proud Community Partners in the Fair
-
-{% include feature_row id="feature_row1"%}
-
-### Valuable Resources from the Community
-
-[The Essence of Meditation](https://www.amazon.com/Essence-Meditation-Weishan-Xia/dp/B0BNV2FXYV/ref=sr_1_1?crid=6QCROW6FYVX0&keywords=weishan+xia&qid=1676751432&sprefix=weishan+xia%2Caps%2C157&sr=8-1) from Weishan Xia  
-Family and Youth Mental Health Counseling from [Huiying Jessica Zhou Tull](https://www.bewellfamilycounseling.com/)  
-
-[OCC Community Support/Hot Line](https://pdxchinese.org/support/)  
-[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
-[Jade Dance Team](https://pdxchinese.org/youthdance/)  
-[Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
-[Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
-Portland Fire Dragon Boat Team  
-OCC Youth Council  
-
-<br>
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
-
-<br>
-
-# 2024华人社区健康博览会
 
 此次由OCC主办的社区健康博览会定位在两个方面：第一，健康关乎每个人，关乎在两种文化中成长的青少年，关乎肩负养家重任的年轻的爸爸妈妈们，更关乎学会优雅老去的长者。健康博览会着眼于全体社区成员的福祉。第二，作为一个社区组织，我们看中的不仅仅是健康筛检和教育，更重要的是那些影响我们身心健康的社会因素，所以，我们也会邀请有关的服务机构团体和个人参加活动。令人欣慰的是，我们的定位受到广泛的认可和支持。
 
@@ -131,7 +54,7 @@ OCC Youth Council
 **地址:** 4001 SW Canyon Road, Portland, OR 97221  
 
 [>> 现场义工报名表格](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
-[>> 现场摊位位置图](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2024)  
+[>> 现场摊位位置图](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfair2024b)  
 
 **波特兰地铁(MAX)交通信息**
 
@@ -337,3 +260,76 @@ EMT经历与医学院申请
 ### [大厅 E] OCC龙舟队/Portland Fire Dragon Boat Team  
 
 ### [大厅 F] OCC青少年委员会/OCC Youth Council  
+
+<br>
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
+
+<br>
+
+[>> Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
+[>> Tabling Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfair2024b)  
+
+<code style="color:green">Strongly encourage taking the MAX Red Line or Blue Line. The Oregon Zoo is just a couple of minutes' walk from the Washington Park station. If you decide to drive, carpooling is also a great idea. We will assist with parking payment through the Parking Kitty application. Please write down your plate number and the Zone number posted nearby and give to the volunteer near the registration desk.</code>
+
+Health is of utmost importance to everyone, from the youth navigating between two cultures, to the parents shouldering the responsibilities of raising a family, and certainly to the elderly who strive to age gracefully. The health fair is dedicated to the well-being of the entire community.
+
+As a community-based organization, our strength lies in addressing the underlying causes of both physical and mental health issues. The health fair goes beyond mere health education and screening; it serves as a platform to introduce essential health and social services to community members. We firmly believe that empowering individuals with knowledge and resources is the most effective means of enhancing public health.
+
+*Full programs are in development and you have every reason to expect...*
+
+>OHP insurance enrollment  
+[Prescription drug discount card program enrollment](https://arrayrxcard.com/)  
+Medicaid (OHP) members, [OHA Ombuds Team](https://www.oregon.gov/oha/ERD/Pages/Ombuds-Program.aspx) is on your side to get quality health care  
+VSP Eyes of Hope Gift card  
+Transportation Assistance (TriMet Fare Relief--free HOP card)  
+Food Security Assistance  
+Utility assistance  
+
+>Get connected to local information and services for seniors and people with disabilities through [ADRC](https://www.adrcoforegon.org/consumersite/index.php)  
+Senior Health Insurance Benefits Assistance ([SHIBA](https://www.multco.us/shiba)) Program  
+Help with Medicare Part B and D premiums, Co-pays and deductibles, Prescription costs through [Oregon Medicare Savings Connect](https://www.multco.us/services/oregon-medicare-savings-connect)  
+[Understanding, diagnosis and treatment of Alzheimer’s disease](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
+Free door to door transportation for seniors  
+
+>Acupuncture and herbal medicine  
+[Auricular acupuncture treatments](https://www.healthline.com/health/ear-acupuncture) demonstration  
+
+>[Family and youth mental health counseling](https://www.bewellfamilycounseling.com/)  
+Behavioral health prevention program  
+Children and youth with special health care needs  
+
+>Cancer genetic screening  
+Cancer risk education  
+Cancer clinic trial opportunities  
+Asian cancer resource and support services  
+
+>[Tobacco smoker quitline referral](https://www.asiansmokersquitline.org/quitnow/tchinese/)  
+Community-wide tobacco use survey with incentive  
+Tobacco cessation consultation with experts  
+Nicotine patches and nicotine gum giveaway  
+
+>[211 services and how you may benefit from the calls](https://www.211info.org/)  
+[Oregon poison help hotline](https://www.ohsu.edu/oregon-poison-center)  
+Substance use and overdose prevention  
+
+>Oral hygiene and dental care consulting by dentist
+
+>Meditation demonstration and onsite coaching  
+
+### Our Proud Community Partners in the Fair
+
+{% include feature_row id="feature_row1"%}
+
+### Valuable Resources from the Community
+
+[The Essence of Meditation](https://www.amazon.com/Essence-Meditation-Weishan-Xia/dp/B0BNV2FXYV/ref=sr_1_1?crid=6QCROW6FYVX0&keywords=weishan+xia&qid=1676751432&sprefix=weishan+xia%2Caps%2C157&sr=8-1) from Weishan Xia  
+Family and Youth Mental Health Counseling from [Huiying Jessica Zhou Tull](https://www.bewellfamilycounseling.com/)  
+
+[OCC Community Support/Hot Line](https://pdxchinese.org/support/)  
+[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
+[Jade Dance Team](https://pdxchinese.org/youthdance/)  
+[Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
+[Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
+Portland Fire Dragon Boat Team  
+OCC Youth Council  
