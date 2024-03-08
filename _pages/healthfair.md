@@ -249,23 +249,18 @@ EMT经历与医学院申请
 
 >如果您打算为个人或家庭或自己的公司选购医疗保险，选购市场提供众多选项，团队成员现场回答任何问题
 
-### [大厅 A] OCC青玉青少年舞蹈队/[Jade Dance Team](https://pdxchinese.org/youthdance/)  
+### [大厅] OCC团队
 
-### [大厅 B] OCC汉服表演队/[Phoenix Hanfu Dress Team](https://pdxchinese.org/hanfu/)  
+青玉青少年舞蹈队/[Jade Dance Team](https://pdxchinese.org/youthdance/)  
+凤凰汉服表演队/[Phoenix Hanfu Dress Team](https://pdxchinese.org/hanfu/)  
+木兰大鼓队/[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
+蜻蜓空竹队/[Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
+波特兰之火龙舟队/Portland Fire Dragon Boat Team  
+青少年委员会/OCC Youth Council  
 
-### [大厅 C] OCC木兰大鼓队/[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
+### Our Proud Community Partners in the Fair
 
-### [大厅 D] OCC空竹队/[Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
-
-### [大厅 E] OCC龙舟队/Portland Fire Dragon Boat Team  
-
-### [大厅 F] OCC青少年委员会/OCC Youth Council  
-
-<br>
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
-
-<br>
+{% include feature_row id="feature_row1"%}
 
 [>> Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
 [>> Tabling Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfair2024b)  
@@ -316,10 +311,6 @@ Substance use and overdose prevention
 >Oral hygiene and dental care consulting by dentist
 
 >Meditation demonstration and onsite coaching  
-
-### Our Proud Community Partners in the Fair
-
-{% include feature_row id="feature_row1"%}
 
 ### Valuable Resources from the Community
 
