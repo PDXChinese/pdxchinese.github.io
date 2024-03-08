@@ -75,24 +75,9 @@ feature_row3:
 >这是州政府几乎所有福利和资源集中在一起的门户  
 参加活动的职员讲一口流利中文，他欢迎大家通过他了解211热线电话运作和服务内容  
 
-### [摊位 4] OCC社区服务团队  
+### [摊位 4] 健康微笑牙医诊所/[Healthy Smiles Family Dental at Idylwood](https://www.myfamilydentistsalem.com/)  
 
->戒烟戒毒支持  
-精神心理健康同伴支持项目  
-空调发放与安装  
-特困家庭补贴  
-法律援助  
-义工活动与总统义工奖申请  
-投票与选举  
-中文学习与项目支持  
-老人心理健康与支持项目  
-
-### [摊位 4] 亚裔吸烟者戒烟热线/[Asian Smokers' Quitline](https://www.asiansmokersquitline.org/)
-
->免费戒烟服务  
-与受过培训的电话戒烟顾问一对一商谈  
-制定最适合你的戒烟计划  
-免费自助戒烟资料  
+>徐娜牙医提供口腔卫生和牙齿保健咨询
 
 *OCC是推荐组织之一*
 
@@ -123,17 +108,30 @@ feature_row3:
 
 >讨论冥想的生物学本质，而不是从中衍生出的哲学和宗教话题。
 
-### [摊位 11] 健康微笑牙医诊所/[Healthy Smiles Family Dental at Idylwood](https://www.myfamilydentistsalem.com/)  
+### [摊位 11] OCC社区服务团队  
 
->徐娜牙医提供口腔卫生和牙齿保健咨询
+>戒烟戒毒支持  
+精神心理健康同伴支持项目  
+空调发放与安装  
+特困家庭补贴  
+法律援助  
+义工活动与总统义工奖申请  
+投票与选举  
+中文学习与项目支持  
+老人心理健康与支持项目  
+
+### [摊位 11] 亚裔吸烟者戒烟热线/[Asian Smokers' Quitline](https://www.asiansmokersquitline.org/)
+
+>免费戒烟服务  
+与受过培训的电话戒烟顾问一对一商谈  
+制定最适合你的戒烟计划  
+免费自助戒烟资料  
 
 ### [摊位 12] 现场广东话翻译义工工作站
 
 ### [摊位 13] 现场普通话翻译义工工作站
 
-### [摊位 14] 家庭和青少年心理健康咨询/[Huiying Jessica Tull](https://www.bewellfamilycounseling.com/)  
-
->中国广东长大，2006年搬到美国上大学。作为一名LPC-A和育儿教练，在为个人和家庭服务的心理健康领域有着丰富的经验。
+### [摊位 14] 义工休息
 
 ### [摊位 15] 全国精神疾病联盟俄勒冈州分部/[NAMI](https://www.namior.org/)
 
@@ -141,17 +139,15 @@ feature_row3:
 心理健康互助小组  
 NAMI各地分布    
 
-### [摊位 16] 瑰丽家庭健康中心/[Rosewood Family Health Center](https://www.yvfwc.com/locations/rosewood-family-health-center/)
+### [摊位 16] 美国华裔精神健康联盟/[Mental Health Association for Chinese Communities](https://www.mhacc-usa.org/nami-programs)  
 
->专长为低收入家庭提供健康服务  
-现场回答大家提出各种问题，包括接收新病人，预约，保险，服务范围等  
+>全美唯一华人NAMI分部  
+中文暖线服务  
+患右互助组和照顾着互助组每月线上聚会  
 
-### [摊位 17] 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)  
+### [摊位 17] 家庭和青少年心理健康咨询/[Huiying Jessica Tull](https://www.bewellfamilycounseling.com/)  
 
->交通补贴 -- 免费公交车卡  
-水气电补贴  
-协助申请低收入医疗保险(OHP)  
-低收入食物保障计划  
+>中国广东长大，2006年搬到美国上大学。作为一名LPC-A和育儿教练，在为个人和家庭服务的心理健康领域有着丰富的经验。
 
 ### [摊位 18] 华人服务中心/[Asian Health & Service Center](https://ahscpdx.org/)  
 
@@ -159,6 +155,18 @@ NAMI各地分布
 行为健康预防计划  
 亚裔癌症资源和支持服务  
 低收入健康保险（OHP）登记服务  
+
+### [摊位 19] 瑰丽家庭健康中心/[Rosewood Family Health Center](https://www.yvfwc.com/locations/rosewood-family-health-center/)
+
+>专长为低收入家庭提供健康服务  
+现场回答大家提出各种问题，包括接收新病人，预约，保险，服务范围等  
+
+### [摊位 20] 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)  
+
+>交通补贴 -- 免费公交车卡  
+水气电补贴  
+协助申请低收入医疗保险(OHP)  
+低收入食物保障计划  
 
 ### [摊位 21-24] 俄勒冈东方医学院/[OCOM](https://www.ocom.edu/)
 
