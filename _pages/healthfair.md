@@ -141,9 +141,8 @@ NAMI各地分布
 
 ### [摊位 16] 美国华裔精神健康联盟/[Mental Health Association for Chinese Communities](https://www.mhacc-usa.org/nami-programs)  
 
->全美唯一华人NAMI分部  
-中文暖线服务  
-患右互助组和照顾着互助组每月线上聚会  
+>中文暖线服务  
+患友互助组和照顾者互助组每月线上聚会  
 
 ### [摊位 17] 家庭和青少年心理健康咨询/[Huiying Jessica Tull](https://www.bewellfamilycounseling.com/)  
 
