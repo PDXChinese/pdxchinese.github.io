@@ -76,7 +76,7 @@ feature_row3:
 
 ### [摊位 4] 太极拳与健康  
 
->太极林太极演示
+>太极林太极演示  
 太极拳与健康  
 
 ### [摊位 5] 冥想的本质/[夏维山](https://www.amazon.com/Essence-Meditation-Weishan-Xia/dp/B0BNV2FXYV/ref=sr_1_1?crid=6QCROW6FYVX0&keywords=weishan+xia&qid=1676751432&sprefix=weishan+xia%2Caps%2C157&sr=8-1)  
@@ -102,7 +102,7 @@ feature_row3:
 
 ### [摊位 10] 华人医生现场咨询：处方药和非处方药
 
->**BingBing Liang**, Pharm.D (12-4pm)
+>**BingBing Liang, Pharm.D** (12-4pm)
 
 **【摊位 5-10 免责声明】** 参加活动的医生和专业人士均为志愿者，免费为大家提供健康方面的咨询，仅供参考，不应视为正式诊断。如果有进一步的问题，请咨询您的家庭医生。
 
@@ -127,9 +127,9 @@ feature_row3:
 
 *OCC是推荐组织之一*
 
-### [摊位 12] 现场广东话翻译义工工作站
+### [摊位 12] 现场翻译义工区域：广东话
 
-### [摊位 13] 现场普通话翻译义工工作站
+### [摊位 13] 现场翻译义工区域：普通话
 
 ### [摊位 14] 义工休息区域
 
