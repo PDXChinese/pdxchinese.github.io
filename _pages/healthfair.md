@@ -70,14 +70,14 @@ feature_row3:
 
 >宣传下半年开始的针对低收入家庭提供的房租补贴项目  
 
-### [摊位 3] 211 热线电话/[211 Info Hotline](https://www.211info.org/)  
-
->这是州政府几乎所有福利和资源集中在一起的门户  
-参加活动的职员讲一口流利中文，他欢迎大家通过他了解211热线电话运作和服务内容  
-
-### [摊位 4] 健康微笑牙医诊所/[Healthy Smiles Family Dental at Idylwood](https://www.myfamilydentistsalem.com/)  
+### [摊位 3] 健康微笑牙医诊所/[Healthy Smiles Family Dental at Idylwood](https://www.myfamilydentistsalem.com/)  
 
 >徐娜牙医提供口腔卫生和牙齿保健咨询
+
+### [摊位 4] 太极拳与健康  
+
+>太极林太极演示
+太极拳与健康  
 
 ### [摊位 5] 冥想的本质/[夏维山](https://www.amazon.com/Essence-Meditation-Weishan-Xia/dp/B0BNV2FXYV/ref=sr_1_1?crid=6QCROW6FYVX0&keywords=weishan+xia&qid=1676751432&sprefix=weishan+xia%2Caps%2C157&sr=8-1)  
 
