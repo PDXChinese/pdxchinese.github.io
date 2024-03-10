@@ -85,30 +85,30 @@ feature_row3:
 
 >讨论冥想的生物学本质，而不是从中衍生出的哲学和宗教话题。
 
-### [摊位 6] 华人医生现场咨询：内科和预防医学
+### [摊位 6] 华人医生现场咨询：内科和预防医学 (1-3pm)
 
->**[Xi Zheng, MD, PhD](https://www.tvc.org/clinician/emily-xi-zheng-md-phd/)**, Vancouver Clinic (1-3pm)  
+>**[Xi Zheng, MD, PhD](https://www.tvc.org/clinician/emily-xi-zheng-md-phd/)**, Vancouver Clinic  
 现场会有血压计和血糖仪，为咨询医生提供参考数据。  
 
-### [摊位 7] 华人医生现场咨询：家庭医生
+### [摊位 7] 华人医生现场咨询：家庭医生 (12-2pm)
 
->**[Jie Wang, MD](https://healthy.kaiserpermanente.org/oregon-washington/clinicians/jie-wang-2478646)**，Kaiser Permanente (12-2pm)  
+>**[Jie Wang, MD](https://healthy.kaiserpermanente.org/oregon-washington/clinicians/jie-wang-2478646)**，Kaiser Permanente  
 
-### [摊位 7] 华人医生现场咨询：儿童与青少年和成年人精神科医生
+### [摊位 7] 华人医生现场咨询：儿童与青少年和成年人精神科医生 (2-4pm)
 
->**Mini Zhang, MD**，ADHD（注意力缺陷多动症）、躁郁症、抑郁症、强迫症、创伤后应激障碍（PTSD）、焦虑/恐惧/恐慌症、认知行为疗法、药物管理 (2-4pm)  
+>**Mini Zhang, MD**，ADHD（注意力缺陷多动症）、躁郁症、抑郁症、强迫症、创伤后应激障碍（PTSD）、焦虑/恐惧/恐慌症、认知行为疗法、药物管理  
 
-### [摊位 8] 华人医生现场咨询：肠胃科
+### [摊位 8] 华人医生现场咨询：肠胃科（12-4pm）
 
->**[Wei Wang, MD](https://www.oregonclinic.com/our-team/wei-wang/)**, The Oregon Clinic Gastroenterology South （12-4pm）  
+>**[Wei Wang, MD](https://www.oregonclinic.com/our-team/wei-wang/)**, The Oregon Clinic Gastroenterology South  
 
-### [摊位 9] 华人医生现场咨询：中医
+### [摊位 9] 华人医生现场咨询：中医 (2-4pm)
 
->**Taiping Jia**, 中医, TJ Acupuncture (2-4pm)  
+>**Taiping Jia**, 中医, TJ Acupuncture  
 
-### [摊位 10] 华人医生现场咨询：处方药和非处方药
+### [摊位 10] 华人医生现场咨询：处方药和非处方药 (12-4pm)
 
->**BingBing Liang, Pharm.D** (12-4pm)
+>**BingBing Liang, Pharm.D**
 
 **【摊位 5-10 免责声明】** 参加活动的医生和专业人士均为志愿者，免费为大家提供健康方面的咨询，仅供参考，不应视为正式诊断。如果有进一步的问题，请咨询您的家庭医生。
 
