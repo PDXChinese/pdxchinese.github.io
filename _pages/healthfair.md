@@ -60,6 +60,8 @@ feature_row3:
 
 <code style="color:green">强烈建议搭乘MAX红线或蓝线，动物园距离华盛顿公园站(Washington Park)仅有2分钟步行路程。如果您决定驾车前往，合车也是一个很好的选择。我们将通过Parking Kitty应用程序帮助支付您的停车费。请记下您的车牌号码和附近张贴的区域号码(Zone Number)，交给大会门口负责此事的义工。</code>
 
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/zoomap)
+
 ### [摊位 1] 公益性房屋检查公司/[Nonprofit Home Inspections](https://nonprofithomeinspections.org/)
 
 >平价政策  
@@ -91,6 +93,10 @@ feature_row3:
 ### [摊位 7] 华人医生现场咨询：家庭医生
 
 >**[Jie Wang, MD](https://healthy.kaiserpermanente.org/oregon-washington/clinicians/jie-wang-2478646)**，Kaiser Permanente (12-2pm)  
+
+### [摊位 7] 华人医生现场咨询：儿童与青少年和成年人精神科医生
+
+>**Mini Zhang, MD**，ADHD（注意力缺陷多动症）、躁郁症、抑郁症、强迫症、创伤后应激障碍（PTSD）、焦虑/恐惧/恐慌症、认知行为疗法、药物管理 (2-4pm)  
 
 ### [摊位 8] 华人医生现场咨询：肠胃科
 
