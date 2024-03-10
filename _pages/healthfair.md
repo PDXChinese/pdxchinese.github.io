@@ -85,7 +85,7 @@ feature_row3:
 
 ### [摊位 6] 华人医生现场咨询：内科和预防医学
 
->**[Xi Zheng, MD, PhD](https://www.tvc.org/clinician/emily-xi-zheng-md-phd/)**, Vancouver Clinic (12-2pm)  
+>**[Xi Zheng, MD, PhD](https://www.tvc.org/clinician/emily-xi-zheng-md-phd/)**, Vancouver Clinic (1-3pm)  
 现场会有血压计和血糖仪，为咨询医生提供参考数据。  
 
 ### [摊位 7] 华人医生现场咨询：家庭医生
