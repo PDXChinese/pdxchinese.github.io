@@ -346,6 +346,7 @@ Portland Fire Dragon Boat Team
 OCC Youth Council  
 
 >**OCC services:**  
+Community Hotline in Mandarin and Cantonese  
 Quit smoking and drug addiction support  
 Mental health peer support program  
 Air conditioner distribution and installation  
@@ -355,18 +356,3 @@ Volunteer activities and Presidential Volunteer Service Award application
 Civic engagement  
 Chinese language learning and project support  
 Elderly mental health and support programs  
-
-
-
-### Valuable Resources from the Community
-
-[The Essence of Meditation](https://www.amazon.com/Essence-Meditation-Weishan-Xia/dp/B0BNV2FXYV/ref=sr_1_1?crid=6QCROW6FYVX0&keywords=weishan+xia&qid=1676751432&sprefix=weishan+xia%2Caps%2C157&sr=8-1) from Weishan Xia  
-Family and Youth Mental Health Counseling from [Huiying Jessica Zhou Tull](https://www.bewellfamilycounseling.com/)  
-
-[OCC Community Support/Hot Line](https://pdxchinese.org/support/)  
-[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
-[Jade Dance Team](https://pdxchinese.org/youthdance/)  
-[Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
-[Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
-Portland Fire Dragon Boat Team  
-OCC Youth Council  
