@@ -337,7 +337,7 @@ Meditation demonstration and onsite coaching
 Taiji demonstration and health coaching  
 Free consultations by health professionals from the community: internal medicine, oreventive medicine, family practice, GI, psychiatry, pharmacy  
 
->OCC teams as resilient peer support groups:   
+>**OCC teams as resilient peer support groups:**   
 [Jade Dance Team](https://pdxchinese.org/youthdance/)  
 [Phoenix Hanfu Dress Team](https://pdxchinese.org/hanfu/)  
 [Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
@@ -345,7 +345,7 @@ Free consultations by health professionals from the community: internal medicine
 Portland Fire Dragon Boat Team  
 OCC Youth Council  
 
->OCC services:  
+>**OCC services:**  
 Quit smoking and drug addiction support  
 Mental health peer support program  
 Air conditioner distribution and installation  
