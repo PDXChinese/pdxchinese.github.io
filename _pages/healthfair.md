@@ -50,11 +50,13 @@ feature_row3:
 此次由OCC主办的社区健康博览会定位在两个方面：第一，健康关乎每个人，关乎在两种文化中成长的青少年，关乎肩负养家重任的年轻的爸爸妈妈们，更关乎学会优雅老去的长者。健康博览会着眼于全体社区成员的福祉。第二，作为一个社区组织，我们看中的不仅仅是健康筛检和教育，更重要的是那些影响我们身心健康的社会因素，所以，我们也会邀请有关的服务机构团体和个人参加活动。令人欣慰的是，我们的定位受到广泛的认可和支持。
 
 **时间:** 3月17日, 周日，下午 12-4点  
-**地点:** Oregon Zoo, Cascade Crest Ballroom  
+**地点:** 俄勒冈动物园, Cascade Crest Ballroom （小广场南侧，餐厅楼下）  
 **地址:** 4001 SW Canyon Road, Portland, OR 97221  
+**免费入场，对公众开放**  
 
 [>> 现场义工报名表格](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
 [>> 现场摊位位置图](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfair2024b)  
+[>> 预订动物园门票](https://docs.google.com/forms/d/e/1FAIpQLSerRuM-bzH244BFKX6xG1KzDzSUEgwmfpNIdDPCN07krhc-zQ/viewform?usp=sf_link)  
 
 **波特兰地铁(MAX)交通信息**
 
@@ -222,7 +224,7 @@ EMT经历与医学院申请
 ### [摊位 36] 日落高中红十字会俱乐部/[Sunset High School Red Cross Club](https://www.redcross.org/local/oregon/about-us/locations/northwest-oregon-chapter.html)
 
 >俱乐部活动介绍  
-成员招募  
+应对核爆炸和辐射紧急事件  
 
 ### [摊位 37] [CareOregon](https://www.careoregon.org/) 医疗保险公司
 
@@ -262,7 +264,7 @@ EMT经历与医学院申请
 
 >如果您打算为个人或家庭或自己的公司选购医疗保险，选购市场提供众多选项，团队成员现场回答任何问题
 
-### [大厅] OCC团队
+### [大厅] OCC团队，相互依赖成长的集体
 
 青玉青少年舞蹈队/[Jade Dance Team](https://pdxchinese.org/youthdance/)  
 凤凰汉服表演队/[Phoenix Hanfu Dress Team](https://pdxchinese.org/hanfu/)  
@@ -289,41 +291,72 @@ As a community-based organization, our strength lies in addressing the underlyin
 >OHP insurance enrollment  
 [Prescription drug discount card program enrollment](https://arrayrxcard.com/)  
 Medicaid (OHP) members, [OHA Ombuds Team](https://www.oregon.gov/oha/ERD/Pages/Ombuds-Program.aspx) is on your side to get quality health care  
-VSP Eyes of Hope Gift card  
-Transportation Assistance (TriMet Fare Relief--free HOP card)  
-Food Security Assistance  
-Utility assistance  
 
 >Get connected to local information and services for seniors and people with disabilities through [ADRC](https://www.adrcoforegon.org/consumersite/index.php)  
-Senior Health Insurance Benefits Assistance ([SHIBA](https://www.multco.us/shiba)) Program  
-Help with Medicare Part B and D premiums, Co-pays and deductibles, Prescription costs through [Oregon Medicare Savings Connect](https://www.multco.us/services/oregon-medicare-savings-connect)  
 [Understanding, diagnosis and treatment of Alzheimer’s disease](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
-Free door to door transportation for seniors  
 
 >Acupuncture and herbal medicine  
 [Auricular acupuncture treatments](https://www.healthline.com/health/ear-acupuncture) demonstration  
 
->[Family and youth mental health counseling](https://www.bewellfamilycounseling.com/)  
+>[Aging and Alzheimer's disease](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
+Digital health  
+
+>Local support infrastrucure under [NAMI Oregon](https://www.namior.org/)  
+[Mental health for Chinese communities](https://www.mhacc-usa.org/nami-programs)  
+[Family and youth mental health counseling](https://www.bewellfamilycounseling.com/)  
 Behavioral health prevention program  
 Children and youth with special health care needs  
 
 >Cancer genetic screening  
 Cancer risk education  
 Cancer clinic trial opportunities  
+OHSU breast cancer screening day intake  
 Asian cancer resource and support services  
 
 >[Tobacco smoker quitline referral](https://www.asiansmokersquitline.org/quitnow/tchinese/)  
-Community-wide tobacco use survey with incentive  
 Tobacco cessation consultation with experts  
 Nicotine patches and nicotine gum giveaway  
 
->[211 services and how you may benefit from the calls](https://www.211info.org/)  
-[Oregon poison help hotline](https://www.ohsu.edu/oregon-poison-center)  
+>[Oregon poison help hotline](https://www.ohsu.edu/oregon-poison-center)  
 Substance use and overdose prevention  
 
->Oral hygiene and dental care consulting by dentist
+>Affordable and even free home inspection  
+Forthcoming rent assitance under Medicaid Waiver 1115  
+VSP Eyes of Hope Gift card  
+Transportation Assistance (TriMet Fare Relief--free HOP card)  
+Food Security Assistance  
+Utility assistance  
+[Unemployment benefits](https://unemployment.oregon.gov/)  
 
->Meditation demonstration and onsite coaching  
+>CPR/AED hands-on learning  
+EMT: medical career and beyond  
+Nuclear explosion and radiation emergencies preparation  
+
+>Oral hygiene and dental care consulting by dentist  
+Meditation demonstration and onsite coaching  
+Taiji demonstration and health coaching  
+Free consultations by health professionals from the community: internal medicine, oreventive medicine, family practice, GI, psychiatry, pharmacy  
+
+>OCC teams as resilient peer support groups:   
+[Jade Dance Team](https://pdxchinese.org/youthdance/)  
+[Phoenix Hanfu Dress Team](https://pdxchinese.org/hanfu/)  
+[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
+[Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
+Portland Fire Dragon Boat Team  
+OCC Youth Council  
+
+>OCC services:  
+Quit smoking and drug addiction support  
+Mental health peer support program  
+Air conditioner distribution and installation  
+Subsidies for extremely needy families  
+Legal aid  
+Volunteer activities and Presidential Volunteer Service Award application  
+Civic engagement  
+Chinese language learning and project support  
+Elderly mental health and support programs  
+
+
 
 ### Valuable Resources from the Community
 
