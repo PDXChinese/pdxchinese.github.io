@@ -60,7 +60,7 @@ feature_row3:
 
 **波特兰地铁(MAX)交通信息**
 
-<code style="color:green">强烈建议搭乘MAX红线或蓝线，动物园距离华盛顿公园站(Washington Park)仅有2分钟步行路程。如果您决定驾车前往，合车也是一个很好的选择。我们将通过Parking Kitty应用程序帮助支付您的停车费。请记下您的车牌号码和附近张贴的区域号码(Zone Number)，交给大会门口负责此事的义工。</code>
+<code style="color:green">强烈建议搭乘MAX红线或蓝线，动物园距离华盛顿公园站（Washington Park）仅有2分钟步行路程。住在西边的人可以考虑（1）Sunset Transit Center，可以停在南边的商业区和街边，通过人行天桥到MAX车站，或（2）停在 Beaverton Creek Park & Ride（SW 153rd Ave and Millikan Way），那里总有空位。如果您决定驾车前往，合车也是一个很好的选择。我们将通过Parking Kitty应用程序帮助支付您的停车费。请记下您的车牌号码（包括OR或WA）和附近张贴的区域号码（Zone Number），交给大会门口负责此事的义工。</code>
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/zoomap)
 
@@ -280,7 +280,7 @@ EMT经历与医学院申请
 [>> Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
 [>> Tabling Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfair2024b)  
 
-<code style="color:green">Strongly encourage taking the MAX Red Line or Blue Line. The Oregon Zoo is just a couple of minutes' walk from the Washington Park station. If you decide to drive, carpooling is also a great idea. We will assist with parking payment through the Parking Kitty application. Please write down your plate number and the Zone number posted nearby and give to the volunteer near the registration desk.</code>
+<code style="color:green">Strongly encourage taking the MAX Red Line or Blue Line. The Oregon Zoo is just a couple of minutes' walk from the Washington Park station. For people living on west side, use the Beaverton Creek Park & Ride located at SW 153rd Ave and Millikan Way. There are usually spaces available in this lot at all times. If you decide to drive, carpooling is also a great idea. We will assist with parking payment through the Parking Kitty application. Please write down your plate number and the Zone number posted nearby and give to the volunteer near the registration desk.</code>
 
 Health is of utmost importance to everyone, from the youth navigating between two cultures, to the parents shouldering the responsibilities of raising a family, and certainly to the elderly who strive to age gracefully. The health fair is dedicated to the well-being of the entire community.
 
