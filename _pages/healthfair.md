@@ -181,10 +181,6 @@ NAMI各地分布
 耳针治疗展示，欢迎现场观众参与。  
 OCOM诊所服务内容介绍  
 
-### [摊位 25] 俄勒冈健康与科学大学/OHSU 乳腺癌筛查项目
->乳腺癌筛查日项目宣传
-筛查预登记（六月份在OHSU的河边校园）  
-
 ### [摊位 25] 俄勒冈州有特殊医疗保健需求的儿童和青少年中心/[Oregon Center for Children and Youth with Special Health Needs](https://www.ohsu.edu/oregon-family-to-family-health-information-center)
 
 >为有特殊健康需求的儿童和青少年的父母和看护人提供服务  
@@ -205,26 +201,37 @@ OCOM诊所服务内容介绍
 >脑退化症中文资讯  
 失智症预防知识咨询  
 
-### [摊位 29-32] 俄勒冈健康与科学大学/OHSU 奈特癌症研究所/[Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute)  
+### [摊位 29] 俄勒冈健康与科学大学/OHSU 乳腺癌筛查项目
+>乳腺癌筛查日项目宣传
+筛查预登记（六月份在OHSU的河边校园）  
+
+### [摊位 30-32] 俄勒冈健康与科学大学/OHSU 奈特癌症研究所/[Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute)  
 
 >癌症教育和知识普及  
 两个参与癌症临床试验的机会  
 健康俄勒冈项目/The Healthy Oregon Project -- 通过血液或唾液的癌症基因测试  
 
-### [摊位 33-34] 都市西部救护服务/[Metro West Ambulance](https://www.metrowest.us.com/)
+### [摊位 33] 俄勒冈健康与科学大学/OHSU /[Digital Health](https://www.ohsu.edu/telemedicine/office-digital-health-team)
 
->CPR/AED动手体验  
-EMT经历与医学院申请  
+>数字健康  
+电子病历  
+远程问诊  
+如何与医生通过线上沟通  
 
-### [摊位 35] 红十字会波特兰分部/[Red Cross Portland](https://www.redcross.org/local/oregon/about-us/locations/northwest-oregon-chapter.html)
+### [摊位 34] 红十字会波特兰分部/[Red Cross Portland](https://www.redcross.org/local/oregon/about-us/locations/northwest-oregon-chapter.html)
 
 >应急常识和训练  
 义工机会  
 
-### [摊位 36] 日落高中红十字会俱乐部/[Sunset High School Red Cross Club](https://www.redcross.org/local/oregon/about-us/locations/northwest-oregon-chapter.html)
+### [摊位 35] 日落高中红十字会俱乐部/[Sunset High School Red Cross Club](https://www.redcross.org/local/oregon/about-us/locations/northwest-oregon-chapter.html)
 
 >俱乐部活动介绍  
 应对核爆炸和辐射紧急事件  
+
+### [摊位 36] 都市西部救护服务/[Metro West Ambulance](https://www.metrowest.us.com/)
+
+>CPR/AED动手体验  
+EMT经历与医学院申请  
 
 ### [摊位 37] [CareOregon](https://www.careoregon.org/) 医疗保险公司
 
@@ -300,6 +307,7 @@ Medicaid (OHP) members, [OHA Ombuds Team](https://www.oregon.gov/oha/ERD/Pages/O
 
 >[Aging and Alzheimer's disease](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
 Digital health  
+Patient portals  
 
 >Local support infrastrucure under [NAMI Oregon](https://www.namior.org/)  
 [Mental health for Chinese communities](https://www.mhacc-usa.org/nami-programs)  
