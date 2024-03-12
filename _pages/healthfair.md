@@ -228,12 +228,12 @@ OCOM诊所服务内容介绍
 
 ### [摊位 35] 日落高中红十字会俱乐部/[Sunset High School Red Cross Club](https://www.redcross.org/local/oregon/about-us/locations/northwest-oregon-chapter.html)
 
->俱乐部活动介绍  
-应对核爆炸和辐射紧急事件  
+>应对核爆炸和辐射紧急事件  
+俱乐部活动介绍  
 
-### [摊位 36] 都市西部救护服务/[Metro West Ambulance](https://www.metrowest.us.com/)
+### [摊位 36] 都市西部救护车服务/[Metro West Ambulance](https://www.metrowest.us.com/)
 
->CPR/AED动手体验  
+>CPR/AED/Epi-Pen动手体验  
 EMT经历与医学院申请  
 
 ### [摊位 37] [CareOregon](https://www.careoregon.org/) 医疗保险公司
