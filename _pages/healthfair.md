@@ -26,6 +26,7 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthysmileslogo  
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/yinglogo  
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/inspectionlogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/211logo
 feature_row2:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/blanklogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ohalogo
@@ -139,7 +140,10 @@ feature_row3:
 
 ### [摊位 13] 现场翻译义工区域：普通话
 
-### [摊位 14] 义工休息区域
+### [摊位 14] 211 热线电话/[211 Info Hotline](https://www.211info.org/)  
+
+>这是州政府几乎所有福利和资源集中在一起的门户  
+参加活动的职员讲一口流利中文，他欢迎大家通过他了解211热线电话运作和服务内容  
 
 ### [摊位 15] 全国精神疾病联盟俄勒冈州分部/[NAMI Oregon](https://www.namior.org/)
 
