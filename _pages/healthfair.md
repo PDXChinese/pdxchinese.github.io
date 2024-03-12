@@ -141,7 +141,7 @@ feature_row3:
 
 ### [摊位 14] 义工休息区域
 
-### [摊位 15] 全国精神疾病联盟俄勒冈州分部/[NAMI](https://www.namior.org/)
+### [摊位 15] 全国精神疾病联盟俄勒冈州分部/[NAMI Oregon](https://www.namior.org/)
 
 >青少年精神心理健康  
 心理健康互助小组  
@@ -186,35 +186,46 @@ OCOM诊所服务内容介绍
 >为有特殊健康需求的儿童和青少年的父母和看护人提供服务  
 帮助人们获得残疾和特殊需要儿童所需的服务  
 
-### [摊位 26] 俄勒冈毒物中心/[Oregon Poison Center](https://www.ohsu.edu/oregon-poison-center)
+### [摊位 26] 俄勒冈健康与科学大学/OHSU [俄勒冈有特殊健康需要儿童信息中心](https://www.ohsu.edu/oregon-family-to-family-health-information-center)
 
->为什么说毒物随处可见  
-每12秒就会有一个人打电话到毒物中心，自己能做什么？  
+>OR F2F HIC Parent Partner 热线电话  
+关爱有特殊健康需要儿童信息  
 
-### [摊位 27] 凯西眼科研究所/[Casey Eye Institute](https://www.ohsu.edu/casey-eye-institute)
+### [摊位 27] 俄勒冈健康与科学大学/OHSU 凯西眼科研究所[Casey Eye Institute](https://www.ohsu.edu/casey-eye-institute)
 
 >有关视力健康知识咨询  
 发放免费视力检查和配眼镜 (VSP Eyes of Hope) 礼品券  
 
-### [摊位 28] 雷顿衰老和阿尔茨海默病中心/[Layton Aging and Alzheimer's Disease Center](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
+### [摊位 28] 俄勒冈健康与科学大学/OHSU 雷顿衰老和阿尔茨海默病中心[Layton Aging and Alzheimer’s Disease Center](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
 
 >脑退化症中文资讯  
 失智症预防知识咨询  
 
-### [摊位 29-32] 俄勒冈健康与科学大学/OHSU 奈特癌症研究所/[Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute)  
+### [摊位 29] 俄勒冈健康与科学大学/OHSU 乳腺癌筛查项目/Breast Cancer Screening Day
+
+>乳腺癌筛查日项目宣传
+筛查预登记（六月份在OHSU的河边校园）  
+
+### [摊位 30-32] 俄勒冈健康与科学大学/OHSU 奈特癌症研究所/[Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute)  
 
 >癌症教育和知识普及  
 两个参与癌症临床试验的机会  
 健康俄勒冈项目/The Healthy Oregon Project -- 通过血液或唾液的癌症基因测试  
 
-### [摊位 33] 俄勒冈健康与科学大学/OHSU [数字健康](https://www.ohsu.edu/telemedicine/office-digital-health-team)
+### [摊位 33] 阿尔茨海默病协会/[Alzheimer's Association](https://www.alz.org/)  
+
+>阿尔茨海默病早期诊断  
+阿尔茨海默病的护理  
+六月是阿尔茨海默病月，9月21日是全球阿尔茨海默病日，11月是关爱者月。  
+
+### [摊位 34] 俄勒冈健康与科学大学/OHSU 数字健康团队/[Digital Health](https://www.ohsu.edu/telemedicine/office-digital-health-team)
 
 >数字健康  
 电子病历  
 远程问诊  
 如何与医生通过线上沟通  
 
-### [摊位 34] 红十字会波特兰分部/[Red Cross Portland](https://www.redcross.org/local/oregon/about-us/locations/northwest-oregon-chapter.html)
+### [摊位 35] 红十字会波特兰分部/[Red Cross Portland](https://www.redcross.org/local/oregon/about-us/locations/northwest-oregon-chapter.html)
 
 >应急常识和训练  
 义工机会  
@@ -235,9 +246,10 @@ EMT经历与医学院申请
 帮助回答日趋复杂的保险覆盖服务的各种问题  
 为有需要的人提供去看医生所需的交通  
 
-### [摊位 38] 俄勒冈健康与科学大学/OHSU 乳腺癌筛查项目
->乳腺癌筛查日项目宣传
-筛查预登记（六月份在OHSU的河边校园）  
+### [摊位 38] 俄勒冈健康与科学大学/OHSU 俄勒冈毒物中心/[Oregon Poison Center](https://www.ohsu.edu/oregon-poison-center)
+
+>为什么说毒物随处可见  
+每12秒就会有一个人打电话到毒物中心，自己能做什么？  
 
 ### [摊位 39] 俄勒冈州失业保险部门/[Oregon Employment Department-EAUI Unit](https://unemployment.oregon.gov/)
 
