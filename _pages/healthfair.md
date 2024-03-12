@@ -56,7 +56,7 @@ feature_row3:
 
 [>> 现场义工报名表格](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
 [>> 现场摊位位置图](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfair2024b)  
-[>> 预订动物园门票](https://docs.google.com/forms/d/e/1FAIpQLSerRuM-bzH244BFKX6xG1KzDzSUEgwmfpNIdDPCN07krhc-zQ/viewform?usp=sf_link)  
+[>> 预订动物园门票（和博览会没有关系）](https://docs.google.com/forms/d/e/1FAIpQLSerRuM-bzH244BFKX6xG1KzDzSUEgwmfpNIdDPCN07krhc-zQ/viewform?usp=sf_link)  
 
 **波特兰地铁(MAX)交通信息**
 
@@ -181,17 +181,20 @@ NAMI各地分布
 耳针治疗展示，欢迎现场观众参与。  
 OCOM诊所服务内容介绍  
 
-### [摊位 25] 俄勒冈州有特殊医疗保健需求的儿童和青少年中心/[Oregon Center for Children and Youth with Special Health Needs](https://www.ohsu.edu/oregon-family-to-family-health-information-center)
+### [摊位 25] 俄勒冈健康与科学大学/OHSU 数字健康团队/[Digital Health](https://www.ohsu.edu/telemedicine/office-digital-health-team)
 
->为有特殊健康需求的儿童和青少年的父母和看护人提供服务  
-帮助人们获得残疾和特殊需要儿童所需的服务  
+>数字健康  
+电子病历  
+远程问诊  
+如何与医生通过线上沟通  
 
-### [摊位 26] 俄勒冈健康与科学大学/OHSU [俄勒冈有特殊健康需要儿童信息中心](https://www.ohsu.edu/oregon-family-to-family-health-information-center)
+### [摊位 26] 俄勒冈健康与科学大学/OHSU 俄勒冈有特殊健康需要儿童信息中心/[Oregon Family to Family Health Information](https://www.ohsu.edu/oregon-family-to-family-health-information-center)
 
 >OR F2F HIC Parent Partner 热线电话  
-关爱有特殊健康需要儿童信息  
+为有特殊健康需求的儿童和青少年的父母和看护人提供服务  
+帮助人们获得残疾和特殊需要儿童所需的服务  
 
-### [摊位 27] 俄勒冈健康与科学大学/OHSU 凯西眼科研究所[Casey Eye Institute](https://www.ohsu.edu/casey-eye-institute)
+### [摊位 27] 俄勒冈健康与科学大学/OHSU 凯西眼科研究所/[Casey Eye Institute](https://www.ohsu.edu/casey-eye-institute)
 
 >有关视力健康知识咨询  
 发放免费视力检查和配眼镜 (VSP Eyes of Hope) 礼品券  
@@ -218,14 +221,7 @@ OCOM诊所服务内容介绍
 阿尔茨海默病的护理  
 六月是阿尔茨海默病月，9月21日是全球阿尔茨海默病日，11月是关爱者月。  
 
-### [摊位 34] 俄勒冈健康与科学大学/OHSU 数字健康团队/[Digital Health](https://www.ohsu.edu/telemedicine/office-digital-health-team)
-
->数字健康  
-电子病历  
-远程问诊  
-如何与医生通过线上沟通  
-
-### [摊位 35] 红十字会波特兰分部/[Red Cross Portland](https://www.redcross.org/local/oregon/about-us/locations/northwest-oregon-chapter.html)
+### [摊位 34] 红十字会波特兰分部/[Red Cross Portland](https://www.redcross.org/local/oregon/about-us/locations/northwest-oregon-chapter.html)
 
 >应急常识和训练  
 义工机会  
