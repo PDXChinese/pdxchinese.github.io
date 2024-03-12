@@ -201,17 +201,13 @@ OCOM诊所服务内容介绍
 >脑退化症中文资讯  
 失智症预防知识咨询  
 
-### [摊位 29] 俄勒冈健康与科学大学/OHSU 乳腺癌筛查项目
->乳腺癌筛查日项目宣传
-筛查预登记（六月份在OHSU的河边校园）  
-
-### [摊位 30-32] 俄勒冈健康与科学大学/OHSU 奈特癌症研究所/[Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute)  
+### [摊位 29-32] 俄勒冈健康与科学大学/OHSU 奈特癌症研究所/[Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute)  
 
 >癌症教育和知识普及  
 两个参与癌症临床试验的机会  
 健康俄勒冈项目/The Healthy Oregon Project -- 通过血液或唾液的癌症基因测试  
 
-### [摊位 33] 俄勒冈健康与科学大学/OHSU /[Digital Health](https://www.ohsu.edu/telemedicine/office-digital-health-team)
+### [摊位 33] 俄勒冈健康与科学大学/OHSU [数字健康](https://www.ohsu.edu/telemedicine/office-digital-health-team)
 
 >数字健康  
 电子病历  
@@ -239,10 +235,9 @@ EMT经历与医学院申请
 帮助回答日趋复杂的保险覆盖服务的各种问题  
 为有需要的人提供去看医生所需的交通  
 
-### [摊位 38] 俄勒冈健康与科学大学/OHSU 远程医疗
-
->个人电子病历档案知识普及  
-远程医疗咨询  
+### [摊位 38] 俄勒冈健康与科学大学/OHSU 乳腺癌筛查项目
+>乳腺癌筛查日项目宣传
+筛查预登记（六月份在OHSU的河边校园）  
 
 ### [摊位 39] 俄勒冈州失业保险部门/[Oregon Employment Department-EAUI Unit](https://unemployment.oregon.gov/)
 
