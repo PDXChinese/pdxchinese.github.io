@@ -11,7 +11,6 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/mhacclogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/metrowestlogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ohaflogo
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ohcslogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ahsclogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/adrc_logo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/shibalogo
@@ -71,9 +70,11 @@ feature_row3:
 对低收入家庭按照收入不同程度优惠价格  
 为低收入家庭做免费氡气检测  
 
-### [摊位 2] 俄勒冈州住房和社区服务/[Oregon Housing and Community Services](https://www.oregon.gov/ohcs/pages/index.aspx)
+### [摊位 2] 阿尔茨海默病协会/[Alzheimer's Association](https://www.alz.org/)  
 
->宣传下半年开始的针对低收入家庭提供的房租补贴项目  
+>阿尔茨海默病早期诊断  
+阿尔茨海默病的护理  
+六月是阿尔茨海默病月，9月21日是全球阿尔茨海默病日，11月是关爱者月。  
 
 ### [摊位 3] 健康微笑牙医诊所/[Healthy Smiles Family Dental at Idylwood](https://www.myfamilydentistsalem.com/)  
 
@@ -185,12 +186,10 @@ NAMI各地分布
 耳针治疗展示，欢迎现场观众参与。  
 OCOM诊所服务内容介绍  
 
-### [摊位 25] 俄勒冈健康与科学大学/OHSU 数字健康团队/[Digital Health](https://www.ohsu.edu/telemedicine/office-digital-health-team)
+### [摊位 25] 俄勒冈健康与科学大学/OHSU 雷顿衰老和阿尔茨海默病中心[Layton Aging and Alzheimer’s Disease Center](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
 
->数字健康  
-电子病历  
-远程问诊  
-如何与医生通过线上沟通  
+>脑退化症中文资讯  
+失智症预防知识咨询  
 
 ### [摊位 26] 俄勒冈健康与科学大学/OHSU 俄勒冈有特殊健康需要儿童信息中心/[Oregon Family to Family Health Information](https://www.ohsu.edu/oregon-family-to-family-health-information-center)
 
@@ -203,10 +202,12 @@ OCOM诊所服务内容介绍
 >有关视力健康知识咨询  
 发放免费视力检查和配眼镜 (VSP Eyes of Hope) 礼品券  
 
-### [摊位 28] 俄勒冈健康与科学大学/OHSU 雷顿衰老和阿尔茨海默病中心[Layton Aging and Alzheimer’s Disease Center](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
+### [摊位 28] 俄勒冈健康与科学大学/OHSU 数字健康团队/[Digital Health](https://www.ohsu.edu/telemedicine/office-digital-health-team)
 
->脑退化症中文资讯  
-失智症预防知识咨询  
+>数字健康  
+电子病历  
+远程问诊  
+如何与医生通过线上沟通  
 
 ### [摊位 29] 俄勒冈健康与科学大学/OHSU 乳腺癌筛查项目/Breast Cancer Screening Day
 
@@ -219,11 +220,6 @@ OCOM诊所服务内容介绍
 两个参与癌症临床试验的机会  
 健康俄勒冈项目/The Healthy Oregon Project -- 通过血液或唾液的癌症基因测试  
 
-### [摊位 33] 阿尔茨海默病协会/[Alzheimer's Association](https://www.alz.org/)  
-
->阿尔茨海默病早期诊断  
-阿尔茨海默病的护理  
-六月是阿尔茨海默病月，9月21日是全球阿尔茨海默病日，11月是关爱者月。  
 
 ### [摊位 34] 红十字会波特兰分部/[Red Cross Portland](https://www.redcross.org/local/oregon/about-us/locations/northwest-oregon-chapter.html)
 
@@ -235,7 +231,7 @@ OCOM诊所服务内容介绍
 >应对核爆炸和辐射紧急事件  
 俱乐部活动介绍  
 
-### [摊位 36] 都市西部救护车服务/[Metro West Ambulance](https://www.metrowest.us.com/)
+### [摊位 33, 36] 都市西部救护车服务/[Metro West Ambulance](https://www.metrowest.us.com/)
 
 >CPR/AED/Epi-Pen动手体验  
 EMT经历与医学院申请  
