@@ -22,6 +22,7 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/hhhs_logo  
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/asqlonglogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/rosewoodlogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ncclogo  
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthysmileslogo  
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/yinglogo  
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/inspectionlogo
@@ -64,11 +65,11 @@ feature_row3:
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/zoomap)
 
-### [摊位 1] 公益性房屋检查公司/[Nonprofit Home Inspections](https://nonprofithomeinspections.org/)
+### [摊位 1] 西北天主教心理咨询中心/[The Northwest Catholic Counseling Center](https://www.nwcounseling.org/)
 
->平价政策  
-对低收入家庭按照收入不同程度优惠价格  
-为低收入家庭做免费氡气检测  
+>中文(普通话)心理咨询  
+婚姻咨询  
+讲座  
 
 ### [摊位 2] 阿尔茨海默病协会/[Alzheimer's Association](https://www.alz.org/)  
 
@@ -139,7 +140,11 @@ feature_row3:
 
 ### [摊位 12] 现场翻译义工区域：广东话
 
-### [摊位 13] 现场翻译义工区域：普通话
+### [摊位 13] 公益性房屋检查公司/[Nonprofit Home Inspections](https://nonprofithomeinspections.org/)
+
+>平价政策  
+对低收入家庭按照收入不同程度优惠价格  
+为低收入家庭做免费氡气检测  
 
 ### [摊位 14] 211 热线电话/[211 Info Hotline](https://www.211info.org/)  
 
