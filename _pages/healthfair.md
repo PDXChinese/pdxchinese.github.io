@@ -69,7 +69,7 @@ feature_row3:
 
 >中文(普通话)心理咨询  
 婚姻咨询  
-讲座  
+讲座:[两个世界的育儿经](https://www.nwcounseling.org/event/parenting-in-two-worlds-mandarin/)  
 
 ### [摊位 2] 阿尔茨海默病协会/[Alzheimer's Association](https://www.alz.org/)  
 
