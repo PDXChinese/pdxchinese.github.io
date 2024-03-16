@@ -65,11 +65,11 @@ feature_row3:
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/zoomap)
 
-### [摊位 1] 西北天主教心理咨询中心/[The Northwest Catholic Counseling Center](https://www.nwcounseling.org/)
+### [摊位 1] 非营利性房屋检查公司/[Nonprofit Home Inspections](https://nonprofithomeinspections.org/)
 
->中文(普通话)心理咨询  
-婚姻咨询  
-讲座:[两个世界的育儿经](https://www.nwcounseling.org/event/parenting-in-two-worlds-mandarin/)  
+>平价政策  
+对低收入家庭按照收入不同程度优惠价格  
+为低收入家庭做免费氡气检测  
 
 ### [摊位 2] 阿尔茨海默病协会/[Alzheimer's Association](https://www.alz.org/)  
 
@@ -138,13 +138,9 @@ feature_row3:
 
 *OCC是推荐组织之一*
 
-### [摊位 12] 现场翻译义工区域：广东话
+### [摊位 12] 现场翻译义工区域：普通话
 
-### [摊位 13] 公益性房屋检查公司/[Nonprofit Home Inspections](https://nonprofithomeinspections.org/)
-
->平价政策  
-对低收入家庭按照收入不同程度优惠价格  
-为低收入家庭做免费氡气检测  
+### [摊位 13] 现场翻译义工区域：广东话
 
 ### [摊位 14] 211 热线电话/[211 Info Hotline](https://www.211info.org/)  
 
@@ -157,12 +153,13 @@ feature_row3:
 心理健康互助小组  
 NAMI各地分布    
 
-### [摊位 16] 美国华裔精神健康联盟/[Mental Health Association for Chinese Communities](https://www.mhacc-usa.org/nami-programs)  
+### [摊位 1] 西北天主教心理咨询中心/[The Northwest Catholic Counseling Center](https://www.nwcounseling.org/)
 
->中文暖线服务  
-患友互助组和照顾者互助组每月线上聚会  
+>中文(普通话)心理咨询  
+婚姻咨询  
+讲座:[两个世界的育儿经](https://www.nwcounseling.org/event/parenting-in-two-worlds-mandarin/)  
 
-### [摊位 17] 家庭和青少年心理健康咨询/[Huiying Jessica Tull](https://www.bewellfamilycounseling.com/)  
+### [摊位 17] 家庭和青少年心理健康咨询/[Be Well Family Counseling](https://www.bewellfamilycounseling.com/)  
 
 >中国广东长大，2006年搬到美国上大学。作为一名LPC-A和育儿教练，在为个人和家庭服务的心理健康领域有着丰富的经验。
 
