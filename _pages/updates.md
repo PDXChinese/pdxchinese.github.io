@@ -14,7 +14,7 @@ No Registration Required, Free Admission, Open to Public
 
 ### [2024 文化日/Culture Day](https://pdxchinese.org/cultureday/)
 
-**Date:** May 19, 2024, 10pm - 4pm  
+**Date:** May 19, 2024, 11am - 4pm  
 Place: Jenkins Estate  
 Address: 8005 SW Grabhorn Rd, Beaverton, OR 97007  
 No Registration Required, Free Admission, Open to Public  
