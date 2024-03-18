@@ -370,7 +370,7 @@ Civic engagement
 Chinese language learning and project support  
 Elderly mental health and support programs  
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/divider)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 As part of the OCC [Dragonfly Yo-Yo Team](https://pdxchinese.org/yoyo/) and members of our Chinese community, we're super excited to join the Oregon Chinese American Community Health Fair organized by OCC.
 
