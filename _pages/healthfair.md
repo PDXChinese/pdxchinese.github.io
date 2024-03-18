@@ -370,11 +370,13 @@ Civic engagement
 Chinese language learning and project support  
 Elderly mental health and support programs  
 
->>As part of the OCC [Dragonfly Yo-Yo Team](https://pdxchinese.org/yoyo/) and members of our Chinese community, we're super excited to join the Oregon Chinese American Community Health Fair organized by OCC.
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/divider)
 
->>We all know how important health is, right? It's like the foundation of everything! So, we're here to spread the word about taking care of ourselves, both physically and mentally. Whether it's eating right, staying active, or keeping a positive mindset, we're all about promoting good vibes and healthy habits.
+As part of the OCC [Dragonfly Yo-Yo Team](https://pdxchinese.org/yoyo/) and members of our Chinese community, we're super excited to join the Oregon Chinese American Community Health Fair organized by OCC.
 
->>Last year, we made a pledge to stay away from smoking and vaping, and we're sticking to it! We wanna set a good example and help our friends make healthy choices too.
+We all know how important health is, right? It's like the foundation of everything! So, we're here to spread the word about taking care of ourselves, both physically and mentally. Whether it's eating right, staying active, or keeping a positive mindset, we're all about promoting good vibes and healthy habits.
 
->>-Arianna Hong  
+Last year, we made a pledge to stay away from smoking and vaping, and we're sticking to it! We wanna set a good example and help our friends make healthy choices too.
+
+-Arianna Hong  
 -Brianna Hong  
