@@ -153,7 +153,7 @@ feature_row3:
 心理健康互助小组  
 NAMI各地分布    
 
-### [摊位 1] 西北天主教心理咨询中心/[The Northwest Catholic Counseling Center](https://www.nwcounseling.org/)
+### [摊位 16] 西北天主教心理咨询中心/[The Northwest Catholic Counseling Center](https://www.nwcounseling.org/)
 
 >中文(普通话)心理咨询  
 婚姻咨询  
@@ -188,7 +188,7 @@ NAMI各地分布
 耳针治疗展示，欢迎现场观众参与。  
 OCOM诊所服务内容介绍  
 
-### [摊位 25] 俄勒冈健康与科学大学/OHSU 雷顿衰老和阿尔茨海默病中心[Layton Aging and Alzheimer’s Disease Center](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
+### [摊位 25] 俄勒冈健康与科学大学/OHSU 雷顿衰老和阿茨海默病中心[Layton Aging and Alzheimer’s Disease Center](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
 
 >脑退化症中文资讯  
 失智症预防知识咨询  
@@ -369,3 +369,12 @@ Volunteer activities and Presidential Volunteer Service Award application
 Civic engagement  
 Chinese language learning and project support  
 Elderly mental health and support programs  
+
+As part of the OCC [Dragonfly Yo-Yo Team](https://pdxchinese.org/yoyo/) and members of our Chinese community, we're super excited to join the Oregon Chinese American Community Health Fair organized by OCC.
+
+We all know how important health is, right? It's like the foundation of everything! So, we're here to spread the word about taking care of ourselves, both physically and mentally. Whether it's eating right, staying active, or keeping a positive mindset, we're all about promoting good vibes and healthy habits.
+
+Last year, we made a pledge to stay away from smoking and vaping, and we're sticking to it! We wanna set a good example and help our friends make healthy choices too.
+
+-Arianna Hong  
+-Brianna Hong  
