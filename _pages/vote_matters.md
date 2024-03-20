@@ -27,9 +27,9 @@ permalink: /vote_matters/
 
 ### 波特兰市政府形式和投票方式的改变
 
-[新市政府形式背景](https://www.portland.gov/transition/government/change-management#:~:text=government%20is%20changing-,A%20significant%20change%20in%20Portland's%20form%20of%20government%20is%20underway,26%2D228%20in%20November%202022.)
+[新市政府形式背景](https://www.portland.gov/transition/government/change-management#:~:text=government%20is%20changing-,A%20significant%20change%20in%20Portland's%20form%20of%20government%20is%20underway,26%2D228%20in%20November%202022.)  
 
-[新的排名投票方式](https://www.portland.gov/vote)
+[新的排名投票方式](https://www.portland.gov/vote)  
 
 ### 波特兰市长选举：
 
@@ -39,8 +39,7 @@ permalink: /vote_matters/
 
 [Ballotpedia](https://ballotpedia.org/Municipal_elections_in_Multnomah_County,_Oregon_(2024)), [WikipediA](https://en.wikipedia.org/wiki/2024_Multnomah_County_District_Attorney_election)
 
-[Mike Schmidt](https://www.mikeschmidtforda.com/)  
-[Nathan Vasquez](https://www.voteforvasquez.com/)  
+[Mike Schmidt](https://www.mikeschmidtforda.com/) vs. [Nathan Vasquez](https://www.voteforvasquez.com/)  
 
 [2022年初选投票统计](https://ballotpedia.org/Mike_Schmidt_(Oregon))  
 
@@ -61,4 +60,8 @@ permalink: /vote_matters/
 
 查看您目前的选民资格：[英文，可以选择中文界面](https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do)  
 自行在州政府网站上选民登记：[中文界面](https://sos.oregon.gov/voting/Pages/registration.aspx?lang=zh)  
-公民资格考试免费辅导，外加入籍费用补贴：[秋季课程](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/citizenship_class)    
+公民资格考试免费辅导，外加入籍费用补贴：[Mission: Citizen](https://missioncitizen.org/)    
+
+## 以往选举年活动
+
+[2022中期选举](https://pdxchinese.org/vote_matters_2022/)
