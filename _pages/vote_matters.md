@@ -28,7 +28,6 @@ permalink: /vote_matters/
 ### 波特兰市政府形式和投票方式的改变
 
 [新市政府形式背景](https://www.portland.gov/transition/government/change-management#:~:text=government%20is%20changing-,A%20significant%20change%20in%20Portland's%20form%20of%20government%20is%20underway,26%2D228%20in%20November%202022.)  
-
 [新的排名投票方式](https://www.portland.gov/vote)  
 
 ### 波特兰市长选举：
@@ -37,10 +36,8 @@ permalink: /vote_matters/
 
 ### 摩特诺玛县/Multnomah County 检察官/District Attorney 选举：
 
-[Ballotpedia](https://ballotpedia.org/Municipal_elections_in_Multnomah_County,_Oregon_(2024)), [WikipediA](https://en.wikipedia.org/wiki/2024_Multnomah_County_District_Attorney_election)
-
+[Ballotpedia](https://ballotpedia.org/Municipal_elections_in_Multnomah_County,_Oregon_(2024)), [WikipediA](https://en.wikipedia.org/wiki/2024_Multnomah_County_District_Attorney_election)  
 [Mike Schmidt](https://www.mikeschmidtforda.com/) vs. [Nathan Vasquez](https://www.voteforvasquez.com/)  
-
 [2022年初选投票统计](https://ballotpedia.org/Mike_Schmidt_(Oregon))  
 
 **声明：** 翻译工作由一组社区义工完成，他们已经尽自己最大的努力保证中文译文与英文原文完全一致，如有出入甚至意思理解错误，完全是无意的，愿意即刻改正过来，和电视台和候选人无关。谢谢大家的理解和支持。

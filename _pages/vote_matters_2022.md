@@ -1,5 +1,6 @@
 ---
 title: ""
+permalink: /vote_matters_2022/
 ---
 
 ![Vote Poster](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/vote22_wipcwofadlfktnal3adq)
