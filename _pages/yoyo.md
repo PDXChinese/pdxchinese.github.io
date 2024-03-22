@@ -31,3 +31,11 @@ To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxc
 <br>
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/PJwF4pwxGZ0" title="Dragonfly YoYo Team Performed in Milwaukie Community Center" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
+
+<iframe width="2135" height="1200" src="https://www.youtube.com/embed/BMbkpZtKkXI" title="Celebrate Lunar New Year in PSU Farmer&#39;s Market" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
+
+<iframe width="2135" height="1200" src="https://www.youtube.com/embed/ocGoFhNItAk" title="Dragonfly YoYo Team Participating in 2014 Community Health Fair" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
