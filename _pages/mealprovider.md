@@ -40,4 +40,8 @@ July 16, 2023
 
 > Thank you so much for making such a delicious feast for our residents!!
 
+<iframe width="2135" height="1200" src="https://www.youtube.com/embed/s28JTPxjvpw" title="Providing Meal at the Clark Center by High School Students" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
+
 <iframe width="1100" height="619" src="https://www.youtube.com/embed/sARAXyYELSI" title="Oregon Chinese Coalition Volunteer Activity 11/27/22 | The Clark Center by Transition Projects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

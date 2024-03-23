@@ -28,3 +28,7 @@ OCC has six guitars donated by [Natasha Guitars](https://natashaguitar.com/). St
 [Portland Guitar Society](https://www.pdxguitarsociety.org/)  
 [Evolution of Guitars](https://www.youtube.com/shorts/yAu6H2Veoe4?feature=share)  
 [Violin and Guitar Samples](https://serenatastringsdfw.com/violin-and-guitar-samples/disney-violin-and-guitar-samples/)  
+
+<br>
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/Pg47mP2xfuQ" title="Meet our Teachers at First Gathering of Youth Guitar Club" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
