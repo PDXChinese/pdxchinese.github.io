@@ -66,7 +66,7 @@ feature_row19:
     - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326387583_1092058778857047_8245403294991861876_n
 ---
 
-## >>> [Culture Day Album](https://pdxchinese.org/culture_day_2023/)
+## >> [2023 Culture Day Album](https://pdxchinese.org/culture_day_2023/)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/culturedayflyer)
 
