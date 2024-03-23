@@ -177,6 +177,10 @@ Thank you to all the community partners who participated in this health fair. Yo
 
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/ocGoFhNItAk" title="Dragonfly YoYo Team Participating in 2014 Community Health Fair" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<br>
+
+### 博览会社区宣传回顾
+
 03.08.2024
 
 去年的场景仍然历历在目，举办这个活动的效果在过去一年中都在持续体现。今年我们仍然坚持去年的定位，就是健康博览会着眼于全体社区成员的福祉，为那些影响我们身心健康的社会因素提供资源甚至答案。根据去年大家对各摊位的反应，我们做了一些调整，大家能看得出来OHSU的资源庞大，现场连义工也会有不少它们的员工。我们增加了大家可以参与和动手学习的内容，除了针灸，还会有熟悉CPR和AED等救急设备的机会。还有一大亮点就是我们社区自己的医生和专家们愿意站出来为大家服务，包括了内科，家庭医生，肠胃科，中医，药学，牙医，精神科。这些内容我们都会在未来一个星期做详细介绍。
