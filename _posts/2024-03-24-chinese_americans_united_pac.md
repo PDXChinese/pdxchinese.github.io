@@ -17,4 +17,4 @@ Now, however, things are changing in almost every aspect of our lives! We are ve
 
 Disclaimer: CAUPAC is not affiliated with or related to the Oregon Chinese Coalition.
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Screenshot 2024-03-24 105215)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/Screenshot_2024-03-24_105215)
