@@ -7,9 +7,9 @@ date: "2024-03-17"
 
 这次在动物园举办的社区健康博览会也算得上是虎口脱险，没想到碰上了一个那么好的天气，原本就令人担心的停车问题给要去的人带来了挑战，甚至有的参展的机构到了停车场绕了无数圈后只好放弃了，最后到场的人数明显低于去年，但也应该有400人左右，对于一个社区活动来说，也是一个很好的出席人数了。当然最可惜的是没有参加的社区成员错过了这么好的学习和体验机会。我自己在OCOM摊位扎了四针在耳朵上，人生的第一次。然后在郑医生那里也是第一次通过在手指上取血测了血糖。我花了不少时间在Metro West摊位学习和体验CPR手法，和AED的使用。这个绝对需要现场动手体验，否则我绝对想象不到要在胸上按下去2-2.5英寸，并且要保持一定的节奏。真心希望我们每个人都有机会学习，还包括Epi-Pen和Narcam，这些都是需要在几分钟内把人从死亡线上拉回来的事情。
 
-会前没来得及介绍所有的参展组织，以后我们会找机会继续，不是说每个机构提供的资源会帮助到每个人，但肯定会帮助到一些人。每个人在健康方面如果遇到挑战都是一个很大的挑战，作为社区，我们一是做好平时的功课，为大家提供最好的资源，二是利用这些资源帮助到那些急需帮助到的个人和家庭。
+会前没来得及介绍所有的参展组织，以后我们会找机会继续，不是说每个机构提供的资源会帮助到每个人，但肯定会帮助到一些人。每个人在健康方面如果出现问题都是一个很大的挑战，作为社区，我们一是做好平时的功课，为大家提供最好的资源，二是利用这些资源帮助到那些急需帮助到的个人和家庭。
 
-我们要衷心感谢所有参与的义工，更要感谢愿意为自己社区服务的华人医生和专家们。包括所有参展的组织和到场的社区成员，我们一起做了很了不起的一件事。让我们明年再见！
+我们要衷心感谢所有参与的义工，更要感谢愿意为自己社区服务的华人医生和专家们。包括所有参展的组织和到场的社区成员在内，我们一起做了很了不起的一件事。让我们明年再见！
 
 The second annual community health fair organized by OCC was successfully held at the Oregon Zoo yesterday. Despite both vendors and community members facing significant challenges with parking, there were still about 400 people attending the event. Metro West's CPR/AED/Epi-Pen training, Oregon College of Oriental Medicine (OCOM)'s acupuncture, and OHSU Knight Cancer Institute's information tables consistently attracted crowds. Many community members expressed their gratitude for the opportunity to access such valuable resources in one place.
 
@@ -176,8 +176,6 @@ Thank you to all the community partners who participated in this health fair. Yo
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/WeChat Image_20240322154628)
 
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/ocGoFhNItAk" title="Dragonfly YoYo Team Participating in 2014 Community Health Fair" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<br>
 
 ### 博览会社区宣传回顾
 

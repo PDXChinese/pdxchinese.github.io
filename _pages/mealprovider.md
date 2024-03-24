@@ -9,6 +9,8 @@ permalink: /mealprovider/
 **Date:** Every 2nd Sunday 5:30pm-7pm  
 **Place:** The Clark Center by [Transition Projects](https://www.tprojects.org/)  
 
+**Date:** Every 3rd Sunday 5:30pm-7pm  
+**Place:** Banfield Motel Shelter by [Transition Projects](https://www.tprojects.org/)  
 
 [关于庇护所问答](https://www.tprojects.org/sites/default/files/2020-05/FAQ%20Clark%20Center%20May%202020.pdf)
 
