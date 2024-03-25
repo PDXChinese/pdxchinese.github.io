@@ -28,7 +28,7 @@ permalink: /vote_matters/
 ### 波特兰市政府形式和投票方式的改变
 
 新市政府形式背景：[English](https://www.portland.gov/transition/government/change-management#:~:text=government%20is%20changing-,A%20significant%20change%20in%20Portland's%20form%20of%20government%20is%20underway,26%2D228%20in%20November%202022.), 中文  
-新的排名投票方式：[English](https://www.portland.gov/vote), [中文]（/assets/pdf/ranked-choice-voting.pdf)  
+新的排名投票方式：[English](https://www.portland.gov/vote), [中文](/assets/pdf/ranked-choice-voting.pdf)  
 
 ### 波特兰市长选举：
 
