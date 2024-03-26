@@ -28,7 +28,7 @@ permalink: /vote_matters/
 ### 波特兰市政府形式和投票方式的改变
 
 新市政府形式背景：[English](https://www.portland.gov/transition), [简体中文](/assets/pdf/new_portland_governance.pdf)  
-新的排名投票方式：[English](https://www.portland.gov/vote), [简体中文](/assets/pdf/ranked-choice-voting.pdf)  
+新的排名投票方式：[English](https://www.portland.gov/vote), [简体中文](/assets/pdf/ranked-choice-voting.pdf), [繁体中文](/assets/pdf/ranked-choice-voting-fanti.pdf)  
 
 ### 波特兰市长选举：
 
@@ -40,7 +40,7 @@ permalink: /vote_matters/
 [Mike Schmidt](https://www.mikeschmidtforda.com/) vs. [Nathan Vasquez](https://www.voteforvasquez.com/)  
 [2022年初选投票统计](https://ballotpedia.org/Mike_Schmidt_(Oregon))  
 
-摩特诺玛县检察官候选人电视辩论会(3/14/2024): [English](https://youtu.be/wehZ548c-OY). 简体中文文本
+摩特诺玛县检察官候选人电视辩论会(3/14/2024): [English](https://youtu.be/wehZ548c-OY)，简体中文文本
 
 **声明：** 翻译工作由一组社区义工完成，他们已经尽自己最大的努力保证中文译文与英文原文完全一致，如有出入甚至意思理解错误，完全是无意的，愿意即刻改正过来，和电视台和候选人无关。谢谢大家的理解和支持。
 
