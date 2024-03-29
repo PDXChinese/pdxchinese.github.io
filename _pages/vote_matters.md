@@ -39,8 +39,9 @@ permalink: /vote_matters/
 [Ballotpedia](https://ballotpedia.org/Municipal_elections_in_Multnomah_County,_Oregon_(2024)), [WikipediA](https://en.wikipedia.org/wiki/2024_Multnomah_County_District_Attorney_election)  
 [Mike Schmidt](https://www.mikeschmidtforda.com/) vs. [Nathan Vasquez](https://www.voteforvasquez.com/)  
 [2022年初选投票统计](https://ballotpedia.org/Mike_Schmidt_(Oregon))  
+[为什么地方检察官选举至关重要](https://www.cauoregon.org/learn#h.5qo3082tnei5)  
 
-摩特诺玛县检察官候选人电视辩论会(3/14/2024): [英文录像](https://youtu.be/wehZ548c-OY)，[简体中文文本](/assets/pdf/da_debate_simplified.pdf)
+摩特诺玛县检察官候选人电视辩论会(3/14/2024): [英文录像](https://youtu.be/wehZ548c-OY)，[简体中文文本](/assets/pdf/da_debate_simplified.pdf)，[繁体中文文本](/assets/pdf/da_debate_traditional.pdf)
 
 <iframe src="{{ site.url }}/assets/pdf/da_debate_simplified.pdf" style="width: 100%; height: 600px"></iframe>
 <br>
