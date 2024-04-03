@@ -34,6 +34,10 @@ permalink: /vote_matters/
 
 最新候选人名单：[City of Portland](https://www.portland.gov/smalldonorelections/all-about-2024-election), [Ballotpedia](https://ballotpedia.org/Mayoral_election_in_Portland,_Oregon_(2024))
 
+波特兰市长候选人雷内·冈萨雷斯接受KGW新闻专访(3/28/2024)：[英文录像](https://youtu.be/qXlcWOD-Grw)，[简体中文文本](/assets/pdf/rene_on_kgw_simplified.pdf)，[繁体中文文本](https://)
+
+<iframe src="{{ site.url }}/assets/pdf/rene_on_kgw_simplified.pdf" style="width: 100%; height: 600px"></iframe>
+
 ### 摩特诺玛县/Multnomah County 检察官/District Attorney 选举：
 
 [Ballotpedia](https://ballotpedia.org/Municipal_elections_in_Multnomah_County,_Oregon_(2024)), [WikipediA](https://en.wikipedia.org/wiki/2024_Multnomah_County_District_Attorney_election)  
