@@ -7,10 +7,18 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/kumlogo
 ---
 
-# Take the Seniors to the Garden
+# 2024: Take the Seniors to Multnamoah Fall and Bonneville Dam
+
+**Date:** Once a month with date to be determined each month  
+**Time:** Pick up at 10am and return by 1pm  
+**Place:** Marshall Union Manors and Rose Schnitzer Tower  
+
+*义工会提前在公寓大厅接受报名*
+
+# 2023: Take the Seniors to the Garden
 
 **Date:** Every 4th Thursday  
-**Time:** Pick up at 10am and return by 1pm  
+**Time:** Pick up at 10am and return by 3:15pm  
 **Place:** [Kirkland Union Manors](https://theunionmanors.org/kirkland-union-manors/) and [Lan Su Chinese Garden](https://lansugarden.org/)  
 
 *义工会提前在公寓大厅接受报名*
@@ -25,6 +33,8 @@ feature_row1:
 
 ### Albums
 
+[September 2023](https://pdxchinese.org/ride_with_seniors_sept_2023/)  
+[August 2023](https://pdxchinese.org/ride_with_seniors_aug_2023/)  
 [July 2023](https://pdxchinese.org/ride_with_seniors_july_2023/)  
 [June 2023](https://pdxchinese.org/ride_with_seniors_june_2023/)  
 [May 2023](https://pdxchinese.org/ride_with_seniors_may_2023/)  
