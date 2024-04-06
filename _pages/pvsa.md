@@ -5,6 +5,8 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pvsa_logo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/year_2023
 feature_row2:
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Yuchen_Bai
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Yuchen_Bai/'>Yuchen Bai, Westview High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Gwyneth_Bao1
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Gwyneth_Bao/'>Gwyneth Bao, Lincoln High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Monica_Bao
@@ -57,6 +59,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Jayden_Mei/'>Jayden Mei, Westview High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Joanna_Mei
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Joanna_Mei/'>Joanna Mei, Sunset High School (Gold Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Alexander_Pi
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Alexander_Pi/'>Alexander Pi, Catlin Gabel School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Tiantong_Shang
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2023_Tiantong_Shang/'>Tiantong Shang, Oregon Episcopal School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2023_Ashvika_Singhal
@@ -152,7 +156,7 @@ feature_row3:
 
 {% include feature_row id="feature_row1"%}
 
-Congratulations to the 71 youth OCC has assisted in certifying their volunteering hours for the President's Volunteer Service Awards (PVSA). In one year, they have contributed 11,449 hours in supporting the community, aiding vulnerable individuals, and extending helping hands to their peers. These individuals share a common passion for service, each contributing in their unique way. Together, their stories paint a complete picture of our next generation growing up with love from the community and reciprocating that love by giving back to the community.
+Congratulations to the 73 youth OCC has assisted in certifying their volunteering hours for the President's Volunteer Service Awards (PVSA). In one year, they have contributed 11,661 hours in supporting the community, aiding vulnerable individuals, and extending helping hands to their peers. These individuals share a common passion for service, each contributing in their unique way. Together, their stories paint a complete picture of our next generation growing up with love from the community and reciprocating that love by giving back to the community.
 
 {% include feature_row id="feature_row2"%}
 
