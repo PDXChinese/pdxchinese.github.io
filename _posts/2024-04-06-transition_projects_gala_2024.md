@@ -39,8 +39,6 @@ Kudos to Transition Projects and our resilient community for their ongoing effor
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/436770126_411481568183598_6032576664113017781_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/436747031_411481581516930_1100270998611021281_n)
-
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/436944678_411481624850259_7548603361626676781_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/436784508_411762114822210_1971125396406840218_n)
