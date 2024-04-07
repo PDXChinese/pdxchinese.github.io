@@ -77,3 +77,7 @@ A special thank you to Nataliya Sereda and Lutheran Community Services Northwest
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/436814145_411465768185178_8647747139990414173_n)
 
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/Khx42rCQPiw" title="Intercultural Art Making Workshop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+<iframe width="2135" height="1200" src="https://www.youtube.com/embed/HRg3ZeVWH48" title="Mom and Daughter in the Intercultural Art-Making Workshop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
