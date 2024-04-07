@@ -13,6 +13,8 @@ In continuation of this spirit, the community is now providing meals monthly at 
 
 Kudos to Transition Projects and our resilient community for their ongoing efforts and commitment to making a positive impact.
 
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/436952619_411762961488792_2008887932236001864_n)
+
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/436898582_411481264850295_171297789120978905_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/436816032_411481344850287_6738734627562884120_n)
@@ -23,23 +25,15 @@ Kudos to Transition Projects and our resilient community for their ongoing effor
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/436855374_411481488183606_6879437134361963418_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/436770139_411481251516963_88058483236559627_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/436753854_411481354850286_2743593018392813982_n)
-
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/436934811_411481241516964_3717380130820826860_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/437053941_411481708183584_5039351332945380244_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/436798387_411481744850247_1964735692532064085_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/436804446_411481381516950_7816165686009933676_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/436622399_411481794850242_184698550486965161_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/436944825_411481734850248_5284680654865082865_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/436896866_411481784850243_6380197351889057884_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/436787760_411481534850268_5244519423051638862_n)
 
@@ -49,4 +43,4 @@ Kudos to Transition Projects and our resilient community for their ongoing effor
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/436944678_411481624850259_7548603361626676781_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/436747867_411481664850255_4886192798801676671_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/436784508_411762114822210_1971125396406840218_n)

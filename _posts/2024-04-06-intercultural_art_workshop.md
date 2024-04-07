@@ -1,11 +1,11 @@
 ---
-title: "跨文化交流有了新的形式"
+title: "跨文化交流新的探索"
 author: XiBei Zhao
 excerpt: "今晚在市中心著名的波特兰大楼（Portland Building），华人社区和乌克兰社区共同举办的跨文化绘画制作工作坊吸引了许多家庭的参与。活动由乌克兰艺术家Luba Gonina和我们社区的画家戴雅亚楠领导，让大家领略最本土的绘画艺术。几乎每位到场的华人都表示，这个活动非常独特且充满新意。无论是大人还是孩子都投入其中，营造了十分和谐温馨的氛围。活动结束后，每个人都带回了两幅自己的作品，可谓收获满满。"
 date: "2024-04-06"
 ---
 
-今晚在市中心著名的波特兰大楼（Portland Building），华人社区和乌克兰社区共同举办的跨文化绘画制作工作坊吸引了许多家庭的参与。活动由乌克兰艺术家Luba Gonina和我们社区的画家戴雅亚楠领导，让大家领略最本土的绘画艺术。几乎每位到场的华人都表示，这个活动非常独特且充满新意。无论是大人还是孩子都投入其中，营造了十分和谐温馨的氛围。活动结束后，每个人都带回了两幅自己的作品，可谓收获满满。
+今晚在市中心著名的波特兰大楼（Portland Building），华人社区和乌克兰社区共同举办的跨文化绘画制作工作坊吸引了许多家庭的参与。活动由乌克兰艺术家Luba Gonina和我们社区的画家戴亚楠领导，让大家领略最本土的绘画艺术。几乎每位到场的华人都表示，这个活动非常独特且充满新意。无论是大人还是孩子都投入其中，营造了十分和谐温馨的氛围。活动结束后，每个人都带回了两幅自己的作品，可谓收获满满。
 
 What a successful intercultural art-making workshop today at the Portland Building! Congratulations to the talented Ukrainian and Chinese artists, Luba Gonina and Yanan Dai, for their exceptional presentations. All participants from the Chinese American community expressed their heartfelt gratitude for this invaluable and enriching learning opportunity.
 A special thank you to Nataliya Sereda and Lutheran Community Services Northwest for their initiative and impeccable organization of this workshop.
