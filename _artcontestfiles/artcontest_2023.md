@@ -46,18 +46,18 @@ feature_row4:
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2023_grp1_1st_large)
 
-### Winners, Grade 10-12
+### Winners, Grade 9-12
 
 {% include feature_row id="feature_row1"%}
 
-### Winners, Grade 7-9
+### Winners, Grade 6-8
 
 {% include feature_row id="feature_row2"%}
 
-### Winners, Grade 4-6
+### Winners, Grade 3-5
 
 {% include feature_row id="feature_row3"%}
 
-### Winners, Grade K-3
+### Winners, Grade K-2
 
 {% include feature_row id="feature_row4"%}
