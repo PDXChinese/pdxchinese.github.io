@@ -52,14 +52,14 @@ feature_row4:
 [Press Announcement](/assets/pdf/artcontest2024.pdf)  
 [Official Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)  
 
-[2021 Award Winning Artworks](http://pdxchinese.org/artcontestfiles/artcontest_2021/)  
-[2021 Award Ceremony in Chinatown](https://pdxchinese.org/chinatown_window_gallery_gathering/)  
+[2023 Award Winning Artworks](http://pdxchinese.org/artcontestfiles/artcontest_2023/)  
+[2023 Award Ceremony at Refuge](https://pdxchinese.org/winners_youth_art_contest_2023/)  
 
 [2022 Award Winning Artworks](http://pdxchinese.org/artcontestfiles/artcontest_2022/)  
 [2022 Award Ceremony at Refuge](https://pdxchinese.org/winners_youth_art_contest_2022/)  
 
-[2023 Award Winning Artworks](http://pdxchinese.org/artcontestfiles/artcontest_2023/)  
-[2023 Award Ceremony at Refuge](https://pdxchinese.org/winners_youth_art_contest_2023/)  
+[2021 Award Winning Artworks](http://pdxchinese.org/artcontestfiles/artcontest_2021/)  
+[2021 Award Ceremony in Chinatown](https://pdxchinese.org/chinatown_window_gallery_gathering/)  
 
 <!-- -
 > **Announcement**: The second year of the Youth Art Contest with planning occurring directly with the OCC, the Friends and the Refuge has started to accept artwork entries.

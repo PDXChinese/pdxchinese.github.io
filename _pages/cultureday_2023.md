@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /cultureday/
+permalink: /cultureday_2023/
 feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/thprdlogo
 feature_row2:
@@ -66,14 +66,13 @@ feature_row19:
     - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/326387583_1092058778857047_8245403294991861876_n
 ---
 
-## >> [2023 Culture Day Programs](https://pdxchinese.org/cultureday_2023/)  
-[2023 Culture Day Album](https://pdxchinese.org/culture_day_2023/)  
+## >> [2023 Culture Day Album](https://pdxchinese.org/culture_day_2023/)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/culturedayflyer2024)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/culturedayflyer)
 
-# 2024 文化体验日 / Culture Day
+# 2023 文化体验日 / Culture Day
 
-**Date:** May 19, 2024 (Sunday) 11am-4pm  
+**Date:** May 6, 2023 (Saturday) 10am-4pm  
 **Place:** [THPRD Jenkins Estate](https://www.thprd.org/facilities/historic/jenkins-estate) (8005 SW Grabhorn Rd, Beaverton, OR 97007)  
 
 **Purpose:** To promote culture, the arts, and academic endeavor  
@@ -206,7 +205,26 @@ Please bring your Chinese books there to exchange with others.
 # 参与学校和项目 / Schools and Programs  
 *Listed Alphabetically*  
 
+[Bamboo International School 竹林中文学校](https://bamboointlschool.com/) (Beaverton)  
+[Bolton Primary School](https://www.wlwv.k12.or.us/bolps) (West Linn)  
+[Dr. Martin Luther King Jr. Elementary School](https://www.pps.net/mlk) (NE Portland)  
+[The Chinese Track at the German International School](https://www.gspdx.org/) (Beaverton)  
+[Catlin Gabel](https://www.catlin.edu/) (SW Portland)  
+[Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (Beaverton)  
+[Harriet Tubman Middle School](https://www.pps.net/domain/4826) (N Portland)  
+[Hope Chinese Charter School](https://hopeccs.org/) (Beaverton)  
+[International School of Beaverton](https://isb.beaverton.k12.or.us/) (Beaverton)  
+[International School of Portland](https://intlschool.org/) (Portland Downtown)  
+[Jefferson High School](https://www.pps.net/jefferson) (N Portland)  
+[Lake Learning Center 中英文双语学校](https://www.lakelearningcenter.com/) (Lake Oswego)  
+[Lincoln High School](https://www.pps.net/lincoln) (Portland Downtown)  
+[Palisades World Language School](https://www.losdschools.org/Domain/1866) (Lake Oswego)  
+[Portland Chinese Language School](https://www.oregonccba.org/introduction/) (SE Portland)  
+[Springleaf Chinese School 春叶中文学校](http://springleaf.org/) (SW Portland)  
+[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (Beaverton)  
+[Woodstock Elementary School](https://www.pps.net/woodstock) (SE Portland)  
+[XSTREAM Learning Center](https://www.xstreamlc.com/) (NW Portland)  
 
-### 赞助单位 / Proud Sponsor and Partnership
+### 赞助单位 / Proud Sponsor
 
 {% include feature_row id="feature_row1"%}
