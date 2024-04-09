@@ -203,6 +203,9 @@ Please bring your Chinese books there to exchange with others.
 # 参与学校和项目 / Schools and Programs  
 *Listed Alphabetically*  
 
+请联系西北兆或 info@pdxchinese.org，如果您的学校希望列在这里。  
+Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your school wants to be listed here.  
+
 ### [Revisit 2023 Culture Day](https://pdxchinese.org/cultureday_2023/) ([Photo Album](https://pdxchinese.org/culture_day_2023/))  
 
 ### 赞助单位 / Proud Sponsor and Partnership
