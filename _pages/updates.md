@@ -5,13 +5,6 @@ permalink: /updates/
 
 # <code style="color:brown">近期年度活动/Next Annual Events</code>
 
-### [2024 社区健康博览会/Community Health Fair](https://pdxchinese.org/healthfair/)
-
-**Date:** March 17, 2024, 12pm - 4pm  
-Place: Oregon Zoo, Cascade Crest Ballroom  
-Address: 4001 SW Canyon Road, Portland, OR 97221  
-No Registration Required, Free Admission, Open to Public  
-
 ### [2024 文化日/Culture Day](https://pdxchinese.org/cultureday/)
 
 **Date:** May 19, 2024, 11am - 4pm  
@@ -21,8 +14,8 @@ No Registration Required, Free Admission, Open to Public
 
 ### [2024 社区画展/Community Art Show](https://pdxchinese.org/artexhibit/)
 
-**Date:** May xx, 2024, 12pm - 4pm  
-Place: TBD  
+**Date:** May 9-26, 2024, Thur. Fri. Sat and Sun, 12pm - 4pm  
+Place: Chinatown, 23 NW 4th Avenue, Portland, OR 97209  
 No Registration Required, Free Admission, Open to Public  
 
 ### [2024 青少年大会/Youth Conference](https://pdxchinese.org/youthconference/)
