@@ -3,6 +3,19 @@ title: ""
 permalink: /artexhibit/
 ---
 
+# 2024华人社区画展报名表
+
+地点: 中国城, Community Art Space (23 NW 4th Avenue, Portland)  
+时间：5月9-26日，1点-4点 (每周四至周日)  
+布展时间：5月4-8日  
+
+报名资格：来自华人社区，专业，爱好者，资历年龄不限。
+
+报名截止日：2024年5月1日  
+报名表：[点击这里](https://docs.google.com/forms/d/e/1FAIpQLSeMc3aVAPV5BkmZ8BThHhvHHEYnbNHy1B9YQCgxxiWcpAGoZQ/viewform?usp=sf_link)  
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
+
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/artshow2023_lwwoyslajauogjoroghg)
 
 报名截止日：2023年4月28日  
