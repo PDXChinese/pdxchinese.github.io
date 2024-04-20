@@ -26,6 +26,8 @@ feature_row1:
 
 [Jue Joe Clan History](https://youtu.be/y7x27zIj9-0), Soo Yin's Presentation on San Tong Jue's Life Story
 
+[Hop Lee – Chinese Heritage in Keizer](https://keizerheritagemuseum.org/hop-lee-chinese-heritage-in-keizer/)
+
 Metro Update on [Lone Fir Cultural Heritage Garden](http://lonefir.org/cultural-heritage-garden/) (Nov 2022)：[简体中文版]({{ site.url }}/assets/pdf/block14_s.pdf)，[繁体中文版]({{ site.url }}/assets/pdf/block14_t.pdf)
 
 [How to take a Chinese history tour of Oregon](https://www.oregonlive.com/travel/2022/02/how-to-take-a-chinese-history-tour-of-oregon.html)
