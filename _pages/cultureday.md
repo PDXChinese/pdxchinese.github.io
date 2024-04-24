@@ -217,6 +217,9 @@ Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your schoo
 [Lan Su Chinese Garden](https://lansugarden.org/)  
 [Multnomah County Library](https://multcolib.org/)  
 
+十三乡  
+北京小馆  
+
 # 赞助单位 / Proud Sponsor and Partnership
 
 {% include feature_row id="feature_row1"%}
