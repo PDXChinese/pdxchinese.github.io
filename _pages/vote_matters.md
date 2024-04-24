@@ -51,6 +51,10 @@ permalink: /vote_matters/
 <iframe src="{{ site.url }}/assets/pdf/da_debate_simplified.pdf" style="width: 100%; height: 600px"></iframe>
 <br>
 
+### 蒙特诺玛县/Multnomah County 议员/Commissioner 选举：
+
+[候选人](https://www.multco.us/elections/candidate-filings-metro-and-multnomah-county-may-2024-primary)接受记者集体采访：[第一选区](https://youtu.be/HoVUPNSx-5M)，[第二选区](https://youtu.be/ZHPSiV54kpE)，[第三选区](https://youtu.be/dVIRpNXnDfI)，[第四选区](https://youtu.be/sgTUjgUE2LY)  
+
 **声明：** 翻译工作由一组社区义工完成，他们已经尽自己最大的努力保证中文译文与英文原文完全一致，如有出入甚至意思理解错误，完全是无意的，愿意即刻改正过来，和电视台和候选人无关。谢谢大家的理解和支持。
 
 ## 更多的选举资料
