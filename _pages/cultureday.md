@@ -203,11 +203,22 @@ Please bring your Chinese books there to exchange with others.
 # 参与学校和项目 / Schools and Programs  
 *Listed Alphabetically*  
 
+参与 / Participation: [1]通知学生/Informing Students，[2]表演/Performance，[3]摊位/Tabling
+
+[German International School of Portland](https://www.gspdx.org/) (Beaverton) [1, 2, 3]  
+[Hope Chinese Charter School](https://hopeccs.org/) (Beaverton) [1, 2]  
+[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (Beaverton) [1, 2, 3]  
+
 请联系西北兆或 info@pdxchinese.org，如果您的学校希望列在这里。  
 Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your school wants to be listed here.  
 
-### [Revisit 2023 Culture Day](https://pdxchinese.org/cultureday_2023/) ([Photo Album](https://pdxchinese.org/culture_day_2023/))  
+# 参与并设置摊位的社区伙伴 / Vendors  
 
-### 赞助单位 / Proud Sponsor and Partnership
+[Lan Su Chinese Garden](https://lansugarden.org/)  
+[Multnomah County Library](https://multcolib.org/)  
+
+# 赞助单位 / Proud Sponsor and Partnership
 
 {% include feature_row id="feature_row1"%}
+
+### [Revisit 2023 Culture Day](https://pdxchinese.org/cultureday_2023/) ([Photo Album](https://pdxchinese.org/culture_day_2023/))  
