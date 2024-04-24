@@ -200,7 +200,7 @@ Please bring your Chinese books there to exchange with others.
 
 {% include feature_row id="feature_row18"%}
 
-# 参与学校和项目 / Schools and Programs  
+# 参与学校和中文项目 / Schools and Programs  
 *Listed Alphabetically*  
 
 参与 / Participation: [1]通知学生/Informing Students，[2]表演/Performance，[3]摊位/Tabling
@@ -213,10 +213,14 @@ Please bring your Chinese books there to exchange with others.
 请联系西北兆或 info@pdxchinese.org，如果您的学校希望列在这里。  
 Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your school wants to be listed here.  
 
-# 参与并设置摊位的社区伙伴 / Vendors  
+# 参与社区伙伴 / Community Partners  
 
 [Lan Su Chinese Garden](https://lansugarden.org/)  
-[Multnomah County Library](https://multcolib.org/)  
+
+[OCC Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
+[OCC Jade Dance Team](https://pdxchinese.org/youthdance/)  
+[OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
+[OCC Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
 
 十三乡  
 北京小馆  
