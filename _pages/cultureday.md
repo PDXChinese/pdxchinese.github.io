@@ -205,6 +205,7 @@ Please bring your Chinese books there to exchange with others.
 
 参与 / Participation: [1]通知学生/Informing Students，[2]表演/Performance，[3]摊位/Tabling
 
+[Bolton Primary School](https://www.wlwv.k12.or.us/bolps) (West Linn) [1]  
 [German International School of Portland](https://www.gspdx.org/) (Beaverton) [1,2,3]  
 [Hope Chinese Charter School](https://hopeccs.org/) (Beaverton) [1,2]  
 [Lincoln High School](https://www.pps.net/lincoln) (Portland Downtown) [1,2]  
