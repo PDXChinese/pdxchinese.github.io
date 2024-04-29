@@ -211,6 +211,7 @@ Please bring your Chinese books there to exchange with others.
 [Hope Chinese Charter School](https://hopeccs.org/) (Beaverton) [1,2]  
 [Lincoln High School](https://www.pps.net/lincoln) (Portland Downtown) [1,2]  
 [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (Beaverton) [1,2,3]  
+[Springleaf Chinese School 春叶中文学校](http://springleaf.org/) (SW Portland)  
 
 请联系西北兆或 info@pdxchinese.org，如果您的学校希望列在这里。  
 Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your school wants to be listed here.  
