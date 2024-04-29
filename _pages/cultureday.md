@@ -207,6 +207,7 @@ Please bring your Chinese books there to exchange with others.
 
 [Bolton Primary School](https://www.wlwv.k12.or.us/bolps) (West Linn) [1]  
 [German International School of Portland](https://www.gspdx.org/) (Beaverton) [1,2,3]  
+[Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (Beaverton)[1,2,3]  
 [Hope Chinese Charter School](https://hopeccs.org/) (Beaverton) [1,2]  
 [Lincoln High School](https://www.pps.net/lincoln) (Portland Downtown) [1,2]  
 [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (Beaverton) [1,2,3]  
