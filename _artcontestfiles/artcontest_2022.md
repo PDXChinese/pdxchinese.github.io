@@ -24,20 +24,20 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp2_hm/'>Honorable Mention - Sophia Hu</a></p>"
 feature_row3:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2022_grp3_1st
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_1st/'>1st Place - Queenie</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_1st/'>1st Place - Queenie Chen</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2022_grp3_2nd
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_2nd/'>2nd Place - Unnamed</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2022_grp3_3rd2
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_3rd/'>3rd Place - Irene</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_3rd/'>3rd Place - Irene Wang</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2022_grp3_3rd
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_3rd2/'>3rd Place - Meredith</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_3rd2/'>3rd Place - Meredith Li</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2022_grp3_hm
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_hm/'>Honorable Mention - Bella</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp3_hm/'>Honorable Mention - Bella Lin</a></p>"
 feature_row4:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2022_grp4_1st
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp4_1st/'>1st Place - Ruiqi</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2022_grp4_2nd
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp4_2nd/'>2nd Place - Sophia</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp4_2nd/'>2nd Place - Sophia Li</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2022_grp4_3rd
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp4_3rd/'>3rd Place - Young</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2022_grp4_hm
