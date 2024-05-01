@@ -207,6 +207,7 @@ Please bring your Chinese books there to exchange with others.
 
 [Bamboo International School 竹林中文学校](https://bamboointlschool.com/) (Beaverton)  
 [Bolton Primary School](https://www.wlwv.k12.or.us/bolps) (West Linn)  
+[Clark Elementary School](https://www.pps.net/clark)  
 [Dr. Martin Luther King Jr. Elementary School](https://www.pps.net/mlk) (NE Portland)  
 [The Chinese Track at the German International School](https://www.gspdx.org/) (Beaverton)  
 [Catlin Gabel](https://www.catlin.edu/) (SW Portland)  
