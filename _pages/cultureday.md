@@ -79,7 +79,7 @@ feature_row19:
 
 >[Sign up](https://docs.google.com/forms/d/e/1FAIpQLSeowOX9XphfUxII1tyVp3jBqOpdLJy2-SSAlLhjywypuYXo8g/viewform?usp=sf_link) to be a 课后作业辅导/Chinese homework helper (The list will be made available through schools)
 
->[各项活动义工/表演报名表/Activity Volunteer and Performers Signup Form](https://docs.google.com/forms/d/e/1FAIpQLScAU37jBbljeucZe6bcCARnvf6lywgza_FB95UZZvPlMkOj5w/viewform?usp=sf_link)  
+>[各项活动义工/表演/摊位报名表 / Activity Volunteer/Performance/Tabling Signup Form](https://docs.google.com/forms/d/e/1FAIpQLScAU37jBbljeucZe6bcCARnvf6lywgza_FB95UZZvPlMkOj5w/viewform?usp=sf_link)  
 
 We are always inspired by the enthusiasm from the people who love the culture from another side of continent. We firmly believe in education as the key to promote understanding among the different cultures and of the people from different communities. We know learning another language can be quite a challenge especially when the learning environment is not so available or adequate. The local Chinese American community is willing to help. By bringing the students in those Chinese classes and programs at public, charter, private and weekend schools together, we can provide an immersive learning experience for the Chinese culture and help create an environment for supporting each other with resources, trainings, programs and even just inspirations.
 
