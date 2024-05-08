@@ -217,6 +217,7 @@ Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your schoo
 [OCC Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
 [OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
 [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)  
+SODA Chinese Dance  
 
 # 摊位 / Tabling
 
@@ -230,6 +231,8 @@ Emma 应璇：扇面绘画 / Painting on Traditional Fans
 OCC Chinese Books (Textbooks and Literature) Giveaway  
 [OCC Tobacco Prevention](https://pdxchinese.org/healthinitiative/)  
 [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)  
+SODA 中国舞工作室 / Chinese Dance Studio  
+王星 书法 / Chinese Calligraphy  
 
 # 美食摊位 / Food Vendors
 
@@ -240,4 +243,4 @@ OCC Chinese Books (Textbooks and Literature) Giveaway
 
 {% include feature_row id="feature_row1"%}
 
-### [Revisit 2023 Culture Day](https://pdxchinese.org/cultureday_2023/) ([Photo Album](https://pdxchinese.org/culture_day_2023/))  
+# [Revisit 2023 Culture Day](https://pdxchinese.org/cultureday_2023/) ([Photo Album](https://pdxchinese.org/culture_day_2023/))  
