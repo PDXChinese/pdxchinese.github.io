@@ -7,7 +7,7 @@ permalink: /artexhibit/
 
 地点: 中国城, Community Art Space (23 NW 4th Avenue, Portland)  
 时间：5月9-26日，1-4点 (每周四至周日)  
-招待会：5月18日，3-5点
+招待会：5月18日，3-5点  
 布展时间：5月4-8日  
 
 报名资格：来自华人社区，专业，爱好者，资历年龄不限。

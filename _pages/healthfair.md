@@ -40,7 +40,7 @@ feature_row3:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pslogo1
 ---
 
-*[2023 Health Fair Album / 健康博览会相册](https://pdxchinese.org/community_health_fair_2023/)*
+*Health Fair Album / 健康博览会相册 [2023](https://pdxchinese.org/community_health_fair_2023/). [2024](https://pdxchinese.org/community_health_fair_2024/)*
 
 ### Our Proud Sponsors
 
