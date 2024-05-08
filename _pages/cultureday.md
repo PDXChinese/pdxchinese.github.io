@@ -198,6 +198,7 @@ We are always inspired by the enthusiasm from the people who love the culture fr
 [German International School of Portland](https://www.gspdx.org/) (Beaverton)  
 [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (Beaverton)  
 [Hope Chinese Charter School](https://hopeccs.org/) (Beaverton)  
+[International School of Portland](https://intlschool.org/) (Portland Downtown)  
 [Lincoln High School](https://www.pps.net/lincoln) (Portland Downtown)  
 [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (Beaverton)  
 [Palisades World Language School](https://www.losdschools.org/Domain/1866) (Lake Oswego)  
@@ -218,6 +219,7 @@ Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your schoo
 [OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
 [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)  
 SODA Chinese Dance  
+[US Wushu Center – Portland's Martial Arts Center](https://uswushu.com/)  
 
 # 摊位 / Tabling
 
@@ -225,7 +227,7 @@ SODA Chinese Dance
 [Lan Su Chinese Garden](https://lansugarden.org/)  
 [Beaverton School District](https://www.beaverton.k12.or.us/)  
 
-Emma 应璇：扇面绘画 / Painting on Traditional Fans  
+应璇 Emma 扇面绘画 / Painting on Traditional Fans  
 [German International School of Portland](https://www.gspdx.org/)  
 [Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/)  
 OCC Chinese Books (Textbooks and Literature) Giveaway  
