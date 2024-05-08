@@ -170,16 +170,6 @@ We are always inspired by the enthusiasm from the people who love the culture fr
 ### 中文教材大赠送 / Chinese Textbooks Giveaway  
 *Under Tent*  
 
-### 中文读物交换 / Chinese Book Exchange  
-*Under Tent*  
-
-Please bring your Chinese books there to exchange with others.
-
-### 灯笼手工制作和大赠送 / Chinese DIY Lantern Giveaway  
-*Under Tent*  
-
-{% include feature_row id="feature_row16"%}
-
 ### 传统文化礼品摊位 / Chinese Culture Gifts Tent  
 *On Sale*  
 
@@ -234,8 +224,10 @@ Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your schoo
 [Lan Su Chinese Garden](https://lansugarden.org/)  
 [Beaverton School District](https://www.beaverton.k12.or.us/)  
 
+Emma 应璇：扇面绘画 / Painting on Traditional Fans  
 [German International School of Portland](https://www.gspdx.org/)  
 [Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/)  
+OCC Chinese Books (Textbooks and Literature) Giveaway  
 [OCC Tobacco Prevention](https://pdxchinese.org/healthinitiative/)  
 [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)  
 
