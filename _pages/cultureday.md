@@ -203,31 +203,43 @@ Please bring your Chinese books there to exchange with others.
 # 参与学校和中文项目 / Schools and Programs  
 *Listed Alphabetically*  
 
-参与 / Participation: [1]通知学生/Informing Students，[2]表演/Performance，[3]摊位/Tabling
-
-[Bolton Primary School](https://www.wlwv.k12.or.us/bolps) (West Linn) [1]  
-[Clark Elementary School](https://www.pps.net/clark) [1]  
-[German International School of Portland](https://www.gspdx.org/) (Beaverton) [1,2,3]  
-[Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (Beaverton)[1,2,3]  
-[Hope Chinese Charter School](https://hopeccs.org/) (Beaverton) [1,2]  
-[Lincoln High School](https://www.pps.net/lincoln) (Portland Downtown) [1,2]  
-[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (Beaverton) [1,2,3]  
-[Palisades World Language School](https://www.losdschools.org/Domain/1866) (Lake Oswego) [1]  
-[Springleaf Chinese School 春叶中文学校](http://springleaf.org/) (SW Portland) [1]  
+[Bolton Primary School](https://www.wlwv.k12.or.us/bolps) (West Linn)  
+[Clark Elementary School](https://www.pps.net/clark) (SE Portland)  
+[German International School of Portland](https://www.gspdx.org/) (Beaverton)  
+[Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (Beaverton)  
+[Hope Chinese Charter School](https://hopeccs.org/) (Beaverton)  
+[Lincoln High School](https://www.pps.net/lincoln) (Portland Downtown)  
+[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (Beaverton)  
+[Palisades World Language School](https://www.losdschools.org/Domain/1866) (Lake Oswego)  
+[Springleaf Chinese School 春叶中文学校](http://springleaf.org/) (SW Portland)  
 [Woodstock Elementary School](https://www.pps.net/woodstock) (SE Portland)  
 
 请联系西北兆或 info@pdxchinese.org，如果您的学校希望列在这里。  
 Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your school wants to be listed here.  
 
-# 参与社区伙伴 / Community Partners  
+# 演出 / Performance on Main stage
 
+[Lincoln High School](https://www.pps.net/lincoln)  
+[German International School of Portland](https://www.gspdx.org/)  
+[Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/)  
+[OCC Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
+[OCC Jade Dance Team](https://pdxchinese.org/youthdance/)  
+[OCC Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
+[OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
+[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)  
+
+# 摊位 / Tabling
+
+[THPRD](https://www.thprd.org/)  
 [Lan Su Chinese Garden](https://lansugarden.org/)  
 [Beaverton School District](https://www.beaverton.k12.or.us/)  
 
-[OCC Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
-[OCC Jade Dance Team](https://pdxchinese.org/youthdance/)  
-[OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
-[OCC Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
+[German International School of Portland](https://www.gspdx.org/)  
+[Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/)  
+[OCC Tobacco Prevention](https://pdxchinese.org/healthinitiative/)  
+[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)  
+
+# 美食摊位 / Food Vendors
 
 十三乡  
 北京小馆  
