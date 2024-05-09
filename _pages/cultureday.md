@@ -226,6 +226,7 @@ SODA Chinese Dance
 [THPRD](https://www.thprd.org/)  
 [Lan Su Chinese Garden](https://lansugarden.org/)  
 [Beaverton School District](https://www.beaverton.k12.or.us/)  
+[Oregon Employment Department – EAUI Unit](https://unemployment.oregon.gov/)  
 
 应璇 Emma 扇面绘画 / Painting on Traditional Fans  
 [German International School of Portland](https://www.gspdx.org/)  
