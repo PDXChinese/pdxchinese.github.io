@@ -235,6 +235,7 @@ OCC Chinese Books (Textbooks and Literature) Giveaway
 [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)  
 SODA 中国舞工作室 / Chinese Dance Studio  
 王星 书法 / Chinese Calligraphy  
+[TeaZen Teahouse](https://www.teazen-teahouse.com/)
 
 # 美食摊位 / Food Vendors
 
