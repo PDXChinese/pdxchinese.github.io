@@ -23,6 +23,10 @@ To have us perform in your events, please [contact us](http://pdxchinese.org/con
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345424743_651302106822940_5592377646873928980_n)
 
+### Performance in University of Oregon
+
+<iframe width="2135" height="1200" src="https://www.youtube.com/embed/0XjQssKM-N0" title="Mulan Drum Team in University of Oregon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Performance in Vancouver Lunar New Year Gala
 
 Skyview High School, Feburary 18, 2024
