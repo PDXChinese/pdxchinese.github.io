@@ -195,6 +195,7 @@ We are always inspired by the enthusiasm from the people who love the culture fr
 
 [Bolton Primary School](https://www.wlwv.k12.or.us/bolps) (West Linn)  
 [Clark Elementary School](https://www.pps.net/clark) (SE Portland)  
+[Cleveland High School](https://www.pps.net/Domain/109) (SE Portland)  
 [German International School of Portland](https://www.gspdx.org/) (Beaverton)  
 [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (Beaverton)  
 [Hope Chinese Charter School](https://hopeccs.org/) (Beaverton)  
@@ -228,15 +229,17 @@ SODA Chinese Dance
 [Beaverton School District](https://www.beaverton.k12.or.us/)  
 [Oregon Employment Department – EAUI Unit](https://unemployment.oregon.gov/)  
 
-应璇 Emma 扇面绘画 / Painting on Traditional Fans  
+Bloom Youth Tutoring
 [German International School of Portland](https://www.gspdx.org/)  
+[International School of Portland](https://intlschool.org/)  
 [Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/)  
-OCC Chinese Books (Textbooks and Literature) Giveaway  
+OCC Chinese Books (large quantity of textbooks and literature) Giveaway  
 [OCC Tobacco Prevention](https://pdxchinese.org/healthinitiative/)  
 [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)  
 SODA 中国舞工作室 / Chinese Dance Studio  
-王星 书法 / Chinese Calligraphy  
 [TeaZen Teahouse / 茶室](https://www.teazen-teahouse.com/)
+王星 书法 / Chinese Calligraphy  
+应璇 Emma 扇面绘画 / Painting on Traditional Fans  
 
 # 美食摊位 / Food Vendors
 
