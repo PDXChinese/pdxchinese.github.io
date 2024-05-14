@@ -228,6 +228,7 @@ SODA Chinese Dance
 
 Bloom Youth Tutoring
 [German International School of Portland](https://www.gspdx.org/)  
+[Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/)  
 [International School of Portland](https://intlschool.org/)  
 [Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/)  
 OCC Chinese Books (large quantity of textbooks and literature) Giveaway  
