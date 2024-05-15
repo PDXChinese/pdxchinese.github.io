@@ -67,7 +67,7 @@ feature_row19:
 feature_row20:
     - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/427833553_381227227875699_5282734409879186069_n
     - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/427908709_381227337875688_4749199029519077753_n
-    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/427781243_381226901209065_8078143421801125834_n
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/427855843_381227527875669_2188349955883905378_n
 ---
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/culturedayflyer2024)
@@ -229,7 +229,6 @@ SODA Chinese Dance
 # 摊位 / Tabling
 
 [THPRD](https://www.thprd.org/)  
-[Lan Su Chinese Garden](https://lansugarden.org/)  
 [Beaverton School District](https://www.beaverton.k12.or.us/)  
 [Oregon Employment Department – EAUI Unit](https://unemployment.oregon.gov/)  
 
@@ -242,7 +241,8 @@ OCC Chinese Books (large quantity of textbooks and literature) Giveaway
 [OCC Tobacco Prevention](https://pdxchinese.org/healthinitiative/)  
 [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)  
 SODA 中国舞工作室 / Chinese Dance Studio  
-[TeaZen Teahouse / 茶室](https://www.teazen-teahouse.com/)
+[TeaZen Teahouse / 茶室](https://www.teazen-teahouse.com/)  
+[Winnie Chinese Dance](https://www.winniechinesedance.com/about-1)  
 王星 书法 / Chinese Calligraphy  
 应璇 Emma 扇面绘画 / Painting on Traditional Fans  
 
