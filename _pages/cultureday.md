@@ -193,6 +193,7 @@ By bringing together students enrolled in Chinese classes and programs at public
 [Bolton Primary School](https://www.wlwv.k12.or.us/bolps) (West Linn)  
 [Clark Elementary School](https://www.pps.net/clark) (SE Portland)  
 [Cleveland High School](https://www.pps.net/Domain/109) (SE Portland)  
+[Franklin Elementary School](https://franklin.vansd.org/) (Vancouver)  
 [German International School of Portland](https://www.gspdx.org/) (Beaverton)  
 [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (Beaverton)  
 [Hope Chinese Charter School](https://hopeccs.org/) (Beaverton)  
