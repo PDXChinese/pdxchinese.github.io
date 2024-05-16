@@ -229,17 +229,17 @@ Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your schoo
 
 # 摊位 / Tabling
 
-1 [THPRD](https://www.thprd.org/)  
-2 [Beaverton School District](https://www.beaverton.k12.or.us/) (1)  
-3 [Oregon Employment Department – EAUI Unit](https://unemployment.oregon.gov/) (1)  
+01 [THPRD](https://www.thprd.org/)  
+02 [Beaverton School District](https://www.beaverton.k12.or.us/) (1)  
+03 [Oregon Employment Department – EAUI Unit](https://unemployment.oregon.gov/) (1)  
 
-4 Bloom Youth Tutoring (1)
-5 [German International School of Portland](https://www.gspdx.org/) (1)  
-6 [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (3)  
-7 [International School of Portland](https://intlschool.org/) (1)  
-8 [Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/) (1)  
-9 OCC Chinese Books (large quantity of textbooks and literature) Giveaway (3)
-10 Volunteer Sign-in/[OCC Tobacco Prevention](https://pdxchinese.org/healthinitiative/) (2)  
+04 Bloom Youth Tutoring (1)
+05 [German International School of Portland](https://www.gspdx.org/) (1)  
+06 [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (3)  
+07 [International School of Portland](https://intlschool.org/) (1)  
+08 [Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/) (1)  
+09 OCC Chinese Books (large quantity of textbooks and literature) Giveaway (3)
+10 Volunteer Check-in/[OCC Tobacco Prevention](https://pdxchinese.org/healthinitiative/) (2)  
 11 [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (4)  
 12 SODA中国舞学校 / [SODO Chinese Dance Academy](https://www.sodadance.com/) (1)  
 13 [TeaZen Teahouse / 茶室](https://www.teazen-teahouse.com/) (2)  
