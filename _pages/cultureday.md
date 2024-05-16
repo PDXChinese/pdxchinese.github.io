@@ -242,7 +242,7 @@ Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your schoo
 06 [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (3)  
 07 [International School of Portland](https://intlschool.org/) (1)  
 08 [Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/) (1)  
-09 OCC Chinese Books (large quantity of textbooks and literature) Giveaway (3)
+09 OCC Chinese Books (textbooks and literature) Giveaway (3)  
 10 Volunteer Check-in/[OCC Tobacco Prevention](https://pdxchinese.org/healthinitiative/) (2)  
 11 [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (4)  
 12 SODA中国舞学校 / [SODO Chinese Dance Academy](https://www.sodadance.com/) (1)  
