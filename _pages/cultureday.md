@@ -68,9 +68,13 @@ feature_row20:
     - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/427833553_381227227875699_5282734409879186069_n
     - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/427908709_381227337875688_4749199029519077753_n
     - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/427855843_381227527875669_2188349955883905378_n
+feature_row21:
+    - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/culturedayweather
 ---
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/culturedayflyer2024)
+
+{% include feature_row id="feature_row21"%}
 
 # 2024 文化体验日 / Culture Day
 
@@ -220,12 +224,12 @@ Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your schoo
 12:15pm [SODA Chinese Dance Avademy](https://www.sodadance.com/)  
 12:30pm [OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
 12:40pm [OCC Jade Dance Team](https://pdxchinese.org/youthdance/)  
-1:00pm [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)  
-2:00pm [Lincoln High School](https://www.pps.net/lincoln)  
-2:15pm [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/)  
-3:00pm [SODA Chinese Dance Avademy](https://www.sodadance.com/)  
-3:15pm [OCC Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
-3:30pm Dragon Dance with OCC Drum Team  
+01:00pm [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)  
+02:00pm [Lincoln High School](https://www.pps.net/lincoln)  
+02:15pm [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/)  
+03:00pm [SODA Chinese Dance Avademy](https://www.sodadance.com/)  
+03:15pm [OCC Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
+03:30pm Dragon Dance with OCC Drum Team  
 
 # 摊位 / Tabling
 
