@@ -229,22 +229,22 @@ Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your schoo
 
 # 摊位 / Tabling
 
-[THPRD](https://www.thprd.org/)  
-[Beaverton School District](https://www.beaverton.k12.or.us/) (1 Table)  
-[Oregon Employment Department – EAUI Unit](https://unemployment.oregon.gov/) (1 Table)  
+1 [THPRD](https://www.thprd.org/)  
+2 [Beaverton School District](https://www.beaverton.k12.or.us/) (1 Table)  
+3 [Oregon Employment Department – EAUI Unit](https://unemployment.oregon.gov/) (1 Table)  
 
-Bloom Youth Tutoring (1 Table)
-[German International School of Portland](https://www.gspdx.org/) (1 Table)  
-[Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (3 Tables)  
-[International School of Portland](https://intlschool.org/) (1 Table)  
-[Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/) (1 Table)  
-OCC Chinese Books (large quantity of textbooks and literature) Giveaway (3 Table3)
-Volunteer Sign-in/[OCC Tobacco Prevention](https://pdxchinese.org/healthinitiative/) (2 Table)  
-[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (4 Tables)  
-SODA中国舞学校 / [SODO Chinese Dance Academy](https://www.sodadance.com/) (1 Table)  
-[TeaZen Teahouse / 茶室](https://www.teazen-teahouse.com/) (2 Tables)  
-王星 书法 / Chinese Calligraphy (2 Tables)  
-应璇 Emma 扇面绘画 / Painting on Traditional Fans (2 Tables)  
+4 Bloom Youth Tutoring (1 Table)
+5 [German International School of Portland](https://www.gspdx.org/) (1 Table)  
+6 [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (3 Tables)  
+7 [International School of Portland](https://intlschool.org/) (1 Table)  
+8 [Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/) (1 Table)  
+9 OCC Chinese Books (large quantity of textbooks and literature) Giveaway (3 Tables)
+10 Volunteer Sign-in/[OCC Tobacco Prevention](https://pdxchinese.org/healthinitiative/) (2 Table)  
+11 [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (4 Tables)  
+12 SODA中国舞学校 / [SODO Chinese Dance Academy](https://www.sodadance.com/) (1 Table)  
+13 [TeaZen Teahouse / 茶室](https://www.teazen-teahouse.com/) (2 Tables)  
+14 王星 书法 / Chinese Calligraphy (2 Tables)  
+15 应璇 Emma 扇面绘画 / Painting on Traditional Fans (2 Tables)  
 
 # 美食摊位 / Food Vendors
 
