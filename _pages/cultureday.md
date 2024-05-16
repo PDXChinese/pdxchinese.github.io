@@ -223,7 +223,7 @@ Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your schoo
 11:50am [German International School of Portland](https://www.gspdx.org/)  
 12:15pm [SODA Chinese Dance Avademy](https://www.sodadance.com/)  
 12:30pm [OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
-12:40pm [OCC Jade Dance Team](https://pdxchinese.org/youthdance/)  
+12:45pm [OCC Jade Dance Team](https://pdxchinese.org/youthdance/)  
 01:00pm [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)  
 02:00pm [Lincoln High School](https://www.pps.net/lincoln)  
 02:15pm [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/)  
