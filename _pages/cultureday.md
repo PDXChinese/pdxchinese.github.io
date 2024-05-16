@@ -76,7 +76,7 @@ feature_row20:
 
 **Date:** May 19, 2024 (Sunday) 11am-4pm  
 **Place:** [THPRD Jenkins Estate](https://www.thprd.org/facilities/historic/jenkins-estate) (8005 SW Grabhorn Rd, Beaverton, OR 97007)  
-**Site Map:** [Google Map](https://www.google.com/maps/place/Jenkins+Estate/@45.4608328,-122.8919868,496m/data=!3m1!1e3!4m6!3m5!1s0x549511f8e99b82b5:0x9601b30bc1ad668c!8m2!3d45.4609824!4d-122.8914628!16s%2Fm%2F0h1cst9?entry=ttu), [Site Map](/assets/pdf/jenkinsestatemap.pdf)
+**Site Map:** [Google Map](https://www.google.com/maps/place/Jenkins+Estate/@45.4608328,-122.8919868,496m/data=!3m1!1e3!4m6!3m5!1s0x549511f8e99b82b5:0x9601b30bc1ad668c!8m2!3d45.4609824!4d-122.8914628!16s%2Fm%2F0h1cst9?entry=ttu), [Site Map](/assets/pdf/jenkinsestatemap.pdf)  
 
 **Purpose:** To promote culture, the arts, and academic endeavor  
 **Participants:** Chinese program students, families and educators  
@@ -190,8 +190,6 @@ By bringing together students enrolled in Chinese classes and programs at public
 ### 戒烟宣传 / Tobacco Prevention Campaign  
 *Under Tent*  
 
->Halloween costumes in blind box for anyone who will fill out the 3-minite survey/pledge form about tobacco use prevention. While suppiles last.
-
 {% include feature_row id="feature_row18"%}
 
 # 参与学校和中文项目 / Schools and Programs  
@@ -216,41 +214,42 @@ Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your schoo
 
 # 演出 / Performance on Main stage
 
-[Lincoln High School](https://www.pps.net/lincoln)  
-[German International School of Portland](https://www.gspdx.org/)  
-[Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/)  
-[OCC Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
-[OCC Jade Dance Team](https://pdxchinese.org/youthdance/)  
-[OCC Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
-[OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
-[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)  
-[SODA Chinese Dance Avademy](https://www.sodadance.com/)  
-[US Wushu Center – Portland's Martial Arts Center](https://uswushu.com/)  
-[Winnie Chinese Dance](https://www.winniechinesedance.com/about-1)  
+11:30am [OCC Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
+11:45am [Hope Chinese Charter School](https://hopeccs.org/)/[US Wushu Center](https://uswushu.com/)  
+11:50am [German International School of Portland](https://www.gspdx.org/)  
+12:15pm [SODA Chinese Dance Avademy](https://www.sodadance.com/)  
+12:30pm [OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
+12:40pm [OCC Jade Dance Team](https://pdxchinese.org/youthdance/)  
+1:00pm [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)  
+2:00pm [Lincoln High School](https://www.pps.net/lincoln)  
+2:15pm [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/)  
+3:00pm [SODA Chinese Dance Avademy](https://www.sodadance.com/)  
+3:15pm [OCC Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
+3:30pm Dragon Dance with OCC Drum Team  
 
 # 摊位 / Tabling
 
 [THPRD](https://www.thprd.org/)  
-[Beaverton School District](https://www.beaverton.k12.or.us/)  
-[Oregon Employment Department – EAUI Unit](https://unemployment.oregon.gov/)  
+[Beaverton School District](https://www.beaverton.k12.or.us/) (1 Table)  
+[Oregon Employment Department – EAUI Unit](https://unemployment.oregon.gov/) (1 Table)  
 
-Bloom Youth Tutoring
-[German International School of Portland](https://www.gspdx.org/)  
-[Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/)  
-[International School of Portland](https://intlschool.org/)  
-[Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/)  
-OCC Chinese Books (large quantity of textbooks and literature) Giveaway  
-[OCC Tobacco Prevention](https://pdxchinese.org/healthinitiative/)  
-[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)  
-SODA中国舞学校 / [SODO Chinese Dance Academy](https://www.sodadance.com/)  
-[TeaZen Teahouse / 茶室](https://www.teazen-teahouse.com/)  
-王星 书法 / Chinese Calligraphy  
-应璇 Emma 扇面绘画 / Painting on Traditional Fans  
+Bloom Youth Tutoring (1 Table)
+[German International School of Portland](https://www.gspdx.org/) (1 Table)  
+[Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (3 Tables)  
+[International School of Portland](https://intlschool.org/) (1 Table)  
+[Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/) (1 Table)  
+OCC Chinese Books (large quantity of textbooks and literature) Giveaway (3 Table3)
+Volunteer Sign-in/[OCC Tobacco Prevention](https://pdxchinese.org/healthinitiative/) (2 Table)  
+[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (4 Tables)  
+SODA中国舞学校 / [SODO Chinese Dance Academy](https://www.sodadance.com/) (1 Table)  
+[TeaZen Teahouse / 茶室](https://www.teazen-teahouse.com/) (2 Tables)  
+王星 书法 / Chinese Calligraphy (2 Tables)  
+应璇 Emma 扇面绘画 / Painting on Traditional Fans (2 Tables)  
 
 # 美食摊位 / Food Vendors
 
-十三乡  
-北京小馆  
+十三乡 (2 Tables)  
+北京小馆 (2 Tables)  
 
 # 赞助单位 / Proud Sponsor and Partnership
 
