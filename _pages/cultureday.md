@@ -76,6 +76,7 @@ feature_row20:
 
 **Date:** May 19, 2024 (Sunday) 11am-4pm  
 **Place:** [THPRD Jenkins Estate](https://www.thprd.org/facilities/historic/jenkins-estate) (8005 SW Grabhorn Rd, Beaverton, OR 97007)  
+**Site Map:** [Google Map](https://www.google.com/maps/place/Jenkins+Estate/@45.4608328,-122.8919868,496m/data=!3m1!1e3!4m6!3m5!1s0x549511f8e99b82b5:0x9601b30bc1ad668c!8m2!3d45.4609824!4d-122.8914628!16s%2Fm%2F0h1cst9?entry=ttu), [Site Map](/assets/pdf/jenkinsestatemap.pdf)
 
 **Purpose:** To promote culture, the arts, and academic endeavor  
 **Participants:** Chinese program students, families and educators  

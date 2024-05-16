@@ -76,6 +76,12 @@ Health Share可以为您提供帮助帮助，这里是他们的[中文资料](ht
 
 [Ride Connection (出行无忧)](https://pdxchinese.org/resources/benefits_community/ride-connection/)是一家位于俄勒冈州波特兰市的私人非营利组织。通过提供免费的交通服务，为人们提供独立和健康的出行。出行无忧的服务区域包括华盛顿郡(Washington County)和姆尔特诺默郡(Multnomah County)；服务对象是年满60岁的老年人、残障人士和低收入者。
 
+### 残疾福利申请中文信息
+
+[残疾福利]{https://www.ssa.gov/pubs/CH-S-05-10029.pdf)
+
+[其他中文信息]（https://www.ssa.gov/multilanguage/chinese-simplified.html
+
 ### 您的房子如果要被银行收走的话，去哪里可以得到帮助
 
 这里是每个县的都有与州政府合作的[房主中心](https://www.oregon.gov/ohcs/homeownership/Pages/housing-counseling.aspx?wp7589=p:1#g_a249f885_f721_413b_9380_bc6aaaf9fecd)，他们都会有通过认证的人员，可以帮助您寻找解决办法。
