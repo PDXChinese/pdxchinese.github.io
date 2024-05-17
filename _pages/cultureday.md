@@ -229,7 +229,7 @@ Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your schoo
 01:00pm [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)/[US Wushu Center](https://uswushu.com/)  
 02:00pm [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/)  
 03:00pm [SODA Chinese Dance Academy](https://www.sodadance.com/)  
-03:30pm Dragon Dance with OCC Drum Team  
+03:20pm Dragon Dance with OCC Drum Team  
 
 # 摊位 / Tabling
 
@@ -250,6 +250,7 @@ Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your schoo
 14 王星 书法 / Chinese Calligraphy (2)  
 15 应璇 Emma 扇面绘画 / Painting on Traditional Fans (1)  
 16 年画制作 / Nianhua (Chinese New Year Paintings/Posters) (2)  
+17 画脸 / Face Painting  (1)  
 
 # 美食摊位 / Food Vendors
 
