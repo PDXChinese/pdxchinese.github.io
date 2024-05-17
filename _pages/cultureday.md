@@ -225,8 +225,7 @@ Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your schoo
 12:30pm [OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
 12:45pm [OCC Jade Dance Team](https://pdxchinese.org/youthdance/)  
 01:00pm [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)  
-02:00pm [Lincoln High School](https://www.pps.net/lincoln)  
-02:15pm [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/)  
+02:00pm [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/)  
 03:00pm [SODA Chinese Dance Academy](https://www.sodadance.com/)  
 03:15pm [OCC Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
 03:30pm Dragon Dance with OCC Drum Team  
@@ -249,7 +248,7 @@ Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your schoo
 13 [TeaZen Teahouse / 茶室](https://www.teazen-teahouse.com/) (2)  
 14 王星 书法 / Chinese Calligraphy (2)  
 15 应璇 Emma 扇面绘画 / Painting on Traditional Fans (1)  
-16 年画制作/Nianhua (Chinese New Year Paintings/Posters) (2)  
+16 年画制作 / Nianhua (Chinese New Year Paintings/Posters) (2)  
 
 # 美食摊位 / Food Vendors
 
