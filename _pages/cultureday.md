@@ -227,9 +227,9 @@ Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your schoo
 12:40pm [OCC Jade Dance Team](https://pdxchinese.org/youthdance/)  
 12:50pm [OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
 01:00pm [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)/[US Wushu Center](https://uswushu.com/)  
-02:00pm [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/)  
-03:00pm [SODA Chinese Dance Academy](https://www.sodadance.com/)  
-03:20pm Dragon Dance with OCC Drum Team  
+02:00pm [SODA Chinese Dance Academy](https://www.sodadance.com/)  
+02:30pm [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/)  
+03:00pm Dragon Dance with OCC Drum Team  
 
 # 摊位 / Tabling
 
@@ -239,7 +239,7 @@ Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your schoo
 
 04 Bloom Youth Tutoring (1)
 05 [German International School of Portland](https://www.gspdx.org/) (1)  
-06 [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (3)  
+06 [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (4)  
 07 [International School of Portland](https://intlschool.org/) (1)  
 08 [Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/) (1)  
 09 OCC Chinese Books (textbooks and literature) Giveaway (3)  
