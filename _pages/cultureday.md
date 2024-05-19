@@ -245,12 +245,13 @@ Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your schoo
 09 OCC Chinese Books (textbooks and literature) Giveaway (3)  
 10 Volunteer Check-in/[OCC Tobacco Prevention](https://pdxchinese.org/healthinitiative/) (2)  
 11 [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (4)  
-12 SODA中国舞学校 / [SODO Chinese Dance Academy](https://www.sodadance.com/) (1)  
-13 [TeaZen Teahouse / 茶室](https://www.teazen-teahouse.com/) (2)  
-14 王星 书法 / Chinese Calligraphy (2)  
-15 应璇 Emma 扇面绘画 / Painting on Traditional Fans (1)  
-16 年画制作 / Nianhua (Chinese New Year Paintings/Posters) (2)  
-17 画脸 / Face Painting  (1)  
+12 [PDX Rhythmic Ballet Dance](https://www.pdxrbd.com/) (1)  
+13 SODA中国舞学校 / [SODO Chinese Dance Academy](https://www.sodadance.com/) (1)  
+14 [TeaZen Teahouse / 茶室](https://www.teazen-teahouse.com/) (2)  
+15 王星 书法 / Chinese Calligraphy (2)  
+16 应璇 Emma 扇面绘画 / Painting on Traditional Fans (1)  
+17 年画制作 / Nianhua (Chinese New Year Paintings/Posters) (2)  
+18 画脸 / Face Painting  (1)  
 
 # 美食摊位 / Food Vendors
 
