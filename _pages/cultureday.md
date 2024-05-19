@@ -255,8 +255,8 @@ Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your schoo
 
 # 美食摊位 / Food Vendors
 
-十三乡 (2)  
-北京小馆 (2)  
+十三乡 (3)  
+北京小馆 (3)  
 
 # 赞助单位 / Proud Sponsor and Partnership
 
