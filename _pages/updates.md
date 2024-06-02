@@ -5,16 +5,10 @@ permalink: /updates/
 
 # <code style="color:brown">近期年度活动/Next Annual Events</code>
 
-### [2024 社区画展/Community Art Show](https://pdxchinese.org/artexhibit/)
+### [2024 青少年高峰会/Youth Summit](https://pdxchinese.org/youthconference/)
 
-**Date:** May 9-26, 2024, Thur. Fri. Sat and Sun, 12pm - 4pm  
-Place: Chinatown, 23 NW 4th Avenue, Portland, OR 97209  
-No Registration Required, Free Admission, Open to Public  
-
-### [2024 青少年大会/Youth Conference](https://pdxchinese.org/youthconference/)
-
-**Date:** June xx, 2024, 1pm - 5pm  
-Place: TBD  
+**Date:** TBD, 1pm - 5pm  
+Place: Hope Chinese Charter School ([3500 SW 104th Ave, Beaverton, OR 97005](https://www.google.com/maps/place/Hope+Chinese+Charter+School/@45.494757,-122.785115,16.79z/data=!4m6!3m5!1s0x5495095af942afd9:0x759fa57a8326c607!8m2!3d45.4946694!4d-122.783813!16s%2Fg%2F1264hsl_c?entry=ttu))  
 Register To join, please [register here](https://docs.google.com/forms/d/e/1FAIpQLSeSSDTPGiyHgZ2CmYjjpXz7SlZvqoqpYTIdMOnCIHzdFsBRZA/viewform?usp=sf_link)  
 Please help recommend distinguished speakers  
 
@@ -49,7 +43,7 @@ No Registration Required, Free Admission, Open to Public
 **Date:** Every Sunday 2pm-4pm （April-September)  
 **Place:** Lan Su Chinese Garden 请参加《兰苏园之友微信群》  
 
-[报名链接/Registration](https://signup.com/go/Cmnbbhf)
+[报名链接/Registration](https://signup.com/go/xGFZHzg)
 
 ******
 
