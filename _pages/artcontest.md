@@ -1,5 +1,5 @@
 ---
-title: "2023 Youth Art Contest"
+title: "2024 Youth Art Contest"
 permalink: /artcontest/
 feature_row:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/for_u5k30hqifk64gjp1lszr
@@ -103,15 +103,15 @@ The Oregon Chinese Coalition (OCC) aims to provide an Art Contest for the commun
 
 ### Entry Deadlines and Key Dates:
 
--	Submission of entries must be post-marked or delivered by 1/5/2024 （**now changed to 1/12/2024**）to Tualatin River National Wildlife Refuge. No late entries will be considered. Contestants need to fill out [Offcial Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link) and a copy of it is required to submit with the artwork.     
+-	Submission of entries must be post-marked or delivered by 1/20/2025 to Tualatin River National Wildlife Refuge. No late entries will be considered. Contestants need to fill out [Offcial Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link) and a copy of it is required to submit with the artwork.     
 > Attention: Friends of TRNWRC  
 > c/o Bonnie Anderson  
 >	19255 SW Pacific Hwy  
 > Sherwood, OR 97140  
 
--	Judging will occur the week of January 15, 2024  
+-	Judging will occur the week of January 27, 2025  
 -	After judging, submissions will be displayed in the Visitor Center at Tualatin River NWR (pending the Visitor Center being open)  
--	On 1/20/2024 All participants and their guest are invited to a reception at Tualatin River NWR to announce the winners of the contest. Original submissions will be picked up at that time and a copy of the winning entries will be displayed in the Refuge Visitor Center.   
+-	All participants and their guest are invited to a reception at Tualatin River NWR to announce the winners of the contest. Original submissions will be picked up at that time and a copy of the winning entries will be displayed in the Refuge Visitor Center.   
 
 ### Contest Rules:
 
@@ -129,7 +129,7 @@ The Oregon Chinese Coalition (OCC) aims to provide an Art Contest for the commun
 
 The purpose of this activity is to encourage youth to get outdoors with their families. Therefore, the submitted artwork must be focused around an individual’s experience in nature. It is asked of the contestants that part of your process needs to be spending time in nature to become inspired. The hope is that individuals will come to understand that nature is everywhere. It can be found in their backyard, down the block, at their school, or in a designated space like a refuge. To provide some guidance of the topic to consider, the committee has posed a question to reflect on as contestants imagine what they want to create. Think about and reflect on this:
 
-<p align="center"><b>“The Healing Art of Nature”</b></p>
+<p align="center"><b>“Nature as My Refuge”</b></p>
 
 We request that youth entering the contest find ways to explore nature, in ways that they are able to, in order to find what inspires them. This is important as one of the submission rules is to provide a written explanation of their experience and where their inspiration came from while spending time (in whatever way they can) with nature. This narrative needs to be 90 words or less and should help the judges understand why the contestant created the piece they submitted. The narrative needs to accompany the art submission.
 
