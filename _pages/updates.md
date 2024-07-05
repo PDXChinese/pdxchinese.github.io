@@ -81,10 +81,13 @@ Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_
 
 ******
 
-### 庇护所提供晚餐活动/Meal Provider for the Clark Center
+### [庇护所提供晚餐活动/Meal Provider for the Clark Center](https://pdxchinese.org/mealprovider/)
 
-**Date:** Every 2nd Sunday 5:30pm-7pm  
-**Place:** The Clark Center by Transition Projects 请参加《OCC庇护所晚餐微信群》  
+Date: Every 2nd Sunday 5:30pm-7pm  
+Place: The Clark Center by Transition Projects 请参加《OCC庇护所晚餐微信群》  
+
+Date: Every 3rd Sunday 5:30pm-7pm  
+Place: Banfield Motel Shelter by Transition Projects  
 
 [报名链接/Registration](https://signup.com/client/invitation2/secure/114701245205736806/false#/invitation)
 
@@ -92,8 +95,8 @@ Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_
 
 ### 兰苏园汉语角/Chinese Conversation Table
 
-**Date:** Every Sunday 2pm-4pm （April-September)  
-**Place:** Lan Su Chinese Garden 请参加《兰苏园之友微信群》  
+Date: Every Sunday 2pm-4pm （April-September)  
+Place: Lan Su Chinese Garden 请参加《兰苏园之友微信群》  
 
 [报名链接/Registration](https://signup.com/go/xGFZHzg)
 
@@ -101,9 +104,9 @@ Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_
 
 ### [带老人游园活动/Take the Seniors to the Garden](https://pdxchinese.org/ridewseniors/)
 
-**Date:** Every 4th Thursday (April-September)  
-**Time:** Pick up at 10am and return by 1pm  
-**Place:** Kirkland Union Manors, Marshall Union Manors and Rose Schnitzer Tower  
+Date: Every 4th Thursday (April-September)  
+Time: Pick up at 10am and return by 1pm  
+Place: Kirkland Union Manors, Marshall Union Manors and Rose Schnitzer Tower  
 
 ******
 

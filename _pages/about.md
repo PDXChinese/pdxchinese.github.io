@@ -117,6 +117,10 @@ Congratulations to following Chinese Americans who won national recognitions in 
 
 2016 Alisha Zhao, Junior at Lincoln High School, from Portland [News](https://spirit.prudential.com/honoree/2016/or/alisha-zhao)
 
+### Prudential Emerging Visionaries
+
+2024 Ethan Zhang, Junior at Westview Highschool, from Portland [News](https://changemakers.com/en/challenge/emergingvisionaries/2024/all-winners)
+
 ### Regeneron Science Talent Search (STS) Top 10 Winners
 
 2020 Rupert Li, Senior at Jesuit High School, from Portland [News](https://www.societyforscience.org/press-release/virtual-regeneron-science-talent-search-2020-winners/)  
