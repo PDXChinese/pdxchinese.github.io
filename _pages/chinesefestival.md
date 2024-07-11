@@ -3,8 +3,8 @@ title: " "
 permalink: /chinesefestival/
 feature_row0:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/nwnatural
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/energytrust
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/blank
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/energytrust
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/mult_county_nf2iqzgmnapl3uxgfock
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/PacificSource2
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pcs-logo_vgzamhsfosh7txg6tcar
@@ -175,11 +175,12 @@ Artwork Display and Demonstration by Chinese Artists
 ## Festival Sponsors
 
 [NW Natural](https://www.nwnatural.com/)  
+[Energy Trust](https://www.energytrust.org/)  
 [Multnomah County Public Health](https://www.multco.us/health)  
 [PacificSource Health Plan](https://www.pacificsource.com/)  
 [Pioneer Courthouse Square](https://www.thesquarepdx.org/)  
 
-### Official T-Shirt
+### Official Festival T-Shirt
 
 {% include feature_row id="feature_row2"%}
 
