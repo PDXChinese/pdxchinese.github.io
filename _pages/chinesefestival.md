@@ -3,7 +3,7 @@ title: " "
 permalink: /chinesefestival/
 feature_row0:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/nwnatural
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/blank
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/energytrust
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/blank
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/mult_county_nf2iqzgmnapl3uxgfock
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/PacificSource2
@@ -36,9 +36,7 @@ feature_row2:
 
 We need your help to make our events successful! If you're interested in volunteering, please sign up using the link below. Your support is crucial, and we have a variety of roles available to fit your skills and interests.
 
-Volunteer Sign-Up Link: [Volunteer Sign-Up](https://signup.com/client/invitation2/secure/3423401180114/false#/invitation
-
-Thank you for your willingness to contribute your time and effort. We look forward to working with you!
+Volunteer Sign-Up Link: [Volunteer Sign-Up](https://signup.com/client/invitation2/secure/3423401180114/false#/invitation)
 
 ## Order Official Festival T-Shirt
 
