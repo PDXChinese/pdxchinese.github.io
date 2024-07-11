@@ -23,7 +23,7 @@ feature_row1:
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/festival_2024)
 
->We have been deeply moved by the overwhelmingly positive feedback we have received thus far. It is truly inspiring to witness the support and encouragement we have received from individuals and organizations from all walks of life, as we work towards building a more diverse and culturally enriched community. We are grateful for the outpouring of support and look forward to continuing this journey together.
+>We are committed to downtown Portland for our biggest cultural event in the Chinese American community. Just as we will not give up on Chinatown with its rich heritage, we will be here when Portland needs us the most to help restore the vibrant life we were once proud of.
 
 ## Masters of Ceremony
 
@@ -103,6 +103,7 @@ feature_row1:
 | [Red Robe Tea House & Cafe 大红袍](https://www.redrobeteahouse.com/) | Sichuan Noodle, Chicken Wings, Spring Rolls, Bubble Tea, Tea |
 | [Home Tastes 家乡味](https://www.hometaste.org/) | Braised Pork Rice 卤肉饭，Spam Musubi, Spinrg Rolls |
 | LoLo S San Xiang 十三乡 | Pot Stickers, Jian Bao, Lam Skewers, Buba Tea |
+| [Warsugai](https://www.warsugai.com/) | Rice with Pork, Chicken, Shrimp, and Tofu at your choice  |
 
 ## Kids Friendly Hands-on Craft Activities  
 
@@ -142,30 +143,21 @@ Artwork Display and Demonstration by Chinese Artists
 
 | Service | Partner |
 | Cancer screenings, clinical trials and other related services| [Knight Cancer Institute, OHSU](https://www.ohsu.edu/knight-cancer-institute) |
-| Test Genetic Ancestry & Risk for Certain Hereditary Diseases | [NIH All of Us Research Program](https://www.joinallofus.org/?utm_source=mea-scripps&utm_medium=print&utm_campaign=j2&utm_content=central_region) |
-| Information about Chinese Medicine and OCOM Clinics & Demonstration Auricular Acupuncture Treatments| [Oregon College of Oriental Medicine (OCOM)](https://www.ocom.edu/) |
 | [Environmental Health Services Fish Safety](https://www.multco.us/health/staying-healthy/eating-fish-river) | Multnomah County Health Department |
 | [No Smoking No Vaping Pledge Campaign](https://docs.google.com/forms/d/e/1FAIpQLSeXi9pIxzAE7655rQRaq849D0swRK_nWTkQnPOKDZjSnbdrQA/viewform) | [Oregon Chinese Coalition](https://pdxchinese.org/healthinitiative/) |
 | Mental Health Education and Programs| [OCC Mental Health Peer Support Group](https://pdxchinese.org/healthinitiative/) |
 
 ## Community Partner Lineup
 
-[Energy Trust](https://www.energytrust.org/)  
-[Oregon Toll Program](https://www.oregon.gov/ODOT/tolling/Pages/default.aspx), Oregon Department of Transportation  
-[Crime Victim and Survivor Services Division](https://www.doj.state.or.us/oregon-department-of-justice/civil-rights/bias-and-hate/), Oregon Department of Justice  
-Metro Parks, Protected Areas, Community Projects, [Metro](https://www.oregonmetro.gov/)  
+[Multnomah County Library](https://multcolib.org/)  
+[Portland Police Bureau](https://www.portland.gov/police)  
 [Lan Su Chinese Garden](https://lansugarden.org/)  
 
 ## Festival Sponsors
 
-[Energy Trust](https://www.energytrust.org/)  
-[Portland General Electric, PGE](https://portlandgeneral.com/)  
 [NW Natural](https://www.nwnatural.com/)  
 [Multnomah County Public Health](https://www.multco.us/health)  
-[Oregon Health & Science University, OHSU](https://www.ohsu.edu/)  
-[Oregon Department of Transportation, ODOT](https://www.oregon.gov/odot/pages/index.aspx)  
-[NIH All of Us Research Program](https://www.researchallofus.org/)  
-[Oregon College of Oriental Medicine, OCOM](https://www.ocom.edu/)  
+[PacificSource Health Plan](https://www.pacificsource.com/)  
 [Pioneer Courthouse Square](https://www.thesquarepdx.org/)  
 
 ## Chinese Festivals in the Past
