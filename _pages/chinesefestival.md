@@ -32,9 +32,22 @@ feature_row2:
 
 {% include feature_row id="feature_row0"%}
 
->Volunteer Sign-Up Link: [Volunteer Sign-Up](https://signup.com/client/invitation2/secure/3423401180114/false#/invitation
-) to volunteer  
-Order Official Festival T-Shirt: [Order Link](https://forms.gle/jdHbdgWTonS7j4HeA) festival T-shirt  
+## Sign Up to Volunteer
+
+We need your help to make our events successful! If you're interested in volunteering, please sign up using the link below. Your support is crucial, and we have a variety of roles available to fit your skills and interests.
+
+Volunteer Sign-Up Link: [Volunteer Sign-Up](https://signup.com/client/invitation2/secure/3423401180114/false#/invitation
+
+Thank you for your willingness to contribute your time and effort. We look forward to working with you!
+
+## Order Official Festival T-Shirt
+
+Don't miss out on our exclusive festival T-shirt, designed by Sunset High School graduate Fiona Wang. The design is unique and perfectly captures the spirit of the festival. Proceeds from the T-shirt sales will help cover the event's costs.
+
+Pre-order Price (before July 14): $15  
+On-site Price: $20  
+
+Order your T-Shirt here: [Order Link](https://forms.gle/jdHbdgWTonS7j4HeA)
 
 ## Masters of Ceremony
 
