@@ -32,9 +32,9 @@ feature_row2:
 
 {% include feature_row id="feature_row0"%}
 
-[Sign up](https://signup.com/client/invitation2/secure/3423401180114/false#/invitation
-) to volunteer
-[Order](https://forms.gle/jdHbdgWTonS7j4HeA) festival T-shirt
+>[Sign up](https://signup.com/client/invitation2/secure/3423401180114/false#/invitation
+) to volunteer  
+[Order](https://forms.gle/jdHbdgWTonS7j4HeA) festival T-shirt  
 
 ## Masters of Ceremony
 
