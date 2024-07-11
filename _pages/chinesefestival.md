@@ -150,13 +150,11 @@ Order your T-Shirt here: [Order Link](https://forms.gle/jdHbdgWTonS7j4HeA)
 
 Culture Specific Gifts & Clothing from XK Gift Shop
 
-## Artists' Booth
+## Hanfu (traditional Chinese clothing) Booth
 
-11am - 2pm: Yanan Dai ([Chinese Ink Studio](https://www.yanandai-chineseink.com/))  
-2pm - 6pm: Emma Ying  
-11am - 6pm: Stella Wang, et al   
-
-Artwork Display and Demonstration by Chinese Artists
+Observe makeup, hairstyling, and hanfu dressing  
+Place orders to buy your own hanfu  
+Showcase the beauty of hanfu  
 
 ## Public Health Outreach and Education
 
