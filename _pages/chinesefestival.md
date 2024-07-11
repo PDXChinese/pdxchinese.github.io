@@ -19,19 +19,27 @@ feature_row1:
     title: "Meilan Xu"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/2024mc5
     title: "Lucas Zhang"
+feature_row2:
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/2024_t-shirt_front
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/2024_t-shirt_back
 ---
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/festival_2024)
 
 >We are committed to downtown Portland for our biggest cultural event in the Chinese American community. Just as we will not give up on Chinatown with its rich heritage, we will be here when Portland needs us the most to help restore the vibrant life we were once proud of.
 
+## Proud Festival Sponsors
+
+{% include feature_row id="feature_row0"%}
+
+[Sign up](https://signup.com/client/invitation2/secure/3423401180114/false#/invitation
+) to volunteer
+[Order](https://forms.gle/jdHbdgWTonS7j4HeA) festival T-shirt
+
 ## Masters of Ceremony
 
 {% include feature_row id="feature_row1"%}
 
-## Proud Festival Sponsors
-
-{% include feature_row id="feature_row0"%}
 
 ## Stage Performances  
 
@@ -159,6 +167,10 @@ Artwork Display and Demonstration by Chinese Artists
 [Multnomah County Public Health](https://www.multco.us/health)  
 [PacificSource Health Plan](https://www.pacificsource.com/)  
 [Pioneer Courthouse Square](https://www.thesquarepdx.org/)  
+
+### Official T-Shirt
+
+{% include feature_row id="feature_row2"%}
 
 ## Chinese Festivals in the Past
 
