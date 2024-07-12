@@ -5,6 +5,35 @@ permalink: /updates/
 
 # <code style="color:brown">年度活动/Annual Events</code>
 
+### August
+
+### [华人文化节/Chinese Festival](https://pdxchinese.org/chinesefestival/)
+
+Date: August 3, 2024, 11am - 6pm (1st Saturday in August)  
+Place: Pioneer Courthouse Square, Portland, Oregon  
+No Registration Required, Free Admission, Open to Public  
+
+### October
+
+### [总统义工奖认证/PVSA Certification](https://pdxchinese.org/volunteering/)
+
+Date: October 27 - November 30  
+[PVSA Application Information Form](https://docs.google.com/forms/d/e/1FAIpQLSe_klKsKdkk6Ag1R8JYBFvlu8XSMtgWVNTTW6C0E5OYdYhplQ/viewform?usp=sf_link)  
+
+### November
+
+### [冬季募捐活动/Winter Drive](https://pdxchinese.org/winterdrive/)
+
+Date: Sunday before the Thanksgiving
+To join, please **[register here](https://docs.google.com/forms/d/e/1FAIpQLSdrA8gtPEE5_7kHLy67J5aQJpBaAxnMR-nlSZLc9KiupzaE_A/viewform?usp=sf_link)**.  
+
+### December
+
+### [青少年圆桌会/Youth Roundtable](https://pdxchinese.org/youthroundtable/)
+
+Date: last Sunday 1pm-4pm  
+Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_mgEl-2QBBaTOLoIwdgKmCw3K9CXkgN2Kg/viewform?usp=sf_link)  
+
 ### January
 
 ### [青少年绘画竞赛/Youth Art Contest](https://pdxchinese.org/artcontest/)
@@ -40,35 +69,6 @@ Place: [THPRD Jenkins Estate](https://www.thprd.org/facilities/historic/jenkins-
 Place: Hope Chinese Charter School ([3500 SW 104th Ave, Beaverton, OR 97005](https://www.google.com/maps/place/Hope+Chinese+Charter+School/@45.494757,-122.785115,16.79z/data=!4m6!3m5!1s0x5495095af942afd9:0x759fa57a8326c607!8m2!3d45.4946694!4d-122.783813!16s%2Fg%2F1264hsl_c?entry=ttu))  
 Register To join, please [register here](https://docs.google.com/forms/d/e/1FAIpQLSeSSDTPGiyHgZ2CmYjjpXz7SlZvqoqpYTIdMOnCIHzdFsBRZA/viewform?usp=sf_link)  
 Please help recommend distinguished speakers  
-
-### August
-
-### [华人文化节/Chinese Festival](https://pdxchinese.org/chinesefestival/)
-
-Date: August 3, 2024, 11am - 6pm (1st Saturday in August)  
-Place: Pioneer Courthouse Square, Portland, Oregon  
-No Registration Required, Free Admission, Open to Public  
-
-### October
-
-### [总统义工奖认证/PVSA Certification](https://pdxchinese.org/volunteering/)
-
-Date: October 27 - November 30  
-[PVSA Application Information Form](https://docs.google.com/forms/d/e/1FAIpQLSe_klKsKdkk6Ag1R8JYBFvlu8XSMtgWVNTTW6C0E5OYdYhplQ/viewform?usp=sf_link)  
-
-### November
-
-### [冬季募捐活动/Winter Drive](https://pdxchinese.org/winterdrive/)
-
-Date: Sunday before the Thanksgiving
-To join, please **[register here](https://docs.google.com/forms/d/e/1FAIpQLSdrA8gtPEE5_7kHLy67J5aQJpBaAxnMR-nlSZLc9KiupzaE_A/viewform?usp=sf_link)**.  
-
-### December
-
-### [青少年圆桌会/Youth Roundtable](https://pdxchinese.org/youthroundtable/)
-
-Date: last Sunday 1pm-4pm  
-Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_mgEl-2QBBaTOLoIwdgKmCw3K9CXkgN2Kg/viewform?usp=sf_link)  
 
 # <code style="color:brown">常年活动/Year Around Activities</code>
 

@@ -157,7 +157,7 @@ Culture Specific Gifts & Clothing
 
 Observe makeup, hairstyling, and hanfu dressing  
 Place orders to buy your own hanfu  
-Showcase the beauty of hanfu  
+[Showcase the beauty of hanfu](https://youtu.be/R3EwAN2hVAA)  
 
 ## Public Health Outreach and Education
 
@@ -169,16 +169,16 @@ Showcase the beauty of hanfu
 
 ## Community Partner Tabling
 
+[Energy Trust](https://www.energytrust.org/)  
+[Lan Su Chinese Garden](https://lansugarden.org/)  
 [Multnomah County Library](https://multcolib.org/)  
 [Portland Police Bureau](https://www.portland.gov/police)  
-[Lan Su Chinese Garden](https://lansugarden.org/)  
-[Energy Trust](https://www.energytrust.org/)  
 
 ## Festival Sponsors
 
 [NW Natural](https://www.nwnatural.com/)  
-[Energy Trust](https://www.energytrust.org/)  
 [Multnomah County Public Health](https://www.multco.us/health)  
+[Energy Trust](https://www.energytrust.org/)  
 [PacificSource Health Plan](https://www.pacificsource.com/)  
 [Pioneer Courthouse Square](https://www.thesquarepdx.org/)  
 
