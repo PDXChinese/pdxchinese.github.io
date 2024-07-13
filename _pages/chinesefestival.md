@@ -169,8 +169,9 @@ Place orders to buy your own hanfu
 
 ## Giveaways
 
+Nicotine Gum (for tobacco cessation)  
 Chinese Books  
-Women Evening Gowns (Donated from local business. Adult sizes only.)  
+Women Evening Gowns (donated by local business. adult sizes only.)  
 
 *While supplies last*
 
@@ -189,7 +190,7 @@ Women Evening Gowns (Donated from local business. Adult sizes only.)
 [PacificSource Health Plan](https://www.pacificsource.com/)  
 [Pioneer Courthouse Square](https://www.thesquarepdx.org/)  
 
-### Official Festival T-Shirt
+## Official Festival T-Shirt
 
 {% include feature_row id="feature_row2"%}
 
