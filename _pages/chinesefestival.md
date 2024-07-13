@@ -164,8 +164,15 @@ Place orders to buy your own hanfu
 | Service | Partner |
 | Cancer screenings, clinical trials and other related services| [Knight Cancer Institute, OHSU](https://www.ohsu.edu/knight-cancer-institute) |
 | [Environmental Health Services Fish Safety](https://www.multco.us/health/staying-healthy/eating-fish-river) | Multnomah County Health Department |
-| [No Smoking No Vaping Pledge Campaign](https://docs.google.com/forms/d/e/1FAIpQLSeXi9pIxzAE7655rQRaq849D0swRK_nWTkQnPOKDZjSnbdrQA/viewform) | [Oregon Chinese Coalition](https://pdxchinese.org/healthinitiative/) |
-| Mental Health Education and Programs| [OCC Mental Health Peer Support Group](https://pdxchinese.org/healthinitiative/) |
+| [No Smoking No Vaping Pledge Campaign](https://docs.google.com/forms/d/e/1FAIpQLSeXi9pIxzAE7655rQRaq849D0swRK_nWTkQnPOKDZjSnbdrQA/viewform) and Nicotine Gum Giveaway | [Oregon Chinese Coalition](https://pdxchinese.org/healthinitiative/) |
+| HPV Vaccination Education and Survey | [Oregon Chinese Coalition](https://pdxchinese.org/healthinitiative/) |
+
+## Giveaways
+
+Chinese Books  
+Women Evening Gowns (Donated from local business. Adult sizes only.)  
+
+*While supplies last*
 
 ## Community Partner Tabling
 
