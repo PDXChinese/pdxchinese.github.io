@@ -51,17 +51,14 @@ Order your T-Shirt here: [Order Link](https://forms.gle/jdHbdgWTonS7j4HeA)
 
 ## Masters of Ceremony
 
-Section I
+Section I  
+{% include feature_row id="feature_row1a"%}  
 
-{% include feature_row id="feature_row1a"%}
+Section II  
+{% include feature_row id="feature_row1b"%}  
 
-Section II
-
-{% include feature_row id="feature_row1b"%}
-
-Section III
-
-{% include feature_row id="feature_row1c"%}
+Section III  
+{% include feature_row id="feature_row1c"%}  
 
 ## Stage Performances  
 
@@ -126,7 +123,7 @@ Section III
 |  | Dance: 梨花颂 | Huanyue Group 欢悦组合 |
 |  | Martial Arts 集体武术表演 | [US Wushu Center](https://uswushu.com/)/[OHCS Wushu Team](http://www.oregon-hope.org) |
 
-*Schedule is subject to change*
+*About 530 performers on stage. Schedule is subject to change*  
 
 ## Food Vendor Lineup
 
