@@ -8,17 +8,19 @@ feature_row0:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/mult_county_nf2iqzgmnapl3uxgfock
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/PacificSource2
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pcs-logo_vgzamhsfosh7txg6tcar
-feature_row1:
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/2024mc1s
-    title: "Allison Hu"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/2024mc2s
-    title: "Audrey Hu"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/2024mc3s
-    title: "Emily Jiang"
+feature_row1a:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/2024mc4s
     title: "Meilan Xu"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/2024mc5s
     title: "Lucas Zhang"
+feature_row1b:
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/2024mc3s
+    title: "Emily Jiang"
+feature_row1c:
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/2024mc1s
+    title: "Allison Hu"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/2024mc2s
+    title: "Audrey Hu"
 feature_row2:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/2024_t-shirt_front
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/2024_t-shirt_back
@@ -49,7 +51,17 @@ Order your T-Shirt here: [Order Link](https://forms.gle/jdHbdgWTonS7j4HeA)
 
 ## Masters of Ceremony
 
-{% include feature_row id="feature_row1"%}
+Section I
+
+{% include feature_row id="feature_row1a"%}
+
+Section II
+
+{% include feature_row id="feature_row1b"%}
+
+Section III
+
+{% include feature_row id="feature_row1c"%}
 
 ## Stage Performances  
 
@@ -166,6 +178,7 @@ Place orders to buy your own hanfu
 | [Environmental Health Services Fish Safety](https://www.multco.us/health/staying-healthy/eating-fish-river) | Multnomah County Health Department |
 | [No Smoking No Vaping Pledge Campaign](https://docs.google.com/forms/d/e/1FAIpQLSeXi9pIxzAE7655rQRaq849D0swRK_nWTkQnPOKDZjSnbdrQA/viewform) and Nicotine Gum Giveaway | [Oregon Chinese Coalition](https://pdxchinese.org/healthinitiative/) |
 | HPV Vaccination Education and Survey | [Oregon Chinese Coalition](https://pdxchinese.org/healthinitiative/) |
+| Air Conditioner Distribution and Installation for Seniors and High-Risk Populations | [Oregon Chinese Coalition](https://pdxchinese.org/healthinitiative/) |
 
 ## Giveaways
 
