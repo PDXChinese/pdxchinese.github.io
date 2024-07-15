@@ -134,7 +134,6 @@ Section III
 | [Red Robe Tea House & Cafe 大红袍](https://www.redrobeteahouse.com/) | Sichuan Noodle, Chicken Wings, Spring Rolls, Bubble Tea, Tea |
 | [Home Tastes 家乡味](https://www.hometaste.org/) | Braised Pork Rice 卤肉饭，Spam Musubi, Spinrg Rolls |
 | LoLo S San Xiang 十三乡 | Pot Stickers, Jian Bao, Lam Skewers, Buba Tea |
-| [Warsugai](https://www.warsugai.com/) | Rice with Pork, Chicken, Shrimp, and Tofu at your choice  |
 
 ## Kids Friendly Hands-on Craft Activities  
 
