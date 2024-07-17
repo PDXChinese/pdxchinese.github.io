@@ -166,9 +166,9 @@ Culture Specific Gifts & Clothing
 
 Observe makeup, hairstyling, and hanfu dressing  
 Place orders to buy your own hanfu  
-Showcase the beauty of hanfu: [7/7/2024](https://youtu.be/R3EwAN2hVAA), [7/14/2024](https://youtu.be/vdbt8NTPiXM)  
+Showcase the beauty of hanfu: [past event 1 ](https://youtu.be/R3EwAN2hVAA), [past event 2](https://youtu.be/vdbt8NTPiXM)  
 
-Hanfu Models Wanted for Chinese Festival: [Sign-Up](https://docs.google.com/forms/d/e/1FAIpQLScNIqSmssHqhImF418NzsPW9pkB6LgZCFcqTLncuInSuZ38CA/viewform)  
+Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/forms/d/e/1FAIpQLScNIqSmssHqhImF418NzsPW9pkB6LgZCFcqTLncuInSuZ38CA/viewform)  
 
 ## Public Health Outreach and Education
 
