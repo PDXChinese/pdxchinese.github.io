@@ -13,7 +13,7 @@ date: "2024-07-04"
 
 最后，文化节现场我们会继续免费分发晚礼服，先到先得。更多内容请浏览[文化节网页](https://pdxchinese.org/chinesefestival/)。
 
-The Chinese Festival is now in its 5th year! With support from the community, the festival has become a cultural extravaganza. Along with other programs such as Culture Day in May, the promotion of Chinese American culture lasts the entire year. The impact of these efforts has reached every corner of the greater community.
+The [Chinese Festival](https://pdxchinese.org/chinesefestival/) is now in its 5th year! With support from the community, the festival has become a cultural extravaganza. Along with other programs such as Culture Day in May, the promotion of Chinese American culture lasts the entire year. The impact of these efforts has reached every corner of the greater community.
 
 The flyer is designed by Fiona Wang from Sunset High School.
 
