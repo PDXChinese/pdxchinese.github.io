@@ -13,6 +13,8 @@ Dressing in Hanfu at Lan Su Chinese Garden continued into its second Sunday. Thi
 
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/vdbt8NTPiXM" title="Melinda Lin Dressed in Hanfu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<br/>
+
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/451431887_470164515648636_2463027464513420551_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/450845491_470164552315299_7784777440617291473_n)
