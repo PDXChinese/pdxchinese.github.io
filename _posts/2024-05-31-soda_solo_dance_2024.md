@@ -2,10 +2,10 @@
 title: "独舞《敦煌之梦》惊艳观众"
 author: XiBei Zhao
 excerpt: "周五，在Twality中学举办的多元文化节上，来自 SODA 中国舞蹈学院的独舞《敦煌之梦》惊艳了观众。看到社区活动中的新星崭露头角，真是令人欣喜。"
-date: "2024-06-04"
+date: "2024-05-31"
 ---
 
-上周五，在Twality中学举办的多元文化节上，来自 [SODA中国舞蹈学院](https://www.sodadance.com/)的独舞《敦煌之梦》惊艳了观众。看到社区活动中的新星崭露头角，真是令人欣喜。
+周五，在Twality中学举办的多元文化节上，来自 [SODA中国舞蹈学院](https://www.sodadance.com/)的独舞《敦煌之梦》惊艳了观众。看到社区活动中的新星崭露头角，真是令人欣喜。
 
 The solo dance "A Dream of Dunhuang" from [Soda Chinese Dance Academy](https://www.sodadance.com/) wowed the audience at the Multicultural Festival, Twality Middle School last Friday. It's wonderful to see a rising star in the community event.
 
