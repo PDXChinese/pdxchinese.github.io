@@ -11,9 +11,9 @@ Instead of cooking for their own fathers, another group of youth volunteers spen
 
 These are just a few examples of our community youth serving in various capacities. We couldn't be more proud to see them actively engaging in the community from day one of their summer vacation.
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448265833_453772810621140_138383398004994222_n 1)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448265833_453772810621140_138383398004994222_n_1)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448323675_453773067287781_5177536988439477877_n 1)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448323675_453773067287781_5177536988439477877_n_1)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448536959_453773097287778_113939514269420658_n)
 
@@ -21,19 +21,19 @@ These are just a few examples of our community youth serving in various capaciti
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448702848_453773003954454_5361570994471609363_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448353677_453773093954445_5678585388837045247_n 1)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448353677_453773093954445_5678585388837045247_n_1)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448381467_453772830621138_5068840405916005022_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448733514_453772890621132_4710279090728988740_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448352651_453772910621130_4992159883835048887_n 1)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448352651_453772910621130_4992159883835048887_n_1)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448350935_453772917287796_4799024846702465880_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448379169_453772970621124_3156667970029931244_n 1)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448379169_453772970621124_3156667970029931244_n_1)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448351150_453773020621119_348295574807591748_n 1)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448351150_453773020621119_348295574807591748_n_1)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448674399_453773013954453_4017351438420095992_n)
 
