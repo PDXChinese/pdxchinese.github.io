@@ -19,10 +19,10 @@ Three high school girls volunteered at the weekly Chinese Conversation Table at 
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448559438_453762600622161_8391903170604033402_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448276762_453762613955493_3934633079287649907_n (1))
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448276762_453762613955493_3934633079287649907_n 1)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448488965_453762667288821_7518555747161370615_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448276499_453762697288818_6786815646877429535_n (1))
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448276499_453762697288818_6786815646877429535_n 1)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448538166_453762703955484_7491116934508329972_n (1))
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448538166_453762703955484_7491116934508329972_n 1)

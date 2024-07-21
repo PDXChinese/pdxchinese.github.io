@@ -11,9 +11,9 @@ We celebrated Father's Day by distributing and installing AC units in a senior a
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448353948_453757793955975_7954973872141890593_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448576241_453757430622678_7099149629943392700_n (1))
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448576241_453757430622678_7099149629943392700_n 1)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448671800_453757863955968_2510298856726253621_n (1))
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448671800_453757863955968_2510298856726253621_n 1)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448573210_453757603955994_6561344125657711399_n)
 
@@ -39,4 +39,4 @@ We celebrated Father's Day by distributing and installing AC units in a senior a
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448379544_453757920622629_2165174898748429096_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448669345_453757947289293_2011564816458875788_n (1))
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/448669345_453757947289293_2011564816458875788_n 1)
