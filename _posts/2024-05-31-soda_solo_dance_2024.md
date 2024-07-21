@@ -166,3 +166,7 @@ The solo dance "A Dream of Dunhuang" from [Soda Chinese Dance Academy](https://w
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/447698058_446532428011845_5750744706470724385_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/447697652_446534714678283_6939246728365836326_n)
+
+木兰鼓队的表演非常精彩，和独舞在同一舞台上，静动结合，为在场的学生和家长们带来了一场淋漓尽致的文化体验。
+
+<iframe width="2135" height="1200" src="https://www.youtube.com/embed/zl4Ux1KOolA" title="Mulan Drum Team Performing at the Multicultural Festival, Twality Middle School" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
