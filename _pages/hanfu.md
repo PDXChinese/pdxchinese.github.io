@@ -13,8 +13,6 @@ The Phoenix Hanfu Team was established earlier this year (2023) by a group of lo
 
 To have us perform in your events, please [contact us](http://pdxchinese.org/contact/).
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/hanfuflyer)
-
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/CYjhWRfxQbM" title="Dreams of Chang&#39;an by Phoenix Hanfu Team" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 
@@ -47,3 +45,33 @@ To have us perform in your events, please [contact us](http://pdxchinese.org/con
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/346042231_1189326268533678_510651768152846265_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345667488_132819856452532_1355621964977690185_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/441493738_438980625433692_2952538829350217743_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/444839394_438980655433689_1188366678073475561_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/442489726_438980782100343_4022554040996863202_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/442497914_438980902100331_246413639207651102_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/442494953_438980668767021_241876904873516855_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/442504750_438981105433644_4236250101395819285_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/444976190_438980935433661_1005346510181009622_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/442385918_438980868767001_8961931847710473042_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/441455259_438980838767004_3509485189704126526_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/442416949_438980992100322_2577014801638936261_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/441461020_438981198766968_8050647784598105101_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/442478028_438980955433659_5001380818234145674_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/442441291_438980725433682_6284392742640211741_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/442470354_438981228766965_8985668482065354535_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/443697191_438985362099885_5509579722255734928_n)
