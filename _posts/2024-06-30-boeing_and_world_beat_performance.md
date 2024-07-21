@@ -11,6 +11,8 @@ date: "2024-06-30"
 
 OCC团队在各种社区活动中积极参与，致力于文化传播和交流。通过这些活动，我们不仅展示了中华文化的丰富多彩，也加强了与社区的联系，扩大了文化影响力。我们期待在下半年继续参与更多的社区活动，与更多的观众分享我们的文化和热情。
 
+Last weekend, we were invited to perform at Boeing's 50th Anniversary Celebration in Gresham and the World Beat Festival in Salem. To date, various OCC teams have attended 45 community events, reaching an audience of 20,000 in the first half of this year.
+
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/449787055_464350639563357_4115815090815320869_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/449958535_464350706230017_1509763480643837728_n)
