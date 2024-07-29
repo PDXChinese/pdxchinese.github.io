@@ -193,8 +193,8 @@ Women Evening Gowns (donated by local business. adult sizes only.)
 
 [Energy Trust](https://www.energytrust.org/)  
 [Lan Su Chinese Garden](https://lansugarden.org/)  
-[Multnomah County Library](https://multcolib.org/)  
 [Portland Police Bureau](https://www.portland.gov/police)  
+[Trimet](https://trimet.org/home/)  
 
 ## Festival Sponsors
 
@@ -202,6 +202,7 @@ Women Evening Gowns (donated by local business. adult sizes only.)
 [Portland General Electric, PGE](https://portlandgeneral.com/)  
 [Multnomah County Public Health](https://www.multco.us/health)  
 [Energy Trust](https://www.energytrust.org/)  
+[Trimet](https://trimet.org/home/)  
 [PacificSource Health Plan](https://www.pacificsource.com/)  
 [Pioneer Courthouse Square](https://www.thesquarepdx.org/)  
 
