@@ -70,60 +70,65 @@ Section III
 |  | Welcome Speech | MC |
 |  | Opening High Pole Lion Dance | [White Lotus Dragon &Lion Dance](https://www.whitelotusliondance.com/) |
 |  | Group Dance: 敦煌舞 | 温哥华苿莉花舞队 Vancouver Jasmine Dance Troupe |
-|  | Chinese Yoyo Performence 花好月圆 | [Dragonfly Chinese Yoyo Team](https://pdxchinese.org/yoyo/) |
-|  | Dance: Love Novel 卜卦 | YZ Dance Studio 悦姿舞蹈工作室 |
 |  | Folk Song: 月牙湾 | Tingting Hou |
-|  | Group Dance: 雨涧春行图 | [Jade Dance Team](https://pdxchinese.org/youthdance/) |
+|  | Dance: Love Novel 卜卦 | YZ Dance Studio 悦姿舞蹈工作室 |
 |  | Violin Solo: Butterfly Lovers 梁祝 | Erin Qiu |
-|  | Group Mongolian Dance: 乌兰巴托的夜 | Salem Golden Willow Chinese Dance Team |
-|  | Dance and Singing: 城市之光 | Huanyue Group 欢悦组合 |
-|  | Group Dance: 碇步桥 | 温哥华苿莉花舞队 Vancouver Jasmine Dance Troupe |
+|  | Group Dance: 格桑拉 | Salem Golden Willow Chinese Dance Team |
+|  | Group Dance: 雨涧春行图 | [Jade Dance Team](https://pdxchinese.org/youthdance/) |
+|  | Classical Dance: 桃花诺 | Laura & Junchao |
+|  | Chinese Yoyo Performance | [Dragonfly Chinese Yoyo Team](https://pdxchinese.org/yoyo/) |
 |  | Group Dance: 日不落 | Portland Karaoke Group 波特兰K歌组 |
-|  | Group Fan Dance: 大鱼 | [Jade Dance Team](https://pdxchinese.org/youthdance/) |
-|  | Guzhen: 茉莉花 + 荷塘月色 | Lulu Guzheng Studio |
 |  | Group Dance: Sun Rise 日出 | 温哥华苿莉花舞队 Vancouver Jasmine Dance Troupe |
-|  | Taiji：Yang Style 14 Forms | Taiji Group |
-|  | Children Group Dance: Elsa | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
+|  | Guzhen: 茉莉花 + 荷塘月色 | Lulu Guzheng Studio |
+|  | Group Mongolian Dance: 乌兰巴托的夜 | Salem Golden Willow Chinese Dance Team |
 |  | Group Folk Dance: Fearless 霍元甲 | [East Dream Dance Troupe 东方舞艺术团](http://www.eastdreamdance.org/index.html) |
-|  | Group Dance: Rhyme of Melody 旋律之歌 | YZ Dance Studio 悦姿舞蹈工作室 |
+|  | Dance and Singing: 城市之光 | Huanyue Group 欢悦组合 |
+|  | Group Fan Dance: 大鱼 | [Jade Dance Team](https://pdxchinese.org/youthdance/) |
+|  | Taiji：Yang Style 14 Forms | Taiji Group |
+|  | Group Dance: 碇步桥 | 温哥华苿莉花舞队 Vancouver Jasmine Dance Troupe |
+|  | Children Group Dance: Elsa | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
 | Section II | 1:00pm-3:15pm | |
 |  | Group Chinese Drumming: Opening Drum & 喜龙春 | [Hua Mu Lan Drum Team 花木兰大鼓队](https://pdxchinese.org/mulandrum/) |
 |  | Group Dance: Magnificent Yangzhou 风流扬州 | [East Dream Dance Troupe 东方舞艺术团](http://www.eastdreamdance.org/index.html) |
+|  | Group Dance: Once a Fairy Tale 枕边童话 | YZ Dance Studio 悦姿舞蹈工作室 |
 |  | Woman's Vocal Solo: 芦花  | Chunxiang Singing Group 李春香歌唱班 |
 |  | Chinese Folk Dance | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
-|  | Guzhen: 青城山下白素贞 + 渡情 | Lulu Guzheng Studio |
-|  | Group Dance: Dunhuang Apsaras 飞天 | Portland Chinese Dance Troupe |
-|  | Instrument & Singing & Group Dance: Speak Now + I can't help falling in love with you | [Good Time Chinese School](https://www.goodtimechineseschool.org/) |
-|  | Children Group Dance: The Legend of Mrs Bai + Jasmine | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
-|  | Group Dance: 格桑拉 | Salem Golden Willow Chinese Dance Team |
-|  | Women's Vocal Duets: 夏天里最后一朵玫瑰  | Chunxiang Singing Group 李春香歌唱班 |
+|  | Guzheng: 青城山下白素贞 + 渡情 | Lulu Guzheng Studio |
 |  | Group Dance: Folk Dance of Jasmine 西域公主 | YZ Dance Studio 悦姿舞蹈工作室 |
-|  | Chinese Rose Princesses | Chinese Youth and Women Organization |
-|  | Classical Dance: 纸扇书生 | Laura & Junchao |
-|  | Rhythmic Gymnastics & Dance: Coppelia | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
-|  | Medley of Folk Song from Prairies 草原民歌集曲 + Les Miserables Medley  | [Pacific Violin Academy](https://pacificviolinacademy.com/) |
-|  | Group Dance: Once a Fairy Tale 枕边童话 | YZ Dance Studio 悦姿舞蹈工作室 |
-|  | Guzhen: 虫儿飞 | Lulu Guzheng Studio |
+|  | Sichuan Opera Face Changing | Nelson Tang |
 |  | Children Group Folk Dance | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
+|  | Martial Arts 集体武术表演 | [US Wushu Center](https://uswushu.com/)/[OHCS Wushu Team](http://www.oregon-hope.org) |
+|  | Women's Vocal Duets: 夏天里最后一朵玫瑰  | Chunxiang Singing Group 李春香歌唱班 |
+|  | Rhythmic Dance: Cupid | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
+|  | Rhythmic Dance: Logical | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
+|  | Chinese Rose Princesses | Chinese Youth and Women Organization |
+|  | Group Dance: Dunhuang Apsaras 飞天 | Portland Chinese Dance Troupe |
+|  | Medley of Folk Song from Prairies 草原民歌集曲 + Les Miserables Medley  | [Pacific Violin Academy](https://pacificviolinacademy.com/) |
+|  | Children Group Dance: The Legend of Mrs Bai + Jasmine | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
+|  | Guzheng: 卜卦, Drumming | Lulu Guzheng Studio |
 |  | Group Dance: Confucius 孔子 | Portland Chinese Dance Troupe |
-|  | Dance: Logical | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
-|  | Ribbon Dance | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
+|  | Group Dance: Rhyme of Melody 旋律之韵 | YZ Dance Studio 悦姿舞蹈工作室 |
 | Section III | 3:30pm-6:00pm | |
 |  | Group Chinese Drumming: Opening Drum & 权御天下 | [Hua Mu Lan Drum Team 花木兰大鼓队](https://pdxchinese.org/mulandrum/) |
+|  | Rhythmic Gymnastics & Dance: Rhythmic Clubs Routines | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
+|  | Ribbon Dance | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
+|  | Guzhen: 虫儿飞 | Lulu Guzheng Studio |
 |  | Group Dance: Fragrance of Flowers 花语 | YZ Dance Studio 悦姿舞蹈工作室 |
-|  | Jazz Saxphone Duet | Brayden and Devon (PDX Jazz Cats) |
-|  | Rhythmic Dance: Cupid | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
-|  | Rhythmic Gymnastics: Rhyrthmic Hits | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
-|  | Taiji：Wu Style 108 Forms | 微鸣 |
-|  | Classical Dance: 雨中花 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-|  | Guzheng: 云水禅心 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-|  | Hanfu Show | [Phoenix Hanfu Team](https://pdxchinese.org/hanfu/) |
 |  | Violin & Cello Duets: Butterfly Lovers 梁山伯与祝英台 | Musication 乐育 |
 |  | Group Tibetan Dance: 次仁拉索 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-|  | Therapeutic Taiji | Sunset Taiji & Health Center 夕阳红太极与健康文化中心 |
-|  | Guzhen: 卜卦 + 大鼓 | Lulu Guzheng Studio |
+|  | Instrument & Singing & Group Dance: Speak Now + I can't help falling in love with you | [Good Time Chinese School](https://www.goodtimechineseschool.org/) |
+|  | Chinese Yoyo Performance | [AB YoYo Ensemble, Dragonfly Chinese Yoyo Team](https://pdxchinese.org/yoyo/) |
+|  | Guzheng: 云水禅心 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 |  | Dance: 梨花颂 | Huanyue Group 欢悦组合 |
-|  | Martial Arts 集体武术表演 | [US Wushu Center](https://uswushu.com/)/[OHCS Wushu Team](http://www.oregon-hope.org) |
+|  | Duet: Bejeweled, Love Story | [Good Time Chinese School](https://www.goodtimechineseschool.org/) |
+|  | Classical Dance: 雨中花 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+|  | Violin: Canzonetta | [Good Time Chinese School](https://www.goodtimechineseschool.org/) |
+|  | Street Dance | Wynn Young |
+|  | Jazz Saxphone Duet | Brayden and Devon (PDX Jazz Cats) |
+|  | Dance: Can't Help Falling in Love | [Good Time Chinese School](https://www.goodtimechineseschool.org/) |
+|  | Taiji：Wu Style 108 Forms | 微鸣 |
+|  | Therapeutic Taiji | Sunset Taiji & Health Center 夕阳红太极与健康文化中心 |
+|  | Hanfu Show | [Phoenix Hanfu Team](https://pdxchinese.org/hanfu/) |
 
 *About 530 performers on stage. Schedule is subject to change*  
 
