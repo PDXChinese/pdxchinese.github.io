@@ -26,7 +26,6 @@ feature_row2:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/2024_t-shirt_front
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/2024_t-shirt_back
 ---
-
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/festival_2024)
 Designed by Fiona Wang, recent graduate of Sunset High School.
 
@@ -200,8 +199,8 @@ Women Evening Gowns (donated by local business. adult sizes only.)
 
 [NW Natural](https://www.nwnatural.com/)  
 [Portland General Electric, PGE](https://portlandgeneral.com/)  
-[Multnomah County Public Health](https://www.multco.us/health)  
 [Energy Trust](https://www.energytrust.org/)  
+[Multnomah County Public Health](https://www.multco.us/health)  
 [Trimet](https://trimet.org/home/)  
 [PacificSource Health Plan](https://www.pacificsource.com/)  
 [Pioneer Courthouse Square](https://www.thesquarepdx.org/)  
