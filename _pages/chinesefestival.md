@@ -134,13 +134,13 @@ Section III
 
 ## Food Vendor Lineup
 
-| Name | Category |
-| [Mandarin House 京华楼](https://www.mandarinhouse97204.com/) | Barbecued Pork Buns, Steamed Dumplings, Spring Rolls |
-| [Wheat Bay Chinese Restaurant 成都名小吃](https://www.wheatbayportland.com/) | Beef Pancake, Carlic Cucumber Salad, Special Chili Potatoes, Steamed BBQ Pork Bun |
-| Little Beijing 北京小馆 | JianBing 煎饼果子，BingFen 冰粉，Cold Noodle |
-| [Red Robe Tea House & Cafe 大红袍](https://www.redrobeteahouse.com/) | Sichuan Noodle, Chicken Wings, Spring Rolls, Bubble Tea, Tea |
-| [Home Tastes 家乡味](https://www.hometaste.org/) | Braised Pork Rice 卤肉饭，Spam Musubi, Spinrg Rolls |
-| LoLo S San Xiang 十三乡 | Pot Stickers, Jian Bao, Lam Skewers, Buba Tea |
+| Booth | Name | Category |
+| 6-7 | [Mandarin House 京华楼](https://www.mandarinhouse97204.com/) | Barbecued Pork Buns, Steamed Dumplings, Spring Rolls |
+| 4 | [Wheat Bay Chinese Restaurant 成都名小吃](https://www.wheatbayportland.com/) | Beef Pancake, Carlic Cucumber Salad, Special Chili Potatoes, Steamed BBQ Pork Bun |
+| 5 | Little Beijing 北京小馆 | JianBing 煎饼果子，BingFen 冰粉，Cold Noodle |
+| 6 | [Red Robe Tea House & Cafe 大红袍](https://www.redrobeteahouse.com/) | Sichuan Noodle, Chicken Wings, Spring Rolls, Bubble Tea, Tea |
+| 2 | [Home Tastes 家乡味](https://www.hometaste.org/) | Braised Pork Rice 卤肉饭，Spam Musubi, Spinrg Rolls |
+| 3 | LoLo S San Xiang 十三乡 | Pot Stickers, Jian Bao, Lam Skewers, Buba Tea |
 
 ## Kids Friendly Hands-on Craft Activities  
 
