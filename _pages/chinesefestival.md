@@ -101,7 +101,7 @@ Section III
 |  | Women's Vocal Duets: 夏天里最后一朵玫瑰  | Chunxiang Singing Group 李春香歌唱班 |
 |  | Rhythmic Dance: Cupid | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
 |  | Rhythmic Dance: Logical | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
-|  | Chinese Rose Princesses | Chinese Youth and Women Organization |
+|  | Chinese Rose Princesses | [Chinese Youth and Women Organization](https://yeswedoit.org/) |
 |  | Group Dance: Dunhuang Apsaras 飞天 | Portland Chinese Dance Troupe |
 |  | Medley of Folk Song from Prairies 草原民歌集曲 + Les Miserables Medley  | [Pacific Violin Academy](https://pacificviolinacademy.com/) |
 |  | Children Group Dance: The Legend of Mrs Bai + Jasmine | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
@@ -163,7 +163,10 @@ Section III
 
 ## Gifts Vendor Lineup
 
-Culture Specific Gifts & Clothing  
+[Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/)  
+[Chinese Youth and Women Organization](https://yeswedoit.org/)  
+Meishi Art Studio  
+
 (between the stage and crafts tables)  
 
 ## Hanfu (Traditional Chinese Clothing) Booth
