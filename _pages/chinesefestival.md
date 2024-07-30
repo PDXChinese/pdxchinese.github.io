@@ -158,14 +158,13 @@ Section III
 | [Tangram/七巧板](https://youtu.be/3S_JidggG6g) | 3 |
 | [Paper Cutting/剪纸](https://youtu.be/xB7GbPBNxPE) | 4 |
 | [Origami/折纸](https://youtu.be/cZdO2e8K29o) | 4 |  
-| DIY Painting/Drawing on Fans/手工绘扇子 | 5 |
-| DIY Bookmarks/漆画书签 | 6 |
-
-| | Costume Photo Booth/古装拍照 | 6 |
+| [DIY Painting/Drawing on Fans/手工绘扇子](https://www.youtube.com/shorts/Ewr7OicZLuc?feature=share) | 5 |
+| [DIY Bookmarks/漆画书签](https://www.youtube.com/shorts/VE-X2QW30-s?feature=share) | 6 |
 
 ## Gifts Vendor Lineup
 
-Culture Specific Gifts & Clothing
+Culture Specific Gifts & Clothing  
+(between the stage and crafts tables)  
 
 ## Hanfu (Traditional Chinese Clothing) Booth
 
