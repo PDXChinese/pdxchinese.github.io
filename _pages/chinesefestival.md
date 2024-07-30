@@ -144,25 +144,24 @@ Section III
 
 ## Kids Friendly Hands-on Craft Activities  
 
-| Category | Activity | Table |
-| --- | --- | ---: |
-| Physical | [Diabolo/抖空竹](https://youtu.be/KBqa5QA461Y) | Floor |
-| | [Shuttlecock Kicking/踢毽子](https://youtu.be/fOn0DhvInSk) | Floor |
-| | [Turn Handkerchief/转手帕](https://youtu.be/qaxhg49elNg) | Floor |
-| | [Taiji/太极](https://youtu.be/Meq5j26QPWc) | Floor |
-| Brain Teaser | [China Ring/九连环](https://youtu.be/Twtzc7A9cN8) | 1 |
-| | [Burr Puzzle/鲁班锁](https://youtu.be/ueV1c9RHC4w?t=74) | 1 |
-| | [Klotski/华容道](https://youtu.be/VX5Jon2YdXQ) | 1 |
-| | [Tangram/七巧板](https://youtu.be/3S_JidggG6g) | 1 |
-| Cultural | [Chinese Calligraphy/毛笔字](https://youtu.be/w9zjsTDHCdM) | 2 |
-| | [Ink Painting/水墨画](https://youtu.be/aw4kEVDSx9A) | 2 |
-| | [Paper Cutting/剪纸](https://youtu.be/xB7GbPBNxPE) | 3 |
-| | [Origami/折纸](https://youtu.be/cZdO2e8K29o) | 3 |  
-| | DIY Lanterns and Fans/手工制作灯笼和扇子 | 4 |
-| | Chinese Intangible Cultural Heritage/传统文化体验 | 5 |
+| Activity | Table |
+| --- | ---: |
+| [Diabolo/抖空竹](https://youtu.be/KBqa5QA461Y) | Floor |
+| [Shuttlecock Kicking/踢毽子](https://youtu.be/fOn0DhvInSk) | Floor |
+| [Turn Handkerchief/转手帕](https://youtu.be/qaxhg49elNg) | Floor |
+| [Taiji/太极](https://youtu.be/Meq5j26QPWc) | Floor |
+| [Chinese Calligraphy/毛笔字](https://youtu.be/w9zjsTDHCdM) | 1, 2 |
+| [Ink Painting/水墨画](https://youtu.be/aw4kEVDSx9A) | 1 |
+| [China Ring/九连环](https://youtu.be/Twtzc7A9cN8) | 3 |
+| [Burr Puzzle/鲁班锁](https://youtu.be/ueV1c9RHC4w?t=74) | 3 |
+| [Klotski/华容道](https://youtu.be/VX5Jon2YdXQ) | 3 |
+| [Tangram/七巧板](https://youtu.be/3S_JidggG6g) | 3 |
+| [Paper Cutting/剪纸](https://youtu.be/xB7GbPBNxPE) | 4 |
+| [Origami/折纸](https://youtu.be/cZdO2e8K29o) | 4 |  
+| DIY Painting/Drawing on Fans/手工绘扇子 | 5 |
+| DIY Bookmarks/漆画书签 | 6 |
+
 | | Costume Photo Booth/古装拍照 | 6 |
-| DIY | DIY Red Lanterns/制作灯笼 | freestanding tent |
-| | DIY Fan with Painting/制作扇子 | freestanding tent |
 
 ## Gifts Vendor Lineup
 
@@ -171,7 +170,8 @@ Culture Specific Gifts & Clothing
 ## Hanfu (Traditional Chinese Clothing) Booth
 
 Observe makeup, hairstyling, and hanfu dressing  
-Place orders to buy your own hanfu  
+Information for placing orders to buy your own hanfu  
+Costume Photo Booth/古装拍照  
 Showcase the beauty of hanfu: [past event 1 ](https://youtu.be/R3EwAN2hVAA), [past event 2](https://youtu.be/vdbt8NTPiXM)  
 
 Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/forms/d/e/1FAIpQLScNIqSmssHqhImF418NzsPW9pkB6LgZCFcqTLncuInSuZ38CA/viewform)  
@@ -195,8 +195,10 @@ Women Evening Gowns (donated by local business. adult sizes only.)
 
 ## Community Partner Tabling
 
+[Crime Victim and Survivor Services Division](https://www.doj.state.or.us/oregon-department-of-justice/civil-rights/bias-and-hate/), Oregon Department of Justice  
 [Energy Trust](https://www.energytrust.org/)  
 [Lan Su Chinese Garden](https://lansugarden.org/)  
+[Multnomah County Library](https://multcolib.org/file/1571)
 [Portland Police Bureau](https://www.portland.gov/police)  
 [Trimet](https://trimet.org/home/)  
 
