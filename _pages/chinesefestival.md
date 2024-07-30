@@ -135,12 +135,12 @@ Section III
 ## Food Vendor Lineup
 
 | Booth | Name | Category |
-| 6-7 | [Mandarin House 京华楼](https://www.mandarinhouse97204.com/) | Barbecued Pork Buns, Steamed Dumplings, Spring Rolls |
+| 1 | [Mandarin House 京华楼](https://www.mandarinhouse97204.com/) | Barbecued Pork Buns, Steamed Dumplings, Spring Rolls |
+| 2 | [Home Tastes 家乡味](https://www.hometaste.org/) | Braised Pork Rice 卤肉饭，Spam Musubi, Spinrg Rolls |
+| 3 | LoLo S San Xiang 十三乡 | Pot Stickers, Jian Bao, Lam Skewers, Buba Tea |
 | 4 | [Wheat Bay Chinese Restaurant 成都名小吃](https://www.wheatbayportland.com/) | Beef Pancake, Carlic Cucumber Salad, Special Chili Potatoes, Steamed BBQ Pork Bun |
 | 5 | Little Beijing 北京小馆 | JianBing 煎饼果子，BingFen 冰粉，Cold Noodle |
 | 6 | [Red Robe Tea House & Cafe 大红袍](https://www.redrobeteahouse.com/) | Sichuan Noodle, Chicken Wings, Spring Rolls, Bubble Tea, Tea |
-| 2 | [Home Tastes 家乡味](https://www.hometaste.org/) | Braised Pork Rice 卤肉饭，Spam Musubi, Spinrg Rolls |
-| 3 | LoLo S San Xiang 十三乡 | Pot Stickers, Jian Bao, Lam Skewers, Buba Tea |
 
 ## Kids Friendly Hands-on Craft Activities  
 
@@ -194,10 +194,10 @@ Women Evening Gowns (donated by local business. adult sizes only.)
 
 ## Community Partner Tabling
 
-[Crime Victim and Survivor Services Division](https://www.doj.state.or.us/oregon-department-of-justice/civil-rights/bias-and-hate/), Oregon Department of Justice  
 [Energy Trust](https://www.energytrust.org/)  
 [Lan Su Chinese Garden](https://lansugarden.org/)  
-[Multnomah County Library](https://multcolib.org/file/1571)
+[Multnomah County Library](https://multcolib.org/file/1571)  
+[Oregon Department of Justice, Civil Rights Unit](https://www.doj.state.or.us/oregon-department-of-justice/civil-rights/civil-rights/)  
 [Portland Police Bureau](https://www.portland.gov/police)  
 [Trimet](https://trimet.org/home/)  
 
