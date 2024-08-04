@@ -27,7 +27,7 @@ feature_row2:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/2024_t-shirt_back
 ---
 
-# See you today at Pioneer Courthouse Square!
+# Thank you, Portland!
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/festival_2024)
 Designed by Fiona Wang, recent graduate of Sunset High School.
