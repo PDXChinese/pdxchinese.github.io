@@ -202,7 +202,6 @@ Women Evening Gowns (donated by local business. adult sizes only.)
 
 [Energy Trust](https://www.energytrust.org/)  
 [Lan Su Chinese Garden](https://lansugarden.org/)  
-[Oregon Department of Justice, Civil Rights Unit](https://www.doj.state.or.us/oregon-department-of-justice/civil-rights/civil-rights/)  
 [Portland Police Bureau](https://www.portland.gov/police)  
 [Trimet](https://trimet.org/home/)  
 
