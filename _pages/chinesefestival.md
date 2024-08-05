@@ -27,7 +27,7 @@ feature_row2:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/2024_t-shirt_back
 ---
 
-# Thank you, Portland!
+# See you next year on August 2!
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/festival_2024)
 Designed by Fiona Wang, recent graduate of Sunset High School.
@@ -221,6 +221,7 @@ Women Evening Gowns (donated by local business. adult sizes only.)
 
 ## Chinese Festivals in the Past
 
+2024: Pre-event Coverages: [Willamette Week](https://www.wweek.com/arts/more/2024/07/31/oregon-chinese-festival-returns-to-pioneer-square-for-fifth-year/), [KGW](https://www.kgw.com/article/entertainment/culture/oregon-chinese-festival-pioneer-square-august-3/283-255d3bac-9d28-43eb-a705-8ef33dc0d31f), Interviews: [KOIN 6](https://www.koin.com/video/oregon-chinese-festival-fills-pioneer-courthouse-square/9923267/), [KPTV Fox 12](https://youtu.be/_342S5j0RKk)  
 2023: [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2023/), [KGW Interview](https://youtu.be/qZ4Hj_i3flc?t=189), Performances ([By OCC Youth Lens](https://youtu.be/wWoR1TD-_bA), [By Yunus Lee](https://www.youtube.com/playlist?list=PLZbYjE2BYSxjSUjEuAqLHFiOtQHGWSWnn)), [Off Stage Activities](https://youtu.be/jl0PTsmy_sI), Photo Album: [Activities](https://pdxchinese.org/chinese-festival-2023-activities/), [One Community](https://pdxchinese.org/chinese-festival-2023-community/), [MC and OCC Teams](https://pdxchinese.org/chinese-festival-2023-occ/), [Community Performances](https://pdxchinese.org/chinese-festival-2023-stage/)  
 2022: [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2022/), [KOIN Coverage](https://youtu.be/2Ye39CXroww), [KATU Coverage](https://katu.com/news/local/chinese-festival-brings-hundreds-to-portlands-pioneer-courthouse-square?fbclid=IwAR2vlrDy2OkK4xHz1Y27Xjzy8vLDp40a8eTkUzVPlR3vZ1dpOOfgHvB2AII), [Photo Album](https://pdxchinese.org/chinese-festival-2022/)  
 2021: [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2021/), [KOIN Interview](https://www.koin.com/local/multnomah-county/chinese-festival-returning-to-portland-this-saturday/), [Photo Album](https://pdxchinese.org/chinese-festival-2021/)  
