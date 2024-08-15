@@ -34,6 +34,8 @@ Metro Update on [Lone Fir Cultural Heritage Garden](http://lonefir.org/cultural-
 
 [Secret tunnels, not-so-secret gambling, great food: Old Town Chinatown pics capture dramatic history](https://www.oregonlive.com/life_and_culture/erry-2018/06/56edacc4732759/secret_tunnels_moresecret_gamb.html)
 
+[Mass murderer honored in courthouse monument](https://www.offbeatoregon.com/1204b-monument-mass-murderer-chinese-miners.html)
+
 [Special issue of OHQ on Chinese Diaspora in Oregon](https://www.ohs.org/oregon-historical-quarterly/back-issues/winter-2021.cfm), if you are interested in having a copy, please contact us.
 
 <iframe width="1280" height="720" style="border:1px solid #e6e6e6" src="https://www.kgw.com/embeds/video/responsive/283-e00a2b49-d915-4407-9deb-441c1e12551c/iframe" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
