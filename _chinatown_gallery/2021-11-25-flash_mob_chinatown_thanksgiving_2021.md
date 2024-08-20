@@ -1,5 +1,5 @@
 ---
-title: "感恩节中国城快闪"
+title: "Thanksgiving Flash Mob in Chinatown"
 ---
 Let the singing penetrate the broken walls of Chinatown, so as to comfort the lonely souls of Chinese predecessors, and to bring hope to the people who are lying on the street now. We hurried to and fro, leaving those red lanterns that were brought to life by singing and wagging there. Although it was an uncertain feeling, everyone knew that we had not left, and we had never left.
 
