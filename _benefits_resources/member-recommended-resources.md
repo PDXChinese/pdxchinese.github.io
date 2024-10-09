@@ -2,7 +2,16 @@
 title: "生活商务医疗创业资料汇总"
 ---
 
-Disclaimer: The views and opinions expressed in the articles and on the websites are those of the authors and/or owners and do not necessarily reflect the official position or recommendation of the OCC.
+*Disclaimer: The views and opinions expressed in the articles and on the websites are those of the authors and/or owners and do not necessarily reflect the official position or recommendation of the OCC.*
+
+# 简历格式资料库
+
+We recently launched our career development and resume design hub, providing the internet’s largest database of resume templates in MS Word and Google Docs formats. This toolset is offered for free, with no signup requirements, to communities across the US. Our belief is that a well-designed template that can help people showcase their work experience and value to land a job should not be behind a paywall.
+
+You can learn more about it here:	[https://www.resumetemplates.com/](https://www.resumetemplates.com/)
+
+At ResumeTemplates.com, we understand that writing a resume is a personal journey, unique to each individual. We aspire to provide tools to help forge a successful career path. Would you be open to sharing our database of resume templates with your community on your website?
+
 
 # 医疗健康保险
 
