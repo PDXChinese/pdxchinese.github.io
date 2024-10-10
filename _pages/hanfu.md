@@ -3,7 +3,7 @@ title: ""
 permalink: /hanfu/
 ---
 
-# Phoenix Hanfu Team
+# Phoenix Hanfu Society / 凤凰汉服社
 
 ### *Summer for Thee, Grant I May Be*
 
