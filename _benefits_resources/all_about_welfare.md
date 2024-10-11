@@ -6,6 +6,10 @@ feature_row1:
 
 我们开始汇总与我们华人相关的各种社会福利信息，我们也会开通电话专线提供帮助给社区成员。如果您有相关信息希望和大家分享，请微信给“项小柔”或“西北兆”，也可以发邮件至 [csw@pdxchinese.org](csw@pdxchinese.org)。
 
+### 俄勒冈州政府一站式福利申请
+
+包括低收入医疗保险，食品券（通常不查房产和银行存款），特困家庭现金补贴和幼托费用补贴，可以在网上申请，通过电话申请（可以要求会讲普通话或广东话翻译），和到附近办公室填表。网站简洁扼要，网址是：[https://www.oregon.gov/odhs/benefits/pages/default.aspx#apply](https://www.oregon.gov/odhs/benefits/pages/default.aspx#apply)
+
 ### 您有关低收入健康保险的所有信息
 
 Health Share可以为您提供帮助帮助，这里是他们的[中文资料](https://www.healthshareoregon.org/storage/app/media/documents/For%20Members/Member%20Handbook/2022%20Member%20Handbook/2022%20Member%20Handbook_Chinese.pdf)。
