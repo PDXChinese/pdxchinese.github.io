@@ -82,9 +82,8 @@ feature_row1:
 
 ### 残疾福利申请中文信息
 
-[残疾福利]{https://www.ssa.gov/pubs/CH-S-05-10029.pdf)
-
-[其他中文信息]（https://www.ssa.gov/multilanguage/chinese-simplified.html
+[残疾福利](https://www.ssa.gov/pubs/CH-S-05-10029.pdf)  
+[其他中文信息](https://www.ssa.gov/multilanguage/chinese-simplified.html)  
 
 ### 您的房子如果要被银行收走的话，去哪里可以得到帮助
 
