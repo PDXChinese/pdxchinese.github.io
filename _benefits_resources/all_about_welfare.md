@@ -23,7 +23,8 @@ feature_row1:
 
 ### 如何申请失业保险
 
-州政府网站：[https://unemployment.oregon.gov/file-a-claim](https://unemployment.oregon.gov/file-a-claim)
+州政府网站：[https://unemployment.oregon.gov/file-a-claim](https://unemployment.oregon.gov/file-a-claim)  
+申请过程视频（英文）：[https://youtu.be/VNaPDNpp1ic](https://youtu.be/VNaPDNpp1ic)  
 
 非公民也可以申请，越早申请越好，迟迟不申请有可能失去申请资格。
 
