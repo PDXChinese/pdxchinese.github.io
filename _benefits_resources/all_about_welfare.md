@@ -12,7 +12,7 @@ feature_row1:
 
 ### 您有关低收入健康保险的所有信息
 
-Health Share可以为您提供帮助帮助，这里是他们的[中文资料](https://www.healthshareoregon.org/storage/app/media/documents/For%20Members/Member%20Handbook/2022%20Member%20Handbook/2022%20Member%20Handbook_Chinese.pdf)。
+如果您也是 Health Share 会员，他们可以为您提供帮助，这里是他们的[中文资料](https://www.healthshareoregon.org/storage/app/media/documents/For%20Members/Member%20Handbook/2022%20Member%20Handbook/2022%20Member%20Handbook_Chinese.pdf)。
 
 [华人服务中心(AHSC)](https://ahscpdx.org/) 有不同语种专线帮助社区成员加入政府医保计划(OHP)和奥巴马医疗保险计划：英文：503-772-5888，广东话：503-772-5889，普通话：503-7782-5890。
 
