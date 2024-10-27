@@ -27,7 +27,7 @@ Once the documentation is received via email ([volunteer@pdxchinese.org](mailto:
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/pvsa_award)
 
-[PVSA Application Instruction](/assets/pdf/PVSA_Application_Instruction_v2023.pdf)  
+[PVSA Application Instruction](/assets/pdf/PVSA_Application_Instruction_v2024.pdf)  
 [Current and past PVSA honorees](https://pdxchinese.org/pvsa/)  
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
