@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /cultureday/
+permalink: /cultureday_2024/
 feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/thprdlogo
 feature_row2:
@@ -72,7 +72,7 @@ feature_row21:
     - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/culturedayweather
 ---
 
-See you at the 2025 Culture Day on Saturday, May 17, at THPRD's Elsie Stuhr Center!
+## >> [2024 Culture Day Album](https://pdxchinese.org/culture_day_2024/)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/culturedayflyer2024)
 
