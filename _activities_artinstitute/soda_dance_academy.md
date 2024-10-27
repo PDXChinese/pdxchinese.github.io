@@ -1,9 +1,13 @@
 ---
 title: "SODA Chinese Dance Academy"
-location: ""
+location: "8785 SW Beaverton Hillsdale Hwy, Portland, OR 97225"
 sidebar:
-  - title: "Address"
-    text: ""
+  - title: "Address A"
+    text: "8785 SW Beaverton Hillsdale Hwy, Portland, OR 97225"
+  - title: "Address B"
+    text: "Chinese Hope Charter School"
+  - title: "Phone"
+    text: "503-995-1335"  
   - title: "Email"
     text: "pergashan@gmail.com"
   - title: "Website"
