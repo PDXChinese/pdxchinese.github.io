@@ -5,8 +5,8 @@ permalink: /winterdrive/
 
 <p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/winter_drive_banner"></p>  
 
-# 2023 Community Winter Drive  
-**Date:** November 19, 2023 Sunday, 1:00 pm - 4:00 pm  
+# 2024 Community Winter Drive  
+**Date:** November 24, 2024 Sunday, 1:00 pm - 4:00 pm  
 **Place:** Multiple locations across State of Oregon  
 **Register** To join, please **[register here](https://docs.google.com/forms/d/e/1FAIpQLSdrA8gtPEE5_7kHLy67J5aQJpBaAxnMR-nlSZLc9KiupzaE_A/viewform?usp=sf_link)**.  
 
@@ -31,57 +31,14 @@ permalink: /winterdrive/
 | Name/Drop Off Location | School/Organization |
 | --- | --- |
 | :one: [Sunset High School](https://maps.app.goo.gl/kp4qnw5j3C2j1jYu6) | |
-| Aaron Guo | Sunset High School |
-| Alex Chang | Sunset High School |
-| Brian Barker | Sunset High School |
-| Claudia Zhuge | Sunset High School |
-| Sophia Lee | Sunset High School |
-| Sophia Wang | Sunset High School |
 | :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
-| Adam Li | Catlin Gabel School |
-| Jayden Mei | Westview High School |
-| Joanna Mei | Sunset High School |
-| Leon Liu | Catlin Gabel School |
 | :three: Bethany Village | [QFC parking lot](https://maps.app.goo.gl/xFw6Q1vBBVDvNdR79) |
-| Aiden Chang | International School of Beaverton |
-| Alexander Tai | International School of Beaverton |
-| Elsa Fan | Flex Online School |
-| Ethan Knapp | Westview High School |
-| Michael Fu | Sunset High School |
-| Sabrina Change | International School of Beaverton |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
-| Eric Chen | Lincoln High School |
-| Ethan Zhang | Westview High School |
-| Jenny Chen | Lincoln High School |
-| Jerry Zhou | OES |
-| Justin Wu | Forest Park Elementary |
-| Max Wu | West Sylvan Middle School |
-| Peter Shao | OES |
-| Zhi Qu | OES |
-| Ziyu Zhu | Lincoln High School |
-| Zong Qu | Catlin Gabel School |
 | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
-| Fenglan Zhen | Nelosen High School |
-| Fengyao Zhen | Happy Valley Middle School |
-| Jenny Du | Centennial High School |
-| Wenjun Zhen | Nelosen High School |
 | :eight: [Hamilton Park](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5) | |
-| Glisan Xu | Bridlemile Elementary |
-| Jasper Xu | Bridlemile Elementary |
-| Oscar Xu | Bridlemile Elementary |
 | :nine: [Whitford Middle School](https://maps.app.goo.gl/LW45HzD81vVQmj9Q6) | |
-| Arianna Hong | Scholls Heights Elementary |
-| Brianna Hong | Scholls Heights Elementary |
-| Chermia Clouser | Mountainside High school |
-| Derica Theobald | Whitford Middle School |
-| Jenell Theobald | International School of Beaverton |
 | :one::zero: [Hosford Middle School](https://maps.app.goo.gl/Rejd7MSdbGChdQAD8) | |
-| Ashley Fong | Hosford Middle School |
-| Samantha Nyan | Hosford Middle School |
 | :one::one: [Hope Chinese Charter School](https://www.google.com/maps/place/Hope+Chinese+Charter+School/@45.4948458,-122.7853069,18z/data=!4m6!3m5!1s0x5495095af942afd9:0x759fa57a8326c607!8m2!3d45.4946694!4d-122.783813!16s%2Fg%2F1264hsl_c?entry=ttu) | |
-| Claire Cao | Jade Dance Team / Jesuit High School |
-| Sandy Tang | Jade Dance Team / West Linn High School |
-| Siyi Liang | Jade Dance Team / Sherwood High School|
 
 ## Donation Items
 
