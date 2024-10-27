@@ -66,7 +66,7 @@ Please help recommend distinguished speakers
 
 ### [华人文化节/Chinese Festival](https://pdxchinese.org/chinesefestival/)
 
-Date: August 3, 2024, 11am - 6pm (1st Saturday in August)  
+Date: August 2, 2025, 11am - 6pm (1st Saturday in August)  
 Place: Pioneer Courthouse Square, Portland, Oregon  
 No Registration Required, Free Admission, Open to Public  
 

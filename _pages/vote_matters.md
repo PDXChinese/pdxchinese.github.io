@@ -10,8 +10,8 @@ permalink: /vote_matters/
 ## 2024投票设点宣传活动
 
 初选日期：2024年5月21日  
+大选日期：2024年11月5日  
 目标：初选期间宣传义工落实到波特兰街区  
-宣传材料：
 
 ## 州政府官方选民手册
 
@@ -20,7 +20,7 @@ permalink: /vote_matters/
 ## 关键选举资讯介绍 （由社区义工团队翻译整理）
 
 ### 加注中文的选票式样
-投票三个注意事项：（1）用黑色或蓝色圆珠笔把椭圆形的圆圈涂满 （2）在信封背后签上名字，中英文皆可，但需要与选民登记时使用的一致 （3）5/21周二或之前投出去，邮寄的话需要那天的邮戳，所以，保险起见，至少提前一天投进信箱。
+投票三个注意事项：（1）用黑色或蓝色圆珠笔把椭圆形的圆圈涂满 （2）在信封背后签上名字，中英文皆可，但需要与选民登记时使用的一致 （3）投票日(周二)或之前投出去，邮寄的话需要那天的邮戳，所以，保险起见，至少提前一天投进信箱。
 
 > [摩特诺玛县/Multnomah County](/assets/pdf/mult_ballot_chinese.pdf)（供参考）  
 > 选票信封背面需要签字（[样本](/assets/pdf/ballot_signature.png)）  
@@ -28,7 +28,7 @@ permalink: /vote_matters/
 ### 波特兰市政府形式和投票方式的改变
 
 新市政府形式背景：[English](https://www.portland.gov/transition), [简体中文](/assets/pdf/new_portland_governance.pdf)  
-新的排名投票方式：[English](https://www.portland.gov/vote), [简体中文](/assets/pdf/ranked-choice-voting.pdf), [繁体中文](/assets/pdf/ranked-choice-voting-fanti.pdf), [中文短视频介绍](https://youtu.be/QlcheutMwn4)  
+新的排名投票方式：[English](https://www.portland.gov/vote), [简体中文](https://www.portland.gov/zh-hans/vote/ranked-choice-voting), [繁体中文](/assets/pdf/ranked-choice-voting-fanti.pdf), [中文短视频介绍](https://youtu.be/QlcheutMwn4)  
 
 ### 波特兰市长选举：
 
@@ -59,15 +59,15 @@ permalink: /vote_matters/
 
 ## 更多的选举资料
 
-[最新美国总统竞选民调](https://projects.fivethirtyeight.com/polls/president-general/national/)  
+[最新美国总统竞选民调](https://projects.fivethirtyeight.com/polls/president-general/2024/national/)  
 [选票百科(英文界面)](https://ballotpedia.org/)  
 
 ## 选民登记
 
-选民登记截止日：4/30/2024  
+选民登记截止日：4/30/2024(中期选举)，10/15/2024（大选）  
 最后一分钟选民登记协助热线：503-334-1010  
 
-选举日：5/21/2024 晚8点，如果邮寄须有当天的邮戳。  
+选举日：5/21/2024（中期选举），11/4/2024（大选）晚8点，如果邮寄须有当天的邮戳。  
 投票站点[查询](https://sos.oregon.gov/voting/Pages/drop-box-locator.aspx)  
 
 查看您目前的选民资格：[英文，可以选择中文界面](https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do)  
