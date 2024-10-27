@@ -43,8 +43,8 @@ We also have a few special WeChat groups for specific volunteer activities, incl
 
 # More Resources
 
-[Ten-Plus Kid-Friendly Volunteer Opportunities in Portland](http://www.pdxparent.com/family-friendly-volunteering-portland/)  
-[More Volunteering Opportunities for Teens and Help for Getting Ready](https://multcolib.org/teens/job-help-teens)  
+[20+ Kid-Friendly Volunteer Opportunities in Portland](http://www.pdxparent.com/family-friendly-volunteering-portland/)  
+[More Volunteering Opportunities Prepared by Multnomah County Library](https://multcolib.org/community/volunteering-kids)  
 [HandsOn Greater Portland](https://www.handsonportland.org/)  
 [The Complete List of Community Service Scholarships](https://blog.prepscholar.com/community-service-scholarships-complete-list)  
 [How People Can Help Charities Remotely](https://www.ireviews.com/remote-volunteer-opportunities/)  
