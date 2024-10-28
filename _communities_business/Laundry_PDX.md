@@ -1,5 +1,6 @@
 ---
 title: "Laundry - 体育衣帽收藏店"
+location: "1723 NE Alberta St, Portland, OR"
 sidebar:
   - title: "Address"
     text: "1723 NE Alberta St, Portland, OR"

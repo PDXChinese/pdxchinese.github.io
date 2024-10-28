@@ -1,5 +1,6 @@
 ---
 title: "Stumptown Otaku - 手办店"
+location: "133 SW 2nd Ave, Portland, OR 97204"
 sidebar:
   - title: "Address"
     text: "133 SW 2nd Ave, Portland, OR 97204"

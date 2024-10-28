@@ -1,5 +1,6 @@
 ---
 title: "TeaZen - 茶室"
+location: "2847 SE 58th Ave, Portland, OR 97206"
 sidebar:
   - title: "Address"
     text: "2847 SE 58th Ave, Portland, OR 97206"

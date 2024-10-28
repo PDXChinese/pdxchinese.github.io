@@ -211,7 +211,7 @@ By bringing together students enrolled in Chinese classes and programs at public
 [International School of Portland](https://intlschool.org/) (Portland Downtown)  
 [Lincoln High School](https://www.pps.net/lincoln) (Portland Downtown)  
 [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (Beaverton)  
-[Palisades World Language School](https://www.losdschools.org/Domain/1866) (Lake Oswego)  
+[Palisades World Language School](https://pal.losdschools.org/) (Lake Oswego)  
 [Springleaf Chinese School 春叶中文学校](http://springleaf.org/) (SW Portland)  
 [Woodstock Elementary School](https://www.pps.net/woodstock) (SE Portland)  
 

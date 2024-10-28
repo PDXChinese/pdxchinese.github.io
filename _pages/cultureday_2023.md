@@ -219,7 +219,7 @@ Please bring your Chinese books there to exchange with others.
 [Jefferson High School](https://www.pps.net/jefferson) (N Portland)  
 [Lake Learning Center 中英文双语学校](https://www.lakelearningcenter.com/) (Lake Oswego)  
 [Lincoln High School](https://www.pps.net/lincoln) (Portland Downtown)  
-[Palisades World Language School](https://www.losdschools.org/Domain/1866) (Lake Oswego)  
+[Palisades World Language School](https://pal.losdschools.org/) (Lake Oswego)  
 [Portland Chinese Language School](https://www.oregonccba.org/introduction/) (SE Portland)  
 [Springleaf Chinese School 春叶中文学校](http://springleaf.org/) (SW Portland)  
 [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (Beaverton)  
