@@ -36,6 +36,8 @@ permalink: /vote_matters/
 
 波特兰市长候选人雷内·冈萨雷斯接受KGW新闻专访(3/28/2024)：[英文录像](https://youtu.be/qXlcWOD-Grw)，[简体中文文本](/assets/pdf/rene_on_kgw_simplified.pdf)，[繁体中文文本](/assets/pdf/rene_on_kgw_traditional.pdf)
 
+波特兰市长候选人电视辩论：[10/15/2024 by The Oregonian](https://youtu.be/DrH-D9g8uUA), [10/20/2024 by KGW](https://youtu.be/P15NWuhB2Ik)
+
 <iframe src="{{ site.url }}/assets/pdf/rene_on_kgw_simplified.pdf" style="width: 100%; height: 600px"></iframe>
 
 ### 蒙特诺玛县/Multnomah County 检察官/District Attorney 选举：
@@ -51,11 +53,16 @@ permalink: /vote_matters/
 <iframe src="{{ site.url }}/assets/pdf/da_debate_simplified.pdf" style="width: 100%; height: 600px"></iframe>
 <br>
 
-### 蒙特诺玛县/Multnomah County 议员/Commissioner 选举：
+### 蒙特诺玛县/Multnomah County 议员/Commissioner 中期选举：
 
 [候选人](https://www.multco.us/elections/candidate-filings-metro-and-multnomah-county-may-2024-primary)接受记者集体采访：[第一选区](https://youtu.be/HoVUPNSx-5M)，[第二选区](https://youtu.be/ZHPSiV54kpE)，[第三选区](https://youtu.be/dVIRpNXnDfI)，[第四选区](https://youtu.be/sgTUjgUE2LY)  
 
 **声明：** 翻译工作由一组社区义工完成，他们已经尽自己最大的努力保证中文译文与英文原文完全一致，如有出入甚至意思理解错误，完全是无意的，愿意即刻改正过来，和电视台和候选人无关。谢谢大家的理解和支持。
+
+### 州检察官/State Attorney General 选举
+
+[候选人名单](https://ballotpedia.org/Oregon_Attorney_General_election,_2024)  
+电视辩论：[10/16/2024 on KOIN 6](https://youtu.be/D5vYFshoI2I)  
 
 ## 更多的选举资料
 
