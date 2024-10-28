@@ -57,16 +57,18 @@ permalink: /vote_matters/
 
 [候选人](https://www.multco.us/elections/candidate-filings-metro-and-multnomah-county-may-2024-primary)接受记者集体采访：[第一选区](https://youtu.be/HoVUPNSx-5M)，[第二选区](https://youtu.be/ZHPSiV54kpE)，[第三选区](https://youtu.be/dVIRpNXnDfI)，[第四选区](https://youtu.be/sgTUjgUE2LY)  
 
-**声明：** 翻译工作由一组社区义工完成，他们已经尽自己最大的努力保证中文译文与英文原文完全一致，如有出入甚至意思理解错误，完全是无意的，愿意即刻改正过来，和电视台和候选人无关。谢谢大家的理解和支持。
-
 ### 州检察官/State Attorney General 选举
 
 [候选人名单](https://ballotpedia.org/Oregon_Attorney_General_election,_2024)  
 电视辩论：[10/16/2024 on KOIN 6](https://youtu.be/D5vYFshoI2I)  
 
+### 总统/President 选举
+
+总统候选人唯一一次电视辩论：[9/10/2024 on ABC](https://youtu.be/VgsC_aBquUE)  
+[最新美国总统竞选民调](https://projects.fivethirtyeight.com/polls/president-general/2024/national/)  
+
 ## 更多的选举资料
 
-[最新美国总统竞选民调](https://projects.fivethirtyeight.com/polls/president-general/2024/national/)  
 [选票百科(英文界面)](https://ballotpedia.org/)  
 
 ## 选民登记
@@ -84,3 +86,5 @@ permalink: /vote_matters/
 ## 以往选举年活动
 
 [2022中期选举](https://pdxchinese.org/vote_matters_2022/)
+
+**声明：** 翻译工作由一组社区义工完成，他们已经尽自己最大的努力保证中文译文与英文原文完全一致，如有出入甚至意思理解错误，完全是无意的，愿意即刻改正过来，和电视台和候选人无关。谢谢大家的理解和支持。
