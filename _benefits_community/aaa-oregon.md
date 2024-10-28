@@ -2,12 +2,9 @@
 title: "AAA新会员折扣计划"
 ---
 
-## WELCOME TO AAA OREGON/IDAHO FOR OREGON CHINESE COALITION
-
 [Home](https://pdxchinese.org/) > [Resources](https://pdxchinese.org/resources/) > [Benefits/Resources > Benefits](https://pdxchinese.org/resources/benefits/resources/)
 
-<br>
-<br>
+## WELCOME TO AAA OREGON/IDAHO FOR OREGON CHINESE COALITION
 
 AAA is pleased to offer a special discount for your group with Promo Code 8055
 
