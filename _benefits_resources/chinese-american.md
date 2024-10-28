@@ -4,7 +4,7 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/logo/oaarg1kffmrs0wyx3yrb
 ---
 
-[Home](https://pdxchinese.org/) > [Resources](https://pdxchinese.org/resources/) > [Benefits/Resources > Resources](https://pdxchinese.org/resources/benefits/resources/)
+[Home](https://pdxchinese.org/) > [Resources ABC](https://pdxchinese.org/resources/) > [Benefits/Resources > Resources](https://pdxchinese.org/resources/benefits/resources/)
 
 ### Timeline of Chinese Immigration to the United States
 

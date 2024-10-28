@@ -5,7 +5,7 @@ permalink: /resources/
 
 # Resources ABC
 
-[Home](https://pdxchinese.org/) > Resources
+[Home](https://pdxchinese.org/) > Resources ABC
 
 Disclaimer: This compilation of public data is provided for the convenience of community members. It is important to note that the inclusion of organizations on this page does not imply any affiliation with OCC.
 

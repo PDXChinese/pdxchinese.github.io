@@ -2,7 +2,7 @@
 title: "公益筹款团购活动"
 ---
 
-[Home](https://pdxchinese.org/) > [Resources](https://pdxchinese.org/resources/) > [Benefits/Resources > Benefits](https://pdxchinese.org/resources/benefits/resources/)
+[Home](https://pdxchinese.org/) > [Resources ABC](https://pdxchinese.org/resources/) > [Benefits/Resources > Benefits](https://pdxchinese.org/resources/benefits/resources/)
 
 <p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pdxgroup_poyv4zumyy4mvp0a9hyq"></p>  
 

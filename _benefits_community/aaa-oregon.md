@@ -2,7 +2,7 @@
 title: "AAA新会员折扣计划"
 ---
 
-[Home](https://pdxchinese.org/) > [Resources](https://pdxchinese.org/resources/) > [Benefits/Resources > Benefits](https://pdxchinese.org/resources/benefits/resources/)
+[Home](https://pdxchinese.org/) > [Resources ABC](https://pdxchinese.org/resources/) > [Benefits/Resources > Benefits](https://pdxchinese.org/resources/benefits/resources/)
 
 ## WELCOME TO AAA OREGON/IDAHO FOR OREGON CHINESE COALITION
 

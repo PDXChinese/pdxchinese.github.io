@@ -2,7 +2,7 @@
 title: "林肯墓园/日落纪念墓园折扣计划"
 ---
 
-[Home](https://pdxchinese.org/) > [Resources](https://pdxchinese.org/resources/) > [Benefits/Resources > Benefits](https://pdxchinese.org/resources/benefits/resources/)
+[Home](https://pdxchinese.org/) > [Resources ABC](https://pdxchinese.org/resources/) > [Benefits/Resources > Benefits](https://pdxchinese.org/resources/benefits/resources/)
 
 
 这个折扣计划源于中华会馆早年与林肯墓园达成的协议。2016年，我们与墓园作了进一步确定，折扣计划会继续，会适用于所有华人社区成员，会包括Dignity Memorial系统内的其他墓园，如华人比较熟悉的

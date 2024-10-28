@@ -2,7 +2,7 @@
 title: "External: The Daily Challenge with Po-Shen Loh"
 ---
 
-[Home](https://pdxchinese.org/) > [Resources](https://pdxchinese.org/resources/) > [Benefits/Resources > Benefits](https://pdxchinese.org/resources/benefits/resources/)
+[Home](https://pdxchinese.org/) > [Resources ABC](https://pdxchinese.org/resources/) > [Benefits/Resources > Benefits](https://pdxchinese.org/resources/benefits/resources/)
 
 ## 美国奥数总教练罗博深开发的网上数学辅导课程
 
