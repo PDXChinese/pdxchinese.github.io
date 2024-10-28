@@ -4,6 +4,11 @@ title: "AAA新会员折扣计划"
 
 ## WELCOME TO AAA OREGON/IDAHO FOR OREGON CHINESE COALITION
 
+[Home](https://pdxchinese.org/) > [Resources](https://pdxchinese.org/resources/) > [Benefits/Resources > Benefits](https://pdxchinese.org/resources/benefits/resources/)
+
+<br>
+<br>
+
 AAA is pleased to offer a special discount for your group with Promo Code 8055
 
 Create a New membership with a $10 Enrollment Fee Waiver and 1/2 Price New Associates (Regular Associate Renewal is $36.00).

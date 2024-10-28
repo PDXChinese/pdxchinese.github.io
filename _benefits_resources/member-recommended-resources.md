@@ -2,6 +2,11 @@
 title: "生活商务医疗创业资料汇总"
 ---
 
+[Home](https://pdxchinese.org/) > [Resources](https://pdxchinese.org/resources/) > [Benefits/Resources > Resources](https://pdxchinese.org/resources/benefits/resources/)
+
+<br>
+<br>
+
 *Disclaimer: The views and opinions expressed in the articles and on the websites are those of the authors and/or owners and do not necessarily reflect the official position or recommendation of the OCC.*
 
 # 简历格式资料库

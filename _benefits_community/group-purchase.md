@@ -2,6 +2,11 @@
 title: "演出团购活动"
 ---
 
+[Home](https://pdxchinese.org/) > [Resources](https://pdxchinese.org/resources/) > [Benefits/Resources > Benefits](https://pdxchinese.org/resources/benefits/resources/)
+
+<br>
+<br>
+
 根据大家的要求，我们不定时组织团购活动。参加团购活动的社区成员一方面能够以优惠的价格得到精神享受，这一点被我们戏称为 Affordable Luxury，另外一方面，也是更重要的，是有了更多的线下交往机会。
 
 华人社区成员均可以团购价自行直接购买Broadway in Portland在Keller Auditorium的所有演出，最后一次组团是11/2019的Miss Saigon。购买手续公布在《PDX 演出团购群》的Group Notice。

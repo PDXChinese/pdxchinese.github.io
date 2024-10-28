@@ -2,6 +2,9 @@
 title: "华裔青少年年会和圆桌会资料汇总"
 ---
 
+[Home](https://pdxchinese.org/) > [Resources](https://pdxchinese.org/resources/) > [Benefits/Resources > Resources](https://pdxchinese.org/resources/benefits/resources/)
+
+<br>
 <br>
 
 高中生课外社会活动[列表](https://goo.gl/2d2Kri) ([推荐表](https://goo.gl/5HpKVU))  
