@@ -16,5 +16,3 @@ sidebar:
 ## Educating for Global Fluency
 
 Hope Chinese Charter School (HCCS) is a public charter school that provides a Mandarin Chinese immersion education to elementary school students. HCCS, located in the Beaverton School District, is currently offering grades K-8.
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/hopechartered_jxjsrth2onchfiskpp7e)
