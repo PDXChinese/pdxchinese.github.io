@@ -17,7 +17,9 @@ permalink: /winterdrive/
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_sunset) | :one: [Sunset High School](https://maps.app.goo.gl/kp4qnw5j3C2j1jYu6) | Outside school main entrance|
 |  | :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
 |  | :three: Bethany Village | [In front of Walgreens](https://maps.app.goo.gl/xFw6Q1vBBVDvNdR79) |
+|  | :four: Westview High School | Outside school main entrance |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_fp) | :five: [Forest Park Elementary School, NW Portland](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
+|  | :six: Vancouver  | Location to be determined |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_se_c) [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_se_e) | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_sw) | :eight: [Hamilton Park, Bridlemile, SW Portland](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5) | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_whitford) | :nine: [Whitford Middle School, Beaverton](https://maps.app.goo.gl/LW45HzD81vVQmj9Q6) | |
@@ -32,8 +34,11 @@ permalink: /winterdrive/
 | --- | --- |
 | :one: [Sunset High School](https://maps.app.goo.gl/kp4qnw5j3C2j1jYu6) | |
 | :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
+| Michelle Xiao | Valley Catholic |
 | :three: Bethany Village | [QFC parking lot](https://maps.app.goo.gl/xFw6Q1vBBVDvNdR79) |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
+| :six: Vancouver | |
+| Yicheng Zhang | Union High School |
 | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
 | :eight: [Hamilton Park](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5) | |
 | Genevieve Slaton | NUNM |
@@ -41,6 +46,8 @@ permalink: /winterdrive/
 | Chermia Clouser | Mountainside High School |
 | :one::zero: [Hosford Middle School](https://maps.app.goo.gl/Rejd7MSdbGChdQAD8) | |
 | :one::one: [Hope Chinese Charter School](https://www.google.com/maps/place/Hope+Chinese+Charter+School/@45.4948458,-122.7853069,18z/data=!4m6!3m5!1s0x5495095af942afd9:0x759fa57a8326c607!8m2!3d45.4946694!4d-122.783813!16s%2Fg%2F1264hsl_c?entry=ttu) | |
+| :one::two: Lake Oswego | |
+| Melissa Mei | Lake Oswego Middle School |
 
 ## Donation Items
 
