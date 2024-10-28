@@ -257,6 +257,9 @@ collections:
   communities_culture:
     output: true
     permalink: /resources/:collection/:path/
+  communities_mandarin:
+    output: true
+    permalink: /resources/:collection/:path/
   communities_religious:
     output: true
     permalink: /resources/:collection/:path/
