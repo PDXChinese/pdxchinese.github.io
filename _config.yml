@@ -450,6 +450,13 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # communities_mandarin
+  - scope:
+      path: ""
+      type: communities_mandarin
+    values:
+      layout: single
+      author_profile: false
   # communities_religious
   - scope:
       path: ""
