@@ -17,8 +17,8 @@ Disclaimer: This compilation of public data is provided for the convenience of c
 - <a href="{{ site.url }}/resources/benefits/resources/">Resources</a> ({{ site.benefits_resources | size }})
 
 ## (C)ommunity
-- <a href="{{ site.url }}/resources/communities/culture/">Culture</a> ({{ site.communities_culture | size }})
-- <a href="{{ site.url }}/resources/communities/mandarin/">Mandarin Classes in Schools</a> ({{ site.communities_mandarin | size }})
+- <a href="{{ site.url }}/resources/communities/culture/">Cultural Institutions</a> ({{ site.communities_culture | size }})
+- <a href="{{ site.url }}/resources/communities/mandarin/">Mandarin Language Programs in Schools</a> ({{ site.communities_mandarin | size }})
 - <a href="{{ site.url }}/resources/communities/religious/">Religious Groups/Churches</a> ({{ site.communities_religious | size }})
 - <a href="{{ site.url }}/resources/communities/business/">Small Business</a> ({{ site.communities_business | size }})
 
