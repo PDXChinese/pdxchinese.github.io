@@ -11,7 +11,7 @@ sidebar:
     text: "[https://www.pps.net/woodstock](https://www.pps.net/woodstock)"
 ---
 
-## History
+## History and Overview
 
 PPS has offered Chinese Dual Language Immersion Programs for more than two decades.
 
@@ -27,19 +27,19 @@ The goals of the Dual Language Program in Portland Public Schools are to ensure 
 
 Dual Language programs prioritize closing the opportunity gap for historically underserved students. To this end, DL provides multiple pathways and entry points for students to become bilingual and biliterate with a variety of programs offered to support the diversity of levels of proficiency in the partner languages. Students who participate in these programs and reach a high level of academic language proficiency qualify for the Seal of Biliteracy awarded by the State of Oregon.
 
-Dual language immersion
-Native language literacy
-World language
+Dual language immersion  
+Native language literacy  
+World language  
 
 PPS offers Dual Language Immersion (DLI) programs in five languages:
 
-Chinese
-Japanese
-Russian
-Spanish
-Vietnamese
+Chinese  
+Japanese  
+Russian  
+Spanish  
+Vietnamese  
 
 PPS Dual Language Immersion Program Models
 
-90:10 Model -- https://drive.google.com/file/d/13wgs19wmzzwH97-IhbeJ1qxJ93Buo8VN/view  
-50:50 Model -- https://drive.google.com/file/d/19_9QeizsJ-0AM0P9I6Y7u3s4ccXUfZXn/view  
+[90:10 Model](https://drive.google.com/file/d/13wgs19wmzzwH97-IhbeJ1qxJ93Buo8VN/view)  
+[50:50 Model](https://drive.google.com/file/d/19_9QeizsJ-0AM0P9I6Y7u3s4ccXUfZXn/view)  
