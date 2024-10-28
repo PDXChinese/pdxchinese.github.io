@@ -6,9 +6,6 @@ feature_row1:
 
 [Home](https://pdxchinese.org/) > [Resources](https://pdxchinese.org/resources/) > [Benefits/Resources > Resources](https://pdxchinese.org/resources/benefits/resources/)
 
-<br>
-<br>
-
 ### Timeline of Chinese Immigration to the United States
 
 [UC Berkeley](https://bancroft.berkeley.edu/collections/chinese-immigration-to-the-united-states-1884-1944/timeline.html)
