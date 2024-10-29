@@ -1,8 +1,9 @@
 ---
 title: "Chinese Baptist Church"
+location: "1938 SE Ladd Ave., Portland, OR 97214"
 sidebar:
   - title: "Address"
-    text: "1938 SE Ladd Ave., Portland, OR  97214"
+    text: "1938 SE Ladd Ave., Portland, OR 97214"
   - title: "Phone"
     text: "503-234-2022"
   - title: "Email"

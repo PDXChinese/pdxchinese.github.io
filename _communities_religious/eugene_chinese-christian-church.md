@@ -1,9 +1,9 @@
 ---
 title: "Eugene Chinese Christian Church 雨津基督教华人教会"
-location: "1275 Mill St Springfield, OR 97477"
+location: "1275 Mill St, Springfield, OR 97477"
 sidebar:
   - title: "Address"
-    text: "1275 Mill St Springfield, OR 97477"
+    text: "1275 Mill St, Springfield, OR 97477"
   - title: "Phone"
     text: "(541)338-0810"
   - title: "Email"
