@@ -11,17 +11,11 @@ sidebar:
     text: "[https://pal.losdschools.org/](https://pal.losdschools.org/)"
 ---
 
-## About Our School
-
 Palisades World Language School is the home of our district's elementary school immersion programs, teaching the language and cultures of Spanish and Mandarin Chinese speakers. Palisades serves students in kindergarten through fifth grade, feeding from all Lake Oswego School District elementary attendance areas.
 
-Students rising from Palisades have the choice of continuing their Spanish immersion education through Lakeridge Middle and High School for a full K-12 experience or returning to their resident secondary school. Our graduates have mastered the language and earned the Oregon Seal of Biliteracy.
+Students rising from Palisades have the choice of continuing their Chinese immersion education through Lakeridge Middle and High School for a full K-12 experience or returning to their resident secondary school.
 
-For information about the application and enrollment process that begins in January, visit the district’s Immersion Program webpage.
-
-## School District Language Immersion Programs
-
-[学区网页链接](https://www.losdschools.org/curriculum-instruction/language-immersion-programs)
+For information about the application and enrollment process that begins in January, visit the district’s [Immersion Program webpage](https://www.losdschools.org/curriculum-instruction/language-immersion-programs).
 
 Step 1: Register your student with your neighborhood elementary school before applying for the immersion program. New student registration opens in January for the following school year.
 
