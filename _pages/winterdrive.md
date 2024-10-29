@@ -38,11 +38,12 @@ permalink: /winterdrive/
 | :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
 | Xing you Sun | Stoller Middle School |
 | Michelle Xiao | Valley Catholic |
-| :three: Bethany Village | [QFC parking lot](https://maps.app.goo.gl/xFw6Q1vBBVDvNdR79) |
+| :three: Bethany Village | |
+| Emily Liu | Springville Elementary School |
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
 | Ethan Knapp  | Westview High School |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
-| :six: Vancouver | |
+| :six: Vancouver | to be determined |
 | Yicheng Zhang | Union High School |
 | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
 | :eight: [Hamilton Park](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5) | |
@@ -54,9 +55,9 @@ permalink: /winterdrive/
 | Ashley Fong | Hosford Middle School |
 | Samantha Ngan | Hosford Middle School |
 | :one::one: [Hope Chinese Charter School](https://www.google.com/maps/place/Hope+Chinese+Charter+School/@45.4948458,-122.7853069,18z/data=!4m6!3m5!1s0x5495095af942afd9:0x759fa57a8326c607!8m2!3d45.4946694!4d-122.783813!16s%2Fg%2F1264hsl_c?entry=ttu) | |
-| :one::two: Lake Oswego | |
+| :one::two: Lake Oswego | to be determined |
 | Melissa Mei | Lake Oswego Middle School |
-| :one::three: Corvallis | |
+| :one::three: Corvallis | to be determined |
 
 ## Donation Items
 
