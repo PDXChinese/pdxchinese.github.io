@@ -19,14 +19,14 @@ permalink: /winterdrive/
 |  | :three: Bethany Village | [In front of Walgreens](https://maps.app.goo.gl/xFw6Q1vBBVDvNdR79) |
 |  | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_fp) | :five: [Forest Park Elementary School, NW Portland](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
-|  | :six: Vancouver  | Location to be determined |
+|  | :six: Vancouver  | to be determined |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_se_c) [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_se_e) | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_sw) | :eight: [Hamilton Park, Bridlemile, SW Portland](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5) | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_whitford) | :nine: [Whitford Middle School, Beaverton](https://maps.app.goo.gl/LW45HzD81vVQmj9Q6) | |
 | | :one::zero: [Hosford Middle School, SE Portland](https://maps.app.goo.gl/Rejd7MSdbGChdQAD8) | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2023_winter_drive_hope) | :one::one: [Hope Chinese Charter School, Beaverton](https://www.google.com/maps/place/Hope+Chinese+Charter+School/@45.4948458,-122.7853069,18z/data=!4m6!3m5!1s0x5495095af942afd9:0x759fa57a8326c607!8m2!3d45.4946694!4d-122.783813!16s%2Fg%2F1264hsl_c?entry=ttu) | |
-| | :one::two: Lake Oswego | |
-| | :one::three: Corvallis | |
+| | :one::two: Lake Oswego | to be determined |
+| | :one::three: Corvallis | to be determined |
 
 **[2024 OCC Donation Receipt](/assets/pdf/occ_donation_receipt_2024.pdf)**
 
@@ -43,7 +43,7 @@ permalink: /winterdrive/
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
 | Ethan Knapp  | Westview High School |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
-| :six: Vancouver | to be determined |
+| :six: Vancouver | |
 | Yicheng Zhang | Union High School |
 | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
 | :eight: [Hamilton Park](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5) | |
@@ -55,9 +55,9 @@ permalink: /winterdrive/
 | Ashley Fong | Hosford Middle School |
 | Samantha Ngan | Hosford Middle School |
 | :one::one: [Hope Chinese Charter School](https://www.google.com/maps/place/Hope+Chinese+Charter+School/@45.4948458,-122.7853069,18z/data=!4m6!3m5!1s0x5495095af942afd9:0x759fa57a8326c607!8m2!3d45.4946694!4d-122.783813!16s%2Fg%2F1264hsl_c?entry=ttu) | |
-| :one::two: Lake Oswego | to be determined |
+| :one::two: Lake Oswego | |
 | Melissa Mei | Lake Oswego Middle School |
-| :one::three: Corvallis | to be determined |
+| :one::three: Corvallis | |
 
 ## Donation Items
 
