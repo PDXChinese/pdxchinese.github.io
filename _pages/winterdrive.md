@@ -37,6 +37,8 @@ permalink: /winterdrive/
 | Xing you Sun | Stoller Middle School |
 | Michelle Xiao | Valley Catholic |
 | :three: Bethany Village | [QFC parking lot](https://maps.app.goo.gl/xFw6Q1vBBVDvNdR79) |
+| | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
+| Ethan Knapp  | Westview High School |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | :six: Vancouver | |
 | Yicheng Zhang | Union High School |
