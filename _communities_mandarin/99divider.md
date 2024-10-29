@@ -1,5 +1,5 @@
 ---
 title: "Public Schools Above == Private Schools Below"
-location: "By district/city, then by school names."
+location: "(Ordered by district/city, then by school names)"
 sidebar:
 ---
