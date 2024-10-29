@@ -1,5 +1,5 @@
 ---
-title: "BSD: International School of Beaverton (ISB)"
+title: "BSD: Jacob Wismer Elementary"
 location: "5477 NW Skycrest Parkway, Portland, OR 97229"
 sidebar:
   - title: "Address"
@@ -11,7 +11,6 @@ sidebar:
     text: "[https://jacobwismer.beaverton.k12.or.us/](https://jacobwismer.beaverton.k12.or.us/)"
 ---
 
-Dear Jacob Wismer Families,
 
 We are thrilled to launch our very first Dual Language Mandarin Chinese Program at Jacob Wismer Elementary School!
 
