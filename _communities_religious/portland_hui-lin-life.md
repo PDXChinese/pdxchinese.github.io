@@ -1,12 +1,15 @@
 ---
-title: "慧霖寺"
+title: "Hui Lin Temple 慧霖寺"
+location: "4224 SE 62nd Ave, Portland, OR 97206"
 sidebar:
   - title: "Address"
     text: "4224 SE 62nd Ave, Portland, OR 97206"
   - title: "Phone"
     text: "971-271-8150"
-  - title: "Website"
-    text: "[huilinlife.org/](http://huilinlife.org/)"
+  - title: "Email"
+    text: "HuiLinCenter@gmail.com"
+  - title: "Facebook Page"
+    text: "[https://www.facebook.com/profile.php?id=100064949133846](https://www.facebook.com/profile.php?id=100064949133846)"
 ---
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/hui-lin-life)

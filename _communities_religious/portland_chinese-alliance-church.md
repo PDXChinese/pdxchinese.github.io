@@ -1,5 +1,5 @@
 ---
-title: "Portland Chinese Alliance Church 砵崙華人宣道會"
+title: "Portland Chinese C&MA Church 砵崙華人宣道會"
 location: "7435 SE Foster Road, Portland, OR 97206"
 sidebar:
   - title: "Address"

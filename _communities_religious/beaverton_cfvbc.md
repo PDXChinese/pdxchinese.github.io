@@ -1,8 +1,15 @@
 ---
 title: "Chinese Fellowship at Village Baptist Church 华人团契"
+location: "330 SW Murray Blvd, Beaverton, OR 97005"
 sidebar:
+  - title: "Address"
+    text: "330 SW Murray Blvd, Beaverton, OR 97005"
+  - title: "Phone"
+    text: "503-643-6511"
+  - title: "Email"
+    text: "info@villagebeaverton.com"
   - title: "Website"
-    text: "[www.vbconline.org](http://www.vbconline.org/home/ministries/ethnic/chinese-fellowship/)"
+    text: "[https://www.villagebeaverton.com/](https://www.villagebeaverton.com/)"
 ---
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/cfvbc)

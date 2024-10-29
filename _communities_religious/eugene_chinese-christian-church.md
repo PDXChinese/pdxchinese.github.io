@@ -1,6 +1,13 @@
 ---
 title: "Eugene Chinese Christian Church 雨津基督教华人教会"
+location: "1275 Mill St Springfield, OR 97477"
 sidebar:
+  - title: "Address"
+    text: "1275 Mill St Springfield, OR 97477"
+  - title: "Phone"
+    text: "(541)338-0810"
+  - title: "Email"
+    text: "contact@eugeneccc.org"
   - title: "Website"
     text: "[eugeneccc.org](http://eugeneccc.org)"
 ---
@@ -28,15 +35,3 @@ sidebar:
 周五
 
 2:00 p.m. – 6:00 p.m.
-
-联系电话:
-
-(541) 338-0810
-
-电子信箱:
-
-info@eugeneccc.org
-
-地址:
-
-631 East 19th Avenue, Eugene, OR 97401
