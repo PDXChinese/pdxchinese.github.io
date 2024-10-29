@@ -1,14 +1,14 @@
 ---
 title: "Oregon Badminton Academy 俄勒冈羽毛球学校"
-location: "5805 SW 107th Ave. Suite 21, Beaverton, OR 97005"
+location: "11150 SW Allen Blvd, Suite 200, Beaverton, OR 97005"
 sidebar:
   - title: "Address"
-    text: "14523 SW Millikan Way # 110, Beaverton, OR 97005"
+    text: "11150 SW Allen Blvd, Suite 200, Beaverton, OR 97005"
     image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/oregon-badminton_v2fxfk8tcgz5qpslo00m"
   - title: "Phone"
     text: "503-430-7861"
   - title: "Email"
-    text: "[Fill out form here](http://www.orbadminton.com/contact-us/)"
+    text: "info@orbadminton.com"
   - title: "Website"
     text: "[www.orbadminton.com/](http://www.orbadminton.com/)"
 ---
