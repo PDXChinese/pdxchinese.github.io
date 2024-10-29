@@ -26,7 +26,3 @@ For information about the application and enrollment process that begins in Janu
 Step 1: Register your student with your neighborhood elementary school before applying for the immersion program. New student registration opens in January for the following school year.
 
 Step 2: Submit an application for the language immersion program.
-
-## About Mandarin-Chinese Immersion Program
-
-*To be added...*

@@ -4,7 +4,7 @@ location: "60925 SE 15th St, Bend, OR 97702"
 sidebar:
   - title: "Address"
     text: "60925 SE 15th St, Bend, OR 97702"
-    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/isb-logo"
+    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/caldera-logo"
   - title: "Phone"
     text: "(541)355-5000"
   - title: "Website"

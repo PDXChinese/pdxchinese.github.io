@@ -20,5 +20,3 @@ Students spend most of their day hearing, speaking, reading, and writing in Chin
 As an international, language-immersion school, GIS families are a multicultural, diverse community and students experience cross-cultural learning throughout the year with holiday celebrations, special events, combined track activities, and more.
 
 GIS is an IB PYP World School, so teachers actively resource and customize, in Chinese, lessons and curriculum that align with the IB themes of the year, cross-referenced with Common Core Standards, Chinese national curriculum standards, and ACTFL standards. Instruction is differentiated for students in each grade level.
-
-gspdx-logo

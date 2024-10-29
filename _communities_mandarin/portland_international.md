@@ -18,5 +18,3 @@ The International School provides a warm, multicultural environment where childr
 The International School is Portland's first International Baccalaureate elementary school. It was founded in 1990 and today educates over 480 students from age 3 through 5th grade.
 
 We encourage you to visit us to learn more!
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/internationalpic_qwpljlrdzaxohr9e8ydy)
