@@ -1,5 +1,5 @@
 ---
-title: "97219: Springleaf Chinese School 春叶中文学校"
+title: "SW Portland: Springleaf Chinese School 春叶中文学校"
 location: "12000 SW 49th Ave., Portland OR 97219"
 sidebar:
   - title: "Address"

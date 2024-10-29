@@ -1,5 +1,5 @@
 ---
-title: "97223: Engineering For Kids 儿童科技班"
+title: "Tigard: Engineering For Kids 儿童科技班"
 location: "11507 SW Pacific Hwy 217, Tigard, OR 97223"
 sidebar:
   - title: "Address"

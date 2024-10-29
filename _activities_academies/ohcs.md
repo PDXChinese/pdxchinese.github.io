@@ -1,5 +1,5 @@
 ---
-title: "97229: Oregon Hope Chinese School (OHCS) 俄勒冈希望中文学校"
+title: "Beaverton: Oregon Hope Chinese School (OHCS) 俄勒冈希望中文学校"
 location: "6655 NW Joss Avenue, Portland, OR 97229"
 sidebar:
   - title: "Address"

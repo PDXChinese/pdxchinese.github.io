@@ -1,5 +1,5 @@
 ---
-title: "97223: Lake Learning Center 中英文双语学校"
+title: "Tigard: Lake Learning Center 中英文双语学校"
 location: "11700 SW 67th Ave, Tigard, OR 97223"
 sidebar:
   - title: "Address"

@@ -1,5 +1,5 @@
 ---
-title: "97229: Bamboo International School 竹林国际学校"
+title: "Beaverton: Bamboo International School 竹林国际学校"
 location: "14695 NW West Union Rd. Portland, OR 97229"
 sidebar:
   - title: "Address"

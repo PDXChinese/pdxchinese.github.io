@@ -1,9 +1,9 @@
 ---
-title: "97333: Corvallis Chinese School 谷心中文学校"
-location: "4045 SW Research Way Corvallis, OR 97333"
+title: "Corvallis: Corvallis Chinese School 谷心中文学校"
+location: "4045 SW Research Way, Corvallis, OR 97333"
 sidebar:
   - title: "Address"
-    text: "4045 SW Research Way Corvallis, OR97333"
+    text: "4045 SW Research Way, Corvallis, OR97333"
   - title: "Phone"
     text: "n/a"
   - title: "Email"

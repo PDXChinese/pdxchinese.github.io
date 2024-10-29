@@ -1,5 +1,5 @@
 ---
-title: "97229: XSTREAM Learning Center"
+title: "NW Portland: XSTREAM Learning Center"
 location: "2029-2033 NW Miller Rd. ​Portland, OR 97229"
 sidebar:
   - title: "Address"

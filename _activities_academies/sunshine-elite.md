@@ -1,5 +1,5 @@
 ---
-title: "97229: Sunshine Elite Education"
+title: "Beaverton: Sunshine Elite Education"
 location: "15320 NW Central Dr. Ste D6 Portland, OR 97229"
 sidebar:
   - title: "Address"

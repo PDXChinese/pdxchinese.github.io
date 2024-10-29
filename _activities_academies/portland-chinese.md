@@ -1,5 +1,5 @@
 ---
-title: "97201: Portland Chinese School 波特蘭中文學校"
+title: "SW Portland: Portland Chinese School 波特蘭中文學校"
 location: "1721 SW Broadway, Portland, OR 97201"
 sidebar:
   - title: "Address"

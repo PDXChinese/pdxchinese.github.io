@@ -1,5 +1,5 @@
 ---
-title: "97266: Yu Miao Chinese Immersion Preschool 育苗中文语言学前班"
+title: "SE Portland: Yu Miao Chinese Immersion Preschool 育苗中文语言学前班"
 location: "9035 SE Foster Rd, Portland, OR 97266"
 sidebar:
   - title: "Address"

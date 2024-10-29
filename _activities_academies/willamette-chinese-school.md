@@ -1,5 +1,5 @@
 ---
-title: "97330: Willamette Chinese School 华兰中文学校"
+title: "Corvallis: Willamette Chinese School 华兰中文学校"
 location: "987 NE Conifer Blvd, Corvallis OR 97330"
 sidebar:
   - title: "Address"

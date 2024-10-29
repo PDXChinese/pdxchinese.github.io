@@ -1,5 +1,5 @@
 ---
-title: "97232: Effective Chinese"
+title: "NE Portland: Effective Chinese"
 location: "Rm 2007 Lloyd Center, Portland Oregon"
 sidebar:
   - title: "Address"
