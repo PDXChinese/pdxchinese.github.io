@@ -1,11 +1,11 @@
 ---
-title: "Lake Learning Center 中英文双语学校"
-location: "14695 NW West Union Rd. Portland, OR 97229"
+title: "97223: Lake Learning Center 中英文双语学校"
+location: "11700 SW 67th Ave, Tigard, OR 97223"
 sidebar:
   - title: "Address"
-    text: "4565 Carman Drive, Lake Oswego, Oregon 97035"
+    text: "11700 SW 67th Ave, Tigard, OR 97223"
   - title: "Phone"
-    text: "(503)462-5055 / (971)244-2341"
+    text: "(503)462-5055"
   - title: "Email"
     text: "lakelearningcenter@gmail.com"
   - title: "Website"

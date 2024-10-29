@@ -1,9 +1,9 @@
 ---
-title: "XSTREAM Learning Center"
-location: "2057 NW Miller RD, Portland OR 97229"
+title: "97229: XSTREAM Learning Center"
+location: "2029-2033 NW Miller Rd. ​Portland, OR 97229"
 sidebar:
   - title: "Address"
-    text: "2057 NW Miller RD, Portland OR 97229"
+    text: "2029-2033 NW Miller Rd. ​Portland, OR 97229"
     image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/xtreme1_pef6qlv9usrdigj6zefq"
   - title: "Phone"
     text: "503-841-3445"

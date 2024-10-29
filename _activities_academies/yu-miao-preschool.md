@@ -1,13 +1,11 @@
 ---
-title: "Yu Miao Chinese Immersion Preschool 育苗中文语言学前班"
-location: "5239 SE Woodstock Blvd. Portland, OR 97206"
+title: "97266: Yu Miao Chinese Immersion Preschool 育苗中文语言学前班"
+location: "9035 SE Foster Rd, Portland, OR 97266"
 sidebar:
   - title: "Address"
-    text: "5239 SE Woodstock Blvd. Portland, OR 97206"
+    text: "9035 SE Foster Rd, Portland, OR 97266"
   - title: "Phone"
     text: "(503) 775-3767"
-  - title: "Email"
-    text: "tyang@ahscpdx.org"
   - title: "Website"
     text: "[www.ahscpdx.org/yumiao.html](http://www.ahscpdx.org/yumiao.html)"
 ---

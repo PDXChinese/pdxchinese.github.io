@@ -1,9 +1,9 @@
 ---
-title: "Springleaf Chinese School 春叶中文学校"
-location: "Sylvania Campus, Portland Community College (12000 SW 49th Ave.)"
+title: "97219: Springleaf Chinese School 春叶中文学校"
+location: "12000 SW 49th Ave., Portland OR 97219"
 sidebar:
   - title: "Address"
-    text: "Sylvania Campus, Portland Community College (12000 SW 49th Ave.)"
+    text: "Sylvania Campus, Portland Community College (12000 SW 49th Ave., Portland OR 97219)"
     image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/springleafLogo_y2p3bwe0abrxvgqp1kid"
   - title: "Phone"
     text: "(503)702-0993 (503)380-1159"

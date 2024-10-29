@@ -1,9 +1,9 @@
 ---
-title: "Portland Chinese School 波特蘭中文學校"
-location: "724 Harrison St, 3rd Fl. Neuberger Hall, Portland OR 97201"
+title: "97201: Portland Chinese School 波特蘭中文學校"
+location: "1721 SW Broadway, Portland, OR 97201"
 sidebar:
   - title: "Address"
-    text: "724 Harrison St, 3rd Fl. Neuberger Hall, Portland OR 97201"
+    text: "1721 SW Broadway, Portland, OR 97201"
     image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/portland-chinese_y1vialejruoduzzvqx44"
   - title: "Phone"
     text: "(503) 564-8720"

@@ -1,5 +1,5 @@
 ---
-title: "CEC Chinese Language School 波特兰华人福音教会中文学校"
+title: "97124: CEC Chinese Language School 波特兰华人福音教会中文学校"
 location: "5529 NW Five Oaks Dr. Hillsboro, OR 97124"
 sidebar:
   - title: "Address"

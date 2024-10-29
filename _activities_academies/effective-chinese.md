@@ -1,9 +1,9 @@
 ---
-title: "Effective Chinese"
+title: "97232: Effective Chinese"
 location: "Rm 2007 Lloyd Center, Portland Oregon"
 sidebar:
   - title: "Address"
-    text: "Rm 2007 Lloyd Center, Portland Oregon"
+    text: "Rm 2007, 2201 Lloyd Center, Portland, OR 97232"
     image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/effectivelogo_rds63z2ysb75jrit0qos"
   - title: "Phone"
     text: "(503)567-8543"

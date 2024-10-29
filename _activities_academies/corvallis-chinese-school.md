@@ -1,5 +1,5 @@
 ---
-title: "Corvallis Chinese School 谷心中文学校"
+title: "97333: Corvallis Chinese School 谷心中文学校"
 location: "4045 SW Research Way Corvallis, OR 97333"
 sidebar:
   - title: "Address"

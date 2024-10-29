@@ -1,5 +1,5 @@
 ---
-title: "Willamette Chinese School 华兰中文学校"
+title: "97330: Willamette Chinese School 华兰中文学校"
 location: "987 NE Conifer Blvd, Corvallis OR 97330"
 sidebar:
   - title: "Address"
@@ -10,7 +10,7 @@ sidebar:
   - title: "Email"
     text: "wcscorvallis@gmail.com"
   - title: "Website"
-    text: "[wcscorvallis.webs.com/](http://wcscorvallis.webs.com/)"
+    text: "[https://www.willamettechinese.org/index.html](https://www.willamettechinese.org/index.html)"
 ---
 
 The Willamette Chinese School (WCS) is a non-profit organization established in 2000. It is the largest Chinese language and culture program in the Corvallis-Albany-Philomath area in Oregon.

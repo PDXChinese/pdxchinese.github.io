@@ -1,5 +1,5 @@
 ---
-title: "German International School of Portland-Chinese Track "
+title: "Beaverton: German International School of Portland-Chinese Track "
 location: "3900 SW Murray Boulevard, Beaverton, OR 97005"
 sidebar:
   - title: "Address"

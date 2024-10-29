@@ -1,17 +1,17 @@
 ---
-title: "The International School"
-location: "025 SW Sherman Street, Portland, Oregon 97201-5120"
+title: "Portland: The International School of Portland"
+location: "2305 S Water Ave, Portland, OR 97201"
 sidebar:
   - title: "Address"
-    text: "025 SW Sherman Street, Portland, Oregon 97201-5120"
+    text: "2305 S Water Ave Portland, OR 97201"
     image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/international_yzetv0cujycixybzscqg"
   - title: "Phone"
     text: "503-226-2496"
-  - title: "Email"
-    text: "CandyT@intlschool.org (Main Campus)"
   - title: "Website"
     text: "[www.intlschool.org/](http://www.intlschool.org/)"
 ---
+
+Spanish, Mandarin & Japanese Language Immersion Education and International Baccalaureate Elementary School in Portland, OR.
 
 The International School provides a warm, multicultural environment where children are fully immersed in Spanish, Japanese or Chinese from preschool through 5th grade. Its small classes and inquiry-based, International Baccalaureate approach enable children to acquire language and culture as they learn to pursue knowledge beyond the classroom and throughout life.
 
