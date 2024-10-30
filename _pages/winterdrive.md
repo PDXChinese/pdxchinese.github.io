@@ -39,7 +39,6 @@ permalink: /winterdrive/
 | Xing you Sun | Stoller Middle School |
 | Michelle Xiao | Valley Catholic |
 | :three: Bethany Village | |
-| Emily Liu | Springville Elementary School |
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
 | Ethan Knapp  | Westview High School |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |

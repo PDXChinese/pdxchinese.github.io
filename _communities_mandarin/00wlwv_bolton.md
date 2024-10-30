@@ -19,4 +19,4 @@ Our Chinese Dual Language Program begins with kindergarten in Fall 2022 at Bolto
 
 Beginning in Fall 2022 with kindergarten, there will be a grade level added each school year to the one-way immersion program.  Students will continue with the Chinese Dual Language Program at Athey Creek Middle School.  Chinese Dual Language courses will be offered at West Linn and Wilsonville High Schools.
 
-[School District Dual Language Program](https://www.wlwv.k12.or.us/Page/5109)
+West Linn-Wilsonville School District [Dual Language Program](https://www.wlwv.k12.or.us/Page/5109)
