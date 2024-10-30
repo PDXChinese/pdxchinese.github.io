@@ -1,9 +1,9 @@
 ---
 title: "Beaverton: GoodTime Chinese School 好时光中文学校"
-location: "15285 NW Central Drive Suite 201, Portland, OR 97229"
+location: "15285 NW Central Drive, Suite 201, Portland, OR 97229"
 sidebar:
   - title: "Address"
-    text: "15285 NW Central Drive Suite 201, Portland, OR 97229"
+    text: "15285 NW Central Drive, Suite 201, Portland, OR 97229"
   - title: "Phone"
     text: "<p>503-553-9666: Chinese Only Speaking Line</p><p>503-277-3899: Chinese and English Speaking Line</p><p>503-616-5585: English Only Line</p>"
   - title: "Email"
