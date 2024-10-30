@@ -1,6 +1,6 @@
 ---
 title: "WLWV: Bolton Primary School"
-location: "5933 Holmes St., West Linn, OR 97068"
+location: "Chinese Dual Language Program: K-5"
 sidebar:
   - title: "Address"
     text: "5933 Holmes St., West Linn, OR 97068"
