@@ -1,6 +1,6 @@
 ---
 title: "BSD: International School of Beaverton (ISB)"
-location: "17770 SW Blanton St, Aloha, OR 97078"
+location: "Mandarin I-IV, IB Mandarin SL/HL"
 sidebar:
   - title: "Address"
     text: "17770 SW Blanton St, Aloha, OR 97078"
