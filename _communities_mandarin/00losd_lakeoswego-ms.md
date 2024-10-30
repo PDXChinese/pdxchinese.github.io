@@ -1,6 +1,6 @@
 ---
 title: "LOSD: Lake Oswego Middle School"
-location: "2055 Wembley Park Rd, Lake Oswego, OR 97034"
+location: "Chinese I is offered to 8th Graders only"
 sidebar:
   - title: "Address"
     text: "2055 Wembley Park Rd, Lake Oswego, OR 97034"

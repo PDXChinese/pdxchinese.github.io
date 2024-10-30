@@ -1,6 +1,6 @@
 ---
 title: "LOSD: Lake Oswego High School"
-location: "2501 Country Club Road, Lake Oswego, OR 97034"
+location: "Chinese I, II, III, IV/AP"
 sidebar:
   - title: "Address"
     text: "2501 Country Club Road, Lake Oswego, OR 97034"

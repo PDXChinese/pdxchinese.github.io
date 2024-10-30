@@ -1,6 +1,6 @@
 ---
 title: "LOSD: Lakeridge High School"
-location: "1235 Overlook Drive, Lake Oswego, OR 97034"
+location: "Chinese I, II, III, IV/AP"
 sidebar:
   - title: "Address"
     text: "1235 Overlook Drive, Lake Oswego, OR 97034"

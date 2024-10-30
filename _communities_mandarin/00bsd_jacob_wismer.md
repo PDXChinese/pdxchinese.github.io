@@ -1,6 +1,6 @@
 ---
 title: "BSD: Jacob Wismer Elementary"
-location: "5477 NW Skycrest Parkway, Portland, OR 97229"
+location: "Dual Language Mandarin Chinese Program: K-5"
 sidebar:
   - title: "Address"
     text: "5477 NW Skycrest Parkway, Portland, OR 97229"

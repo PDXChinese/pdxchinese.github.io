@@ -1,6 +1,6 @@
 ---
 title: "LOSD: Lakeridge Middle School"
-location: "4700 Jean Road, Lake Oswego, OR 97035"
+location: "Chinese I is offered to both 7th and 8th Graders"
 sidebar:
   - title: "Address"
     text: "4700 Jean Road, Lake Oswego, OR 97035"

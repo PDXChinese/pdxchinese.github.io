@@ -1,6 +1,6 @@
 ---
 title: "BSD: Hope Chinese Charter School (HCCS)"
-location: "Mandarin Immersion Program for K-8"
+location: "Mandarin Immersion Program: K-8"
 sidebar:
   - title: "Address"
     text: "3500 SW 104th Ave Beaverton, OR 97005"
