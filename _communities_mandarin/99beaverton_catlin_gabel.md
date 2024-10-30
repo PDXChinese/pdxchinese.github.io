@@ -1,6 +1,6 @@
 ---
 title: "Beaverton: Catlin Gabel School"
-location: "8825 SW Barnes Road, Portland, OR 97225"
+location: "Mandarin Chinese: Grade 1-12"
 sidebar:
   - title: "Address"
     text: "8825 SW Barnes Road, Portland, OR 97225"

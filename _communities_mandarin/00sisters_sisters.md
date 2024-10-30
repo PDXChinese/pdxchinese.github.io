@@ -1,6 +1,6 @@
 ---
 title: "Sisters: Sisters High School (SHS)"
-location: "1700 W McKinney Butte Rd, Sisters, OR 97759"
+location: "Chinese I, II, III, IV/AP"
 sidebar:
   - title: "Address"
     text: "1700 W McKinney Butte Rd, Sisters, OR 97759"

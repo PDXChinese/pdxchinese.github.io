@@ -1,6 +1,6 @@
 ---
 title: "PPS: Woodstock Elementary School"
-location: "5601 SE 50th Ave., Portland, OR 97206"
+location: "Mandarin Immersion Program: K-5"
 sidebar:
   - title: "Address"
     text: "5601 SE 50th Ave., Portland, OR 97206"

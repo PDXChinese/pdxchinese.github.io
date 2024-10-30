@@ -1,6 +1,6 @@
 ---
 title: "Beaverton: Willamette Valley Academy"
-location: "16100 NW Cornell Rd Ste 290, Beaverton, OR 97006"
+location: "Chinese Classes: PreK-10"
 sidebar:
   - title: "Address"
     text: "16100 NW Cornell Rd Ste 290, Beaverton, OR 97006"

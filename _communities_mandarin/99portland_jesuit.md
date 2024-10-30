@@ -1,6 +1,6 @@
 ---
 title: "Portland: Jesuit High School"
-location: "9000 SW Beaverton-Hillsdale Hwy., Portland, OR 97225"
+location: "World Language Chinese I, II, III, IV, and AP Chinese"
 sidebar:
   - title: "Address"
     text: "9000 SW Beaverton-Hillsdale Hwy., Portland, OR 97225"

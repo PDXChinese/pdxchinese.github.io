@@ -1,6 +1,6 @@
 ---
 title: "Medford: St. Mary's School"
-location: "816 Black Oak Dr., Medford OR, 97504"
+location: "World Language Chinese I, II, III, IV, and AP Chinese"
 sidebar:
   - title: "Address"
     text: "816 Black Oak Dr., Medford OR, 97504"

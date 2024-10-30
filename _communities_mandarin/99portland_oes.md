@@ -1,6 +1,6 @@
 ---
 title: "Portland: Oregon Episcopal School (OES)"
-location: "6300 SW Nicol Road, Portland, OR 97223"
+location: "Chinese Classes: 6-12"
 sidebar:
   - title: "Address"
     text: "6300 SW Nicol Road, Portland, OR 97223"

@@ -1,6 +1,6 @@
 ---
 title: "Beaverton: German International School of Portland-Chinese Track"
-location: "3900 SW Murray Boulevard, Beaverton, OR 97005"
+location: "Chinese Immersion: Age 2 - Grade 8"
 sidebar:
   - title: "Address"
     text: "3900 SW Murray Boulevard, Beaverton, OR 97005"

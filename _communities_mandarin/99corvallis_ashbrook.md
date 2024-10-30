@@ -1,6 +1,6 @@
 ---
 title: "Corvallis: Ashbrook Independent School"
-location: "4045 SW Research Way, Corvallis, OR 97333"
+location: "Chinese Classes: K-8"
 sidebar:
   - title: "Address"
     text: "4045 SW Research Way, Corvallis, OR 97333"

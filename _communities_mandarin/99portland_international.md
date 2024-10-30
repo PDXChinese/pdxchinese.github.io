@@ -1,6 +1,6 @@
 ---
 title: "Portland: The International School of Portland"
-location: "2305 S Water Ave, Portland, OR 97201"
+location: "Mandarin Immersion Program: PreK-5"
 sidebar:
   - title: "Address"
     text: "2305 S Water Ave Portland, OR 97201"
