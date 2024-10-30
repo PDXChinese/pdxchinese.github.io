@@ -1,6 +1,6 @@
 ---
 title: "Bend: Caldera High School (CHS)"
-location: "60925 SE 15th St, Bend, OR 97702"
+location: "Chinese I for Grade 9-12; II for Grade 10-12"
 sidebar:
   - title: "Address"
     text: "60925 SE 15th St, Bend, OR 97702"

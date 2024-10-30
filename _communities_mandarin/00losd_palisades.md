@@ -1,6 +1,6 @@
 ---
 title: "LOSD: Palisades World Language School"
-location: "1500 Greentree Avenue, Lake Oswego, OR 97034"
+location: "Immersion Program"
 sidebar:
   - title: "Address"
     text: "1500 Greentree Avenue, Lake Oswego, OR 97034"
