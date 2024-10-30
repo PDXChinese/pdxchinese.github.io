@@ -10,7 +10,7 @@ sidebar:
   - title: "Email"
     text: "info@SunshineEliteEducation.com"
   - title: "Website"
-    text: "[sunshineeliteeducation.com/](http://sunshineeliteeducation.com/)"
+    text: "[https://www.sunshineeliteeducation.com/](https://www.sunshineeliteeducation.com/)"
 ---
 
 ## Welcome to Sunshine Elite Education!
