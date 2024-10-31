@@ -12,7 +12,7 @@ permalink: /youthconference/
 ## Registration & Award Application
 
 [Youth Conference registration form](https://docs.google.com/forms/d/e/1FAIpQLSeSSDTPGiyHgZ2CmYjjpXz7SlZvqoqpYTIdMOnCIHzdFsBRZA/viewform?usp=sf_link)  
-[Nomination form](https://docs.google.com/forms/d/e/1FAIpQLSfQRyJHdDFVPnelnzQpe8xVH2n0A8AsvoNi7VqHrCHFtCS4vg/viewform?c=0&w=1) for scholarship and awards.  
+[Application for OCC Community Scholarship/Awards](https://docs.google.com/forms/d/e/1FAIpQLSfQRyJHdDFVPnelnzQpe8xVH2n0A8AsvoNi7VqHrCHFtCS4vg/viewform?c=0&w=1)   
 [Application for OCC Youth Council](https://docs.google.com/forms/d/e/1FAIpQLSdctwF7MalIH_v_ne-_8e4V7NsYEw-VS6L_3Gft3t0w7STV4g/viewform?usp=sf_link)  
 
 ## Agenda
