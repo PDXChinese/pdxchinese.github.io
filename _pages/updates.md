@@ -30,7 +30,7 @@ Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_
 
 Date: Dec. 31, 2024 Tuesday 6pm-9pm  
 Place: [Main & Harrison](https://www.google.com/maps/place/Milwaukie+Farmers+Market/@45.4461942,-122.6424757,940m/data=!3m1!1e3!4m6!3m5!1s0x5495752817996c89:0xcce8379d6bb9ef18!8m2!3d45.4453436!4d-122.6416154!16s%2Fg%2F11dybsh7j7?entry=ttu&g_ep=EgoyMDI0MTAyNy4wIKXMDSoASAFQAw%3D%3D) (site of the Milwaukie Farmers Market)  
-Volunteer/Performer/Donor [Signup Form](https://www.google.com/maps/place/Milwaukie+Farmers+Market/@45.4461942,-122.6424757,940m/data=!3m1!1e3!4m6!3m5!1s0x5495752817996c89:0xcce8379d6bb9ef18!8m2!3d45.4453436!4d-122.6416154!16s%2Fg%2F11dybsh7j7?entry=ttu&g_ep=EgoyMDI0MTAyNy4wIKXMDSoASAFQAw%3D%3D)  
+Volunteer/Performer/Donor [Signup Form](https://docs.google.com/forms/d/e/1FAIpQLSdt7Ww7VS1Suvib3OE9EMueoZqlyB2OXqps684yi367wnp8-Q/viewform?usp=sf_link)  
 
 ### January
 
