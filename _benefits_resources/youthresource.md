@@ -5,20 +5,19 @@ title: "华裔青少年年会和圆桌会资料汇总"
 [Home](https://pdxchinese.org/) > [Resources ABC](https://pdxchinese.org/resources/) > [Benefits/Resources > Resources](https://pdxchinese.org/resources/benefits/resources/)
 
 高中生课外社会活动[列表](https://goo.gl/2d2Kri) ([推荐表](https://goo.gl/5HpKVU))  
-大学奖学金及申请[截止日](https://willamette.edu/offices/saga/students/external/index.html)  
 西北兆：[设立NPO 501c3的八步曲](https://drive.google.com/file/d/1F5pXE9Ml0s2EY1s2_lgn2_IfSTszVgOO/view?usp=sharing)  
 
 ## 2024年青少年年会
 
 ### Voice of Civic Engagement Award  
-Meilan Xu, Westview High School
-Callie Chu, Sunset High School
-Jenny Chen, Lincoln High School
+Meilan Xu, Westview High School  
+Callie Chu, Sunset High School  
+Jenny Chen, Lincoln High School  
 
 ### Youth Empowerment Award  
-Sirena Chen, Lincoln High School
-Emma Di, Crescent Valley High School
-Helen Wang, Sunset High School
+Sirena Chen, Lincoln High School  
+Emma Di, Crescent Valley High School  
+Helen Wang, Sunset High School  
 
 ## 2023年青少年年会
 
