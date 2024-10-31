@@ -45,7 +45,10 @@ Chinese New Year Celebration
 
 ### March
 
-### [健康博览会/Health Fair](https://pdxchinese.org/healthinitiative/)
+### [2025 健康博览会/Health Fair](https://pdxchinese.org/healthinitiative/)
+
+Date: March 16, 2024 Sunday, 12pm-4pm (subject to space availability)  
+Place: TBD  
 
 ### May
 
