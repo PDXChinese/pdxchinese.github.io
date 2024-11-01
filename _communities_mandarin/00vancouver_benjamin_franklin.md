@@ -1,6 +1,6 @@
 ---
 title: "Vancouver: Benjamin Franklin Elementary School"
-location: "Mandarin Immersion Program: K-12"
+location: "Mandarin Immersion Program: K-5"
 sidebar:
   - title: "Address"
     text: "5206 NW Franklin St, Vancouver, WA 98663"
