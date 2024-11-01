@@ -35,6 +35,7 @@ permalink: /winterdrive/
 | Name/Drop Off Location | School/Organization |
 | --- | --- |
 | :one: [Sunset High School](https://maps.app.goo.gl/kp4qnw5j3C2j1jYu6) | |
+| Elsa Fan | Flex Online School |
 | :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
 | Xing you Sun | Stoller Middle School |
 | Michelle Xiao | Valley Catholic |
