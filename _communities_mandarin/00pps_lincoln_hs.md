@@ -1,6 +1,6 @@
 ---
 title: "PPS: Lincoln High School"
-location: "IB Mandarin SL 7-10, HL 11-12, "
+location: "IB Mandarin SL 7-10, HL 11-12"
 sidebar:
   - title: "Address"
     text: "1750 SW Salmon St, Portland, OR 97205"
