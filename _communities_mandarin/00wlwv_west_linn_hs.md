@@ -6,9 +6,9 @@ sidebar:
     text: "5464 W A St, West Linn, OR 97068"
     image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/WestLinn-1"
   - title: "Phone"
-    text: "503-673-7900"
+    text: "503-673-7800"
   - title: "Website"
-    text: "[https://www.wlwv.k12.or.us/bolps](https://www.wlwv.k12.or.us/bolps)"
+    text: "[https://www.wlwv.k12.or.us/Domain/1174](https://www.wlwv.k12.or.us/Domain/1174)"
 ---
 
 West Linn–Wilsonville School District World Languages – [Course Statement](https://or01001812.schoolwires.net/cms/lib/OR01001812/Centricity/Domain/41/sf_worldLanguage/WLWV%20HS%20World%20Lang%20Level%20III%20Jan%202010.pdf)
