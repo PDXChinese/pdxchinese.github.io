@@ -3,7 +3,7 @@ title: "WLWV: West Linn High School"
 location: "Chinese I, II, III, IV, V"
 sidebar:
   - title: "Address"
-    text: "5933 Holmes St., West Linn, OR 97068"
+    text: "5464 W A St, West Linn, OR 97068"
     image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/WestLinn-1"
   - title: "Phone"
     text: "503-673-7900"

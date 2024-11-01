@@ -3,12 +3,12 @@ title: "WLWV: Bolton Primary School"
 location: "Chinese Dual Language Program: K-5"
 sidebar:
   - title: "Address"
-    text: "5464 W A St, West Linn, OR 97068"
+    text: "5933 Holmes St, West Linn, OR 97068"
     image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/bolton-logo"
   - title: "Phone"
-    text: "503-673-7800"
+    text: "503-673-7900"
   - title: "Website"
-    text: "[https://www.wlwv.k12.or.us/Domain/1174](https://www.wlwv.k12.or.us/Domain/1174)"
+    text: "[https://www.wlwv.k12.or.us/bolps](https://www.wlwv.k12.or.us/bolps)"
 ---
 
 ### Mandarin Chinese Dual Language Program in Grades K-5
