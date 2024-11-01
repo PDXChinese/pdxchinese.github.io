@@ -1,5 +1,5 @@
 ---
-title: "PPS: Harriet Tubman Middle School"
+title: "PPS: Harrison Park Middle School"
 location: "Mandarin Immersion Program: 6-8"
 sidebar:
   - title: "Address"
