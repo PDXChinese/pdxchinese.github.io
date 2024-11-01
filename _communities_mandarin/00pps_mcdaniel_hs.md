@@ -1,6 +1,6 @@
 ---
 title: "PPS: McDaniel High School"
-location: "Chinese/Mandarin Program: 9-12"
+location: "World Language Chinese, Immersion from 2025"
 sidebar:
   - title: "Address"
     text: "2735 NE 82nd Ave, Portland, OR 97220"
