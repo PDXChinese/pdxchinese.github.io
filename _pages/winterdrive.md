@@ -35,6 +35,7 @@ permalink: /winterdrive/
 | Name/Drop Off Location | School/Organization |
 | --- | --- |
 | :one: [Sunset High School](https://maps.app.goo.gl/kp4qnw5j3C2j1jYu6) | |
+| Ashley Guo | BASE |
 | Elsa Fan | Flex Online School |
 | :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
 | Xing you Sun | Stoller Middle School |
@@ -52,7 +53,6 @@ permalink: /winterdrive/
 | Yicheng Zhang | Union High School |
 | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
 | :eight: [Hamilton Park](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5) | |
-| Ashley Guo | BASE |
 | Genevieve Slaton | NUNM |
 | :nine: [Whitford Middle School](https://maps.app.goo.gl/LW45HzD81vVQmj9Q6) | |
 | :one::zero: [Hosford Middle School](https://maps.app.goo.gl/Rejd7MSdbGChdQAD8) | |
