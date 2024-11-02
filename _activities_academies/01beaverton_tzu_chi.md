@@ -1,6 +1,6 @@
 ---
 title: "Beaverton: Tzu Chi Academy 波特兰慈济人文学校"
-location: "Sunday School for Students Aged 5-18"
+location: "3900 SW Murray Boulevard, Beaverton, OR 97005"
 sidebar:
   - title: "Address"
     text: "3900 SW Murray Boulevard, Beaverton, OR 97005"
