@@ -45,11 +45,15 @@ permalink: /winterdrive/
 | Eric Zhao | Sunset High School |
 | Erin Qiu | Stoller Middle School |
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
+| Alex Cui | Sunset High School |
 | Ethan Knapp  | Westview High School |
 | Laurence Ji | Valley Catholic |
 | Sarah Yi | Westview High School |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | Andy Xiong | Willamette Valley Academy |
+| Arianna Hong  | BASE |
+| Brianna Hong  | BASE |
+| Derica Theobald | Lincoln High School |
 | Ethan Zhang | Westview High School |
 | Lucas Zhang | Catlin Gabel School |
 | :six: Vancouver | |
