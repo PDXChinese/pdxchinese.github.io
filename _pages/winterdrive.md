@@ -47,8 +47,11 @@ permalink: /winterdrive/
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
 | Ethan Knapp  | Westview High School |
 | Laurence Ji | Valley Catholic |
+| Sarah Yi | Westview High School |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | Andy Xiong | Willamette Valley Academy |
+| Ethan Zhang | Westview High School |
+| Lucas Zhang | Catlin Gabel School |
 | :six: Vancouver | |
 | Yicheng Zhang | Union High School |
 | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
@@ -63,7 +66,11 @@ permalink: /winterdrive/
 | :one::two: Lake Oswego | |
 | Haoxiang Zhu | Arbor School of Arts & Sciences |
 | Melissa Mei | Lake Oswego Middle School |
+| Sean Jiang | Lakeridge Middle School |
 | :one::three: Corvallis | |
+| :one::four: Tigard | |
+| Zhengyan Li | Westgate Christian school |
+
 
 ## Donation Items
 
