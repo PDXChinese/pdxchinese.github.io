@@ -51,8 +51,6 @@ permalink: /winterdrive/
 | Sarah Yi | Westview High School |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | Andy Xiong | Willamette Valley Academy |
-| Arianna Hong  | BASE |
-| Brianna Hong  | BASE |
 | Derica Theobald | Lincoln High School |
 | Ethan Zhang | Westview High School |
 | Lucas Zhang | Catlin Gabel School |
@@ -74,6 +72,8 @@ permalink: /winterdrive/
 | Sean Jiang | Lakeridge Middle School |
 | :one::three: Corvallis | |
 | :one::four: Tigard | |
+| Arianna Hong  | BASE |
+| Brianna Hong  | BASE |
 | Zhengyan Li | Westgate Christian school |
 
 
