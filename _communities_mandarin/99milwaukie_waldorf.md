@@ -9,7 +9,7 @@ sidebar:
     text: "(503) 654-2200"
   - title: "Email"
     text: "(503) 652-6152"
-    - title: "Website"
+  - title: "Website"
     text: "[https://www.portlandwaldorfhighschool.org/](https://www.portlandwaldorfhighschool.org/)"
 ---
 
