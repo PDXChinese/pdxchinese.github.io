@@ -65,6 +65,7 @@ permalink: /winterdrive/
 | :one::one: [Hope Chinese Charter School](https://www.google.com/maps/place/Hope+Chinese+Charter+School/@45.4948458,-122.7853069,18z/data=!4m6!3m5!1s0x5495095af942afd9:0x759fa57a8326c607!8m2!3d45.4946694!4d-122.783813!16s%2Fg%2F1264hsl_c?entry=ttu) | |
 | :one::two: Lake Oswego | |
 | Haoxiang Zhu | Arbor School of Arts & Sciences |
+| Kevin Lin | West Linn High School |
 | Melissa Mei | Lake Oswego Middle School |
 | Sean Jiang | Lakeridge Middle School |
 | :one::three: Corvallis | |
