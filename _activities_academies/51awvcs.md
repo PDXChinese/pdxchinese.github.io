@@ -4,7 +4,7 @@ location: "1933 Fort Vancouver Way, Vancouver, WA 98683"
 sidebar:
   - title: "Address"
     text: "1933 Fort Vancouver Way, Vancouver, WA 98683"
-    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/evangelicallogo1"
+    image: "https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/awvcs-logo"
   - title: "Phone"
     text: "971-319-1615"
   - title: "email"
