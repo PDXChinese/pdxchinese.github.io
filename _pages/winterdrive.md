@@ -40,6 +40,8 @@ permalink: /winterdrive/
 | Xing you Sun | Stoller Middle School |
 | Michelle Xiao | Valley Catholic |
 | :three: Bethany Village | |
+| Emily Zhao | Findley Elementary School |
+| Eric Zhao | Sunset High School |
 | Erin Qiu | Stoller Middle School |
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
 | Ethan Knapp  | Westview High School |
