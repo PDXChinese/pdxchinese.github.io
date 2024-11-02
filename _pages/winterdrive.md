@@ -62,6 +62,7 @@ permalink: /winterdrive/
 | :nine: [Alberta Rider Elementary School](https://maps.app.goo.gl/qf6LT5CBoRZkLgBw8) | |
 | Arianna Hong  | BASE |
 | Brianna Hong  | BASE |
+| Bryan yan | Alberta Rider Elementary |
 | Zhengyan Li | Westgate Christian school |
 | :one::zero: [Hosford Middle School](https://maps.app.goo.gl/Rejd7MSdbGChdQAD8) | |
 | Ashley Fong | Hosford Middle School |
