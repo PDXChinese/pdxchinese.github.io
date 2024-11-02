@@ -1,9 +1,9 @@
 ---
-title: "West Linn: Yufang's Chinese Learning Center"
-location: "23865 S. Wild Rose Dr., West Linn, OR 97068"
+title: "Beaverton: Yufang's Chinese Learning Center"
+location: "12755 NW Dogwood St., Portland, OR 97229"
 sidebar:
   - title: "Address"
-    text: "23865 S. Wild Rose Dr., West Linn, OR 97068"
+    text: "12755 NW Dogwood St., Portland, OR 97229"
   - title: "Phone"
     text: "(503) 213-4762 or (971) 226-0907"
   - title: "Email"
