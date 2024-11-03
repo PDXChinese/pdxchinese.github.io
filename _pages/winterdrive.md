@@ -41,8 +41,6 @@ permalink: /winterdrive/
 | Xing you Sun | Stoller Middle School |
 | Michelle Xiao | Valley Catholic |
 | :three: Bethany Village | |
-| Emily Zhao | Findley Elementary School |
-| Eric Zhao | Sunset High School |
 | Erin Qiu | Stoller Middle School |
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
 | Alex Cui | Sunset High School |
@@ -62,7 +60,7 @@ permalink: /winterdrive/
 | :nine: [Alberta Rider Elementary School](https://maps.app.goo.gl/qf6LT5CBoRZkLgBw8) | |
 | Arianna Hong  | BASE |
 | Brianna Hong  | BASE |
-| Bryan yan | Alberta Rider Elementary |
+| Bryan Yan | Alberta Rider Elementary |
 | Zhengyan Li | Westgate Christian school |
 | :one::zero: [Hosford Middle School](https://maps.app.goo.gl/Rejd7MSdbGChdQAD8) | |
 | Ashley Fong | Hosford Middle School |
