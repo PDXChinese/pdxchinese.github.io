@@ -1,6 +1,11 @@
 ---
 title: " "
 permalink: /winterdrive/
+feature_row:
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_hosford
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_fp
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_tigard
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_bethany
 ---
 
 <p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/winter_drive_banner"></p>  
@@ -16,7 +21,7 @@ permalink: /winterdrive/
 | --- | --- | --- |
 |  | Outside school main entrance|
 |  | :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
-|  | :three: Bethany Village | [In front of Walgreens](https://maps.app.goo.gl/xFw6Q1vBBVDvNdR79) |
+| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_bethany) | :three: Bethany Village | [In front of Walgreens](https://maps.app.goo.gl/xFw6Q1vBBVDvNdR79) |
 |  | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_fp) | :five: [Forest Park Elementary School, NW Portland](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 |  | :six: Vancouver  | to be determined |
@@ -52,7 +57,7 @@ permalink: /winterdrive/
 | Derica Theobald | Lincoln High School |
 | Ethan Zhang | Westview High School |
 | Lucas Zhang | Catlin Gabel School |
-| Xinye Zhu | West Sylvan Middle School | 
+| Xinye Zhu | West Sylvan Middle School |
 | :six: Vancouver | |
 | Yicheng Zhang | Union High School |
 | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
