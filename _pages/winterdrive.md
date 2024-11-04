@@ -35,6 +35,8 @@ feature_row:
 
 **[2024 OCC Donation Receipt](/assets/pdf/occ_donation_receipt_2024.pdf)**
 
+{% include feature_row id="feature_row"%}
+
 ## Student Volunteers
 
 | Name/Drop Off Location | School/Organization |
