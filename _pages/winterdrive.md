@@ -55,6 +55,7 @@ feature_row:
 | Ethan Knapp  | Westview High School |
 | Laurence Ji | Valley Catholic |
 | Sarah Yi | Westview High School |
+| Shengxi Chen | Westview High School |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | Andy Xiong | Willamette Valley Academy |
 | Derica Theobald | Lincoln High School |
