@@ -58,7 +58,6 @@ feature_row:
 | Shengxi Chen | Westview High School |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | Andy Xiong | Willamette Valley Academy |
-| Derica Theobald | Lincoln High School |
 | Ethan Zhang | Westview High School |
 | Lucas Zhang | Catlin Gabel School |
 | Xinye Zhu | West Sylvan Middle School |
