@@ -28,7 +28,7 @@ Building resilience in the community involves two key aspects: being consistentl
 训练手册  
 OCC与社区伙伴意向书  
 
-### 波特兰地区（官方）地震紧急联络站 (BEECN)
+### 波特兰地区(官方)地震紧急联络站 (BEECN)
 
 [地震紧急通信结点地图](https://www.portland.gov/pbem/documents/beecnjiantizhongwendetu/download)
 
