@@ -34,6 +34,8 @@ extra:
         url: /mealprovider/
       - title: "Oral History"
         url: /oralhistory/
+      - title: "Resilient Hub"
+        url: /resilient/
       - title: "Ride with Seniors"
         url: /ridewseniors/
       - title: "Volunteering"
