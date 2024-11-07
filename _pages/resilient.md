@@ -19,11 +19,9 @@ Building resilience in the community involves two key aspects: being consistentl
 
 ### 应急物品货柜 (Emergency Supplies Conex Boxes)
 
-地点:
-
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DpjChN6M4yE7l-X6GcazT9B0VnaR6pA&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
-社区合作伙伴: [THPRD](https://www.thprd.org/facilities/sports/pcc-rock-creek), [Willamette Valley First Responder Chaplains, WVFRC](https://www.wvfrc.org/), [Brownsville Rural Fire District](http://www.brownsvillefire.com/index.html), and more...
+社区合作伙伴: [THPRD](https://www.thprd.org/facilities/sports/pcc-rock-creek), [Willamette Valley First Responder Chaplains(WVFRC)](https://www.wvfrc.org/), [Brownsville Rural Fire District](http://www.brownsvillefire.com/index.html), and more...
 
 能接触货柜的社区成员:
 
@@ -42,9 +40,10 @@ BEECN（基本地震应急通信节点或紧急联络站的缩写）是波特兰
 
 ### 枪击现场对应策略
 
-<iframe width="1022" height="575" src="https://www.youtube.com/embed/dG6Ct4UBHx4" title="Community Active Shooter Preparedness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1022" height="575" src="https://www.youtube.com/embed/Kah27w-t2GA" title="Run, Hide, Fight - CSU Active Shooter Safety Training" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-中文文本
+[波特兰警局枪击现场对应策略视频](https://www.youtube.com/embed/dG6Ct4UBHx4)  
+中文文本  
 
 ### 登记接收本地紧急信息的短信
 
