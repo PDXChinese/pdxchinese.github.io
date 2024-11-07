@@ -42,8 +42,7 @@ BEECN（基本地震应急通信节点或紧急联络站的缩写）是波特兰
 
 <iframe width="1022" height="575" src="https://www.youtube.com/embed/Kah27w-t2GA" title="Run, Hide, Fight - CSU Active Shooter Safety Training" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
-[波特兰警局枪击现场对应策略视频](https://www.youtube.com/embed/dG6Ct4UBHx4)  
-中文文本  
+波特兰警局枪击现场对应策略：[视频](https://www.youtube.com/embed/dG6Ct4UBHx4), [中文文本](https://)
 
 ### 登记接收本地紧急信息的短信
 
