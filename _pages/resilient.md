@@ -7,9 +7,9 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/kumlogo
 ---
 
-# 建立抵抗自然灾害和仇恨犯罪社区保护中心（Resilient Hub）
+# 社区自然灾害与仇恨犯罪抵御网络（Resilient Hub）
 
-建立社区的抵抗力涉及两个关键方面：持续为紧急情况（例如自然灾害）做好准备和解决仇恨犯罪（包括歧视、人身攻击、骚乱以及针对种族的政策和法律）。
+建立社区抵御能力涉及两个关键方面：持续为紧急情况（例如自然灾害）做好准备和应对仇恨犯罪（包括歧视、人身攻击、骚乱以及针对种族的政策和法律）。
 
 Building resilience in the community involves two key aspects: being consistently prepared for emergencies (such as natural disasters) and addressing hate crimes (including discrimination, physical attacks, riots, and race-targeted policies and laws).
 
