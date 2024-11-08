@@ -53,3 +53,7 @@ BEECN（基本地震应急通信节点或紧急联络站的缩写）是波特兰
 <img src="//res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider" alt="divider" />
 
 ## 应对仇恨犯罪 （Hate Crime Preparedness）
+
+### 如果您成为种族性别等歧视受害者，如何寻求帮助/救助？
+
+[州司法部歧视和仇恨事件热线](https://www.doj.state.or.us/oregon-department-of-justice/civil-rights/bias-and-hate/)为受害者提供直接帮助，范围很宽泛。例如说，孩子们在学校受到霸凌，他们可以帮助联系学校和校区，甚至协助学生转学。社区有小业主受到歧视，因此受到经济上损失，可以申请补贴。有华人被人开车跟踪一直到家门口，并遭受种族仇恨性质的谩骂，这种情况下，当事家人因此需要接受心理咨询，可以得到免费30次，可以自找咨询师。。。您需要做的，就是拨打他们的热线或在网上填写表格。需要的话，OCC可以协助您。
