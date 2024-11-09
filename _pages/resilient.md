@@ -1,10 +1,6 @@
 ---
 title: ""
 permalink: /resilient/
-feature_row1:
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/rideconnection
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/lansulogo
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/kumlogo
 ---
 
 # 社区自然灾害与仇恨犯罪抵御网络（Resilient Hub）
@@ -17,13 +13,13 @@ Building resilience in the community involves two key aspects: being consistentl
 
 ### 社区应急准备委员会
 
-### 应急物品货柜 (Emergency Supplies Conex Boxes)
+### OCC应急物品货柜 (Emergency Supplies Conex Boxes)
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DpjChN6M4yE7l-X6GcazT9B0VnaR6pA&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 社区合作伙伴: [THPRD](https://www.thprd.org/facilities/sports/pcc-rock-creek), [Willamette Valley First Responder Chaplains(WVFRC)](https://www.wvfrc.org/), [Brownsville Rural Fire District](http://www.brownsvillefire.com/index.html), and more...
 
-能接触货柜的社区成员:
+有货柜钥匙的社区成员:
 
 训练手册  
 OCC与社区伙伴意向书  
