@@ -266,6 +266,12 @@ collections:
   communities_business:
     output: true
     permalink: /resources/:collection/:path/
+  disaster_conexbox:
+    output: true
+    permalink: /resources/:collection/:path/
+  disaster_resilience:
+    output: true
+    permalink: /resources/:collection/:path/
   benefits_community:
     output: true
     permalink: /resources/:collection/:path/
@@ -468,6 +474,20 @@ defaults:
   - scope:
       path: ""
       type: communities_business
+    values:
+      layout: single
+      author_profile: false
+  # disaster_conexbox
+  - scope:
+      path: ""
+      type: disaster_conexbox
+    values:
+      layout: single
+      author_profile: false
+  # disaster_resilience
+  - scope:
+      path: ""
+      type: disaster_resilience
     values:
       layout: single
       author_profile: false

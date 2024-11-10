@@ -24,6 +24,10 @@ Disclaimer: This compilation of public data is provided for the convenience of c
 - <a href="{{ site.url }}/resources/communities/religious/">Religious Groups/Churches</a> ({{ site.communities_religious | size }})
 - <a href="{{ site.url }}/resources/communities/business/">Small Business</a> ({{ site.communities_business | size }})
 
+## (D)isaster Preparedness
+- <a href="{{ site.url }}/resources/disaster/conexbox/">OCC Conex Boxes</a> ({{ site.disaster_conexbox | size }})
+- <a href="{{ site.url }}/resources/disaster/resilience/">Resilience Hub</a> ({{ site.disaster_resilience | size }})
+
 <!-- ## Professionals
 社区网站保留移除任何条目的权利，无需给出理由。
 
