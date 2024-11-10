@@ -85,6 +85,7 @@ feature_row:
 | Kevin Lin | West Linn High School |
 | Sean Jiang | Lakeridge Middle School |
 | :one::three: Corvallis | |
+| Aiden Li | Cheldelin Middle School |
 | Alena Li | Crescent Valley High School |
 
 
