@@ -5,17 +5,17 @@ feature_row:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_tigard
     excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_tigard'>Alberta Rider Elementary, Tigard</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_fp
-    excerpt: "<p>Forest Park Elementary, Portland</p>"
+    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_fp'>Forest Park Elementary, Portland</p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_bethany1
-    excerpt: "<p>Goodtime Elementary, Bethany</p>"
+    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_bethany1'>Goodtime Elementary, Bethany</p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_hosford
-    excerpt: "<p>Hosford Middle School, Portland</p>"
+    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_hosford'>Hosford Middle School, Portland</p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis
-    excerpt: "<p>Chepenafa Springs Park, Corvallis</p>"
+    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis'>Chepenafa Springs Park, Corvallis</p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_sunset
-    excerpt: "<p>Sunset High School, Beaverton</p>"  
+    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_sunset'>Sunset High School, Beaverton</p>"  
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_westview
-    excerpt: "<p>Westview High School, Bethany</p>"  
+    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_westview'>Westview High School, Bethany</p>"  
 ---
 
 <p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/winter_drive_banner"></p>  
