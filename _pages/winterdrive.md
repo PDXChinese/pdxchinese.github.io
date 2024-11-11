@@ -59,6 +59,7 @@ feature_row:
 | Xing you Sun | Stoller Middle School |
 | Michelle Xiao | Valley Catholic |
 | :three: Bethany Village | |
+| Emily Liu | Springville Elementary School |
 | Erin Qiu | Stoller Middle School |
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
 | Alex Cui | Sunset High School |
