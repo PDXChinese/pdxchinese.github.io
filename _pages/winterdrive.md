@@ -6,7 +6,7 @@ feature_row:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_fp
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_bethany
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_hosford
-
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis
 ---
 
 <p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/winter_drive_banner"></p>  
@@ -32,7 +32,7 @@ feature_row:
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_hosford) | :one::zero: [Hosford Middle School, SE Portland](https://maps.app.goo.gl/Rejd7MSdbGChdQAD8) | |
 |  | :one::one: [Hope Chinese Charter School, Beaverton](https://www.google.com/maps/place/Hope+Chinese+Charter+School/@45.4948458,-122.7853069,18z/data=!4m6!3m5!1s0x5495095af942afd9:0x759fa57a8326c607!8m2!3d45.4946694!4d-122.783813!16s%2Fg%2F1264hsl_c?entry=ttu) | |
 |  | :one::two: Lake Oswego | West Lake Park |
-|  | :one::three: Corvallis | Chepenafa Springs Park |
+| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis) | :one::three: Corvallis | Chepenafa Springs Park |
 
 **[2024 OCC Donation Receipt](/assets/pdf/occ_donation_receipt_2024.pdf)**
 
@@ -87,6 +87,8 @@ feature_row:
 | :one::three: Corvallis | |
 | Aiden Li | Cheldelin Middle School |
 | Alena Li | Crescent Valley High School |
+| Eleanor Guo | Bessie Coleman Elementary School |
+| Elizabeth Guo | Cheldelin Middle School |
 | Mark Yeh | Crescent Valley High School |
 | Sophia Qiu | Crescent Valley High School |
 
