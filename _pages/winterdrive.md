@@ -2,24 +2,24 @@
 title: " "
 permalink: /winterdrive/
 feature_row:
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_sunset
+    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_sunset'>Sunset High School, Beaverton</a></p>"    
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_bethany1
+    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_bethany1'>Goodtime Elementary, Bethany</a></p>"  
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_westview
+    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_westview'>Westview High School, Bethany</a></p>"  
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_fp
+    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_fp'>Forest Park Elementary, Portland</a></p>"    
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_tigard
     excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_tigard'>Alberta Rider Elementary, Tigard</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_fp
-    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_fp'>Forest Park Elementary, Portland</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_bethany1
-    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_bethany1'>Goodtime Elementary, Bethany</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_hosford
     excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_hosford'>Hosford Middle School, Portland</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_lo
+    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_lo'>West Lake Park, Lake Oswego</a></p>"  
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis
     excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis'>Chepenafa Springs Park, Corvallis</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis2
     excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis2'>Chepenafa Springs Park, Corvallis</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_sunset
-    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_sunset'>Sunset High School, Beaverton</a></p>"  
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_westview
-    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_westview'>Westview High School, Bethany</a></p>"  
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_lo
-    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_lo'>West Lake Park, Lake Oswego</a></p>"  
 ---
 
 <p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/winter_drive_banner"></p>  
@@ -33,12 +33,12 @@ feature_row:
 
 | Flyer | School/Location | Spot if Specified |
 | --- | --- | --- |
-|  [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_sunset) | :one: [Sunset High School](https://maps.app.goo.gl/WNj1qiQjGMvQo8R38) | Outside school main entrance |
-|  | :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
+|  [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_sunset) | :one: [Sunset High School](https://maps.app.goo.gl/WNj1qiQjGMvQo8R38), Beaverton | Outside school main entrance |
+|  | :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA), Bethany | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_bethany1) | :three: [Goodtime Elementary School](https://maps.app.goo.gl/BABmLoCmDv2UoqYK8), Bethany Village |  |
-| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_westview) | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
+| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_westview) | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7), Bethany | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_fp) | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA), NW Portland | |
-|  | :six: Vancouver  | to be determined |
+|  | :six: [Union High School](https://maps.app.goo.gl/i9FBEPtRwR2RkYxS9), Vancouver  | to be confirmed |
 |  | :seven: [Chang Fa Supermarket 祥发超市](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7), SE PDX | |
 |  | :eight: [Hamilton Park, Bridlemile](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5), SW Portland | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_tigard) | :nine: [Alberta Rider Elementary School](https://maps.app.goo.gl/qf6LT5CBoRZkLgBw8), Tigard | |
@@ -76,7 +76,7 @@ feature_row:
 | Xinye Zhu | West Sylvan Middle School |
 | Zhi Qu | OES |
 | Zong Qu | Catlin Gabel School |
-| :six: Vancouver | |
+| :six: [Union High School](https://maps.app.goo.gl/i9FBEPtRwR2RkYxS9, Vancouver | |
 | Yicheng Zhang | Union High School |
 | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
 | :eight: [Hamilton Park](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5) | |
@@ -90,12 +90,12 @@ feature_row:
 | Ashley Fong | Hosford Middle School |
 | Jozlynn Wallace | Hosford Middle School |
 | Samantha Ngan | Hosford Middle School |
-| :one::one: West Lake Park, Lake Oswego | |
+| :one::one: [West Lake Park](https://maps.app.goo.gl/g5gY3CnStRQs5Js99), Lake Oswego | |
 | Evan Wang | Lake Oswego High School |
 | Haoxiang Zhu | Arbor School of Arts & Sciences |
 | Kevin Lin | West Linn High School |
 | Sean Jiang | Lakeridge Middle School |
-| :one::two: Chepenafa Springs Park, Corvallis | |
+| :one::two: [Chepenafa Springs Park](https://maps.app.goo.gl/e83tVuCVe18LgVMw7), Corvallis | |
 | Aiden Li | Cheldelin Middle School |
 | Alena Li | Crescent Valley High School |
 | Eleanor Guo | Bessie Coleman Elementary School |
