@@ -76,7 +76,7 @@ feature_row:
 | Xinye Zhu | West Sylvan Middle School |
 | Zhi Qu | OES |
 | Zong Qu | Catlin Gabel School |
-| :six: [Union High School](https://maps.app.goo.gl/i9FBEPtRwR2RkYxS9, Vancouver | |
+| :six: [Union High School](https://maps.app.goo.gl/i9FBEPtRwR2RkYxS9), Vancouver | |
 | Yicheng Zhang | Union High School |
 | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
 | :eight: [Hamilton Park](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5) | |
