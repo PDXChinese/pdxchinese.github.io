@@ -12,6 +12,8 @@ feature_row:
     excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_hosford'>Hosford Middle School, Portland</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis
     excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis'>Chepenafa Springs Park, Corvallis</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis
+    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis2'>Chepenafa Springs Park, Corvallis</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_sunset
     excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_sunset'>Sunset High School, Beaverton</a></p>"  
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_westview
@@ -40,7 +42,7 @@ feature_row:
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_tigard) | :nine: [Alberta Rider Elementary School, Tigard](https://maps.app.goo.gl/qf6LT5CBoRZkLgBw8) | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_hosford) | :one::zero: [Hosford Middle School, SE Portland](https://maps.app.goo.gl/Rejd7MSdbGChdQAD8) | |
 |  | :one::one: Lake Oswego | West Lake Park |
-| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis) | :one::two: Corvallis | Chepenafa Springs Park |
+| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis) [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis2) | :one::two: Corvallis | Chepenafa Springs Park |
 
 **[2024 OCC Donation Receipt](/assets/pdf/occ_donation_receipt_2024.pdf)**
 
