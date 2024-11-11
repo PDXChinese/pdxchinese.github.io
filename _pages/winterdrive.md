@@ -38,7 +38,6 @@ feature_row:
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_bethany1) | :three: [Goodtime Elementary School](https://maps.app.goo.gl/BABmLoCmDv2UoqYK8), Bethany Village |  |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_westview) | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7), Bethany | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_fp) | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA), NW Portland | |
-|  | :six: [Union High School](https://maps.app.goo.gl/i9FBEPtRwR2RkYxS9), Vancouver  | to be confirmed |
 |  | :seven: [Chang Fa Supermarket 祥发超市](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7), SE PDX | |
 |  | :eight: [Hamilton Park, Bridlemile](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5), SW Portland | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_tigard) | :nine: [Alberta Rider Elementary School](https://maps.app.goo.gl/qf6LT5CBoRZkLgBw8), Tigard | |
@@ -56,6 +55,7 @@ feature_row:
 | Ashley Guo | BASE |
 | Brian Barker | Sunset High School |
 | Elsa Fan | Flex Online School |
+  Yicheng Zhang | Union High School |
 | :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
 | Xing you Sun | Stoller Middle School |
 | Michelle Xiao | Valley Catholic |
@@ -76,8 +76,6 @@ feature_row:
 | Xinye Zhu | West Sylvan Middle School |
 | Zhi Qu | OES |
 | Zong Qu | Catlin Gabel School |
-| :six: [Union High School](https://maps.app.goo.gl/i9FBEPtRwR2RkYxS9), Vancouver | |
-| Yicheng Zhang | Union High School |
 | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
 | :eight: [Hamilton Park](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5) | |
 | Genevieve Slaton | NUNM |
