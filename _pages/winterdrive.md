@@ -12,7 +12,7 @@ feature_row:
     excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_hosford'>Hosford Middle School, Portland</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis
     excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis'>Chepenafa Springs Park, Corvallis</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis2
     excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis2'>Chepenafa Springs Park, Corvallis</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_sunset
     excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_sunset'>Sunset High School, Beaverton</a></p>"  
