@@ -18,6 +18,8 @@ feature_row:
     excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_sunset'>Sunset High School, Beaverton</a></p>"  
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_westview
     excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_westview'>Westview High School, Bethany</a></p>"  
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_lo
+    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_lo'>WWest Lake Park, Lake Oswego</a></p>"  
 ---
 
 <p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/winter_drive_banner"></p>  
@@ -33,7 +35,7 @@ feature_row:
 | --- | --- | --- |
 |  [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_sunset) | :one: Sunset High School | Outside school main entrance |
 |  | :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
-| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_bethany1) | :three: Bethany Village | [First floor of Goodtime Chinese School](https://maps.app.goo.gl/BABmLoCmDv2UoqYK8) |
+| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_bethany1) | :three: Goodtime Elementary School](https://maps.app.goo.gl/BABmLoCmDv2UoqYK8), Bethany Village |  |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_westview) | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_fp) | :five: [Forest Park Elementary School, NW Portland](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 |  | :six: Vancouver  | to be determined |
@@ -41,8 +43,8 @@ feature_row:
 |  | :eight: [Hamilton Park, Bridlemile, SW Portland](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5) | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_tigard) | :nine: [Alberta Rider Elementary School, Tigard](https://maps.app.goo.gl/qf6LT5CBoRZkLgBw8) | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_hosford) | :one::zero: [Hosford Middle School, SE Portland](https://maps.app.goo.gl/Rejd7MSdbGChdQAD8) | |
-|  | :one::one: Lake Oswego | West Lake Park |
-| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis) [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis2) | :one::two: Corvallis | Chepenafa Springs Park |
+| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_lo) | :one::one: West Lake Park, Lake Oswego | |
+| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis) [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis2) | :one::two: Chepenafa Springs Park, Corvallis |  |
 
 **[2024 OCC Donation Receipt](/assets/pdf/occ_donation_receipt_2024.pdf)**
 
@@ -58,7 +60,7 @@ feature_row:
 | :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
 | Xing you Sun | Stoller Middle School |
 | Michelle Xiao | Valley Catholic |
-| :three: Bethany Village | |
+| :three: Goodtime Elementary, Bethany Village | |
 | Emily Liu | Springville Elementary School |
 | Erin Qiu | Stoller Middle School |
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
@@ -89,12 +91,12 @@ feature_row:
 | Ashley Fong | Hosford Middle School |
 | Jozlynn Wallace | Hosford Middle School |
 | Samantha Ngan | Hosford Middle School |
-| :one::one: Lake Oswego | |
+| :one::one: West Lake Park, Lake Oswego | |
 | Evan Wang | Lake Oswego High School |
 | Haoxiang Zhu | Arbor School of Arts & Sciences |
 | Kevin Lin | West Linn High School |
 | Sean Jiang | Lakeridge Middle School |
-| :one::two: Corvallis | |
+| :one::two: Chepenafa Springs Park, Corvallis | |
 | Aiden Li | Cheldelin Middle School |
 | Alena Li | Crescent Valley High School |
 | Eleanor Guo | Bessie Coleman Elementary School |
