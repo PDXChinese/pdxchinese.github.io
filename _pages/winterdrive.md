@@ -20,7 +20,7 @@ feature_row:
 
 | Flyer | School/Location | Spot if Specified |
 | --- | --- | --- |
-|  | Outside school main entrance|
+|  | :one: Sunset High School | Outside school main entrance |
 |  | :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_bethany) | :three: Bethany Village | [First floor of Goodtime Chinese School](https://maps.app.goo.gl/BABmLoCmDv2UoqYK8) |
 |  | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
