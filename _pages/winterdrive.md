@@ -12,10 +12,10 @@ feature_row:
     excerpt: "<p>Hosford Middle School, Portland</p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis
     excerpt: "<p>Chepenafa Springs Park, Corvallis</p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_westview
-    excerpt: "<p>Westview High School, Bethany</p>"  
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_sunset
     excerpt: "<p>Sunset High School, Beaverton</p>"  
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_westview
+    excerpt: "<p>Westview High School, Bethany</p>"  
 ---
 
 <p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/winter_drive_banner"></p>  
