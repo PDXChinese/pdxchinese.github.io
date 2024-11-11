@@ -6,7 +6,7 @@ feature_row:
     excerpt: "<p>Alberta Rider Elementary, Tigard</p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_fp
     excerpt: "<p>Forest Park Elementary, Portland</p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_bethany
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_bethany1
     excerpt: "<p>Goodtime Elementary, Bethany</p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_hosford
     excerpt: "<p>Hosford Middle School, Portland</p>"
@@ -14,6 +14,8 @@ feature_row:
     excerpt: "<p>Chepenafa Springs Park, Corvallis</p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_westview
     excerpt: "<p>Westview High School, Bethany</p>"  
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_sunset
+    excerpt: "<p>Sunset High School, Beaverton</p>"  
 ---
 
 <p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/winter_drive_banner"></p>  
@@ -27,9 +29,9 @@ feature_row:
 
 | Flyer | School/Location | Spot if Specified |
 | --- | --- | --- |
-|  | :one: Sunset High School | Outside school main entrance |
+|  [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_sunset) | :one: Sunset High School | Outside school main entrance |
 |  | :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
-| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_bethany) | :three: Bethany Village | [First floor of Goodtime Chinese School](https://maps.app.goo.gl/BABmLoCmDv2UoqYK8) |
+| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_bethany1) | :three: Bethany Village | [First floor of Goodtime Chinese School](https://maps.app.goo.gl/BABmLoCmDv2UoqYK8) |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_westview) | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
 | [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_fp) | :five: [Forest Park Elementary School, NW Portland](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 |  | :six: Vancouver  | to be determined |
