@@ -31,20 +31,6 @@ feature_row:
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DDGcnMkl_hOzU-W7GuZiZ8RI-FF91bFS" width="640" height="480"></iframe>
 
-| Flyer | School/Location | Spot if Specified |
-| --- | --- | --- |
-|  [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_sunset) | :one: [Sunset High School](https://maps.app.goo.gl/WNj1qiQjGMvQo8R38), Beaverton | Outside school main entrance |
-|  | :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA), Bethany | |
-| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_bethany1) | :three: [Goodtime Elementary School](https://maps.app.goo.gl/BABmLoCmDv2UoqYK8), Bethany Village |  |
-| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_westview) | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7), Bethany | |
-| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_fp) | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA), NW Portland | |
-|  | :seven: [Chang Fa Supermarket 祥发超市](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7), SE PDX | |
-|  | :eight: [Hamilton Park, Bridlemile](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5), SW Portland | |
-| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_tigard) | :nine: [Alberta Rider Elementary School](https://maps.app.goo.gl/qf6LT5CBoRZkLgBw8), Tigard | |
-| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_hosford) | :one::zero: [Hosford Middle School](https://maps.app.goo.gl/Rejd7MSdbGChdQAD8), SE Portland | |
-| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_lo) | :one::one: [West Lake Park](https://maps.app.goo.gl/g5gY3CnStRQs5Js99), Lake Oswego | |
-| [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis) [:page_facing_up:](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024_winter_drive_corvallis2) | :one::two: [Chepenafa Springs Park](https://maps.app.goo.gl/e83tVuCVe18LgVMw7), Corvallis |  |
-
 {% include feature_row id="feature_row"%}
 
 ## Student Volunteers
@@ -55,9 +41,9 @@ feature_row:
 | Ashley Guo | BASE |
 | Brian Barker | Sunset High School |
 | Elsa Fan | Flex Online School |
-  Yicheng Zhang | Union High School |
-| :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
 | Xing you Sun | Stoller Middle School |
+| Yicheng Zhang | Union High School |
+| :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
 | Michelle Xiao | Valley Catholic |
 | :three: Goodtime Elementary, Bethany Village | |
 | Emily Liu | Springville Elementary School |
