@@ -64,6 +64,7 @@ feature_row:
 | Erin Qiu | Stoller Middle School |
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
 | Alex Cui | Sunset High School |
+| Arianna Cui | Tumwater Middle School |
 | Ethan Knapp  | Westview High School |
 | Laurence Ji | Valley Catholic |
 | Sarah Yi | Westview High School |
@@ -134,7 +135,6 @@ Soap, shampoo, tooth brush, tooth paste, feminine hygiene items, toilet paper, e
 [Clay Street Table](http://claystreettable.org/)  
 [Central City Concern](https://centralcityconcern.org/)  
 [Transition Projects](https://www.tprojects.org/)  
-[Whitford Middle School](https://whitford.beaverton.k12.or.us/)  
 
 ## Archive
 
