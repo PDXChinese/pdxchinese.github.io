@@ -46,6 +46,7 @@ feature_row:
 | :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
 | Michelle Xiao | Valley Catholic |
 | :three: Goodtime Elementary, Bethany Village | |
+| Amy Zhu | Valley Catholic High school |
 | Emily Liu | Springville Elementary School |
 | Erin Qiu | Stoller Middle School |
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
