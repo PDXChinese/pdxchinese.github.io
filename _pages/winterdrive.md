@@ -43,8 +43,7 @@ feature_row:
 | Elsa Fan | Flex Online School |
 | Xing you Sun | Stoller Middle School |
 | Yicheng Zhang | Union High School |
-| :two: [Stoller Middle School](https://maps.app.goo.gl/aFT9GKCQDUP5iokeA) | |
-| Michelle Xiao | Valley Catholic |
+| Michelle Ciao | Valley Catholic |
 | :three: Goodtime Elementary, Bethany Village | |
 | Amy Zhu | Valley Catholic High school |
 | Emily Liu | Springville Elementary School |
