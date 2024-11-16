@@ -65,8 +65,6 @@ feature_row:
 | Zhi Qu | OES |
 | Zong Qu | Catlin Gabel School |
 | :seven: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
-| :eight: [Hamilton Park](https://maps.app.goo.gl/Xw2UEiRSiZBbfjwx5) | |
-| Genevieve Slaton | NUNM |
 | :nine: [Alberta Rider Elementary School](https://maps.app.goo.gl/qf6LT5CBoRZkLgBw8) | |
 | Arianna Hong  | BASE |
 | Brianna Hong  | BASE |
@@ -79,6 +77,7 @@ feature_row:
 | :one::one: [West Lake Park](https://maps.app.goo.gl/g5gY3CnStRQs5Js99), Lake Oswego | |
 | Evan Wang | Lake Oswego High School |
 | Haoxiang Zhu | Arbor School of Arts & Sciences |
+| Jaden Hua | Sprague High School |
 | Kevin Lin | West Linn High School |
 | Sean Jiang | Lakeridge Middle School |
 | :one::two: [Chepenafa Springs Park](https://maps.app.goo.gl/e83tVuCVe18LgVMw7), Corvallis | |
