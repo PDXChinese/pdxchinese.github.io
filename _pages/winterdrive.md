@@ -118,8 +118,6 @@ Soap, shampoo, tooth brush, tooth paste, feminine hygiene items, toilet paper, e
 
 ## Agencies to Receive our Donations
 
-[Clay Street Table](http://claystreettable.org/)  
-[Central City Concern](https://centralcityconcern.org/)  
 [Transition Projects](https://www.tprojects.org/)  
 
 ## Archive
