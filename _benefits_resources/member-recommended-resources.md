@@ -21,6 +21,10 @@ At ResumeTemplates.com, we understand that writing a resume is a personal journe
 
 “美国有个华人医生数据库，网址是[http://physician.cmgforum.net/](http://physician.cmgforum.net/)。这个网站的信息相当完善，包括了几乎全部中国大陆医学院毕业、在美国行医的医生。你可以根据地理位置，比如哪个州、哪个城市来查找华人医生。也可以根据专业来搜查，比如查眼科医生或皮肤科医生。还可以根据中国哪个医学院毕业的来查，其中北京医科大学和上海医科大学在美国的执业医生最多。”
 
+### 网上看病和开处方药
+
+Costco和Seasme合作，开设这个[网上平台](https://sesamecare.com/join/sc2024-membership-perks?srsltid=AfmBOopIQRrHtNMvj_wlKbumkYAyonBKOcN69LTbcD6z-ASqcsbUKiyj)，定位是 Amazing care. Costco prices. 例如，开处方药和家庭医生网上见面，都只需要29美元。
+
 ### 癌症治疗团队（包括医生和医院）的选择
 
 [https://www.cancer.org/treatment/finding-and-paying-for-treatment/choosing-your-treatment-team.html](https://www.cancer.org/treatment/finding-and-paying-for-treatment/choosing-your-treatment-team.html)
