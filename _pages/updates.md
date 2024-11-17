@@ -3,6 +3,10 @@ title: ""
 permalink: /updates/
 ---
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&bgcolor=%23ffffff&src=aW5mb0BwZHhjaGluZXNlLm9yZw&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4uY2hpbmEjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%2333B679&color=%234285F4&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+<br>
+
 # <code style="color:brown">年度活动/Annual Events</code>
 
 ### October
@@ -47,8 +51,8 @@ Chinese New Year Celebration
 
 ### [2025 健康博览会/Health Fair](https://pdxchinese.org/healthinitiative/)
 
-Date: March 16, 2024 Sunday, 12pm-4pm (subject to space availability)  
-Place: TBD  
+Date: March 16, 2024 Sunday, 11pm-3pm (subject to space availability)  
+Place: Embassy Suite, Hilton Hotel at Washington Square  
 
 ### May
 
