@@ -78,6 +78,7 @@ feature_row:
 | Haoxiang Zhu | Arbor School of Arts & Sciences |
 | Jaden Hua | Sprague High School |
 | Kevin Lin | West Linn High School |
+| Mohamed Akmal Mohaideen | Lake Oswego High School |
 | Sean Jiang | Lakeridge Middle School |
 | :one::zero: [Chepenafa Springs Park](https://maps.app.goo.gl/e83tVuCVe18LgVMw7), Corvallis | |
 | Aiden Li | Cheldelin Middle School |
