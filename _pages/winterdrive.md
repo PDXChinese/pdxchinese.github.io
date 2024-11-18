@@ -77,6 +77,7 @@ feature_row:
 | Evan Wang | Lake Oswego High School |
 | Haoxiang Zhu | Arbor School of Arts & Sciences |
 | Jaden Hua | Sprague High School |
+| Logan Shi | Lake Oswego High School |
 | Kevin Lin | West Linn High School |
 | Mohamed Akmal Mohaideen | Lake Oswego High School |
 | Sean Jiang | Lakeridge Middle School |
