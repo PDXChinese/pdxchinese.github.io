@@ -74,8 +74,11 @@ feature_row:
 | Jozlynn Wallace | Hosford Middle School |
 | Samantha Ngan | Hosford Middle School |
 | :nine: [West Lake Park](https://maps.app.goo.gl/g5gY3CnStRQs5Js99), Lake Oswego | |
+| Andrew Kunjummen | Lakeridge High School |
+| Christopher Lu | Lake Oswego High School |
 | Evan Wang | Lake Oswego High School |
 | Haoxiang Zhu | Arbor School of Arts & Sciences |
+| Isaac Lu | Lake Oswego High school |
 | Jaden Hua | Sprague High School |
 | Logan Shi | Lake Oswego High School |
 | Kevin Lin | West Linn High School |
@@ -120,6 +123,7 @@ Soap, shampoo, tooth brush, tooth paste, feminine hygiene items, toilet paper, e
 ## Agencies to Receive our Donations
 
 [Transition Projects](https://www.tprojects.org/)  
+[Vina Moses Center](https://www.vinamoses.org/)  
 
 ## Archive
 
