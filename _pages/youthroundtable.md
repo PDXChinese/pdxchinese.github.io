@@ -95,6 +95,7 @@ Middle and high school students will have the opportunity to ask high school upp
 
 ## Archive
 
+2023 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2023.pdf) | [Recap](http://pdxchinese.org/youth_roundtable_2023-recap/)  
 2022 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2022.pdf) | [Recap](http://pdxchinese.org/youth_roundtable_2022-recap/)  
 2021 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2021.pdf)  
 2020 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2020.pdf)  
