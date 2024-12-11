@@ -9,25 +9,12 @@ permalink: /updates/
 
 # <code style="color:brown">年度活动/Annual Events</code>
 
-### October
-
-### [总统义工奖认证/PVSA Certification](https://pdxchinese.org/volunteering/)
-
-Date: October 27 - November 26  
-[PVSA Application Information Form](https://docs.google.com/forms/d/e/1FAIpQLSe_klKsKdkk6Ag1R8JYBFvlu8XSMtgWVNTTW6C0E5OYdYhplQ/viewform?usp=sf_link)  
-
-### November
-
-### [冬季募捐活动/Winter Drive](https://pdxchinese.org/winterdrive/)
-
-Date: Nov 24, 2024 (Sunday before the Thanksgiving)  
-To join, please **[register here](https://docs.google.com/forms/d/e/1FAIpQLSdrA8gtPEE5_7kHLy67J5aQJpBaAxnMR-nlSZLc9KiupzaE_A/viewform?usp=sf_link)**.  
 
 ### December
 
 ### [青少年圆桌会/Youth Roundtable](https://pdxchinese.org/youthroundtable/)
 
-Date: last Sunday 1pm-4pm  
+Date: Dec 29, 2025 1pm-5pm  
 Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_mgEl-2QBBaTOLoIwdgKmCw3K9CXkgN2Kg/viewform?usp=sf_link)  
 
 ### External: [阿炳樱桃迎新年活动/Bing in the New Year](https://binginthenewyear.com/)
@@ -51,7 +38,7 @@ Chinese New Year Celebration
 
 ### [2025 健康博览会/Health Fair](https://pdxchinese.org/healthinitiative/)
 
-Date: March 16, 2024 Sunday, 11pm-3pm (subject to space availability)  
+Date: March 15, 2024 Saturday, 11pm-3pm  
 Place: Embassy Suite, Hilton Hotel at Washington Square  
 
 ### May
@@ -83,6 +70,19 @@ Date: August 2, 2025, 11am - 6pm (1st Saturday in August)
 Place: Pioneer Courthouse Square, Portland, Oregon  
 No Registration Required, Free Admission, Open to Public  
 
+### October
+
+### [总统义工奖认证/PVSA Certification](https://pdxchinese.org/volunteering/)
+
+Date: October 27 - November 26  
+[PVSA Application Information Form](https://docs.google.com/forms/d/e/1FAIpQLSe_klKsKdkk6Ag1R8JYBFvlu8XSMtgWVNTTW6C0E5OYdYhplQ/viewform?usp=sf_link)  
+
+### November
+
+### [冬季募捐活动/Winter Drive](https://pdxchinese.org/winterdrive/)
+
+Date: Nov 24, 2024 (Sunday before the Thanksgiving)  
+To join, please **[register here](https://docs.google.com/forms/d/e/1FAIpQLSdrA8gtPEE5_7kHLy67J5aQJpBaAxnMR-nlSZLc9KiupzaE_A/viewform?usp=sf_link)**.  
 
 # <code style="color:brown">常年活动/Year Around Activities</code>
 
