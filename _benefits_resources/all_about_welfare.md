@@ -98,6 +98,12 @@ feature_row1:
 
 这里是每个县的都有与州政府合作的[房主中心](https://www.oregon.gov/ohcs/homeownership/Pages/housing-counseling.aspx?wp7589=p:1#g_a249f885_f721_413b_9380_bc6aaaf9fecd)，他们都会有通过认证的人员，可以帮助您寻找解决办法。
 
+## 房租补贴信息
+
+OCC有和Multnonah County/Home Forward合作，为Multnomah County居民提供房租补贴，您有特别需要，可以通过各种渠道联系OCC。
+
+州政府现在推出HRSN房租补贴项目，针对的是有健康问题的OHP成员。OCC是合作伙伴之一。如果您居住在Multnomah County, Washington County 和 Clackamas County，您可以填写[申请表格](https://uniteus.com/networks/oregon/get-help/healthshare/)。您无论居住在何处，也都可以直接打电话到 503-468-5375，目前只接受留言，211info团队会联系您。您如果有语言障碍或其他特殊需求，OCC会帮助您。
+
 ### 帮助低收入购房者做房屋检查机构
 
 第一次听说石棉，是找home inspection的时候看到[这家非盈利机构](https://nonprofithomeinspections.org/)的story，起源就是founder的妈妈去世于石棉引发的间皮瘤。因为家里经济状况不好，买房子的时候跳过了inspection，所以他成立了这个组织致力于帮助买房者提供全面的检查、培养合格的检查人员、并给低收入的家庭和非盈利机构提供免费或低价的服务。
