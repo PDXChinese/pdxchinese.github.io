@@ -26,16 +26,16 @@ Please **[register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZ
 
 ## Agenda
 
-### Social Lunch Hour for College Students and Graduates 12pm-2pm
+### 12pm-2pm: Social Lunch Hour for College Students and Graduates
 
 Welcome back to the college students and recent graduates for a social mingle! Over the past eight years, hundreds of youth have grown up influenced by our community’s rebuilding efforts. The community has supported them through their identity challenges, and now it’s their time to show pride in belonging to this community.
 
-### PVSA Ceremony 2pm-2:15pm
+### 2pm-2:15pm: PVSA Ceremony 
 
 Congratulations to [xx PVSA recipients](https://pdxchinese.org/pvsa/) OCC helped certify in 2024!  
 Hosted by the certification volunteers: **Xinmei Li**, **Jing Liu**  and **Wei Lu**  
 
-### Peer Social and Support Hour with Middle- and High-School Students 2:15pm-4pm
+### 2:15pm-4pm: Peer Social and Support Hour with Middle and High School Students
 
 Peer mentorship is an excellent way for middle and high school students to learn from individuals with lived or current experiences in areas that may be of concern to them. Mentors can cover a wide range of topics, including but not limited to college applications, college life, internships, scholarships, career planning, job market insights by field or industry, as well as mental health, leadership development, and even current political issues.
 
