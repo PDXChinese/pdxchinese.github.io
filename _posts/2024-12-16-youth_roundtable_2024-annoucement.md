@@ -5,6 +5,8 @@ excerpt: "第八届青少年圆桌会定于本月29日（星期日）在Hope Chi
 date: "2024-12-16"
 ---
 
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/youthroundtable_logo3)
+
 第八届青少年圆桌会定于本月29日（星期日）在Hope Chinese Charter School举办。今年的形式将有所创新：中午12点到1点45分，将专门为在校大学生和已经工作的毕业生（包括正在Gap Year的学生）提供交流时间，OCC会为大家准备简单的午餐。活动的目的是让这些近年来成长起来的年轻人继续与社区保持联系，同时也能相互建立联系。
 
 随后，我们将欢迎中学生加入，为他们提供与大学生和毕业生自由交流的宝贵机会。我们会在现场或提前提供参与交流的大学生和毕业生的名单与简介。这一部分活动将结合“指导（mentorship）”与“社交（social）”，为所有参与的青少年提供一个绝佳的锻炼平台。
