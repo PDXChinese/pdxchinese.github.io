@@ -9,7 +9,7 @@ permalink: /youthroundtable/
 # 8th Annual Oregon Chinese Youth Roundtable
 
 ## Date  
-12/29/2024 Saturday 12pm - 4pm  
+12/29/2024 Sunday 12pm - 4pm  
 
 ## Place  
 Hope Chinese Charter School ([3500 SW 104th Ave, Beaverton, OR 97005](https://www.google.com/maps/place/3500+SW+104th+Ave,+Beaverton,+OR+97005/@45.4946017,-122.7859877,17.23z/data=!4m6!3m5!1s0x54950eaa592b68cf:0x95f1a9e4aa037731!8m2!3d45.4946761!4d-122.7838146!16s%2Fg%2F11bw43ybzc?entry=ttu))  
