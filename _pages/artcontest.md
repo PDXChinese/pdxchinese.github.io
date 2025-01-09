@@ -147,7 +147,7 @@ We request that youth entering the contest find ways to explore nature, in ways 
 
 ### Return of Entries:
 
-The returning of all entries will be coordinated by the OCC after the exhibition at the Art Space in February of 2024. Every effort will be made to safely return artwork to the student. The Friends, USFWS and the OCC will not be liable for any work that is damaged or lost during this contest. All unclaimed entries will be disposed of 30 days after the January art expedition ends.
+The returning of all entries will be coordinated by the OCC after the exhibition at the Art Space in February of 2025. Every effort will be made to safely return artwork to the student. The Friends, USFWS and the OCC will not be liable for any work that is damaged or lost during this contest. All unclaimed entries will be disposed of 30 days after the January art expedition ends.
 
 ### Rights of Images:
 
@@ -174,14 +174,14 @@ Youth Art Contest Winners (Best in Show, 1st, 2nd and 3rd place by level) will b
 
 ### 投稿截止日期
 
--	提交的参赛作品必须在2024年1月5日之前邮寄(以邮戳为准)或交付至图拉丁河国家野生动物保护区。迟到的参赛作品将不被考虑。参赛者需填写[参赛表格](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)，并打印出一份随作品一同提交。
+-	提交的参赛作品必须在2025年1月21日之前邮寄(以邮戳为准)或交付至图拉丁河国家野生动物保护区。迟到的参赛作品将不被考虑。参赛者需填写[参赛表格](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)，并打印出一份随作品一同提交。
 > Attention: Friends of TRNWRC  
 > c/o Bonnie Anderson  
 >	19255 SW Pacific Hwy  
 > Sherwood, OR 97140  
 
--	评审将在2024年1月15日那一周进行  
--	2024年1月20日，所有获奖作者和他们的客人们欢迎参加在保护区举办的颁奖仪式。原作可以在当场取回，复印件会在保护区访客中心展览至下一年竞赛  
+-	评审将在2025年1月27日那一周进行  
+-	2025年2月xx日，所有获奖作者和他们的客人们欢迎参加在保护区举办的颁奖仪式。原作可以在当场取回，复印件会在保护区访客中心展览至下一年竞赛  
 
 ### 比赛规则：
 
@@ -199,7 +199,7 @@ Youth Art Contest Winners (Best in Show, 1st, 2nd and 3rd place by level) will b
 
 此活动的目的是鼓励青少年与家人一起到户外活动。因此，提交的绘画作品必须围绕个人的自然体验。要求参赛者在创作过程中一部分需要在大自然中花费时间才能受到启发。希望个人能够理解自然无处不在。它可以在他们的后院、街区、学校或保护区（如Refuge）中找到。为了对要考虑的主题提供一些指导，评委会提出了一个问题，供参赛者在想象他们想要创造什么时反思：
 
-<p align="center"><b>“大自然的疗愈之艺”</b></p>
+<p align="center"><b>“自然是我的庇护所”</b></p>
 
 我们要求参加比赛的青少年找到探索自然的方式，以他们能够做到的方式，找到激发他们灵感的东西。这很重要，因为参赛规则之一是以书面形式解释他们的经历以及他们在与大自然共度时光（以任何方式）时的灵感来源。这篇文章需要 90个字或更少，帮助评委理解参赛者为什么创作他们提交的作品。
 
