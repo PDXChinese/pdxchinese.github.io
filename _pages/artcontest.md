@@ -49,8 +49,7 @@ feature_row4:
 
 **中文信息在此页面的下半部分**
 
-[Press Announcement](/assets/pdf/artcontest2024.pdf)  
-[Official Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)  
+**[Official Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)**  
 
 [2023 Award Winning Artworks](http://pdxchinese.org/artcontestfiles/artcontest_2023/)  
 [2023 Award Ceremony at Refuge](https://pdxchinese.org/winners_youth_art_contest_2023/)  
@@ -103,7 +102,7 @@ The Oregon Chinese Coalition (OCC) aims to provide an Art Contest for the commun
 
 ### Entry Deadlines and Key Dates:
 
--	Submission of entries must be post-marked or delivered by 1/20/2025 to Tualatin River National Wildlife Refuge. No late entries will be considered. Contestants need to fill out [Offcial Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link) and a copy of it is required to submit with the artwork.     
+-	Submission of entries must be post-marked or delivered by 1/21/2025 to Tualatin River National Wildlife Refuge. No late entries will be considered. Contestants need to fill out [Offcial Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link) and a copy of it is required to submit with the artwork.     
 > Attention: Friends of TRNWRC  
 > c/o Bonnie Anderson  
 >	19255 SW Pacific Hwy  
