@@ -42,8 +42,6 @@ extra:
         url: /winterdrive/
       - title: "<b>:: Youth ::</b>"
         url:
-      - title: "Dragonfly YoYo Team"
-        url: /yoyo/
       - title: "Jade Dance Team"
         url: /youthdance/
       - title: "Phoenix Hanfu Society"
@@ -52,6 +50,8 @@ extra:
         url: /pvsa/
       - title: "Student Chapters"
         url: /chapters/
+      - title: "Twister YoYo Team"
+        url: /yoyo/
       - title: "Youth Art Contest"
         url: /artcontest/
       - title: "Youth Camps"
