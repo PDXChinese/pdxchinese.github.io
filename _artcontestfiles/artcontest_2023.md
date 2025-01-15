@@ -8,7 +8,7 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2023_grp1_1st
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2023_grp1_1st/'>1st Place - Emily Lian</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2023_grp1_2nd
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2023_grp1_2nd/'>2nd Place - Noah Deng</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2023_grp1_2nd/'>2nd Place - Noah Von Dem Bruch</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2023_grp1a_3rd
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2023_grp1_3rd/'>3rd Place - Sophia Hu</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2023_grp1a_hm
