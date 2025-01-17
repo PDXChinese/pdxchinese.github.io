@@ -6,7 +6,7 @@ permalink: /mealprovider/
 
 # Providing Meals in Shelter
 
-**Date:** Every 2nd Sunday 5:30pm-7pm  
+**Date:** Every 2nd and 4th Sunday 6pm-7pm  
 **Place:** The Clark Center by [Transition Projects](https://www.tprojects.org/)  
 
 **Date:** Every 3rd Sunday 5:30pm-7pm  
@@ -41,6 +41,8 @@ July 16, 2023
 > I heard absolute RAVE reviews from the team at the Clark center about last night’s dinner!! Sounds like folks were wild about the food, and pretty excited to have a crew of enthusiastic volunteers onsite to serve it.
 
 > Thank you so much for making such a delicious feast for our residents!!
+
+<iframe width="1709" height="960" src="https://www.youtube.com/embed/-WeNCe1z1Dw" title="Uncut Video: Providing Meals at the Downtown Shelter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/s28JTPxjvpw" title="Providing Meal at the Clark Center by High School Students" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
