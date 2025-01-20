@@ -3,6 +3,7 @@ title: ""
 permalink: /healthinitiative/
 feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025fairflyer
+    excerpt: "<p><a href='https://pdxchinese.org/healthfair/'>Click here to see details</a></p>"
 feature_row2:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/occ_nsnv
 feature_row3:
