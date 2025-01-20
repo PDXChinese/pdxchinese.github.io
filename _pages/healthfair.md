@@ -50,13 +50,14 @@ feature_row3:
 
 此次由OCC主办的社区健康博览会定位在两个方面：第一，健康关乎每个人，关乎在两种文化中成长的青少年，关乎肩负养家重任的年轻的爸爸妈妈们，更关乎学会优雅老去的长者。健康博览会着眼于全体社区成员的福祉。第二，作为一个社区组织，我们看中的不仅仅是健康筛检和教育，更重要的是那些影响我们身心健康的社会因素，所以，我们也会邀请有关的服务机构团体和个人参加活动。令人欣慰的是，我们的定位受到广泛的认可和支持。
 
-**时间:** 3月15日, 周六，11-3点  
+**时间:** 2025年3月15日, 周六，11-3点  
 **地点:** Embassy Suites by Hilton Portland Tigard  
 **地址:** 9000 SW Washington Square Rd, Tigard, OR 97223  
 **免费入场，对公众开放**  
 
-[>> 现场义工报名表格](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
-[>> 现场摊位位置图](https://)  
+>> 现场义工报名表格](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
+>> 现场摊位位置图](https://)  
+>> 申请摊位请联系 info@pdxchinese.org  
 
 ### [大厅] OCC团队，相互依赖成长的集体
 
@@ -70,8 +71,9 @@ feature_row3:
 
 *coming soon...*
 
-[>> Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
-[>> Tabling Map](https://)  
+>> Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
+>> Tabling Map](https://)  
+>> To request a booth, please contact info@pdxchinese.org.  
 
 Health is of utmost importance to everyone, from the youth navigating between two cultures, to the parents shouldering the responsibilities of raising a family, and certainly to the elderly who strive to age gracefully. The health fair is dedicated to the well-being of the entire community.
 
