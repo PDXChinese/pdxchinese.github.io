@@ -38,7 +38,13 @@ feature_row3:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ohsulogo
 ---
 
-*Health Fair Album / 健康博览会相册：[2023](https://pdxchinese.org/community_health_fair_2023/), [2024](https://pdxchinese.org/community_health_fair_2024/)*
+### Revisit Health Fairs / 健康博览会回顾
+
+>[2024 Health Fair / 健康博览会](https://pdxchinese.org/healthfair_2024/)  
+>[2024 Health Fair Album / 健康博览会相册](https://pdxchinese.org/community_health_fair_2024/)  
+>[2023 Health Fair / 健康博览会](https://pdxchinese.org/healthfair_2023/)  
+>[2023 Health Fair Album / 健康博览会相册](https://pdxchinese.org/community_health_fair_2023/)  
+
 
 ### Our Proud Sponsors
 
@@ -55,9 +61,9 @@ feature_row3:
 **地址:** 9000 SW Washington Square Rd, Tigard, OR 97223  
 **免费入场，对公众开放**  
 
->> [现场义工报名表格](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
->> [现场摊位位置图](https://)  
->> 申请摊位请联系 info@pdxchinese.org  
+> [现场义工报名表格](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
+> [现场摊位位置图](https://)  
+> 申请摊位请联系 info@pdxchinese.org  
 
 ### [大厅] OCC团队，相互依赖成长的集体
 
@@ -71,9 +77,9 @@ feature_row3:
 
 *coming soon...*
 
->> [Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
->> [Tabling Map](https://)  
->> To request a booth, please contact info@pdxchinese.org.  
+> [Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
+> [Tabling Map](https://)  
+> To request a booth, please contact info@pdxchinese.org.  
 
 Health is of utmost importance to everyone, from the youth navigating between two cultures, to the parents shouldering the responsibilities of raising a family, and certainly to the elderly who strive to age gracefully. The health fair is dedicated to the well-being of the entire community.
 
