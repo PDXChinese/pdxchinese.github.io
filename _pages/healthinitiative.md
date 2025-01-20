@@ -2,7 +2,7 @@
 title: ""
 permalink: /healthinitiative/
 feature_row1:
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2024fairflyer
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025fairflyer
 feature_row2:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/occ_nsnv
 feature_row3:
@@ -19,7 +19,8 @@ feature_row3:
 
 作为一个以社区为基础的组织，我们的优势在于解决身心健康问题的根本原因。健康博览会超越了简单的健康教育和筛查，它是一个平台，向社区成员介绍重要的健康和社会服务。我们坚信，赋予个人知识和资源是提升公共健康的最有效途径。
 
->[2024 Health Fair / 健康博览会](https://pdxchinese.org/healthfair/)  
+>[2025 Health Fair / 健康博览会](https://pdxchinese.org/healthfair/)  
+>[2024 Health Fair / 健康博览会](https://pdxchinese.org/healthfair_2024/)  
 >[2024 Health Fair Album / 健康博览会相册](https://pdxchinese.org/community_health_fair_2024/)  
 >[2023 Health Fair / 健康博览会](https://pdxchinese.org/healthfair_2023/)  
 >[2023 Health Fair Album / 健康博览会相册](https://pdxchinese.org/community_health_fair_2023/)  
@@ -29,7 +30,6 @@ feature_row3:
 非常感谢俄勒冈州卫生局（Oregon Health Authority，OHA）慷慨提供的资助，旨在应对疫情期间华裔美国人群体的心理和行为健康危机。我们将利用这项资助以及其他资金来源，大力推动社区关注心理健康问题，并提出能够延续资助期限之外的解决方案。OHA的支持使我们能够发起一个有力的倡议，对我们社区的个人健康产生持久而积极的影响。
 
 >[Mental Health Advocacy Programs / 精神心理健康倡导计划](https://pdxchinese.org/mentalhealth/)  
->[Neighborhood Walking Groups / 小区集体行走活动](https://signup.com/go/aMfLdkC)  
 >MHACC每月第三个周六线上聚会：[患友互助組 @1:30pm](https://zoom.us/j/91311874702?pwd=VzJkNm5wSTJ0TnFXTmtObC9heVg1UT09) and [照顧者互助組 @3:30pm](https://zoom.us/j/7413232578)  
 >MHACC[心里暖线](https://www.mhacc-usa.org/zh-tw/mhacc-warm-line-program) (每周七天，上午9点-晚上9点，普通话/粤语/英语)：**1-800-881-8502**  
 
