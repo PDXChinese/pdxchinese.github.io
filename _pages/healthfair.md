@@ -35,16 +35,16 @@ feature_row2:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/wacountylogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/clacklogo
 feature_row3:
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/trimet1
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/careoregon1
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pslogo1
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ohsulogo
 ---
 
-*Health Fair Album / 健康博览会相册：[2023](https://pdxchinese.org/community_health_fair_2023/)，[2024](https://pdxchinese.org/community_health_fair_2024/)*
+*Health Fair Album / 健康博览会相册：[2023](https://pdxchinese.org/community_health_fair_2023/), [2024](https://pdxchinese.org/community_health_fair_2024/)*
 
 ### Our Proud Sponsors
 
-*coming soon...*
+{% include feature_row id="feature_row3"%}
+
+*more to come...*
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025fairflyer)
 
@@ -68,7 +68,7 @@ feature_row3:
 
 ### Our Proud Community Partners in the Fair
 
-{% include feature_row id="feature_row1"%}
+*coming soon...*
 
 [>> Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
 [>> Tabling Map](https://)  
