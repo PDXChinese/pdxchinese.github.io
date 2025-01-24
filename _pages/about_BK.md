@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-permalink: /about)BK/
+permalink: /about_BK/
 feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/members/james
     title: "James E. McCandlish"
@@ -39,9 +39,6 @@ feature_row2:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/members/Zhang-Yongtian
     title: "Yongtian Zhang"
     excerpt: "Yongtian is a Sr. Security Consultant in Kaiser Permanente. He graduated from USTC (University of Science and Technology of China) and received a Master degree in Information Security. His career covers Internet security, application security and network security. He is an enthusiastic community volunteer actively participating in all kinds of community services."
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/members/Alisha-Zhao
-    title: "Alisha Zhao"
-    excerpt: "<p>Alisha, a junior and also Liman Fellow and Cameron Impact Scholar at Stanford University, was named one of the nation's 10 top teen volunteers in 2016, and one of Women of Worth honorees in 2018. She has created and led a nonprofit, <a href='http://kidsfirstproject.org/'>Kids First Project</a>, devoted to helping homeless youth break the generational cycle of poverty.</p><p>She was appointed by Mayor Hales to be the first high school student in history to serve as City of Portland’s Human Rights Commissioner.</p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/members/naomi-zhao
     title: "Naomi Zhao"
     excerpt: "<p>Naomi, graduated from OES in 2016, is a senior at Georgetown University. She is on the leadership team of Hoyas for Choice, an advocacy group for women's reproductive rights. She also tutors for STEM After School, a program to foster interest in STEM fields for low-income neighborhoods in D.C. This summer, Naomi is excited to be interning with Representative Ann Lininger, who represents District 38 in the Oregon House of Representatives. In her free time, she enjoys traveling, scrapbooking, spinning, and spending time with friends.</p>"
