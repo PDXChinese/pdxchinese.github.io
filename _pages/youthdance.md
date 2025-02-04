@@ -3,7 +3,7 @@ title: "社区青少年舞蹈队/Jade Dance Team"
 permalink: /youthdance/
 ---
 
-The Jade Dance Team was founded by a group of high school students and eventually became a community dance group open to youth of all backgrounds. This inter-school student group serves as a platform for young people to learn from and support one another. They have been actively engaging with the broader community through their beautiful performances of Chinese dances.
+The Jade Dance Team was originally founded by a group of high school students and has since grown into a community dance group open to youth of all backgrounds. This inter-school team provides a platform for young dancers to learn from and support one another while fostering cultural appreciation. Through their graceful performances of traditional Chinese dances, they actively engage with and enrich the broader community.
 
 To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxchinese.org). They will love to show off their culture in the community events.
 
