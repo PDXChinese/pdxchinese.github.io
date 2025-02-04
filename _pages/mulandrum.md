@@ -23,6 +23,10 @@ To have us perform in your events, please [contact us](http://pdxchinese.org/con
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345424743_651302106822940_5592377646873928980_n)
 
+### Performance in Lakeridge High School
+
+<iframe width="1709" height="960" src="https://www.youtube.com/embed/6ld-tF1EyRI" title="Chinese Drumming: Dragon Boat Race 《赛龙夺锦》" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Performance in University of Oregon
 
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/0XjQssKM-N0" title="Mulan Drum Team in University of Oregon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

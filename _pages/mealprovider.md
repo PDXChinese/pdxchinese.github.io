@@ -39,6 +39,10 @@ permalink: /mealprovider/
 
 > Thank you so much for making such a delicious feast for our residents!!
 
+<iframe width="1709" height="960" src="https://www.youtube.com/embed/6i-Ub-P-XKE" title="Special Lunar New Year Dinner at the Shelter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
 <iframe width="1709" height="960" src="https://www.youtube.com/embed/-WeNCe1z1Dw" title="Uncut Video: Providing Meals at the Downtown Shelter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>

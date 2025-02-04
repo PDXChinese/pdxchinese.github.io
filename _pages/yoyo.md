@@ -7,10 +7,16 @@ The Dragonfly Yo-Yo Team emerged in the spring of 2023, born out of the pandemic
 
 To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxchinese.org). They will love to show off their culture in the community events.
 
-**Founder and Coach:** Callie Chu  
+**Coaches:** Arianna and Brianna
+**Founder:** Callie Chu  
 **Mentor:** Xiaorou Xiang  
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/WeChat_Image_20240220111725_small)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/yoyo0202202501)
+
+<iframe width="1709" height="960" src="https://www.youtube.com/embed/9CoC_SFIx-8" title="OCC Diabolo Team NBA Pre-Game Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
 
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/84DRyQGSh0M" title="Performance by Dragonfly YoYo Team" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
