@@ -1,9 +1,9 @@
 ---
-title: "社区青少年空竹队/Dragonfly YoYo Team"
+title: "社区蜻蜓空竹队/Dragonfly Diabolo Team"
 permalink: /yoyo/
 ---
 
-The Dragonfly Yo-Yo Team was formed in the spring of 2023, emerging from the pandemic as community youth embraced the activity for both enjoyment and the development of mental resilience. The team made its debut at the Youth Conference and later delivered a captivating performance on the Festival stage at Pioneer Courthouse Square that summer. Since then, their yo-yo performances have become a sought-after highlight at community cultural events.
+The Dragonfly Diabolo Team was formed in the spring of 2023, emerging from the pandemic as community youth embraced the activity for both enjoyment and the development of mental resilience. The team made its debut at the Youth Conference and later delivered a captivating performance on the Festival stage at Pioneer Courthouse Square that summer. Since then, their Diabolo (also called Yo-Yo in China) performances have become a sought-after highlight at community cultural events.
 
 To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxchinese.org). They will love to show off their culture in the community events.
 

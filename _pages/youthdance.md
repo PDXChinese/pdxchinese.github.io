@@ -1,5 +1,5 @@
 ---
-title: "社区青少年舞蹈队/Jade Dance Team"
+title: "社区青玉舞蹈队/Jade Dance Team"
 permalink: /youthdance/
 ---
 
