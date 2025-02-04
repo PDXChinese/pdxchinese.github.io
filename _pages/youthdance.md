@@ -9,11 +9,8 @@ To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxc
 
 Please follow them on Instagram @jade_danceteam
 
-### Founders
-
-Claire Cao  
-Amy Kang  
-Sophia Alicata  
+**Captain:** Emily Jiang  
+**Founders:** Claire Cao, Amy Kang, Sophia Alicata  
 
 ### They perform in Lunar New Year Gala
 

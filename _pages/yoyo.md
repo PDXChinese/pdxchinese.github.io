@@ -7,7 +7,7 @@ The Dragonfly Yo-Yo Team emerged in the spring of 2023, born out of the pandemic
 
 To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxchinese.org). They will love to show off their culture in the community events.
 
-**Coaches:** Arianna and Brianna
+**Coaches:** Arianna and Brianna  
 **Founder:** Callie Chu  
 **Mentor:** Xiaorou Xiang  
 
