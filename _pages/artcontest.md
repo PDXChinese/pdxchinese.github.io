@@ -85,6 +85,11 @@ feature_row4:
 {% include feature_row id="feature_row4"%}
 
 --->
+
+### Award Ceremony
+
+The award ceremony for the youth art contest will take place on Saturday morning, February 22, 2025, at the Tualatin River National Wildlife Refuge. Stay tuned for more details.
+
 ### Program Overview:
 
 The Oregon Chinese Coalition (OCC) aims to provide an Art Contest for the community in collaboration with the [Friends of Tualatin River NWRC](https://fotr.wildapricot.org/) (Friends) and the [Tualatin River NWRC](https://www.fws.gov/refuge/Tualatin_River/) (Refuge). The goals of the program are intended to assist in the following ways:
