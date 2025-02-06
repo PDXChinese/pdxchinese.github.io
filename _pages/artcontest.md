@@ -47,9 +47,9 @@ feature_row4:
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2022_grp4_hm2/'>Honorable Mention - Tristan</a></p>"
 ---
 
-**>>中文信息在此页面的下半部分**
+**中文信息在此页面的下半部分**
 
-**[Official Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)**  
+**[>>> Official Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)**  
 
 >Award Winning Artworks: [2021](http://pdxchinese.org/artcontestfiles/artcontest_2021/), [2022](http://pdxchinese.org/artcontestfiles/artcontest_2022/), [2023](http://pdxchinese.org/artcontestfiles/artcontest_2023/)  
 >Award Ceremony at Refuge: [2021](https://pdxchinese.org/chinatown_window_gallery_gathering/), [2022](https://pdxchinese.org/winners_youth_art_contest_2022/), [2023](https://pdxchinese.org/winners_youth_art_contest_2023/)  
