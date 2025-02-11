@@ -82,7 +82,7 @@ feature_row4:
 
 ### Award Ceremony
 
-The award ceremony for the youth art contest will take place on Saturday morning, February 22, 2025, at the Tualatin River National Wildlife Refuge. Stay tuned for more details.
+The award ceremony for the youth art contest will take place on February 22, 2025 at 10am, at the Tualatin River National Wildlife Refuge. The popular guided trail tour will be provided to all attendees after the ceremony.
 
 ### Program Overview:
 
