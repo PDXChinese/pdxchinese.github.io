@@ -28,7 +28,7 @@ feature_row3:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2023_grp3_2nd
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2023_grp3_2nd/'>2nd Place - Young</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2023_grp3a_3rd
-    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2023_grp3_3rd2/'>3rd Place - Brianna</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2023_grp3_3rd/'>3rd Place - Brianna</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2023_grp3_hm
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2023_grp3_hm/'>Honorable Mention - Alice Song</a></p>"
 feature_row4:
