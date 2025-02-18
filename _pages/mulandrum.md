@@ -19,6 +19,8 @@ To have us perform in your events, please [contact us](http://pdxchinese.org/con
 
 **Coach:** Wen Wang  
 
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/WeChat Image_20250217160224b)
+
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/428478712_385502834114805_3725444155917707792_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345424743_651302106822940_5592377646873928980_n)
@@ -31,7 +33,7 @@ Skyview High School, Feburary 16, 2025
 
 ### Performance in University of Oregon
 
-April 21, 2024 
+April 21, 2024
 
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/0XjQssKM-N0" title="Mulan Drum Team in University of Oregon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
