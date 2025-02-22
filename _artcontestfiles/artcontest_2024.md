@@ -46,9 +46,9 @@ feature_row4:
     excerpt: "<p><a href='http://pdxchinese.org/artcontestfiles/2024_grp4_hm/'>Honorable Mention - Xixi Zhang</a></p>"
 ---
 
-### Best in Show - To be announced at the award ceremony
+### Best in Show
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2022_blank)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2024_grp1_1st)
 
 ### Winners, Grade 9-12
 
