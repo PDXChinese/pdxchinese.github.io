@@ -17,6 +17,10 @@ date: "2025-02-22"
 
 Four years ago, our youth stood there, receiving support from the friends of the Refuge after being unfairly and unjustifiably blamed for the cause of COVID-19. Today, we stand together with our friends at the Refuge, united in our unshakable commitment to preserving this land—not just for ourselves, but for generations to come.
 
+### Testament from The Friends of TRNWR
+
+>Our four year relationship with the Oregon Chinese Coalition community is a powerful example of likeminded organization coming together to connect with the healing power of nature. The OCC community shows up for the Friends in so many ways to help us fulfill our mission to support the refuge complex. I invite you all to view the amazing art currently on display in our Visitor Center. Our National Wildlife Refuge is a virtual part of our community.
+
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/481210471_620825640582522_2788373589362763424_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/478499777_620825323915887_7204770111940263678_n)
