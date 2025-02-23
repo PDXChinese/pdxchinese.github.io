@@ -21,6 +21,8 @@ Four years ago, our youth stood there, receiving support from the friends of the
 
 >Our four year relationship with the Oregon Chinese Coalition community is a powerful example of likeminded organization coming together to connect with the healing power of nature. The OCC community shows up for the Friends in so many ways to help us fulfill our mission to support the refuge complex. I invite you all to view the amazing art currently on display in our Visitor Center. Our National Wildlife Refuge is a virtual part of our community.
 
+>When two extraordinary organizations work together extraordinary things happen!
+
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/481210471_620825640582522_2788373589362763424_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/478499777_620825323915887_7204770111940263678_n)
