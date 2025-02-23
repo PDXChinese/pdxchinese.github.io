@@ -1,5 +1,5 @@
 ---
-title: "2024 Youth Art Contest"
+title: "2025 Youth Art Contest"
 permalink: /artcontest/
 feature_row:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/for_u5k30hqifk64gjp1lszr
@@ -101,13 +101,13 @@ The Oregon Chinese Coalition (OCC) aims to provide an Art Contest for the commun
 
 ### Entry Deadlines and Key Dates:
 
--	Submission of entries must be post-marked or delivered by 1/21/2025 to Tualatin River National Wildlife Refuge. No late entries will be considered. Contestants need to fill out [Offcial Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link) and a copy of it is required to submit with the artwork.     
+-	Submission of entries must be post-marked or delivered by 1/21/2026 to Tualatin River National Wildlife Refuge. No late entries will be considered. Contestants need to fill out [Offcial Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link) and a copy of it is required to submit with the artwork.     
 > Attention: Friends of TRNWRC  
 > c/o Bonnie Anderson  
 >	19255 SW Pacific Hwy  
 > Sherwood, OR 97140  
 
--	Judging will occur the week of January 27, 2025  
+-	Judging will occur the week of January 26, 2026  
 -	After judging, submissions will be displayed in the Visitor Center at Tualatin River NWR (pending the Visitor Center being open)  
 -	All participants and their guest are invited to a reception at Tualatin River NWR to announce the winners of the contest. Original submissions will be picked up at that time and a copy of the winning entries will be displayed in the Refuge Visitor Center.   
 
@@ -127,7 +127,7 @@ The Oregon Chinese Coalition (OCC) aims to provide an Art Contest for the commun
 
 The purpose of this activity is to encourage youth to get outdoors with their families. Therefore, the submitted artwork must be focused around an individual’s experience in nature. It is asked of the contestants that part of your process needs to be spending time in nature to become inspired. The hope is that individuals will come to understand that nature is everywhere. It can be found in their backyard, down the block, at their school, or in a designated space like a refuge. To provide some guidance of the topic to consider, the committee has posed a question to reflect on as contestants imagine what they want to create. Think about and reflect on this:
 
-<p align="center"><b>“Nature as My Refuge”</b></p>
+<p align="center"><b>“Nature is all Around Us”</b></p>
 
 We request that youth entering the contest find ways to explore nature, in ways that they are able to, in order to find what inspires them. This is important as one of the submission rules is to provide a written explanation of their experience and where their inspiration came from while spending time (in whatever way they can) with nature. This narrative needs to be 90 words or less and should help the judges understand why the contestant created the piece they submitted. The narrative needs to accompany the art submission.
 
@@ -173,13 +173,13 @@ Youth Art Contest Winners (Best in Show, 1st, 2nd and 3rd place by level) will b
 
 ### 投稿截止日期
 
--	提交的参赛作品必须在2025年1月21日之前邮寄(以邮戳为准)或交付至图拉丁河国家野生动物保护区。迟到的参赛作品将不被考虑。参赛者需填写[参赛表格](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)，并打印出一份随作品一同提交。
+-	提交的参赛作品必须在2026年1月21日之前邮寄(以邮戳为准)或交付至图拉丁河国家野生动物保护区。迟到的参赛作品将不被考虑。参赛者需填写[参赛表格](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)，并打印出一份随作品一同提交。
 > Attention: Friends of TRNWRC  
 > c/o Bonnie Anderson  
 >	19255 SW Pacific Hwy  
 > Sherwood, OR 97140  
 
--	评审将在2025年1月27日那一周进行  
+-	评审将在2026年1月26日那一周进行  
 -	2025年2月xx日，所有获奖作者和他们的客人们欢迎参加在保护区举办的颁奖仪式。原作可以在当场取回，复印件会在保护区访客中心展览至下一年竞赛  
 
 ### 比赛规则：
@@ -198,7 +198,7 @@ Youth Art Contest Winners (Best in Show, 1st, 2nd and 3rd place by level) will b
 
 此活动的目的是鼓励青少年与家人一起到户外活动。因此，提交的绘画作品必须围绕个人的自然体验。要求参赛者在创作过程中一部分需要在大自然中花费时间才能受到启发。希望个人能够理解自然无处不在。它可以在他们的后院、街区、学校或保护区（如Refuge）中找到。为了对要考虑的主题提供一些指导，评委会提出了一个问题，供参赛者在想象他们想要创造什么时反思：
 
-<p align="center"><b>“自然是我的庇护所”</b></p>
+<p align="center"><b>“大自然无处不在”</b></p>
 
 我们要求参加比赛的青少年找到探索自然的方式，以他们能够做到的方式，找到激发他们灵感的东西。这很重要，因为参赛规则之一是以书面形式解释他们的经历以及他们在与大自然共度时光（以任何方式）时的灵感来源。这篇文章需要 90个字或更少，帮助评委理解参赛者为什么创作他们提交的作品。
 
