@@ -58,15 +58,15 @@ feature_row3:
 > [现场摊位位置图](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2023)  
 > 申请摊位请联系 info@pdxchinese.org  
 
-### [大厅] OCC团队，相互依赖成长的集体
+### OCC团队，相互依赖成长的集体
 
 青玉青少年舞蹈队/[Jade Dance Team](https://pdxchinese.org/youthdance/)  
 凤凰汉服社/[Phoenix Hanfu Dress Team](https://pdxchinese.org/hanfu/)  
 木兰大鼓队/[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
 蜻蜓空竹队/[Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
-OCC舞友会
-Portland Harmonics Singing Group
-社区应急准备委员会/[Community Emergency Preparedness Committee](https://pdxchinese.org/resources/disaster/resilience/)
+OCC舞友会  
+Portland Harmonics Singing Group  
+社区应急准备委员会/[Community Emergency Preparedness Committee](https://pdxchinese.org/resources/disaster/resilience/)  
 
 ### Our Proud Community Partners in the Fair
 
