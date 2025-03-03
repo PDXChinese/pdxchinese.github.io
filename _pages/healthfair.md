@@ -16,6 +16,8 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/housecall_logo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/oedlogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/WSCC_logo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/acupunctureor_logo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/mhacclogo
 feature_row2:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/blanklogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ohalogo
@@ -53,7 +55,7 @@ feature_row3:
 **免费入场，对公众开放**  
 
 > [现场义工报名表格](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
-> [现场摊位位置图](https://)  
+> [现场摊位位置图](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2023)  
 > 申请摊位请联系 info@pdxchinese.org  
 
 ### [大厅] OCC团队，相互依赖成长的集体
@@ -62,7 +64,9 @@ feature_row3:
 凤凰汉服社/[Phoenix Hanfu Dress Team](https://pdxchinese.org/hanfu/)  
 木兰大鼓队/[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
 蜻蜓空竹队/[Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
-青少年委员会/OCC Youth Council  
+OCC舞友会
+Portland Harmonics Singing Group
+社区应急准备委员会/[Community Emergency Preparedness Committee](https://pdxchinese.org/resources/disaster/resilience/)
 
 ### Our Proud Community Partners in the Fair
 
