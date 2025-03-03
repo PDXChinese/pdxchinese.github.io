@@ -25,7 +25,7 @@ Chinese/Lunar New Year Celebrations
 
 ### [2025 健康博览会/Health Fair](https://pdxchinese.org/healthfair/)
 
-Date: March 15, 2024 Saturday, 11pm-3pm  
+Date: March 15, 2025 Saturday, 11pm-3pm  
 Place: Embassy Suite, Hilton Hotel at Washington Square  
 
 ### May
