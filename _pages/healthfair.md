@@ -43,8 +43,6 @@ feature_row3:
 
 {% include feature_row id="feature_row3"%}
 
-*more to come...*
-
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025fairflyer)
 
 此次由OCC主办的社区健康博览会定位在两个方面：第一，健康关乎每个人，关乎在两种文化中成长的青少年，关乎肩负养家重任的年轻的爸爸妈妈们，更关乎学会优雅老去的长者。健康博览会着眼于全体社区成员的福祉。第二，作为一个社区组织，我们看中的不仅仅是健康筛检和教育，更重要的是那些影响我们身心健康的社会因素，所以，我们也会邀请有关的服务机构团体和个人参加活动。令人欣慰的是，我们的定位受到广泛的认可和支持。
@@ -61,6 +59,8 @@ feature_row3:
 ### Our Proud Community Partners in the Fair
 
 {% include feature_row id="feature_row1"%}
+
+*more to come...*
 
 ### OCC团队，相互依赖成长的集体
 
