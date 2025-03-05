@@ -42,18 +42,18 @@ extra:
         url: /winterdrive/
       - title: "<b>:: Youth ::</b>"
         url:
-      - title: "Drgonfly Diabolo Team"
+      - title: "Dragonfly Diabolo Team"
         url: /yoyo/
       - title: "Jade Dance Team"
         url: /youthdance/
       - title: "Phoenix Hanfu Society"
         url: /hanfu/
+      - title: "Portland Harmonics"
+        url: /youthsinging/
       - title: "PVSA Honorees"
         url: /pvsa/
       - title: "Red Lantern Dance Team"
         url: /redlantern/
-      - title: "Student Chapters"
-        url: /chapters/
       - title: "Youth Art Contest"
         url: /artcontest/
       - title: "Youth Camps"
@@ -62,16 +62,10 @@ extra:
         url: /youthconference/
       - title: "Youth Drum Team"
         url: /drumteam/
-      - title: "Youth Ambassadors"
-        url: /youthambassadors/
       - title: "Youth Guitar Club"
         url: /youthguitarclub/
       - title: "Youth Lens"
         url: /youthlens/
-      - title: "Youth Mentoring"
-        url: /mentoring/
-      - title: "Youth Peer Advisors"
-        url: /peeradvisors/
       - title: "Youth Roundtable"
         url: /youthroundtable/
       - title: "<b>:: Culture ::</b>"

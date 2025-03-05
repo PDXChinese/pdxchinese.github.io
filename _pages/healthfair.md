@@ -69,8 +69,8 @@ feature_row3:
 凤凰汉服社/[Phoenix Hanfu Dress Team](https://pdxchinese.org/hanfu/)  
 木兰大鼓队/[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
 蜻蜓空竹队/[Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
+波特兰和声小组/Portland Harmonics Singing Group  
 OCC舞友会  
-Portland Harmonics Singing Group  
 社区应急准备委员会/[Community Emergency Preparedness Committee](https://pdxchinese.org/resources/disaster/resilience/)  
 OCC房租补贴团队/Rent Assistance Team  
 
