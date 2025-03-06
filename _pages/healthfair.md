@@ -78,7 +78,7 @@ feature_row3:
 西北歌友会/NW Singing Group  
 吉他班/Guitar Classes  
 社区应急准备委员会/[Community Emergency Preparedness Committee](https://pdxchinese.org/resources/disaster/resilience/)  
-OCC房租补贴团队/Rent Assistance Team  
+OCC短期房租救助团队/Rent Assistance Teams  
 
 > [Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
 > [Tabling Map](https://)  
