@@ -72,16 +72,16 @@ feature_row3:
 
 ### OCC团队，相互依赖成长的集体 / OCC Teams to Build Resilience Together
 
-青玉青少年舞蹈队/[Jade Dance Team](https://pdxchinese.org/youthdance/)  
-凤凰汉服社/[Phoenix Hanfu Society](https://pdxchinese.org/hanfu/)  
-木兰大鼓队/[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
-蜻蜓空竹队/[Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
-波特兰和声小组/[Portland Harmonics Singing Group](https://pdxchinese.org/youthsinging/)  
-舞友会/Social Dancing Group  
-西北歌友会/NW Singing Group  
-吉他班/Guitar Classes  
-社区应急准备委员会/[Community Emergency Preparedness Committee](https://pdxchinese.org/resources/disaster/resilience/)  
-OCC短期房租救助团队/Rent Assistance Teams  
+青玉青少年舞蹈队 / [Jade Dance Team](https://pdxchinese.org/youthdance/)  
+凤凰汉服社 / [Phoenix Hanfu Society](https://pdxchinese.org/hanfu/)  
+木兰大鼓队 / [Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
+蜻蜓空竹队 / [Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
+波特兰和声小组 / [Portland Harmonics Singing Group](https://pdxchinese.org/youthsinging/)  
+舞友会 / Social Dancing Group  
+西北歌友会 / NW Singing Group  
+吉他班 / Guitar Classes  
+社区应急准备委员会 / [Community Emergency Preparedness Committee](https://pdxchinese.org/resources/disaster/resilience/)  
+短期房租救助团队 / Rent Assistance Teams  
 
 ### 中场休息精品演出 / Halftime Break Performance (12:45pm-1:15pm)
 
