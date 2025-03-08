@@ -39,7 +39,7 @@ feature_row3:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/careoregonlogo
 ---
 
-### Revisit Health Fairs / 健康博览会回顾
+### 健康博览会回顾 / Revisit Health Fairs
 
 >[2024 Health Fair / 健康博览会](https://pdxchinese.org/healthfair_2024/)  
 >[2024 Health Fair Album / 健康博览会相册](https://pdxchinese.org/community_health_fair_2024/)  
@@ -47,7 +47,7 @@ feature_row3:
 >[2023 Health Fair Album / 健康博览会相册](https://pdxchinese.org/community_health_fair_2023/)  
 
 
-### Our Proud Sponsors
+### 赞助商 / Our Proud Sponsors
 
 {% include feature_row id="feature_row3"%}
 
@@ -64,13 +64,13 @@ feature_row3:
 > [现场摊位位置图](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2023)  
 > 申请摊位请联系 info@pdxchinese.org  
 
-### Our Proud Community Partners in the Fair
+### 参展机构 / Our Proud Community Partners in the Fair
 
 {% include feature_row id="feature_row1"%}
 
 *more to come...*
 
-### OCC团队，相互依赖成长的集体 / OCC Teams to Build Resilience Together
+### 社区团队，相互依赖成长的集体 / OCC Teams to Build Resilience Together
 
 青玉青少年舞蹈队 / [Jade Dance Team](https://pdxchinese.org/youthdance/)  
 凤凰汉服社 / [Phoenix Hanfu Society](https://pdxchinese.org/hanfu/)  
