@@ -68,7 +68,7 @@ feature_row3:
 
 {% include feature_row id="feature_row1"%}
 
-### Partner Table Assignments
+### 摊位安排 / Partner Table Assignments
 
 [1-6] 俄勒冈健康与科学大学/OHSU 奈特癌症研究所/[Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute)
 
@@ -78,7 +78,7 @@ feature_row3:
 
 [7-10] 俄勒冈华人联盟服务团队/OCC Service Teams
 
->房租补贴/Rent Assistance  
+>短期房租救助团队/Rent Assistance  
 公益法律咨询/Legal Assistance  
 戒烟宣传/Tobacco Prevention and Cessation  
 自然灾害应急准备/[Emergency Preparedness](https://pdxchinese.org/resources/disaster/resilience/)  
@@ -105,19 +105,85 @@ feature_row3:
 出行安排  
 如何使用和充值 Hop Cards  
 
+[16] [Housecall Providers](https://housecallproviders.org/)
 
-### 社区团队，相互依赖成长的集体 / OCC Teams to Build Resilience Together
+>登门问诊/Primary Care  
+重大疾病协调医疗资源/Advanced Illness Care  
+临终关怀/Hospice Care  
 
-青玉青少年舞蹈队 / [Jade Dance Team](https://pdxchinese.org/youthdance/)  
-凤凰汉服社 / [Phoenix Hanfu Society](https://pdxchinese.org/hanfu/)  
-木兰大鼓队 / [Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
-蜻蜓空竹队 / [Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
-波特兰和声小组 / [Portland Harmonics Singing Group](https://pdxchinese.org/youthsinging/)  
-舞友会 / Social Dancing Group  
-西北歌友会 / NW Singing Group  
-吉他班 / Guitar Classes  
-社区应急准备委员会 / [Community Emergency Preparedness Committee](https://pdxchinese.org/resources/disaster/resilience/)  
-短期房租救助团队 / Rent Assistance Teams  
+[17] 州政府老年人和残疾人服务团队/[Aging and People with Disabilities Team](https://www.oregon.gov/dhs/seniors-disabilities/Pages/index.aspx)
+
+>为智障人提供就业和其他保障性质的服务  
+为老人和残疾人提供服务信息，包括护工，长期护理等  
+
+[18] 俄勒冈州处方药计划/[ArrayRx](https://arrayrxcard.com/)
+
+>帮助节省高达 80% 的处方药费用  
+免费加入，无年龄和收入限制  
+所有FDA批准的处方药都包括在内  
+
+[19] 社区合作伙伴外展计划/[Community Partner Outreach Program (CPOP)](https://oregoncpop.org/)
+
+>培训社会工作者(Social Workers)  
+通过社区组织帮助加入OHP健康保险计划  
+
+[20-23] 俄勒冈华人联盟文化演出团体/OCC Cultural/Performance Teams
+
+青玉青少年舞蹈队/[Jade Dance Team](https://pdxchinese.org/youthdance/)  
+凤凰汉服社/[Phoenix Hanfu Society](https://pdxchinese.org/hanfu/)  
+木兰大鼓队/[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
+蜻蜓空竹队/[Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
+波特兰和声小组/[Portland Harmonics Singing Group](https://pdxchinese.org/youthsinging/)  
+舞友会/Social Dancing Group  
+西北歌友会/NW Singing Group  
+吉他班/Guitar Classes  
+
+[24] 西北针灸中心/[NW Acupuncture Center](http://acupunctureor.com/)
+
+>太极，推拿，食疗，中药，针灸方面知识与咨询  
+现场压耳豆  
+
+[25] 美国国家自然医学大学/[National University of Natural Medicine](https://nunm.edu/)
+
+自然疗法医学/Naturalpathic Medicine  
+针灸与中药学/Acupuncture with a Chinese Herbal Medicine Specialization  
+营养科学/Science in Nutrition  
+
+[26] 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)  
+
+>交通补贴 -- 免费公交车卡  
+水气电补贴  
+协助申请低收入医疗保险(OHP)  
+低收入食物保障计划  
+
+[27] [Meals on Wheels](https://www.mowp.org/)
+
+>接受老年人食物申请  
+招募送食物开车义工  
+征求社区对东方食品开发反馈  
+
+[28] 出行无忧/[Ride Connection](https://rideconnection.org/)  
+
+>为老年人和残疾人提供免费门到门交通便利  
+招募志愿者司机  
+
+[29] [Mental Health Association for Chinese Communities (MHACC)](https://www.mhacc-usa.org/nami-programs)  
+
+>心理暖线（1-800-881-8502)  
+支持小组  
+读书会
+
+[30] 西北天主教心理咨询中心/[The Northwest Catholic Counseling Center](https://www.nwcounseling.org/)
+
+>中文(普通话)心理咨询  
+青少年心理健康咨询  
+婚姻咨询  
+
+[31] 华人服务中心/[Asian Health & Service Center](https://ahscpdx.org/)  
+
+>社区健康和保健服务  
+行为健康预防计划  
+亚裔癌症资源和支持服务  
 
 ### 中场休息精品演出 / Halftime Break Performance (12:45pm-1:15pm)
 
