@@ -61,7 +61,7 @@ feature_row3:
 **免费入场，对公众开放**  
 
 > [现场义工报名表格](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
-> [现场摊位位置图](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2023)  
+> [现场摊位位置图](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2025)  
 > 申请摊位请联系 info@pdxchinese.org  
 
 ### 参展机构 / Our Proud Community Partners in the Fair
@@ -202,11 +202,9 @@ Chinese Dulcimer by Seline Dai
 *Auld Lang Syne* by Portland Harmonics  
 
 > [Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
-> [Tabling Map](https://)  
+> [Tabling Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2025)  
 > To request a booth, please contact info@pdxchinese.org.  
 
 Health is of utmost importance to everyone, from the youth navigating between two cultures, to the parents shouldering the responsibilities of raising a family, and certainly to the elderly who strive to age gracefully. The health fair is dedicated to the well-being of the entire community.
 
 As a community-based organization, our strength lies in addressing the underlying causes of both physical and mental health issues. The health fair goes beyond mere health education and screening; it serves as a platform to introduce essential health and social services to community members. We firmly believe that empowering individuals with knowledge and resources is the most effective means of enhancing public health.
-
-*Full programs are in development and you have every reason to expect...*
