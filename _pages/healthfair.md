@@ -129,7 +129,7 @@ feature_row3:
 
 [20-23] 俄勒冈华人联盟文化演出团体/OCC Cultural/Performance Teams
 
-青玉青少年舞蹈队/[Jade Dance Team](https://pdxchinese.org/youthdance/)  
+>青玉青少年舞蹈队/[Jade Dance Team](https://pdxchinese.org/youthdance/)  
 凤凰汉服社/[Phoenix Hanfu Society](https://pdxchinese.org/hanfu/)  
 木兰大鼓队/[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
 蜻蜓空竹队/[Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
@@ -145,7 +145,7 @@ feature_row3:
 
 [25] 美国国家自然医学大学/[National University of Natural Medicine](https://nunm.edu/)
 
-自然疗法医学/Naturalpathic Medicine  
+>自然疗法医学/Naturalpathic Medicine  
 针灸与中药学/Acupuncture with a Chinese Herbal Medicine Specialization  
 营养科学/Science in Nutrition  
 
@@ -185,7 +185,7 @@ feature_row3:
 行为健康预防计划  
 亚裔癌症资源和支持服务  
 
-### 中场休息精品演出 / Halftime Break Performance (12:45pm-1:15pm)
+### 中场休息演出 / Halftime Break Performance (12:45pm-1:15pm)
 
 Violine Solo, *The Legende*, by Erin Qiu  
 Chinese Drumming by Mulan Drum Team  
