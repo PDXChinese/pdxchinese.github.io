@@ -138,52 +138,59 @@ feature_row3:
 西北歌友会/NW Singing Group  
 吉他班/Guitar Classes  
 
-[24] 西北针灸中心/[NW Acupuncture Center](http://acupunctureor.com/)
+[24] 王鑫医生/Dr. Xing Wang
+
+>移民体检咨询  
+血糖监测  
+肠胃科咨询  
+湿疹等皮肤护理咨询
+
+[25] 西北针灸中心/[NW Acupuncture Center](http://acupunctureor.com/)
 
 >太极，推拿，食疗，中药，针灸方面知识与咨询  
 现场压耳豆  
 
-[25] 美国国家自然医学大学/[National University of Natural Medicine](https://nunm.edu/)
+[26] 美国国家自然医学大学/[National University of Natural Medicine](https://nunm.edu/)
 
 >自然疗法医学/Naturalpathic Medicine  
 针灸与中药学/Acupuncture with a Chinese Herbal Medicine Specialization  
 营养科学/Science in Nutrition  
 
-[26] 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)  
+[27] 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)  
 
 >交通补贴 -- 免费公交车卡  
 水气电补贴  
 协助申请低收入医疗保险(OHP)  
 低收入食物保障计划  
 
-[27] [Meals on Wheels](https://www.mowp.org/)
+[28] [Meals on Wheels](https://www.mowp.org/)
 
 >接受老年人食物申请  
 招募送食物开车义工  
 征求社区对东方食品开发反馈  
 
-[28] 出行无忧/[Ride Connection](https://rideconnection.org/)  
+[29] 出行无忧/[Ride Connection](https://rideconnection.org/)  
 
 >为老年人和残疾人提供免费门到门交通便利  
 招募志愿者司机  
 
-[29] [Mental Health Association for Chinese Communities (MHACC)](https://www.mhacc-usa.org/nami-programs)  
+[30] 华人服务中心/[Asian Health & Service Center](https://ahscpdx.org/)  
+
+>社区健康和保健服务  
+行为健康预防计划  
+亚裔癌症资源和支持服务  
+
+[31] [Mental Health Association for Chinese Communities (MHACC)](https://www.mhacc-usa.org/nami-programs)  
 
 >心理暖线（1-800-881-8502)  
 支持小组  
 读书会
 
-[30] 西北天主教心理咨询中心/[The Northwest Catholic Counseling Center](https://www.nwcounseling.org/)
+[32] 西北天主教心理咨询中心/[The Northwest Catholic Counseling Center](https://www.nwcounseling.org/)
 
 >中文(普通话)心理咨询  
 青少年心理健康咨询  
 婚姻咨询  
-
-[31] 华人服务中心/[Asian Health & Service Center](https://ahscpdx.org/)  
-
->社区健康和保健服务  
-行为健康预防计划  
-亚裔癌症资源和支持服务  
 
 ### 中场休息演出 / Halftime Break Performance (12:45pm-1:15pm)
 
