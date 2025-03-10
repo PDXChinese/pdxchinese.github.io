@@ -68,7 +68,43 @@ feature_row3:
 
 {% include feature_row id="feature_row1"%}
 
-*more to come...*
+### Partner Table Assignments
+
+[1-6] 俄勒冈健康与科学大学/OHSU 奈特癌症研究所/[Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute)
+
+>结肠癌，结肠镜检查（Colonoscopy）  
+人乳头状瘤病毒（HPV）疫苗及接种  
+睡眠呼吸暂停综合症（Apnea）及 CPAP呼吸机  
+
+[7-10] 俄勒冈华人联盟服务团队/OCC Service Teams
+
+>房租补贴/Rent Assistance  
+公益法律咨询/Legal Assistance  
+戒烟宣传/Tobacco Prevention and Cessation  
+自然灾害应急准备/[Emergency Preparedness](https://pdxchinese.org/resources/disaster/resilience/)  
+
+[11-12] TeaChat
+
+>提供六大茶类保健知识介绍  
+现场冲泡品鉴  
+现煮养生茶  
+
+[13] 俄勒冈州失业保险部门/[Oregon Employment Department-EAUI Unit](https://unemployment.oregon.gov/)
+
+>失业保险领取问答
+
+[14] [CareOregon](https://www.careoregon.org/) 医疗保险公司
+
+>协助寻找医生  
+帮助回答日趋复杂的保险覆盖服务的各种问题  
+为有需要的人提供去看医生所需的交通（[Ride to Care](https://ridetocare.com/)）  
+
+[15] [TriMet](https://trimet.org/)
+
+>老年和低收入优惠  
+出行安排  
+如何使用和充值 Hop Cards  
+
 
 ### 社区团队，相互依赖成长的集体 / OCC Teams to Build Resilience Together
 

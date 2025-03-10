@@ -33,7 +33,7 @@ If you feel depressed or there is a strong need to talk to someone.
 **热线电话专为紧急情况设立。在大多数情况下，帮助会通过线上进行。**  
 The support line is for urgent situation only. In most cases, the support will be provided remotely.  
 
-| 人生很美路也很长，难免有时会迷路或摔跤。有社区在这里，我们一起前行。<br> Life is beautiful and the road is long, and it is inevitable that sometimes you will get lost or fall. There is community here and we will move forward together.  |
+| 人生很美路也很长，难免有时会迷路或摔跤。有社区在这里，我们一起前行。<br> Life is beautiful, and the road is long. Along the way, getting lost or stumbling is inevitable. But with community by your side, we will move forward together. |
 
 ## 给社区老人发送印有热线电话和编号的安全口哨
 
