@@ -144,7 +144,7 @@ Care Oregon Advantage CareCard
 西北歌友会/NW Singing Group  
 吉他班/Guitar Classes  
 
-[24] 王鑫医生/Dr. Xing Wang
+[24] 王鑫医生/Dr. Xin Wang
 
 >移民体检咨询  
 血糖监测  
