@@ -89,11 +89,7 @@ feature_row3:
 现场冲泡品鉴  
 现煮养生茶  
 
-[13] 俄勒冈州失业保险部门/[Oregon Employment Department-EAUI Unit](https://unemployment.oregon.gov/)
-
->失业保险领取问答
-
-[14] [CareOregon](https://www.careoregon.org/) 医疗保险公司
+[13-14] [CareOregon](https://www.careoregon.org/) 医疗保险公司
 
 >协助寻找医生  
 帮助回答日趋复杂的保险覆盖服务的各种问题  
@@ -198,7 +194,11 @@ Care Oregon Advantage CareCard
 >家庭矛盾调解  
 调解员认证培训  
 
-[34] 普罗维登斯安康长者中心/[Providence ElderPlace Oregon](https://www.providence.org/services/pace-and-adult-day-programs/elderplace-in-oregon)
+[34] 俄勒冈州失业保险部门/[Oregon Employment Department-EAUI Unit](https://unemployment.oregon.gov/)
+
+>失业保险领取问答
+
+[35] 普罗维登斯安康长者中心/[Providence ElderPlace Oregon](https://www.providence.org/services/pace-and-adult-day-programs/elderplace-in-oregon)
 
 >适用于 55 岁及以上、在日常生活中需要帮助的成年人，例如如厕、行动、认知或记忆方面的支持。  
 社区环境（包括家庭住宅或辅助护理环境，但不包括护理机构）。  
