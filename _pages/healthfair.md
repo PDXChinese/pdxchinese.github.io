@@ -61,7 +61,7 @@ feature_row3:
 **免费入场，对公众开放**  
 
 > [现场义工报名表格](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
-> [现场摊位位置图](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2025)  
+> [现场摊位位置图](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2025b)  
 > 申请摊位请联系 info@pdxchinese.org  
 
 ### 参展机构 / Our Proud Community Partners in the Fair
@@ -129,12 +129,7 @@ Care Oregon Advantage CareCard
 >培训社会工作者(Social Workers)  
 通过社区组织帮助加入OHP健康保险计划  
 
-[20] 克拉克默斯县调解服务/[Clackamas County Resolution Services](https://www.clackamas.us/ccrs)
-
->家庭矛盾调解  
-调解员认证培训  
-
-[21-23] 俄勒冈华人联盟文化演出团体/OCC Cultural/Performance Teams
+[20-23] 俄勒冈华人联盟文化演出团体/OCC Cultural/Performance Teams
 
 >青玉青少年舞蹈队/[Jade Dance Team](https://pdxchinese.org/youthdance/)  
 凤凰汉服社/[Phoenix Hanfu Society](https://pdxchinese.org/hanfu/)  
@@ -198,6 +193,16 @@ Care Oregon Advantage CareCard
 青少年心理健康咨询  
 婚姻咨询  
 
+[33] 克拉克默斯县调解服务/[Clackamas County Resolution Services](https://www.clackamas.us/ccrs)
+
+>家庭矛盾调解  
+调解员认证培训  
+
+[34] 普罗维登斯安康长者中心/[Providence ElderPlace Oregon](https://www.providence.org/services/pace-and-adult-day-programs/elderplace-in-oregon)
+
+>适用于 55 岁及以上、在日常生活中需要帮助的成年人，例如如厕、行动、认知或记忆方面的支持。  
+社区环境（包括家庭住宅或辅助护理环境，但不包括护理机构）。  
+
 ### 中场休息演出 / Halftime Break Performance (12:45pm-1:15pm)
 
 Violine Solo, *The Legende*, by Erin Qiu  
@@ -208,7 +213,7 @@ Chinese Dulcimer by Seline Dai
 *Auld Lang Syne* by Portland Harmonics  
 
 > [Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
-> [Tabling Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2025)  
+> [Tabling Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2025b)  
 > To request a booth, please contact info@pdxchinese.org.  
 
 Health is of utmost importance to everyone, from the youth navigating between two cultures, to the parents shouldering the responsibilities of raising a family, and certainly to the elderly who strive to age gracefully. The health fair is dedicated to the well-being of the entire community.
