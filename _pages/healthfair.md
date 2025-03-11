@@ -208,8 +208,9 @@ Care Oregon Advantage CareCard
 
 [35] 华人医生现场咨询
 
->[Jie Wang, MD](https://healthy.kaiserpermanente.org/oregon-washington/clinicians/jie-wang-2478646)，家庭医生 (11am-12pm)  
-Mini Zhang, MD，儿童与青少年和成年人精神科医生，ADHD（注意力缺陷多动症）、躁郁症、抑郁症、强迫症、创伤后应激障碍（PTSD）、焦虑/恐惧/恐慌症、认知行为疗法、药物管理  
+>**[Jie Wang, MD](https://healthy.kaiserpermanente.org/oregon-washington/clinicians/jie-wang-2478646)**，家庭医生 (11am-12pm)  
+**Mini Zhang, MD**，儿童与青少年和成年人精神科医生，ADHD（注意力缺陷多动症）、躁郁症、抑郁症、强迫症、创伤后应激障碍（PTSD）、焦虑/恐惧/恐慌症、认知行为疗法、药物管理  
+**[Xi Zheng, MD, PhD](https://www.tvc.org/clinician/emily-xi-zheng-md-phd/)**, 内科和预防医学  
 
 ### 中场休息演出 / Halftime Break Performance (12:45pm-1:15pm)
 
@@ -218,6 +219,7 @@ Chinese Drumming by Mulan Drum Team
 Chinese Hanfu Show by Phoenix Hanfu Society  
 Diabolo Performance by Dragonfly Diabolo Team  
 Chinese Dulcimer by Seline Dai  
+Chinese Dance by Jade Dance Team  
 *Auld Lang Syne* by Portland Harmonics  
 
 > [Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
