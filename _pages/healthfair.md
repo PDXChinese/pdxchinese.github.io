@@ -206,6 +206,11 @@ Care Oregon Advantage CareCard
 
 >失业保险领取问答
 
+[35] 华人医生现场咨询
+
+>[Jie Wang, MD](https://healthy.kaiserpermanente.org/oregon-washington/clinicians/jie-wang-2478646)，家庭医生 (11am-12pm)  
+Mini Zhang, MD，儿童与青少年和成年人精神科医生，ADHD（注意力缺陷多动症）、躁郁症、抑郁症、强迫症、创伤后应激障碍（PTSD）、焦虑/恐惧/恐慌症、认知行为疗法、药物管理  
+
 ### 中场休息演出 / Halftime Break Performance (12:45pm-1:15pm)
 
 Violine Solo, *The Legende*, by Erin Qiu  
