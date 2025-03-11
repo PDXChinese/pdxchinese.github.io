@@ -26,7 +26,7 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/rtc_logo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/asqlonglogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/i693_logo
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/chinesedoc_logo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/chinesedoc2_logo
 feature_row2:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/blanklogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ohalogo
@@ -207,7 +207,7 @@ Care Oregon Advantage CareCard
 
 >失业保险领取问答
 
-[35] 华人医生现场咨询
+[35] 华人医生健康宣传
 
 >**[Jie Wang, MD](https://healthy.kaiserpermanente.org/oregon-washington/clinicians/jie-wang-2478646)**，家庭医生 (11am-12pm)  
 **Mini Zhang, MD**，儿童与青少年和成年人精神科医生 (12-3pm)，ADHD（注意力缺陷多动症）、躁郁症、抑郁症、强迫症、创伤后应激障碍（PTSD）、焦虑/恐惧/恐慌症、认知行为疗法、药物管理  
