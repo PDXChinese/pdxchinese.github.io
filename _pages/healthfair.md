@@ -98,6 +98,7 @@ feature_row3:
 >协助寻找医生  
 帮助回答日趋复杂的保险覆盖服务的各种问题  
 为有需要的人提供去看医生所需的交通（[Ride to Care](https://ridetocare.com/)）  
+Care Oregon Advantage CareCard
 
 [15] [TriMet](https://trimet.org/)
 
@@ -110,6 +111,7 @@ feature_row3:
 >登门问诊/Primary Care  
 重大疾病协调医疗资源/Advanced Illness Care  
 临终关怀/Hospice Care  
+现场测量血压  
 
 [17] 州政府老年人和残疾人服务团队/[Aging and People with Disabilities Team](https://www.oregon.gov/dhs/seniors-disabilities/Pages/index.aspx)
 
@@ -147,8 +149,7 @@ feature_row3:
 
 >移民体检咨询  
 血糖监测  
-肠胃科咨询  
-湿疹等皮肤护理咨询
+肠胃科和体重管理咨询  
 
 [25] 西北针灸中心/[NW Acupuncture Center](http://acupunctureor.com/)
 
