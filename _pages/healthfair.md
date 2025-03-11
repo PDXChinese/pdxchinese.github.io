@@ -127,7 +127,12 @@ feature_row3:
 >培训社会工作者(Social Workers)  
 通过社区组织帮助加入OHP健康保险计划  
 
-[20-23] 俄勒冈华人联盟文化演出团体/OCC Cultural/Performance Teams
+[20] 克拉克默斯县调解服务/[Clackamas County Resolution Services](https://www.clackamas.us/ccrs)
+
+>家庭矛盾调解  
+调解员认证培训  
+
+[21-23] 俄勒冈华人联盟文化演出团体/OCC Cultural/Performance Teams
 
 >青玉青少年舞蹈队/[Jade Dance Team](https://pdxchinese.org/youthdance/)  
 凤凰汉服社/[Phoenix Hanfu Society](https://pdxchinese.org/hanfu/)  
