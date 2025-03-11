@@ -26,6 +26,7 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/rtc_logo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/asqlonglogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/i693_logo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pace_logo
 feature_row2:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/blanklogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ohalogo
@@ -102,30 +103,38 @@ Care Oregon Advantage CareCard
 出行安排  
 如何使用和充值 Hop Cards  
 
-[16] [Housecall Providers](https://housecallproviders.org/)
+[16] 州政府老年人和残疾人服务团队/[Aging and People with Disabilities Team](https://www.oregon.gov/dhs/seniors-disabilities/Pages/index.aspx)
+
+>为智障人提供就业和其他保障性质的服务  
+为老人和残疾人提供服务信息，包括护工，长期护理等  
+
+[17] 俄勒冈州处方药计划/[ArrayRx](https://arrayrxcard.com/)
+
+>帮助节省高达 80% 的处方药费用  
+免费加入，无年龄和收入限制  
+所有FDA批准的处方药都包括在内  
+
+[18] 州政府医疗保险选购市场团队/[OHA Market Place Team](https://healthcare.oregon.gov/Pages/index.aspx)
+
+>如果您打算为个人或家庭或自己的公司选购医疗保险，选购市场提供众多选项，团队成员现场回答任何问题
+
+[19] 州政府为低收入健康保险(OHP)持有者提供支持服务/[OHA Ombuds Team](https://www.oregon.gov/oha/ERD/Pages/Ombuds-Program.aspx)
+
+>如果您对得到的服务有抱怨，她们会帮助到您。
+
+[20] [Housecall Providers](https://housecallproviders.org/)
 
 >登门问诊/Primary Care  
 重大疾病协调医疗资源/Advanced Illness Care  
 临终关怀/Hospice Care  
 现场测量血压  
 
-[17] 州政府老年人和残疾人服务团队/[Aging and People with Disabilities Team](https://www.oregon.gov/dhs/seniors-disabilities/Pages/index.aspx)
+[21] 普罗维登斯安康长者中心/[Providence ElderPlace Oregon](https://www.providence.org/services/pace-and-adult-day-programs/elderplace-in-oregon)
 
->为智障人提供就业和其他保障性质的服务  
-为老人和残疾人提供服务信息，包括护工，长期护理等  
+>适用于 55 岁及以上、在日常生活中需要帮助的成年人，例如如厕、行动、认知或记忆方面的支持。  
+社区环境（包括家庭住宅或辅助护理环境，但不包括护理机构）。  
 
-[18] 俄勒冈州处方药计划/[ArrayRx](https://arrayrxcard.com/)
-
->帮助节省高达 80% 的处方药费用  
-免费加入，无年龄和收入限制  
-所有FDA批准的处方药都包括在内  
-
-[19] 社区合作伙伴外展计划/[Community Partner Outreach Program (CPOP)](https://oregoncpop.org/)
-
->培训社会工作者(Social Workers)  
-通过社区组织帮助加入OHP健康保险计划  
-
-[20-23] 俄勒冈华人联盟文化演出团体/OCC Cultural/Performance Teams
+[22-23, A-C] 俄勒冈华人联盟文化演出团体/OCC Cultural/Performance Teams
 
 >青玉青少年舞蹈队/[Jade Dance Team](https://pdxchinese.org/youthdance/)  
 凤凰汉服社/[Phoenix Hanfu Society](https://pdxchinese.org/hanfu/)  
@@ -198,10 +207,11 @@ Care Oregon Advantage CareCard
 
 >失业保险领取问答
 
-[35] 普罗维登斯安康长者中心/[Providence ElderPlace Oregon](https://www.providence.org/services/pace-and-adult-day-programs/elderplace-in-oregon)
+[35] 社区合作伙伴外展计划/[Community Partner Outreach Program (CPOP)](https://oregoncpop.org/)
 
->适用于 55 岁及以上、在日常生活中需要帮助的成年人，例如如厕、行动、认知或记忆方面的支持。  
-社区环境（包括家庭住宅或辅助护理环境，但不包括护理机构）。  
+>培训社会工作者(Social Workers)  
+通过社区组织帮助加入OHP健康保险计划  
+
 
 ### 中场休息演出 / Halftime Break Performance (12:45pm-1:15pm)
 
