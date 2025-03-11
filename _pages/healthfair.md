@@ -79,10 +79,10 @@ feature_row3:
 
 [7-10] 俄勒冈华人联盟服务团队/OCC Service Teams
 
->短期房租救助团队/Rent Assistance  
-公益法律咨询/Legal Assistance  
-戒烟宣传/Tobacco Prevention and Cessation  
-自然灾害应急准备/[Emergency Preparedness](https://pdxchinese.org/resources/disaster/resilience/)  
+>7.短期房租救助团队/Rent Assistance  
+8.公益法律咨询/Legal Assistance  
+9.戒烟宣传/Tobacco Prevention and Cessation  
+10.自然灾害应急准备/[Emergency Preparedness](https://pdxchinese.org/resources/disaster/resilience/)  
 
 [11-12] TeaChat
 
