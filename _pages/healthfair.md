@@ -171,7 +171,7 @@ Care Oregon Advantage CareCard
 协助申请低收入医疗保险(OHP)  
 低收入食物保障计划  
 
-[28] [Meals on Wheels](https://www.mowp.org/)
+[28] 流动送餐车/[Meals on Wheels](https://www.mowp.org/)
 
 >接受老年人食物申请  
 招募送食物开车义工  
@@ -188,7 +188,7 @@ Care Oregon Advantage CareCard
 行为健康预防计划  
 亚裔癌症资源和支持服务  
 
-[31] [Mental Health Association for Chinese Communities (MHACC)](https://www.mhacc-usa.org/nami-programs)  
+[31] 美国华裔精神健康联盟/[Mental Health Association for Chinese Communities (MHACC)](https://www.mhacc-usa.org/nami-programs)  
 
 >心理暖线（1-800-881-8502)  
 支持小组  
