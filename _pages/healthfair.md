@@ -69,7 +69,9 @@ feature_row3:
 
 {% include feature_row id="feature_row1"%}
 
-### 摊位安排 / Partner Table Assignments [小册子/Brochure](/assets/pdf/2025_health_fair_info.pdf)
+### 摊位安排 / Partner Table Assignments  
+
+[小册子/Brochure](/assets/pdf/2025_health_fair_info.pdf)  
 
 [1-6] 俄勒冈健康与科学大学/OHSU 奈特癌症研究所/[Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute)
 
