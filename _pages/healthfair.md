@@ -222,7 +222,6 @@ Chinese Drumming by Mulan Drum Team
 Chinese Hanfu Show by Phoenix Hanfu Society  
 Diabolo Performance by Dragonfly Diabolo Team  
 Chinese Dulcimer by Seline Dai  
-Chinese Dance by Jade Dance Team  
 *Auld Lang Syne* by Portland Harmonics  
 
 > [Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
