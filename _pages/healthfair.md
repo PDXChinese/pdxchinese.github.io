@@ -69,7 +69,7 @@ feature_row3:
 
 {% include feature_row id="feature_row1"%}
 
-### 摊位安排 / Partner Table Assignments
+### 摊位安排 / Partner Table Assignments [小册子/Brochure](/assets/pdf/2025_health_fair_info.pdf)
 
 [1-6] 俄勒冈健康与科学大学/OHSU 奈特癌症研究所/[Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute)
 
@@ -156,7 +156,7 @@ Care Oregon Advantage CareCard
 >太极，推拿，食疗，中药，针灸方面知识与咨询  
 现场压耳豆  
 
-[26] 美国国家自然医学大学/[National University of Natural Medicine](https://nunm.edu/)
+[26] 俄勒冈自然医学大学/[National University of Natural Medicine](https://nunm.edu/)
 
 >自然疗法医学/Naturalpathic Medicine  
 针灸与中药学/Acupuncture with a Chinese Herbal Medicine Specialization  
@@ -207,7 +207,7 @@ Care Oregon Advantage CareCard
 
 >失业保险领取问答
 
-[35] 华人医生健康宣传
+[35] 社区华人医生健康宣传/Chinese Doctors Health Promotion
 
 >**[Jie Wang, MD](https://healthy.kaiserpermanente.org/oregon-washington/clinicians/jie-wang-2478646)**，家庭医生 (11am-12pm)  
 **Mini Zhang, MD**，儿童与青少年和成年人精神科医生 (12-3pm)，ADHD（注意力缺陷多动症）、躁郁症、抑郁症、强迫症、创伤后应激障碍（PTSD）、焦虑/恐惧/恐慌症、认知行为疗法、药物管理  
