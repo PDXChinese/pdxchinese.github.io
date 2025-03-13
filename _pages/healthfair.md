@@ -99,7 +99,7 @@ feature_row3:
 为有需要的人提供去看医生所需的交通（[Ride to Care](https://ridetocare.com/)）  
 Care Oregon Advantage CareCard
 
-[15] [TriMet](https://trimet.org/)
+[15] 波特兰都会交通局/[TriMet](https://trimet.org/)
 
 >老年和低收入优惠  
 出行安排  
