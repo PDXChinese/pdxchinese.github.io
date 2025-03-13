@@ -73,6 +73,14 @@ feature_row3:
 
 [小册子/Brochure](/assets/pdf/2025_health_fair_info.pdf)  
 
+**社区健康博览会义务医生免责声明**
+
+本次社区健康博览会的义务医生仅提供一般健康教育、健康咨询和基本筛查，作为一项公共服务。**这些服务不构成医患关系，也不能替代专业医疗诊断、治疗或个性化护理。**
+
+建议所有参与者就任何健康问题、诊断或治疗方案咨询其主治医生或持有执照的医疗机构。义务医生不对参与者根据本次活动提供的信息所做的任何决定承担责任。
+
+参与本次健康博览会即表示参与者知悉并同意自行承担与自身健康相关的所有责任。
+
 [1-6] 俄勒冈健康与科学大学/OHSU 奈特癌症研究所/[Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute)
 
 >结肠癌，结肠镜检查（Colonoscopy）  
@@ -150,7 +158,7 @@ Care Oregon Advantage CareCard
 [24] 王鑫医生/Dr. Xin Wang
 
 >移民体检咨询  
-血糖监测  
+现场测量血糖  
 肠胃科和体重管理咨询  
 
 [25] 西北针灸中心/[NW Acupuncture Center](http://acupunctureor.com/)
@@ -231,3 +239,11 @@ Chinese Dulcimer by Seline Dai
 Health is of utmost importance to everyone, from the youth navigating between two cultures, to the parents shouldering the responsibilities of raising a family, and certainly to the elderly who strive to age gracefully. The health fair is dedicated to the well-being of the entire community.
 
 As a community-based organization, our strength lies in addressing the underlying causes of both physical and mental health issues. The health fair goes beyond mere health education and screening; it serves as a platform to introduce essential health and social services to community members. We firmly believe that empowering individuals with knowledge and resources is the most effective means of enhancing public health.
+
+### Community Health Fair Volunteer Doctor Disclaimer
+
+The volunteer doctors participating in this Community Health Fair are providing general health education, wellness information, and basic screenings as a public service. **These services do not establish a doctor-patient relationship, nor do they replace professional medical diagnosis, treatment, or individualized care.**
+
+Attendees are encouraged to consult their primary care physician or a licensed healthcare provider for any medical concerns, diagnosis, or treatment recommendations. Volunteer doctors are not liable for any decisions made based on the information provided during the event.
+
+By participating in the health fair, attendees acknowledge and agree that they assume full responsibility for any actions taken regarding their health and well-being.
