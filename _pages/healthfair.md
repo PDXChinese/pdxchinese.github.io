@@ -56,6 +56,8 @@ feature_row3:
 
 此次由OCC主办的社区健康博览会定位在两个方面：第一，健康关乎每个人，关乎在两种文化中成长的青少年，关乎肩负养家重任的年轻的爸爸妈妈们，更关乎学会优雅老去的长者。健康博览会着眼于全体社区成员的福祉。第二，作为一个社区组织，我们看中的不仅仅是健康筛检和教育，更重要的是那些影响我们身心健康的社会因素，所以，我们也会邀请有关的服务机构团体和个人参加活动。令人欣慰的是，我们的定位受到广泛的认可和支持。
 
+为什么要参加这次健康博览会：[微信群宣传汇总](https://pdxchinese.org/community_health_fair_2025/)
+
 **时间:** 2025年3月15日，周六，11-3点  
 **地点:** Embassy Suites by Hilton Portland Tigard  
 **地址:** 9000 SW Washington Square Rd, Tigard, OR 97223  
@@ -75,11 +77,7 @@ feature_row3:
 
 **社区健康博览会义务医生免责声明**
 
-本次社区健康博览会的义务医生仅提供一般健康教育、健康咨询和基本筛查，作为一项公共服务。**这些服务不构成医患关系，也不能替代专业医疗诊断、治疗或个性化护理。**
-
-建议所有参与者就任何健康问题、诊断或治疗方案咨询其主治医生或持有执照的医疗机构。义务医生不对参与者根据本次活动提供的信息所做的任何决定承担责任。
-
-参与本次健康博览会即表示参与者知悉并同意自行承担与自身健康相关的所有责任。
+*本次社区健康博览会的义务医生仅提供一般健康教育、健康咨询和基本筛查，作为一项公共服务。这些服务不构成医患关系，也不能替代专业医疗诊断、治疗或个性化护理。建议所有参与者就任何健康问题、诊断或治疗方案咨询其主治医生或持有执照的医疗机构。义务医生不对参与者根据本次活动提供的信息所做的任何决定承担责任。参与本次健康博览会即表示参与者知悉并同意自行承担与自身健康相关的所有责任。*
 
 [1-6] 俄勒冈健康与科学大学/OHSU 奈特癌症研究所/[Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute)
 
@@ -242,8 +240,4 @@ As a community-based organization, our strength lies in addressing the underlyin
 
 ### Community Health Fair Volunteer Doctor Disclaimer
 
-The volunteer doctors participating in this Community Health Fair are providing general health education, wellness information, and basic screenings as a public service. **These services do not establish a doctor-patient relationship, nor do they replace professional medical diagnosis, treatment, or individualized care.**
-
-Attendees are encouraged to consult their primary care physician or a licensed healthcare provider for any medical concerns, diagnosis, or treatment recommendations. Volunteer doctors are not liable for any decisions made based on the information provided during the event.
-
-By participating in the health fair, attendees acknowledge and agree that they assume full responsibility for any actions taken regarding their health and well-being.
+*The volunteer doctors participating in this Community Health Fair are providing general health education, wellness information, and basic screenings as a public service. These services do not establish a doctor-patient relationship, nor do they replace professional medical diagnosis, treatment, or individualized care. Attendees are encouraged to consult their primary care physician or a licensed healthcare provider for any medical concerns, diagnosis, or treatment recommendations. Volunteer doctors are not liable for any decisions made based on the information provided during the event. By participating in the health fair, attendees acknowledge and agree that they assume full responsibility for any actions taken regarding their health and well-being.*

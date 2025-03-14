@@ -9,18 +9,6 @@ permalink: /updates/
 
 # <code style="color:brown">年度活动/Annual Events</code>
 
-
-### January
-
-### [青少年绘画竞赛/Youth Art Contest](https://pdxchinese.org/artcontest/)
-
-Submission Date: January 20, 2025  
-[Offcial Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)  
-
-### January-February
-
-Chinese/Lunar New Year Celebrations
-
 ### March
 
 ### [2025 健康博览会/Health Fair](https://pdxchinese.org/healthfair/)
@@ -77,6 +65,17 @@ To join, please **[register here](https://docs.google.com/forms/d/e/1FAIpQLSdrA8
 
 Date: Dec 29, 2025 1pm-5pm  
 Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_mgEl-2QBBaTOLoIwdgKmCw3K9CXkgN2Kg/viewform?usp=sf_link)  
+
+### January
+
+### [青少年绘画竞赛/Youth Art Contest](https://pdxchinese.org/artcontest/)
+
+Submission Date: January 20, 2025  
+[Offcial Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)  
+
+### January-February
+
+Chinese/Lunar New Year Celebrations
 
 ### External: [阿炳樱桃迎新年活动/Bing in the New Year](https://binginthenewyear.com/)
 
