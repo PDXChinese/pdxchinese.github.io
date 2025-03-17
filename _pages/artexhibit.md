@@ -15,6 +15,10 @@ permalink: /artexhibit/
 报名截止日：2024年5月1日  
 报名表：[点击这里](https://docs.google.com/forms/d/e/1FAIpQLSeMc3aVAPV5BkmZ8BThHhvHHEYnbNHy1B9YQCgxxiWcpAGoZQ/viewform?usp=sf_link)  
 
+### 2024 Art Show Highlight
+
+<iframe width="1708" height="960" src="https://www.youtube.com/embed/iv9UinZfdHo" title="2024 Joint Art Show Narrated by 西北兆" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/artshow2023_lwwoyslajauogjoroghg)
