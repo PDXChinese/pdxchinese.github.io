@@ -66,6 +66,7 @@ feature_row3:
 > [现场义工报名表格](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
 > [现场摊位位置图](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2025c)  
 > 申请摊位请联系 info@pdxchinese.org  
+> [体验问卷调查](https://docs.google.com/forms/d/e/1FAIpQLSeWAOnd-RhTkOqCQ8C6prrxwIH7d8324SUvOtcD3A7rYerh7Q/viewform?usp=header)  
 
 ### 参展机构 / Our Proud Community Partners in the Fair
 
