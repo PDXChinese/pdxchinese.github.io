@@ -234,6 +234,7 @@ Chinese Dulcimer by Seline Dai
 > [Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
 > [Tabling Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2025c)  
 > To request a booth, please contact info@pdxchinese.org.  
+> [Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSeWAOnd-RhTkOqCQ8C6prrxwIH7d8324SUvOtcD3A7rYerh7Q/viewform?usp=header)  
 
 Health is of utmost importance to everyone, from the youth navigating between two cultures, to the parents shouldering the responsibilities of raising a family, and certainly to the elderly who strive to age gracefully. The health fair is dedicated to the well-being of the entire community.
 
