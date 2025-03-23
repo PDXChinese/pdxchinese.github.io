@@ -72,7 +72,7 @@ feature_row21:
     - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/culturedayweather
 ---
 
-See you at the 2025 Culture Day on Saturday, May 17, at THPRD's Elsie Stuhr Center!
+# 2025 Culture Day will be combined with the Dragon Day in Portland Chinatown on Saturday, May 24
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/culturedayflyer2024)
 
