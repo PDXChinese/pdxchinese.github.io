@@ -42,6 +42,7 @@ feature_row3:
 
 ### 健康博览会回顾 / Revisit Health Fairs
 
+>[2025 Health Fair Album / 健康博览会相册](https://pdxchinese.org/community_health_fair_recap_2025/)  
 >[2024 Health Fair / 健康博览会](https://pdxchinese.org/healthfair_2024/)  
 >[2024 Health Fair Album / 健康博览会相册](https://pdxchinese.org/community_health_fair_2024/)  
 >[2023 Health Fair / 健康博览会](https://pdxchinese.org/healthfair_2023/)  
