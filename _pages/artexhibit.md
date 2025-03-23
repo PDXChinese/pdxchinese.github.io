@@ -5,7 +5,7 @@ permalink: /artexhibit/
 
 ### 2025 Community Art Show will be held in CCBA Theater (315 NW Davis St, Portland, OR 97209) from May 3 to May 25.
 
-地点: 中国城, （中华会馆一楼剧场） (23 NW 4th Avenue, Portland)  
+地点: 中国城, （中华会馆一楼剧场） (315 NW Davis St, Portland, OR 97209)  
 时间：5月3 - 25日，1点-5点 (每周四至周日)  
 布展时间： 4月24-5月2日  
 招待会：待定  
