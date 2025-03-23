@@ -27,6 +27,10 @@ date: "2025-03-15"
 
 *收获许多，超过期待。如对睡眠障碍的了解，也请两位中医给我把脉，对自己的身体有更多的认识。还遇见了许多多年不见的老朋友。健康博览会对社区绝对有正面积极的意义。特别是90年代前后来美的一批人进入退休生活，博览会给他们提供了解美国医疗，Medicare,老人福利等的窗口。健康养生、心理健康等新知识也通过博览会进入人们的脑海。这个投资很值得。*
 
+The third Community Health Fair was successfully held with the support of sponsors, vendors, volunteers, and community members. Its impact extended far beyond the Embassy Suites on Saturday. Ten consecutive days of postings in community WeChat groups ensured that people near and far were well informed about the offerings. Inquiries about the services continue to pour in even after the event.
+
+The overwhelmingly positive feedback from the community health fair shows that we’ve truly made a meaningful impact on the health and well-being of our community members. At the same time, there’s still much more to do and plenty of room for improvement.
+
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/485026786_639474328717653_1814771174366377953_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/484707349_639476855384067_3734698991161655939_n)
