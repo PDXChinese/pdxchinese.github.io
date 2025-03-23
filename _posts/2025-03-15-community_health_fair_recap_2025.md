@@ -186,3 +186,5 @@ date: "2025-03-15"
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/485991705_639476062050813_1035763492842605853_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/485402163_639478255383927_4011744029965291399_n_n)
+
+<iframe width="1708" height="960" src="https://www.youtube.com/embed/Ljdwq1ymRDo" title="Diabolo Performance in 2025 Community Health Fair" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
