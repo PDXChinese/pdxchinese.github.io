@@ -9,24 +9,22 @@ permalink: /updates/
 
 # <code style="color:brown">年度活动/Annual Events</code>
 
-### March
-
-### [2025 健康博览会/Health Fair](https://pdxchinese.org/healthfair/)
-
-Date: March 15, 2025 Saturday, 11pm-3pm  
-Place: Embassy Suite, Hilton Hotel at Washington Square  
-
 ### May
 
 ### [社区画展/Community Art Show](https://pdxchinese.org/artexhibit/)
 
-Date: Thur-Sun throughout May  
-Place: Oldtown Art Space  
+Time: 1pm - 5pm
+Date: Thur - Sun May 3 - Maybe 25  
+Place: CCBA Theater (315 NW Davis St, Portland, OR 97209)  
+
+### [龙归中国城/Dragon Day](https://pdxchinese.org/dragonday/)
+
+Date: May 24, 2025, 11am - 5pm  
+Place: [CCBA Theater, Chinatown](https://www.google.com/maps/place/CCBA/@45.5246978,-122.6738913,661m/data=!3m2!1e3!4b1!4m6!3m5!1s0x54950a00bf931a5d:0xda6c4459a76d465c!8m2!3d45.5246978!4d-122.6738913!16s%2Fg%2F1v6wp0rh?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D) (315 NW Davis St, Portland, OR 97209)  
 
 ### [文化日/Culture Day](https://pdxchinese.org/cultureday/)
 
-Date: May 17, 2025 (First Saturday after Mother's Day)  
-Place: [THPRD Elsie Stuhr Center](https://www.thprd.org/facilities/recreation/elsie-stuhr-center) (5550 SW Hall Blvd, Beaverton, OR 97005)  
+To be combined with the Dragon Day on May 24, 2025
 
 ### June
 
@@ -76,6 +74,13 @@ Submission Date: January 20, 2025
 ### January-February
 
 Chinese/Lunar New Year Celebrations
+
+### March
+
+### [2025 健康博览会/Health Fair](https://pdxchinese.org/healthfair/)
+
+Date: March 15, 2025 Saturday, 11pm-3pm  
+Place: Embassy Suite, Hilton Hotel at Washington Square  
 
 ### External: [阿炳樱桃迎新年活动/Bing in the New Year](https://binginthenewyear.com/)
 
