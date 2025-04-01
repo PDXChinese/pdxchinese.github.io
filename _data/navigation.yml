@@ -78,13 +78,11 @@ extra:
         url: /lunarnewyear/
       - title: "Community Art Show"
         url: /artexhibit/
-      - title: "Community Library"
-        url: /library/
-      - title: "Culture Day"
-        url: /cultureday/
       - title: "Lantern Festival"
         url: /lanternfestival/
       - title: "Mulan Drum Team"
         url: /mulandrum/
       - title: "Naming Project"
         url: /namingproj/
+      - title: "Return of the Dragon"
+        url: /dragon/
