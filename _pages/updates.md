@@ -17,14 +17,14 @@ Time: 1pm - 5pm
 Date: Thur - Sun May 3 - Maybe 25  
 Place: [CCBA Theater, Chinatown](https://www.google.com/maps/place/CCBA/@45.5246978,-122.6738913,661m/data=!3m2!1e3!4b1!4m6!3m5!1s0x54950a00bf931a5d:0xda6c4459a76d465c!8m2!3d45.5246978!4d-122.6738913!16s%2Fg%2F1v6wp0rh?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D) (315 NW Davis St, Portland, OR 97209)  
 
-### [龙归中国城/Return of Dragon](https://pdxchinese.org/dragonday/)
+### [龙归中国城/Return of the Dragon](https://pdxchinese.org/dragon/)
 
 Date: May 24, 2025, 11am - 5pm  
 Place: Chinatown, Portland  
 
 ### [文化日/Culture Day](https://pdxchinese.org/cultureday/)
 
-To be combined with the Return of Dragon on May 24, 2025
+To be incorporated into Return of the Dragon on May 24, 2025
 
 ### June
 

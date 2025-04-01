@@ -3,6 +3,13 @@ title: "社区青少年弦乐队"
 permalink: /youthorchestra/
 ---
 
+## 难忘的回忆
+
+>[选拔现场](https://pdxchinese.org/community_youth_orchestra_audition/)  
+[首次排练](https://pdxchinese.org/youth_orchestra_practice_03132022/)  
+[野生保护区的演出](https://pdxchinese.org/tualatin_river_open_day_2022/)  
+[在艺术展的演出](https://pdxchinese.org/artshow_performance_2022/)  
+
 青少年教育与培养一直是我们工作的重点，联盟通过开展各项活动，积极为青少年们提供各种机会与平台，让青少年们能够为身为华人感到骄傲，为作为华人社区一部分感到自豪。
 
 Youth education and training has always been the focus of our work. Through various activities, OCC actively provides various opportunities and platforms for young people, so that they can be proud of being Chinese Americans and proud of being part of the Chinese American community.
