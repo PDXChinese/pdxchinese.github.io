@@ -9,6 +9,7 @@ permalink: /youthorchestra/
 [首次排练](https://pdxchinese.org/youth_orchestra_practice_03132022/)  
 [野生保护区的演出](https://pdxchinese.org/tualatin_river_open_day_2022/)  
 [在艺术展的演出](https://pdxchinese.org/artshow_performance_2022/)  
+[柳老师早年带领学生弦乐队的演出实况](https://youtu.be/pVBD8PaHGlQ)  
 
 青少年教育与培养一直是我们工作的重点，联盟通过开展各项活动，积极为青少年们提供各种机会与平台，让青少年们能够为身为华人感到骄傲，为作为华人社区一部分感到自豪。
 
