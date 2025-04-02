@@ -5,7 +5,7 @@ permalink: /dragon/
 
 # Return of the Dragon
 
-八个被钢圈扼住脖子的龙的雕塑存在中国城近20年，随之而来的是华人被迫搬离、商铺关停，昔日繁华不再，留下的仅是满目苍夷的街区，成了各方政治和社会议题的角力场。令人惋惜的是，这片土地承载着华人先辈的辉煌历史与珍贵文化遗产。这些雕塑现在终于被铲除，是让象征着智慧，团结，力量和繁荣的龙回归，更是华人重新汇聚、振兴中国城的时刻！
+八个被钢圈扼住脖子的龙的雕塑存在中国城近20年，随之而来的是华人被迫搬离、商铺关停，昔日繁华不再，留下的仅是满目苍夷的街区，成了各方政治和社会议题的角力场。令人惋惜的是，这片土地承载着华人先辈的辉煌历史与珍贵文化遗产。[这些雕塑现在终于被铲除](https://www.kgw.com/article/news/local/old-town-chinese-sculptures-removed/283-ab75f78c-057f-43e4-9acc-26c9e0ef18c8)，是让象征着智慧，团结，力量和繁荣的龙回归，更是华人重新汇聚、振兴中国城的时刻！
 
 中国城各大组织鼎力支持我们的倡议，将于5月24日（周六）在中国城举办全天（11点-5点）盛大庆祝活动。让我们在这一天重返中国城，哪怕一年只有这一天，也要表明我们对这片土地的不舍与坚持。
 
@@ -17,14 +17,11 @@ Portland Chinatown is bringing back a cherished tradition! **Return of the Drago
 
 **Date:** Saturday, May 24, 2025  
 **Time:** 11 AM – 5 PM  
-**Locations:**  
+**Activity Areas:**  
     NW Davis Street – Cultural Performances  
     NW Flanders Street – Food and Cultural Vendors  
     NW 3rd Ave – Dragon Activities  
+    NW 4th Ave - Crafts Activities
     Lan Su Chinese Garden – Immersive Cultural Experiences  
 
 Join us in revitalizing Chinatown and celebrating its rich cultural heritage. Let’s come together to make this an unforgettable event and establish a new annual tradition!
-
-### New This Year: Event Passport
-
-To enhance visitor participation, we are introducing a Passport Program. Attendees can collect stamps at various stops, each featuring information about local cultural organizations. Those who collect enough stamps can redeem special gifts from event organizers.
