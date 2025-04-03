@@ -21,7 +21,7 @@ Portland Chinatown is bringing back a cherished tradition! **Return of the Drago
     NW Davis Street – Cultural Performances  
     NW Flanders Street – Food and Cultural Vendors  
     NW 3rd Ave – Dragon Activities  
-    NW 4th Ave - Crafts Activities
+    NW 4th Ave - Crafts Activities  
     Lan Su Chinese Garden – Immersive Cultural Experiences  
 
 Join us in revitalizing Chinatown and celebrating its rich cultural heritage. Let’s come together to make this an unforgettable event and establish a new annual tradition!
