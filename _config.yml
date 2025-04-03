@@ -251,6 +251,9 @@ collections:
   chinatown_newyear:
     output: true
     permalink: /chinatown/newyear/:path/
+  chinatown_dragon:
+    output: true
+    permalink: /chinatown/dragon/:path/
   communities_media:
     output: true
     permalink: /resources/:collection/:path/
