@@ -13,6 +13,6 @@ feature_row1:
 **Category: Teens (11-15)**  
 **Hours: 113**  
 
-my name is ashley, fong, i go to hosford middle school. im in 7th grade and 12 years old. when i have free time i do volunteering to learn something new and help others. i’ve learned many things from volunteering such as cooking, helping others in need and performing dances without being afraid. i will continue volunteering because it’s very helpful to everyone in need and helpful for me to learn something new. thank you.
+I go to Hosford middle school. I'm in 7th grade and 12 years old. when I have free time I do volunteering to learn something new and help others. I've learned many things from volunteering such as cooking, helping others in need and performing dances without being afraid. I will continue volunteering because it's very helpful to everyone in need and helpful for me to learn something new. 
 
 Oregon Chinese Coalition is proud to join the President of the United States in recognizing the volunteers who consistently take the time to make a difference in the lives of others. Therefore, it is a great honor to present the President's Volunteer Service Award (PVSA) to Ashley Fong.
