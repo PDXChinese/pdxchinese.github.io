@@ -15,7 +15,7 @@ Portland Chinatown is bringing back a cherished tradition! **Return of the Drago
 
 ## Event Details
 
-**Date:** May 24, 2025 (Saturday)  
+**Date:** Saturday, May 24, 2025  
 
 **Time:** 11 AM – 5 PM  
 
