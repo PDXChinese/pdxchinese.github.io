@@ -159,7 +159,7 @@ Congratulations to the 73 youth OCC has assisted in certifying their volunteerin
 
 {% include feature_row id="feature_row2"%}
 
-### Archive
+### Previous PVSA Honorees
 
 [2023 PVSA Recipients](http://pdxchinese.org/pvsafiles/pvsa_2023/)  
 [2022 PVSA Recipients](http://pdxchinese.org/pvsafiles/pvsa_2022/)  
