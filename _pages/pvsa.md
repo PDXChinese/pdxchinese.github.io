@@ -45,8 +45,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Ophilia_Lu/'>Ophilia Lu, Lake Oswego High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Wenyan_Lu
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Wenyan_Lu/'>Wenyan Lu, West Linn High School (Gold Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Michell_Luo
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Michell_Luo/'>Michell Luo, Sexton Mountain Elementary School (Gold Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Michelle_Luo
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Michelle_Luo/'>Michelle Luo, Sexton Mountain Elementary School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Monica_Luo
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Monica_Luo/'>Monica Luo, ISB (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Jessie_Pan
