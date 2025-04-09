@@ -125,11 +125,11 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Henry_Xie/'>Henry Xie, Westview High School (Silver Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Mingxuan_Xu
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Mingxuan_Xu/'>Mingxuan Xu, ISB (Silver Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_George_Yu
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_George_Yu2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_George_Yu/'>George Yu, Bridlemile Elemetary School (Silver Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Sabrina_Yu
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Sabrina_Yu2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Sabrina_Yu/'>Sabrina Yu, Bridlemile Elementary School (Silver Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Sherry_Yu
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Sherry_Yu2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Sherry_Yu/'>Sherry Yu, Robert Gray Middle School (Silver Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Ruoyan_Zhou
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Ruoyan_Zhou/'>Ruoyan Zhou, Lincoln High School (Silver Award)</a></p>"
