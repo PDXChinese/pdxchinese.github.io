@@ -53,16 +53,16 @@ Please follow the route and no photograph inside buildings.
 
 >[Chinese American Community Art Show](https://pdxchinese.org/artexhibit/) (Free admission)  
 [Chinese Consolidated Benevolent Association Museum](https://www.oregonccba.org/museum/story/) (Free admission)  
-[Portland Chinatown Museum](https://www.portlandchinatownmuseum.org/) (Pay as you will)  
 [Japanese American Museum of Oregon](https://jamo.org/) (Pay as you will)  
+[Portland Chinatown Museum](https://www.portlandchinatownmuseum.org/) (Pay as you will)  
 
 **Food and Beverage Vendors**
 
->十三乡  
-北京小馆  
+>北京小馆  
+[Juicy V Wings](https://www.facebook.com/juicyjvswings/)  
 [Prime Tap House](https://www.primetaphouse.com/)  
 TeaChat  
-[Juicy V Wings](https://www.facebook.com/juicyjvswings/)  
+十三乡  
 
 **Performance Groups and Individuals**
 
@@ -86,8 +86,10 @@ more to come...
 >[Geek Easy Café](https://www.instagram.com/geekeasyanimecafe/#)  
 more to come...  
 
-**Participating NPOs**
+**Participating NPOs and Agencies**
 
->[Oregon Chinese Coalition, OCC](https://pdxchinese.org/)  
-[Chinese American Citizens Alliance, CACA](https://cacaportland.com/)  
+>[Chinese American Citizens Alliance, CACA](https://cacaportland.com/)  
+[Chinese Consolidated Benevolent Association, CCBA](https://www.oregonccba.org/)  
+[Oregon Chinese Coalition, OCC](https://pdxchinese.org/)  
+[Portland Police Bureau](https://www.portland.gov/police)  
 more to come...  

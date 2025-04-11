@@ -1,6 +1,7 @@
 ---
 title: "龙归中国城"
 ---
+
 # Return of the Dragon
 
 八个被钢圈扼住脖子的龙的雕塑存在中国城近20年，随之而来的是华人被迫搬离、商铺关停，昔日繁华不再，留下的仅是满目苍夷的街区，成了各方政治和社会议题的角力场。令人惋惜的是，这片土地承载着华人先辈的辉煌历史与珍贵文化遗产。[这些雕塑现在终于被铲除](https://www.kgw.com/article/news/local/old-town-chinese-sculptures-removed/283-ab75f78c-057f-43e4-9acc-26c9e0ef18c8)，是让象征着智慧，团结，力量和繁荣的龙回归，更是华人重新汇聚、振兴中国城的时刻！
@@ -51,16 +52,16 @@ Please follow the route and no photograph inside buildings.
 
 >[Chinese American Community Art Show](https://pdxchinese.org/artexhibit/) (Free admission)  
 [Chinese Consolidated Benevolent Association Museum](https://www.oregonccba.org/museum/story/) (Free admission)  
-[Portland Chinatown Museum](https://www.portlandchinatownmuseum.org/) (Pay as you will)  
 [Japanese American Museum of Oregon](https://jamo.org/) (Pay as you will)  
+[Portland Chinatown Museum](https://www.portlandchinatownmuseum.org/) (Pay as you will)  
 
 **Food and Beverage Vendors**
 
->十三乡  
-北京小馆  
+>北京小馆  
+[Juicy V Wings](https://www.facebook.com/juicyjvswings/)  
 [Prime Tap House](https://www.primetaphouse.com/)  
 TeaChat  
-[Juicy V Wings](https://www.facebook.com/juicyjvswings/)  
+十三乡  
 
 **Performance Groups and Individuals**
 
@@ -84,8 +85,10 @@ more to come...
 >[Geek Easy Café](https://www.instagram.com/geekeasyanimecafe/#)  
 more to come...  
 
-**Participating NPOs**
+**Participating NPOs and Agencies**
 
->[Oregon Chinese Coalition, OCC](https://pdxchinese.org/)  
-[Chinese American Citizens Alliance, CACA](https://cacaportland.com/)  
+>[Chinese American Citizens Alliance, CACA](https://cacaportland.com/)  
+[Chinese Consolidated Benevolent Association, CCBA](https://www.oregonccba.org/)  
+[Oregon Chinese Coalition, OCC](https://pdxchinese.org/)  
+[Portland Police Bureau](https://www.portland.gov/police)  
 more to come...  
