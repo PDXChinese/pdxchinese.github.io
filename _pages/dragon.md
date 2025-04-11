@@ -58,13 +58,19 @@ more to come...
 
 **Participating Merchants**
 
+>[Geek Easy Café](https://www.instagram.com/geekeasyanimecafe/#)  
+
 **Participating NPOs**
+
+>[Oregon Chinese Coalition, OCC](https://pdxchinese.org/)
 
 **Participating Food and Beverage Vendors**
 
 >十三乡  
 北京小馆  
+[Prime Tap House](https://www.primetaphouse.com/)  
 TeaChat  
+[Juicy V Wings](https://www.facebook.com/juicyjvswings/)  
 
 **Participating Schools with Mandarin Programs**
 
