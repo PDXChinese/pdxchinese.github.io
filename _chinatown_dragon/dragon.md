@@ -2,7 +2,6 @@
 title: "龙归中国城"
 ---
 
-
 # Return of the Dragon
 
 八个被钢圈扼住脖子的龙的雕塑存在中国城近20年，随之而来的是华人被迫搬离、商铺关停，昔日繁华不再，留下的仅是满目苍夷的街区，成了各方政治和社会议题的角力场。令人惋惜的是，这片土地承载着华人先辈的辉煌历史与珍贵文化遗产。[这些雕塑现在终于被铲除](https://www.kgw.com/article/news/local/old-town-chinese-sculptures-removed/283-ab75f78c-057f-43e4-9acc-26c9e0ef18c8)，是让象征着智慧，团结，力量和繁荣的龙回归，更是华人重新汇聚、振兴中国城的时刻！
@@ -24,10 +23,10 @@ A group of cultural institutions in Chinatown, with support from the [Oldtown Co
 **Time:** 11am–5pm  
 
 **Activity Areas:**  
->NW Davis Street – Cultural Performances (12-5pm)  
-NW 3rd & 4th Ave – Food Vendors (11am-5pm)  
+>NW Davis Street – Cultural Performances (11-5pm)  
+NW Flanders Street – Food Vendors & NPOs (11am-5pm)  
 NW 3rd Ave – Dragon Activities (11am-5pm)  
-NW 4th Ave - Crafts Activities (11am-5pm)  
+NW 3rd & 4th Ave - Crafts Activities (11am-5pm)  
 [Lan Su Chinese Garden](https://lansugarden.org/) – Immersive Cultural Experiences (10am-6:30pm)  
 Various Locations - Traditional Chinese Tong and Association Open House (1-4pm)  
 
@@ -42,10 +41,11 @@ Volunteers: Before and On Site
 
 **Traditional Chinese Tong and Association Open House (1-4pm)**
 
->[中華會館 CCBA](https://www.oregonccba.org/), including its Museum, 315 NW Davis St.  
+[中華會館 CCBA](https://www.oregonccba.org/), including its Museum, 315 NW Davis St.  
 朔源堂 Soo Yuen Assn. 317 NW 4th Ave.  
 合勝堂 Hop Sing Assn., 317 NW 4th Ave.  
-more to come...  
+協勝堂 Hip Sing Assn., 211 NW 3rd Ave.
+至考篤親公所 Gee How Oak Tin Assn., 26 NW 4th Ave.more to come...  
 
 Please follow the route and no photograph inside buildings.
 
@@ -74,7 +74,7 @@ TeaChat
 
 **Participating Schools with Mandarin Programs**
 
->[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)/[US Wushu Center](https://uswushu.com/)  
+>[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)  
 
 **Participating Performance Groups and Individuals**
 
@@ -82,5 +82,5 @@ TeaChat
 [OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
 [OCC Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
 [OCC Jade Dance Team](https://pdxchinese.org/youthdance/)  
-[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)/[US Wushu Center](https://uswushu.com/)  
+[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)  
 蓝风铃舞队  
