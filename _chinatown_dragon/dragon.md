@@ -40,11 +40,10 @@ Dragon Volunteers: Open to High School Students and Adults
 **Traditional Chinese Tong and Association Open House (1-4pm)**
 
 [中華會館 CCBA](https://www.oregonccba.org/), including its Museum, 315 NW Davis St.  
-朔源堂 Soo Yuen Assn. 317 NW 4th Ave.  
+朔源堂 Soo Yuen Assn., 317 NW 4th Ave.  
 合勝堂 Hop Sing Assn., 317 NW 4th Ave.  
 協勝堂 Hip Sing Assn., 211 NW 3rd Ave.  
 至考篤親公所 Gee How Oak Tin Assn., 26 NW 4th Ave.  
-more to come...  
 
 Please follow the route and no photograph inside buildings.
 
