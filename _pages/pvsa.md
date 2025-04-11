@@ -147,7 +147,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Yifan_Qiu/'>Yifan Qiu, Lake Oswego High School (Bronze Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Zong_Qu
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Zong_Qu/'>Zong Qu, Catlin Gabel (Bronze Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Ziyue_Wang
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Ziyue_Wang2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Ziyue_Wang/'>Ziyue Wang, Lincoln High School (Bronze Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Liya_Zhao
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Liya_Zhao/'>Liya Zhao, Camas High School (Bronze Award)</a></p>"
