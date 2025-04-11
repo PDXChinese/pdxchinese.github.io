@@ -48,9 +48,10 @@ more to come...
 
 Please follow the route and no photograph inside buildings.
 
-**Museums**
+**Museums and Art Show**
 
->[Chinese Consolidated Benevolent Association Museum](https://www.oregonccba.org/museum/story/) (Free admission)  
+>[Chinese American Community Art Show](https://pdxchinese.org/artexhibit/) (Free admission)  
+[Chinese Consolidated Benevolent Association Museum](https://www.oregonccba.org/museum/story/) (Free admission)  
 [Portland Chinatown Museum](https://www.portlandchinatownmuseum.org/) (Pay as you will)  
 [Japanese American Museum of Oregon](https://jamo.org/) (Pay as you will)  
 
@@ -68,10 +69,10 @@ TeaChat
 [凤凰汉服社 Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
 [蜻蜓空竹队 Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
 [青玉舞蹈队 Jade Dance Team](https://pdxchinese.org/youthdance/)  
-[波特兰和声小组 / Portland Harmonics](https://pdxchinese.org/youthsinging/)  
+[波特兰和声小组 Portland Harmonics](https://pdxchinese.org/youthsinging/)  
 [俄勒冈希望中文学校 Oregon Hope Chinese School](http://oregon-hope.org/)  
 蓝风铃舞队  
-SODA中国舞学校 / [SODO Chinese Dance Academy](https://www.sodadance.com/)  
+[SODA中国舞学校 SODO Chinese Dance Academy](https://www.sodadance.com/)  
 more to come...  
 
 **Chiantown Guided Tours**
