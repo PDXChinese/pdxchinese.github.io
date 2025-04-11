@@ -74,7 +74,7 @@ TeaChat
 
 **Participating Schools with Mandarin Programs**
 
->[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)/[US Wushu Center](https://uswushu.com/)  
+>[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)  
 
 **Participating Performance Groups and Individuals**
 
@@ -82,5 +82,5 @@ TeaChat
 [OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
 [OCC Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
 [OCC Jade Dance Team](https://pdxchinese.org/youthdance/)  
-[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)/[US Wushu Center](https://uswushu.com/)  
+[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)  
 蓝风铃舞队  
