@@ -74,6 +74,7 @@ TeaChat
 [俄勒冈希望中文学校 Oregon Hope Chinese School](http://oregon-hope.org/)  
 蓝风铃舞队  
 [SODA中国舞学校 SODO Chinese Dance Academy](https://www.sodadance.com/)  
+玫瑰屋舞蹈队  
 more to come...  
 
 **Chiantown Guided Tours**
