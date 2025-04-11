@@ -21,10 +21,10 @@ Portland Chinatown is bringing back a cherished tradition! **Return of the Drago
 
 **Activity Areas:**  
 >NW Davis Street – Cultural Performances (12-5pm)  
-NW Flanders Street – Food and Cultural Vendors (11am-5pm)  
+NW 3rd & 4th Ave – Food Vendors (11am-5pm)  
 NW 3rd Ave – Dragon Activities (11am-5pm)  
 NW 4th Ave - Crafts Activities (11am-5pm)  
-Lan Su Chinese Garden – Immersive Cultural Experiences (10am-6:30pm)  
+[Lan Su Chinese Garden](https://lansugarden.org/) – Immersive Cultural Experiences (10am-6:30pm)  
 Various Locations - Traditional Chinese Tong and Association Open House (1-4pm)  
 
 Join us in revitalizing Chinatown and celebrating its rich cultural heritage. Let’s come together to make this an unforgettable event and establish a new annual tradition!
@@ -37,9 +37,15 @@ Volunteers
 
 **Traditional Chinese Tong and Association Open House (1-4pm)**
 
->中華會館 CCBA, including its Museum, 315 NW Davis St.  
+>[中華會館 CCBA](https://www.oregonccba.org/), including its Museum, 315 NW Davis St.  
 朔源堂 Soo Yuen Assn. 317 NW 4th Ave.  
 合勝堂 Hop Sing Assn., 317 NW 4th Ave.  
-more to add...  
+more to come...  
 
 Please follow the route and no photograph inside buildings.
+
+**Participating Institutions**
+
+>[波特兰中国城博物馆 Portland Chinatown Museum](https://www.portlandchinatownmuseum.org/) (Pay the tickets as you wish)  
+[俄勒冈日裔美国人博物馆 Japanese American Museum of Oregon](https://jamo.org/) (Pay the tickets as you wish)  
+more to come...  
