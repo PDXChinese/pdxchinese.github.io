@@ -35,9 +35,10 @@ Join us in revitalizing Chinatown and celebrating its rich cultural heritage. Le
 
 **Sign Up:**
 
->[To Perform on Stage (36'x32' dance floor)](https://docs.google.com/forms/d/e/1FAIpQLScl24H0EarrpNDVkYZ9Yp15M5e60gSFqCEf6Wz3c4SRie24Qw/viewform?usp=header)  
-Dragon Volunteers: Open to High School Students and Adults, Please join the WeChat Group  
-Volunteers  
+>To Perform on Stage (36'x32' dance floor)  
+Dragon Volunteers: Open to High School Students and Adults  
+Volunteers: Before and On Site  
+[Signup Form](https://docs.google.com/forms/d/e/1FAIpQLSehyOz8wdvgEOCjKjAEeEUsg-mGEAXIJa4DSkYxygMt-bmp8A/viewform?usp=header)  
 
 **Traditional Chinese Tong and Association Open House (1-4pm)**
 
