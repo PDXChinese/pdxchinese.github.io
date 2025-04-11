@@ -37,7 +37,7 @@ Join us in revitalizing Chinatown and celebrating its rich cultural heritage. Le
 
 >To Perform on Stage (36'x32' dance floor)  
 Dragon Volunteers: Open to High School Students and Adults  
-&rarr;[Signup Form](https://docs.google.com/forms/d/e/1FAIpQLSehyOz8wdvgEOCjKjAEeEUsg-mGEAXIJa4DSkYxygMt-bmp8A/viewform?usp=header)  
+&rarr [Signup Form](https://docs.google.com/forms/d/e/1FAIpQLSehyOz8wdvgEOCjKjAEeEUsg-mGEAXIJa4DSkYxygMt-bmp8A/viewform?usp=header)  
 
 **Traditional Chinese Tong and Association Open House (1-4pm)**
 
@@ -50,23 +50,13 @@ more to come...
 
 Please follow the route and no photograph inside buildings.
 
-**Participating Cultural Institutions**
+**Museums**
 
->[中華會館博物馆 CCBA Museum](https://www.oregonccba.org/museum/story/) (Free admission)  
-[波特兰中国城博物馆 Portland Chinatown Museum](https://www.portlandchinatownmuseum.org/) (Pay as you will)  
-[俄勒冈日裔美国人博物馆 Japanese American Museum of Oregon](https://jamo.org/) (Pay as you will)  
+>[Chinese Consolidated Benevolent Association Museum](https://www.oregonccba.org/museum/story/) (Free admission)  
+[Portland Chinatown Museum](https://www.portlandchinatownmuseum.org/) (Pay as you will)  
+[Japanese American Museum of Oregon](https://jamo.org/) (Pay as you will)  
 
-**Participating Merchants**
-
->[Geek Easy Café](https://www.instagram.com/geekeasyanimecafe/#)  
-more to come...  
-
-**Participating NPOs**
-
->[Oregon Chinese Coalition, OCC](https://pdxchinese.org/)
-more to come...  
-
-**Participating Food and Beverage Vendors**
+**Food and Beverage Vendors**
 
 >十三乡  
 北京小馆  
@@ -74,7 +64,7 @@ more to come...
 TeaChat  
 [Juicy V Wings](https://www.facebook.com/juicyjvswings/)  
 
-**Participating Performance Groups and Individuals**
+**Performance Groups and Individuals**
 
 >[木兰鼓队 Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
 [凤凰汉服社 Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
@@ -89,3 +79,14 @@ more to come...
 **Chiantown Guided Tours**
 
 >Tours with bronze plaques and touching base with Suenn Ho and C.A.C.A. (TBD)  
+
+**Participating Merchants**
+
+>[Geek Easy Café](https://www.instagram.com/geekeasyanimecafe/#)  
+more to come...  
+
+**Participating NPOs**
+
+>[Oregon Chinese Coalition, OCC](https://pdxchinese.org/)  
+[Chinese American Citizens Alliance, CACA](https://cacaportland.com/)  
+more to come...  
