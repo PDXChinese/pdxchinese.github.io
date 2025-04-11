@@ -76,7 +76,7 @@ more to come...
 
 **Chiantown Guided Tours**
 
->Tours with bronze plaques and touching base with Suenn Ho and C.A.C.A. (TBD)  
+>Tours with bronze plaques (TBD)  
 
 **Participating Merchants**
 
