@@ -25,12 +25,18 @@ NW Flanders Street – Food and Cultural Vendors (11am-5pm)
 NW 3rd Ave – Dragon Activities (11am-5pm)  
 NW 4th Ave - Crafts Activities (11am-5pm)  
 Lan Su Chinese Garden – Immersive Cultural Experiences (10am-6:30pm)  
-Various Locations - Traditional Chinese Tong Open House (1-4pm)  
+Various Locations - Traditional Chinese Tong and Association Open House (1-4pm)  
 
 Join us in revitalizing Chinatown and celebrating its rich cultural heritage. Let’s come together to make this an unforgettable event and establish a new annual tradition!
 
 **Sign Up:**
 
 >[Performances on Stage](https://docs.google.com/forms/d/e/1FAIpQLScl24H0EarrpNDVkYZ9Yp15M5e60gSFqCEf6Wz3c4SRie24Qw/viewform?usp=header)  
-Dragon Volunteers: Join the WeChat Group  
+Dragon Volunteers: Open to High School Students and Adults, Please join the WeChat Group  
 Volunteers  
+
+**Traditional Chinese Tong and Association Open House (1-4pm)**
+
+>中華會館 CCBA, including its Museum, 315 NW Davis St.  
+朔源堂 Soo Yuen Assn. 317 NW 4th Ave.  
+合勝堂 Hop Sing Assn., 317 NW 4th Ave.  
