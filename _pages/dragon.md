@@ -40,3 +40,5 @@ Volunteers
 >中華會館 CCBA, including its Museum, 315 NW Davis St.  
 朔源堂 Soo Yuen Assn. 317 NW 4th Ave.  
 合勝堂 Hop Sing Assn., 317 NW 4th Ave.  
+
+Please follow the route and no photograph inside buildings.
