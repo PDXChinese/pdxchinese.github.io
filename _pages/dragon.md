@@ -49,9 +49,32 @@ more to come...
 
 Please follow the route and no photograph inside buildings.
 
-**Participating Institutions**
+**Participating Cultural Institutions**
 
 >[中華會館博物馆 CCBA Museum](https://www.oregonccba.org/museum/story/) (Free admission)  
 [波特兰中国城博物馆 Portland Chinatown Museum](https://www.portlandchinatownmuseum.org/) (Pay as you wish)  
 [俄勒冈日裔美国人博物馆 Japanese American Museum of Oregon](https://jamo.org/) (Pay as you wish)  
 more to come...  
+
+**Participating Merchants**
+
+**Participating NPOs**
+
+**Participating Food and Beverage Vendors**
+
+>十三乡  
+北京小馆  
+TeaChat  
+
+**Participating Schools with Mandarin Programs**
+
+>[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)/[US Wushu Center](https://uswushu.com/)  
+
+**Participating Performance Groups and Individuals**
+
+>[OCC Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
+[OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
+[OCC Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
+[OCC Jade Dance Team](https://pdxchinese.org/youthdance/)  
+[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)/[US Wushu Center](https://uswushu.com/)  
+蓝风铃舞队  

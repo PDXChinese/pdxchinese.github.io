@@ -218,7 +218,7 @@ By bringing together students enrolled in Chinese classes and programs at public
 请联系西北兆或 info@pdxchinese.org，如果您的学校希望列在这里。  
 Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your school wants to be listed here.  
 
-# 演出 / Performance on Main stage
+# 演出 / Performance on Main Stage
 
 11:20am [OCC Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
 11:30pm [OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
