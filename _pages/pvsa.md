@@ -19,7 +19,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Arianna_Hong/'>Arianna Hong, BASE (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Brianna_Hong
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Brianna_Hong/'>Brianna Hong, BASE (Gold Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Allison_Hu
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Allison_Hu2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Allison_Hu/'>Allison Hu, Lincoln High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Emily_Jiang
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Emily_Jiang/'>Emily Jiang, Camas High School (Gold Award)</a></p>"
