@@ -37,33 +37,34 @@ Join us in revitalizing Chinatown and celebrating its rich cultural heritage. Le
 
 >To Perform on Stage (36'x32' dance floor)  
 Dragon Volunteers: Open to High School Students and Adults  
-Volunteers: Before and On Site  
-[Signup Form](https://docs.google.com/forms/d/e/1FAIpQLSehyOz8wdvgEOCjKjAEeEUsg-mGEAXIJa4DSkYxygMt-bmp8A/viewform?usp=header)  
+&rarr;[Signup Form](https://docs.google.com/forms/d/e/1FAIpQLSehyOz8wdvgEOCjKjAEeEUsg-mGEAXIJa4DSkYxygMt-bmp8A/viewform?usp=header)  
 
 **Traditional Chinese Tong and Association Open House (1-4pm)**
 
 [中華會館 CCBA](https://www.oregonccba.org/), including its Museum, 315 NW Davis St.  
 朔源堂 Soo Yuen Assn. 317 NW 4th Ave.  
 合勝堂 Hop Sing Assn., 317 NW 4th Ave.  
-協勝堂 Hip Sing Assn., 211 NW 3rd Ave.
-至考篤親公所 Gee How Oak Tin Assn., 26 NW 4th Ave.more to come...  
+協勝堂 Hip Sing Assn., 211 NW 3rd Ave.  
+至考篤親公所 Gee How Oak Tin Assn., 26 NW 4th Ave.  
+more to come...  
 
 Please follow the route and no photograph inside buildings.
 
 **Participating Cultural Institutions**
 
 >[中華會館博物馆 CCBA Museum](https://www.oregonccba.org/museum/story/) (Free admission)  
-[波特兰中国城博物馆 Portland Chinatown Museum](https://www.portlandchinatownmuseum.org/) (Pay as you wish)  
-[俄勒冈日裔美国人博物馆 Japanese American Museum of Oregon](https://jamo.org/) (Pay as you wish)  
-more to come...  
+[波特兰中国城博物馆 Portland Chinatown Museum](https://www.portlandchinatownmuseum.org/) (Pay as you will)  
+[俄勒冈日裔美国人博物馆 Japanese American Museum of Oregon](https://jamo.org/) (Pay as you will)  
 
 **Participating Merchants**
 
 >[Geek Easy Café](https://www.instagram.com/geekeasyanimecafe/#)  
+more to come...  
 
 **Participating NPOs**
 
 >[Oregon Chinese Coalition, OCC](https://pdxchinese.org/)
+more to come...  
 
 **Participating Food and Beverage Vendors**
 
@@ -73,15 +74,18 @@ more to come...
 TeaChat  
 [Juicy V Wings](https://www.facebook.com/juicyjvswings/)  
 
-**Participating Schools with Mandarin Programs**
-
->[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)  
-
 **Participating Performance Groups and Individuals**
 
->[OCC Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
-[OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
-[OCC Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
-[OCC Jade Dance Team](https://pdxchinese.org/youthdance/)  
-[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)  
+>[木兰鼓队 Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
+[凤凰汉服社 Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
+[蜻蜓空竹队 Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
+[青玉舞蹈队 Jade Dance Team](https://pdxchinese.org/youthdance/)  
+[波特兰和声小组 / Portland Harmonics](https://pdxchinese.org/youthsinging/)  
+[俄勒冈希望中文学校 Oregon Hope Chinese School](http://oregon-hope.org/)  
 蓝风铃舞队  
+SODA中国舞学校 / [SODO Chinese Dance Academy](https://www.sodadance.com/)  
+more to come...  
+
+**Chiantown Guided Tours**
+
+>Tours with bronze plaques and touching base with Suenn Ho and C.A.C.A. (TBD)  
