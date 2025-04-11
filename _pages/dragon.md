@@ -46,6 +46,7 @@ Please follow the route and no photograph inside buildings.
 
 **Participating Institutions**
 
->[波特兰中国城博物馆 Portland Chinatown Museum](https://www.portlandchinatownmuseum.org/) (Pay the tickets as you wish)  
+>[中華會館博物馆 CCBA Museum](https://www.oregonccba.org/museum/story/)  
+[波特兰中国城博物馆 Portland Chinatown Museum](https://www.portlandchinatownmuseum.org/) (Pay the tickets as you wish)  
 [俄勒冈日裔美国人博物馆 Japanese American Museum of Oregon](https://jamo.org/) (Pay the tickets as you wish)  
 more to come...  
