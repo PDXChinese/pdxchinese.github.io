@@ -83,6 +83,7 @@ TeaChat
 蓝风铃舞队  
 [SODA中国舞学校 SODO Chinese Dance Academy](https://www.sodadance.com/)  
 玫瑰屋舞蹈队  
+[Hope Chinese Charter School](https://hopeccs.org/)  
 more to come...  
 
 **Chiantown Guided Tours**

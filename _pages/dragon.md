@@ -31,6 +31,15 @@ NW 3rd & 4th Ave - Crafts Activities (11am-5pm)
 [Lan Su Chinese Garden](https://lansugarden.org/) – Immersive Cultural Experiences (10am-6:30pm)  
 Various Locations - Traditional Chinese Tong and Association Open House (1-4pm)  
 
+**Parking**
+
+SmartPark Garages @ Naito & Davis - Open 24/7 - 33 NW Davis St  
+Rate: $2/hour, $7 all day  
+
+**Security**
+
+The Portland Police Bureau will have a table on-site and officers patrolling the area on bikes.
+
 Join us in revitalizing Chinatown and celebrating its rich cultural heritage. Let’s come together to make this an unforgettable event and establish a new annual tradition!
 
 **Sign Up:**
@@ -75,6 +84,7 @@ TeaChat
 蓝风铃舞队  
 [SODA中国舞学校 SODO Chinese Dance Academy](https://www.sodadance.com/)  
 玫瑰屋舞蹈队  
+[Hope Chinese Charter School](https://hopeccs.org/)  
 more to come...  
 
 **Chiantown Guided Tours**
