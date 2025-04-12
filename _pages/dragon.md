@@ -37,9 +37,9 @@ Rate: $2/hour, $7 all day
 
 The Portland Police Bureau will have a table on-site and officers patrolling the area on bikes.
 
-Join us in revitalizing Chinatown and celebrating its rich cultural heritage. Let’s come together to make this an unforgettable event and establish a new annual tradition!
-
 **Sign Up:**
+
+Join us in revitalizing Chinatown and celebrating its rich cultural heritage. Let’s come together to make this an unforgettable event and establish a new annual tradition!
 
 >To Perform on Stage (36'x32' dance floor)  
 Dragon Volunteers: Open to High School Students and Adults  
