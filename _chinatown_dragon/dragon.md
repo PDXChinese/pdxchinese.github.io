@@ -87,6 +87,7 @@ TeaChat
 [Hope Chinese Charter School](https://hopeccs.org/)  
 [US Wushu Center](https://uswushu.com/)  
 [悦姿舞蹈工作室 YZ Dance Studio](https://www.yzdance.com/)  
+波特兰妇联会女子舞龙队  
 more to come...  
 
 **Chiantown Guided Tours**
