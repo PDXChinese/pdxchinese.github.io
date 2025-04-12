@@ -22,7 +22,7 @@ A group of cultural institutions in Chinatown, with support from the [Oldtown Co
 
 **Time:** 11am–5pm  
 
-**Activity Areas:**  
+**Place: [Chinatown, Portland](https://maps.app.goo.gl/oYEsDkcB9wd1Q2sW8)**  
 >NW Davis Street – Cultural Performances (11-5pm)  
 NW Flanders Street – Food Vendors & NPOs (11am-5pm)  
 NW 3rd Ave – Dragon Activities (11am-5pm)  
