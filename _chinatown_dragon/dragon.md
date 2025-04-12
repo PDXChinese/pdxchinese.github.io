@@ -93,15 +93,15 @@ more to come...
 
 >Tours with bronze plaques (TBD)  
 
-**Participating Merchants**
-
->[Geek Easy Café](https://www.instagram.com/geekeasyanimecafe/#)  
-more to come...  
-
-**Participating NPOs and Agencies**
+**Tabling NPOs and Agencies**
 
 >[Chinese American Citizens Alliance, CACA](https://cacaportland.com/)  
 [Chinese Consolidated Benevolent Association, CCBA](https://www.oregonccba.org/)  
 [Oregon Chinese Coalition, OCC](https://pdxchinese.org/)  
 [Portland Police Bureau](https://www.portland.gov/police)  
+more to come...  
+
+**Participating Merchants**
+
+>[Geek Easy Café](https://www.instagram.com/geekeasyanimecafe/#)  
 more to come...  
