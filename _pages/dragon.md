@@ -35,6 +35,7 @@ Various Locations - Traditional Chinese Tong and Association Open House (1-4pm)
 
 SmartPark Garages @ Naito & Davis - Open 24/7 - 33 NW Davis St  
 Rate: $2/hour, $7 all day  
+[Aerial Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/parking_map)  
 
 **Security**
 
