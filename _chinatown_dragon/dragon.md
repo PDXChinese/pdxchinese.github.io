@@ -63,11 +63,11 @@ Please follow the route and no photograph inside buildings.
 
 **Food and Beverage Vendors**
 
->北京小馆  
+>北京小馆 Little Beijing  
 [Juicy V Wings](https://www.facebook.com/juicyjvswings/)  
 [Prime Tap House](https://www.primetaphouse.com/)  
 TeaChat  
-十三乡  
+十三乡 LoLo S San Xiang  
 
 **Performance Groups and Individuals**
 
