@@ -42,8 +42,9 @@ The Portland Police Bureau will have a table on-site and officers patrolling the
 Join us in revitalizing Chinatown and celebrating its rich cultural heritage. Let’s come together to make this an unforgettable event and establish a new annual tradition!
 
 >[Signup to](https://docs.google.com/forms/d/e/1FAIpQLSehyOz8wdvgEOCjKjAEeEUsg-mGEAXIJa4DSkYxygMt-bmp8A/viewform?usp=header)  
-perform on outdoor stage (36'x32' dance floor)  
-volunteer with dragon activities: Open to High School Students and Adults  
+- perform on outdoor stage (36'x32' dance floor)  
+- crafts activities  
+- volunteer with dragon activities  
 
 **Traditional Chinese Tong and Association Open House (1-4pm)**
 
@@ -68,7 +69,7 @@ Please follow the route and no photograph inside buildings.
 [Juicy V Wings](https://www.facebook.com/juicyjvswings/)  
 [Prime Tap House](https://www.primetaphouse.com/)  
 TeaChat  
-十三乡 LoLo S San Xiang  
+十三鄉 LoLo S San Xiang  
 
 **Performance Groups and Individuals**
 
