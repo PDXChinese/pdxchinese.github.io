@@ -40,9 +40,9 @@ The Portland Police Bureau will have a table on-site and officers patrolling the
 
 Join us in revitalizing Chinatown and celebrating its rich cultural heritage. Let’s come together to make this an unforgettable event and establish a new annual tradition!
 
->To Perform on Stage (36'x32' dance floor)  
-Dragon Volunteers: Open to High School Students and Adults  
-[To Sign Up](https://docs.google.com/forms/d/e/1FAIpQLSehyOz8wdvgEOCjKjAEeEUsg-mGEAXIJa4DSkYxygMt-bmp8A/viewform?usp=header)  
+>[Sign Up](https://docs.google.com/forms/d/e/1FAIpQLSehyOz8wdvgEOCjKjAEeEUsg-mGEAXIJa4DSkYxygMt-bmp8A/viewform?usp=header)  
+to Perform on Stage (36'x32' dance floor)  
+to volunteer with Dragon activities: Open to High School Students and Adults  
 
 **Traditional Chinese Tong and Association Open House (1-4pm)**
 
