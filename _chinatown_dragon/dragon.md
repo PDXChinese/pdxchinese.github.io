@@ -85,6 +85,8 @@ TeaChat
 [SODA中国舞学校 SODO Chinese Dance Academy](https://www.sodadance.com/)  
 玫瑰屋舞蹈队  
 [Hope Chinese Charter School](https://hopeccs.org/)  
+[US Wushu Center](https://uswushu.com/)  
+[悦姿舞蹈工作室 YZ Dance Studio](https://www.yzdance.com/)  
 more to come...  
 
 **Chiantown Guided Tours**
