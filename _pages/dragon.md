@@ -107,3 +107,9 @@ more to come...
 
 >[Geek Easy Café](https://www.instagram.com/geekeasyanimecafe/#)  
 more to come...  
+
+# Highlights from Previous Events
+
+[2024 Culture Day](https://pdxchinese.org/culture_day_2024/)  
+[2023 Culture Day](https://pdxchinese.org/culture_day_2023/)  
+[2018 Chinese New Year Celebration in Chinatown](https://pdxchinese.org/new-year-summary-2018/)  
