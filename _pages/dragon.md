@@ -85,6 +85,7 @@ TeaChat
 [悦姿舞蹈工作室 YZ Dance Studio](https://www.yzdance.com/)  
 波特兰妇联会女子舞龙队  
 [Winnie舞蹈学院 Winnie Dance Academy](https://www.winniechinesedance.com/)  
+波特兰21街夕阳红旗袍秀  
 more to come...  
 
 **Chiantown Guided Tours**
