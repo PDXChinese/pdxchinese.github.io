@@ -15,4 +15,4 @@ date: "2025-04-12"
 
 节目，舞龙和手工活动[报名链接](https://docs.google.com/forms/d/e/1FAIpQLSehyOz8wdvgEOCjKjAEeEUsg-mGEAXIJa4DSkYxygMt-bmp8A/viewform?usp=header)
 
-[活动链接](https://pdxchinese.org/dragon/)  
+[活动链接](https://returnofdragon.com/)  
