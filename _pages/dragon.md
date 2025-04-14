@@ -86,6 +86,8 @@ TeaChat
 波特兰妇联会女子舞龙队  
 [Winnie舞蹈学院 Winnie Dance Academy](https://www.winniechinesedance.com/)  
 波特兰21街夕阳红旗袍秀  
+LuLu Guzheng Studio  
+WE Youth String Ensemble  
 more to come...  
 
 **Chiantown Guided Tours**
