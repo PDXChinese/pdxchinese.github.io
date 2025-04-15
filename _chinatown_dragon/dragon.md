@@ -95,7 +95,7 @@ more to come...
 
 **Tabling NPOs and Agencies**
 
->[Asian Health & Service Center](https://ahscpdx.org/)  
+>[Asian Health & Service Center, AHSC](https://ahscpdx.org/)  
 [Chinese American Citizens Alliance, CACA](https://cacaportland.com/)  
 [Chinese Consolidated Benevolent Association, CCBA](https://www.oregonccba.org/)  
 [Oregon Chinese Coalition, OCC](https://pdxchinese.org/)  
