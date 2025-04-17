@@ -71,7 +71,7 @@ Please follow the route and no photograph inside buildings.
 [Japanese American Museum of Oregon](https://jamo.org/) (Pay as you will)  
 [Portland Chinatown Museum](https://www.portlandchinatownmuseum.org/) (Pay as you will)  
 
-**Food and Beverage Vendors**
+**Ethnic Food and Beverage Vendors**
 
 >北京小馆 Little Beijing  
 [Juicy V Wings](https://www.facebook.com/juicyjvswings/)  
