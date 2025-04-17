@@ -45,7 +45,7 @@ Join us in revitalizing Chinatown and celebrating its rich cultural heritage. Le
 
 **Dragon Groups**
 
-[Lee Association Dragon & Lion Dance](https://www.leeondong.org/)  
+>[Lee Association Dragon & Lion Dance](https://www.leeondong.org/)  
 [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/)  
 [International Lion Dance](https://www.facebook.com/InternationalLionDancePortland/)  
 Portland Women’s Association Female Dragon Dance Team  
@@ -55,7 +55,7 @@ All dragons are on site for the group photo at 1pm
 
 **Traditional Chinese Tong and Association Open House (1-4pm)**
 
-[中華會館 CCBA](https://www.oregonccba.org/), including its Museum, 315 NW Davis St.  
+>[中華會館 CCBA](https://www.oregonccba.org/), including its Museum, 315 NW Davis St.  
 朔源堂 Soo Yuen Assn., 317 NW 4th Ave.  
 合勝堂 Hop Sing Assn., 317 NW 4th Ave.  
 協勝堂 Hip Sing Assn., 211 NW 3rd Ave.  
@@ -96,7 +96,7 @@ TeaChat
 波特兰21街夕阳红旗袍秀  
 LuLu Guzheng Studio  
 [The Wave Elements Global Music](https://www.thewaveelements.org/)  
-Cheer Leaders Performance  
+[Trail Blazers Cheer Leaders](https://www.nba.com/blazers/blazerdancers?srsltid=AfmBOorkEiJv46C-Gs41iG9MSYNlzGl44YmGEfdg4m-7iyVtnOapy4PK)  
 more to come...  
 
 **Chiantown Guided Tours**

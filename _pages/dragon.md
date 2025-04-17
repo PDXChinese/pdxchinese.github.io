@@ -46,7 +46,7 @@ Join us in revitalizing Chinatown and celebrating its rich cultural heritage. Le
 
 **Dragon Groups**
 
-[Lee Association Dragon & Lion Dance](https://www.leeondong.org/)  
+>[Lee Association Dragon & Lion Dance](https://www.leeondong.org/)  
 [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/)  
 [International Lion Dance](https://www.facebook.com/InternationalLionDancePortland/)  
 Portland Women’s Association Female Dragon Dance Team  
@@ -56,7 +56,7 @@ All dragons are on site for the group photo at 1pm
 
 **Traditional Chinese Tong and Association Open House (1-4pm)**
 
-[中華會館 CCBA](https://www.oregonccba.org/), including its Museum, 315 NW Davis St.  
+>[中華會館 CCBA](https://www.oregonccba.org/), including its Museum, 315 NW Davis St.  
 朔源堂 Soo Yuen Assn., 317 NW 4th Ave.  
 合勝堂 Hop Sing Assn., 317 NW 4th Ave.  
 協勝堂 Hip Sing Assn., 211 NW 3rd Ave.  
@@ -87,17 +87,17 @@ TeaChat
 [青玉舞蹈队 Jade Dance Team](https://pdxchinese.org/youthdance/)  
 [波特兰和声小组 Portland Harmonics](https://pdxchinese.org/youthsinging/)  
 [俄勒冈希望中文学校 Oregon Hope Chinese School](http://oregon-hope.org/)  
-蓝风铃舞队  
+蓝风铃舞队 Bluebell Dance Team  
 [SODA中国舞学校 SODO Chinese Dance Academy](https://www.sodadance.com/)  
-玫瑰屋舞蹈队  
+玫瑰屋舞蹈队 Rose House Senior Dance Team  
 [Hope Chinese Charter School](https://hopeccs.org/)  
-[US Wushu Center](https://uswushu.com/)  
+[美国武术中心 US Wushu Center](https://uswushu.com/)  
 [悦姿舞蹈工作室 YZ Dance Studio](https://www.yzdance.com/)  
 [Winnie舞蹈学院 Winnie Dance Academy](https://www.winniechinesedance.com/)  
-波特兰21街夕阳红旗袍秀  
+波特兰21街夕阳红旗袍秀 Portland 21st Street Golden Sunset Qipao Showcase  
 LuLu Guzheng Studio  
 [The Wave Elements Global Music](https://www.thewaveelements.org/)  
-Cheer Leaders Performance  
+[Trail Blazers Cheer Leaders](https://www.nba.com/blazers/blazerdancers?srsltid=AfmBOorkEiJv46C-Gs41iG9MSYNlzGl44YmGEfdg4m-7iyVtnOapy4PK)  
 more to come...  
 
 **Chiantown Guided Tours**
