@@ -43,6 +43,16 @@ Join us in revitalizing Chinatown and celebrating its rich cultural heritage. Le
 - to host crafts activities  
 - to volunteer with dragon activities  
 
+**Dragon Groups**
+
+[Lee Association Dragon & Lion Dance](https://www.leeondong.org/)  
+[White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/)  
+[International Lion Dance](https://www.facebook.com/InternationalLionDancePortland/)  
+Portland Women’s Association Female Dragon Dance Team  
+OCC Dragon Group  
+
+All dragons are on site for the group photo at 1pm  
+
 **Traditional Chinese Tong and Association Open House (1-4pm)**
 
 [中華會館 CCBA](https://www.oregonccba.org/), including its Museum, 315 NW Davis St.  
@@ -82,11 +92,11 @@ TeaChat
 [Hope Chinese Charter School](https://hopeccs.org/)  
 [US Wushu Center](https://uswushu.com/)  
 [悦姿舞蹈工作室 YZ Dance Studio](https://www.yzdance.com/)  
-波特兰妇联会女子舞龙队  
 [Winnie舞蹈学院 Winnie Dance Academy](https://www.winniechinesedance.com/)  
 波特兰21街夕阳红旗袍秀  
 LuLu Guzheng Studio  
 [The Wave Elements Global Music](https://www.thewaveelements.org/)  
+Cheer Leaders Performance  
 more to come...  
 
 **Chiantown Guided Tours**
@@ -100,11 +110,6 @@ more to come...
 [Chinese Consolidated Benevolent Association, CCBA](https://www.oregonccba.org/)  
 [Oregon Chinese Coalition, OCC](https://pdxchinese.org/)  
 [Portland Police Bureau](https://www.portland.gov/police)  
-more to come...  
-
-**Participating Merchants**
-
->[Geek Easy Café](https://www.instagram.com/geekeasyanimecafe/#)  
 more to come...  
 
 ## Highlights from Previous Events
