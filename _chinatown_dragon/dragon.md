@@ -72,28 +72,28 @@ Please follow the route and no photograph inside buildings.
 
 **Ethnic Food and Beverage Vendors**
 
->北京小馆 Little Beijing  
+>Little Beijing  
 [Juicy V Wings](https://www.facebook.com/juicyjvswings/)  
 [Prime Tap House](https://www.primetaphouse.com/)  
 TeaChat  
-十三鄉 LoLo S San Xiang  
+LoLo S San Xiang  
 
 **Performance Groups and Individuals**
 
->[木兰鼓队 Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
-[凤凰汉服社 Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
-[蜻蜓空竹队 Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
-[青玉舞蹈队 Jade Dance Team](https://pdxchinese.org/youthdance/)  
-[波特兰和声小组 Portland Harmonics](https://pdxchinese.org/youthsinging/)  
-[俄勒冈希望中文学校 Oregon Hope Chinese School](http://oregon-hope.org/)  
-蓝风铃舞队  
-[SODA中国舞学校 SODO Chinese Dance Academy](https://www.sodadance.com/)  
-玫瑰屋舞蹈队  
+>[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
+[Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
+[Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
+[Jade Dance Team](https://pdxchinese.org/youthdance/)  
+[Portland Harmonics](https://pdxchinese.org/youthsinging/)  
+[Oregon Hope Chinese School](http://oregon-hope.org/)  
+Bluebell Dance Team  
+[SODA Chinese Dance Academy](https://www.sodadance.com/)  
+Rose House Senior Dance Team  
 [Hope Chinese Charter School](https://hopeccs.org/)  
 [US Wushu Center](https://uswushu.com/)  
-[悦姿舞蹈工作室 YZ Dance Studio](https://www.yzdance.com/)  
-[Winnie舞蹈学院 Winnie Dance Academy](https://www.winniechinesedance.com/)  
-波特兰21街夕阳红旗袍秀  
+[YZ Dance Studio](https://www.yzdance.com/)  
+[Winnie Dance Academy](https://www.winniechinesedance.com/)  
+Portland 21st Street Golden Sunset Qipao Showcase  
 LuLu Guzheng Studio  
 [The Wave Elements Global Music](https://www.thewaveelements.org/)  
 [Trail Blazers Cheer Leaders](https://www.nba.com/blazers/blazerdancers?srsltid=AfmBOorkEiJv46C-Gs41iG9MSYNlzGl44YmGEfdg4m-7iyVtnOapy4PK)  
