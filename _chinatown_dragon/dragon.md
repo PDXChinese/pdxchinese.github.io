@@ -48,8 +48,8 @@ Join us in revitalizing Chinatown and celebrating its rich cultural heritage. Le
 >[Lee Association Dragon & Lion Dance](https://www.leeondong.org/)  
 [White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/)  
 [International Lion Dance](https://www.facebook.com/InternationalLionDancePortland/)  
-Portland Women’s Association Female Dragon Dance Team  
-OCC Dragon Group  
+Portland Women’s Association Female Dragon Dance  
+OCC Dragon Volunteer Group  
 
 All dragons are on site for the group photo at 1pm  
 
