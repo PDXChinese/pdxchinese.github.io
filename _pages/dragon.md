@@ -98,6 +98,7 @@ Portland 21st Street Golden Sunset Qipao Showcase
 LuLu Guzheng Studio  
 [The Wave Elements Global Music](https://www.thewaveelements.org/)  
 [Palisade World Language School](https://pal.losdschools.org/)  
+Huayun Arts Society  
 more to come...  
 
 **Chiantown Guided Tours**
