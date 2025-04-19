@@ -96,7 +96,6 @@ Rose House Senior Dance Team
 Portland 21st Street Golden Sunset Qipao Showcase  
 LuLu Guzheng Studio  
 [The Wave Elements Global Music](https://www.thewaveelements.org/)  
-[Trail Blazers Cheer Leaders](https://www.nba.com/blazers/blazerdancers?srsltid=AfmBOorkEiJv46C-Gs41iG9MSYNlzGl44YmGEfdg4m-7iyVtnOapy4PK)  
 [Palisade World Language School](https://pal.losdschools.org/)  
 more to come...  
 
