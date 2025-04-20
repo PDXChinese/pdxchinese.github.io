@@ -99,6 +99,7 @@ LuLu Guzheng Studio
 [The Wave Elements Global Music](https://www.thewaveelements.org/)  
 [Palisade World Language School](https://pal.losdschools.org/)  
 Huayun Arts Society  
+Nelson Chuan Opera Face Changing  
 more to come...  
 
 **Chiantown Guided Tours**
