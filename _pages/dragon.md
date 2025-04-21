@@ -100,6 +100,7 @@ LuLu Guzheng Studio
 [Palisade World Language School](https://pal.losdschools.org/)  
 Huayun Arts Society  
 Nelson Chuan Opera Face Changing  
+Erin Qiu Violin Solo  
 more to come...  
 
 **Chiantown Guided Tours**
