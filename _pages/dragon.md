@@ -9,17 +9,18 @@ Portland Chinatown is bringing back a cherished tradition! **[Return of the Drag
 
 ### The Dragon: A Living Symbol of Spirit and Strength
 
-*In Chinese culture, the dragon is not a beast to be feared, but a symbol to be celebrated.*
-*It embodies power without tyranny, wisdom without arrogance, and strength guided by purpose.*
-*The dragon dances not just to dazzle, but to unite—bringing people together in joy, pride, and cultural spirit.*
+*In Chinese culture, the dragon is not a beast to be feared, but a symbol to be celebrated.*  
+*It embodies power without tyranny, wisdom without arrogance, and strength guided by purpose.*  
+*The dragon dances not just to dazzle, but to unite—bringing people together in joy, pride, and cultural spirit.*  
 
-*It carries the hopes of a people, the blessings of prosperity, and the legacy of a thousand years.*
-*To follow the dragon is to walk with courage. To become the dragon is to rise with honor.*
+*It carries the hopes of a people, the blessings of prosperity, and the legacy of a thousand years.*  
+*To follow the dragon is to walk with courage.*  
+*To become the dragon is to rise with honor.*  
 
 
 ## Organizers
 
-Initiated by Oregon Chinese Coalition (OCC), supported by [CCBA](https://www.oregonccba.org/) and [OTCA](https://www.pdxoldtown.org/), and embraced by the community.
+Initiated by the Oregon Chinese Coalition (OCC), supported by [CCBA](https://www.oregonccba.org/) and [OTCA](https://www.pdxoldtown.org/), and embraced by the community, this is a join effort by all community partners who are willing to rise with honor -- carrying the spirit of the drgon.
 
 ## Event Details
 

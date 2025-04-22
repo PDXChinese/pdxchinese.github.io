@@ -16,3 +16,13 @@ date: "2025-04-12"
 节目，舞龙和手工活动[报名链接](https://docs.google.com/forms/d/e/1FAIpQLSehyOz8wdvgEOCjKjAEeEUsg-mGEAXIJa4DSkYxygMt-bmp8A/viewform?usp=header)
 
 [活动链接](http://returnofdragon.com/)  
+
+## The Dragon: A Living Symbol of Spirit and Strength
+
+*In Chinese culture, the dragon is not a beast to be feared, but a symbol to be celebrated.*  
+*It embodies power without tyranny, wisdom without arrogance, and strength guided by purpose.*  
+*The dragon dances not just to dazzle, but to unite—bringing people together in joy, pride, and cultural spirit.*  
+
+*It carries the hopes of a people, the blessings of prosperity, and the legacy of a thousand years.*  
+*To follow the dragon is to walk with courage.*  
+*To become the dragon is to rise with honor.*  
