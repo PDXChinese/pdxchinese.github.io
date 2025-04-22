@@ -17,7 +17,7 @@ Portland Chinatown is bringing back a cherished tradition! **[Return of the Drag
 
 ## Organizers
 
-Initiated by Oregon Chinese Coalition (OCC), supported by [CCBA](https://www.oregonccba.org/) and OTCA(https://www.pdxoldtown.org/), and embraced by the community.
+Initiated by Oregon Chinese Coalition (OCC), supported by [CCBA](https://www.oregonccba.org/) and [OTCA](https://www.pdxoldtown.org/), and embraced by the community.
 
 ## Event Details
 
@@ -83,7 +83,6 @@ Please follow the route and no photograph inside buildings.
 
 >Little Beijing  
 [Juicy V Wings](https://www.facebook.com/juicyjvswings/)  
-[Prime Tap House](https://www.primetaphouse.com/)  
 TeaChat  
 LoLo S San Xiang  
 
