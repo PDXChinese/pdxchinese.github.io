@@ -18,7 +18,7 @@ Portland Chinatown is bringing back a cherished tradition! **[Return of the Drag
 
 ## Organizers
 
-Initiated by the Oregon Chinese Coalition (OCC), supported by [CCBA](https://www.oregonccba.org/) and [OTCA](https://www.pdxoldtown.org/), and embraced by the community, this is a join effort by all community partners who are willing to rise with honor -- carrying the spirit of the drgon.
+Initiated by the Oregon Chinese Coalition (OCC), supported by [CCBA](https://www.oregonccba.org/) and [OTCA](https://www.pdxoldtown.org/), and embraced by the community, this is a join effort by all community partners who are willing to rise with honor -- carrying the spirit of the dragon.
 
 ## Event Details
 
