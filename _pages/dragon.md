@@ -5,18 +5,15 @@ permalink: /dragon/
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/rod_logo)
 
-Portland Chinatown is bringing back a cherished tradition! **[Return of the Dragon](http://returnofdragon.com/)** will take place on May 24, 2025, marking the revival of Chinatown’s cultural celebrations from 2016-2018. This year, the event will be bigger and more vibrant than ever, featuring the integration of **[Culture Day](https://pdxchinese.org/cultureday/)** to offer deeper cultural experiences and greater community engagement.
+## The Dragon: A Living Symbol of Spirit and Strength
 
-### The Dragon: A Living Symbol of Spirit and Strength
+In Chinese culture, the dragon is not a beast to be feared, but a symbol to be celebrated.  
+It embodies power without tyranny, wisdom without arrogance, and strength guided by purpose.  
+The dragon dances not just to dazzle, but to unite—bringing people together in joy, pride, and cultural spirit.  
 
-*In Chinese culture, the dragon is not a beast to be feared, but a symbol to be celebrated.*  
-*It embodies power without tyranny, wisdom without arrogance, and strength guided by purpose.*  
-*The dragon dances not just to dazzle, but to unite—bringing people together in joy, pride, and cultural spirit.*  
-
-*It carries the hopes of a people, the blessings of prosperity, and the legacy of a thousand years.*  
-*To follow the dragon is to walk with courage.*  
-*To become the dragon is to rise with honor.*  
-
+It carries the hopes of a people, the blessings of prosperity, and the legacy of a thousand years.  
+To follow the dragon is to walk with courage.  
+To become the dragon is to rise with honor.  
 
 ## Organizers
 

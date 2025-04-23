@@ -5,7 +5,7 @@ excerpt: "八个被钢圈扼住脖子的龙的雕塑存在中国城近20年，�
 date: "2025-04-12"
 ---
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/rod_header)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/rod_logo)
 
 八个被钢圈扼住脖子的龙的雕塑存在中国城近20年，随之而来的是华人被迫搬离、商铺关停，昔日繁华不再，留下的仅是满目苍夷的街区，成了各方政治和社会议题的角力场。令人惋惜的是，这片土地承载着华人先辈的辉煌历史与珍贵文化遗产。[这些雕塑现在终于被铲除](https://www.kgw.com/article/news/local/old-town-chinese-sculptures-removed/283-ab75f78c-057f-43e4-9acc-26c9e0ef18c8)，是让象征着智慧，团结，力量和繁荣的龙回归，更是华人重新汇聚、振兴中国城的时刻！
 
@@ -19,10 +19,10 @@ date: "2025-04-12"
 
 ## The Dragon: A Living Symbol of Spirit and Strength
 
-*In Chinese culture, the dragon is not a beast to be feared, but a symbol to be celebrated.*  
-*It embodies power without tyranny, wisdom without arrogance, and strength guided by purpose.*  
-*The dragon dances not just to dazzle, but to unite—bringing people together in joy, pride, and cultural spirit.*  
+In Chinese culture, the dragon is not a beast to be feared, but a symbol to be celebrated.  
+It embodies power without tyranny, wisdom without arrogance, and strength guided by purpose.  
+The dragon dances not just to dazzle, but to unite—bringing people together in joy, pride, and cultural spirit.  
 
-*It carries the hopes of a people, the blessings of prosperity, and the legacy of a thousand years.*  
-*To follow the dragon is to walk with courage.*  
-*To become the dragon is to rise with honor.*  
+It carries the hopes of a people, the blessings of prosperity, and the legacy of a thousand years.  
+To follow the dragon is to walk with courage.  
+To become the dragon is to rise with honor.  
