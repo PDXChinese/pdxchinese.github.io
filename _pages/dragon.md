@@ -62,7 +62,7 @@ Join us in revitalizing Chinatown and celebrating its rich cultural heritage. Le
 Portland Women’s Association Female Dragon Dance  
 OCC Dragon Volunteer Group  
 
-All dragons are on site for the group photo at 1pm  
+*All dragons are on site for the group photo at 1pm*
 
 **Traditional Chinese Tong and Association Open House (1-4pm)**
 
