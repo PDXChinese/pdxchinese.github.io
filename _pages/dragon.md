@@ -58,7 +58,6 @@ Join us in revitalizing Chinatown and celebrating its rich cultural heritage. Le
 **Dragon Groups**
 
 >[Lee Association Dragon & Lion Dance](https://www.leeondong.org/)  
-[White Lotus Dragon & Lion Dance](https://www.whitelotusliondance.com/)  
 [International Lion Dance](https://www.facebook.com/InternationalLionDancePortland/)  
 Portland Women’s Association Female Dragon Dance  
 OCC Dragon Volunteer Group  
@@ -85,7 +84,6 @@ Please follow the route and no photograph inside buildings.
 **Ethnic Food and Beverage Vendors**
 
 >Little Beijing  
-[Juicy V Wings](https://www.facebook.com/juicyjvswings/)  
 TeaChat  
 LoLo S San Xiang  
 
