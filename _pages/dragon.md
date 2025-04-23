@@ -3,7 +3,7 @@ title: ""
 permalink: /dragon/
 ---
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/rod_logo_2025)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/rod_logo)
 
 Portland Chinatown is bringing back a cherished tradition! **[Return of the Dragon](http://returnofdragon.com/)** will take place on May 24, 2025, marking the revival of Chinatown’s cultural celebrations from 2016-2018. This year, the event will be bigger and more vibrant than ever, featuring the integration of **[Culture Day](https://pdxchinese.org/cultureday/)** to offer deeper cultural experiences and greater community engagement.
 
