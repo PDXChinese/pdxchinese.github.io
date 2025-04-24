@@ -30,7 +30,6 @@ Initiated by the Oregon Chinese Coalition (OCC), supported by [CCBA](https://www
 NW Flanders Street – Food Vendors & NPOs (11am-5pm)  
 NW 3rd Ave – Dragon Activities (11am-5pm)  
 NW 3rd & 4th Ave - Crafts Activities (11am-5pm)  
-[Lan Su Chinese Garden](https://lansugarden.org/) – Immersive Cultural Experiences (10am-6:30pm)  
 Various Locations - Traditional Chinese Tong and Association Open House (1-4pm)  
 
 **Parking**
@@ -71,11 +70,12 @@ OCC Dragon Volunteer Group
 
 Please follow the route and no photograph inside buildings.
 
-**Museums and Art Show**
+**Museums, Garden and Art Show**
 
 >[Chinese American Community Art Show](https://pdxchinese.org/artexhibit/) (Free admission)  
 [Chinese Consolidated Benevolent Association Museum](https://www.oregonccba.org/museum/story/) (Free admission)  
 [Japanese American Museum of Oregon](https://jamo.org/) (Pay as you will)  
+[Lan Su Chinese Garden](https://lansugarden.org/)  
 [Portland Chinatown Museum](https://www.portlandchinatownmuseum.org/) (Pay as you will)  
 
 **Ethnic Food and Beverage Vendors**
@@ -104,13 +104,14 @@ LuLu Guzheng Studio
 [The Wave Elements Global Music](https://www.thewaveelements.org/)  
 [Palisade World Language School](https://pal.losdschools.org/)  
 Huayun Arts Society  
-Nelson Chuan Opera Face Changing  
-Erin Qiu Violin Solo  
+Chuan Opera Face Changing by Nelson  
+Violin Solo by Erin Qiu  
+Chinese Dulcimer by Seline Dai  
 more to come...  
 
 **Chiantown Guided Tours**
 
->Tours with bronze plaques (TBD)  
+>Guided walking tour with bronze plaques
 
 **Tabling NPOs and Agencies**
 
