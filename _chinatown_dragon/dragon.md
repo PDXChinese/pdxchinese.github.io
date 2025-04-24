@@ -16,7 +16,7 @@ To become the dragon is to rise with honor.
 
 ## Organizers
 
-Initiated by the Oregon Chinese Coalition (OCC), supported by [CCBA](https://www.oregonccba.org/) and [OTCA](https://www.pdxoldtown.org/), and embraced by the community, this is a join effort by all community partners who are willing to rise with honor -- carrying the spirit of the dragon.
+Initiated by the Oregon Chinese Coalition (OCC), supported by [CCBA](https://www.oregonccba.org/) and [OTCA](https://www.pdxoldtown.org/), and embraced by the community, this is a join effort by many community partners -- carrying the spirit of the dragon.
 
 ## Event Details
 
