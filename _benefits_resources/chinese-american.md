@@ -44,4 +44,4 @@ More Than Hatchetmen: Chinese Exclusion and Tong Wars in Portland, Oregon: [link
 
 Special issue of OHQ on Chinese Diaspora in Oregon: [link](https://www.ohs.org/oregon-historical-quarterly/back-issues/winter-2021.cfm) and Oregon Chinese Diaspora Project: [link](https://oregon-chinese-diaspora-project-sou.hub.arcgis.com/)
 
-<iframe width="1280" height="720" style="border:1px solid #e6e6e6" src="https://www.kgw.com/embeds/video/responsive/283-e00a2b49-d915-4407-9deb-441c1e12551c/iframe" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe width="640" height="360" style="border:1px solid #e6e6e6" src="https://www.kgw.com/embeds/video/responsive/283-e00a2b49-d915-4407-9deb-441c1e12551c/iframe" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
