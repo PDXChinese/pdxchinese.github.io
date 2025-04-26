@@ -20,6 +20,8 @@ PBS Online Bookstore: [link](https://shop.pbs.org/WB0102.html)
 
 ### Chinese Americans in Oregon
 
+<iframe width="640" height="360" style="border:1px solid #e6e6e6" src="https://kgw.com/embeds/video/283-fd901048-d28b-49e8-ba7b-9ec611a83a7d/iframe" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
 Oregon Encyclopedia: [link](https://oregonencyclopedia.org/articles/chinese_americans_in_oregon/#.XSNxh-hKi71)
 
 Archived historical documents and photographs: [link](https://efiles.portlandoregon.gov/Record?q=recAnyWord%3Achinese&sortBy=recCreatedOn&pagesize=100&filter=electronic ) by City of Portland Archives & Records Center
@@ -30,7 +32,7 @@ Jue Joe Clan History: [link](https://youtu.be/y7x27zIj9-0), Soo Yin's Presentati
 
 Hop Lee – Chinese Heritage in Keizer: [link](https://keizerheritagemuseum.org/hop-lee-chinese-heritage-in-keizer/)
 
-Metro Update on Lone Fir Cultural Heritage Garden:(http://lonefir.org/cultural-heritage-garden/) (Nov 2022)：[简体中文版]({{ site.url }}/assets/pdf/block14_s.pdf)，[繁体中文版]({{ site.url }}/assets/pdf/block14_t.pdf)
+Metro Update on Lone Fir Cultural Heritage Garden: [link](http://lonefir.org/cultural-heritage-garden/) (Nov 2022)：[简体中文版]({{ site.url }}/assets/pdf/block14_s.pdf)，[繁体中文版]({{ site.url }}/assets/pdf/block14_t.pdf)
 
 How to take a Chinese history tour of Oregon: [link](https://www.oregonlive.com/travel/2022/02/how-to-take-a-chinese-history-tour-of-oregon.html)
 
