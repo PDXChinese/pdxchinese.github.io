@@ -108,6 +108,7 @@ Chuan Opera Face Changing by Nelson
 Violin Solo by Erin Qiu  
 Chinese Dulcimer by Seline Dai  
 [German International School Chinese Track](https://www.gspdx.org/chinese-track)  
+[CCBA Chinese School](https://www.oregonccba.org/introduction/)  
 more to come...  
 
 **Chiantown Guided Tours**
