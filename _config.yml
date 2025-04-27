@@ -251,9 +251,6 @@ collections:
   chinatown_newyear:
     output: true
     permalink: /chinatown/newyear/:path/
-  chinatown_dragon:
-    output: true
-    permalink: /chinatown/dragon/:path/
   communities_media:
     output: true
     permalink: /resources/:collection/:path/
@@ -442,13 +439,6 @@ defaults:
   - scope:
       path: ""
       type: chinatown_newyear
-    values:
-      layout: single
-      author_profile: false
-  # chinatown_dragon
-  - scope:
-      path: ""
-      type: chinatown_dragon
     values:
       layout: single
       author_profile: false
