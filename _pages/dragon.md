@@ -101,7 +101,7 @@ Rose House Senior Dance Team
 [Winnie Dance Academy](https://www.winniechinesedance.com/)  
 Portland 21st Street Golden Sunset Qipao Showcase  
 LuLu Guzheng Studio  
-[The Wave Elements Global Music](https://www.thewaveelements.org/)  
+[WE Youth String Ensemble](https://www.thewaveelements.org/)  
 [Palisade World Language School](https://pal.losdschools.org/)  
 Huayun Arts Society  
 Chuan Opera Face Changing by Nelson  
@@ -127,7 +127,7 @@ more to come...
 
 ## Highlights from Previous Events
 
-After seven years, Portland Chinatown is bringing back a beloved tradition! On May 24, 2025, we will celebrate Return of the Dragon, an event inspired by the 2016-2018 [Chinatown celebrations](https://pdxchinese.org/chinatown/). This year, we are going even bigger, integrating [Culture Day](https://pdxchinese.org/cultureday/) for a richer cultural experience and more community engagement.
+After seven years, Portland Chinatown is bringing back a beloved tradition! Return of the Dragon is inspired by the 2016-2018 [Chinatown celebrations](https://pdxchinese.org/chinatown/). This year, we are going even bigger, integrating [Culture Day](https://pdxchinese.org/cultureday/) for a richer cultural experience and more community engagement.
 
 [2024 Culture Day](https://pdxchinese.org/culture_day_2024/)  
 [2023 Culture Day](https://pdxchinese.org/culture_day_2023/)  
