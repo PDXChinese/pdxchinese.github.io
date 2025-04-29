@@ -15,6 +15,8 @@ It carries the hopes of a people, the blessings of prosperity, and the legacy of
 To follow the dragon is to walk with courage.  
 To become the dragon is to rise with honor.  
 
+### "Return of the Dragon" is more than a celebration — it's a homecoming of heritage, a passing of the torch across generations, and a powerful gathering of community spirit.
+
 ## Organizers
 
 Initiated by the Oregon Chinese Coalition (OCC), supported by [CCBA](https://www.oregonccba.org/) and [OTCA](https://www.pdxoldtown.org/), and embraced by the community, this is a join effort by many community partners -- carrying the spirit of the dragon.

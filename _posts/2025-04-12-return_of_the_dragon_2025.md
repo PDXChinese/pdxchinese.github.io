@@ -11,13 +11,17 @@ date: "2025-04-12"
 
 中国城各大组织鼎力支持我们的倡议，将于5月24日（周六）在中国城举办全天（11点-5点）盛大庆祝活动。让我们在这一天重返中国城，哪怕一年只有这一天，也要表明我们对这片土地的不舍与坚持。
 
-每年和THPRD合作举办的[文化日](https://pdxchinese.org/cultureday/)也将融入此次庆祝活动，让孩子们在更丰富的文化体验中感受传统的魅力与社区的活力。敬请大家广为宣传，提前预留这一天，共同见证龙的回归！
+每年和THPRD合作举办的[文化日](https://pdxchinese.org/cultureday/)也将融入此次庆祝活动，让孩子们在更丰富的文化体验中感受传统的魅力与社区的活力。
 
-节目，舞龙和手工活动[报名链接](https://docs.google.com/forms/d/e/1FAIpQLSehyOz8wdvgEOCjKjAEeEUsg-mGEAXIJa4DSkYxygMt-bmp8A/viewform?usp=header)
+### 一条巨龙正在苏醒，唤醒沉寂的街区。这个5月，让我们一起回到中国城，唤回社区的记忆与荣光！
 
-[活动链接](http://returnofdragon.com/)  
+### 《龙归中国城》不只是一个节日，它是一场文化的回归，一次世代的传承，一个凝聚社区力量的时刻。
 
-## The Dragon: A Living Symbol of Spirit and Strength
+>[《龙归中国城》活动链接](http://returnofdragon.com/)  
+节目和舞龙[报名链接](https://docs.google.com/forms/d/e/1FAIpQLSehyOz8wdvgEOCjKjAEeEUsg-mGEAXIJa4DSkYxygMt-bmp8A/viewform?usp=header)
+手工活动[报名链接](https://signup.com/go/nYTLCBL)  
+
+# The Dragon: A Living Symbol of Spirit and Strength
 
 In Chinese culture, the dragon is not a beast to be feared, but a symbol to be celebrated.  
 It embodies power without tyranny, wisdom without arrogance, and strength guided by purpose.  
@@ -26,3 +30,10 @@ The dragon dances not just to dazzle, but to unite—bringing people together in
 It carries the hopes of a people, the blessings of prosperity, and the legacy of a thousand years.  
 To follow the dragon is to walk with courage.  
 To become the dragon is to rise with honor.  
+
+### "Return of the Dragon" is more than a celebration — it's a homecoming of heritage, a passing of the torch across generations, and a powerful gathering of community spirit.
+
+>[Return of the Dragon Web Page](http://returnofdragon.com/)  
+[Sign up here](https://signup.com/go/nYTLCBL) to host crafts activities  
+[Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSehyOz8wdvgEOCjKjAEeEUsg-mGEAXIJa4DSkYxygMt-bmp8A/viewform?usp=header) to perform on outdoor stage (36'x32' dance floor)  
+[Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSehyOz8wdvgEOCjKjAEeEUsg-mGEAXIJa4DSkYxygMt-bmp8A/viewform?usp=header) to volunteer with dragon activities (OCC dragon group)  
