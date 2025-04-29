@@ -127,6 +127,8 @@ more to come...
 
 ## Highlights from Previous Events
 
+After seven years, Portland Chinatown is bringing back a beloved tradition! On May 24, 2025, we will celebrate Return of the Dragon, an event inspired by the 2016-2018 [Chinatown celebrations](https://pdxchinese.org/chinatown/). This year, we are going even bigger, integrating [Culture Day](https://pdxchinese.org/cultureday/) for a richer cultural experience and more community engagement.
+
 [2024 Culture Day](https://pdxchinese.org/culture_day_2024/)  
 [2023 Culture Day](https://pdxchinese.org/culture_day_2023/)  
 [2018 Chinese New Year Celebration in Chinatown](https://pdxchinese.org/new-year-summary-2018/)  
