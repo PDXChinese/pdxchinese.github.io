@@ -29,8 +29,8 @@ Initiated by the Oregon Chinese Coalition (OCC), supported by [CCBA](https://www
 >NW Davis Street – Cultural Performances (11-5pm)  
 NW Flanders Street – Food Vendors & NPOs (11am-5pm)  
 NW 3rd Ave – Dragon Activities (11am-5pm)  
-NW 3rd & 4th Ave - Crafts Activities (11am-5pm)  
-Various Locations - Traditional Chinese Tong and Association Open House (1-4pm)  
+NW 4th Ave - Crafts Activities (11am-5pm)  
+Various Locations - Traditional Chinese Tong & Association Open House (1-4pm)  
 
 **Parking**
 
@@ -74,7 +74,7 @@ Please follow the route and no photograph inside buildings.
 >[Chinese American Community Art Show](https://pdxchinese.org/artexhibit/) (Free admission)  
 [Chinese Consolidated Benevolent Association Museum](https://www.oregonccba.org/museum/story/) (Free admission)  
 [Japanese American Museum of Oregon](https://jamo.org/) (Pay as you will)  
-[Lan Su Chinese Garden](https://lansugarden.org/)  
+[Lan Su Chinese Garden](https://lansugarden.org/) (Pay as you will)  
 [Portland Chinatown Museum](https://www.portlandchinatownmuseum.org/) (Pay as you will)  
 
 **Ethnic Food and Beverage Vendors**
