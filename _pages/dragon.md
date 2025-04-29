@@ -46,8 +46,8 @@ The Portland Police Bureau will have a table on-site and officers patrolling the
 
 Join us in revitalizing Chinatown and celebrating its rich cultural heritage. Let’s come together to make this an unforgettable event and establish a new annual tradition!
 
->[Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSehyOz8wdvgEOCjKjAEeEUsg-mGEAXIJa4DSkYxygMt-bmp8A/viewform?usp=header) to perform on outdoor stage (36'x32' dance floor) and to volunteer with dragon activities (OCC dragon group)  
-[Sign up here](https://signup.com/go/nYTLCBL) to host crafts activities  
+>[Sign up here](https://signup.com/go/nYTLCBL) to host crafts activities  
+[Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSehyOz8wdvgEOCjKjAEeEUsg-mGEAXIJa4DSkYxygMt-bmp8A/viewform?usp=header) to perform on outdoor stage (36'x32' dance floor) and to volunteer with dragon activities (OCC dragon group)  
 
 **Dragon Groups**
 
@@ -113,7 +113,7 @@ more to come...
 
 **Traditional Crafts Activities**
 
->DIY Bookmarks / DIY 书签  
+>DIY Bookmarks / DIY 漆画书签  
 Pitch-Pot / 投壶  
 DIY Fan Painting / 画扇子  
 Brain-Teaser Games / 传统益智游戏  
