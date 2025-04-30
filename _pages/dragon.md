@@ -51,6 +51,7 @@ Join us in revitalizing Chinatown and celebrating its rich cultural heritage. Le
 >[Sign up here](https://signup.com/go/nYTLCBL) to host crafts activities  
 [Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSehyOz8wdvgEOCjKjAEeEUsg-mGEAXIJa4DSkYxygMt-bmp8A/viewform?usp=header) to perform on outdoor stage (36'x32' dance floor)  
 [Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSehyOz8wdvgEOCjKjAEeEUsg-mGEAXIJa4DSkYxygMt-bmp8A/viewform?usp=header) to volunteer with dragon activities (OCC dragon group)  
+[Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSeCPLO25QfBodEhzFXtT09m8in9vILvSma_qFjJDWwxNtkfmA/viewform) to be a bronze plaque walking tour guide volunteer  
 
 **Dragon Groups**
 
@@ -76,7 +77,7 @@ Please follow the route and no photograph inside buildings.
 >[Chinese American Community Art Show](https://pdxchinese.org/artexhibit/) (Free admission)  
 [Chinese Consolidated Benevolent Association Museum](https://www.oregonccba.org/museum/story/) (Free admission)  
 [Japanese American Museum of Oregon](https://jamo.org/) (Pay as you will)  
-[Lan Su Chinese Garden](https://lansugarden.org/) (Pay as you will)  
+[Lan Su Chinese Garden](https://lansugarden.org/)  
 [Portland Chinatown Museum](https://www.portlandchinatownmuseum.org/) (Pay as you will)  
 
 **Ethnic Food and Beverage Vendors**
@@ -129,9 +130,10 @@ DIY Pinwheel / DIY 风车
 Trying on Traditional Chinese Clothing / 汉服体验  
 Learning Diabolo or Chinese YoYo / 空竹体验  
 
-**Chiantown Guided Tours**
+**Chinatown Bronze Plaque Walking Tour**
 
->Guided walking tour with bronze plaques
+>Guided walking tour with bronze plaques  
+12pm, 2pm, and 3:30pm, starting from Chinatown Museum  
 
 **Tabling NPOs and Agencies**
 
