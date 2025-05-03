@@ -113,6 +113,7 @@ Chinese Dulcimer by Seline Dai
 [CCBA Chinese School](https://www.oregonccba.org/introduction/)  
 OCC Guitar Club  
 Duo Water Sleeve Dance by Emily and Katlyn  
+Portland Chinese Dance Troupe  
 more to come...  
 
 **Traditional Crafts Activities**
