@@ -81,7 +81,7 @@ Please follow the route and no photograph inside buildings.
 
 This annual event celebrates local Chinese Americans with a passion for the arts — of all ages and skill levels. Thanks to the support of City Team, the art show will continue to stay in Chinatown. This year, it becomes a featured part of the large community celebration, Return of the Dragon. Be sure to stop by -- it’s just across the street from the stage performances!
 
-Please see the [art show flyer](https://pdxchinese.org/images/activities/artshow2025) for details.
+Please see the [art show flyer](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/artshow2025b) for details.
 
 **Ethnic Food and Beverage Vendors**
 
