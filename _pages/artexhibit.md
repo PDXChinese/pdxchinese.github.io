@@ -3,17 +3,15 @@ title: ""
 permalink: /artexhibit/
 ---
 
-### 2025 Community Art Show
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/artshow2025)
 
-地点: 中国城, TBD  
-时间：5月15-25日，1点-5点 (每周四至周日)  
-布展时间： 5月10-5月14日  
-招待会：待定  
+地点: Chinatown, 205 NW 4th Ave, Portland  
+时间：5月15-25日，每周四至周日，1-5点 (11am-5pm 5月24日当天)   
+布展时间： 5月16-5月17日  
 
 报名资格：来自华人社区，专业，爱好者，资历年龄不限。
 
 报名表：[点击这里](https://docs.google.com/forms/d/e/1FAIpQLSeMc3aVAPV5BkmZ8BThHhvHHEYnbNHy1B9YQCgxxiWcpAGoZQ/viewform?usp=sf_link)  
-
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
