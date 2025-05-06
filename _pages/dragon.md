@@ -46,7 +46,8 @@ The Portland Police Bureau will have a table on-site and officers patrolling the
 
 Join us in revitalizing Chinatown and celebrating its rich cultural heritage. Let’s come together to make this an unforgettable event and establish a new annual tradition!
 
->[Sign up here](https://signup.com/go/nYTLCBL) to host crafts activities  
+>[Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSd-5iLEnRS5FqzG5c6zl3-mHXDmfC3NHG_gMTC4-rP0ED-GXg/viewform) to be the volunteer at the event  
+[Sign up here](https://signup.com/go/nYTLCBL) to host crafts and other OCC-related activities  
 [Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSehyOz8wdvgEOCjKjAEeEUsg-mGEAXIJa4DSkYxygMt-bmp8A/viewform?usp=header) to perform on outdoor stage (36'x32' dance floor)  
 [Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSehyOz8wdvgEOCjKjAEeEUsg-mGEAXIJa4DSkYxygMt-bmp8A/viewform?usp=header) to volunteer with dragon activities (OCC dragon group)  
 [Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSeCPLO25QfBodEhzFXtT09m8in9vILvSma_qFjJDWwxNtkfmA/viewform) to be a bronze plaque walking tour guide volunteer  
