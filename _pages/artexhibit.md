@@ -3,7 +3,7 @@ title: ""
 permalink: /artexhibit/
 ---
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/artshow2025)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/artshow2025b)
 
 地点: Chinatown, 205 NW 4th Ave, Portland  
 时间：5月15-25日，每周四至周日，1-5点 (11am-5pm 5月24日当天)   
