@@ -80,7 +80,7 @@ Please follow the route and no photograph inside buildings.
 
 **Community Art Show**
 
-This annual event celebrates local Chinese Americans with a passion for the arts — of all ages and skill levels. Thanks to the support of City Team, the art show will continue to stay in Chinatown. This year, it becomes a featured part of the large community celebration, Return of the Dragon. Be sure to stop by -- it’s just across the street from the stage performances!
+This [annual event](https://pdxchinese.org/artexhibit/) celebrates local Chinese Americans with a passion for the arts — of all ages and skill levels. Thanks to the support of City Team, the art show will continue to stay in Chinatown. This year, it becomes a featured part of the large community celebration, Return of the Dragon. Be sure to stop by -- it’s just across the street from the stage performances!
 
 Please see the [art show flyer](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/artshow2025b) for details.
 
@@ -120,7 +120,8 @@ Chinese Dulcimer by Seline Dai
 OCC Guitar Club  
 Duo Water Sleeve Dance by Emily and Katlyn  
 Portland Chinese Dance Troupe  
-Oregon Rhythmic Gymnastics & Dance Academy(https://www.orgdacademy.com/)  
+[Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  
+Cello Solo: Plum Blossom by Haocheng Li  
 more to come...  
 
 **Traditional Crafts Activities**
