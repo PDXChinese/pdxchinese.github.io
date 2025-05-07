@@ -150,6 +150,8 @@ Learning Diabolo or Chinese YoYo / 空竹体验
 [Chinese American Citizens Alliance, CACA](https://cacaportland.com/)  
 [Chinese Consolidated Benevolent Association, CCBA](https://www.oregonccba.org/)  
 [City Team](https://www.cityteam.org/give-help/portland)  
+OCC Emergency Preparedness  
+OCC Tobacco Prevention  
 [Portland Police Bureau](https://www.portland.gov/police)  
 [Portland Rescue Mission](https://portlandrescuemission.org/)  
 more to come...  
