@@ -17,7 +17,9 @@ To become the dragon is to rise with honor.
 
 ## Organizers
 
-Initiated by the Oregon Chinese Coalition (OCC), supported by [CCBA](https://www.oregonccba.org/) and [OTCA](https://www.pdxoldtown.org/), and embraced by the community, this is a join effort by many community partners -- carrying the spirit of the dragon.
+[Oregon Chinese Coalition](https://pdxchinese.org/), [Oregon Chinese Consolidated Benevolent Association](https://www.oregonccba.org/), [Old Town Community Association](https://www.pdxoldtown.org/) and affiliated allies and non-profit cultural heritage venues invite you to celebrate Asian Heritage Month. If you have history in Old Town, you are invited to participate.  Thank you to the Old Town Community Association and Travel Oregon for sponsoring. Media contact: glorialeeglo@yahoo.com or text to 971-506-0589. 
+
+Join us in revitalizing Chinatown and celebrating its rich cultural heritage. Let’s come together to make this an unforgettable event and establish a new annual tradition!
 
 ## Event Details
 
@@ -30,6 +32,7 @@ Initiated by the Oregon Chinese Coalition (OCC), supported by [CCBA](https://www
 NW Flanders Street – Food Vendors & NPOs (11am-5pm)  
 NW 3rd Ave – Dragon Activities (11am-5pm)  
 NW 4th Ave - Crafts Activities (11am-5pm)  
+NW 4th Ave - Community Art Show (11am-5pm)  
 Various Locations - Traditional Chinese Tong & Association Open House (1-4pm)  
 
 **Parking**
@@ -75,21 +78,23 @@ Please follow the route and no photograph inside buildings.
 
 >[Chinese Consolidated Benevolent Association Museum](https://www.oregonccba.org/museum/story/) (Free admission)  
 [Japanese American Museum of Oregon](https://jamo.org/) (Pay as you will)  
-[Lan Su Chinese Garden](https://lansugarden.org/)  
+[Lan Su Chinese Garden](https://lansugarden.org/) (Pay as you will)  
+[Oregon Jewish Museum](https://www.ojmche.org/)(Pay as you will)  
 [Portland Chinatown Museum](https://www.portlandchinatownmuseum.org/) (Pay as you will)  
+
+**Ethnic Food and Beverage Vendors**
+
+>[Feed the Mass](https://www.feedthemass.org/)  
+[Goodies Snack Shop](https://goodiessnackshop.com/)  
+Little Beijing  
+LoLo S San Xiang  
+[Pure Spice](https://www.purespicerestaurant.com/)  
 
 **Community Art Show**
 
 This [annual event](https://pdxchinese.org/artexhibit/) celebrates local Chinese Americans with a passion for the arts — of all ages and skill levels. Thanks to the support of City Team, the art show will continue to stay in Chinatown. This year, it becomes a featured part of the large community celebration, Return of the Dragon. Be sure to stop by -- it’s just across the street from the stage performances!
 
 Please see the [art show flyer](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/artshow2025b) for details.
-
-**Ethnic Food and Beverage Vendors**
-
->Little Beijing  
-TeaChat  
-LoLo S San Xiang  
-[Feed the Mass](https://www.feedthemass.org/)  
 
 **Performance Groups and Individuals**
 *Ordered by signup time*
@@ -120,7 +125,7 @@ Chinese Dulcimer by Seline Dai
 OCC Guitar Club  
 Duo Water Sleeve Dance by Emily and Katlyn  
 Portland Chinese Dance Troupe  
-[Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  
+Oregon Rhythmic Gymnastics & Dance Academy(https://www.orgdacademy.com/)  
 Cello Solo: Plum Blossom by Haocheng Li  
 more to come...  
 
