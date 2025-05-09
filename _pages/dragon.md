@@ -156,6 +156,7 @@ Learning Diabolo or Chinese YoYo / 空竹体验
 [Chinese Consolidated Benevolent Association, CCBA](https://www.oregonccba.org/)  
 [City Team](https://www.cityteam.org/give-help/portland)  
 [Hellenic-American Cultural Center & Museum](https://hellenicamericancc.org/)  
+[Multnomah County Library](https://multcolib.org/)  
 OCC Emergency Preparedness  
 OCC Tobacco Prevention  
 [Oregon Jewish Museum](https://www.ojmche.org/)  
