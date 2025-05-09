@@ -39,6 +39,8 @@ The Chinese Festival was proudly [recognized](https://youtu.be/0Jg3yi45R9c?t=780
 
 ## Proud Festival Sponsors
 
+[Sponsorship packages](/assets/pdf/festival_sponsorship_2025.pdf)
+
 ## Sign Up to Volunteer
 
 We need your help to make our events successful! If you're interested in volunteering, please sign up using the link below. Your support is crucial, and we have a variety of roles available to fit your skills and interests.
