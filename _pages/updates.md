@@ -15,7 +15,7 @@ permalink: /updates/
 
 Time: 1pm - 5pm
 Date: Thur - Sun, May 15 - May 25  
-Place: [Chinatown, 205 NW 4th Ave, Portland](https://maps.app.goo.gl/6RicjU3GnrQpRBbLA)  
+Place: Chinatown, 205 NW 4th Ave, Portland  
 
 ### [龙归中国城/Return of the Dragon](https://pdxchinese.org/dragon/)
 
