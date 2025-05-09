@@ -26,8 +26,6 @@ feature_row2:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/2024_t-shirt_back
 ---
 
-# See you next year on August 2!
-
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/festival_2024)
 Designed by Fiona Wang, recent graduate of Sunset High School.
 

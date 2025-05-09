@@ -31,15 +31,13 @@ feature_row2:
 
 >We are committed to downtown Portland for our biggest cultural event in the Chinese American community. Just as we will not give up on Chinatown with its rich heritage, we will be here when Portland needs us the most to help restore the vibrant life we were once proud of.
 
-The Chinese Festival was proudly [recognized today](https://youtu.be/0Jg3yi45R9c?t=780) as one of the major summer events in downtown Portland. The Chinese American community continues to lead efforts to enhance downtown life and the local economy, while also revitalizing Chinatown and preserving our rich cultural heritage.
+The Chinese Festival was proudly [recognized](https://youtu.be/0Jg3yi45R9c?t=780) as one of the major summer events in downtown Portland. The Chinese American community continues to lead efforts to enhance downtown life and the local economy, while also revitalizing Chinatown and preserving our rich cultural heritage.
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/kick_off_2025)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/kick_off_2025b)
 
 ## Proud Festival Sponsors
-
-{% include feature_row id="feature_row0"%}
 
 ## Sign Up to Volunteer
 
@@ -113,10 +111,6 @@ Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 ## Community Partner Tabling
 
 ## Festival Sponsors
-
-## Official Festival T-Shirt
-
-{% include feature_row id="feature_row2"%}
 
 ## Chinese Festivals in the Past
 
