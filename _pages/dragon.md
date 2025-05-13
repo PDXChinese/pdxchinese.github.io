@@ -132,7 +132,7 @@ more to come...
 **Traditional Crafts Activities**
 
 >DIY Bookmarks / DIY 漆画书签  
-Pitch-Pot / 投壶  
+Pitch-Pot & Tangram / 投壶和七巧板 -- hosted by [International School of Portland](https://www.intlschool.org/)  
 DIY Fan Painting / 画扇子  
 Brain-Teaser Games / 传统益智游戏  
 Calligraphy / 毛笔字体验  
@@ -151,9 +151,7 @@ Learning Diabolo or Chinese YoYo / 空竹体验
 
 **Mahjong and Ping Pong (12:30pm-5pm)**
 
-[Mahjong](https://www.smithsonianmag.com/arts-culture/the-asian-game-of-mahjong-which-creates-order-out-of-chaos-is-trending-in-the-west-180986021/) is more than a game — it's a social ritual. For many Chinese families and communities, especially among older generations, it's a way to gather, chat, and strengthen relationships.
-
-[Ping Pong (Table tennis)](https://en.wikipedia.org/wiki/Table_tennis) is so popular in China that it’s a common sight in schools, parks, and offices, with people of all ages playing both casually and competitively.
+[Mahjong](https://www.smithsonianmag.com/arts-culture/the-asian-game-of-mahjong-which-creates-order-out-of-chaos-is-trending-in-the-west-180986021/) and [Ping Pong (Table tennis)](https://en.wikipedia.org/wiki/Table_tennis) are more than just games. For many Chinese families and communities, it's a way to gather, chat, and strengthen relationships.
 
 Location: CCBA Hall, 315 NW Davis St (north side of the stage)
 
