@@ -161,14 +161,15 @@ Location: CCBA Hall, 315 NW Davis St (north side of the stage)
 [Chinese American Citizens Alliance, CACA](https://cacaportland.com/)  
 [Chinese Consolidated Benevolent Association, CCBA](https://www.oregonccba.org/)  
 [City Team](https://www.cityteam.org/give-help/portland)  
+[Bolton primary school](https://www.wlwv.k12.or.us/bolps)  
 [Hellenic-American Cultural Center & Museum](https://hellenicamericancc.org/)  
+[Lee Association Dragon and Lion Dance Team](https://www.leeondong.org/)  
 [Lines for Life](https://www.linesforlife.org/)  
 [Multnomah County Library](https://multcolib.org/)  
 OCC Emergency Preparedness  
 OCC Tobacco Prevention  
 [Oregon Jewish Museum](https://www.ojmche.org/)  
-[Portland Police Community](https://www.portland.gov/police/community)  
-[Portland Rescue Mission](https://portlandrescuemission.org/)  
+[Street Roots](https://www.streetroots.org/)  
 
 ## Highlights from Previous Events
 

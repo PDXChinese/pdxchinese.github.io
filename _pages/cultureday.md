@@ -238,8 +238,7 @@ Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your schoo
 01 [THPRD](https://www.thprd.org/)  
 02 [Beaverton School District](https://www.beaverton.k12.or.us/) (1)  
 03 [Oregon Employment Department – EAUI Unit](https://unemployment.oregon.gov/) (1)  
-
-04 Bloom Youth Tutoring (1)
+04 Bloom Youth Tutoring (1)  
 05 [German International School of Portland](https://www.gspdx.org/) (1)  
 06 [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (4)  
 07 [International School of Portland](https://intlschool.org/) (1)  
