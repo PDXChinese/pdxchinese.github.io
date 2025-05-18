@@ -137,7 +137,7 @@ DIY Fan Painting / 画扇子
 Brain-Teaser Games / 传统益智游戏  
 Calligraphy / 毛笔字体验 -- hosted by [Oregon Hope Chinese School](http://oregon-hope.org/)  
 DIY Dried Flower Ornaments / DIY 干花吊饰  
-DIY Paper Dragon / DIY 纸龙  
+DIY Paper Dragon / DIY 纸龙 -- hosted by [Bolton primary school](https://www.wlwv.k12.or.us/bolps)  
 Rubbing Painting & Chinese Characters / 拓印画  
 Chinese Festival Poster Making / 年画  
 DIY Pinwheel / DIY 风车  
@@ -161,7 +161,6 @@ Location: CCBA Hall, 315 NW Davis St (north side of the stage)
 [Chinese American Citizens Alliance, CACA](https://cacaportland.com/)  
 [Chinese Consolidated Benevolent Association, CCBA](https://www.oregonccba.org/)  
 [City Team](https://www.cityteam.org/give-help/portland)  
-[Bolton primary school](https://www.wlwv.k12.or.us/bolps)  
 [Hellenic-American Cultural Center & Museum](https://hellenicamericancc.org/)  
 [Lee Association Dragon and Lion Dance Team](https://www.leeondong.org/)  
 [Lines for Life](https://www.linesforlife.org/)  
