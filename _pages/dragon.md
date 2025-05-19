@@ -136,10 +136,10 @@ Pitch-Pot & Tangram / 投壶和七巧板 -- hosted by [International School of P
 DIY Fan Painting / 画扇子  
 Brain-Teaser Games / 传统益智游戏  
 Calligraphy / 毛笔字体验 -- hosted by [Oregon Hope Chinese School](http://oregon-hope.org/)  
-DIY Dried Flower Ornaments / DIY 干花吊饰  
+DIY Dried Flower Ornaments / DIY 干花吊饰 -- hosted by [Oregon Hope Chinese School](http://oregon-hope.org/)  
 DIY Paper Dragon / DIY 纸龙 -- hosted by [Bolton primary school](https://www.wlwv.k12.or.us/bolps)  
-Rubbing Painting & Chinese Characters / 拓印画  
-Chinese Festival Poster Making / 年画  
+Rubbing Painting & Chinese Characters / 拓印画 -- hosted by [Bolton primary school](https://www.wlwv.k12.or.us/bolps)  
+Chinese Festival Poster Making / 年画 -- hosted by [Bolton primary school](https://www.wlwv.k12.or.us/bolps)  
 DIY Pinwheel / DIY 风车  
 Trying on Traditional Chinese Clothing / 汉服体验  
 Learning Diabolo or Chinese YoYo / 空竹体验  
