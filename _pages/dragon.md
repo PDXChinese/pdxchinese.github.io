@@ -137,12 +137,12 @@ DIY Fan Painting / 画扇子
 Brain-Teaser Games / 传统益智游戏  
 Calligraphy / 毛笔字体验 -- hosted by [Oregon Hope Chinese School](http://oregon-hope.org/)  
 DIY Dried Flower Ornaments / DIY 干花吊饰 -- hosted by [Oregon Hope Chinese School](http://oregon-hope.org/)  
-DIY Paper Dragon / DIY 纸龙 -- hosted by [Bolton primary school](https://www.wlwv.k12.or.us/bolps)  
+DIY Paper Dragon / DIY 纸龙 -- hosted by [Bolton Primary School](https://www.wlwv.k12.or.us/bolps)  
 Rubbing Painting & Chinese Characters / 拓印画 -- hosted by [Oregon Hope Chinese School](http://oregon-hope.org/)  
 Chinese Festival Poster Making / 年画 -- hosted by hosted by [Oregon Hope Chinese School](http://oregon-hope.org/)  
 DIY Pinwheel / DIY 风车  
-Trying on Traditional Chinese Clothing / 汉服体验  
-Learning Diabolo or Chinese YoYo / 空竹体验  
+Trying on Traditional Chinese Clothing / 汉服体验 -- hosted by [Phoenix Hanfu Society](https://pdxchinese.org/hanfu/)  
+Learning Diabolo or Chinese YoYo / 空竹体验 -- hosted by [Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
 
 **Chinatown Bronze Plaque Walking Tour**
 
