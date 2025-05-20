@@ -146,10 +146,8 @@ Learning Diabolo or Chinese YoYo / 空竹体验 -- hosted by [Dragonfly Diabolo 
 
 **Chinatown Bronze Plaque Walking Tour**
 
->Guided [walking tour with bronze plaques](/assets/pdf/plaques_walking_tour_ho.pdf)  
+>Guided walking tour with bronze plaques ([Walking Tour Visual Guide](/assets/pdf/plaques_walking_tour_ho.pdf)) © Suenn Ho  
 12pm, 2pm, and 3:30pm, starting from Chinatown Museum  
-
-*Bronze Plaques – Walking Tour Visual Guide © Suenn Ho*
 
 **Mahjong and Ping Pong (12:30pm-5pm)**
 
