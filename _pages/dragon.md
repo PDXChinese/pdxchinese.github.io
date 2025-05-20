@@ -34,7 +34,7 @@ NW 3rd Ave – Dragon Activities (11am-5pm)
 NW 4th Ave - Crafts Activities (11am-5pm)  
 NW 4th Ave - Community Art Show (11am-5pm)  
 Various Locations - Traditional Chinese Tong & Association Open House (1-4pm)  
-[Event Site Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/rod_map_2025b)  
+[Event Site Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/rod_map2)  
 
 **Parking**
 
@@ -44,7 +44,7 @@ Rate: $2/hour, $7 all day
 
 **Security**
 
-The Portland Police Bureau will have a table on-site and officers patrolling the area on bikes.
+There will be officers from Portland Police Bureau, Portland Street Response and Downtown Portland Clean & Safe on site.
 
 **Sign Up**
 
