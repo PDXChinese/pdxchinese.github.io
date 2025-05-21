@@ -127,6 +127,8 @@ Duo Water Sleeve Dance by Emily and Katlyn
 Portland Chinese Dance Troupe  
 Oregon Rhythmic Gymnastics & Dance Academy(https://www.orgdacademy.com/)  
 Cello Solo: Plum Blossom by Haocheng Li  
+Vocal Imitation by Li Wei  
+Wushu by [Summit Wushu Academy](https://www.summitwushu.com/)  
 more to come...  
 
 **Traditional Crafts Activities**
@@ -169,6 +171,12 @@ OCC Emergency Preparedness
 OCC Tobacco Prevention  
 [Oregon Jewish Museum](https://www.ojmche.org/)  
 [Street Roots](https://www.streetroots.org/)  
+
+**Giveaways**
+
+[Columbia employee store pass](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/columbia_pass) thanks to the generosity of [Columbia Sportswear Company](https://www.columbia.com/)
+
+Happy Birthday Yard Letters with Stakes ([sample image](https://imprint.com/shop/products/pre-packaged-happy-birthday-yard-letters?cHadre2r=HU6uspaH&gsc=Green)) for those whose birthdays fall into that long weekend (5/24-5/26), *while supplies last*.
 
 ## Highlights from Previous Events
 
