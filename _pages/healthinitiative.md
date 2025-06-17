@@ -32,8 +32,6 @@ feature_row3:
 非常感谢俄勒冈州卫生局（Oregon Health Authority，OHA）慷慨提供的资助，旨在应对疫情期间华裔美国人群体的心理和行为健康危机。我们将利用这项资助以及其他资金来源，大力推动社区关注心理健康问题，并提出能够延续资助期限之外的解决方案。OHA的支持使我们能够发起一个有力的倡议，对我们社区的个人健康产生持久而积极的影响。
 
 >[Mental Health Advocacy Programs / 精神心理健康倡导计划](https://pdxchinese.org/mentalhealth/)  
->MHACC每月第三个周六线上聚会：[患友互助組 @1:30pm](https://zoom.us/j/91311874702?pwd=VzJkNm5wSTJ0TnFXTmtObC9heVg1UT09) and [照顧者互助組 @3:30pm](https://zoom.us/j/7413232578)  
->MHACC[心里暖线](https://www.mhacc-usa.org/zh-tw/mhacc-warm-line-program) (每周七天，上午9点-晚上9点，普通话/粤语/英语)：**1-800-881-8502**  
 
 # Tobacco Prevention and Cessation Campaign / 烟草预防和戒烟宣传
 
