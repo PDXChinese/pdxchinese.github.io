@@ -51,10 +51,6 @@ Mr. Jin graduated from Nanjing University with BS degree in 1994 and then receiv
 
 Mrs. Wang earned Computer Science degrees from McMaster University (MS) and Central South University (BS).  She has helped at CEC Chinese school as a teaching assistant, served at her children's school as a board member on the parent-teacher committee, and devoted her time in various community services.  She and her husband moved to Oregon 14 years ago.  She lives with her husband and two daughters in Beaverton.  She likes traveling, and socializing with friends.
 
-### Sophie Wang
-
-Ms. Wang received B.A. from Beijing Normal University, M.A. degrees from Peking University and Columbia University. Moving to Oregon in 2011, she received MBA from Oregon State University. In addition to her involvement with OCC, she volunteers in local NPOs and school district.   
-
 ### Zhunquin Wang
 
 Mr. Wang graduated from Tsinghua University with a B.S and an M.S degree.  He has been a software developer for Oracle since 1997.  Meanwhile, he has been coaching world-class robotics teams for over a dozen years. He was also active in a local Boy Scout troop. His passion is to foster the holistic growth of future technology leaders.  Zhunquin and his wife live in Portland with two boys.  He loves camping, hiking, and coaching.
