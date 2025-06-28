@@ -3,7 +3,7 @@ title: ""
 permalink: /dragon/
 ---
 
-*<code style="color:brown">As promised, it was a huge success, with over a thousand attendees. We had 50 stage performances alone! The energy was electric — people in Old Town/Chinatown was thrilled. Jessie, Chair of Oldtown Community Association, commented on the uniquely vibrant crowd, and then she was told it was because people weren’t just attending an event—they were coming home. That sense of belonging made all the difference.</code>*
+*<code style="color:brown">As promised, it was a huge success, with over a thousand attendees. We had 50 stage performances alone! The energy was electric — people in Old Town/Chinatown was thrilled. Jessie, Chair of Oldtown Community Association, commented on the uniquely vibrant crowd, and then she was told it was because people weren’t just attending an event — they were coming home. That sense of belonging made all the difference.</code>*
 
 *<code style="color:brown">We’re committed to continuing this tradition, with the hope that Chinatown will remain a cultural destination for the entire city.</code>*
 
