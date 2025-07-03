@@ -76,11 +76,18 @@ Hanfu Models Wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 | Section II | 1:00pm-3:15pm | |
 | Section III | 3:30pm-6:00pm | |
 
-*About 530 performers on stage. Schedule is subject to change*  
+*About 500 performers on stage. Schedule is subject to change*  
 
 ## Food Vendor Lineup
 
 | Booth | Name | Category |
+| 1 | [Mandarin House 京华楼](https://www.mandarinhouse97204.com/) | Barbecued Pork Buns, Steamed Dumplings, Spring Rolls |
+| 2 | [Home Tastes 家乡味](https://www.hometaste.org/) | Braised Pork Rice 卤肉饭，Spam Musubi, Spinrg Rolls |
+| 3 | LoLo S San Xiang 十三乡 | Pot Stickers, Jian Bao, Lam Skewers, Buba Tea |
+| 4 | [Wheat Bay Chinese Restaurant 成都名小吃](https://www.wheatbayportland.com/) | Beef Pancake, Carlic Cucumber Salad, Special Chili Potatoes, Steamed BBQ Pork Bun |
+| 5 | Little Beijing 北京小馆 | JianBing 煎饼果子，BingFen 冰粉，Cold Noodle |
+| 6 | [Red Robe Tea House & Cafe 大红袍](https://www.redrobeteahouse.com/) | Sichuan Noodle, Chicken Wings, Spring Rolls, Bubble Tea, Tea |
+
 
 ## Kids Friendly Hands-on Craft Activities  
 
@@ -105,14 +112,13 @@ Hanfu Models Wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 
 [Chinese Youth and Women Organization](https://yeswedoit.org/)  
 
-(between the stage and crafts tables)  
+(between the main stage and crafts tables)  
 
 ## Hanfu (Traditional Chinese Clothing) Booth
 
-Observe makeup, hairstyling, and hanfu dressing  
-Information for placing orders to buy your own hanfu  
-Costume Photo Booth/古装拍照  
-Showcase the beauty of hanfu: [past event 1 ](https://youtu.be/R3EwAN2hVAA), [past event 2](https://youtu.be/vdbt8NTPiXM)  
+1. Observe makeup, hairstyling, and hanfu dressing  
+2. Costume Photo Booth/古装拍照  
+3. Showcase the beauty of hanfu: [past event 1 ](https://youtu.be/R3EwAN2hVAA), [past event 2](https://youtu.be/vdbt8NTPiXM)  
 
 Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/forms/d/e/1FAIpQLScNIqSmssHqhImF418NzsPW9pkB6LgZCFcqTLncuInSuZ38CA/viewform)  
 
@@ -125,11 +131,8 @@ Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 
 ## Giveaways
 
-[Columbia employee store pass](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/columbia_pass) thanks to the generosity of [Columbia Sportswear Company](https://www.columbia.com/)
-
-Happy Birthday Yard Letters with Stakes ([sample image](https://imprint.com/shop/products/pre-packaged-happy-birthday-yard-letters?cHadre2r=HU6uspaH&gsc=Green)) for those whose birthdays fall into that weekend (8/2-8/3), *while supplies last*.
-
-Crafts cloth in variety colors
+1. Happy Birthday Yard Letters with Stakes ([sample image](https://imprint.com/shop/products/pre-packaged-happy-birthday-yard-letters?cHadre2r=HU6uspaH&gsc=Green)) for those whose birthdays fall into that weekend (8/2-8/3).  
+2. Crafts cloth in variety colors  
 
 *While supplies last*
 
@@ -143,18 +146,15 @@ Crafts cloth in variety colors
 ### Silver Sponsors  
 [Multnomah County Public Health](https://www.multco.us/health)  
 [Portland Winterhawks](https://chl.ca/whl-winterhawks/)  
-
 ### Community Sponsors  
 [Prosper Portland](https://prosperportland.us/)  
 [Trimet](https://trimet.org/home/)  
 [NW Natural](https://www.nwnatural.com/)  
 [Portland General Electric, PGE](https://portlandgeneral.com/)  
 [Energy Trust](https://www.energytrust.org/)  
-
 ### Friend of Festival  
 [Oregon Department of Transportation](https://www.oregon.gov/ODOT/)  
 [Pioneer Courthouse Square](https://www.thesquarepdx.org/)  
-
 ## Chinese Festivals in the Past
 
 2024: [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2024/), Pre-event Coverages: [Willamette Week](https://www.wweek.com/arts/more/2024/07/31/oregon-chinese-festival-returns-to-pioneer-square-for-fifth-year/), [KGW](https://www.kgw.com/article/entertainment/culture/oregon-chinese-festival-pioneer-square-august-3/283-255d3bac-9d28-43eb-a705-8ef33dc0d31f), Interviews: [KOIN 6](https://www.koin.com/video/oregon-chinese-festival-fills-pioneer-courthouse-square/9923267/), [KPTV Fox 12](https://youtu.be/_342S5j0RKk), Performances: [Videos](https://youtu.be/4Hv399J4fVA)  
