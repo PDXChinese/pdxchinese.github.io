@@ -2,10 +2,10 @@
 title: " "
 permalink: /chinesefestival/
 feature_row01:
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/Portland_Winterhawks_logo_2021
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/Portland_Winterhawks
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/mult_county_nf2iqzgmnapl3uxgfock
 feature_row02:  
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/Prosper+Portland+Full+Color
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/Prosper_Portland
 feature_row03:  
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/nwnatural
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pge2_tieksh7yf1tuytixgsee
