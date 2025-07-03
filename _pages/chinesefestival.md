@@ -101,7 +101,9 @@ Hanfu Models Wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 | [DIY Painting/Drawing on Fans/手工绘扇子](https://www.youtube.com/shorts/Ewr7OicZLuc?feature=share) | 5 |
 | [DIY Bookmarks/漆画书签](https://www.youtube.com/shorts/VE-X2QW30-s?feature=share) | 6 |
 
-## Gifts Vendor Lineup
+## Community Organization Lineup
+
+[Chinese Youth and Women Organization](https://yeswedoit.org/)  
 
 (between the stage and crafts tables)  
 
@@ -123,11 +125,35 @@ Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 
 ## Giveaways
 
+[Columbia employee store pass](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/columbia_pass) thanks to the generosity of [Columbia Sportswear Company](https://www.columbia.com/)
+
+Happy Birthday Yard Letters with Stakes ([sample image](https://imprint.com/shop/products/pre-packaged-happy-birthday-yard-letters?cHadre2r=HU6uspaH&gsc=Green)) for those whose birthdays fall into that weekend (8/2-8/3), *while supplies last*.
+
+Crafts cloth in variety colors
+
 *While supplies last*
 
 ## Community Partner Tabling
 
+[Lan Su Chinese Garden](https://lansugarden.org/)  
+[Multnomah County Library, Chinese Language Dept](https://multcolib.org/)  
+
 ## Festival Sponsors
+
+### Silver Sponsors  
+[Multnomah County Public Health](https://www.multco.us/health)  
+[Portland Winterhawks](https://chl.ca/whl-winterhawks/)  
+
+### Community Sponsors  
+[Prosper Portland](https://prosperportland.us/)  
+[Trimet](https://trimet.org/home/)  
+[NW Natural](https://www.nwnatural.com/)  
+[Portland General Electric, PGE](https://portlandgeneral.com/)  
+[Energy Trust](https://www.energytrust.org/)  
+
+### Friend of Festival  
+[Oregon Department of Transportation](https://www.oregon.gov/ODOT/)  
+[Pioneer Courthouse Square](https://www.thesquarepdx.org/)  
 
 ## Chinese Festivals in the Past
 
