@@ -9,31 +9,6 @@ permalink: /updates/
 
 # <code style="color:brown">年度活动/Annual Events</code>
 
-### May
-
-### [社区画展/Community Art Show](https://pdxchinese.org/artexhibit/)
-
-Time: 1pm - 5pm
-Date: Thur - Sun, May 15 - May 25  
-Place: Chinatown, 205 NW 4th Ave, Portland  
-
-### [龙归中国城/Return of the Dragon](https://pdxchinese.org/dragon/)
-
-Date: May 24, 2025, 11am - 5pm  
-Place: Chinatown, Portland  
-
-### [文化日/Culture Day](https://pdxchinese.org/cultureday/)
-
-To be incorporated into Return of the Dragon on May 24, 2025
-
-### June
-
-### [青少年高峰会/Youth Summit](https://pdxchinese.org/youthconference/)
-
-**Date:** TBD, 1pm - 5pm  
-Place: Hope Chinese Charter School ([3500 SW 104th Ave, Beaverton, OR 97005](https://www.google.com/maps/place/Hope+Chinese+Charter+School/@45.494757,-122.785115,16.79z/data=!4m6!3m5!1s0x5495095af942afd9:0x759fa57a8326c607!8m2!3d45.4946694!4d-122.783813!16s%2Fg%2F1264hsl_c?entry=ttu))  
-Register To join, please [register here](https://docs.google.com/forms/d/e/1FAIpQLSeSSDTPGiyHgZ2CmYjjpXz7SlZvqoqpYTIdMOnCIHzdFsBRZA/viewform?usp=sf_link)  
-Please help recommend distinguished speakers  
 
 ### August
 
@@ -81,6 +56,28 @@ Chinese/Lunar New Year Celebrations
 
 Date: March 15, 2025 Saturday, 11pm-3pm  
 Place: Embassy Suite, Hilton Hotel at Washington Square  
+
+### May
+
+### [社区画展/Community Art Show](https://pdxchinese.org/artexhibit/)
+
+Time: 1pm - 5pm
+Date: Thur - Sun, May 15 - May 25  
+Place: Chinatown, 205 NW 4th Ave, Portland  
+
+### [龙归中国城/Return of the Dragon](https://pdxchinese.org/dragon/)
+
+Date: May 23, 2026, 11am - 5pm  
+Place: Chinatown, Portland  
+
+### June
+
+### [青少年高峰会/Youth Summit](https://pdxchinese.org/youthconference/)
+
+**Date:** TBD, 1pm - 5pm  
+Place: Hope Chinese Charter School ([3500 SW 104th Ave, Beaverton, OR 97005](https://www.google.com/maps/place/Hope+Chinese+Charter+School/@45.494757,-122.785115,16.79z/data=!4m6!3m5!1s0x5495095af942afd9:0x759fa57a8326c607!8m2!3d45.4946694!4d-122.783813!16s%2Fg%2F1264hsl_c?entry=ttu))  
+Register To join, please [register here](https://docs.google.com/forms/d/e/1FAIpQLSeSSDTPGiyHgZ2CmYjjpXz7SlZvqoqpYTIdMOnCIHzdFsBRZA/viewform?usp=sf_link)  
+Please help recommend distinguished speakers  
 
 ### External: [阿炳樱桃迎新年活动/Bing in the New Year](https://binginthenewyear.com/)
 

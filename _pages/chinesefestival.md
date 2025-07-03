@@ -1,13 +1,17 @@
 ---
 title: " "
 permalink: /chinesefestival/
-feature_row0:
+feature_row01:
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/Portland_Winterhawks_logo_2021
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/mult_county_nf2iqzgmnapl3uxgfock
+feature_row02:  
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/Prosper+Portland+Full+Color
+feature_row03:  
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/nwnatural
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pge2_tieksh7yf1tuytixgsee
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/energytrust
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/mult_county_nf2iqzgmnapl3uxgfock
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/logo/trimet2
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/PacificSource2
+feature_row04:    
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/odot1
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pcs-logo-s
 feature_row1a:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/2024mc4s
@@ -39,7 +43,20 @@ The Chinese Festival was proudly [recognized](https://youtu.be/0Jg3yi45R9c?t=780
 
 ## Proud Festival Sponsors
 
-[Sponsorship packages](/assets/pdf/festival_sponsorship_2025.pdf)
+### Silver Sponsors
+
+{% include feature_row id="feature_row01"%}
+
+### Community Sponsors
+
+{% include feature_row id="feature_row02"%}
+{% include feature_row id="feature_row03"%}
+
+### Friend of Festival
+
+{% include feature_row id="feature_row04"%}
+
+*[Sponsorship packages](/assets/pdf/festival_sponsorship_2025.pdf)*
 
 ## Sign Up to Volunteer
 
