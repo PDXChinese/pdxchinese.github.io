@@ -39,8 +39,6 @@ The Chinese Festival was proudly [recognized](https://youtu.be/0Jg3yi45R9c?t=780
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/kick_off_2025)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/kick_off_2025b)
-
 ## Proud Festival Sponsors
 
 ### Silver Sponsors
