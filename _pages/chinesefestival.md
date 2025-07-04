@@ -17,7 +17,7 @@ feature_row04:
 feature_row1b:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/2024mc3s
     title: "Emily Jiang"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/2024mc1s
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/2025mc2
     title: "Allison Hu"
 ---
 
@@ -44,7 +44,8 @@ The Chinese Festival was proudly [recognized](https://youtu.be/0Jg3yi45R9c?t=780
 
 {% include feature_row id="feature_row04"%}
 
-*[Sponsorship packages](/assets/pdf/festival_sponsorship_2025.pdf)*
+*[Sponsorship packages](/assets/pdf/festival_sponsorship_2025.pdf)*  
+*[Donation to OCC](https://pdxchinese.org/donate/)*  
 
 ## Sign Up to Volunteer
 
