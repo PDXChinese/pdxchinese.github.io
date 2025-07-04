@@ -53,8 +53,8 @@ The Chinese Festival was proudly [recognized](https://youtu.be/0Jg3yi45R9c?t=780
 
 We need your help to make our events successful! If you're interested in volunteering, please sign up using the link below. Your support is crucial, and we have a variety of roles available to fit your skills and interests.
 
-Volunteer Sign-Up Link: [Volunteer Sign-Up](https://signup.com/go/esOvNSC)  
-Hanfu Models Wanted for Chinese Festival: [Sign-Up](https://docs.google.com/forms/d/e/1FAIpQLScNIqSmssHqhImF418NzsPW9pkB6LgZCFcqTLncuInSuZ38CA/viewform)  
+How you can volunteer: [Volunteer Sign-Up](https://signup.com/go/esOvNSC)  
+Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/forms/d/e/1FAIpQLScNIqSmssHqhImF418NzsPW9pkB6LgZCFcqTLncuInSuZ38CA/viewform)  
 
 ## Masters of Ceremony
 
@@ -69,6 +69,7 @@ Hanfu Models Wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 | Section II | 1:00pm-3:15pm | |
 | Section III | 3:30pm-6:00pm | |
 
+Stage Performance [Sign-Up Link](https://docs.google.com/forms/d/e/1FAIpQLSc5yos8Fu1drLx8Tnq-Sq1241tdPUXUqjjb9Uc2BA-5MLdXQQ/viewform?vc=0&c=0&w=1&flr=0)  
 *About 500 performers on stage. Schedule is subject to change*  
 
 ## Food Vendor Lineup
