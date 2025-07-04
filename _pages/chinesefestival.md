@@ -50,7 +50,7 @@ The Chinese Festival was proudly [recognized](https://youtu.be/0Jg3yi45R9c?t=780
 
 We need your help to make our events successful! If you're interested in volunteering, please sign up using the link below. Your support is crucial, and we have a variety of roles available to fit your skills and interests.
 
-Volunteer Sign-Up Link: [Volunteer Sign-Up](https://signup.com/client/invitation2/secure/3423401180114/false#/invitation)  
+Volunteer Sign-Up Link: [Volunteer Sign-Up](https://signup.com/go/esOvNSC)  
 Hanfu Models Wanted for Chinese Festival: [Sign-Up](https://docs.google.com/forms/d/e/1FAIpQLScNIqSmssHqhImF418NzsPW9pkB6LgZCFcqTLncuInSuZ38CA/viewform)  
 
 ## Masters of Ceremony
