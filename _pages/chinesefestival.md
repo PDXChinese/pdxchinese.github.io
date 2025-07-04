@@ -100,6 +100,10 @@ Stage Performance [Sign-Up Link](https://docs.google.com/forms/d/e/1FAIpQLSc5yos
 | [DIY Painting/Drawing on Fans/手工绘扇子](https://www.youtube.com/shorts/Ewr7OicZLuc?feature=share) | 5 |
 | [DIY Bookmarks/漆画书签](https://www.youtube.com/shorts/VE-X2QW30-s?feature=share) | 6 |
 
+## Community Art Space
+
+*Coming soon...*
+
 ## Community Organization Lineup
 
 [Chinese Youth and Women Organization](https://yeswedoit.org/)  
