@@ -125,17 +125,12 @@ Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 | [No Smoking No Vaping Pledge Campaign](https://docs.google.com/forms/d/e/1FAIpQLSeXi9pIxzAE7655rQRaq849D0swRK_nWTkQnPOKDZjSnbdrQA/viewform) | Oregon Chinese Coalition |
 | [Emergency Preparedness](https://pdxchinese.org/resources/disaster/resilience/) | Oregon Chinese Coalition |
 
-## Giveaways
-
-1. Happy Birthday Yard Letters with Stakes ([sample image](https://imprint.com/shop/products/pre-packaged-happy-birthday-yard-letters?cHadre2r=HU6uspaH&gsc=Green)) for those whose birthdays fall into that weekend (8/2-8/3).  
-2. Crafts cloth in variety colors  
-
-*While supplies last*
-
 ## Community Partner Tabling
 
+[Energy Trust](https://www.energytrust.org/)  
 [Lan Su Chinese Garden](https://lansugarden.org/)  
 [Multnomah County Library, Chinese Language Dept](https://multcolib.org/)  
+[Northwest Chinese Alliance](https://nwchinesealliance.org/)  
 
 ## Festival Sponsors
 
@@ -151,6 +146,20 @@ Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 ### Friend of Festival  
 [Oregon Department of Transportation](https://www.oregon.gov/ODOT/)  
 [Pioneer Courthouse Square](https://www.thesquarepdx.org/)  
+
+## Giveaways
+
+1. Happy Birthday Yard Letters with Stakes ([sample image](https://imprint.com/shop/products/pre-packaged-happy-birthday-yard-letters?cHadre2r=HU6uspaH&gsc=Green)) for those whose birthdays fall into that weekend (8/2-8/3).  
+2. Crafts cloth in variety colors  
+
+*While supplies last*
+
+## Fundraising Sales
+
+Ties, socks, shirts, belts...
+
+*Much appreciation to the community businesses that donated all of these items*
+
 ## Chinese Festivals in the Past
 
 2024: [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2024/), Pre-event Coverages: [Willamette Week](https://www.wweek.com/arts/more/2024/07/31/oregon-chinese-festival-returns-to-pioneer-square-for-fifth-year/), [KGW](https://www.kgw.com/article/entertainment/culture/oregon-chinese-festival-pioneer-square-august-3/283-255d3bac-9d28-43eb-a705-8ef33dc0d31f), Interviews: [KOIN 6](https://www.koin.com/video/oregon-chinese-festival-fills-pioneer-courthouse-square/9923267/), [KPTV Fox 12](https://youtu.be/_342S5j0RKk), Performances: [Videos](https://youtu.be/4Hv399J4fVA)  
