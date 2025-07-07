@@ -192,3 +192,5 @@ After seven years, Portland Chinatown is bringing back a beloved tradition! Retu
 [2024 Culture Day](https://pdxchinese.org/culture_day_2024/)  
 [2023 Culture Day](https://pdxchinese.org/culture_day_2023/)  
 [2018 Chinese New Year Celebration in Chinatown](https://pdxchinese.org/new-year-summary-2018/)  
+
+<iframe width="1708" height="960" src="https://www.youtube.com/embed/Giqpjrk30vw" title="Return of the Dragon: Stage Performance (05.24.2025)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
