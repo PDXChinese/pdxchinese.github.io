@@ -107,6 +107,7 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 ## Community Organization Lineup
 
 [Chinese Youth and Women Organization](https://yeswedoit.org/)  
+[Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/)                                  
 
 (between the main stage and crafts tables)  
 
