@@ -21,6 +21,8 @@ feature_row1b:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Allison_Hu/'>Allison Hu</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Emily_Jiang
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Emily_Jiang/'>Emily Jiang</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Zhi_Qu
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Noah_Von_Dem_Bruch/'>Jane Qu</a></p>"
 ---
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/festival_2025)
@@ -62,12 +64,35 @@ Hanfu models wanted for Chinese Festival: [Sign-Up / 汉服模特报名表](http
 
 ## Stage Performances  
 
-| Time | Program | Presented By |
-| --- | --- | --- | ---: |
-| Section I | 11:00am-12:45pm | |
-|  | Welcome Speech | MC |
-| Section II | 1:00pm-3:15pm | |
-| Section III | 3:30pm-6:00pm | |
+**Performance Groups and Individuals**
+
+>[SODA Chinese Dance Academy](https://www.sodadance.com/)  
+Musication Studio  
+Jingya Qipao Chapter, World Qipao Association  
+[Oregon Meigui Wellness Association](https://meiguiwellness.org/)  
+Rose House Senior Dance Team  
+Violin Solo by Erin Qiu  
+[East Dream Dance](https://eastdreamdance.org/index.html)  
+Fashion Show by [Chinese Youth and Women Organization](https://yeswedoit.org/)  
+[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
+[Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
+[Jade Dance Team](https://pdxchinese.org/youthdance/)  
+[Portland Harmonics](https://pdxchinese.org/youthsinging/)  
+[Oregon Hope Chinese School](http://oregon-hope.org/)  
+Solo Vocal by TingTing Hou  
+Bluebell Dance Team  
+Rose Parade Show by [Northwest Chinese Alliance](https://nwchinesealliance.org/)  
+Huayun Arts Society  
+[WE Youth String Ensemble](https://www.thewaveelements.org/)  
+Vancouver Jasmine Dance Troupe  
+Alice Crumbleholme  
+Soundi Ensemble  
+Wisdom Arts Academy  
+[YZ Dance Studio](https://www.yzdance.com/)  
+[Winnie Dance Academy](https://www.winniechinesedance.com/)  
+Yang Style Taiji Group  
+Chunxiang Singing Group  
+more to add...  
 
 Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms/d/e/1FAIpQLSc5yos8Fu1drLx8Tnq-Sq1241tdPUXUqjjb9Uc2BA-5MLdXQQ/viewform?vc=0&c=0&w=1&flr=0)  
 *About 500 performers on stage. Schedule is subject to change*  
@@ -83,52 +108,45 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 
 ## Kids Friendly Hands-on Craft Activities  
 
-| Activity | Table |
-| --- | ---: |
-| [Diabolo/抖空竹](https://youtu.be/KBqa5QA461Y) | Floor |
-| [Shuttlecock Kicking/踢毽子](https://youtu.be/fOn0DhvInSk) | Floor |
-| [Turn Handkerchief/转手帕](https://youtu.be/qaxhg49elNg) | Floor |
-| [Taiji/太极](https://youtu.be/Meq5j26QPWc) | Floor |
-| [Chinese Calligraphy/毛笔字](https://youtu.be/w9zjsTDHCdM) | 1, 2 |
-| [Ink Painting/水墨画](https://youtu.be/aw4kEVDSx9A) | 1 |
-| [China Ring/九连环](https://youtu.be/Twtzc7A9cN8) | 3 |
-| [Burr Puzzle/鲁班锁](https://youtu.be/ueV1c9RHC4w?t=74) | 3 |
-| [Klotski/华容道](https://youtu.be/VX5Jon2YdXQ) | 3 |
-| [Tangram/七巧板](https://youtu.be/3S_JidggG6g) | 3 |
-| [Paper Cutting/剪纸](https://youtu.be/xB7GbPBNxPE) | 4 |
-| [Origami/折纸](https://youtu.be/cZdO2e8K29o) | 4 |  
-| [DIY Painting/Drawing on Fans/手工绘扇子](https://www.youtube.com/shorts/Ewr7OicZLuc?feature=share) | 5 |
-| [DIY Bookmarks/漆画书签](https://www.youtube.com/shorts/VE-X2QW30-s?feature=share) | 6 |
-
-## Community Art Space
-
-*Coming soon...*
+[Diabolo/抖空竹](https://youtu.be/KBqa5QA461Y)  
+[Shuttlecock Kicking/踢毽子](https://youtu.be/fOn0DhvInSk)  
+[Turn Handkerchief/转手帕](https://youtu.be/qaxhg49elNg)  
+[Taiji/太极](https://youtu.be/Meq5j26QPWc)  
+[Chinese Calligraphy/毛笔字](https://youtu.be/w9zjsTDHCdM)  
+[Ink Painting/水墨画](https://youtu.be/aw4kEVDSx9A)  
+[China Ring/九连环](https://youtu.be/Twtzc7A9cN8)  
+[Burr Puzzle/鲁班锁](https://youtu.be/ueV1c9RHC4w?t=74)  
+[Klotski/华容道](https://youtu.be/VX5Jon2YdXQ)  
+[Tangram/七巧板](https://youtu.be/3S_JidggG6g)  
+[Paper Cutting/剪纸](https://youtu.be/xB7GbPBNxPE)  
+[Origami/折纸](https://youtu.be/cZdO2e8K29o)  
+[DIY Painting/Drawing on Fans/手工绘扇子](https://www.youtube.com/shorts/Ewr7OicZLuc?feature=share)  
+[DIY Bookmarks/漆画书签](https://www.youtube.com/shorts/VE-X2QW30-s?feature=share)  
 
 ## Community Organization Lineup
 
-[Chinese Youth and Women Organization](https://yeswedoit.org/)  
+>[Chinese Youth and Women Organization](https://yeswedoit.org/)  
 [Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/)                                  
 
 (between the main stage and crafts tables)  
 
 ## Hanfu (Traditional Chinese Clothing) Booth
 
-1. Observe makeup, hairstyling, and hanfu dressing  
-2. Costume Photo Booth/古装拍照  
-3. Showcase the beauty of hanfu: [past event 1 ](https://youtu.be/R3EwAN2hVAA), [past event 2](https://youtu.be/vdbt8NTPiXM)  
+>Observe makeup, hairstyling, and hanfu dressing  
+Costume Photo Booth/古装拍照  
+Showcase the beauty of hanfu: [past event 1 ](https://youtu.be/R3EwAN2hVAA), [past event 2](https://youtu.be/vdbt8NTPiXM)  
 
 Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/forms/d/e/1FAIpQLScNIqSmssHqhImF418NzsPW9pkB6LgZCFcqTLncuInSuZ38CA/viewform)  
 
-## Public Health Outreach and Education
+## OCC Public Health Outreach and Education
 
-| Service | Partner |
-| [HPV Vaccination Survey](https://docs.google.com/forms/d/e/1FAIpQLSfBLNIl1qobNfjZtJB1fpB5U7LdaQBUdCqqsAEL_jjHpd1inA/viewform) | Oregon Chinese Coalition |
-| [No Smoking No Vaping Pledge Campaign](https://docs.google.com/forms/d/e/1FAIpQLSeXi9pIxzAE7655rQRaq849D0swRK_nWTkQnPOKDZjSnbdrQA/viewform) | Oregon Chinese Coalition |
-| [Emergency Preparedness](https://pdxchinese.org/resources/disaster/resilience/) | Oregon Chinese Coalition |
+>[HPV Vaccination Survey](https://docs.google.com/forms/d/e/1FAIpQLSfBLNIl1qobNfjZtJB1fpB5U7LdaQBUdCqqsAEL_jjHpd1inA/viewform)  
+[No Smoking No Vaping Pledge Campaign](https://docs.google.com/forms/d/e/1FAIpQLSeXi9pIxzAE7655rQRaq849D0swRK_nWTkQnPOKDZjSnbdrQA/viewform)  
+[Emergency Preparedness](https://pdxchinese.org/resources/disaster/resilience/)  
 
 ## Community Partner Tabling
 
-[Energy Trust](https://www.energytrust.org/)  
+>[Energy Trust](https://www.energytrust.org/)  
 [Lan Su Chinese Garden](https://lansugarden.org/)  
 [Multnomah County Library, Chinese Language Dept](https://multcolib.org/)  
 [Northwest Chinese Alliance](https://nwchinesealliance.org/)  
@@ -136,7 +154,7 @@ Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 ## Festival Sponsors
 
 ### Silver Sponsors  
-[Multnomah County Public Health](https://www.multco.us/health)  
+>[Multnomah County Public Health](https://www.multco.us/health)  
 [Portland Winterhawks](https://chl.ca/whl-winterhawks/)  
 ### Community Sponsors  
 [Prosper Portland](https://prosperportland.us/)  
@@ -150,14 +168,14 @@ Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 
 ## Giveaways
 
-1. Happy Birthday Yard Letters with Stakes ([sample image](https://imprint.com/shop/products/pre-packaged-happy-birthday-yard-letters?cHadre2r=HU6uspaH&gsc=Green)) for those whose birthdays fall into that weekend (8/2-8/3).  
-2. Crafts cloth in variety colors  
+>[Columbia employee store pass](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/columbia_pass) thanks to the generosity of [Columbia Sportswear Company](https://www.columbia.com/)
+Happy Birthday Yard Letters with Stakes ([sample image](https://imprint.com/shop/products/pre-packaged-happy-birthday-yard-letters?cHadre2r=HU6uspaH&gsc=Green)) for those whose birthdays fall into that weekend (8/2-8/3).  
 
 *While supplies last*
 
 ## Fundraising Sales
 
-Ties, socks, shirts, belts...
+>Ties, socks, shirts, belts...
 
 *Much appreciation to the community businesses that donated all of these items*
 
