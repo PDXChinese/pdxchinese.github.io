@@ -108,7 +108,7 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 
 ## Kids Friendly Hands-on Craft Activities  
 
-[Diabolo/抖空竹](https://youtu.be/KBqa5QA461Y)  
+>[Diabolo/抖空竹](https://youtu.be/KBqa5QA461Y)  
 [Shuttlecock Kicking/踢毽子](https://youtu.be/fOn0DhvInSk)  
 [Turn Handkerchief/转手帕](https://youtu.be/qaxhg49elNg)  
 [Taiji/太极](https://youtu.be/Meq5j26QPWc)  
@@ -153,8 +153,8 @@ Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 
 ## Festival Sponsors
 
-### Silver Sponsors  
->[Multnomah County Public Health](https://www.multco.us/health)  
+>### Silver Sponsors  
+[Multnomah County Public Health](https://www.multco.us/health)  
 [Portland Winterhawks](https://chl.ca/whl-winterhawks/)  
 ### Community Sponsors  
 [Prosper Portland](https://prosperportland.us/)  
@@ -168,7 +168,7 @@ Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 
 ## Giveaways
 
->[Columbia employee store pass](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/columbia_pass) thanks to the generosity of [Columbia Sportswear Company](https://www.columbia.com/)
+>[Columbia employee store pass](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/columbia_pass) thanks to the generosity of [Columbia Sportswear Company](https://www.columbia.com/)  
 Happy Birthday Yard Letters with Stakes ([sample image](https://imprint.com/shop/products/pre-packaged-happy-birthday-yard-letters?cHadre2r=HU6uspaH&gsc=Green)) for those whose birthdays fall into that weekend (8/2-8/3).  
 
 *While supplies last*
@@ -181,7 +181,7 @@ Happy Birthday Yard Letters with Stakes ([sample image](https://imprint.com/shop
 
 ## Chinese Festivals in the Past
 
-2024: [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2024/), Pre-event Coverages: [Willamette Week](https://www.wweek.com/arts/more/2024/07/31/oregon-chinese-festival-returns-to-pioneer-square-for-fifth-year/), [KGW](https://www.kgw.com/article/entertainment/culture/oregon-chinese-festival-pioneer-square-august-3/283-255d3bac-9d28-43eb-a705-8ef33dc0d31f), Interviews: [KOIN 6](https://www.koin.com/video/oregon-chinese-festival-fills-pioneer-courthouse-square/9923267/), [KPTV Fox 12](https://youtu.be/_342S5j0RKk), Performances: [Videos](https://youtu.be/4Hv399J4fVA)  
+>2024: [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2024/), Pre-event Coverages: [Willamette Week](https://www.wweek.com/arts/more/2024/07/31/oregon-chinese-festival-returns-to-pioneer-square-for-fifth-year/), [KGW](https://www.kgw.com/article/entertainment/culture/oregon-chinese-festival-pioneer-square-august-3/283-255d3bac-9d28-43eb-a705-8ef33dc0d31f), Interviews: [KOIN 6](https://www.koin.com/video/oregon-chinese-festival-fills-pioneer-courthouse-square/9923267/), [KPTV Fox 12](https://youtu.be/_342S5j0RKk), Performances: [Videos](https://youtu.be/4Hv399J4fVA)  
 2023: [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2023/), [KGW Interview](https://youtu.be/qZ4Hj_i3flc?t=189), Performances: [By Youth Lens](https://youtu.be/wWoR1TD-_bA), [By Yunus Lee](https://www.youtube.com/playlist?list=PLZbYjE2BYSxjSUjEuAqLHFiOtQHGWSWnn)), [Off Stage Activities](https://youtu.be/jl0PTsmy_sI), Photo Album: [Activities](https://pdxchinese.org/chinese-festival-2023-activities/), [One Community](https://pdxchinese.org/chinese-festival-2023-community/), [MC and OCC Teams](https://pdxchinese.org/chinese-festival-2023-occ/), [Community Performances](https://pdxchinese.org/chinese-festival-2023-stage/)  
 2022: [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2022/), [KOIN Coverage](https://youtu.be/2Ye39CXroww), [KATU Coverage](https://katu.com/news/local/chinese-festival-brings-hundreds-to-portlands-pioneer-courthouse-square?fbclid=IwAR2vlrDy2OkK4xHz1Y27Xjzy8vLDp40a8eTkUzVPlR3vZ1dpOOfgHvB2AII), [Photo Album](https://pdxchinese.org/chinese-festival-2022/)  
 2021: [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2021/), [KOIN Interview](https://www.koin.com/local/multnomah-county/chinese-festival-returning-to-portland-this-saturday/), [Photo Album](https://pdxchinese.org/chinese-festival-2021/)  
