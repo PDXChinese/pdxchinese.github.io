@@ -106,6 +106,7 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 | 3 | LoLo S San Xiang 十三乡 | Pot Stickers, Jian Bao, Lam Skewers, Buba Tea |
 | 4 | Little Beijing 北京小馆 | JianBing 煎饼果子，BingFen 冰粉，Cold Noodle |
 | 5 | [Red Robe Tea House & Cafe 大红袍](https://www.redrobeteahouse.com/) | Sichuan Noodle, Chicken Wings, Spring Rolls, Bubble Tea, Tea |
+| 6 | [TeaCha.T](https://teachatpdx.square.site/) | Immersing in Tea Culture and Savoring Artisanal Brews |
 
 ## Kids Friendly Hands-on Craft Activities  
 
@@ -144,6 +145,10 @@ Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 >[HPV Vaccination Survey](https://docs.google.com/forms/d/e/1FAIpQLSfBLNIl1qobNfjZtJB1fpB5U7LdaQBUdCqqsAEL_jjHpd1inA/viewform)  
 [No Smoking No Vaping Pledge Campaign](https://docs.google.com/forms/d/e/1FAIpQLSeXi9pIxzAE7655rQRaq849D0swRK_nWTkQnPOKDZjSnbdrQA/viewform)  
 [Emergency Preparedness](https://pdxchinese.org/resources/disaster/resilience/)  
+
+## Cultural Vendors
+
+Artful Lacquer Fan
 
 ## Community Partner Tabling
 
