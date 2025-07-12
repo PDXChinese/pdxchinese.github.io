@@ -148,7 +148,7 @@ Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 
 ## Cultural Vendors
 
-Artful Lacquer Fan
+>Artful Lacquer Fan
 
 ## Community Partner Tabling
 
