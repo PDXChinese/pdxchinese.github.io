@@ -129,6 +129,7 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 
 >[Chinese Youth and Women Organization](https://yeswedoit.org/)  
 [Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/)                                  
+[YZ Dance Studio](https://www.yzdance.com/)  
 
 (between the main stage and crafts tables)  
 
