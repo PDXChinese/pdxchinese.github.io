@@ -2,7 +2,7 @@
 title: " "
 permalink: /chinesefestival/
 feature_row01:
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/Portland_Winterhawks2
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/Portland_Winterhawks3
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/mult_county_nf2iqzgmnapl3uxgfock
 feature_row02:  
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/Prosper_Portland
@@ -107,7 +107,7 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 | 4 | Little Beijing 北京小馆 | JianBing 煎饼果子，BingFen 冰粉，Cold Noodle |
 | 5 | [Red Robe Tea House & Cafe 大红袍](https://www.redrobeteahouse.com/) | Sichuan Noodle, Chicken Wings, Spring Rolls, Bubble Tea, Tea |
 | 6 | [TeaCha.T](https://teachatpdx.square.site/) | Immersing in Tea Culture and Savoring Artisanal Brews |
-| 7 | Noodle Point | Barbecue Grill and Griddle | 
+| 7 | Noodle Point | Barbecue Grill and Griddle |
 
 ## Kids Friendly Hands-on Craft Activities  
 
