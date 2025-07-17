@@ -15,13 +15,15 @@ feature_row03:
 feature_row04:    
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/odot1
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pcs-logo-s
-feature_row1b:
+feature_row1c:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Noah_Von_Dem_Bruch
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Noah_Von_Dem_Bruch/'>Noah Von Dem Bruch</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Allison_Hu2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Allison_Hu/'>Allison Hu</a></p>"
+feature_row1b:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Emily_Jiang
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Emily_Jiang/'>Emily Jiang</a></p>"
+feature_row1a:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Zhi_Qu
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Noah_Von_Dem_Bruch/'>Jane Qu</a></p>"
 ---
@@ -61,7 +63,17 @@ Hanfu models wanted for Chinese Festival: [Sign-Up / 汉服模特报名表](http
 
 ## Masters of Ceremony
 
+### Section I (11am-1pm)
+
+{% include feature_row id="feature_row1a"%}  
+
+### Section I (1pm-3pm)
+
 {% include feature_row id="feature_row1b"%}  
+
+### Section I (3pm-6pm)
+
+{% include feature_row id="feature_row1c"%}  
 
 ## Stage Performances  
 
@@ -126,14 +138,6 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 [DIY Painting/Drawing on Fans/手工绘扇子](https://www.youtube.com/shorts/Ewr7OicZLuc?feature=share)  
 [DIY Bookmarks/漆画书签](https://www.youtube.com/shorts/VE-X2QW30-s?feature=share)  
 
-## Community Organization Lineup
-
->[Chinese Youth and Women Organization](https://yeswedoit.org/)  
-[Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/)                                  
-[YZ Dance Studio](https://www.yzdance.com/)  
-
-(between the main stage and crafts tables)  
-
 ## Hanfu (Traditional Chinese Clothing) Booth
 
 >Observe makeup, hairstyling, and hanfu dressing  
@@ -142,22 +146,27 @@ Showcase the beauty of hanfu: [past event 1 ](https://youtu.be/R3EwAN2hVAA), [pa
 
 Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/forms/d/e/1FAIpQLScNIqSmssHqhImF418NzsPW9pkB6LgZCFcqTLncuInSuZ38CA/viewform)  
 
-## Public Health Outreach and Education
-
->[Lines for Life](https://www.linesforlife.org/)  
-[HPV Vaccination Survey](https://docs.google.com/forms/d/e/1FAIpQLSfBLNIl1qobNfjZtJB1fpB5U7LdaQBUdCqqsAEL_jjHpd1inA/viewform)  
-[No Smoking No Vaping Pledge Campaign](https://docs.google.com/forms/d/e/1FAIpQLSeXi9pIxzAE7655rQRaq849D0swRK_nWTkQnPOKDZjSnbdrQA/viewform)  
-[Emergency Preparedness](https://pdxchinese.org/resources/disaster/resilience/)  
-
 ## Cultural Vendors
 
 >[Artful Lacquer Fan](https://youtube.com/shorts/JuamKCSM0Lo)  
+[Chinese Youth and Women Organization](https://yeswedoit.org/)  
 [Lan Su Chinese Garden](https://lansugarden.org/)  
+[Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/)                                  
+[YZ Dance Studio](https://www.yzdance.com/)  
+
+*between the main stage and crafts tables*
+
+## Public Health Outreach and Education
+
+>[Lines for Life](https://www.linesforlife.org/)  
+[Multnomah County Public Health](https://www.multco.us/health)  
+[OCC Emergency Preparedness](https://pdxchinese.org/resources/disaster/resilience/)  
+[OCC HPV Vaccination Survey](https://docs.google.com/forms/d/e/1FAIpQLSfBLNIl1qobNfjZtJB1fpB5U7LdaQBUdCqqsAEL_jjHpd1inA/viewform)  
+[OCC No Smoking No Vaping Pledge Campaign](https://docs.google.com/forms/d/e/1FAIpQLSeXi9pIxzAE7655rQRaq849D0swRK_nWTkQnPOKDZjSnbdrQA/viewform)  
 
 ## Community Partner Tabling
 
 >[Energy Trust](https://www.energytrust.org/)  
-[Lan Su Chinese Garden](https://lansugarden.org/)  
 [Multnomah County Library, Chinese Language Dept](https://multcolib.org/)  
 [Northwest Chinese Alliance](https://nwchinesealliance.org/)  
 
@@ -185,7 +194,7 @@ Happy Birthday Yard Letters with Stakes ([sample image](https://imprint.com/shop
 
 ## Fundraising Sales
 
->Ties, socks, shirts, belts...
+>Brand new shirts, ties, socks, belts...
 
 *Much appreciation to the community businesses that donated all of these items*
 
