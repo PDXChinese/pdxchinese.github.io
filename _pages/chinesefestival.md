@@ -151,7 +151,8 @@ Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 
 ## Cultural Vendors
 
->Artful Lacquer Fan
+>[Artful Lacquer Fan](https://youtube.com/shorts/JuamKCSM0Lo)  
+[Lan Su Chinese Garden](https://lansugarden.org/)  
 
 ## Community Partner Tabling
 
