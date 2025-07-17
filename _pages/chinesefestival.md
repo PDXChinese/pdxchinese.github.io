@@ -154,7 +154,7 @@ Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 [Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/)                                  
 [YZ Dance Studio](https://www.yzdance.com/)  
 
-*between the main stage and crafts tables*
+*some may only accept cash payment*
 
 ## Public Health Outreach and Education
 
@@ -187,8 +187,9 @@ Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 
 ## Giveaways
 
->[Columbia employee store pass](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/columbia_pass) thanks to the generosity of [Columbia Sportswear Company](https://www.columbia.com/)  
-Happy Birthday Yard Letters with Stakes ([sample image](https://imprint.com/shop/products/pre-packaged-happy-birthday-yard-letters?cHadre2r=HU6uspaH&gsc=Green)) for those whose birthdays fall into that weekend (8/2-8/3).  
+>1.[Columbia employee store pass](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/columbia_pass) thanks to the generosity of [Columbia Sportswear Company](https://www.columbia.com/)  
+2.Happy Birthday Yard Letters with Stakes ([sample image](https://imprint.com/shop/products/pre-packaged-happy-birthday-yard-letters?cHadre2r=HU6uspaH&gsc=Green)) for those whose birthdays fall into that weekend (8/2-8/3).  
+3.Chinese literature
 
 *While supplies last*
 
