@@ -138,6 +138,18 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 [DIY Painting/Drawing on Fans/手工绘扇子](https://www.youtube.com/shorts/Ewr7OicZLuc?feature=share)  
 [DIY Bookmarks/漆画书签](https://www.youtube.com/shorts/VE-X2QW30-s?feature=share)  
 
+## Exhibition of Traditional and Folk Crafts
+
+[Woodblock Prints / 版画](https://youtu.be/R821sRRTNrs)  
+[Double Sided Embroidery / 苏绣 双面绣](https://youtu.be/PTHuRDR1B6c)  
+[Chinese Shadow Puppetry / 皮影戏](https://youtu.be/jSVVBualNck)  
+[Cloisonné / 景泰蓝](https://www.youtube.com/shorts/hYLI_IgKMMo?feature=share)  
+[Chinese Wood Carving](https://youtu.be/I7AWscdmwbs)  
+Treasures Unearthed from China / 出土文物  
+Chest box for Chinese immigrants in the late 1800s  
+
+*located inside Hanfu Booth*
+
 ## Hanfu (Traditional Chinese Clothing) Booth
 
 >Observe makeup, hairstyling, and hanfu dressing  
