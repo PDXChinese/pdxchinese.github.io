@@ -169,6 +169,7 @@ Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 >[Energy Trust](https://www.energytrust.org/)  
 [Multnomah County Library, Chinese Language Dept](https://multcolib.org/)  
 [Northwest Chinese Alliance](https://nwchinesealliance.org/)  
+[Portland Winterhawks](https://chl.ca/whl-winterhawks/)  
 
 ## Festival Sponsors
 
@@ -188,7 +189,7 @@ Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 ## Giveaways
 
 >1.[Columbia employee store pass](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/columbia_pass) thanks to the generosity of [Columbia Sportswear Company](https://www.columbia.com/)  
-2.Happy Birthday Yard Letters with Stakes ([sample image](https://imprint.com/shop/products/pre-packaged-happy-birthday-yard-letters?cHadre2r=HU6uspaH&gsc=Green)) for those whose birthdays fall into that weekend (8/2-8/3).  
+2.Happy Birthday Yard Letters with Stakes ([sample image](https://imprint.com/shop/products/pre-packaged-happy-birthday-yard-letters?cHadre2r=HU6uspaH&gsc=Green)) for those whose birthdays fall into that week (8/2-8/9).  
 3.Chinese literature
 
 *While supplies last*
