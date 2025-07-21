@@ -144,7 +144,7 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 [Double Sided Embroidery / 苏绣 双面绣](https://youtu.be/PTHuRDR1B6c)  
 [Chinese Shadow Puppetry / 皮影戏](https://youtu.be/jSVVBualNck)  
 [Cloisonné / 景泰蓝](https://www.youtube.com/shorts/hYLI_IgKMMo?feature=share)  
-[Chinese Wood Carving](https://youtu.be/I7AWscdmwbs)  
+[Chinese Wood Carving / 木刻](https://youtu.be/I7AWscdmwbs)  
 Treasures Unearthed from China / 出土文物  
 Chest box for Chinese immigrants in the late 1800s  
 
