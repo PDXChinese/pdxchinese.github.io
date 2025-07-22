@@ -162,6 +162,7 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 | 6 | [TeaCha.T](https://teachatpdx.square.site/) | Immersing in Tea Culture and Savoring Artisanal Brews |
 | 7 | Noodle Point | Barbecue Grill and Griddle |
 
+## Hands-on Traditional Crafts
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/crafts_activity)
 
 >[Diabolo/抖空竹](https://youtu.be/KBqa5QA461Y)  
@@ -179,9 +180,10 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 [DIY Painting/Drawing on Fans/手工绘扇子](https://www.youtube.com/shorts/Ewr7OicZLuc?feature=share)  
 [DIY Bookmarks/漆画书签](https://www.youtube.com/shorts/VE-X2QW30-s?feature=share)  
 
+## Chinese Artisans & Antiquities
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/artisans_exhibit)
 
-[Woodblock Prints / 版画](https://youtu.be/R821sRRTNrs)  
+>[Woodblock Prints / 版画](https://youtu.be/R821sRRTNrs)  
 [Double Sided Embroidery / 苏绣 双面绣](https://youtu.be/PTHuRDR1B6c)  
 [Cloisonné / 景泰蓝](https://www.youtube.com/shorts/hYLI_IgKMMo?feature=share)  
 [Cork Picture / 软木画](https://youtu.be/VOP0McKbI9s)  
