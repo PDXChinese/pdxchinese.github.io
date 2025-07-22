@@ -80,7 +80,7 @@ Hanfu models wanted for Chinese Festival: [Sign-Up / 汉服模特报名表](http
 **Performance Groups and Individuals**
 
 | Time | Program | Presented By |
-| --- | --- | --- | ---: |
+| --- | --- | ---: |
 | Section I | 11:00am-12:45pm | |
 |  | Welcome Speech | MC |
 |  | Dance & Drumming: The Dearest Person | Huayun Art Club / 华韵艺术社 |
@@ -139,12 +139,12 @@ Hanfu models wanted for Chinese Festival: [Sign-Up / 汉服模特报名表](http
 |  | Qipao Show: The Legend of the Qipao / 旗袍传奇 | Jingya Qipao Chapter, World Qipao Association |
 |  | Children Dance: Dunhuang Murals & Young Dan Role / 敦煌壁画 & 小花旦 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
 |  | Group Dance: Luojia in My Heart - Mongolian Dance / 心上的罗加 | Salem Golden Willow Chinese Dance Team |
-|  | Dulcimer & Guzheng | Singing Yangzhou in Mist and Rain / 烟雨唱扬州 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+|  | Dulcimer & Guzheng: Singing Yangzhou in Mist and Rain / 烟雨唱扬州 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 |  | Group Dance: Dance of Youth / 青春舞曲 | Bluebell Dance Team |
 |  | Children Dance: Ode to the Goose / 咏鹅 | [Bolton Primary School](https://www.wlwv.k12.or.us/bolps) |
 |  | Group Dance: Endless Butterfly Dream / 蝶梦悠悠 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
 |  | Vocal Solo: Songs Soaring Over the Earth / 大地飞歌 | OCC Singing Social Group |
-|  | Group Dance | The Three Months of Spring / 春三月 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+|  | Group Dance: The Three Months of Spring / 春三月 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 |  | Family Performance: Song of the Hero / 好汉歌 | Community Family & Friend Group / 社区家庭亲友团 |
 |  | Hanfu Show: The Main Title Theme by David Bryne | [OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/) |
 
