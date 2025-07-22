@@ -138,7 +138,7 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 [DIY Painting/Drawing on Fans/手工绘扇子](https://www.youtube.com/shorts/Ewr7OicZLuc?feature=share)  
 [DIY Bookmarks/漆画书签](https://www.youtube.com/shorts/VE-X2QW30-s?feature=share)  
 
-## Exhibit of Artisans & Antiquities
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/artisans_exhibit)
 
 [Woodblock Prints / 版画](https://youtu.be/R821sRRTNrs)  
 [Double Sided Embroidery / 苏绣 双面绣](https://youtu.be/PTHuRDR1B6c)  
