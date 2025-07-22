@@ -121,7 +121,7 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 | 6 | [TeaCha.T](https://teachatpdx.square.site/) | Immersing in Tea Culture and Savoring Artisanal Brews |
 | 7 | Noodle Point | Barbecue Grill and Griddle |
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/crafts)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/crafts_activity)
 
 >[Diabolo/抖空竹](https://youtu.be/KBqa5QA461Y)  
 [Shuttlecock Kicking/踢毽子](https://youtu.be/fOn0DhvInSk)  
