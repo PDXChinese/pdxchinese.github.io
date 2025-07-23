@@ -98,7 +98,7 @@ Hanfu models wanted for Chinese Festival: [Sign-Up / 汉服模特报名表](http
 | Children Group Dance: Dunhuang Drum Music / 敦煌乐鼓 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
 | Group Rhythmic Gymnastics Performance | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
 | Flash Mob: By Lake Baikal / 贝尔加湖畔 | OCC Singing Group |
-| Section Two: 1:00pm-3:15pm | |
+| **Section Two: 1:00pm-3:15pm** | |
 | Group Chinese Drumming: Opening Drum & Dragon Boat Race / 赛龙夺锦 | [Hua Mu Lan Drum Team 花木兰大鼓队](https://pdxchinese.org/mulandrum/) |
 | Sword Dance Performance / 剑器行 | Alice Crumbleholme |
 | Group Dance: Meat and Veggie Combo / 一荤一素 | Portland Chinese Dance Troupe / 波特兰中国舞蹈团 |
@@ -118,7 +118,7 @@ Hanfu models wanted for Chinese Festival: [Sign-Up / 汉服模特报名表](http
 | Vocal Solo with Chinese Instrumental Ensemble | Wisdom Arts Academy/Jerry Lin/Huanyue Group] |
 | Gu Zheng: A Song of Yangzhou in the Misty Rain | Wisdom Arts Academy |
 | K-Pop: Attention By New Jeans | Pink Valley |
-| Section Three: 3:30pm-6:00pm | |
+| **Section Three: 3:30pm-6:00pm** | |
 | Children Dance: Little Dai Girl / 傣族小姑娘 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
 | Group Dance: Gathering Vetch / 采薇 | [OCC Jade Dance Team](https://pdxchinese.org/youthdance/) |
 | Choir: Velvet Flowers & Crescent Moon / 绒花 & 弯弯的月亮 | Rose Harmony Choir / 玫瑰心悦合唱团 |
