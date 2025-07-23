@@ -204,7 +204,6 @@ Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 ## Cultural Vendors
 
 >[Artful Lacquer Fan](https://youtube.com/shorts/JuamKCSM0Lo)  
-[Chinese Youth and Women Organization](https://yeswedoit.org/)  
 [Lan Su Chinese Garden](https://lansugarden.org/)  
 [Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/)                                  
 [YZ Dance Studio](https://www.yzdance.com/)  
