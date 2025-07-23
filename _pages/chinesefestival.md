@@ -251,12 +251,6 @@ Calligraphy Demo and Artworks available for Pay as You Wish, by Weili
 
 *While supplies last*
 
-## Fundraising Sales
-
->Brand new shirts, ties, socks, belts...
-
-*Much appreciation to the community businesses that donated all of these items*
-
 ## Chinese Festivals in the Past
 
 **2024:** [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2024/), Pre-event Coverages: [Willamette Week](https://www.wweek.com/arts/more/2024/07/31/oregon-chinese-festival-returns-to-pioneer-square-for-fifth-year/), [KGW](https://www.kgw.com/article/entertainment/culture/oregon-chinese-festival-pioneer-square-august-3/283-255d3bac-9d28-43eb-a705-8ef33dc0d31f), Interviews: [KOIN 6](https://www.koin.com/video/oregon-chinese-festival-fills-pioneer-courthouse-square/9923267/), [KPTV Fox 12](https://youtu.be/_342S5j0RKk), Performances: [By Youth Lens](https://youtu.be/4Hv399J4fVA), [By Yunus Lee](https://www.youtube.com/playlist?list=PLZbYjE2BYSxjll4dpB570iFEb2RyVpmqV)  
