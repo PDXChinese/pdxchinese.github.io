@@ -79,74 +79,74 @@ Hanfu models wanted for Chinese Festival: [Sign-Up / 汉服模特报名表](http
 
 **Performance Groups and Individuals**
 
-| Time | Program | Presented By |
-| --- | --- | ---: |
-| Section I | 11:00am-12:45pm | |
-|  | Welcome Speech | MC |
-|  | Dance & Drumming: The Dearest Person | Huayun Art Club / 华韵艺术社 |
-|  | Instrumental performance: Fog To Clear | OCC Youth Group |
-|  | Rhythmic Dance: Female Quartet Dance Performance | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
-|  | Yang Style Taiji Group | Yang Style Taiji Group |
-|  | Group Dance: Tian Yu / 天浴 | [OCC Jade Dance Team](https://pdxchinese.org/youthdance/) |
-|  | Group Dance: Oil-Paper Umbrella / 油纸伞 | Vancouver Jasmine Dance Troupe / 温哥华苿莉花舞队 |
-|  | Senior Qipao Show: Beauty of Taihu / 太湖美 | MUM Senior Qipao Team |  
-|  | Violin Duet: The Birch Woods of My Hometown / 故乡的白桦树 | [WE Youth String Ensemble](https://www.thewaveelements.org/we-youth-string-ensemble) |
-|  | Group Dance: A Journey for Peace / 昭君出塞 | Portland Chinese Dance Troupe / 波特兰中国舞蹈团 |
-|  | Vocal Ensemble: You Rise Me Up | OCC Portland Harmonics |
-|  | Group Dance: Blossoms of Youth | [OCC Jade Dance Team](https://pdxchinese.org/youthdance/) |
-|  | Vocal & Cello XuanCaoHua / 萱草花 | Musication Studio |
-|  | Children Group Dance: Dunhuang Drum Music / 敦煌乐鼓 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
-|  | Group Rhythmic Gymnastics Performance | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
-|  | Flash Mob: By Lake Baikal / 贝尔加湖畔 | OCC Singing Group |
-| Section II | 1:00pm-3:15pm | |
-|  | Group Chinese Drumming: Opening Drum & Dragon Boat Race / 赛龙夺锦 | [Hua Mu Lan Drum Team 花木兰大鼓队](https://pdxchinese.org/mulandrum/) |
-|  | Sword Dance Performance / 剑器行 | Alice Crumbleholme |
-|  | Group Dance: Meat and Veggie Combo / 一荤一素 | Portland Chinese Dance Troupe / 波特兰中国舞蹈团 |
-|  | Vocal: May our Loved Ones Live Long / 但愿人长久  | Chunxiang Singing Group / 李春香歌唱班 |
-|  | Children Dance:  Moana | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
-|  | Violin Solo: Evening Song of the Fishermen / 渔歌唱晚 | Erin Qiu |
-|  | Group Dance: Pretty Girl / 俏花旦 | [East Dream Dance Troupe 东方舞艺术团](http://www.eastdreamdance.org/index.html) |
-|  | Hanfu Dance Performance: Qing Ping Diao / 清平调 | [Northwest Chinese Alliance](https://nwchinesealliance.org/) 玫瑰游行舞队 |
-|  | Vocal Duet: Waves of Wheat in the Wind / 风吹麦浪 | Soundi Ensemble |
-|  | Children Dance: Blossoms in a Flourishing Age / 花开盛世 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
-|  | Senior Group Dance: Blossoms and Full Moon / 花好月圆 | Rose House Senior Dance Team |
-|  | Vocal Solo: Wait for Me / 等着我  | Chunxiang Singing Group / 李春香歌唱班 |
-|  | Group Dance: Moonlight in the City / 城里的月光 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
-|  | Chinese Rose Princess Fashion Show / 玫瑰公主模特表演| [Chinese Youth and Women Organization](https://yeswedoit.org/) |
-|  | Group Dance: Sweet April Rain / 四月的甘霖 | [East Dream Dance Troupe 东方舞艺术团](http://www.eastdreamdance.org/index.html) |
-|  | Children Dance: Raya | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
-|  | Vocal Solo with Chinese Instrumental Ensemble | Wisdom Arts Academy/Jerry Lin/Huanyue Group] |
-|  | Gu Zheng: A Song of Yangzhou in the Misty Rain | Wisdom Arts Academy |
-|  | K-Pop: Attention By New Jeans | Pink Valley |
-| Section III | 3:30pm-6:00pm | |
-|  | Children Dance: Little Dai Girl / 傣族小姑娘 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
-|  | Group Dance: Gathering Vetch / 采薇 | [OCC Jade Dance Team](https://pdxchinese.org/youthdance/) |
-|  | Choir: Velvet Flowers & Crescent Moon / 绒花 & 弯弯的月亮 | Rose Harmony Choir / 玫瑰心悦合唱团 |
-|  | Dance: Whispers of the Lotus / 莲语 | [SODA Chinese Dance Academy](https://www.sodadance.com/) |
-|  | Dance: Dreamy Homeland – A Mongolian Dance / 醉乡 | Salem New Moon Dance Team |
-|  | Guzhen: If the Moon Hadn’t Come / 若是月亮没有来 | Lulu Guzheng Studio |
-|  | Group Dance: Ride the Wind, Break the Waves / 乘风破浪·扬帆起航 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
-|  | Group Dance: Yaliguna / 亚丽古娜 | Salem Golden Willow Chinese Dance Team |
-|  | Vocal Solo: Brightest Star in the Night Sky & Queen of Heaven / 夜空中最亮的星 & 天后 | Tingting Hou |
-|  | Group Dance: Bell Drum Performance / 上铃鼓 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-|  | Group Dance: Like Jennie | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
-|  | Guzheng: XiangWangXing | Yuanyi Li / 李沅镱 |
-|  | Group Dance: Wukong / 悟空 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
-|  | Hanfu Show: The Peach Blossom Beam / 桃之夭夭 | [OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/) |
-|  | Dance: Wild Goose — Mongolian Dance / 鸿雁 | Salem New Moon Dance Team |
-|  | Vocal & Dance: Dream Come True / 如愿 | Huayun Art Club / 华韵艺术社 |
-|  | Group Dance: Violet Dream Sprite / 紫梦精灵 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
-|  | Qipao Show: The Legend of the Qipao / 旗袍传奇 | Jingya Qipao Chapter, World Qipao Association |
-|  | Children Dance: Dunhuang Murals & Young Dan Role / 敦煌壁画 & 小花旦 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
-|  | Group Dance: Luojia in My Heart - Mongolian Dance / 心上的罗加 | Salem Golden Willow Chinese Dance Team |
-|  | Dulcimer & Guzheng: Singing Yangzhou in Mist and Rain / 烟雨唱扬州 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-|  | Group Dance: Dance of Youth / 青春舞曲 | Bluebell Dance Team |
-|  | Children Dance: Ode to the Goose / 咏鹅 | [Bolton Primary School](https://www.wlwv.k12.or.us/bolps) |
-|  | Group Dance: Endless Butterfly Dream / 蝶梦悠悠 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
-|  | Vocal Solo: Songs Soaring Over the Earth / 大地飞歌 | OCC Singing Social Group |
-|  | Group Dance: The Three Months of Spring / 春三月 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-|  | Family Performance: Song of the Hero / 好汉歌 | Community Family & Friend Group / 社区家庭亲友团 |
-|  | Hanfu Show: The Main Title Theme by David Bryne | [OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/) |
+| Program | Presented By |
+| --- | ---: |
+| **Section One: 11:00am-12:45pm** | |
+| Welcome Speech | MC |
+| Dance & Drumming: The Dearest Person | Huayun Art Club / 华韵艺术社 |
+| Instrumental performance: Fog To Clear | OCC Youth Group |
+| Rhythmic Dance: Female Quartet Dance Performance | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
+| Yang Style Taiji Group | Yang Style Taiji Group |
+| Group Dance: Tian Yu / 天浴 | [OCC Jade Dance Team](https://pdxchinese.org/youthdance/) |
+| Group Dance: Oil-Paper Umbrella / 油纸伞 | Vancouver Jasmine Dance Troupe / 温哥华苿莉花舞队 |
+| Senior Qipao Show: Beauty of Taihu / 太湖美 | MUM Senior Qipao Team |  
+| Violin Duet: The Birch Woods of My Hometown / 故乡的白桦树 | [WE Youth String Ensemble](https://www.thewaveelements.org/we-youth-string-ensemble) |
+| Group Dance: A Journey for Peace / 昭君出塞 | Portland Chinese Dance Troupe / 波特兰中国舞蹈团 |
+| Vocal Ensemble: You Rise Me Up | OCC Portland Harmonics |
+| Group Dance: Blossoms of Youth | [OCC Jade Dance Team](https://pdxchinese.org/youthdance/) |
+| Vocal & Cello XuanCaoHua / 萱草花 | Musication Studio |
+| Children Group Dance: Dunhuang Drum Music / 敦煌乐鼓 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
+| Group Rhythmic Gymnastics Performance | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
+| Flash Mob: By Lake Baikal / 贝尔加湖畔 | OCC Singing Group |
+| Section Two: 1:00pm-3:15pm | |
+| Group Chinese Drumming: Opening Drum & Dragon Boat Race / 赛龙夺锦 | [Hua Mu Lan Drum Team 花木兰大鼓队](https://pdxchinese.org/mulandrum/) |
+| Sword Dance Performance / 剑器行 | Alice Crumbleholme |
+| Group Dance: Meat and Veggie Combo / 一荤一素 | Portland Chinese Dance Troupe / 波特兰中国舞蹈团 |
+| Vocal: May our Loved Ones Live Long / 但愿人长久  | Chunxiang Singing Group / 李春香歌唱班 |
+| Children Dance:  Moana | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
+| Violin Solo: Evening Song of the Fishermen / 渔歌唱晚 | Erin Qiu |
+| Group Dance: Pretty Girl / 俏花旦 | [East Dream Dance Troupe 东方舞艺术团](http://www.eastdreamdance.org/index.html) |
+| Hanfu Dance Performance: Qing Ping Diao / 清平调 | [Northwest Chinese Alliance](https://nwchinesealliance.org/) 玫瑰游行舞队 |
+| Vocal Duet: Waves of Wheat in the Wind / 风吹麦浪 | Soundi Ensemble |
+| Children Dance: Blossoms in a Flourishing Age / 花开盛世 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
+| Senior Group Dance: Blossoms and Full Moon / 花好月圆 | Rose House Senior Dance Team |
+| Vocal Solo: Wait for Me / 等着我  | Chunxiang Singing Group / 李春香歌唱班 |
+| Group Dance: Moonlight in the City / 城里的月光 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
+| Chinese Rose Princess Fashion Show / 玫瑰公主模特表演| [Chinese Youth and Women Organization](https://yeswedoit.org/) |
+| Group Dance: Sweet April Rain / 四月的甘霖 | [East Dream Dance Troupe 东方舞艺术团](http://www.eastdreamdance.org/index.html) |
+| Children Dance: Raya | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
+| Vocal Solo with Chinese Instrumental Ensemble | Wisdom Arts Academy/Jerry Lin/Huanyue Group] |
+| Gu Zheng: A Song of Yangzhou in the Misty Rain | Wisdom Arts Academy |
+| K-Pop: Attention By New Jeans | Pink Valley |
+| Section Three: 3:30pm-6:00pm | |
+| Children Dance: Little Dai Girl / 傣族小姑娘 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
+| Group Dance: Gathering Vetch / 采薇 | [OCC Jade Dance Team](https://pdxchinese.org/youthdance/) |
+| Choir: Velvet Flowers & Crescent Moon / 绒花 & 弯弯的月亮 | Rose Harmony Choir / 玫瑰心悦合唱团 |
+| Dance: Whispers of the Lotus / 莲语 | [SODA Chinese Dance Academy](https://www.sodadance.com/) |
+| Dance: Dreamy Homeland – A Mongolian Dance / 醉乡 | Salem New Moon Dance Team |
+| Guzhen: If the Moon Hadn’t Come / 若是月亮没有来 | Lulu Guzheng Studio |
+| Group Dance: Ride the Wind, Break the Waves / 乘风破浪·扬帆起航 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
+| Group Dance: Yaliguna / 亚丽古娜 | Salem Golden Willow Chinese Dance Team |
+| Vocal Solo: Brightest Star in the Night Sky & Queen of Heaven / 夜空中最亮的星 & 天后 | Tingting Hou |
+| Group Dance: Bell Drum Performance / 上铃鼓 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+| Group Dance: Like Jennie | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
+| Guzheng: XiangWangXing | Yuanyi Li / 李沅镱 |
+| Group Dance: Wukong / 悟空 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
+| Hanfu Show: The Peach Blossom Beam / 桃之夭夭 | [OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/) |
+| Dance: Wild Goose — Mongolian Dance / 鸿雁 | Salem New Moon Dance Team |
+| Vocal & Dance: Dream Come True / 如愿 | Huayun Art Club / 华韵艺术社 |
+| Group Dance: Violet Dream Sprite / 紫梦精灵 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
+| Qipao Show: The Legend of the Qipao / 旗袍传奇 | Jingya Qipao Chapter, World Qipao Association |
+| Children Dance: Dunhuang Murals & Young Dan Role / 敦煌壁画 & 小花旦 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
+| Group Dance: Luojia in My Heart - Mongolian Dance / 心上的罗加 | Salem Golden Willow Chinese Dance Team |
+| Dulcimer & Guzheng: Singing Yangzhou in Mist and Rain / 烟雨唱扬州 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+| Group Dance: Dance of Youth / 青春舞曲 | Bluebell Dance Team |
+| Children Dance: Ode to the Goose / 咏鹅 | [Bolton Primary School](https://www.wlwv.k12.or.us/bolps) |
+| Group Dance: Endless Butterfly Dream / 蝶梦悠悠 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
+| Vocal Solo: Songs Soaring Over the Earth / 大地飞歌 | OCC Singing Social Group |
+| Group Dance: The Three Months of Spring / 春三月 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+| Family Performance: Song of the Hero / 好汉歌 | Community Family & Friend Group / 社区家庭亲友团 |
+| Hanfu Show: The Main Title Theme by David Bryne | [OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/) |
 
 Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms/d/e/1FAIpQLSc5yos8Fu1drLx8Tnq-Sq1241tdPUXUqjjb9Uc2BA-5MLdXQQ/viewform?vc=0&c=0&w=1&flr=0)  
 *About 500 performers on stage. Schedule is subject to change*  
