@@ -204,12 +204,13 @@ Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 ## Cultural Vendors
 
 >[Artful Lacquer Fan](https://youtube.com/shorts/JuamKCSM0Lo)  
+Custom Mugs - Personalized For You, by SPT Global Inc  
 [Lan Su Chinese Garden](https://lansugarden.org/)  
 [Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/)  
 Calligraphy Demo and Artworks available for Pay as You Wish, by Weili  
 [Winnie Chinese Dance](https://www.winniechinesedance.com/)  
 [YZ Dance Studio](https://www.yzdance.com/)  
-[The Zhang Clan Odyssey](https://www.mychinaroots.com/samples/zhang-odyssey/#1), by Raymond Chong  
+[The Zhang Clan Odyssey](https://www.mychinaroots.com/samples/zhang-odyssey/#1), by Raymond Chong   
 
 *some may only accept cash payment*
 
