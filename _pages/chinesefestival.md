@@ -112,7 +112,6 @@ Hanfu models wanted for Chinese Festival: [Sign-Up / 汉服模特报名表](http
 | Senior Group Dance: Blossoms and Full Moon / 花好月圆 | Rose House Senior Dance Team |
 | Vocal Solo: Wait for Me / 等着我  | Chunxiang Singing Group / 李春香歌唱班 |
 | Group Dance: Moonlight in the City / 城里的月光 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
-| Chinese Rose Princess Fashion Show / 玫瑰公主模特表演| [Chinese Youth and Women Organization](https://yeswedoit.org/) |
 | Group Dance: Sweet April Rain / 四月的甘霖 | [East Dream Dance Troupe 东方舞艺术团](http://www.eastdreamdance.org/index.html) |
 | Children Dance: Raya | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
 | Vocal Solo with Chinese Instrumental Ensemble | Wisdom Arts Academy/Jerry Lin/Huanyue Group] |
