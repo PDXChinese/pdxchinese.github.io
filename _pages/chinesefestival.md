@@ -200,10 +200,10 @@ Showcase the beauty of hanfu: [past event 1 ](https://youtu.be/R3EwAN2hVAA), [pa
 
 Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/forms/d/e/1FAIpQLScNIqSmssHqhImF418NzsPW9pkB6LgZCFcqTLncuInSuZ38CA/viewform)  
 
-## Cultural Vendors
+## Cultural Arts & Crafts Vendors
 
->[Artful Lacquer Fan / 随艺手工](https://youtube.com/shorts/JuamKCSM0Lo)  
-Calligraphy Demo and Artworks available for You to Purchase, by Weili  
+>[Artful Lacquer Fan / 随艺手工](https://youtube.com/shorts/JuamKCSM0Lo), by Junchao & Carolina   
+Calligraphy Demo and Artworks available for Purchase, by Weili  
 [Custom Mugs](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/festival_mug) - Personalized for You, by SPT Global Inc  
 [Lan Su Chinese Garden](https://lansugarden.org/)  
 [OCC Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
