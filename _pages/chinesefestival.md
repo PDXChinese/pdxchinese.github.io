@@ -202,9 +202,9 @@ Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 
 ## Cultural Vendors
 
->[Artful Lacquer Fan](https://youtube.com/shorts/JuamKCSM0Lo)  
-Calligraphy Demo and Artworks available for Pay as You Wish, by Weili  
-Custom Mugs - Personalized For You, by SPT Global Inc  
+>[Artful Lacquer Fan / 随艺手工](https://youtube.com/shorts/JuamKCSM0Lo)  
+Calligraphy Demo and Artworks available for You to Purchase, by Weili  
+[Custom Mugs](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/festival_mug) - Personalized for You, by SPT Global Inc  
 [Lan Su Chinese Garden](https://lansugarden.org/)  
 [OCC Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
 [Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/)  
