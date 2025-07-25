@@ -15,6 +15,7 @@ feature_row03:
 feature_row04:    
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/odot1
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pcs-logo-s
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/sharetealo
 feature_row1c:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Noah_Von_Dem_Bruch
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Noah_Von_Dem_Bruch/'>Noah Von Dem Bruch</a></p>"
