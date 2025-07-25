@@ -160,7 +160,9 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 | [Mandarin House 京华楼](https://www.mandarinhouse97204.com/) | Barbecued Pork Buns, Steamed Dumplings, Spring Rolls |
 | Noodle Point | Barbecue Grill and Griddle |
 | [Red Robe Tea House & Cafe 大红袍](https://www.redrobeteahouse.com/) | Sichuan Noodle, Chicken Wings, Spring Rolls, Bubble Tea, Tea |
+| [ShareTea at Lake Oswego](https://www.facebook.com/p/Sharetea-Lake-Oswego-100063076607548/) | Variety of Boba Tea |
 | [TeaCha.T](https://teachatpdx.square.site/) | Immersing in Tea Culture and Savoring Artisanal Brews |
+
 
 ## Hands-on Traditional Crafts
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/crafts_activity)
@@ -244,6 +246,7 @@ Calligraphy Demo and Artworks available for Purchase, by Weili
 ### Friend of Festival  
 [Oregon Department of Transportation](https://www.oregon.gov/ODOT/)  
 [Pioneer Courthouse Square](https://www.thesquarepdx.org/)  
+[ShareTea at Lake Oswego](https://www.facebook.com/p/Sharetea-Lake-Oswego-100063076607548/)  
 
 ## Giveaways
 
