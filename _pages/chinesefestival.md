@@ -246,7 +246,7 @@ Custom Mugs - Personalized For You, by SPT Global Inc
 
 ## Giveaways
 
->1.[Columbia employee store pass](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/columbia_pass) thanks to the generosity of [Columbia Sportswear Company](https://www.columbia.com/)  
+>1.[Columbia employee store pass](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/columbia_pass1) thanks to the generosity of [Columbia Sportswear Company](https://www.columbia.com/)  
 2.Happy Birthday Yard Letters with Stakes ([sample image](https://imprint.com/shop/products/pre-packaged-happy-birthday-yard-letters?cHadre2r=HU6uspaH&gsc=Green)) for those whose birthdays fall into that week (8/2-8/9).  
 3.Chinese literature
 
