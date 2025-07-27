@@ -29,6 +29,8 @@ feature_row1a:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Noah_Von_Dem_Bruch/'>Jane Qu</a></p>"
 ---
 
+### [FOR IMMEDIATE RELEASE](/assets/pdf/Press_Release_for_2025_Chinese_Festival.pdf)
+
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/festival_2025)
 
 >We are committed to downtown Portland for our biggest cultural event in the Chinese American community. Just as we will not give up on Chinatown with its rich heritage, we will be here when Portland needs us the most to help restore the vibrant life we were once proud of.
