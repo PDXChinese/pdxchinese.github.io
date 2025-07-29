@@ -26,6 +26,8 @@ Oregon Encyclopedia: [link](https://oregonencyclopedia.org/articles/chinese_amer
 
 Archived historical documents and photographs: [link](https://efiles.portlandoregon.gov/Record?q=recAnyWord%3Achinese&sortBy=recCreatedOn&pagesize=100&filter=electronic ) by City of Portland Archives & Records Center
 
+The first Chinese American woman to fly for the US military: Hazel Ying Lee：[OPB](https://youtu.be/vCuUdyRGEus)
+
 The Zhang Clan Odyssey: [link](https://www.mychinaroots.com/samples/zhang-odyssey/#1) and The Zhang Clan Odyssey on Gold Mountain: [link]({{ site.url }}/assets/pdf/zhang_clan_odyssey.pdf) by Raymond Douglas Chong (Zhang Weiming)
 
 Jue Joe Clan History: [link](https://youtu.be/y7x27zIj9-0), Soo Yin's Presentation on San Tong Jue's Life Story
