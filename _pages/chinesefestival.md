@@ -134,7 +134,7 @@ Hanfu models wanted for Chinese Festival: [Sign-Up / 汉服模特报名表](http
 | Group Dance: Bell Drum Performance / 上铃鼓 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
 | Group Dance: Like Jennie | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
 | Guzheng: XiangWangXing / 象王行 | Yuanyi Li / 李沅镱 |
-| Group Dance: Wukong / 悟空 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
+| Group Dance: Wukong / 悟空 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
 | Hanfu Show: The Peach Blossom Beam / 桃之夭夭 | [OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/) |
 | Dance: Wild Goose — Mongolian Dance / 鸿雁 | Salem New Moon Dance Team |
 | Vocal & Dance: Dream Come True / 如愿 | Huayun Art Club / 华韵艺术社 |
