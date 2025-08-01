@@ -15,7 +15,6 @@ feature_row03:
 feature_row04:    
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/odot1
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pcs-logo-s
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/sharetealo
 feature_row1c:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Noah_Von_Dem_Bruch
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Noah_Von_Dem_Bruch/'>Noah Von Dem Bruch</a></p>"
@@ -165,7 +164,6 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 | [Mandarin House 京华楼](https://www.mandarinhouse97204.com/) | Barbecued Pork Buns, Steamed Dumplings, Spring Rolls |
 | Noodle Point | Barbecue Grill and Griddle |
 | [Red Robe Tea House & Cafe 大红袍](https://www.redrobeteahouse.com/) | Sichuan Noodle, Chicken Wings, Spring Rolls, Bubble Tea, Tea |
-| [ShareTea at Lake Oswego](https://www.facebook.com/p/Sharetea-Lake-Oswego-100063076607548/) | Variety of Boba Tea |
 | [TeaCha.T](https://teachatpdx.square.site/) | Immersing in Tea Culture and Savoring Artisanal Brews |
 
 
@@ -251,7 +249,6 @@ Calligraphy Demo and Artworks available for Purchase, by Weili
 ### Friend of Festival  
 [Oregon Department of Transportation](https://www.oregon.gov/ODOT/)  
 [Pioneer Courthouse Square](https://www.thesquarepdx.org/)  
-[ShareTea at Lake Oswego](https://www.facebook.com/p/Sharetea-Lake-Oswego-100063076607548/)  
 
 ## Giveaways
 
