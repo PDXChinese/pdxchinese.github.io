@@ -69,15 +69,15 @@ Parking: [Fox Tower $8](https://maps.app.goo.gl/FtZk9VDZJcV8j6er6) and [SmartPar
 
 ## Masters of Ceremony
 
-### Section I (11am-1pm)
+### Section One (11am-1pm)
 
 {% include feature_row id="feature_row1a"%}  
 
-### Section I (1pm-3pm)
+### Section Two (1pm-3pm)
 
 {% include feature_row id="feature_row1b"%}  
 
-### Section I (3pm-6pm)
+### Section Three (3pm-6pm)
 
 {% include feature_row id="feature_row1c"%}  
 
