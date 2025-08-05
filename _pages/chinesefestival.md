@@ -27,6 +27,8 @@ feature_row1a:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Zhi_Qu
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Noah_Von_Dem_Bruch/'>Jane Qu</a></p>"
 ---
+# See you on August 1, 2026  
+*Held annually on the first Saturday of August*
 
 ### [FOR IMMEDIATE RELEASE](/assets/pdf/Press_Release_for_2025_Chinese_Festival.pdf)
 
