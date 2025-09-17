@@ -1,3 +1,3 @@
 ---
-title: "Artifacts at Wong Laundry"
+title: "Artifacts at Wong's Laundry"
 ---
