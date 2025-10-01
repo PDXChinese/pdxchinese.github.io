@@ -17,7 +17,7 @@ date: "2025-09-29"
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/556097814_785593857439032_209352857975628871_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/556543279_785593794105705_5366207437977482911_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/556011467_787367150595036_8884358520745604831_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/556097541_785593727439045_7041158875595342595_n)
 
