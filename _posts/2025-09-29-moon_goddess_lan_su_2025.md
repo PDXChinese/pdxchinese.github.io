@@ -15,6 +15,8 @@ date: "2025-09-29"
 
 9/29/2025 看着窗外的天气，不得不说，这个timing再好不过了，对于中秋嫦娥与汉语角最后一次活动来说。又一个季节就这样画上句号，多少还有点伤感。感谢所有参与和支持兰苏园各类活动的义工和家属们，正因为有了大家，兰苏园才不会成为一座孤岛。无数游客，无论来自何方，都在这里感受到了中华文化的独特魅力。因为我们始终在一起努力，我们本身就在创造着一个美丽的神话。
 
+<iframe width="1707" height="960" src="https://www.youtube.com/embed/QPhAENEzZ5I" title="Moon Goddess (嫦娥) at Lan Su Chinese Garden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/556097814_785593857439032_209352857975628871_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/556011467_787367150595036_8884358520745604831_n)
