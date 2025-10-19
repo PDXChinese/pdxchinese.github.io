@@ -9,6 +9,8 @@ We come together, serving our community where we raise our families, helping tho
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
+>Before PVSA resumes, OCC has decided to present the **Community Volunteer Service Award** — previously the PVSA Equivalent Award for Non-Resident Volunteers — to all volunteers. We will follow the same timeline, standards, and procedures as the PVSA certification process. The application will be available approximately one week after the end of the current cycle (October 27 through October 26).
+
 {% include feature_row id="feature_row1"%}
 
 # President's Volunteer Service Award (PVSA)
@@ -37,7 +39,7 @@ Many students and parents inquire about volunteer opportunities. We encourage yo
 
 We use WeChat groups. Each group can have up to 500 people. We post regularly in 30 such groups, half of which are monitored by OCC. Unfortunately, all conversations in those groups are in (simplified) Chinese.
 
-For volunteer activities, the main place to organize is 《OCC Active 义工群》. Because it is always full, we also post the info in the other two WeChat groups: 《OCC华人社区公益一群》 and 《OCC华人社区公益二群》，the latter has not yet reached the 500 people limit.
+For volunteer activities, the main place to organize is 《OCC Active 义工群(一群)》and 《OCC Active 义工群(二群)》. Because it is always full, we also post the info in the other two WeChat groups: 《OCC华人社区公益一群》 and 《OCC华人社区公益二群》，the latter has not yet reached the 500 people limit.
 
 We also have a few special WeChat groups for specific volunteer activities, including two active groups:《兰苏园之友群》和《OCC庇护所晚餐群》。
 
