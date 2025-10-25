@@ -24,8 +24,8 @@ feature_row:
 
 <p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/winter_drive_banner"></p>  
 
-# 2024 Community Winter Drive  
-**Date:** November 24, 2024 Sunday, 1:00 pm - 4:00 pm  
+# 2025 Community Winter Drive  
+**Date:** November 23, 2025 Sunday, 1:00 pm - 4:00 pm  
 **Place:** Multiple locations across State of Oregon  
 **Register** To join, please **[register here](https://docs.google.com/forms/d/e/1FAIpQLSdrA8gtPEE5_7kHLy67J5aQJpBaAxnMR-nlSZLc9KiupzaE_A/viewform?usp=sf_link)**.  
 
@@ -33,7 +33,7 @@ feature_row:
 <br>
 {% include feature_row id="feature_row"%}
 
-## Student Volunteers
+## 2024 Student Volunteers
 
 | Name/Drop Off Location | School/Organization |
 | --- | --- |
