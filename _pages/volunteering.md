@@ -17,7 +17,7 @@ We come together, serving our community where we raise our families, helping tho
 
 OCC has been approved as an official Certifying Organization for The President's Volunteer Service Award. We encourage community members, especially youth, to get involved in all the volunteer activities by taking advantage of this platform.
 
-To be qualified as a volunteer for PVSA awards under OCC, you will have to (1) meet the [requirements by PVSA](https://presidentialserviceawards.gov/eligibility) **AND** (2) fill out and sign OCC's [PVSA Application Information Form](https://docs.google.com/forms/d/e/1FAIpQLSenQAweeMl8y-07BPFxyz1VfMfD4M6bWOIpJxAoz6_F_iYhwA/viewform?usp=sf_link).
+To be qualified as a volunteer for PVSA awards under OCC, you will have to (1) meet the [requirements by PVSA](https://presidentialserviceawards.gov/eligibility) **AND** (2) fill out and sign OCC's [PVSA/CVSA Application Information Form](https://docs.google.com/forms/d/e/1FAIpQLSenQAweeMl8y-07BPFxyz1VfMfD4M6bWOIpJxAoz6_F_iYhwA/viewform?usp=sf_link).
 
 You will be responsible for recording hours after each volunteer activity. Also please keep the volunteer hour logs for future verification. OCC provides you an [hour log sheet](/assets/pdf/volunteer_hour_log_sheet.pdf) for your convenience.
 
