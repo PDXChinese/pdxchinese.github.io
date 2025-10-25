@@ -39,3 +39,27 @@ We remain committed to ensuring that Wong’s Laundry stays in the hands of Chin
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/548155997_775980261733725_3185708128904726016_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/548399185_775980598400358_475145106636260711_n)
+
+By pooling together the wisdom of stakeholders and artists alike, we decided on the color combination shown in the pictures. The fresh paint has brought a sense of calm and new life to this part of Chinatown.
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/566211315_803769072288177_2158412305861722361_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/568150650_803769085621509_2524626444861744188_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/566216516_803769088954842_6631884748272109262_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/568461253_803768802288204_8047156735675271126_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/567667748_803768902288194_5012759945153884540_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/565156831_803768875621530_1011054731205928510_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/567712168_803768825621535_4360618123522289062_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/565140278_803768852288199_9050130231410805685_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/558447234_803769178954833_6170704209496498168_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/565787821_803768872288197_1875530325647771546_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/565668014_803768912288193_3226311790377348513_n)
