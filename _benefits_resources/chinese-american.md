@@ -44,6 +44,10 @@ Mass murderer honored in courthouse monument: [link](https://www.offbeatoregon.c
 
 More Than Hatchetmen: Chinese Exclusion and Tong Wars in Portland, Oregon: [link](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=8804&context=etd)
 
+To Know Old Town’s Past Is to Hope for Its Future: [link](https://www.pdxmonthly.com/news-and-city-life/2025/04/old-town-history-nihonmachi-portland)
+
+Portland Chinatown, 1886: [link](https://www.oregonhistoryproject.org/articles/historical-records/portland-chinatown-1886/)
+
 Bronze Plaques in Portland Chinatown – [Walking Tour Visual Guide](/assets/pdf/plaques_walking_tour_ho.pdf) © Suenn Ho
 
 Special issue of OHQ on Chinese Diaspora in Oregon: [link](https://www.ohs.org/oregon-historical-quarterly/back-issues/winter-2021.cfm) and Oregon Chinese Diaspora Project: [link](https://oregon-chinese-diaspora-project-sou.hub.arcgis.com/)
