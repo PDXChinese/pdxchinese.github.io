@@ -112,3 +112,5 @@ date: "2025-09-29"
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/556343555_786993963965688_5347460782332025208_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/555982874_787272507271167_3530878210761977814_n)
+
+<iframe width="1707" height="960" src="https://www.youtube.com/embed/QPhAENEzZ5I" title="Moon Goddess (嫦娥) at Lan Su Chinese Garden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
