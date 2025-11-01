@@ -1,6 +1,5 @@
 ---
 title: " "
-permalink: /chinesefestival/
 feature_row01:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/Portland_Winterhawks3
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/mult_county_nf2iqzgmnapl3uxgfock
