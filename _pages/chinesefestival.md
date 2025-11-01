@@ -270,6 +270,10 @@ Calligraphy Demo and Artworks available for Purchase, by Weili
 **2021:** [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2021/), [KOIN Interview](https://youtu.be/oPKL9vPTH3c), [Photo Album](https://pdxchinese.org/chinese-festival-2021/)  
 **2019:** [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2019/), [KGW Interview](https://www.kgw.com/video/life/first-ever-pdx-chinese-festival-on-the-square/283-21872975-6fee-4122-83d1-a83449b083f5), [Photo Album](http://pdxchinese.org/chinese-festival-2019/), [Festival Slides](https://youtu.be/hOMUih0WrLQ)  
 
+<iframe width="1707" height="960" src="https://www.youtube.com/embed/DNZdWrj3-e8" title="2025 Chinese Festival: Memorable Moments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
 <iframe width="1708" height="960" src="https://www.youtube.com/embed/4Hv399J4fVA" title="2024 Chinese Festival Stage Performances" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
