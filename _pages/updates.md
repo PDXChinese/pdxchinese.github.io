@@ -10,33 +10,25 @@ permalink: /updates/
 # <code style="color:brown">年度活动/Annual Events</code>
 
 
-### August
-
-### [华人文化节/Chinese Festival](https://pdxchinese.org/chinesefestival/)
-
-Date: August 2, 2025, 11am - 6pm (1st Saturday in August)  
-Place: Pioneer Courthouse Square, Portland, Oregon  
-No Registration Required, Free Admission, Open to Public  
-
 ### October
 
-### [总统义工奖认证/PVSA Certification](https://pdxchinese.org/volunteering/)
+### [总统/社区义工奖认证/PVSA/CVSA Certification](https://pdxchinese.org/volunteering/)
 
 Date: October 27 - November 26  
-[PVSA Application Information Form](https://docs.google.com/forms/d/e/1FAIpQLSe_klKsKdkk6Ag1R8JYBFvlu8XSMtgWVNTTW6C0E5OYdYhplQ/viewform?usp=sf_link)  
+[PVSA/CVSA Application Information Form](https://docs.google.com/forms/d/e/1FAIpQLSe_klKsKdkk6Ag1R8JYBFvlu8XSMtgWVNTTW6C0E5OYdYhplQ/viewform?usp=sf_link)  
 
 ### November
 
 ### [冬季募捐活动/Winter Drive](https://pdxchinese.org/winterdrive/)
 
-Date: Nov 24, 2024 (Sunday before the Thanksgiving)  
+Date: Nov 23, 2025 (Sunday before the Thanksgiving)  
 To join, please **[register here](https://docs.google.com/forms/d/e/1FAIpQLSdrA8gtPEE5_7kHLy67J5aQJpBaAxnMR-nlSZLc9KiupzaE_A/viewform?usp=sf_link)**.  
 
 ### December
 
 ### [青少年圆桌会/Youth Roundtable](https://pdxchinese.org/youthroundtable/)
 
-Date: Dec 29, 2025 1pm-5pm  
+Date: Dec 27, 2025, 1pm-5pm (Saturday before the New Year)  
 Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_mgEl-2QBBaTOLoIwdgKmCw3K9CXkgN2Kg/viewform?usp=sf_link)  
 
 ### January
@@ -52,9 +44,9 @@ Chinese/Lunar New Year Celebrations
 
 ### March
 
-### [2025 健康博览会/Health Fair](https://pdxchinese.org/healthfair/)
+### [2026 健康博览会/Health Fair](https://pdxchinese.org/healthfair/)
 
-Date: March 15, 2025 Saturday, 11pm-3pm  
+Date: March 14, 2026 Saturday, 11pm-3pm  
 Place: Embassy Suite, Hilton Hotel at Washington Square  
 
 ### May
@@ -79,9 +71,17 @@ Place: Hope Chinese Charter School ([3500 SW 104th Ave, Beaverton, OR 97005](htt
 Register To join, please [register here](https://docs.google.com/forms/d/e/1FAIpQLSeSSDTPGiyHgZ2CmYjjpXz7SlZvqoqpYTIdMOnCIHzdFsBRZA/viewform?usp=sf_link)  
 Please help recommend distinguished speakers  
 
+### August
+
+### [华人文化节/Chinese Festival](https://pdxchinese.org/chinesefestival/)
+
+Date: August 1, 2026, 11am - 6pm (1st Saturday in August)  
+Place: Pioneer Courthouse Square, Portland, Oregon  
+No Registration Required, Free Admission, Open to Public  
+
 ### External: [阿炳樱桃迎新年活动/Bing in the New Year](https://binginthenewyear.com/)
 
-Date: Dec. 31, 2024 Tuesday 6pm-9pm  
+Date: Dec. 31, 2025 Tuesday 6pm-9pm  
 Place: [Main & Harrison](https://www.google.com/maps/place/Milwaukie+Farmers+Market/@45.4461942,-122.6424757,940m/data=!3m1!1e3!4m6!3m5!1s0x5495752817996c89:0xcce8379d6bb9ef18!8m2!3d45.4453436!4d-122.6416154!16s%2Fg%2F11dybsh7j7?entry=ttu&g_ep=EgoyMDI0MTAyNy4wIKXMDSoASAFQAw%3D%3D) (site of the Milwaukie Farmers Market)  
 Volunteer/Performer/Donor [Signup Form](https://docs.google.com/forms/d/e/1FAIpQLSdt7Ww7VS1Suvib3OE9EMueoZqlyB2OXqps684yi367wnp8-Q/viewform?usp=sf_link)  
 
