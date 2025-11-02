@@ -13,6 +13,10 @@ date: "2025-05-31"
 
 这次中国城活动的成功来自于全社区的支持与参与，这也说明这些年我们关注的身份认同和社区归属感显然取得了成效。在演出节目中有一个手语舞，名字就叫《我们是一家人》，很好表达了我们的这一心情。看参加演出人群中，年龄跨度大，有姐妹，有母女，有父子，有社区几个团队的成员，更有刚刚移民来的孩子们。背景歌声全部来自社区成员，录制合成则是高中生鱼儿完成。在陈曦老师的指导下，经过几个月的努力，终于有了专属OCC的版本。我们很希望社区的每个人都能哼唱几句，在8月份的文化节现场我们能有一个百人大合唱。陈曦老师每个周六10-12点会在Hope Chinese Charter School《OCC歌友会》活动上继续教授大家。
 
+<iframe width="1707" height="960" src="https://www.youtube.com/embed/VAnXMMKF-Vg" title="2025 Return of the Dragon Festival in Portland Chinatown" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/573100525_812429448088806_4315751516303515465_n.jpg))
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/571342996_812428901422194_1481004768577900913_n.jpg)
@@ -288,8 +292,6 @@ date: "2025-05-31"
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/573877879_812436321421452_7242265647049227032_n.jpg)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/571408041_812436291421455_4310851755465860250_n.jpg)
-
-<iframe width="1707" height="960" src="https://www.youtube.com/embed/VAnXMMKF-Vg" title="2025 Return of the Dragon Festival in Portland Chinatown" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 3/22/2025
 
