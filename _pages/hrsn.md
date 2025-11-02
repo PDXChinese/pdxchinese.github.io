@@ -94,7 +94,7 @@ PacificSource Community Solutions [Housing Request Form](https://uniteus.com/net
 
 **问：**什么是协调服务组织？
 
-**答：**英文是 Coordinated Care Organization (CCO)，ChatGPT翻译成“协调式医疗组织”，州政府翻译成“协调护理组织”，是俄勒冈州的一种区域医疗网络，为「俄勒冈健康计划」（Oregon Health Plan, OHP），也就是Medicaid，成员提供整合性的医疗服务，包括身体健康、心理健康和牙科护理。其目标是通过协调资源来提升医疗质量、降低成本，并改善社区整体健康状况。这个是俄勒冈的一大创举，开始于2012年。现在有16家，每一家可以是专门服务OHP会员的，如Care Oregon，也可以是非营利性保险公司，如PacificSource。下面是CCO负责的区域。
+**答：**英文是 Coordinated Care Organization (CCO)，ChatGPT翻译成“协调式医疗组织”，州政府翻译成“协调护理组织”，是俄勒冈州的一种区域医疗网络，为「俄勒冈健康计划」（Oregon Health Plan, OHP），也就是Medicaid，成员提供整合性的医疗服务，包括身体健康、心理健康和牙科护理。其目标是通过协调资源来提升医疗质量、降低成本，并改善社区整体健康状况。这个是俄勒冈的一大创举，开始于2012年。现在有16家，每一家可以是专门服务OHP会员的，如Care Oregon，也可以是非营利性保险公司，如PacificSource。下面是CCO各自负责的区域
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/cco_map.jpg)
 
@@ -102,6 +102,6 @@ PacificSource Community Solutions [Housing Request Form](https://uniteus.com/net
 
 **答：**HRSN（健康相关社会需求）项目是俄勒冈州旨在解决显著影响健康的社会因素的计划，例如住房、食物安全、交通和水电费用等。通过提供这些方面的支持，HRSN帮助OHP成员保持生活稳定并改善整体健康状况。
 
-该项目在 俄勒冈州 1115 节 Medicaid 豁免（Section 1115 Medicaid Waiver） 下运行，该豁免允许州政府使用联邦 Medicaid 资金开展创新服务，超越传统医疗服务。通过此豁免，俄勒冈州可以投资于影响健康的社会决定因素，从源头上解决住房不稳定或食物保障等问题，从而降低长期医疗成本并提高生活质量。
+该项目在 俄勒冈州 1115 节 Medicaid 豁免（Section 1115 Medicaid Waiver） 下运行，该豁免允许州政府使用联邦 Medicaid 资金开展创新服务，超越传统医疗服务。通过此豁免，俄勒冈州可以投资于影响健康的社会决定因素，从源头上解决住房不稳定或食物保障等问题，从而降低长期医疗成本并提高生活质量。每次豁免是5年期限，现在是2022-2027年。
 
-HRSN服务通过协调服务组织（CCO） 协调实施，这些组织评估成员需求，提供文化适宜的支持，并确保符合条件的个人能够有效获得相关社会服务。这些服务一大部分，如联系房东和索取房租协议等文件等，通常通过特定组织来完成的，这些组织称作是 Housing Providers，即房屋补贴提供组织，OCC就是其中一个。
+HRSN服务通过协调服务组织（CCO） 协调实施，这些组织评估成员需求，提供文化适宜的支持，并确保符合条件的个人能够有效获得相关社会服务。这些服务一大部分，如联系房东和索取房租协议等文件等，通常通过特定组织来完成的，这些组织称作是 Housing Providers，即房屋补贴提供组织，OCC就是其中一个。OCC并不没有和所有CCO签订协议，如果您没有在OCC可以服务的区域，可以直接联系您所在地的CCO。
