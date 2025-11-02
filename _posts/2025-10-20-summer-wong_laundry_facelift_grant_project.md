@@ -1,13 +1,13 @@
 ---
-title: "黄氏洗衣店立面终于得以修复"
+title: "王氏洗衣店立面终于得以修复"
 author: XiBei Zhao
-excerpt: "在 Prosper Portland 的大力支持下，饱经风霜的黄氏洗衣店门窗终于得以修复。曾因附近街道上受困于成瘾与精神病痛的人群而屡遭破坏，如今，它们再次挺立——更坚固、更安全，也更忠于这栋建筑原本的气韵。工程中不仅更换了原先易碎的非钢化玻璃，也加固了难以抵御风雨的窗框。黄氏洗衣店不仅是砖瓦与木梁的组合，更是华裔先民在此辛勤劳作、追梦与扎根的生命记忆。我们将坚定守护，使它的故事得以世代传承，继续在华人社区与城市历史中留声。"
+excerpt: "在 Prosper Portland 的大力支持下，饱经风霜的王氏洗衣店门窗终于得以修复。曾因附近街道上受困于成瘾与精神病痛的人群而屡遭破坏，如今，它们再次挺立——更坚固、更安全，也更忠于这栋建筑原本的气韵。工程中不仅更换了原先易碎的非钢化玻璃，也加固了难以抵御风雨的窗框。黄氏洗衣店不仅是砖瓦与木梁的组合，更是华裔先民在此辛勤劳作、追梦与扎根的生命记忆。我们将坚定守护，使它的故事得以世代传承，继续在华人社区与城市历史中留声。"
 date: "2025-10-20"
 ---
 
-在 Prosper Portland 的大力支持下，饱经风霜的黄氏洗衣店（Wong's Laundry）门窗终于得以修复。曾因附近街道上受困于成瘾与精神病痛的人群而屡遭破坏，如今，它们再次挺立 — 更坚固、更安全，也更忠于这栋建筑原本的气韵。工程中不仅更换了原先易碎的非钢化玻璃，也加固了难以抵御风雨的窗框。
+在 Prosper Portland 的大力支持下，饱经风霜的王氏洗衣店（Wong's Laundry）门窗终于得以修复。曾因附近街道上受困于成瘾与精神病痛的人群而屡遭破坏，如今，它们再次挺立 — 更坚固、更安全，也更忠于这栋建筑原本的气韵。工程中不仅更换了原先易碎的非钢化玻璃，也加固了难以抵御风雨的窗框。
 
-黄氏洗衣店不仅是砖瓦与木梁的组合，更是华裔先民在此辛勤劳作、追梦与扎根的生命记忆。我们将坚定守护，使它的故事得以世代传承，继续在华人社区与城市历史中留声。
+王氏洗衣店不仅是砖瓦与木梁的组合，更是华裔先民在此辛勤劳作、追梦与扎根的生命记忆。我们将坚定守护，使它的故事得以世代传承，继续在华人社区与城市历史中留声。
 
 With support from Prosper Portland, we were able to repair the damaged doors and windows of Wong’s Laundry building, which had endured repeated breakages caused by individuals with drug addiction and mental illness often lingering nearby. The work also addressed some structural issues, such as the use of non-tempered glass and insufficient waterproof framing.
 
