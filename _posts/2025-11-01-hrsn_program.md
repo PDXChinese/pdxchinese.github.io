@@ -13,4 +13,4 @@ OCC 已经或正与 Health Share of Oregon、Trillium Community Health Plan 和 
 
 OCC 刚刚设立了该项目的**[网页](https://pdxchinese.org/hrsn/)**，详细介绍符合资格的标准、申请流程、服务区域及其他紧急援助资源。无论正面临住房危机，还是需要了解相关资源，我们都愿为有需要且符合条件的社区成员提供最贴心、最专业的支持。
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/cco_map)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/cco_map.jpg)
