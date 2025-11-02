@@ -3,7 +3,7 @@ title: "健康相关社会需求（HRSN）项目"
 permalink: /hrsn/
 ---
 
-We help individuals and families who qualify for Oregon Medicaid’s **Health-Related Social Needs (HRSN)** program stay in safe, stable housing. If you live in Multnomah, Washington, Clackamas, Marion, Polk, or Lane County, our team is here to support you.
+We help individuals and families who qualify for Oregon Medicaid’s [**Health-Related Social Needs (HRSN)** program](https://www.oregon.gov/oha/hsd/medicaid-policy/pages/hrsn.aspx) stay in safe, stable housing. If you live in Multnomah, Washington, Clackamas, Marion, Polk, or Lane County, our team is here to support you.
 Our services are designed to honor your cultural background and meet your unique needs. We offer:
 
 >Friendly outreach and engagement  
@@ -64,7 +64,7 @@ PacificSource Community Solutions [Housing Request Form](https://uniteus.com/net
 
 俄勒冈州水电费援助: [Oregon.org/find-help](Oregon.org/find-help)
 
-### 请使用以下 OHP 会员 ID 卡样本来识别您的 OHP 协调服务组织。
+### 请使用以下 OHP 会员 ID 卡样本来识别您的 OHP 协调服务组织
 
 **HealthShare of Oregon** (服务区域: Multnomah、Washington、Clackamas 县)
 
