@@ -1,9 +1,9 @@
 ---
-title: "健康相关社会需求”（HRSN）项目"
+title: "健康相关社会需求（HRSN）项目"
 permalink: /hrsn/
 ---
 
-We help individuals and families who qualify for Oregon Medicaid’s Health-Related Social Needs (HRSN) program stay in safe, stable housing. If you live in Multnomah, Washington, Clackamas, Marion, Polk, or Lane County, our team is here to support you.
+We help individuals and families who qualify for Oregon Medicaid’s **Health-Related Social Needs (HRSN)** program stay in safe, stable housing. If you live in Multnomah, Washington, Clackamas, Marion, Polk, or Lane County, our team is here to support you.
 Our services are designed to honor your cultural background and meet your unique needs. We offer:
 
 >Friendly outreach and engagement  
@@ -13,7 +13,7 @@ Ongoing case management to stay housed and connected
 
 Whether you're facing a housing crisis or need help navigating resources, we’re here to walk alongside you.
 
-我们为符合俄勒冈州医疗补助计划中“健康相关社会需求”（HRSN）项目资格的个人和家庭提供住房支持，帮助您住在安全、稳定的住所中。如果您居住在Multnomah、Washington、Clackamas、Marion、Polk或Lane县，我们的团队随时为您提供帮助。
+我们为符合俄勒冈州医疗补助计划中**“健康相关社会需求”（HRSN）**项目资格的个人和家庭提供住房支持，帮助您住在安全、稳定的住所中。如果您居住在Multnomah、Washington、Clackamas、Marion、Polk或Lane县，我们的团队随时为您提供帮助。
 
 我们的服务尊重您的文化背景，并根据您的具体需求量身定制。我们提供：
 
