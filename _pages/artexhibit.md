@@ -13,6 +13,10 @@ permalink: /artexhibit/
 
 报名表：[点击这里](https://docs.google.com/forms/d/e/1FAIpQLSeMc3aVAPV5BkmZ8BThHhvHHEYnbNHy1B9YQCgxxiWcpAGoZQ/viewform?usp=sf_link)  
 
+### 2025 Art Show Highlight
+
+Please scroll down to the very end of the [page](https://pdxchinese.org/return_of_the_dragon_recap_2025/)
+
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/artshow2024)
