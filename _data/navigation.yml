@@ -30,6 +30,8 @@ extra:
         url: /vote_matters/
       - title: "Health Initiative"
         url: /healthinitiative/
+      - title: "HRSN Program"
+        url: /hrsn/
       - title: "Meal Provider"
         url: /mealprovider/
       - title: "Oral History"
