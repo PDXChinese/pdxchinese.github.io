@@ -27,17 +27,17 @@ Whether you're facing a housing crisis or need help navigating resources, we’r
 
 ### 要符合福利资格，您必须满足以下所有条件:
 
->必须是 俄勒冈健康计划 (OHP) 当前的会员。  
-无法通过任何其他途径获得帮助。  
-具有符合资格条件的医疗需求。  
-具有符合资格条件的生活状况。  
-必须提供申请所需的所有文件。  
+>必须是 俄勒冈健康计划 (OHP) 当前的会员  
+无法通过任何其他途径获得帮助  
+具有符合资格条件的医疗需求  
+具有符合资格条件的生活状况  
+必须提供申请所需的所有文件  
 
 ### 如果您居住在Multnomah、Washington、Clackamas、Marion、Polk或Lane县，请参考以下申请流程：
 
-1. 请使用本指南来确认您的俄勒冈健康计划（OHP）协调服务组织（或译为协调护理组织）。  
-2. 了解您是否可能符合健康相关社会需求（HRSN）项目的资格。  
-3. 如果您认为自己可能符合条件，请向您的 OHP 协调服务组织填写住房支持申请表。  
+1. 请使用本指南来确认您的俄勒冈健康计划（OHP）协调服务组织（或译为协调护理组织）  
+2. 了解您是否可能符合健康相关社会需求（HRSN）项目的资格  
+3. 如果您认为自己可能符合条件，请向您的 OHP 协调服务组织填写住房支持申请表  
 >>Healthshare of Oregon [Housing Request Form](https://careoregon.org/docs/default-source/members/hrs/hrsn/hrsn-housing-request-form.pdf?sfvrsn=3f6ca54e_6)  
 Trillium Community Health Plan [Housing Request Form](https://uniteus.com/networks/oregon/get-help/trilliumchphrsn)  
 PacificSource Community Solutions [Housing Request Form](https://uniteus.com/networks/oregon/get-help/pacificsource/)  
@@ -64,9 +64,9 @@ PacificSource Community Solutions [Housing Request Form](https://uniteus.com/net
 
 俄勒冈州水电费援助: [Oregon.org/find-help](Oregon.org/find-help)
 
-### 请使用以下 OHP 会员 ID 卡样本来识别您的 OHP 提供商。
+### 请使用以下 OHP 会员 ID 卡样本来识别您的 OHP 协调服务组织。
 
-HealthShare of Oregon (服务区域: Multnomah、Washington、Clackamas 县)
+**HealthShare of Oregon** (服务区域: Multnomah、Washington、Clackamas 县)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/hso_sample1)
 
@@ -79,11 +79,11 @@ HealthShare of Oregon (服务区域: Multnomah、Washington、Clackamas 县)
 5. 致电此处获取心理健康和药物滥用护理  
 6. 如果您有 Care Oregon Dental 牙科保险，请致电此处预约您的牙医  
 
-Trillium Community Health Plan (服务区域: Multnomah、Washington、Clackamas、Marion、Polk 和 Lane县）
+**Trillium Community Health Plan** (服务区域: Multnomah、Washington、Clackamas、Marion、Polk 和 Lane县）
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/trillium_sample)
 
-PacificSource Health Solutions (服务区域: Lane县）
+**PacificSource Health Solutions** (服务区域: Lane县）
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ps_sample1)
 
