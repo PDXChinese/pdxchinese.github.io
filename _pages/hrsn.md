@@ -58,7 +58,8 @@ PacificSource Community Solutions [Housing Request Form](https://uniteus.com/net
 
 >拨打电话：2-1-1 或 1-866-698-6155  
 电子邮件：[help@211info.org](mailto:help@211info.org)  
-短信发送您的邮政编码至 898211（TXT211) 服务时间：周一至周五，上午 9 点至下午 5 点  
+短信发送您的邮政编码至 898211（TXT211)  
+服务时间：周一至周五，上午9点至下午5点  
 
 俄勒冈州租房者援助: [oregoncat.org](oregoncat.org)
 
