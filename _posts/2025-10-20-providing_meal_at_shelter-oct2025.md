@@ -19,6 +19,12 @@ Our community's efforts to provide meals at Transition Projects, Inc.’s shelte
 [Yan Zi Lou](https://yanzilouor.com/) @2788 SE 82nd Ave  
 [FJ Buffet](https://fjbuffet.com/) @11930 SE Division St  
 
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/565138855_803406082324476_2302588433755997122_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/565214717_803406492324435_5249883835171066317_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/565755301_803406032324481_8806632653210210272_n.jpg)
+
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/517597608_727792653219153_4125424059170755784_n.jpg)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/518169949_727792619885823_389177667135828875_n.jpg)
@@ -40,12 +46,6 @@ Our community's efforts to provide meals at Transition Projects, Inc.’s shelte
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/550233920_776402195024865_1234295868695088611_n.jpg)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/565099414_803406012324483_3434912428028148138_n.jpg)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/565138855_803406082324476_2302588433755997122_n.jpg)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/565214717_803406492324435_5249883835171066317_n.jpg)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/565755301_803406032324481_8806632653210210272_n.jpg)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/566212698_803406038991147_6557482231769797759_n.jpg)
 
