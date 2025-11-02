@@ -13,4 +13,8 @@ OCC 已经或正与 Health Share of Oregon、Trillium Community Health Plan 和 
 
 OCC 刚刚设立了该项目的**[网页](https://pdxchinese.org/hrsn/)**，详细介绍符合资格的标准、申请流程、服务区域及其他紧急援助资源。无论正面临住房危机，还是需要了解相关资源，我们都愿为有需要且符合条件的社区成员提供最贴心、最专业的支持。
 
+OCC is proud to be a contracted provider with the Oregon Health Authority (OHA), helping Oregon Health Plan (OHP) Open Card members across the state with Heath Related Social Needs (HRSN) housing benefits. Over the past 10 months, we've provided around $480,000 in rent and utility assistance to support 60 households in need.
+
+OCC will also be partnering with HealthShare of Oregon (HSO), Trillium Community Health Plan, and PacificSource Community Solutions to expand our services even further.
+
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/cco_map.jpg)
