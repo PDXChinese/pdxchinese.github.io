@@ -14,11 +14,9 @@ Thank you for your generosity. Your contribution to OCC is tax-deductible under 
 
 Please choose the way for your most convenience:
 
-### PayPal and Zelle
+### Zelle（We try to avoid using PayPal as it charges fees)
 
 donate@pdxchinese.org
-
-Select 'send to friend' when using PayPal
 
 ### Checks
 
