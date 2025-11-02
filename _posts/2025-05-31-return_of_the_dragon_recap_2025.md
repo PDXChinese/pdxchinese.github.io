@@ -5,13 +5,15 @@ excerpt: "上周六举办的“龙归中国城”活动圆满成功！尽管现�
 date: "2025-05-31"
 ---
 
-上周六举办的“龙归中国城”活动圆满成功！尽管现场人数低于预期，但宏大的演出阵容和丰富的手工艺活动，仍然让人惊叹不已。最令人耳目一新的是，当天出现在中国城的人群，与平时的活动截然不同，因为参与活动的人有了那种回家的感觉。当天营造出的氛围，也让我们重新燃起了对中国城未来的希望。
+上周六举办的“[龙归中国城](https://pdxchinese.org/dragon/)”活动圆满成功！尽管现场人数低于预期，但宏大的演出阵容和丰富的手工艺活动，仍然让人惊叹不已。最令人耳目一新的是，当天出现在中国城的人群，与平时的活动截然不同，因为参与活动的人有了那种回家的感觉。当天营造出的氛围，也让我们重新燃起了对中国城未来的希望。
 
 这次活动得到了几乎所有组织和机构的大力支持 -- 出人、出力、出钱、出主意。尤其是老城委员会，中华会馆和同源会，兰苏园，中国城博物馆和老侨堂倌全部开放。警方也与我们保持高层联络，为防止抗议活动波及中国城，当天在Burnside大道部署了两道封锁线，保证了中国城的安详气氛。活动前三天，市政府还组织清洁街道，并清洗了人行道。看到整洁焕然的街景，真的令人感动和恍惚。
 
 再次由衷感谢所有参与演出和手工活动的个人与团体，感谢所有食品和茶摊位的支持，感谢所有参与艺术展的艺术家与爱好者们，更要感谢每一位志愿者，包括参与舞龙的朋友们。明年我们会重新规划，办得更好，守住中国城作为华人文化传播的重要阵地，让乱七八糟的东西，有形的和无形的，无所遁形。
 
 这次中国城活动的成功来自于全社区的支持与参与，这也说明这些年我们关注的身份认同和社区归属感显然取得了成效。在演出节目中有一个手语舞，名字就叫《我们是一家人》，很好表达了我们的这一心情。看参加演出人群中，年龄跨度大，有姐妹，有母女，有父子，有社区几个团队的成员，更有刚刚移民来的孩子们。背景歌声全部来自社区成员，录制合成则是高中生鱼儿完成。在陈曦老师的指导下，经过几个月的努力，终于有了专属OCC的版本。我们很希望社区的每个人都能哼唱几句，在8月份的文化节现场我们能有一个百人大合唱。陈曦老师每个周六10-12点会在Hope Chinese Charter School《OCC歌友会》活动上继续教授大家。
+
+With the successful [Return of the Dragon](https://pdxchinese.org/dragon/) Festival, we hope the courage of the dragon will inspire us all to help revitalize Chinatown — a place that once held profound heritage and legacy, shaping an important chapter in the history of this city.
 
 <iframe width="1707" height="960" src="https://www.youtube.com/embed/VAnXMMKF-Vg" title="2025 Return of the Dragon Festival in Portland Chinatown" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
