@@ -50,7 +50,7 @@ PacificSource Community Solutions [Housing Request Form](https://uniteus.com/net
 致电 Trillium Community Health Plan 会员客服 1-877-600-5472  
 电子邮件：[CHW@TrilliumCHP.com](mailto:CHW@TrilliumCHP.com)  
 
-5. 如果您需要我们协助提交申请，请发送电子邮件至：[hrsn@pdxchiunese.org](mailto:hrsn@pdxchiunese.org)?
+5. 如果您需要我们协助提交申请，请发送电子邮件至OCC团队：[hrsn@pdxchiunese.org](mailto:hrsn@pdxchiunese.org)
 
 
 ### 🆘 Other Resources / 其他紧急援助资源
