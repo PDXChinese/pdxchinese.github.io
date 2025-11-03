@@ -9,154 +9,134 @@ date: "2025-01-02"
 
 Our pre-game performance at the Moda Center, when the Trail Blazers faced the Dallas Mavericks on December 28, 2024, impressed both the audience and staff, far exceeding our own expectations. The success was a result of the hard work and dedication of all the participants. Here are some photos from the rehearsal the day before at Lake Oswego High School Gym
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472684926_586087484056338_1984702897401113713_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472639311_586075950724158_7623485907407938518_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472251121_586087480723005_7573196873130801230_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472011813_586076760724077_7317408187736061460_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472308617_586091680722585_7056263630306733981_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472562765_586076367390783_7554348847204123098_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471591051_586092214055865_3818730338707058180_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472253266_586076477390772_3166439535565489324_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471595171_586090480722705_4696549239447040348_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472405061_586075894057497_7385307125035625924_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472284320_586090484056038_8621645262225272755_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472532747_586078384057248_4331181258647143588_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472153994_586092250722528_6427123393284911043_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472360588_586076634057423_3074461426546501172_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472127330_586091267389293_6941879634788319381_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472502964_586077010724052_3307481068115249685_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472004321_586092174055869_7237141980469301718_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472365431_586078354057251_3154460524576411938_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472413866_586090674056019_2243222898356292571_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471587579_586078130723940_619476433333477474_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472158189_586089767389443_8634222525349587455_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472082323_586077724057314_8717637086723009080_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472669701_586089977389422_6317006833152850048_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472286686_586077684057318_2010984232381464660_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472099402_586089734056113_7274840043773096920_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471696667_586077200724033_4814664497758763678_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472039229_586092324055854_2772418643783810553_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472075275_586077904057296_4092780944283906247_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472313731_586089300722823_4549939440005776310_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472279298_586077267390693_5732062841500922381_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472142341_586088664056220_3008813447028141355_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472031066_586076794057407_6015904697731808890_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472542465_586088477389572_7585578924290343373_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472095877_586075877390832_6728915075154519012_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472439797_586088280722925_3352014319587033401_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472249779_586077400724013_3465688444273252117_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472523381_586088874056199_852013376106401407_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472335478_586078094057277_2411300397475550676_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472454080_586087980722955_6634176823923950733_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471683103_586078154057271_3564957089039754994_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472571881_586087720722981_7666966068228808346_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472571881_586078007390619_5241944546921548486_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472659649_586090640722689_8011462168361849494_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471504036_586078267390593_6006343861984243236_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472005863_586092357389184_6490058667710149550_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471752063_586078947390525_4720721715050131156_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472365427_586092090722544_8264284421018052845_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472096831_586079047390515_1351158249595161533_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472521092_586090904055996_7589984181329799337_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472236739_586078427390577_4154666164356134506_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471730498_586088957389524_4757428354127490059_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472284302_586077540723999_1501567054325763694_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472527132_586090070722746_860037678254873266_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472203964_586078980723855_273032714345393383_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471596781_586089857389434_5465690898497450421_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472130013_586079097390510_3035173766628652892_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472255795_586090357389384_8842799948337887377_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471591743_586078820723871_8638603361722529118_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471631511_586090210722732_8437018344010099874_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472557930_586078184057268_3826753348605876124_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472279364_586089500722803_7802769075701348230_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472504728_586077584057328_1052184185692148563_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471404570_586091010722652_8146533390874135959_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471792080_586076274057459_3154082196381322131_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472291171_586091880722565_5625959531648547346_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472669215_586077967390623_8247666007169391109_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472111697_586092020722551_2747402292099095229_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472669215_586077967390623_8247666007169391109_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472378665_586092120722541_6695348740682614940_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472314697_586079144057172_6829228145551539171_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472256338_586091960722557_5249980256761722222_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472164821_586078220723931_7641661991165738926_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472259299_586092150722538_8428044004220239649_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472539326_586078240723929_7943097194010414814_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472011813_586091980722555_5544247690426642548_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472390928_586078747390545_1072801683352476389_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472269506_586091520722601_2406062210229984048_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471598137_586078657390554_7309671368540678583_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472262401_586091100722643_2478350546730252761_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471787319_586078637390556_6859781569804556076_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472171828_586087957389624_86021148236977557_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472177048_586078700723883_8922638483926788402_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471977000_586091764055910_5805749613814309483_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472258206_586079020723851_171890313130560426_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472258215_586091700722583_7226115871944995240_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472290676_586078777390542_2841092343603259024_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472630565_586091117389308_6362431631380192304_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472534686_586078867390533_626496854713912040_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471713252_586090740722679_7715410550206893157_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471423806_586078907390529_8788118949163300035_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471777028_586091494055937_6506070049671377144_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472354772_586077747390645_2461193218271851944_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472271661_586091330722620_5628191658493220645_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471700171_586078330723920_6287890050460282290_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472069906_586091154055971_6397329670592789387_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471583094_586078090723944_7948021152025603482_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471591053_586091294055957_4716054284791381651_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472301413_586077780723975_8934982177533028621_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471424205_586091420722611_2440365549804467636_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472345214_586078744057212_4656651269172708198_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472258206_586091214055965_4774610958884806094_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471501141_586078864057200_4063337096237853714_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472262257_586091060722647_792438198374994959_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471770753_586077147390705_1580699991461356749_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472555209_586091750722578_7441994353801514485_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471416939_586077620723991_7828280404895559559_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472528902_586090330722720_4767594954426736749_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472134530_586077367390683_2712632040902090232_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472251367_586090714056015_8544674747241283701_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472261884_586079200723833_7413728174284986233_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472300237_586090537389366_648358535762966825_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472071750_586077424057344_4095628958990935375_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472670698_586090597389360_7192950539920894677_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472095580_586114014053685_1289996695756507897_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472667592_586091444055942_1069892579155637327_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472284881_586113544053732_5826807858696975198_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472132192_586091264055960_5231307864322252265_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472267421_586113880720365_554446261058586346_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471663134_586090867389333_7484078107025869193_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472132192_586113287387091_7969367611819409369_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472514228_586090424056044_6110453397087788527_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472153996_586113477387072_4688417869375486968_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472267060_586091387389281_1686675037187011100_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472405117_586113930720360_4311785772111300017_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472567930_586090937389326_768491997790394433_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472521499_586113424053744_5449274086603143715_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472536001_586089357389484_5455942618860127936_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472328262_586113974053689_325803602576248672_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471821616_586089580722795_699969211459622696_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472235301_586113774053709_3843049973787892079_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471779181_586091897389230_6158935115100246378_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472359946_586091524055934_5266661959897099219_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472369064_586089700722783_1558864407455693398_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471676906_586091550722598_6739983061159938546_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472669966_586091187389301_880859749662774939_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472272770_586091774055909_5956094729556727817_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472444764_586091854055901_3091143465708231048_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472372230_586091957389224_2102408167606256926_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472439101_586090764056010_7329028080842568701_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471510308_586087767389643_266268723554379793_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472649383_586089904056096_8634597467786755136_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472368548_586113840720369_2711683161772596523_n)
