@@ -7,7 +7,9 @@ date: "2025-01-02"
 
 我们的赛前表演于 2024 年 12 月 28 日在摩达中心（Moda Center）举行，当时开拓者队对阵达拉斯独行侠。无论观众还是工作人员都对我们的表现赞赏有加，效果远超我们原本的预期。此次成功，离不开所有参与者的辛勤付出与全心投入。以下是前一天在湖奥高中的体育馆排练时的照片。
 
-Our pre-game performance at the Moda Center, when the Trail Blazers faced the Dallas Mavericks on December 28, 2024, impressed both the audience and staff, far exceeding our own expectations. The success was a result of the hard work and dedication of all the participants. Here are some photos from the rehearsal the day before at Lake Oswego High School Gym
+Our pre-game performance at the Moda Center, when the Trail Blazers faced the Dallas Mavericks on December 28, 2024, impressed both the audience and staff, far exceeding our own expectations. The success was a result of the hard work and dedication of all the participants. Here are some photos from the rehearsal the day before at Lake Oswego High School Gym.
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471615880_581943404470746_8145525742376348487_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472639311_586075950724158_7623485907407938518_n)
 
