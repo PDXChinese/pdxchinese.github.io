@@ -28,6 +28,7 @@ feature_row:
 **Date:** November 23, 2025 Sunday, 1:00 pm - 4:00 pm  
 **Place:** Multiple locations across State of Oregon  
 **Register** To join, please **[register here](https://docs.google.com/forms/d/e/1FAIpQLSdrA8gtPEE5_7kHLy67J5aQJpBaAxnMR-nlSZLc9KiupzaE_A/viewform?usp=sf_link)**.  
+[How Winter Drive Works](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pdf/how_winter_drive_works.pdf)  
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DDGcnMkl_hOzU-W7GuZiZ8RI-FF91bFS" width="640" height="480"></iframe>
 <br>
@@ -73,7 +74,7 @@ Holiday gifts and gift cards for children living in our alcohol- and drug-free f
 
 Soap, shampoo, tooth brush, tooth paste, feminine hygiene items, toilet paper, etc.
 
-**[2025 OCC Donation Receipt](/assets/pdf/occ_donation_receipt_2025.pdf)**
+**[2025 OCC Donation Receipt](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pdf/occ_donation_receipt_2025.pdf)**
 
 ## Agencies to Receive our Donations
 
