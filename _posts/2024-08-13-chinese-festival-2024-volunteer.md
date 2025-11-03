@@ -156,3 +156,5 @@ Many people have asked how they can volunteer with us. This is something we will
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/455180986_487759967222424_1614848111450049182_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/455249962_487759910555763_4057204213040497849_n)
+
+<iframe width="391" height="695" src="https://www.youtube.com/embed/I6URtygNy_U" title="A Moment of Volunteering for the Success of the Chinese Festival" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
