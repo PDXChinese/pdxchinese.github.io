@@ -39,8 +39,12 @@ feature_row:
 | Name/Drop Off Location | School/Organization |
 | --- | --- |
 | :one: [Sunset High School](https://maps.app.goo.gl/kp4qnw5j3C2j1jYu6) | |
+| :three: [Goodtime Elementary](https://maps.app.goo.gl/yoP5HTjXBZKzvTpD9), Bethany | |
+| Erin Qiu | Stoller Middle School |
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
+| Zhi Qu | OES |
+| Zong Qu | Catlin Gabel School |
 | Jerry Zhou | OES |
 | Xinye Zhu | Lincoln High School |
 | :six: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
