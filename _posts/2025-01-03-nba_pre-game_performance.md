@@ -9,9 +9,41 @@ date: "2025-01-03"
 
 Here are the moments captured by our volunteer photographer, Guangchao Zhang. The performers thoroughly enjoyed showcasing their talents on the court to a worldwide audience, alongside other teams that have been collaborating for over a year in community outreach efforts. This performance not only highlights their dedication to Chinese traditional arts and culture but also reflects the spirit of teamwork and volunteerism that we have been fostering over the years
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472684926_586087484056338_1984702897401113713_n)
+以下是NBA专业摄影师作品
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472251121_586087480723005_7573196873130801230_n)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472363552_586490154016071_7982748497403979984_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472167993_586489950682758_8048655723415797967_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472549630_586489994016087_2898686599867893640_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472755599_586490297349390_1134799359382161994_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472627875_586490184016068_30855557361915841_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472195840_586490570682696_6832230635012653575_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472303595_586489794016107_1877036693218679989_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472235259_586489864016100_6267651817529245778_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472720008_586490014016085_5379368938988564134_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472144734_586490540682699_8200259471805436030_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472717403_586490484016038_585905275948552638_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472167179_586490430682710_3173919316719464823_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472149120_586490520682701_4941327190795444944_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472365468_586489940682759_4061564681187448226_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472174191_586490120682741_1065847588650302832_n)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472337652_586490054016081_6213261264879927113_n)
+
+以下照片由张光超拍摄
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472308617_586091680722585_7056263630306733981_n)
 
@@ -160,37 +192,3 @@ Here are the moments captured by our volunteer photographer, Guangchao Zhang. Th
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/471510308_586087767389643_266268723554379793_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472649383_586089904056096_8634597467786755136_n)
-
-以下是NBA专业摄影师作品
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472363552_586490154016071_7982748497403979984_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472167993_586489950682758_8048655723415797967_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472549630_586489994016087_2898686599867893640_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472755599_586490297349390_1134799359382161994_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472627875_586490184016068_30855557361915841_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472195840_586490570682696_6832230635012653575_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472303595_586489794016107_1877036693218679989_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472235259_586489864016100_6267651817529245778_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472720008_586490014016085_5379368938988564134_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472144734_586490540682699_8200259471805436030_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472717403_586490484016038_585905275948552638_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472167179_586490430682710_3173919316719464823_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472149120_586490520682701_4941327190795444944_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472365468_586489940682759_4061564681187448226_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472174191_586490120682741_1065847588650302832_n)
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472337652_586490054016081_6213261264879927113_n)
