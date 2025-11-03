@@ -31,66 +31,22 @@ feature_row:
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DDGcnMkl_hOzU-W7GuZiZ8RI-FF91bFS" width="640" height="480"></iframe>
 <br>
-{% include feature_row id="feature_row"%}
 
-## 2024 Student Volunteers
+## 2025 Student Volunteers
 
 | Name/Drop Off Location | School/Organization |
 | --- | --- |
 | :one: [Sunset High School](https://maps.app.goo.gl/kp4qnw5j3C2j1jYu6) | |
-| Ashley Guo | BASE |
-| Brian Barker | Sunset High School |
-| Elsa Fan | Flex Online School |
-| Xing you Sun | Stoller Middle School |
-| Yicheng Zhang | Union High School |
-| Michelle Ciao | Valley Catholic |
-| :three: Goodtime Elementary, Bethany Village | |
-| Amy Zhu | Valley Catholic High school |
-| Emily Liu | Springville Elementary School |
-| Erin Qiu | Stoller Middle School |
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
-| Alex Cui | Sunset High School |
-| Arianna Cui | Tumwater Middle School |
-| Ethan Knapp  | Westview High School |
-| Laurence Ji | Valley Catholic |
-| Sarah Yi | Westview High School |
-| Shengxi Chen | Westview High School |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
-| Andy Xiong | Willamette Valley Academy |
-| Ethan Zhang | Westview High School |
-| Jerry Zhoi | OES |
-| Lucas Zhang | Catlin Gabel School |
+| Jerry Zhou | OES |
 | Xinye Zhu | West Sylvan Middle School |
 | Zhi Qu | OES |
-| Zong Qu | Catlin Gabel School |
 | :six: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
 | :seven: [Alberta Rider Elementary School](https://maps.app.goo.gl/qf6LT5CBoRZkLgBw8) | |
-| Arianna Hong  | BASE |
-| Brianna Hong  | BASE |
-| Bryan Yan | Alberta Rider Elementary |
-| Zhengyan Li | Westgate Christian school |
 | :eight: [Hosford Middle School](https://maps.app.goo.gl/Rejd7MSdbGChdQAD8) | |
-| Ashley Fong | Hosford Middle School |
-| Jozlynn Wallace | Hosford Middle School |
-| Samantha Ngan | Hosford Middle School |
 | :nine: [West Lake Park](https://maps.app.goo.gl/g5gY3CnStRQs5Js99), Lake Oswego | |
-| Andrew Kunjummen | Lakeridge High School |
-| Christopher Lu | Lake Oswego High School |
-| Evan Wang | Lake Oswego High School |
-| Haoxiang Zhu | Arbor School of Arts & Sciences |
-| Isaac Lu | Lake Oswego High school |
-| Jaden Hua | Sprague High School |
-| Logan Shi | Lake Oswego High School |
-| Kevin Lin | West Linn High School |
-| Mohamed Akmal Mohaideen | Lake Oswego High School |
-| Sean Jiang | Lakeridge Middle School |
 | :one::zero: [Chepenafa Springs Park](https://maps.app.goo.gl/e83tVuCVe18LgVMw7), Corvallis | |
-| Aiden Li | Cheldelin Middle School |
-| Alena Li | Crescent Valley High School |
-| Eleanor Guo | Bessie Coleman Elementary School |
-| Elizabeth Guo | Cheldelin Middle School |
-| Mark Yeh | Crescent Valley High School |
-| Sophia Qiu | Crescent Valley High School |
 
 ## Donation Items
 
@@ -118,7 +74,7 @@ Holiday gifts and gift cards for children living in our alcohol- and drug-free f
 
 Soap, shampoo, tooth brush, tooth paste, feminine hygiene items, toilet paper, etc.
 
-**[2024 OCC Donation Receipt](/assets/pdf/occ_donation_receipt_2024.pdf)**
+**[2025 OCC Donation Receipt](/assets/pdf/occ_donation_receipt_2025.pdf)**
 
 ## Agencies to Receive our Donations
 
