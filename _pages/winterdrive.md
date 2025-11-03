@@ -40,8 +40,7 @@ feature_row:
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | Jerry Zhou | OES |
-| Xinye Zhu | West Sylvan Middle School |
-| Zhi Qu | OES |
+| Xinye Zhu | Lincoln High School |
 | :six: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
 | :seven: [Alberta Rider Elementary School](https://maps.app.goo.gl/qf6LT5CBoRZkLgBw8) | |
 | :eight: [Hosford Middle School](https://maps.app.goo.gl/Rejd7MSdbGChdQAD8) | |
