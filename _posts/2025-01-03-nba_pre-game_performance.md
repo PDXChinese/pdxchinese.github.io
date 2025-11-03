@@ -9,6 +9,8 @@ date: "2025-01-03"
 
 Here are the moments captured by our volunteer photographer, Guangchao Zhang. The performers thoroughly enjoyed showcasing their talents on the court to a worldwide audience, alongside other teams that have been collaborating for over a year in community outreach efforts. This performance not only highlights their dedication to Chinese traditional arts and culture but also reflects the spirit of teamwork and volunteerism that we have been fostering over the years
 
+<iframe width="1707" height="960" src="https://www.youtube.com/embed/DXzfZeFfKo8" title="OCC NBA Pre-Game Performance at the Moda Center" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 以下是NBA专业摄影师作品
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/472363552_586490154016071_7982748497403979984_n)
