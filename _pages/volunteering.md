@@ -14,7 +14,7 @@ We come together, serving our community where we raise our families, helping tho
 >✅ Serve — reflects action and contribution to the community  
 ✅ Care — highlights compassion and empathy  
 ✅ Inspire — emphasizes leadership and positive influence  
-Together, This is the essence of volunteering: taking action, uplifting others, and motivating change.  
+Together, this is the essence of volunteering: taking action, uplifting others, and inspiring change. These three words will be engraved on the medals that volunteers receive, honoring their contributions and celebrating the impact they make within their own community.  
 
 {% include feature_row id="feature_row1"%}
 

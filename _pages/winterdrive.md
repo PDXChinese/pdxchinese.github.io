@@ -54,6 +54,10 @@ feature_row:
 | :eight: [Hosford Middle School](https://maps.app.goo.gl/Rejd7MSdbGChdQAD8) | |
 | :nine: [West Lake Park](https://maps.app.goo.gl/g5gY3CnStRQs5Js99), Lake Oswego | |
 | :one::zero: [Chepenafa Springs Park](https://maps.app.goo.gl/e83tVuCVe18LgVMw7), Corvallis | |
+| Aiden Li | Cresent Valley High School |
+| Alena Li | Cresent Valley High School |
+| Mark Yeh | Cresent Valley High School |
+| Sophia Qiu | Cresent Valley High School |
 | Theodore Di | Cresent Valley High School |
 
 ## Donation Items
