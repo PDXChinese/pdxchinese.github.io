@@ -42,6 +42,7 @@ feature_row:
 | :three: [Goodtime Elementary](https://maps.app.goo.gl/yoP5HTjXBZKzvTpD9), Bethany | |
 | Erin Qiu | Stoller Middle School |
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
+| Benjamin Zhang | Westview High School |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | Zhi Qu | OES |
 | Zong Qu | Catlin Gabel School |
