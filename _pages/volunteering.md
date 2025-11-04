@@ -11,6 +11,11 @@ We come together, serving our community where we raise our families, helping tho
 
 >Before PVSA resumes, OCC has decided to present the **Community Volunteer Service Award** — previously the PVSA Equivalent Award for Non-Resident Volunteers — to all volunteers. We will follow the same timeline, standards, and procedures as the PVSA certification process. The application will be available approximately one week after the end of the current cycle (October 27 through October 26).
 
+>✅ Serve — reflects action and contribution to the community  
+✅ Care — highlights compassion and empathy  
+✅ Inspire — emphasizes leadership and positive influence  
+Together, This is the essence of volunteering: taking action, uplifting others, and motivating change.  
+
 {% include feature_row id="feature_row1"%}
 
 # President's Volunteer Service Award (PVSA)
