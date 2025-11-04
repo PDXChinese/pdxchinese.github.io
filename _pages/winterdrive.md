@@ -48,10 +48,14 @@ feature_row:
 | Zong Qu | Catlin Gabel School |
 | Justin Wu | West Sylvan Middle School |
 | Max Wu | Lincoln High School |
+| Lucas Zhang | Catlin Gabel School |
 | Jerry Zhou | OES |
 | Xinye Zhu | Lincoln High School |
 | :six: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
+| Lindsay Zheng | Camas High School |
 | :seven: [Alberta Rider Elementary School](https://maps.app.goo.gl/qf6LT5CBoRZkLgBw8) | |
+| Arianna Hong | BASE |
+| Brianna Hong | BASE |
 | :eight: [Hosford Middle School](https://maps.app.goo.gl/Rejd7MSdbGChdQAD8) | |
 | :nine: [West Lake Park](https://maps.app.goo.gl/g5gY3CnStRQs5Js99), Lake Oswego | |
 | :one::zero: [Chepenafa Springs Park](https://maps.app.goo.gl/e83tVuCVe18LgVMw7), Corvallis | |
