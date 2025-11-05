@@ -58,12 +58,15 @@ feature_row:
 | Brianna Hong | BASE |
 | :eight: [Hosford Middle School](https://maps.app.goo.gl/Rejd7MSdbGChdQAD8) | |
 | :nine: [West Lake Park](https://maps.app.goo.gl/g5gY3CnStRQs5Js99), Lake Oswego | |
+| Owen Ni | Lake Oswego High School |
 | :one::zero: [Chepenafa Springs Park](https://maps.app.goo.gl/e83tVuCVe18LgVMw7), Corvallis | |
 | Aiden Li | Cresent Valley High School |
 | Alena Li | Cresent Valley High School |
+| Joanna Lin | Franklin School |
 | Mark Yeh | Cresent Valley High School |
 | Sophia Qiu | Cresent Valley High School |
 | Theodore Di | Cresent Valley High School |
+| Yuhao Lin | | Franklin School |
 
 ## Donation Items
 
@@ -97,6 +100,7 @@ Soap, shampoo, tooth brush, tooth paste, feminine hygiene items, toilet paper, e
 
 [Transition Projects](https://www.tprojects.org/)  
 [Vina Moses Center](https://www.vinamoses.org/)  
+[Clay Street Table](https://claystreettable.org/)  
 
 ## Archive
 
