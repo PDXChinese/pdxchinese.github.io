@@ -66,7 +66,7 @@ feature_row:
 | Aiden Li | Cresent Valley High School |
 | Alena Li | Cresent Valley High School |
 | Joanna Lin | Franklin School |
-| Yuhao Lin | | Franklin School |
+| Yuhao Lin | Franklin School |
 | Sophia Qiu | Cresent Valley High School |
 | Julia Wang | Cresent Valley High School |
 | Mark Yeh | Cresent Valley High School |
