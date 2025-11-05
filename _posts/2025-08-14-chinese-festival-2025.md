@@ -369,6 +369,10 @@ Tea is a timeless cultural symbol that has connected people across centuries and
 
 <br>
 
+<iframe width="1707" height="960" src="https://www.youtube.com/embed/JMWXDGtnBFs" title="2025 Chinese Festival: The Dragon Boat Race by Mulan Drum Team" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
 7/4/2025
 
 每年一度在市中心先锋广场举办的华人文化节，不仅是我们社区的文化盛事，更成为重振波特兰市中心活力、推动城市复苏的重要活动。今年的文化节得到了波特兰市政府和州长办公室的特别关注与实际支持。

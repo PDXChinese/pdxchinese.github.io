@@ -25,6 +25,12 @@ To have us perform in your events, please [contact us](http://pdxchinese.org/con
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345424743_651302106822940_5592377646873928980_n)
 
+### Performance in Chinese Festival
+
+Pioneer Courthouse Square, August 2, 2025
+
+<iframe width="1707" height="960" src="https://www.youtube.com/embed/JMWXDGtnBFs" title="2025 Chinese Festival: The Dragon Boat Race by Mulan Drum Team" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Performance in Vancouver Lunar New Year Gala
 
 Skyview High School, Feburary 16, 2025

@@ -42,6 +42,7 @@ feature_row:
 | :three: [Goodtime Elementary](https://maps.app.goo.gl/yoP5HTjXBZKzvTpD9), Bethany | |
 | Erin Qiu | Stoller Middle School |
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
+| Cody Yu | BASE |
 | Benjamin Zhang | Westview High School |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | Zhi Qu | OES |
@@ -58,15 +59,17 @@ feature_row:
 | Brianna Hong | BASE |
 | :eight: [Hosford Middle School](https://maps.app.goo.gl/Rejd7MSdbGChdQAD8) | |
 | :nine: [West Lake Park](https://maps.app.goo.gl/g5gY3CnStRQs5Js99), Lake Oswego | |
+| Sean Jiang | Lake Oswego High School |
 | Owen Ni | Lake Oswego High School |
 | :one::zero: [Chepenafa Springs Park](https://maps.app.goo.gl/e83tVuCVe18LgVMw7), Corvallis | |
+| Theodore Di | Cresent Valley High School |
 | Aiden Li | Cresent Valley High School |
 | Alena Li | Cresent Valley High School |
 | Joanna Lin | Franklin School |
-| Mark Yeh | Cresent Valley High School |
-| Sophia Qiu | Cresent Valley High School |
-| Theodore Di | Cresent Valley High School |
 | Yuhao Lin | | Franklin School |
+| Sophia Qiu | Cresent Valley High School |
+| Julia Wang | Cresent Valley High School |
+| Mark Yeh | Cresent Valley High School |
 
 ## Donation Items
 
