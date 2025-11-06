@@ -35,7 +35,7 @@ Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_
 
 ### [青少年绘画竞赛/Youth Art Contest](https://pdxchinese.org/artcontest/)
 
-Submission Date: January 20, 2025  
+Submission Date: January 26, 2026  
 [Offcial Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)  
 
 ### January-February

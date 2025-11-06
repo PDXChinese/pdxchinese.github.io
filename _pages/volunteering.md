@@ -11,7 +11,7 @@ We come together, serving our community where we raise our families, helping tho
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
->Before PVSA resumes, OCC has decided to present the **Community Volunteer Service Award, CVSA** — previously the PVSA Equivalent Award for Non-Resident Volunteers — to all volunteers. We will follow the same timeline, standards, and procedures as the PVSA certification process. The application will be available approximately one week after the end of the current cycle (October 27 through October 26).
+>Before PVSA resumes, OCC has decided to present the **Community Volunteer Service Award (CVSA)** — previously the PVSA Equivalent Award for Non-Resident Volunteers — to all volunteers. We will follow the same timeline, standards, and procedures as the PVSA certification process. The application will be available approximately one week after the end of the current cycle (October 27 through October 26).
 
 >✅ Serve — reflects action and contribution to the community  
 ✅ Care — highlights compassion and empathy  
