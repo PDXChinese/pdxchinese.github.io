@@ -80,13 +80,13 @@ PacificSource Community Solutions [Housing Request Form](https://uniteus.com/net
 5. 致电此处获取心理健康和药物滥用护理  
 6. 如果您有 Care Oregon Dental 牙科保险，请致电此处预约您的牙医  
 
-**Trillium Community Health Plan** (服务区域: Multnomah、Washington、Clackamas、Marion、Polk 和 Lane县）
+**Trillium Community Health Plan** (服务区域: Multnomah、Washington、Clackamas 和 Lane县）
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/trillium_sample)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/trillium_sample2)
 
-**PacificSource Health Solutions** (服务区域: Lane县）
+**PacificSource Health Solutions** (服务区域: Polk 和 Marion 县）
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ps_sample1)
 
