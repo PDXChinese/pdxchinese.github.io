@@ -3,6 +3,8 @@ title: " "
 permalink: /volunteering/
 feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pvsacertorg1
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/cvsa-front
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/cvsa-back
 ---
 
 We come together, serving our community where we raise our families, helping those who are in need, growing our passion for a better world with ‘love’ in heart, and connecting with others who share the same value.
