@@ -102,8 +102,9 @@ Soap, shampoo, tooth brush, tooth paste, feminine hygiene items, toilet paper, e
 ## Agencies to Receive our Donations
 
 [Transition Projects](https://www.tprojects.org/)  
-[Vina Moses Center](https://www.vinamoses.org/)  
 [Clay Street Table](https://claystreettable.org/)  
+[Vina Moses Center](https://www.vinamoses.org/)  
+[South Corvallis Food Bank](https://www.southcorvallisfoodbank.org/)  
 
 ## Archive
 
