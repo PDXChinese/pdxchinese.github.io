@@ -2,10 +2,13 @@
 title: " "
 permalink: /winterdrive/
 feature_row:
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_corvallis
-    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_corvallis'>Chepenafa Springs Park, Corvallis</a></p>"
+
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_alberta
+    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_alberta'>Alberta Rider Elementary School</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_bridlemile
     excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_bridlemile'>West Sylvan Neighborhood and Bridlemile Elementary School</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_corvallis
+    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_corvallis'>Chepenafa Springs Park, Corvallis</a></p>"
 ---
 
 <p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/winter_drive_banner"></p>  
@@ -33,6 +36,7 @@ feature_row:
 | Oscar Xu | West Sylvan Middle School |
 | :three: [Goodtime Elementary](https://maps.app.goo.gl/yoP5HTjXBZKzvTpD9), Bethany | |
 | Erin Qiu | Stoller Middle School |
+| Bryan Zhang | Westview High School |
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
 | Cody Yu | BASE |
 | Benjamin Zhang | Westview High School |
@@ -49,12 +53,14 @@ feature_row:
 | :seven: [Alberta Rider Elementary School](https://maps.app.goo.gl/qf6LT5CBoRZkLgBw8) | |
 | Arianna Hong | BASE |
 | Brianna Hong | BASE |
-| :eight: [Hosford Middle School](https://maps.app.goo.gl/Rejd7MSdbGChdQAD8) | |
+| :eight: [Stoller Middle School](https://maps.app.goo.gl/wxTME1DdkaMWnYRPA) | |
+| Brady Zhang | Findley Elementary School |
 | :nine: [West Lake Park](https://maps.app.goo.gl/g5gY3CnStRQs5Js99), Lake Oswego | |
 | Sean Jiang | Lake Oswego High School |
 | Owen Ni | Lake Oswego High School |
 | :one::zero: [Chepenafa Springs Park](https://maps.app.goo.gl/e83tVuCVe18LgVMw7), Corvallis | |
 | Theodore Di | Cresent Valley High School |
+| Jodie He | Crescent Valley High School |
 | Aiden Li | Cresent Valley High School |
 | Alena Li | Cresent Valley High School |
 | Joanna Lin | Franklin School |
