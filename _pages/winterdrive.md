@@ -55,6 +55,7 @@ feature_row:
 | Arianna Hong | BASE |
 | Brianna Hong | BASE |
 | :eight: [Stoller Middle School](https://maps.app.goo.gl/wxTME1DdkaMWnYRPA) | |
+| Owen Wang | Springville Elementary School |
 | Brady Zhang | Findley Elementary School |
 | :nine: [West Lake Park](https://maps.app.goo.gl/g5gY3CnStRQs5Js99), Lake Oswego | |
 | Sean Jiang | Lake Oswego High School |
