@@ -59,7 +59,11 @@ feature_row:
 | :nine: [West Lake Park](https://maps.app.goo.gl/g5gY3CnStRQs5Js99), Lake Oswego | |
 | Sean Jiang | Lake Oswego High School |
 | Owen Ni | Lake Oswego High School |
-| :one::zero: [Chepenafa Springs Park](https://maps.app.goo.gl/e83tVuCVe18LgVMw7), Corvallis | |
+| :one::zero: [Hosford Middle School](https://maps.app.goo.gl/At83LKkLWWBcQF8K7), SE Portland | |
+| Ashley Fong | Hosford Middle School |
+| Samantha Nyah | Hosford Middle School |
+| Jozlyn Wallace | Hosford Middle School |
+| :one::one: [Chepenafa Springs Park](https://maps.app.goo.gl/e83tVuCVe18LgVMw7), Corvallis | |
 | Theodore Di | Cresent Valley High School |
 | Jodie He | Crescent Valley High School |
 | Aiden Li | Cresent Valley High School |
