@@ -65,6 +65,8 @@ feature_row:
 | Ashley Fong | Hosford Middle School |
 | Samantha Nyah | Hosford Middle School |
 | Jozlyn Wallace | Hosford Middle School |
+| Ryan Wu | Happy Valley Middle School |
+| Vivian Wu | Verne Duncan Elementary |
 | :one::one: [Chepenafa Springs Park](https://maps.app.goo.gl/e83tVuCVe18LgVMw7), Corvallis | |
 | Theodore Di | Cresent Valley High School |
 | Jodie He | Crescent Valley High School |
