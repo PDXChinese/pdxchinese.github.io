@@ -35,6 +35,7 @@ feature_row:
 | Jasper Xu | Bridlemile Elementary School |
 | Oscar Xu | West Sylvan Middle School |
 | :three: [Goodtime Elementary](https://maps.app.goo.gl/yoP5HTjXBZKzvTpD9), Bethany | |
+| Haruki Kato | Mountainside High School |
 | Emily Liu | Springville Elementary School |
 | Erin Qiu | Stoller Middle School |
 | Bryan Zhang | Westview High School |
