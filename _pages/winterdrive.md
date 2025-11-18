@@ -8,7 +8,7 @@ feature_row:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_bridlemile
     excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_bridlemile'>West Sylvan Neighborhood and Bridlemile Elementary School</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_fp
-    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_fp'>Forest Park Elementary/a></p>"  
+    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_fp'>Forest Park Elementary</a></p>"  
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_corvallis
     excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_corvallis'>Chepenafa Springs Park, Corvallis</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_lo
