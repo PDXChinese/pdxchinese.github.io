@@ -32,7 +32,6 @@ feature_row:
 | Name/Drop Off Location | School/Organization |
 | --- | --- |
 | :one: [Sunset High School](https://maps.app.goo.gl/kp4qnw5j3C2j1jYu6) | |
-| Zhengyan Li | Southridge High School |
 | :two: [West Sylvan Neighborhood and Bridlemile Elementary School](https://maps.app.goo.gl/NLPxXUjbMk2g4cFW9) | |
 | Glisan Xu | Bridlemile Elementary School |
 | Jasper Xu | Bridlemile Elementary School |
@@ -57,6 +56,7 @@ feature_row:
 | :seven: [Alberta Rider Elementary School](https://maps.app.goo.gl/qf6LT5CBoRZkLgBw8) | |
 | Arianna Hong | BASE |
 | Brianna Hong | BASE |
+| Zhengyan Li | Southridge High School |
 | :eight: [Stoller Middle School](https://maps.app.goo.gl/wxTME1DdkaMWnYRPA) | |
 | Owen Wang | Springville Elementary School |
 | Brady Zhang | Findley Elementary School |
