@@ -38,7 +38,9 @@ feature_row:
 | Oscar Xu | West Sylvan Middle School |
 | :three: [Goodtime Elementary](https://maps.app.goo.gl/yoP5HTjXBZKzvTpD9), Bethany | |
 | Emily Liu | Springville Elementary School |
+| Merrick Liu | Stoller Middle School |
 | Bryan Zhang | Westview High School |
+| Raymond Zhao | Springville Elementary School |
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
 | Haruki Kato | Mountainside High School |
 | Cody Yu | BASE |
