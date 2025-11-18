@@ -46,7 +46,7 @@ Chinese/Lunar New Year Celebrations
 
 ### [2026 健康博览会/Health Fair](https://pdxchinese.org/healthfair/)
 
-Date: March 14, 2026 Saturday, 11pm-3pm  
+Date: March 15, 2026 Saturday, 11pm-3pm  
 Place: Embassy Suite, Hilton Hotel at Washington Square  
 
 ### May
