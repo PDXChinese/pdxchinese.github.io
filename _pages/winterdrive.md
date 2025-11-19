@@ -13,6 +13,8 @@ feature_row:
     excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_corvallis'>Chepenafa Springs Park, Corvallis</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_lo
     excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_lo'>West Lake Park, Lake Oswego</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_corvallis2
+    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_corvallis2'>Chepenafa Springs Park, Corvallis</a></p>"
 ---
 
 <p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/winter_drive_banner"></p>  
