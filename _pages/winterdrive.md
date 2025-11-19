@@ -10,7 +10,7 @@ feature_row:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_fp
     excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_fp'>Forest Park Elementary</a></p>"  
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_corvallis
-    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_corvallis'>Chepenafa Springs Park, Willamette Chinese School</a></p>"
+    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_corvallis'>Willamette Chinese School, Corvallis</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_lo
     excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_lo'>West Lake Park, Lake Oswego</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_corvallis2
