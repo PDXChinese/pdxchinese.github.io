@@ -10,7 +10,7 @@ feature_row:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_fp
     excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_fp'>Forest Park Elementary</a></p>"  
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_corvallis
-    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_corvallis'>Chepenafa Springs Park, Corvallis</a></p>"
+    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_corvallis'>Chepenafa Springs Park, Willamette Chinese School</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_lo
     excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_lo'>West Lake Park, Lake Oswego</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_corvallis2
@@ -76,15 +76,16 @@ feature_row:
 | Ryan Wu | Happy Valley Middle School |
 | Vivian Wu | Verne Duncan Elementary |
 | :one::one: [Chepenafa Springs Park](https://maps.app.goo.gl/e83tVuCVe18LgVMw7), Corvallis | |
-| Theodore Di | Cresent Valley High School |
 | Jodie He | Crescent Valley High School |
 | Aiden Li | Cresent Valley High School |
 | Alena Li | Cresent Valley High School |
-| Joanna Lin | Franklin School |
-| Yuhao Lin | Franklin School |
 | Sophia Qiu | Cresent Valley High School |
 | Julia Wang | Cresent Valley High School |
 | Mark Yeh | Cresent Valley High School |
+| :one::two: Willamette Chinese School, Corvallis | |
+| Theodore Di | Cresent Valley High School |
+| Joanna Lin | Franklin School |
+| Yuhao Lin | Franklin School |
 
 ## Donation Items
 
