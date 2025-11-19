@@ -40,11 +40,6 @@ feature_row:
 | Glisan Xu | Bridlemile Elementary School |
 | Jasper Xu | Bridlemile Elementary School |
 | Oscar Xu | West Sylvan Middle School |
-| :three: [Goodtime Elementary](https://maps.app.goo.gl/yoP5HTjXBZKzvTpD9), Bethany | |
-| Emily Liu | Springville Elementary School |
-| Merrick Liu | Stoller Middle School |
-| Bryan Zhang | Westview High School |
-| Raymond Zhao | Springville Elementary School |
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
 | Haruki Kato | Mountainside High School |
 | Cody Yu | BASE |
@@ -64,8 +59,12 @@ feature_row:
 | Brianna Hong | BASE |
 | Zhengyan Li | Southridge High School |
 | :eight: [Stoller Middle School](https://maps.app.goo.gl/wxTME1DdkaMWnYRPA) | |
+| Emily Liu | Springville Elementary School |
+| Merrick Liu | Stoller Middle School |
 | Owen Wang | Springville Elementary School |
 | Brady Zhang | Findley Elementary School |
+| Bryan Zhang | Westview High School |
+| Raymond Zhao | Springville Elementary School |
 | :nine: [West Lake Park](https://maps.app.goo.gl/g5gY3CnStRQs5Js99), Lake Oswego | |
 | Sean Jiang | Lake Oswego High School |
 | Owen Ni | Lake Oswego High School |
