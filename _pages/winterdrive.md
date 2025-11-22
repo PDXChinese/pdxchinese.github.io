@@ -77,6 +77,7 @@ feature_row:
 | Ella Chen | Rosemont Ridge Middle School |
 | Sean Jiang | Lake Oswego High School |
 | Owen Ni | Lake Oswego High School |
+| Haoxiang Zhu | Jesuit High School |
 | :one::zero: [Hosford Middle School](https://maps.app.goo.gl/At83LKkLWWBcQF8K7), SE Portland | |
 | Ashley Fong | Hosford Middle School |
 | Samantha Nyah | Hosford Middle School |
