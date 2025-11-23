@@ -59,6 +59,7 @@ feature_row:
 | Jerry Zhou | OES |
 | Xinye Zhu | Lincoln High School |
 | :six: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
+| Austin Yuan | Camas High School |
 | Lindsay Zheng | Camas High School |
 | :seven: [Alberta Rider Elementary School](https://maps.app.goo.gl/qf6LT5CBoRZkLgBw8) | |
 | Arianna Hong | BASE |
