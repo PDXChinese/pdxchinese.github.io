@@ -47,7 +47,6 @@ feature_row:
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
 | Haruki Kato | Mountainside High School |
 | Lucas Wang  | International School of Beaverton |
-| Cody Yu | BASE |
 | Benjamin Zhang | Westview High School |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | Zhi Qu | OES |
