@@ -47,6 +47,7 @@ feature_row:
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
 | Haruki Kato | Mountainside High School |
 | Lucas Wang  | International School of Beaverton |
+| Owen Wang | Springville Elementary School |
 | Benjamin Zhang | Westview High School |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | Zhi Qu | OES |
@@ -67,7 +68,6 @@ feature_row:
 | :eight: [Stoller Middle School](https://maps.app.goo.gl/wxTME1DdkaMWnYRPA) | |
 | Emily Liu | Springville Elementary School |
 | Merrick Liu | Stoller Middle School |
-| Owen Wang | Springville Elementary School |
 | Brady Zhang | Findley Elementary School |
 | Bryan Zhang | Westview High School |
 | Raymond Zhao | Springville Elementary School |
