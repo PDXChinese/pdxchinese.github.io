@@ -51,6 +51,7 @@ feature_row:
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | Zhi Qu | OES |
 | Zong Qu | Catlin Gabel School |
+| Derica Theobald | Lincoln High School |
 | Justin Wu | West Sylvan Middle School |
 | Max Wu | Lincoln High School |
 | Andy Xiong | Willamette Valley Academy |  
