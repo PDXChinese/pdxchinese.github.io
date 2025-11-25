@@ -48,6 +48,8 @@ feature_row:
 | Lucas Wang  | International School of Beaverton |
 | Owen Wang | Springville Elementary School |
 | Benjamin Zhang | Westview High School |
+| Catherine Zhou | Stoller Middle School |
+| Sophia Zhou | Westview High School |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | Zhi Qu | OES |
 | Zong Qu | Catlin Gabel School |
