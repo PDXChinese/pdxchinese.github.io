@@ -32,7 +32,7 @@ Welcome back to the college students and recent graduates for a social mingle! O
 
 ### 1:45pm - 2pm: PVSA Ceremony
 
-Congratulations to [xx PVSA recipients](https://pdxchinese.org/pvsa/) OCC helped certify in 2024!  
+Congratulations to [73 PVSA recipients](https://pdxchinese.org/pvsa/) OCC helped certify in 2024!  
 Hosted by the certification volunteers: **Xinmei Li**, **Jing Liu**  and **Wei Lu**  
 
 ### 2pm - 4pm: Peer Social and Support Hour with Middle and High School Students
