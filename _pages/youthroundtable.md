@@ -5,11 +5,11 @@ permalink: /youthroundtable/
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/communities/youthroundtable_logo3)
 
-## 2024年俄勒冈华裔青少年圆桌会
-# 8th Annual Oregon Chinese Youth Roundtable
+## 2025年俄勒冈华裔青少年圆桌会
+# 9th Annual Oregon Chinese Youth Roundtable
 
 ## Date  
-12/29/2024 Sunday 12pm - 4pm  
+12/28/2025 Sunday 12pm - 4pm  
 
 ## Place  
 Hope Chinese Charter School ([3500 SW 104th Ave, Beaverton, OR 97005](https://www.google.com/maps/place/3500+SW+104th+Ave,+Beaverton,+OR+97005/@45.4946017,-122.7859877,17.23z/data=!4m6!3m5!1s0x54950eaa592b68cf:0x95f1a9e4aa037731!8m2!3d45.4946761!4d-122.7838146!16s%2Fg%2F11bw43ybzc?entry=ttu))  
@@ -26,14 +26,13 @@ Middle and high school students, college students, and college graduates
 
 ## Agenda
 
-### 12pm - 1:45pm: Social Lunch Hour for College Students and Graduates
+### 12pm - 1pm: Social Lunch Hour Open to All Participants as well as Parents
 
-Welcome back to the college students and recent graduates for a social mingle! Over the past eight years, hundreds of youth have grown up influenced by our community’s rebuilding efforts. The community has supported them through their identity challenges, and now it’s their time to show pride in belonging to this community.
+It’s time to celebrate what our youth have accomplished over the past year both within our community as well as in the broader community.
 
-### 1:45pm - 2pm: PVSA Ceremony
+### 1pm - 2pm: CVSA Ceremony with Motivational Speeches by Distinguished Guests
 
-Congratulations to [73 PVSA recipients](https://pdxchinese.org/pvsa/) OCC helped certify in 2024!  
-Hosted by the certification volunteers: **Xinmei Li**, **Jing Liu**  and **Wei Lu**  
+Congratulations to [CVSA recipients](https://pdxchinese.org/pvsa/) OCC helped certify in 2025!  
 
 ### 2pm - 4pm: Peer Social and Support Hour with Middle and High School Students
 
@@ -43,6 +42,7 @@ Peer mentorship is an excellent way for middle and high school students to learn
 
 ## Archive
 
+2024 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2024.pdf) | [Recap](http://pdxchinese.org/youth_roundtable_2024-recap/)  
 2023 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2023.pdf) | [Recap](http://pdxchinese.org/youth_roundtable_2023-recap/)  
 2022 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2022.pdf) | [Recap](http://pdxchinese.org/youth_roundtable_2022-recap/)  
 2021 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2021.pdf)  
