@@ -38,6 +38,10 @@ Congratulations to [CVSA recipients](https://pdxchinese.org/pvsa/) OCC helped ce
 
 Peer mentorship is an excellent way for middle and high school students to learn from individuals with lived or current experiences in areas that may be of concern to them. Mentors can cover a wide range of topics, including but not limited to college applications, college life, internships, scholarships, career planning, job market insights by field or industry, as well as mental health, leadership development, and even current political issues.
 
+### 2pm - 4pm: Candid Conversation with Parents
+
+With the potential impact of AI on job markets for new college graduates, parents are more anxious than ever. The conversations can span a wide range of topics, including (but not limited to) school choices, extracurriculars, leadership development, camp opportunities, college applications, majors, and even/surely mental health.
+
 ### Logo designed by [Olando Lin](https://www.linkedin.com/in/olando-lin-3696ab37/)
 
 ## Archive
