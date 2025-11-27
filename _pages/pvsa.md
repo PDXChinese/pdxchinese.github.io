@@ -8,9 +8,7 @@ feature_row1:
 feature_row2:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Ashley_Guo
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Ashley_Guo/'>Ashley Guo, Beaverton Academy of Science and Engineering (Gold Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Winston_Larrow
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Winston_Larrow/'>Winston Larrow, Hope Chinese Charter School (Silver Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Olivia_Sun
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Olivia_Sun2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Olivia_Sun/'>Olivia Sun, Jesuit High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Scott_Yao
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Scott_Yao/'>Scott Yao, Lincoln High School (Gold Award)</a></p>"
@@ -20,6 +18,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Yicheng_Zhang/'>Yicheng Zhang, Union High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Claudia_Zhuge
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Claudia_Zhuge/'>Claudia Zhuge, Sunset High School (Gold Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Winston_Larrow
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Winston_Larrow/'>Winston Larrow, Hope Chinese Charter School (Silver Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Avery_Neice
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Avery_Neice/'>Avery Neice, Lake Oswego Middle School (Brown Award)</a></p>"
 ---
