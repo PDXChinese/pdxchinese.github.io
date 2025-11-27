@@ -30,7 +30,7 @@ feature_row2:
 
 {% include feature_row id="feature_row1"%}
 
-Congratulations to the youth OCC has assisted **so far** in certifying their volunteering hours for the Community Volunteer Service Awards (CVSA). In one year, they have contributed hundreds of hours in supporting the community, aiding vulnerable individuals, and extending helping hands to their peers. These individuals share a common passion for service, each contributing in their unique way. Together, their stories paint a complete picture of our next generation growing up with love from the community and reciprocating that love by giving back to the community.
+Congratulations to the youth OCC has assisted in certifying their volunteering hours for the Community Volunteer Service Awards (CVSA). In one year, they have contributed hundreds of hours in supporting the community, aiding vulnerable individuals, and extending helping hands to their peers. These individuals share a common passion for service, each contributing in their unique way. Together, their stories paint a complete picture of our next generation growing up with love from the community and reciprocating that love by giving back to the community.
 
 {% include feature_row id="feature_row2"%}
 
