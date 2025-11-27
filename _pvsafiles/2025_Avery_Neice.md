@@ -7,7 +7,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Avery Neice - Brown Award
+# Avery Neice - Bronze Award
 
 **School: Lake Oswego Middle School**  
 **Category: Teens (11-15)**  
