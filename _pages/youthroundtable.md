@@ -34,7 +34,7 @@ It’s time to celebrate what our youth have accomplished over the past year bot
 
 Congratulations to [2025 CVSA recipients](https://pdxchinese.org/pvsa/)!  
 
-Present a song dedicated to OCC: You're on my mind, composed by Yu'er.
+Present a song dedicated to OCC: *You're on my mind*, composed by Yu'er.
 
 ### 2pm - 4pm: Peer Social and Support Hour with Middle and High School Students
 
