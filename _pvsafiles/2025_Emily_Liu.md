@@ -13,9 +13,9 @@ feature_row1:
 **Category: Kids (5-10)**  
 **Hours: 125**  
 
-Emily is a student from Springville Elementary and loves to dance, draw, play Piano, and play Tennis (her favorite sport). Emily’s mom always invites her to volunteer at OCC. Soon, she got very interested in volunteering for the people in her community.
+I am a student from Springville Elementary and love to dance, draw, play piano, and play tennis (my favorite sport). My mom always invites me to volunteer at OCC. Soon, I got very interested in volunteering for the people in the community.
 
-She has volunteered for the Conexbox, Winter Drive, Lan Su Chinese Garden, and the Chinese Festival. Her favorite times are when she gets to do
-something instead of waiting and being bored. When Emily started volunteering at OCC, she realized that she had a lot of skills for how to make good conversations with the people in her community. One of Emily’s favorite times of volunteering is tidying Lan Su Chinese garden.
+I have volunteered for the Conexbox, Winter Drive, Lan Su Chinese Garden, and the Chinese Festival. My favorite times are when I get to do
+something instead of waiting and being bored. When I started volunteering at OCC, I realized that I had a lot of skills for how to make good conversations with the people in the community. One of my favorite times of volunteering is tidying Lan Su Chinese Garden.
 
 Oregon Chinese Coalition is proud to recognize the volunteers who consistently take the time to make a difference in the lives of others. Therefore, it is a great honor to present the Community Volunteer Service Award (CVSA) to Emily Liu.
