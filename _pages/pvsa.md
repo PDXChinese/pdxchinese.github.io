@@ -8,7 +8,7 @@ feature_row1:
 feature_row2:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Kevin_Dai
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Kevin_Dai/'>Kevin Dai, Sunset High School (Gold Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Ashley_Guo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Ashley_Guo2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Ashley_Guo/'>Ashley Guo, Beaverton Academy of Science and Engineering (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Geng_Han
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Geng_Han/'>Geng Han, Catlin Gabel School (Gold Award)</a></p>"
@@ -34,7 +34,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Lucas_Wang/'>Lucas Wang, International School of Beaverton (Silver Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Eric_Zhao3
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Eric_Zhao/'>Eric Zhao, Sunset High School (Silver Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Avery_Neice
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Avery_Neice2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Avery_Neice/'>Avery Neice, Lake Oswego Middle School (Bronze Award)</a></p>"
 ---
 
