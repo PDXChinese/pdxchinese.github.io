@@ -30,7 +30,9 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Claudia_Zhuge/'>Claudia Zhuge, Sunset High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Winston_Larrow
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Winston_Larrow/'>Winston Larrow, Hope Chinese Charter School (Silver Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Eric_Zhao2
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Lucas_Wang
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Lucas_Wang/'>Lucas Wang, International School of Beaverton (Silver Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Eric_Zhao3
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Eric_Zhao/'>Eric Zhao, Sunset High School (Silver Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Avery_Neice
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Avery_Neice/'>Avery Neice, Lake Oswego Middle School (Bronze Award)</a></p>"
