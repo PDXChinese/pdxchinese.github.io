@@ -6,7 +6,7 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/cvsa-back2
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/year_2025
 feature_row2:
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Kevin_Dai
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Kevin_Dai3
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Kevin_Dai/'>Kevin Dai, Sunset High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Ashley_Guo2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Ashley_Guo/'>Ashley Guo, Beaverton Academy of Science and Engineering (Gold Award)</a></p>"
@@ -16,7 +16,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Arianna_Hong/'>Arianna Hong, Beaverton Academy of Science and Engineering (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Brianna_Hong
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Brianna_Hong/'>Brianna Hong, Beaverton Academy of Science and Engineering (Gold Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Olivia_Sun2
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Olivia_Sun3
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Olivia_Sun/'>Olivia Sun, Jesuit High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Derica_Theobald
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Derica_Theobald/'>Derica Theobald, Lincoln High School (Gold Award)</a></p>"
@@ -26,9 +26,9 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Chloe_Zhang/'>Chloe Zhang, Sherwood High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Yicheng_Zhang2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Yicheng_Zhang/'>Yicheng Zhang, Union High School (Gold Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Claudia_Zhuge
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Claudia_Zhuge2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Claudia_Zhuge/'>Claudia Zhuge, Sunset High School (Gold Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Winston_Larrow
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Winston_Larrow2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Winston_Larrow/'>Winston Larrow, Hope Chinese Charter School (Silver Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Lucas_Wang
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Lucas_Wang/'>Lucas Wang, International School of Beaverton (Silver Award)</a></p>"
