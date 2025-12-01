@@ -38,6 +38,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Lucas_Zhang/'>Lucas Zhang, Catlin Gabel School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Yicheng_Zhang2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Yicheng_Zhang/'>Yicheng Zhang, Union High School (Gold Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Cynthia_Zhao
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Cynthia_Zhao/'>Cynthia Zhao, Jesuit High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Xinye_Zhu
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Xinye_Zhu/'>Xinye Zhu, Lincoln High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Claudia_Zhuge2
