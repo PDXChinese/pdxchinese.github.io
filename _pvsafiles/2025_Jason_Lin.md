@@ -11,7 +11,7 @@ feature_row1:
 
 **School: Meadow Park Middle School**  
 **Category: Teens (11-15)**  
-**Hours: 58**  
+**Hours: 81**  
 
 Jason is a 7th grader at Meadow Park Middle School who is passionate about making a positive difference in his community. He is devoted to helping others and believes that even small acts of kindness can have a big impact. Whether it’s volunteering, supporting classmates, or lending a hand to neighbors, Jason is always eager to contribute and inspire those around him.
 
