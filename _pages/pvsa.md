@@ -22,7 +22,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Emily_Liu/'>Emily Liu, Springville Elementary School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Wenyan_Lu2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Wenyan_Lu/'>Wenyan Lu, West Linn High School (Gold Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Jayden_Mei3
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Jayden_Mei4
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Jayden_Mei/'>Jayden Mei, Westview High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Jessie_Pan
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Jessie_Pan/'>Jessie Pan, Lake Oswego High School (Gold Award)</a></p>"
