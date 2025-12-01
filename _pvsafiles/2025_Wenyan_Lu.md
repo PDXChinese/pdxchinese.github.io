@@ -1,7 +1,7 @@
 ---
 title: " "
 feature_row1:
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Wenyan_Lu
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Wenyan_Lu2
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/year_2025
 ---
 
@@ -13,7 +13,7 @@ feature_row1:
 **Category: Young Adults (16-25)**  
 **Hours: 252.5**  
 
-Lucy is a current senior at West Linn High School. With a passion for making a difference, Lucy has volunteered extensively through a variety of initiatives, including serving at the hospital, interning at her high school’s Speech-Language Pathology program, and serving on the West Linn Youth Advisory Council, among others. 
+Lucy is a current senior at West Linn High School. With a passion for making a difference, Lucy has volunteered extensively through a variety of initiatives, including serving at the hospital, interning at her high school’s Speech-Language Pathology program, and serving on the West Linn Youth Advisory Council, among others.
 
 In the past year, Lucy has focused her efforts on MusicMed, a student-led nonprofit organization that uses the power of music to uplift the lives of patients and seniors. As Executive Director, Lucy leads organization-wide meetings, coordinates volunteers, and organizes fundraising events and benefit concerts. Through MusicMed, Lucy combines her love of music with her dedication to uplifting patients and seniors in the community.
 
