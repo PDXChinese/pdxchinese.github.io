@@ -7,7 +7,7 @@ feature_row1:
 
 {% include feature_row id="feature_row1"%}
 
-# Wenyan Lu - Gold Award
+# Wenyan Lucy Lu - Gold Award
 
 **School: West Linn High School**  
 **Category: Young Adults (16-25)**  
