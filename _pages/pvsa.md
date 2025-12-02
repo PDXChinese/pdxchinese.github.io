@@ -46,6 +46,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Derica_Theobald/'>Derica Theobald, Lincoln High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Scott_Yao2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Scott_Yao/'>Scott Yao, Lincoln High School (Gold Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Bryan_Zhang
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Bryan_Zhang/'>Bryan Zhang, Westview High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Chloe_Zhang2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Chloe_Zhang/'>Chloe Zhang, Sherwood High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Lucas_Zhang
