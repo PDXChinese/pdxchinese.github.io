@@ -6,7 +6,7 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/cvsa-back2
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/year_2025
 feature_row2:
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Kevin_Dai3
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Kevin_Dai4
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Kevin_Dai/'>Kevin Dai, Sunset High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Ashley_Guo3
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Ashley_Guo/'>Ashley Guo, Beaverton Academy of Science and Engineering (Gold Award)</a></p>"
@@ -22,7 +22,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Emily_Liu/'>Emily Liu, Springville Elementary School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Wenyan_Lu2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Wenyan_Lu/'>Wenyan Lu, West Linn High School (Gold Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Jayden_Mei4
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Jayden_Mei5
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Jayden_Mei/'>Jayden Mei, Westview High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Jessie_Pan
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Jessie_Pan/'>Jessie Pan, Lake Oswego High School (Gold Award)</a></p>"
@@ -30,7 +30,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Nicholas_Peng/'>Nicholas Peng, Jesuit High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Zora_Persun
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Zora_Persun/'>Zora Persun, Jesuit High School (Gold Award)</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Erin_Qiu
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Erin_Qiu2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Erin_Qiu/'>Erin Qiu, Stoller Middle School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Olivia_Sun3
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Olivia_Sun/'>Olivia Sun, Jesuit High School (Gold Award)</a></p>"
