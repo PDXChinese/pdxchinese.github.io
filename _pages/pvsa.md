@@ -20,6 +20,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Arianna_Hong/'>Arianna Hong, Beaverton Academy of Science and Engineering (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Brianna_Hong2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Brianna_Hong/'>Brianna Hong, Beaverton Academy of Science and Engineering (Gold Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Caelyn_Hong
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Caelyn_Hong/'>Caelyn Hong, Lake Oswego Middle School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Doris_Hong
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Doris_Hong/'>Doris Hong, Lake Oswego High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Bella_Lin
@@ -60,6 +62,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Ziying_Zheng/'>Ziying Zheng, Camas High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Cynthia_Zhao
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Cynthia_Zhao/'>Cynthia Zhao, Jesuit High School (Gold Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Qinyun_Zhu
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Qinyun_Zhu/'>Qinyun Zhu, Valley Catholic High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Xinye_Zhu
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Xinye_Zhu/'>Xinye Zhu, Lincoln High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Claudia_Zhuge2
