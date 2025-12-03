@@ -84,6 +84,10 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Eric_Zhao/'>Eric Zhao, Sunset High School (Silver Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Avery_Neice2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Avery_Neice/'>Avery Neice, Lake Oswego Middle School (Bronze Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Owen_Ni
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Owen_Ni/'>Owen Ni, Lake Oswego High School (Bronze Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Benjamin_Zhang
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Benjamin_Zhang/'>Benjamin Zhang, Westview Middle School (Bronze Award)</a></p>"
 ---
 
 >Before PVSA resumes, OCC has decided to present the **Community Volunteer Service Award (CVSA)** — previously the PVSA Equivalent Award for Non-Resident Volunteers — to all volunteers. We will follow the same timeline, standards, and procedures as the PVSA certification process. The application will be available approximately one week after the end of the current cycle (October 27 through October 26).
