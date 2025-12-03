@@ -20,6 +20,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Arianna_Hong/'>Arianna Hong, Beaverton Academy of Science and Engineering (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Brianna_Hong2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Brianna_Hong/'>Brianna Hong, Beaverton Academy of Science and Engineering (Gold Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Doris_Hong
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Doris_Hong/'>Doris Hong, Lake Oswego High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Bella_Lin
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Bella_Lin/'>Bella Lin, Westview High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Emily_Liu
@@ -72,6 +74,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Levin_Liu/'>Levin Liu, Sunset High School (Silver Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Lucas_Wang
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Lucas_Wang/'>Lucas Wang, International School of Beaverton (Silver Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Brady_Zhang
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Brady_Zhang/'>Brady Zhang, Findley Elementary (Silver Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Eric_Zhao3
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Eric_Zhao/'>Eric Zhao, Sunset High School (Silver Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Avery_Neice2
