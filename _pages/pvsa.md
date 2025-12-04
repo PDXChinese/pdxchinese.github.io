@@ -10,6 +10,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Melvin_Bao/'>Melvin Bao, Beaverton Academy of Science and Engineering (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Jiaying_Chen
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Jiaying_Chen/'>Jiaying Chen, Lincoln High School (Gold Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Daisy_Conway
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Daisy_Conway/'>Daisy Conway, Mountain View High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Kevin_Dai4
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Kevin_Dai/'>Kevin Dai, Sunset High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Ashley_Guo3
@@ -24,6 +26,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Caelyn_Hong/'>Caelyn Hong, Lake Oswego Middle School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Doris_Hong
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Doris_Hong/'>Doris Hong, Lake Oswego High School (Gold Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Jocelyn_Li
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Jocelyn_Li/'>Jocelyn Li, Catlin Gabel School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Bella_Lin
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Bella_Lin/'>Bella Lin, Westview High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Emily_Liu
