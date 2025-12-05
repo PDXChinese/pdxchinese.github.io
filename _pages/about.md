@@ -88,20 +88,6 @@ Junior at Sunset High School
 
 Mr. McCandlish graduated with honors from Harvard College in 1967. He then worked in the Peace Corps in central Africa. He received his law degree at Northwestern School of Law (Lewis & Clark). He served as staff co-counsel for the Senate Judiciary Committee in Salem. He spent two years with the Metro Public Defender's office in Portland. He started [his own firm](http://griffinandmccandlish.com) in 1981, and joined forces with Mark Griffin in 1988.
 
-## Advisor for Musical Performance and Affairs
-
-{% include feature_row id="feature_row3"%}
-
-### Li Kuang
-
-Dr. Kuang holds a Doctor of Musical Arts degree from The University of Texas at Austin, two Master of Music degrees from The University of Michigan, Bachelor of Music degrees from Bowling Green State University, and Sichuan Conservatory of Music. Dr. Kuang is an internationally-award winning performing artist and sought-after adjudicator. Dr. Kuang judged many music competitions and contests. He is also a music theorist, theory teacher, piano instructor, and trombone professor. He currently serves as a Professor of Music at Portland State University and the director of PSU Trombone Choir.
-
-## Featured Community Members
-
-{% include feature_row id="feature_row2"%}
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/logo/oaarg1kffmrs0wyx3yrb)
-
 Congratulations to following Chinese Americans who won national recognitions in recent years!
 
 ### Marshall Scholarship
