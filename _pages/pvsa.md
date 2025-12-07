@@ -46,6 +46,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Zora_Persun/'>Zora Persun, Jesuit High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Erin_Qiu2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Erin_Qiu/'>Erin Qiu, Stoller Middle School (Gold Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Elizabeth_Shen
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Elizabeth_Shen/'>Elizabeth Shen, Mountainside High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Briana_Sun
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Briana_Sun/'>Briana Sun, Westview High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Olivia_Sun3
