@@ -49,7 +49,7 @@ Four-Season Education on Cancers: HPV in Fall, Breast Cancer in Winter, Canton C
 
 对 HPV (人类乳突病毒 Human Papillomavirus)，疫苗和接种的[社区问卷调查](https://docs.google.com/forms/d/e/1FAIpQLSfBLNIl1qobNfjZtJB1fpB5U7LdaQBUdCqqsAEL_jjHpd1inA/viewform?usp=sf_link)，[简体中文宣传单](/assets/pdf/hpv_chinese.pdf)，问卷调查结果，OHSU资助介入计划
 
->[HPV Vaccination Education / HPV疫苗接种宣传](https://pdxchinese.org/mentalhpv_vaccination/)
+>[HPV Vaccination Education / HPV疫苗接种宣传](https://pdxchinese.org/hpv_vaccination/)
 
 # Public Health Advocacy
 
