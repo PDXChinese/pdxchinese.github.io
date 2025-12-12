@@ -1,6 +1,6 @@
 ---
 title: "HPV疫苗接种 - 保护您孩子未来的健康"
-permalink: /hpv/
+permalink: /hpv_vaccination/
 feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/janice_lee
     excerpt: "Dr. Janice Lee, (家庭科医生）穆尔特诺玛县卫生中心"
