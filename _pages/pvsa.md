@@ -14,6 +14,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Daisy_Conway/'>Daisy Conway, Mountain View High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Kevin_Dai4
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Kevin_Dai/'>Kevin Dai, Sunset High School (Gold Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Ashley_Fong
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Ashley_Fong/'>Ashley Fong, Hosford Middle School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Ashley_Guo3
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Ashley_Guo/'>Ashley Guo, Beaverton Academy of Science and Engineering (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Geng_Han
@@ -32,6 +34,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Alena_Li/'>Alena Li, Crescent Valley High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Jocelyn_Li
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Jocelyn_Li/'>Jocelyn Li, Catlin Gabel School (Gold Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Zhengyan_Li
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Zhengyan_Li/'>Zhengyan Li, Southridge High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Bella_Lin
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Bella_Lin/'>Bella Lin, Westview High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Emily_Liu
