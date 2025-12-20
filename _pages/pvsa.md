@@ -26,6 +26,10 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Caelyn_Hong/'>Caelyn Hong, Lake Oswego Middle School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Doris_Hong
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Doris_Hong/'>Doris Hong, Lake Oswego High School (Gold Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Aiden_Li2
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Aiden_Li/'>Aiden Li, Crescent Valley High School (Gold Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Alena_Li2
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Alena_Li/'>Alena Li, Crescent Valley High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Jocelyn_Li
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Jocelyn_Li/'>Jocelyn Li, Catlin Gabel School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Bella_Lin
@@ -98,6 +102,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Owen_Ni/'>Owen Ni, Lake Oswego High School (Bronze Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Benjamin_Zhang
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Benjamin_Zhang/'>Benjamin Zhang, Westview Middle School (Bronze Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Leo_Zhao
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Leo_Zhao/'>Leo Zhao, Camas High School (Bronze Award)</a></p>"
 ---
 
 >Before PVSA resumes, OCC has decided to present the **Community Volunteer Service Award (CVSA)** — previously the PVSA Equivalent Award for Non-Resident Volunteers — to all volunteers. We will follow the same timeline, standards, and procedures as the PVSA certification process. The application will be available approximately one week after the end of the current cycle (October 27 through October 26).
