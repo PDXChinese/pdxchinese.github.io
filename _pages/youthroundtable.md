@@ -9,12 +9,12 @@ permalink: /youthroundtable/
 # 9th Annual Oregon Chinese Youth Roundtable
 
 ## Date  
-12/28/2025 Sunday 12pm - 4pm  
+12/28/2025 Sunday 11:30am - 4pm  
 
 ## Place  
 Hope Chinese Charter School ([3500 SW 104th Ave, Beaverton, OR 97005](https://www.google.com/maps/place/3500+SW+104th+Ave,+Beaverton,+OR+97005/@45.4946017,-122.7859877,17.23z/data=!4m6!3m5!1s0x54950eaa592b68cf:0x95f1a9e4aa037731!8m2!3d45.4946761!4d-122.7838146!16s%2Fg%2F11bw43ybzc?entry=ttu))  
 
-**Parking:** Please park in the west side of the school building (in front of school main entrance), try not to park on the north side which is lodge's property.
+**Parking:** Please park on the west side of the school building (in front of school main entrance), try not to park on the north side which is lodge's property.
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/hope_map)
 
@@ -26,17 +26,17 @@ Middle and high school students, college students, and college graduates
 
 ## Agenda
 
-### 12pm - 1pm: Social Lunch Hour Open to All Participants as well as Parents
+### 11:30am - 1pm: College & Post-Graduate Social Lunch Hour
 
-It’s time to celebrate what our youth have accomplished over the past year both within our community as well as in the broader community.
+This space is reserved for college students and recent graduates. The questions on their minds and the challenges they face are very different from those they encountered in high school. A light lunch will be provided.
 
-### 1pm - 2pm: CVSA Ceremony with Motivational Speeches by Distinguished Guests
+### 1pm - 2pm: Award Ceremony and Social Mingling for All Participants
 
-Congratulations to [2025 CVSA recipients](https://pdxchinese.org/pvsa/)!  
+*Middle and high school students are expected to arrive at 1pm*
 
-Present a song dedicated to OCC: *You're on my mind*, composed by Yu'er.
+Congratulations to [2025 Community Volunteer Service Award (CVSA) recipients](https://pdxchinese.org/pvsa/)! Medals and certificates will be presented to recipients with Portland Harmonics group presenting a song dedicated to OCC: *You're on my mind*, composed by Yu'er.
 
-### 2pm - 4pm: Peer Social and Support Hour with Middle and High School Students
+### 2pm - 4pm: Structured Roundtable Session for All Participants
 
 Peer mentorship is an excellent way for middle and high school students to learn from individuals with lived or current experiences in areas that may be of concern to them. Mentors can cover a wide range of topics, including but not limited to college applications, college life, internships, scholarships, career planning, job market insights by field or industry, as well as mental health, leadership development, and even current political issues.
 
