@@ -13,6 +13,10 @@ feature_row1:
 **Category: Teens (11-15)**  
 **Hours: 103**  
 
-"My name is Li Zhengyan. I am 15 years old and a student at Southridge High School. I enjoy playing basketball and am passionate about engaging in meaningful activities that help me grow and make good use of my time."
+"My name is Zhengyan Li,and I am 15 years old. At present, I am a high school student. My usual hobbies are mainly playing basketball and cycling. I like to challenge myself in sports, and I also enjoy the sense of accomplishment brought by teamwork.
+
+In the past year, I have participated in a number of community volunteer activities, including clothing donation activities, sidewalk cleaning, festival arrangement, etc. Through these volunteer services, I not only learned how to communicate and cooperate with different people, but also better understood the meaning of responsibility, patience and helping others. I feel proud to be able to contribute my strength in the community.
+
+In the future, I hope to continue to participate in more volunteer activities and make continuous progress in learning and interest. "
 
 Oregon Chinese Coalition is proud to recognize the volunteers who consistently take the time to make a difference in the lives of others. Therefore, it is a great honor to present the Community Volunteer Service Award (CVSA) to Zhengyan Li.
