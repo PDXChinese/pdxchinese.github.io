@@ -28,7 +28,7 @@ Middle and high school students, college students, and college graduates
 
 ### 11am - 11:30pm A song dedicated to OCC and community: *You're on my mind*
 
-Composed by Aaron, a high schooler in local community.
+Composed by Yu’er, a local high school student; performed by Tingting Hou, a local vocalist.
 
 ### 11:30am - 1pm: College & Post-Graduate Social Lunch Hour
 
