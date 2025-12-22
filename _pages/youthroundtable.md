@@ -34,9 +34,9 @@ Composed by Yu’er, a local high school student; performed by Tingting Hou, a l
 
 This space is reserved for college students and recent graduates. The questions on their minds and the challenges they face are very different from those they encountered in high school. A light lunch will be provided.
 
-### 1pm - 2pm: Award Ceremony and Social Mingling for All Participants
-
 *Middle and high school students are expected to arrive at 1pm*
+
+### 1pm - 2pm: Award Ceremony and Social Mingling for All Participants
 
 Congratulations to [2025 Community Volunteer Service Award (CVSA) recipients](https://pdxchinese.org/pvsa/)! Medals and certificates will be presented to recipients with Portland Harmonics group performing *You Raise Me Up*.
 
