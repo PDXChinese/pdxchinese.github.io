@@ -26,6 +26,10 @@ Middle and high school students, college students, and college graduates
 
 ## Agenda
 
+### 11am - 11:30pm A song dedicated to OCC and community: *You're on my mind*
+
+Composed by Aaron, a high schooler in local community.
+
 ### 11:30am - 1pm: College & Post-Graduate Social Lunch Hour
 
 This space is reserved for college students and recent graduates. The questions on their minds and the challenges they face are very different from those they encountered in high school. A light lunch will be provided.
@@ -34,7 +38,7 @@ This space is reserved for college students and recent graduates. The questions 
 
 *Middle and high school students are expected to arrive at 1pm*
 
-Congratulations to [2025 Community Volunteer Service Award (CVSA) recipients](https://pdxchinese.org/pvsa/)! Medals and certificates will be presented to recipients with Portland Harmonics group presenting a song dedicated to OCC: *You're on my mind*, composed by Yu'er.
+Congratulations to [2025 Community Volunteer Service Award (CVSA) recipients](https://pdxchinese.org/pvsa/)! Medals and certificates will be presented to recipients with Portland Harmonics group performing *You Raise Me Up*.
 
 ### 2pm - 4pm: Structured Roundtable Session for All Participants
 
