@@ -13,6 +13,6 @@ feature_row1:
 **Category: Teens (11-15)**  
 **Hours: 88**  
 
-"My name is Samantha Ngan,I’m 13 in 8th grade currently and I decided to do these volunteering jobs to be educated and to educate myself and people around me.I heard about these volunteering jobs from a friend and her mom and from then I’ve been doing volunteering for about 2 years. From those two years it had given joy to me having to do this with friends and getting to know people. This is a way I express my gratitude and respect to helpful people also doing similar volunteering on a higher level and I hope this supports the community we have built."
+"My name is Samantha Ngan. I’m 13 in 8th grade currently. I decided to do these volunteering jobs to be educated and to educate myself and people around me. I heard about these volunteering opportunities from a friend and her mom. And from then I’ve been doing volunteering for about two years. From those two years it had given joy to me having to do this with friends and getting to know people. This is a way I express my gratitude and respect to helpful people also doing similar volunteering on a higher level and I hope this supports the community we have built."
 
 Oregon Chinese Coalition is proud to recognize the volunteers who consistently take the time to make a difference in the lives of others. Therefore, it is a great honor to present the Community Volunteer Service Award (CVSA) to Samantha Ngan.
