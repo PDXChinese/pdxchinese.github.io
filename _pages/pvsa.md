@@ -94,6 +94,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Jason_Lin/'>Jason Lin, Meadow Park Middle School (Silver Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Levin_Liu
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Levin_Liu/'>Levin Liu, Sunset High School (Silver Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Samantha_Ngan
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Samantha_Ngan/'>Samantha Ngan, Hosford Middle School (Silver Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Lucas_Wang
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Lucas_Wang/'>Lucas Wang, International School of Beaverton (Silver Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Brady_Zhang
