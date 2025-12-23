@@ -62,6 +62,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Briana_Sun/'>Briana Sun, Westview High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Olivia_Sun3
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Olivia_Sun/'>Olivia Sun, Jesuit High School (Gold Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Irene_Wang
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Irene_Wang/'>Irene Wang, Tumwater Middle School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Meilan_Xu
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Meilan_Xu/'>Meilan Xu, Westview High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Derica_Theobald
