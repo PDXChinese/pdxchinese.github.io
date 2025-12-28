@@ -12,6 +12,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Jiaying_Chen/'>Jiaying Chen, Lincoln High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Daisy_Conway
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Daisy_Conway/'>Daisy Conway, Mountain View High School (Gold Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Arianna_Cui
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Arianna_Cui/'>Arianna Cui, Sunset High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Kevin_Dai4
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Kevin_Dai/'>Kevin Dai, Sunset High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Ashley_Fong
