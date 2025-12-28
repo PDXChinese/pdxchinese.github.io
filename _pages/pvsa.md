@@ -94,6 +94,10 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Xinye_Zhu/'>Xinye Zhu, Lincoln High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Claudia_Zhuge2
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Claudia_Zhuge/'>Claudia Zhuge, Sunset High School (Gold Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Brianna_Chen
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Brianna_Chen/'>Brianna Chen, West Linn High School (Silver Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Ella_Chen
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Ella_Chen/'>Ella Chen, Rosemont Ridge Middle School (Silver Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Ria_Ganesh
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Ria_Ganesh/'>Ria Ganesh, Bonny Slope Elementary School (Silver Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Winston_Larrow2
