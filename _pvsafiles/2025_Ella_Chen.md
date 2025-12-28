@@ -9,7 +9,7 @@ feature_row1:
 
 # Ella Chen - Silver Award
 
-**School: Rosemont Ridge MIddle School**  
+**School: Rosemont Ridge Middle School**  
 **Category: Teens (11-15)**  
 **Hours: 76**  
 
