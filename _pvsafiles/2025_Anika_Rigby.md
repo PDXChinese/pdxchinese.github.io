@@ -11,9 +11,9 @@ feature_row1:
 
 **School: Lincoln High School**  
 **Category: Teens (11-15)**  
-**Hours: 270**  
+**Hours: 273**  
 
-Anika is a junior at Lincoln High School. Over the past year, she has committed to a wide range of roles to strengthen her connection to both her school and her city. 
+Anika is a junior at Lincoln High School. Over the past year, she has committed to a wide range of roles to strengthen her connection to both her school and her city.
 
 After winning the national championship in Constitutional debate, she helped mentor the following year's team, guiding students through the U.S. Constitution. She also teaches citizenship classes to green card holders through Mission: Citizen, preparing them not only for the naturalization exam but for a lifetime of informed civic participation. As the organization's finance director, she helps provide scholarships to alleviate the financial burden the exam may pose. Her dedication to politics extends through her internship with New Voters and at the U.S. District Court for the District of Oregon, supporting voting rights, democratic participation, and civic duty.   
 
