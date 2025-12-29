@@ -34,7 +34,7 @@ Hours are measured over a 12-month period (Oct 27 through Oct 26) and awards are
 
 Once the documentation is received via email ([volunteer@pdxchinese.org](mailto:volunteer@pdxchinese.org)) by announced deadline, OCC will verify all records and confirm that the candidate has completed the number of service hours in good standing as required to earn a President’s Volunteer Service Award.
 
-Our volunteers who assist with certifying students’ hours have prepared a detailed **[PVSA/CVSA Application Guide](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pdf/PVSA_Application_Instruction_v2025.pdf)**, Please review it carefully; it is available in both English and Chinese.
+Our volunteers who assist with certifying students’ hours have prepared a detailed **[PVSA/CVSA Application Guide](/assets/pdf/PVSA_Application_Instruction_v2025.pdf)**, Please review it carefully; it is available in both English and Chinese.
 
 Many students and parents inquire about volunteer opportunities. We encourage you to explore what past recipients have accomplished by clicking on their names here: [Current and past PVSA/CVSA honorees](https://pdxchinese.org/pvsa/)  
 
