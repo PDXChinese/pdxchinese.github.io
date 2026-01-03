@@ -88,6 +88,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Ziying_Zheng/'>Ziying Zheng, Camas High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Cynthia_Zhao
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Cynthia_Zhao/'>Cynthia Zhao, Jesuit High School (Gold Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Derek_Zhao
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Derek_Zhao/'>Derek Zhao, Lake Oswego High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Qinyun_Zhu
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Qinyun_Zhu/'>Qinyun Zhu, Valley Catholic High School (Gold Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Xinye_Zhu
