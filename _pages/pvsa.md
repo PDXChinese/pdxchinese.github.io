@@ -116,6 +116,8 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Brady_Zhang/'>Brady Zhang, Findley Elementary (Silver Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Eric_Zhao3
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Eric_Zhao/'>Eric Zhao, Sunset High School (Silver Award)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Helen_Guo
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Helen_Guo/'>Hellen Guo, Springville Elementary School (Bronze Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Haruki_Kato
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Haruki_Kato/'>Haruki Kato, Mountainside High School (Bronze Award)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Avery_Neice2
