@@ -9,7 +9,7 @@ feature_row1:
 
 # Arianna Cui - Gold Award
 
-**School: Sunset High School**  
+**School: Jesuit High School**  
 **Category: Teens (11-15)**  
 **Hours: 115**  
 
