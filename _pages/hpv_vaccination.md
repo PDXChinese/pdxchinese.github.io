@@ -56,10 +56,8 @@ feature_row1:
 • 以下零售药房在俄勒冈州提供HPV疫苗接种，有些甚至提供奖励：  
 >CVS，Fred Meyer，Rite Aid，Safeway，QFC，Walgreens  
 
-- 孩子所在学校的健康中心  
-（请观看教学视频，了解如何预约及准备就诊：[中文](https://youtube.com/shorts/dfG52qyHiq8?feature=share)，[英文](https://youtube.com/shorts/_6QCYufW8L0?feature=share)）  
-
-• 查看俄勒冈州学校健康中心地图和完整列表。
+- 孩子所在学校的健康中心（请观看教学视频，了解如何预约及准备就诊：[中文](https://youtube.com/shorts/dfG52qyHiq8?feature=share)，[英文](https://youtube.com/shorts/_6QCYufW8L0?feature=share)）  
+• 查看俄勒冈州学校健康中心地图和完整列表。  
 
 立即行动！
 
@@ -70,7 +68,6 @@ feature_row1:
 ### 专家之声 ([audio file](https://drive.google.com/file/d/1kT_g5gc3barqicHc550miczrOP0NTsBP/view))
 
 {% include feature_row id="feature_row1"%}
-
 “HPV（人乳头瘤病毒）是一种常见病毒，可能导致宫颈癌及其他类型的癌症。幸运的是
 ，有一种疫苗可以预防HPV——它是唯一能帮助预防这些癌症的疫苗。它安全、有效，并
 且推荐给所有人。请向您的医生咨询HPV疫苗——保护健康从预防开始。”
