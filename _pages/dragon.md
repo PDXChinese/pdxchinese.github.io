@@ -7,7 +7,7 @@ permalink: /dragon/
 
 *<code style="color:brown">We’re committed to continuing this tradition, with the hope that Chinatown will remain a cultural destination for the entire city.</code>*
 
-*<code style="color:brown">See you all on May 23, 2026.</code>*
+*<code style="color:brown">Hold off until further notice</code>*
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/chinatown/rod_logo)
 

@@ -9,35 +9,6 @@ permalink: /updates/
 
 # <code style="color:brown">年度活动/Annual Events</code>
 
-
-### October
-
-### [总统/社区义工奖认证/PVSA/CVSA Certification](https://pdxchinese.org/volunteering/)
-
-Date: October 27 - November 26  
-[PVSA/CVSA Application Information Form](https://docs.google.com/forms/d/e/1FAIpQLSe_klKsKdkk6Ag1R8JYBFvlu8XSMtgWVNTTW6C0E5OYdYhplQ/viewform?usp=sf_link)  
-
-### November
-
-### [冬季募捐活动/Winter Drive](https://pdxchinese.org/winterdrive/)
-
-Date: Nov 23, 2025 (Sunday before the Thanksgiving)  
-To join, please **[register here](https://docs.google.com/forms/d/e/1FAIpQLSdrA8gtPEE5_7kHLy67J5aQJpBaAxnMR-nlSZLc9KiupzaE_A/viewform?usp=sf_link)**.  
-
-### December
-
-### [青少年圆桌会/Youth Roundtable](https://pdxchinese.org/youthroundtable/)
-
-Date: Dec 27, 2025, 1pm-5pm (Saturday before the New Year)  
-Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_mgEl-2QBBaTOLoIwdgKmCw3K9CXkgN2Kg/viewform?usp=sf_link)  
-
-### January
-
-### [青少年绘画竞赛/Youth Art Contest](https://pdxchinese.org/artcontest/)
-
-Submission Date: January 26, 2026  
-[Offcial Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)  
-
 ### January-February
 
 Chinese/Lunar New Year Celebrations
@@ -79,6 +50,35 @@ Date: August 1, 2026, 11am - 6pm (1st Saturday in August)
 Place: Pioneer Courthouse Square, Portland, Oregon  
 No Registration Required, Free Admission, Open to Public  
 
+### October
+
+### [总统/社区义工奖认证/PVSA/CVSA Certification](https://pdxchinese.org/volunteering/)
+
+Date: October 27 - November 26  
+[PVSA/CVSA Application Information Form](https://docs.google.com/forms/d/e/1FAIpQLSe_klKsKdkk6Ag1R8JYBFvlu8XSMtgWVNTTW6C0E5OYdYhplQ/viewform?usp=sf_link)  
+
+### November
+
+### [冬季募捐活动/Winter Drive](https://pdxchinese.org/winterdrive/)
+
+Date: Nov 23, 2025 (Sunday before the Thanksgiving)  
+To join, please **[register here](https://docs.google.com/forms/d/e/1FAIpQLSdrA8gtPEE5_7kHLy67J5aQJpBaAxnMR-nlSZLc9KiupzaE_A/viewform?usp=sf_link)**.  
+
+### December
+
+### [青少年圆桌会/Youth Roundtable](https://pdxchinese.org/youthroundtable/)
+
+Date: Dec 27, 2025, 1pm-5pm (Saturday before the New Year)  
+Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_mgEl-2QBBaTOLoIwdgKmCw3K9CXkgN2Kg/viewform?usp=sf_link)  
+
+### January
+
+### [青少年绘画竞赛/Youth Art Contest](https://pdxchinese.org/artcontest/)
+
+Submission Date: January 26, 2026  
+[Offcial Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)  
+
+
 ### External: [阿炳樱桃迎新年活动/Bing in the New Year](https://binginthenewyear.com/)
 
 Date: Dec. 31, 2025 Tuesday 6pm-9pm  
@@ -109,20 +109,21 @@ Place: Banfield Motel Shelter by Transition Projects
 
 ******
 
+### Service Day at Tualatin River National Wildlife Refuge Center
+
+Date: Every 2nd Sunday 9am-11:30am  
+Place: 19255 SW Pacific Hwy, Sherwood, OR 97140  
+
+[报名链接/Registration](https://friendsoftualatinrefuge.org/maincal)
+
+******
+
 ### 兰苏园汉语角/Chinese Conversation Table
 
 Date: Every Sunday 2pm-4pm （April-September)  
 Place: Lan Su Chinese Garden 请参加《兰苏园之友微信群》  
 
 [报名链接/Registration](https://signup.com/go/xGFZHzg)
-
-******
-
-### [带老人游园活动/Take the Seniors to the Garden](https://pdxchinese.org/ridewseniors/)
-
-Date: Every 4th Thursday (April-September)  
-Time: Pick up at 10am and return by 1pm  
-Place: Kirkland Union Manors, Marshall Union Manors and Rose Schnitzer Tower  
 
 ******
 
