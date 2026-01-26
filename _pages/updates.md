@@ -25,12 +25,12 @@ Place: Embassy Suite, Hilton Hotel at Washington Square
 ### [社区画展/Community Art Show](https://pdxchinese.org/artexhibit/)
 
 Time: 1pm - 5pm
-Date: Thur - Sun, May 15 - May 25  
+Date: TBD  
 Place: Chinatown, 205 NW 4th Ave, Portland  
 
 ### [龙归中国城/Return of the Dragon](https://pdxchinese.org/dragon/)
 
-Date: May 23, 2026, 11am - 5pm  
+Date: TBD  
 Place: Chinatown, Portland  
 
 ### June
