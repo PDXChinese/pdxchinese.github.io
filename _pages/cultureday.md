@@ -72,29 +72,26 @@ feature_row21:
     - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/culturedayweather
 ---
 
-## 2025 Culture Day will be combined with the Dragon Day in Portland Chinatown on Saturday, May 24
+# 2026 文化体验日 / Culture Day
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/culturedayflyer2024)
+Culture Day is a perfect anchor for language, identity, and community.
 
-{% include feature_row id="feature_row21"%}
+**时间:** 2026年3月15日，周日，4-7点 / March 15, 2026 (Sunday) 4pm-7pm   
+**地点:** Embassy Suites by Hilton Portland Tigard  
+**地址:** 9000 SW Washington Square Rd, Tigard, OR 97223  
+**免费入场，对公众开放** / Free Admission, Open to Public  
 
-# 2024 文化体验日 / Culture Day
-
-**Date:** May 19, 2024 (Sunday) 11am-4pm  
-**Place:** [THPRD Jenkins Estate](https://www.thprd.org/facilities/historic/jenkins-estate) (8005 SW Grabhorn Rd, Beaverton, OR 97007)  
-**Site Map:** [Google Map](https://www.google.com/maps/place/Jenkins+Estate/@45.4608328,-122.8919868,496m/data=!3m1!1e3!4m6!3m5!1s0x549511f8e99b82b5:0x9601b30bc1ad668c!8m2!3d45.4609824!4d-122.8914628!16s%2Fm%2F0h1cst9?entry=ttu), [Site Map](/assets/pdf/jenkinsestatemap.pdf)  
 
 **Purpose:** To promote culture, the arts, and academic endeavor  
 **Participants:** Chinese program students, families and educators  
-**Free Admission, Open to Public**  
 
 >[Sign up](https://docs.google.com/forms/d/e/1FAIpQLSeowOX9XphfUxII1tyVp3jBqOpdLJy2-SSAlLhjywypuYXo8g/viewform?usp=sf_link) to be a 课后作业辅导/Chinese homework helper (The list will be made available through schools)
 
 >[各项活动义工/表演/摊位报名表 / Activity Volunteer/Performance/Tabling Signup Form](https://docs.google.com/forms/d/e/1FAIpQLScAU37jBbljeucZe6bcCARnvf6lywgza_FB95UZZvPlMkOj5w/viewform?usp=sf_link)  
 
-We are continually inspired by the enthusiasm of those who embrace cultures from different parts of the world. We firmly believe that education is the key to fostering understanding among diverse cultures and communities. We understand that learning a new language can be challenging, particularly when access to suitable learning environments is limited. The local Chinese American community is eager to offer assistance.
+We are continually inspired by the enthusiasm of individuals who embrace cultures from around the world. We firmly believe that education is essential to fostering understanding across diverse cultures and communities. We also recognize that learning a new language can be challenging, especially when access to supportive learning environments is limited. In response, the local Chinese American community is eager to offer its support.
 
-By bringing together students enrolled in Chinese classes and programs at public, charter, private, and weekend schools, we can create an immersive learning experience for Chinese culture. Additionally, we can establish a supportive environment by providing resources, training, programs, and inspiration to help each other thrive.
+By bringing together students enrolled in Chinese language classes and programs across public, charter, private, and weekend schools, we can create an immersive and enriching learning experience centered on Chinese culture. At the same time, we can cultivate a strong, supportive ecosystem by providing shared resources, training, programs, and inspiration — empowering students, educators, and families to grow and thrive together.
 
 我们总是被不同肤色的孩子们学习中文的热情所鼓舞。我们坚信教育是促进不同文化和不同社区人民之间理解的关键。我们知道学习另一种语言可能是一个相当大的挑战，尤其是在学习环境不那么完备的情况下。当地华人社区愿意提供帮助。通过将公立、特许、私立和周末学校的中文课程和项目的学生聚集在一起，给大家提供身临其境学习和体验中华文化机会，并帮助创造一个分享资源和相互支持的环境。举办文化体验日会是一个很有益的尝试，
 
@@ -102,7 +99,6 @@ By bringing together students enrolled in Chinese classes and programs at public
 *Subject to change*  
 
 ### 演出和才艺展示 / Performances and Talent Show  
-*On the porch of the Main House*  
 *Having students perform on the stage are optional but very encouraged.*  
 
 {% include feature_row id="feature_row9"%}
@@ -116,85 +112,64 @@ By bringing together students enrolled in Chinese classes and programs at public
 {% include feature_row id="feature_row8"%}
 
 ### 学习传统舞蹈 / Traditional Chinese Dance Learning & Practicing  
-*Under Tent*  
 
 {% include feature_row id="feature_row7"%}
 
 ### 学习古筝 / Guzheng Practicing  
-*Under Tent*  
 
 {% include feature_row id="feature_row4"%}
 
 ### 学习围棋 / Learning Chinese Weiqi  
-*Under Tent*  
 
 ### 感受中国大鼓 / Hands-On Learning of Chinese Drum  
-*Under Tent*  
 
 {% include feature_row id="feature_row2"%}
 
 ### 学习舞龙 / Playing with Dragon  
-*Outside*  
 
 {% include feature_row id="feature_row3"%}
 
 ### 学习舞狮 / Playing with Lion  
-*Outside*  
 
 {% include feature_row id="feature_row19"%}
 
 ### 学习中国武术 / Learning Martial Arts  
-*Outside*  
 
 {% include feature_row id="feature_row6"%}
 
 ### 学习中国绘画 / Learning Chinese Painting and Drawing  
-*Outside*  
 
 {% include feature_row id="feature_row13"%}
 
 ### 学习中国书法 / Learning Chinese Calligraphy  
-*Outside*  
 
 {% include feature_row id="feature_row15"%}
 
 ### 学习叠纸和剪纸 / Learning Origami and Paper Cutting  
-*Outside*  
 
 {% include feature_row id="feature_row17"%}
 
 # 更多活动 / More Offering on Site
 
-### 中国食品 / Chinese Food  
-*Covered picnic shelter*  
-
-{% include feature_row id="feature_row11"%}
-
 ### 中国茶道 / Chinese Tea Ceremony  
-*Covered picnic shelter*  
 
 {% include feature_row id="feature_row10"%}
 
 ### 中文教材大赠送 / Chinese Textbooks Giveaway  
-*Under Tent*  
 
 ### 传统文化礼品摊位 / Chinese Culture Gifts Tent  
-*On Sale*  
 
 {% include feature_row id="feature_row12"%}
 
 ### 画脸 / FacePainting  
-*Under Tent*  
 
 {% include feature_row id="feature_row14"%}
 
 ### 制作中国年画 / Nianhua (Chinese New Year Paintings/Posters)   
-*Under Tent*  
 
 {% include feature_row id="feature_row20"%}
 
 ### 戒烟宣传 / Tobacco Prevention Campaign  
-*Under Tent*  
 
 {% include feature_row id="feature_row18"%}
 
@@ -254,14 +229,6 @@ Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your schoo
 17 年画制作 / Nianhua (Chinese New Year Paintings/Posters) (2)  
 18 画脸 / Face Painting  (1)  
 
-# 美食摊位 / Food Vendors
-
-十三乡 (3)  
-北京小馆 (3)  
-
-# 赞助单位 / Proud Sponsor and Partnership
-
-{% include feature_row id="feature_row1"%}
-
+# [Revisit 2025 Return of Dragon](https://pdxchinese.org/dragon/) ([Performance Video](https://www.youtube.com/watch?v=VAnXMMKF-Vg))  
 # [Revisit 2024 Culture Day](https://pdxchinese.org/cultureday_2024/) ([Photo Album](https://pdxchinese.org/culture_day_2024/))  
 # [Revisit 2023 Culture Day](https://pdxchinese.org/cultureday_2023/) ([Photo Album](https://pdxchinese.org/culture_day_2023/))  
