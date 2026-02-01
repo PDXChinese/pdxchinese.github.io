@@ -176,59 +176,18 @@ By bringing together students enrolled in Chinese language classes and programs 
 # 参与学校和中文项目 / Schools and Programs  
 *Listed Alphabetically*  
 
-[Bolton Primary School](https://www.wlwv.k12.or.us/bolps) (West Linn)  
-[Clark Elementary School](https://www.pps.net/clark) (SE Portland)  
-[Cleveland High School](https://www.pps.net/Domain/109) (SE Portland)  
-[Franklin Elementary School](https://franklin.vansd.org/) (Vancouver)  
 [German International School of Portland](https://www.gspdx.org/) (Beaverton)  
-[Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (Beaverton)  
-[Hope Chinese Charter School](https://hopeccs.org/) (Beaverton)  
-[International School of Portland](https://intlschool.org/) (Portland Downtown)  
-[Lincoln High School](https://www.pps.net/lincoln) (Portland Downtown)  
-[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (Beaverton)  
+[Jacob Wismer Elementary School](https://www.beaverton.k12.or.us/dual-language-elementary-school-programs) (Beaverton)  
 [Palisades World Language School](https://pal.losdschools.org/) (Lake Oswego)  
-[Springleaf Chinese School 春叶中文学校](http://springleaf.org/) (SW Portland)  
-[Woodstock Elementary School](https://www.pps.net/woodstock) (SE Portland)  
+[Willamette Chinese School](https://www.willamettechinese.org/) (Corvallis)  
 
 请联系西北兆或 info@pdxchinese.org，如果您的学校希望列在这里。  
 Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your school wants to be listed here.  
 
-# 演出 / Performance on Main Stage
+# 演出 / Performance on Stage
 
-11:20am [OCC Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
-11:30pm [OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
-11:40am [Hope Chinese Charter School](https://hopeccs.org/)  
-11:50am [German International School of Portland](https://www.gspdx.org/)  
-12:20pm [SODA Chinese Dance Academy](https://www.sodadance.com/)  
-12:30pm [OCC Dragonfly YoYo Team](https://pdxchinese.org/yoyo/)  
-12:40pm [OCC Jade Dance Team](https://pdxchinese.org/youthdance/)  
-12:50pm [OCC Phoenix Hanfu Team](https://pdxchinese.org/hanfu/)  
-01:00pm [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/)/[US Wushu Center](https://uswushu.com/)  
-02:00pm [SODA Chinese Dance Academy](https://www.sodadance.com/)  
-02:30pm [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/)  
-03:00pm Dragon Dance with OCC Drum Team  
+# 摊位 / Activity Tabling
 
-# 摊位 / Tabling
-
-01 [THPRD](https://www.thprd.org/)  
-02 [Beaverton School District](https://www.beaverton.k12.or.us/) (1)  
-03 [Oregon Employment Department – EAUI Unit](https://unemployment.oregon.gov/) (1)  
-04 Bloom Youth Tutoring (1)  
-05 [German International School of Portland](https://www.gspdx.org/) (1)  
-06 [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (4)  
-07 [International School of Portland](https://intlschool.org/) (1)  
-08 [Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/) (1)  
-09 OCC Chinese Books (textbooks and literature) Giveaway (3)  
-10 Volunteer Check-in/[OCC Tobacco Prevention](https://pdxchinese.org/healthinitiative/) (2)  
-11 [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (4)  
-12 [PDX Rhythmic Ballet Dance](https://www.pdxrbd.com/) (1)  
-13 SODA中国舞学校 / [SODO Chinese Dance Academy](https://www.sodadance.com/) (1)  
-14 [TeaZen Teahouse / 茶室](https://www.teazen-teahouse.com/) (2)  
-15 王星 书法 / Chinese Calligraphy (2)  
-16 应璇 Emma 扇面绘画 / Painting on Traditional Fans (1)  
-17 年画制作 / Nianhua (Chinese New Year Paintings/Posters) (2)  
-18 画脸 / Face Painting  (1)  
-
-# [Revisit 2025 Return of Dragon](https://pdxchinese.org/dragon/) ([Performance Video](https://www.youtube.com/watch?v=VAnXMMKF-Vg))  
+# [Revisit 2025 Return of Dragon](https://pdxchinese.org/dragon/) ([Video](https://www.youtube.com/watch?v=VAnXMMKF-Vg))  
 # [Revisit 2024 Culture Day](https://pdxchinese.org/cultureday_2024/) ([Photo Album](https://pdxchinese.org/culture_day_2024/))  
 # [Revisit 2023 Culture Day](https://pdxchinese.org/cultureday_2023/) ([Photo Album](https://pdxchinese.org/culture_day_2023/))  
