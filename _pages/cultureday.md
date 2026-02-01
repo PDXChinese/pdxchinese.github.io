@@ -180,14 +180,14 @@ By bringing together students enrolled in Chinese language classes and programs 
 [Jacob Wismer Elementary School](https://www.beaverton.k12.or.us/dual-language-elementary-school-programs) (Beaverton)  
 [Palisades World Language School](https://pal.losdschools.org/) (Lake Oswego)  
 [Willamette Chinese School](https://www.willamettechinese.org/) (Corvallis)  
+many more to be added...  
 
 请联系西北兆或 info@pdxchinese.org，如果您的学校希望列在这里。  
 Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your school wants to be listed here.  
 
-# 演出 / Performance on Stage
 
-# 摊位 / Activity Tabling
+# 活动回顾 / Revisit Past Activities
 
-# [Revisit 2025 Return of Dragon](https://pdxchinese.org/dragon/) ([Video](https://www.youtube.com/watch?v=VAnXMMKF-Vg))  
-# [Revisit 2024 Culture Day](https://pdxchinese.org/cultureday_2024/) ([Photo Album](https://pdxchinese.org/culture_day_2024/))  
-# [Revisit 2023 Culture Day](https://pdxchinese.org/cultureday_2023/) ([Photo Album](https://pdxchinese.org/culture_day_2023/))  
+[2025 Return of Dragon](https://pdxchinese.org/dragon/) ([Video](https://www.youtube.com/watch?v=VAnXMMKF-Vg))  
+[2024 Culture Day](https://pdxchinese.org/cultureday_2024/) ([Photo Album](https://pdxchinese.org/culture_day_2024/))  
+[2023 Culture Day](https://pdxchinese.org/cultureday_2023/) ([Photo Album](https://pdxchinese.org/culture_day_2023/))  
