@@ -182,9 +182,6 @@ By bringing together students enrolled in Chinese language classes and programs 
 [Willamette Chinese School](https://www.willamettechinese.org/) (Corvallis)  
 *more to join...*  
 
-请联系西北兆或 info@pdxchinese.org，如果您的学校希望列在这里。  
-Please contact 西北兆 in WeChat or email to info@pdxchinese.org if your school wants to be listed here.  
-
 # 课外活动摊位 / Extra Curriculum Groups
 
 [Overcharged Robotics](https://overchargedrobotics.org/)  
