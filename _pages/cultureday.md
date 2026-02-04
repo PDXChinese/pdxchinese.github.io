@@ -177,8 +177,11 @@ By bringing together students enrolled in Chinese language classes and programs 
 *Listed Alphabetically*  
 
 [German International School of Portland](https://www.gspdx.org/) (Beaverton)  
+[Hope Chinese Charter School](https://hopeccs.org/) (Beaverton)  
 [Jacob Wismer Elementary School](https://www.beaverton.k12.or.us/dual-language-elementary-school-programs) (Beaverton)  
+[Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (Beaverton)  
 [Palisades World Language School](https://pal.losdschools.org/) (Lake Oswego)  
+[Portland Waldorf School](https://www.portlandwaldorfhighschool.org/) (Milwaukie)  
 [Willamette Chinese School](https://www.willamettechinese.org/) (Corvallis)  
 *more to join...*  
 
