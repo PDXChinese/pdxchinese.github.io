@@ -54,9 +54,7 @@ feature_row4:
 >Award Winning Artworks: [2021](http://pdxchinese.org/artcontestfiles/artcontest_2021/), [2022](http://pdxchinese.org/artcontestfiles/artcontest_2022/), [2023](http://pdxchinese.org/artcontestfiles/artcontest_2023/), [2024](http://pdxchinese.org/artcontestfiles/artcontest_2024/)  
 >Award Ceremony at Refuge: [2021](https://pdxchinese.org/chinatown_window_gallery_gathering/), [2022](https://pdxchinese.org/winners_youth_art_contest_2022/), [2023](https://pdxchinese.org/winners_youth_art_contest_2023/), [2024](https://pdxchinese.org/winners_youth_art_contest_2024/)  
 
-<!-- -
-> **Announcement**: The second year of the Youth Art Contest with planning occurring directly with the OCC, the Friends and the Refuge has started to accept artwork entries.
-
+> **Announcement**: The award ceremony at the refuge will be on February 21 at 10am.
 
 ### Best in Show - Fiona Wang from Sunset High School
 
