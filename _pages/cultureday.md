@@ -183,6 +183,7 @@ By bringing together students enrolled in Chinese language classes and programs 
 [Palisades World Language School](https://pal.losdschools.org/) (Lake Oswego)  
 [Portland Waldorf School](https://www.portlandwaldorfhighschool.org/) (Milwaukie)  
 [Willamette Chinese School](https://www.willamettechinese.org/) (Corvallis)  
+[Worldplus Learning Center 世加学习中心](https://www.worldplus-intl.org/) (Beaverrton)  
 *more to join...*  
 
 # 课外活动摊位 / Extra Curriculum Groups
