@@ -25,7 +25,7 @@ To have us perform in your events, please [contact us](http://pdxchinese.org/con
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345424743_651302106822940_5592377646873928980_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/WeChat Image_20260211220524)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/WeChat_Image_20260211220524)
 
 ### Performance in Chinese Festival
 
