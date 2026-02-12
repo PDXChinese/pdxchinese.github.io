@@ -185,18 +185,6 @@ Care Oregon Advantage CareCard
 >为老年人和残疾人提供免费门到门交通便利  
 招募志愿者司机  
 
-[30] 华人服务中心/[Asian Health & Service Center](https://ahscpdx.org/)  
-
->社区健康和保健服务  
-行为健康预防计划  
-亚裔癌症资源和支持服务  
-
-[31] 美国华裔精神健康联盟/[Mental Health Association for Chinese Communities (MHACC)](https://www.mhacc-usa.org/nami-programs)  
-
->心理暖线（1-800-881-8502)  
-支持小组  
-读书会
-
 [32] 西北天主教心理咨询中心/[The Northwest Catholic Counseling Center](https://www.nwcounseling.org/)
 
 >中文(普通话)心理咨询  
