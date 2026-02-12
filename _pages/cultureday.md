@@ -190,6 +190,7 @@ By bringing together students enrolled in Chinese language classes and programs 
 
 [Overcharged Robotics](https://overchargedrobotics.org/)  
 [Chess A2Z](https://chessa2z.org/)  
+[CISV Portland](https://portland.cisvusa.org/)  
 *more to join...*  
 
 # 活动回顾 / Revisit Past Activities
