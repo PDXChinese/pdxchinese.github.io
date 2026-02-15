@@ -58,7 +58,7 @@ feature_row4:
 
 ### Best in Show - Fiona Wang from Sunset High School
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2022_grp1_1st_large)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2024_grp1_1st_large)
 
 ### Winners, Grade 10-12
 
