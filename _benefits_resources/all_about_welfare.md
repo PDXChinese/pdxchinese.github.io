@@ -81,6 +81,10 @@ feature_row1:
 
 包括 (Assisted Living)(https://www.caring.com/senior-living/assisted-living/), [Memory Care Facilities](https://www.caring.com/senior-living/memory-care-facilities/), [In-Home Care](https://www.caring.com/senior-care/in-home-care/) and [Care Givers](https://www.caring.com/caregivers/)
 
+### 老年人看护中的权益保护
+
+[Nursing Home Abuse & Neglect](https://olsonlawfirm.com/nursing-home-abuse-neglect/)
+
 ### 您计划入籍考试需要帮助怎么办
 
 [您可以利用林肯高中学生为社区提供的免费公民入籍考试准备课程](https://pdxchinese.org/resources/benefits_community/mission-citizen/)
