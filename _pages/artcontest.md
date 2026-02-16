@@ -56,7 +56,7 @@ feature_row4:
 
 > **Announcement**: The award ceremony at the refuge will be on February 21 at 10am.
 
-### Best in Show - Fiona Wang from Sunset High School
+### Best in Show - Tengxi Ma from Portland Waldorf High School
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2024_grp1_1st_large)
 
