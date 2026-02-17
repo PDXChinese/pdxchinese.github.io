@@ -27,6 +27,12 @@ To have us perform in your events, please [contact us](http://pdxchinese.org/con
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/WeChat_Image_20260211220524)
 
+### Performance in Vancouver Lunar New Year Gala
+
+Skyview High School, Feburary 15, 2026
+
+<iframe width="1707" height="960" src="https://www.youtube.com/embed/iaxLw2uOyIM" title="男儿当自强 by Mulan Drum Team" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Performance in Chinese Festival
 
 Pioneer Courthouse Square, August 2, 2025
