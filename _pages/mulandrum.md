@@ -19,6 +19,8 @@ To have us perform in your events, please [contact us](http://pdxchinese.org/con
 
 **Coach:** Wen Wang  
 
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/WeChat_Image_20260217200658)
+
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/WeChat_Image_20250217160224b)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/428478712_385502834114805_3725444155917707792_n)
