@@ -7,6 +7,8 @@ permalink: /updates/
 
 <br>
 
+[OCC Event Feedback Form / 社区活动反馈表](https://docs.google.com/forms/d/e/1FAIpQLSf4AgdBvGeFh8NsoZhTnT8FrF1AKKTzxH8Xa0Nksg-Zsbx99w/viewform?usp=header)
+
 # <code style="color:brown">年度活动/Annual Events</code>
 
 ### January-February
