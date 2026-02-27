@@ -191,6 +191,7 @@ By bringing together students enrolled in Chinese language classes and programs 
 # 课外活动摊位 / Extra Curriculum Groups
 
 [Overcharged Robotics](https://overchargedrobotics.org/)  
+[US Wushu Center](https://uswushu.com/)  
 [Chess A2Z](https://chessa2z.org/)  
 [CISV Portland](https://portland.cisvusa.org/)  
 [Music Mandarin School](https://www.musicmandarinschool.com/about-us)  
