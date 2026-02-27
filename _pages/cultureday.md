@@ -76,6 +76,8 @@ feature_row21:
 
 Culture Day is a perfect anchor for language, identity, and community.
 
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/cultureday2026)
+
 **时间:** 2026年3月15日，周日，4-7点 / March 15, 2026 (Sunday) 4pm-7pm   
 **地点:** Embassy Suites by Hilton Portland Tigard  
 **地址:** 9000 SW Washington Square Rd, Tigard, OR 97223  
