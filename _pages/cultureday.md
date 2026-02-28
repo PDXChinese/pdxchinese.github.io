@@ -192,6 +192,7 @@ By bringing together students enrolled in Chinese language classes and programs 
 
 [Overcharged Robotics](https://overchargedrobotics.org/)  
 [US Wushu Center](https://uswushu.com/)  
+[OCC Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
 [Chess A2Z](https://chessa2z.org/)  
 [CISV Portland](https://portland.cisvusa.org/)  
 [Music Mandarin School](https://www.musicmandarinschool.com/about-us)  
