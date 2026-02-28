@@ -83,9 +83,10 @@ feature_row3:
 
 [1-6] 俄勒冈健康与科学大学/OHSU 奈特癌症研究所/[Knight Cancer Institute](https://www.ohsu.edu/knight-cancer-institute)
 
->结肠癌，结肠镜检查（Colonoscopy）  
+>肺癌预防，早期诊断，和治疗  
 人乳头状瘤病毒（HPV）疫苗及接种  
 睡眠呼吸暂停综合症（Apnea）及 CPAP呼吸机  
+介绍通过血液检测筛查癌症风险临床试验  
 
 [7-10] 俄勒冈华人联盟服务团队/OCC Service Teams
 
@@ -138,13 +139,12 @@ Care Oregon Advantage CareCard
 
 >移民体检咨询  
 现场测量血糖  
-肠胃科和体重管理咨询  
+体重管理咨询  
 
 [26] 俄勒冈自然医学大学/[National University of Natural Medicine](https://nunm.edu/)
 
->自然疗法医学/Naturalpathic Medicine  
-针灸与中药学/Acupuncture with a Chinese Herbal Medicine Specialization  
-营养科学/Science in Nutrition  
+>现场针灸体验/Group Acupuncture  
+气功养生示范/Qi Cultivation Demonstrations  
 
 [27] 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)  
 
