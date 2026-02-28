@@ -176,6 +176,7 @@ By bringing together students enrolled in Chinese language classes and programs 
 {% include feature_row id="feature_row18"%}
 
 # 参与学校和中文项目 / Schools and Programs  
+In the ballroom  
 *Listed Alphabetically*  
 
 [German International School of Portland](https://www.gspdx.org/) (Beaverton)  
@@ -189,6 +190,8 @@ By bringing together students enrolled in Chinese language classes and programs 
 *more to join...*  
 
 # 课外活动摊位 / Extra Curriculum Groups
+In the hallway  
+*Listed Alphabetically*  
 
 [Chess A2Z](https://chessa2z.org/)  
 [CISV Portland](https://portland.cisvusa.org/)  
