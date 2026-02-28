@@ -190,12 +190,15 @@ By bringing together students enrolled in Chinese language classes and programs 
 
 # 课外活动摊位 / Extra Curriculum Groups
 
-[Overcharged Robotics](https://overchargedrobotics.org/)  
-[US Wushu Center](https://uswushu.com/)  
-[OCC Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
 [Chess A2Z](https://chessa2z.org/)  
 [CISV Portland](https://portland.cisvusa.org/)  
 [Music Mandarin School](https://www.musicmandarinschool.com/about-us)  
+[OCC Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
+[Overcharged Robotics](https://overchargedrobotics.org/)  
+[SODA Chinese Dance Academy](https://www.sodadance.com/)  
+[US Wushu Center](https://uswushu.com/)  
+[Winnie Chinese Dance](https://www.winniechinesedance.com/)  
+[YZ Dance Studio](https://www.yzdance.com/)  
 *more to join...*  
 
 # 活动回顾 / Revisit Past Activities
