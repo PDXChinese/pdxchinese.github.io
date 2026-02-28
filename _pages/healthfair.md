@@ -117,27 +117,6 @@ Care Oregon Advantage CareCard
 >为智障人提供就业和其他保障性质的服务  
 为老人和残疾人提供服务信息，包括护工，长期护理等  
 
-[17] 俄勒冈州处方药计划/[ArrayRx](https://arrayrxcard.com/)
-
->帮助节省高达 80% 的处方药费用  
-免费加入，无年龄和收入限制  
-所有FDA批准的处方药都包括在内  
-
-[18] 州政府医疗保险选购市场团队/[OHA Market Place Team](https://healthcare.oregon.gov/Pages/index.aspx)
-
->如果您打算为个人或家庭或自己的公司选购医疗保险，选购市场提供众多选项，团队成员现场回答任何问题
-
-[19] 州政府为低收入健康保险(OHP)持有者提供支持服务/[OHA Ombuds Team](https://www.oregon.gov/oha/ERD/Pages/Ombuds-Program.aspx)
-
->如果您对得到的服务有抱怨，她们会帮助到您。
-
-[20] [Housecall Providers](https://housecallproviders.org/)
-
->登门问诊/Primary Care  
-重大疾病协调医疗资源/Advanced Illness Care  
-临终关怀/Hospice Care  
-现场测量血压  
-
 [21] 普罗维登斯安康长者中心/[Providence ElderPlace Oregon](https://www.providence.org/services/pace-and-adult-day-programs/elderplace-in-oregon)
 
 >适用于 55 岁及以上、在日常生活中需要帮助的成年人，例如如厕、行动、认知或记忆方面的支持。  
@@ -160,11 +139,6 @@ Care Oregon Advantage CareCard
 现场测量血糖  
 肠胃科和体重管理咨询  
 
-[25] 西北针灸中心/[NW Acupuncture Center](http://acupunctureor.com/)
-
->太极，推拿，食疗，中药，针灸方面知识与咨询  
-现场压耳豆  
-
 [26] 俄勒冈自然医学大学/[National University of Natural Medicine](https://nunm.edu/)
 
 >自然疗法医学/Naturalpathic Medicine  
@@ -184,25 +158,11 @@ Care Oregon Advantage CareCard
 招募送食物开车义工  
 征求社区对东方食品开发反馈  
 
-[29] 出行无忧/[Ride Connection](https://rideconnection.org/)  
-
->为老年人和残疾人提供免费门到门交通便利  
-招募志愿者司机  
-
-[32] 西北天主教心理咨询中心/[The Northwest Catholic Counseling Center](https://www.nwcounseling.org/)
-
->中文(普通话)心理咨询  
-青少年心理健康咨询  
-婚姻咨询  
-
 [33] 克拉克默斯县调解服务/[Clackamas County Resolution Services](https://www.clackamas.us/ccrs)
 
 >家庭矛盾调解  
 调解员认证培训  
 
-[34] 俄勒冈州失业保险部门/[Oregon Employment Department-EAUI Unit](https://unemployment.oregon.gov/)
-
->失业保险领取问答
 
 [35] 社区华人医生健康宣传/Chinese Doctors Health Promotion
 
@@ -210,14 +170,7 @@ Care Oregon Advantage CareCard
 **Mini Zhang, MD**，儿童与青少年和成年人精神科医生 (12-3pm)，ADHD（注意力缺陷多动症）、躁郁症、抑郁症、强迫症、创伤后应激障碍（PTSD）、焦虑/恐惧/恐慌症、认知行为疗法、药物管理  
 **[Xi Zheng, MD, PhD](https://www.tvc.org/clinician/emily-xi-zheng-md-phd/)**, 内科和预防医学 (1:30-3pm)  
 
-### 中场休息演出 / Halftime Break Performance (12:45pm-1:15pm)
-
-Violine Solo, *The Legende*, by Erin Qiu  
-Chinese Drumming by Mulan Drum Team  
-Chinese Hanfu Show by Phoenix Hanfu Society  
-Diabolo Performance by Dragonfly Diabolo Team  
-Chinese Dulcimer by Seline Dai  
-*Auld Lang Syne* by Portland Harmonics  
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 > [Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
 > [Tabling Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2025c) (to be updated)  
