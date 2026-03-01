@@ -90,10 +90,21 @@ feature_row3:
 
 [7-10] 俄勒冈华人联盟服务团队/OCC Service Teams
 
->7.短期房租救助团队/Rent Assistance  
-8.公益法律咨询/Legal Assistance  
-9.戒烟宣传/Tobacco Prevention and Cessation  
-10.自然灾害应急准备/[Emergency Preparedness](https://pdxchinese.org/resources/disaster/resilience/)  
+>短期房租救助团队：HRSN项目介绍，有偿社工招募  
+戒烟宣传：发放戒烟糖，提供适合华人戒烟资源  
+[自然灾害应急准备](https://pdxchinese.org/resources/disaster/resilience/)：4/26活动介绍，CERT培训  
+
+[] 全国精神健康联盟(NAMI)[华盛顿县分部](https://www.washconami.org/)
+
+>本地华人认证志愿者为您服务
+介绍NAMI救助电话
+宣传全美988自杀危机热线
+本地互助小组
+
+[] OHSU俄勒冈毒物中心/[Oregon Poison Center](https://www.ohsu.edu/oregon-poison-center)
+
+>为什么说毒物随处可见  
+每12秒就会有一个人打电话到毒物中心，自己能做什么？  
 
 [11-12] TeaChat
 
@@ -124,16 +135,21 @@ Care Oregon Advantage CareCard
 >适用于 55 岁及以上、在日常生活中需要帮助的成年人，例如如厕、行动、认知或记忆方面的支持。  
 社区环境（包括家庭住宅或辅助护理环境，但不包括护理机构）。  
 
-[22-23, A-C] 俄勒冈华人联盟文化演出团体/OCC Cultural/Performance Teams
+[] OHSU雷顿衰老和阿茨海默病中心/[Layton Aging and Alzheimer’s Disease Center](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
 
->青玉青少年舞蹈队/[Jade Dance Team](https://pdxchinese.org/youthdance/)  
-凤凰汉服社/[Phoenix Hanfu Society](https://pdxchinese.org/hanfu/)  
-木兰大鼓队/[Mulan Drum Team](https://pdxchinese.org/mulandrum/)  
-蜻蜓空竹队/[Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
-波特兰和声小组/[Portland Harmonics Singing Group](https://pdxchinese.org/youthsinging/)  
-舞友会/Social Dancing Group  
-西北歌友会/NW Singing Group  
-吉他班/Guitar Classes  
+>脑退化症中文资讯  
+失智症预防知识咨询  
+
+[] 州政府老年人及残障人士项目/[ODHS Aging and People with Disabilities](https://www.oregon.gov/odhs/agency/pages/apd.aspx)
+
+>APD展位将介绍长期照护服务，包括居家服务，服务计划/个案管理，以及OPI（俄勒冈独立生活项目）等社区支持。现场将由District 15提供会讲普通话或粤语的工作人员进行咨询，帮助居民了解可选服务与下一步申请方式。
+
+[27] 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)  
+
+>交通补贴 -- 免费公交车卡  
+水气电补贴  
+协助申请低收入医疗保险(OHP)  
+低收入食物保障计划  
 
 [24] 王鑫医生/Dr. Xin Wang
 
@@ -146,24 +162,16 @@ Care Oregon Advantage CareCard
 >现场针灸体验/Group Acupuncture  
 气功养生示范/Qi Cultivation Demonstrations  
 
-[27] 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)  
+[] 州政府自立支持项目/[ODHS Self-Sufficiency Programs](https://www.oregon.gov/odhs/agency/pages/ssp.aspx)
 
->交通补贴 -- 免费公交车卡  
-水气电补贴  
-协助申请低收入医疗保险(OHP)  
-低收入食物保障计划  
+>将提供SNAP(食品补助)，TANF(现金援助)，ERDC(托儿补助)等项目的介绍与申请指导，并解答资格条件，所需材料及如何申请/更新福利。
+
 
 [28] 流动送餐车/[Meals on Wheels](https://www.mowp.org/)
 
 >接受老年人食物申请  
 招募送食物开车义工  
 征求社区对东方食品开发反馈  
-
-[33] 克拉克默斯县调解服务/[Clackamas County Resolution Services](https://www.clackamas.us/ccrs)
-
->家庭矛盾调解  
-调解员认证培训  
-
 
 [35] 社区华人医生健康宣传/Chinese Doctors Health Promotion
 
