@@ -166,6 +166,10 @@ Care Oregon Advantage CareCard
 
 >将提供SNAP(食品补助)，TANF(现金援助)，ERDC(托儿补助)等项目的介绍与申请指导，并解答资格条件，所需材料及如何申请/更新福利。
 
+[] PGE低收入折扣计划/[Income-Qualified Bill Discount (IQBD)](https://portlandgeneral.com/income-qualified-bill-discount)
+
+>介绍符合计划的资格，包括收入和健康状况
+折扣幅度可高达80%
 
 [28] 流动送餐车/[Meals on Wheels](https://www.mowp.org/)
 
