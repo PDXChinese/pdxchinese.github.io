@@ -150,10 +150,9 @@ Care Oregon Advantage CareCard
 
 [24] 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)  
 
->交通补贴 -- 免费公交车卡  
-水气电补贴  
-协助申请低收入医疗保险(OHP)  
-低收入食物保障计划  
+社区灾害应急准备  
+征召Asian Food Pantry义工  
+公益性售卖专为长者开发食谱  
 
 [25] 州政府自立支持项目/[ODHS Self-Sufficiency Programs](https://www.oregon.gov/odhs/agency/pages/ssp.aspx)
 

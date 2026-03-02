@@ -196,6 +196,7 @@ In the hallway
 
 [Chess A2Z](https://chessa2z.org/)  
 [CISV Portland](https://portland.cisvusa.org/)  
+[Lulu Guzheng](https://luluguzheng.com)  
 [Music Mandarin School](https://www.musicmandarinschool.com/about-us)  
 [OCC Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
 [Overcharged Robotics](https://overchargedrobotics.org/)  
