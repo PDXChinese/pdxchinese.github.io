@@ -14,7 +14,7 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/trimetlogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pge2_tieksh7yf1tuytixgsee
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pace_logo
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/CascadeLifeAllianceLogo2
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/logo-CnDmsXOq
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/CEP_logo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/mow_logo1
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/211logo
@@ -23,6 +23,7 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/bravehope
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/bayberry_logo1
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/jasminedental1
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/CascadeLifeAllianceLogo2
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/asqlonglogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/teachat_logo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/i693_logo
@@ -101,6 +102,11 @@ feature_row3:
 宣传全美988自杀危机热线
 本地互助小组
 
+[] [Brave Hope Counseling](https://www.bravehopecounseling.com/asian-mental-health-program)
+
+>"我们的服务包括个人咨询、家庭咨询和伴侣咨询。未来，我们还希望将团体辅导、心理教育工作坊以及线上资源纳入我们的服务范围。"  
+非常难得有这么多能讲普通话和广东话的心理咨询师或社工
+
 [] OHSU俄勒冈毒物中心/[Oregon Poison Center](https://www.ohsu.edu/oregon-poison-center)
 
 >为什么说毒物随处可见  
@@ -151,11 +157,9 @@ Care Oregon Advantage CareCard
 协助申请低收入医疗保险(OHP)  
 低收入食物保障计划  
 
-[24] 王鑫医生/Dr. Xin Wang
+[] [Your Medicare Guide](https://yourmediguide.org/)
 
->移民体检咨询  
-现场测量血糖  
-体重管理咨询  
+>"对 Medicare 感到困惑？您并不孤单。让我们用清晰的解说和个性化的支持，引导您了解各种选项——没有压力，只有答案。"
 
 [26] 俄勒冈自然医学大学/[National University of Natural Medicine](https://nunm.edu/)
 
@@ -171,11 +175,43 @@ Care Oregon Advantage CareCard
 >介绍符合计划的资格，包括收入和健康状况
 折扣幅度可高达80%
 
+[] 社区能源计划/[Community Energy Project(CEP)](https://www.communityenergyproject.org/)
+
+>"社区能源项目提供以安全、健康和能源效率为重点的免费家庭服务。我们还提供免费的社区教育和相关物资，以及直接的家庭能源升级和维修服务。"
+
+[] 华盛顿县WIC项目/[Women, Infants & Children (WIC)](https://www.washingtoncountyor.gov/wic)
+
+>提供年轻父母各种支持，包括每个月购买相关食物的补贴。
+
 [28] 流动送餐车/[Meals on Wheels](https://www.mowp.org/)
 
 >接受老年人食物申请  
 招募送食物开车义工  
 征求社区对东方食品开发反馈  
+
+[] [Cascade Life Alliance](https://cascadelifealliance.org/)
+
+>器官捐赠教育和登记
+
+[] [Bayberry Clinic](https://www.bayberryclinic.com/)
+
+>Family medicine with a focus on direct primary care (DPC)  
+Offering care in both Mandarin and English  
+Unique membership model  
+Insurance free billing with one regular monthly fee  
+Easy lab and drug pricing  
+
+[24] 王鑫医生/Dr. Xin Wang
+
+>移民体检咨询  
+现场测量血糖  
+体重管理咨询  
+
+[11-12] TeaChat
+
+>提供六大茶类保健知识介绍  
+现场冲泡品鉴  
+现煮养生茶  
 
 [35] 社区华人医生健康宣传/Chinese Doctors Health Promotion
 
