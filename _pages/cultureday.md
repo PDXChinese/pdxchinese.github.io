@@ -180,6 +180,7 @@ In the ballroom
 *Listed Alphabetically*  
 
 [German International School of Portland](https://www.gspdx.org/) (Beaverton)  
+[Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (Beaverton)  
 [Hope Chinese Charter School](https://hopeccs.org/) (Beaverton)  
 [Jacob Wismer Elementary School](https://www.beaverton.k12.or.us/dual-language-elementary-school-programs) (Beaverton)  
 [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (Beaverton)  
