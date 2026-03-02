@@ -192,22 +192,22 @@ Easy lab and drug pricing
 现场测量血糖  
 体重管理咨询  
 
-[32-33] 社区华人医生健康宣传/Chinese Doctors Health Promotion
+[32-34] 社区华人医生健康宣传/Chinese Doctors Health Promotion
 
 >**[Jie Wang, MD](https://healthy.kaiserpermanente.org/oregon-washington/clinicians/jie-wang-2478646)**，家庭医生 (11am-12pm)  
 **Mini Zhang, MD**，儿童与青少年和成年人精神科医生 (12-3pm)，ADHD（注意力缺陷多动症）、躁郁症、抑郁症、强迫症、创伤后应激障碍（PTSD）、焦虑/恐惧/恐慌症、认知行为疗法、药物管理  
 **[Xi Zheng, MD, PhD](https://www.tvc.org/clinician/emily-xi-zheng-md-phd/)**, 内科和预防医学 (1:30-3pm)  
 
-[34] OHSU俄勒冈毒物中心/[Oregon Poison Center](https://www.ohsu.edu/oregon-poison-center)
+[35] OHSU俄勒冈毒物中心/[Oregon Poison Center](https://www.ohsu.edu/oregon-poison-center)
 
 >为什么说毒物随处可见  
 每12秒就会有一个人打电话到毒物中心，自己能做什么？  
 
-[35] [Cascade Life Alliance](https://cascadelifealliance.org/)
+[36] [Cascade Life Alliance](https://cascadelifealliance.org/)
 
 >器官捐赠教育和登记
 
-[36] TeaChat
+[37-38] TeaChat
 
 >提供六大茶类保健知识介绍  
 现场冲泡品鉴  
