@@ -153,6 +153,7 @@ Care Oregon Advantage CareCard
 社区灾害应急准备  
 征召Asian Food Pantry义工  
 公益性售卖专为长者开发食谱  
+协助申请低收入医疗保险(OHP)  
 
 [25] 州政府自立支持项目/[ODHS Self-Sufficiency Programs](https://www.oregon.gov/odhs/agency/pages/ssp.aspx)
 
