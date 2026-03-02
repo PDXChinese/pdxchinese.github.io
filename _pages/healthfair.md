@@ -14,7 +14,7 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/trimetlogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pge2_tieksh7yf1tuytixgsee
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pace_logo
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/logo-CnDmsXOq
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/logo-CnDmsXOq2
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/CEP_logo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/mow_logo1
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/211logo
@@ -89,49 +89,47 @@ feature_row3:
 睡眠呼吸暂停综合症（Apnea）及 CPAP呼吸机  
 介绍通过血液检测筛查癌症风险临床试验  
 
-[7-10] 俄勒冈华人联盟服务团队/OCC Service Teams
+[7-12] 俄勒冈自然医学大学/[National University of Natural Medicine](https://nunm.edu/)
+
+>现场针灸体验/Group Acupuncture  
+气功养生示范/Qi Cultivation Demonstrations  
+
+[13-14] 俄勒冈华人联盟服务团队/OCC Service Teams
 
 >短期房租救助团队：HRSN项目介绍，有偿社工招募  
 戒烟宣传：发放戒烟糖，提供适合华人戒烟资源  
 [自然灾害应急准备](https://pdxchinese.org/resources/disaster/resilience/)：4/26活动介绍，CERT培训  
 
-[] 全国精神健康联盟(NAMI)[华盛顿县分部](https://www.washconami.org/)
+[15] 全国精神健康联盟(NAMI)[华盛顿县分部](https://www.washconami.org/)
 
 >本地华人认证志愿者为您服务
 介绍NAMI救助电话
 宣传全美988自杀危机热线
 本地互助小组
 
-[] [Brave Hope Counseling](https://www.bravehopecounseling.com/asian-mental-health-program)
+[16] [Brave Hope Counseling](https://www.bravehopecounseling.com/asian-mental-health-program)
 
 >"我们的服务包括个人咨询、家庭咨询和伴侣咨询。未来，我们还希望将团体辅导、心理教育工作坊以及线上资源纳入我们的服务范围。"  
 非常难得有这么多能讲普通话和广东话的心理咨询师或社工
 
-[] OHSU俄勒冈毒物中心/[Oregon Poison Center](https://www.ohsu.edu/oregon-poison-center)
-
->为什么说毒物随处可见  
-每12秒就会有一个人打电话到毒物中心，自己能做什么？  
-
-[11-12] TeaChat
-
->提供六大茶类保健知识介绍  
-现场冲泡品鉴  
-现煮养生茶  
-
-[13-14] [CareOregon](https://www.careoregon.org/) 医疗保险公司
+[17] [CareOregon](https://www.careoregon.org/) 医疗保险公司
 
 >协助寻找医生  
 帮助回答日趋复杂的保险覆盖服务的各种问题  
 为有需要的人提供去看医生所需的交通（[Ride to Care](https://ridetocare.com/)）  
 Care Oregon Advantage CareCard
 
-[15] 波特兰都会交通局/[TriMet](https://trimet.org/)
+[18] [您的Medicare指南](https://yourmediguide.org/)
+
+>"对 Medicare 感到困惑？您并不孤单。让我们用清晰的解说和个性化的支持，引导您了解各种选项——没有压力，只有答案。"
+
+[19] 波特兰都会交通局/[TriMet](https://trimet.org/)
 
 >老年和低收入优惠  
 出行安排  
 如何使用和充值 Hop Cards  
 
-[16] 州政府老年人和残疾人服务团队/[Aging and People with Disabilities Team](https://www.oregon.gov/dhs/seniors-disabilities/Pages/index.aspx)
+[20] 州政府老年人和残疾人服务团队/[Aging and People with Disabilities Team](https://www.oregon.gov/dhs/seniors-disabilities/Pages/index.aspx)
 
 >为智障人提供就业和其他保障性质的服务  
 为老人和残疾人提供服务信息，包括护工，长期护理等  
@@ -141,59 +139,46 @@ Care Oregon Advantage CareCard
 >适用于 55 岁及以上、在日常生活中需要帮助的成年人，例如如厕、行动、认知或记忆方面的支持。  
 社区环境（包括家庭住宅或辅助护理环境，但不包括护理机构）。  
 
-[] OHSU雷顿衰老和阿茨海默病中心/[Layton Aging and Alzheimer’s Disease Center](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
+[22] OHSU雷顿衰老和阿茨海默病中心/[Layton Aging and Alzheimer’s Disease Center](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
 
 >脑退化症中文资讯  
 失智症预防知识咨询  
 
-[] 州政府老年人及残障人士项目/[ODHS Aging and People with Disabilities](https://www.oregon.gov/odhs/agency/pages/apd.aspx)
+[23] 州政府老年人及残障人士项目/[ODHS Aging and People with Disabilities](https://www.oregon.gov/odhs/agency/pages/apd.aspx)
 
 >APD展位将介绍长期照护服务，包括居家服务，服务计划/个案管理，以及OPI（俄勒冈独立生活项目）等社区支持。现场将由District 15提供会讲普通话或粤语的工作人员进行咨询，帮助居民了解可选服务与下一步申请方式。
 
-[27] 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)  
+[24] 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)  
 
 >交通补贴 -- 免费公交车卡  
 水气电补贴  
 协助申请低收入医疗保险(OHP)  
 低收入食物保障计划  
 
-[] [Your Medicare Guide](https://yourmediguide.org/)
-
->"对 Medicare 感到困惑？您并不孤单。让我们用清晰的解说和个性化的支持，引导您了解各种选项——没有压力，只有答案。"
-
-[26] 俄勒冈自然医学大学/[National University of Natural Medicine](https://nunm.edu/)
-
->现场针灸体验/Group Acupuncture  
-气功养生示范/Qi Cultivation Demonstrations  
-
-[] 州政府自立支持项目/[ODHS Self-Sufficiency Programs](https://www.oregon.gov/odhs/agency/pages/ssp.aspx)
+[25] 州政府自立支持项目/[ODHS Self-Sufficiency Programs](https://www.oregon.gov/odhs/agency/pages/ssp.aspx)
 
 >将提供SNAP(食品补助)，TANF(现金援助)，ERDC(托儿补助)等项目的介绍与申请指导，并解答资格条件，所需材料及如何申请/更新福利。
 
-[] PGE低收入折扣计划/[Income-Qualified Bill Discount (IQBD)](https://portlandgeneral.com/income-qualified-bill-discount)
+[26] PGE低收入折扣计划/[Income-Qualified Bill Discount (IQBD)](https://portlandgeneral.com/income-qualified-bill-discount)
 
 >介绍符合计划的资格，包括收入和健康状况
 折扣幅度可高达80%
 
-[] 社区能源计划/[Community Energy Project(CEP)](https://www.communityenergyproject.org/)
+[27] 社区能源计划/[Community Energy Project(CEP)](https://www.communityenergyproject.org/)
 
 >"社区能源项目提供以安全、健康和能源效率为重点的免费家庭服务。我们还提供免费的社区教育和相关物资，以及直接的家庭能源升级和维修服务。"
 
-[] 华盛顿县WIC项目/[Women, Infants & Children (WIC)](https://www.washingtoncountyor.gov/wic)
+[28] 华盛顿县WIC项目/[Women, Infants & Children (WIC)](https://www.washingtoncountyor.gov/wic)
 
 >提供年轻父母各种支持，包括每个月购买相关食物的补贴。
 
-[28] 流动送餐车/[Meals on Wheels](https://www.mowp.org/)
+[29] 流动送餐车/[Meals on Wheels](https://www.mowp.org/)
 
 >接受老年人食物申请  
 招募送食物开车义工  
 征求社区对东方食品开发反馈  
 
-[] [Cascade Life Alliance](https://cascadelifealliance.org/)
-
->器官捐赠教育和登记
-
-[] [Bayberry Clinic](https://www.bayberryclinic.com/)
+[30] [Bayberry Clinic](https://www.bayberryclinic.com/)
 
 >Family medicine with a focus on direct primary care (DPC)  
 Offering care in both Mandarin and English  
@@ -201,23 +186,32 @@ Unique membership model
 Insurance free billing with one regular monthly fee  
 Easy lab and drug pricing  
 
-[24] 王鑫医生/Dr. Xin Wang
+[31] 王鑫医生/Dr. Xin Wang
 
 >移民体检咨询  
 现场测量血糖  
 体重管理咨询  
 
-[11-12] TeaChat
-
->提供六大茶类保健知识介绍  
-现场冲泡品鉴  
-现煮养生茶  
-
-[35] 社区华人医生健康宣传/Chinese Doctors Health Promotion
+[32-33] 社区华人医生健康宣传/Chinese Doctors Health Promotion
 
 >**[Jie Wang, MD](https://healthy.kaiserpermanente.org/oregon-washington/clinicians/jie-wang-2478646)**，家庭医生 (11am-12pm)  
 **Mini Zhang, MD**，儿童与青少年和成年人精神科医生 (12-3pm)，ADHD（注意力缺陷多动症）、躁郁症、抑郁症、强迫症、创伤后应激障碍（PTSD）、焦虑/恐惧/恐慌症、认知行为疗法、药物管理  
 **[Xi Zheng, MD, PhD](https://www.tvc.org/clinician/emily-xi-zheng-md-phd/)**, 内科和预防医学 (1:30-3pm)  
+
+[34] OHSU俄勒冈毒物中心/[Oregon Poison Center](https://www.ohsu.edu/oregon-poison-center)
+
+>为什么说毒物随处可见  
+每12秒就会有一个人打电话到毒物中心，自己能做什么？  
+
+[35] [Cascade Life Alliance](https://cascadelifealliance.org/)
+
+>器官捐赠教育和登记
+
+[36] TeaChat
+
+>提供六大茶类保健知识介绍  
+现场冲泡品鉴  
+现煮养生茶  
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
