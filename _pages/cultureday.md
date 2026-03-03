@@ -199,6 +199,8 @@ In the hallway
 [Lulu Guzheng](https://luluguzheng.com)  
 [Music Mandarin School](https://www.musicmandarinschool.com/about-us)  
 [OCC Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
+[OHCS Guzheng Class](http://oregon-hope.org/)  
+[OHCS Wushu Class/Team](http://oregon-hope.org/)  
 [Overcharged Robotics](https://overchargedrobotics.org/)  
 [SODA Chinese Dance Academy](https://www.sodadance.com/)  
 [US Wushu Center](https://uswushu.com/)  
@@ -206,7 +208,7 @@ In the hallway
 [YZ Dance Studio](https://www.yzdance.com/)  
 *more to join...*  
 
-# 活动回顾 / Revisit Past Activities
+# 活动回顾 / Revisit Past Events
 
 [2025 Return of Dragon](https://pdxchinese.org/dragon/) ([Video](https://www.youtube.com/watch?v=VAnXMMKF-Vg))  
 [2024 Culture Day](https://pdxchinese.org/cultureday_2024/) ([Photo Album](https://pdxchinese.org/culture_day_2024/))  
