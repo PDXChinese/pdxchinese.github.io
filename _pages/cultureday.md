@@ -212,7 +212,8 @@ In the hallway
 # 春笋孵化摊位 / Young Ideas Incubator  
 *Listed Alphabetically*  
 
-Vision Care Matters by Seline Dai, 7th grader 
+Guide Dog Handler by  
+Eye Care Matters by Seline Dai, 7th grader @ Stoller Middle School  
 
 # 学校/校区负责人交流会 / School/District Administrators Roundtable Meeting  
 5pm-6pm @ Columbia Room  
