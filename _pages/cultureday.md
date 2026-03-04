@@ -87,7 +87,7 @@ Culture Day is a perfect anchor for language, identity, and community.
 **Purpose:** To promote culture, the arts, and academic endeavor  
 **Participants:** Chinese program students, families and educators  
 
->[Sign up](https://docs.google.com/forms/d/e/1FAIpQLSeowOX9XphfUxII1tyVp3jBqOpdLJy2-SSAlLhjywypuYXo8g/viewform?usp=sf_link) to be a 课后作业辅导/Chinese homework helper (The list will be made available through schools)
+[Sign up](https://docs.google.com/forms/d/e/1FAIpQLSeowOX9XphfUxII1tyVp3jBqOpdLJy2-SSAlLhjywypuYXo8g/viewform?usp=sf_link) to be a 课后作业辅导/Chinese homework helper (The information will not be posted online. It will only be available in print at Culture Day or shared upon request by Chinese teachers afterward.)
 
 >[各项活动义工/表演/摊位报名表 / Activity Volunteer/Performance/Tabling Signup Form](https://docs.google.com/forms/d/e/1FAIpQLScAU37jBbljeucZe6bcCARnvf6lywgza_FB95UZZvPlMkOj5w/viewform?usp=sf_link)  
 
@@ -207,6 +207,10 @@ In the hallway
 [Winnie Chinese Dance](https://www.winniechinesedance.com/)  
 [YZ Dance Studio](https://www.yzdance.com/)  
 *more to join...*  
+
+# 学校/校区负责人交流会 / School/District Administrators Roundtable Meeting  
+5pm-6pm @ Columbia Room  
+A ceremonial tea tasting will be offered  
 
 # 活动回顾 / Revisit Past Events
 

@@ -109,8 +109,10 @@ feature_row3:
 
 [16] [Brave Hope Counseling](https://www.bravehopecounseling.com/asian-mental-health-program)
 
->"我们的服务包括个人咨询、家庭咨询和伴侣咨询。未来，我们还希望将团体辅导、心理教育工作坊以及线上资源纳入我们的服务范围。"  
-非常难得有这么多能讲普通话和广东话的心理咨询师或社工
+>We offer individual, family, and partner therapy.  
+Services are available in English, Mandarin, and Cantonese.  
+In-person and virtual options for appointments.  
+We accept a variety of insurance plans, including Care Oregon   
 
 [17] [CareOregon](https://www.careoregon.org/) 医疗保险公司
 
