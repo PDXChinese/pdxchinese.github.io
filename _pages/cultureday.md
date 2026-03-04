@@ -209,7 +209,7 @@ In the hallway
 [YZ Dance Studio](https://www.yzdance.com/)  
 *more to join...*  
 
-# 「竹筍」摊位 / Young Ideas Incubator  
+# 春笋孵化摊位 / Young Ideas Incubator  
 *Listed Alphabetically*  
 
 Vision Care Matters by Seline Dai, 7th grader 
