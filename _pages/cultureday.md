@@ -211,7 +211,7 @@ In the hallway
 # 春笋孵化摊位 / Young Ideas Incubator  
 *Listed Alphabetically*  
 
-Guide Dog Handler by  
+Guide Dog Handler by Melissa Mei 9th grader @ lake Oswego high school  
 Eye Care Matters by Seline Dai, 7th grader @ Stoller Middle School  
 
 # 学校/校区负责人交流会 / School/District Administrators Roundtable Meeting  
