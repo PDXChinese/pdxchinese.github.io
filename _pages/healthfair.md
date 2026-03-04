@@ -17,12 +17,13 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/logo-CnDmsXOq2
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/CEP_logo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/mow_logo1
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/211logo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/housecall_logo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/rtc_logo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/cfpalogo  
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/bravehope
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/bayberry_logo1
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/jasminedental1
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/211logo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/CascadeLifeAllianceLogo2
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/asqlonglogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/teachat_logo
@@ -157,30 +158,38 @@ Care Oregon Advantage CareCard
 公益性售卖专为长者开发食谱  
 TriMet HOP passes  
 
-[25] 州政府自立支持项目/[ODHS Self-Sufficiency Programs](https://www.oregon.gov/odhs/agency/pages/ssp.aspx)
+[25] [Housecall Providers](https://housecallproviders.org/)
+
+>登门问诊/Primary Care  
+重大疾病协调医疗资源/Advanced Illness Care  
+临终关怀/Hospice Care  
+现场测量血压  
+
+
+[26] 州政府自立支持项目/[ODHS Self-Sufficiency Programs](https://www.oregon.gov/odhs/agency/pages/ssp.aspx)
 
 >将提供SNAP(食品补助)，TANF(现金援助)，ERDC(托儿补助)等项目的介绍与申请指导，并解答资格条件，所需材料及如何申请/更新福利。
 
-[26] PGE低收入折扣计划/[Income-Qualified Bill Discount (IQBD)](https://portlandgeneral.com/income-qualified-bill-discount)
+[27] PGE低收入折扣计划/[Income-Qualified Bill Discount (IQBD)](https://portlandgeneral.com/income-qualified-bill-discount)
 
 >介绍符合计划的资格，包括收入和健康状况
 折扣幅度可高达80%
 
-[27] 社区能源计划/[Community Energy Project(CEP)](https://www.communityenergyproject.org/)
+[28] 社区能源计划/[Community Energy Project(CEP)](https://www.communityenergyproject.org/)
 
 >"社区能源项目提供以安全、健康和能源效率为重点的免费家庭服务。我们还提供免费的社区教育和相关物资，以及直接的家庭能源升级和维修服务。"
 
-[28] 华盛顿县WIC项目/[Women, Infants & Children (WIC)](https://www.washingtoncountyor.gov/wic)
+[29] 华盛顿县WIC项目/[Women, Infants & Children (WIC)](https://www.washingtoncountyor.gov/wic)
 
 >提供年轻父母各种支持，包括每个月购买相关食物的补贴。
 
-[29] 流动送餐车/[Meals on Wheels](https://www.mowp.org/)
+[30] 流动送餐车/[Meals on Wheels](https://www.mowp.org/)
 
 >接受老年人食物申请  
 招募送食物开车义工  
 征求社区对东方食品开发反馈  
 
-[30] [Bayberry Clinic](https://www.bayberryclinic.com/)
+[31] [Bayberry Clinic](https://www.bayberryclinic.com/)
 
 >Family medicine with a focus on direct primary care (DPC)  
 Offering care in both Mandarin and English  
@@ -188,13 +197,13 @@ Unique membership model
 Insurance free billing with one regular monthly fee  
 Easy lab and drug pricing  
 
-[31] 王鑫医生/Dr. Xin Wang
+[32] 王鑫医生/Dr. Xin Wang
 
 >移民体检咨询  
 现场测量血糖  
 体重管理咨询  
 
-[32-34] 社区华人医生健康宣传/Chinese Doctors Health Promotion
+[33-34] 社区华人医生健康宣传/Chinese Doctors Health Promotion
 
 >**[Jie Wang, MD](https://healthy.kaiserpermanente.org/oregon-washington/clinicians/jie-wang-2478646)**，家庭医生 (11am-12pm)  
 **Mini Zhang, MD**，儿童与青少年和成年人精神科医生 (12-3pm)，ADHD（注意力缺陷多动症）、躁郁症、抑郁症、强迫症、创伤后应激障碍（PTSD）、焦虑/恐惧/恐慌症、认知行为疗法、药物管理  
