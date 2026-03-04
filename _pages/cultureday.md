@@ -179,7 +179,6 @@ By bringing together students enrolled in Chinese language classes and programs 
 In the ballroom  
 *Listed Alphabetically*  
 
-[Bolton Primary School](https://www.wlwv.k12.or.us/bolps) (West Linn)  
 [German International School of Portland](https://www.gspdx.org/) (Beaverton)  
 [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (Beaverton)  
 [Hope Chinese Charter School](https://hopeccs.org/) (Beaverton)  
@@ -216,7 +215,7 @@ Guide Dog Handler by
 Eye Care Matters by Seline Dai, 7th grader @ Stoller Middle School  
 
 # 学校/校区负责人交流会 / School/District Administrators Roundtable Meeting  
-5pm-6pm @ Columbia Room  
+5pm-6pm @  Rogue River Room  
 A ceremonial tea tasting will be offered  
 
 # 活动回顾 / Revisit Past Events
