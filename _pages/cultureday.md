@@ -179,6 +179,7 @@ By bringing together students enrolled in Chinese language classes and programs 
 In the ballroom  
 *Listed Alphabetically*  
 
+[Bolton Primary School](https://www.wlwv.k12.or.us/bolps) (West Linn)  
 [German International School of Portland](https://www.gspdx.org/) (Beaverton)  
 [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (Beaverton)  
 [Hope Chinese Charter School](https://hopeccs.org/) (Beaverton)  
@@ -207,6 +208,11 @@ In the hallway
 [Winnie Chinese Dance](https://www.winniechinesedance.com/)  
 [YZ Dance Studio](https://www.yzdance.com/)  
 *more to join...*  
+
+# 「竹筍」摊位 / Young Ideas Incubator  
+*Listed Alphabetically*  
+
+Vision Care Matters by Seline Dai, 7th grader 
 
 # 学校/校区负责人交流会 / School/District Administrators Roundtable Meeting  
 5pm-6pm @ Columbia Room  
