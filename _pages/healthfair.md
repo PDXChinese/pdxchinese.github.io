@@ -153,7 +153,7 @@ Care Oregon Advantage CareCard
 
 [24] 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)  
 
-社区灾害应急准备  
+>社区灾害应急准备  
 征召Asian Food Pantry义工  
 公益性售卖专为长者开发食谱  
 TriMet HOP passes  
@@ -164,6 +164,10 @@ TriMet HOP passes
 重大疾病协调医疗资源/Advanced Illness Care  
 临终关怀/Hospice Care  
 现场测量血压  
+
+[26] 导盲犬知识和申请/Guide Dog Handler  
+
+>by Melissa Mei, 9th grader @ Lake Oswego High School  
 
 
 [26] 州政府自立支持项目/[ODHS Self-Sufficiency Programs](https://www.oregon.gov/odhs/agency/pages/ssp.aspx)
