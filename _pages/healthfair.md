@@ -110,10 +110,10 @@ feature_row3:
 
 [16] [Brave Hope Counseling](https://www.bravehopecounseling.com/asian-mental-health-program)
 
->We offer individual, family, and partner therapy.  
-Services are available in English, Mandarin, and Cantonese.  
-In-person and virtual options for appointments.  
-We accept a variety of insurance plans, including Care Oregon   
+>我们提供个人咨询、家庭咨询和伴侣咨询服务。
+服务语言包括英语、普通话和粤语。
+提供线下面谈和线上预约两种方式。
+我们接受多种保险计划，包括 Care Oregon。
 
 [17] [CareOregon](https://www.careoregon.org/) 医疗保险公司
 
