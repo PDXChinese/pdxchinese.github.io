@@ -231,6 +231,12 @@ TriMet HOP passes
 现场冲泡品鉴  
 现煮养生茶  
 
+### 中场休息演出 / Halftime Break Performance (12:45pm-1:15pm)
+
+Chinese Drumming by Mulan Drum Team  
+Portland Chinese Dance Troupe  
+Oregon Hope Chinese School Dance Group  
+
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 > [Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
