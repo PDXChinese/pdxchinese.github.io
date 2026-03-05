@@ -122,9 +122,9 @@ feature_row3:
 为有需要的人提供去看医生所需的交通（[Ride to Care](https://ridetocare.com/)）  
 Care Oregon Advantage CareCard
 
-[18] 您的Medicare指南[Your Medicare Guide](https://yourmediguide.org/)
+[18] 您的Medicare指南/[Your Medicare Guide](https://yourmediguide.org/)
 
->"对 Medicare 感到困惑？您并不孤单。让我们用清晰的解说和个性化的支持，引导您了解各种选项——没有压力，只有答案。"  
+>帮助选择 Medicare，回答有关问题。  
 中文团队  
 没有任何费用  
 
