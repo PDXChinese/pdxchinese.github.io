@@ -110,10 +110,10 @@ feature_row3:
 
 [16] [Brave Hope Counseling](https://www.bravehopecounseling.com/asian-mental-health-program)
 
->我们提供个人咨询、家庭咨询和伴侣咨询服务。
-服务语言包括英语、普通话和粤语。
-提供线下面谈和线上预约两种方式。
-我们接受多种保险计划，包括 Care Oregon。
+>我们提供个人咨询、家庭咨询和伴侣咨询服务。  
+服务语言包括英语、普通话和粤语。  
+提供线下面谈和线上预约两种方式。  
+我们接受多种保险计划，包括 Care Oregon。  
 
 [17] [CareOregon](https://www.careoregon.org/) 医疗保险公司
 
@@ -122,9 +122,11 @@ feature_row3:
 为有需要的人提供去看医生所需的交通（[Ride to Care](https://ridetocare.com/)）  
 Care Oregon Advantage CareCard
 
-[18] [您的Medicare指南](https://yourmediguide.org/)
+[18] 您的Medicare指南[Your Medicare Guide](https://yourmediguide.org/)
 
->"对 Medicare 感到困惑？您并不孤单。让我们用清晰的解说和个性化的支持，引导您了解各种选项——没有压力，只有答案。"
+>"对 Medicare 感到困惑？您并不孤单。让我们用清晰的解说和个性化的支持，引导您了解各种选项——没有压力，只有答案。"  
+中文团队  
+没有任何费用  
 
 [19] 波特兰都会交通局/[TriMet](https://trimet.org/)
 
