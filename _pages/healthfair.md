@@ -134,40 +134,35 @@ Care Oregon Advantage CareCard
 出行安排  
 如何使用和充值 Hop Cards  
 
-[20] 州政府老年人和残疾人服务团队/[Aging and People with Disabilities Team](https://www.oregon.gov/dhs/seniors-disabilities/Pages/index.aspx)
-
->为智障人提供就业和其他保障性质的服务  
-为老人和残疾人提供服务信息，包括护工，长期护理等  
-
-[21] 普罗维登斯安康长者中心/[Providence ElderPlace Oregon](https://www.providence.org/services/pace-and-adult-day-programs/elderplace-in-oregon)
+[20] 普罗维登斯安康长者中心/[Providence ElderPlace Oregon](https://www.providence.org/services/pace-and-adult-day-programs/elderplace-in-oregon)
 
 >适用于 55 岁及以上、在日常生活中需要帮助的成年人，例如如厕、行动、认知或记忆方面的支持。  
 社区环境（包括家庭住宅或辅助护理环境，但不包括护理机构）。  
 
-[22] OHSU雷顿衰老和阿茨海默病中心/[Layton Aging and Alzheimer’s Disease Center](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
+[21] OHSU雷顿衰老和阿茨海默病中心/[Layton Aging and Alzheimer’s Disease Center](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
 
 >脑退化症中文资讯  
 失智症预防知识咨询  
 
-[23] 州政府老年人及残障人士项目/[ODHS Aging and People with Disabilities](https://www.oregon.gov/odhs/agency/pages/apd.aspx)
+[22] 州政府老年人及残障人士项目/[ODHS Aging and People with Disabilities](https://www.oregon.gov/odhs/agency/pages/apd.aspx)
 
 >APD展位将介绍长期照护服务，包括居家服务，服务计划/个案管理，以及OPI（俄勒冈独立生活项目）等社区支持。现场将由District 15提供会讲普通话或粤语的工作人员进行咨询，帮助居民了解可选服务与下一步申请方式。
 
-[24] 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)  
+[23] 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)  
 
 >社区灾害应急准备  
 征召Asian Food Pantry义工  
 公益性售卖专为长者开发食谱  
 TriMet HOP passes  
 
-[25] [Housecall Providers](https://housecallproviders.org/)
+[24] [Housecall Providers](https://housecallproviders.org/)
 
 >登门问诊/Primary Care  
 重大疾病协调医疗资源/Advanced Illness Care  
 临终关怀/Hospice Care  
 现场测量血压  
 
-[26] 导盲犬知识和申请/Guide Dog Handler  
+[25] 导盲犬知识和申请/Guide Dog Handler  
 
 >by Melissa Mei, 9th grader @ Lake Oswego High School  
 
