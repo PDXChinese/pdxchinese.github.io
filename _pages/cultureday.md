@@ -179,6 +179,7 @@ By bringing together students enrolled in Chinese language classes and programs 
 In the ballroom  
 *Listed Alphabetically*  
 
+[Catlin Gable School](https://www.catlin.edu/) (Beaverton)  
 [German International School of Portland](https://www.gspdx.org/) (Beaverton)  
 [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (Beaverton)  
 [Hope Chinese Charter School](https://hopeccs.org/) (Beaverton)  
@@ -211,12 +212,12 @@ In the hallway
 # 春笋孵化摊位 / Young Ideas Incubator  
 *Listed Alphabetically*  
 
-Guide Dog Handler by Melissa Mei 9th grader @ lake Oswego high school  
+Guide Dog Handler by Melissa Mei 9th grader @ Lake Oswego High School  
 Eye Care Matters by Seline Dai, 7th grader @ Stoller Middle School  
 
 # 学校/校区负责人交流会 / School/District Administrators Roundtable Meeting  
 5pm-6pm @  Rogue River Room  
-A ceremonial tea tasting will be offered  
+A ceremonial tea tasting will be offered.  
 
 # 活动回顾 / Revisit Past Events
 
