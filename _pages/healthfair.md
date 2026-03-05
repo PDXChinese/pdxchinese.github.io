@@ -103,10 +103,10 @@ feature_row3:
 
 [15] 全国精神健康联盟(NAMI)[华盛顿县分部](https://www.washconami.org/)
 
->本地华人认证志愿者为您服务
-介绍NAMI救助电话
-宣传全美988自杀危机热线
-本地互助小组
+>本地华人认证志愿者为您服务  
+介绍NAMI救助电话  
+宣传全美988自杀危机热线  
+本地互助小组  
 
 [16] [Brave Hope Counseling](https://www.bravehopecounseling.com/asian-mental-health-program)
 
@@ -195,11 +195,11 @@ TriMet HOP passes
 
 [31] [Bayberry Clinic](https://www.bayberryclinic.com/)
 
->Family medicine with a focus on direct primary care (DPC)  
-Offering care in both Mandarin and English  
-Unique membership model  
-Insurance free billing with one regular monthly fee  
-Easy lab and drug pricing  
+>以direct primary care (DPC)为模式的家庭医生服务  
+提供普通话和英语双语服务  
+独特的会员制模式  
+无需保险结算，仅收取固定月费  
+透明且便捷的化验与药品定价  
 
 [32] 王鑫医生/Dr. Xin Wang
 
