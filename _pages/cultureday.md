@@ -209,6 +209,12 @@ In the hallway
 [YZ Dance Studio](https://www.yzdance.com/)  
 *more to join...*  
 
+# 社区中文作业辅导计划 / Community Mandarin Tutor Program
+
+The information will not be posted online. It will only be available in print at Culture Day or shared upon request by Chinese teachers afterward.
+
+OCC only helps solicitating the potential helpers for the Chinese homework. Any arrangements will be a free-will contracts between the helpers and the families. OCC will not be responsible for the accuracy of the information provided by the potential helpers. OCC will not require tutors to do background check.
+
 # 春笋孵化摊位 / Young Ideas Incubator  
 *Listed Alphabetically*  
 
