@@ -211,7 +211,7 @@ In the hallway
 
 # 社区中文作业辅导计划 / Community Mandarin Tutor Program
 
-The information will not be posted online. It will only be available in print at Culture Day or shared upon request by Chinese teachers afterward.
+The tutor information will not be posted online. It will only be available in print at Culture Day or shared upon request by Chinese teachers afterward.
 
 OCC only helps solicitating the potential helpers for the Chinese homework. Any arrangements will be a free-will contracts between the helpers and the families. OCC will not be responsible for the accuracy of the information provided by potential helpers, nor will it conduct background checks.
 
