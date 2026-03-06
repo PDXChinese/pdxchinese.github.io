@@ -213,7 +213,7 @@ In the hallway
 
 The information will not be posted online. It will only be available in print at Culture Day or shared upon request by Chinese teachers afterward.
 
-OCC only helps solicitating the potential helpers for the Chinese homework. Any arrangements will be a free-will contracts between the helpers and the families. OCC will not be responsible for the accuracy of the information provided by the potential helpers. OCC will not require tutors to do background check.
+OCC only helps solicitating the potential helpers for the Chinese homework. Any arrangements will be a free-will contracts between the helpers and the families. OCC will not be responsible for the accuracy of the information provided by potential helpers, nor will it conduct background checks.
 
 # 春笋孵化摊位 / Young Ideas Incubator  
 *Listed Alphabetically*  
@@ -221,8 +221,9 @@ OCC only helps solicitating the potential helpers for the Chinese homework. Any 
 Eye Care Matters by Seline Dai, 7th grader @ Stoller Middle School  
 
 # 学校/校区负责人交流会 / School/District Administrators Roundtable Meeting  
-5pm-6pm @  Rogue River Room  
-A ceremonial tea tasting will be offered.  
+*5pm-6pm @  Rogue River Room*  
+
+Having district and school leaders together for an open conversation would be incredibly valuable. A ceremonial tea tasting will be offered.  
 
 # 活动回顾 / Revisit Past Events
 
