@@ -179,6 +179,7 @@ By bringing together students enrolled in Chinese language classes and programs 
 In the ballroom  
 *Listed Alphabetically*  
 
+[Bolton Primary School](https://www.wlwv.k12.or.us/bolps) (West Linn)  
 [Catlin Gable School](https://www.catlin.edu/) (Beaverton)  
 [German International School of Portland](https://www.gspdx.org/) (Beaverton)  
 [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (Beaverton)  
