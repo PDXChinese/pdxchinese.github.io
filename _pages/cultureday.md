@@ -176,7 +176,6 @@ By bringing together students enrolled in Chinese language classes and programs 
 {% include feature_row id="feature_row18"%}
 
 # 参与学校和中文项目 / Schools and Programs  
-In the ballroom  
 *Listed Alphabetically*  
 
 [Bolton Primary School](https://www.wlwv.k12.or.us/bolps) (West Linn)  
@@ -192,12 +191,12 @@ In the ballroom
 [Worldplus Learning Center 世加学习中心](https://www.worldplus-intl.org/) (Beaverrton)  
 *more to join...*  
 
-# 课外活动摊位 / Extra Curriculum Groups
-In the hallway  
+# 文化活动摊位 / Cultural Activities
 *Listed Alphabetically*  
 
 [Chess A2Z](https://chessa2z.org/)  
 [CISV Portland](https://portland.cisvusa.org/)  
+[Red Robe Tea House & Cafe](redrobeteahouse.com)  
 [Lulu Guzheng](https://luluguzheng.com)  
 [Music Mandarin School](https://www.musicmandarinschool.com/about-us)  
 [OCC Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
