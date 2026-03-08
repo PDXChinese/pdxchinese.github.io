@@ -91,107 +91,107 @@ feature_row3:
 睡眠呼吸暂停综合症（Apnea）及 CPAP呼吸机  
 介绍通过血液检测筛查癌症风险临床试验  
 
-[7-12] 俄勒冈自然医学大学/[National University of Natural Medicine](https://nunm.edu/)
+[7-10] 俄勒冈自然医学大学/[National University of Natural Medicine](https://nunm.edu/)
 
 >现场针灸体验/Group Acupuncture  
 气功养生示范/Qi Cultivation Demonstrations  
 
-[13-14] 俄勒冈华人联盟服务团队/OCC Service Teams
+[11-12] 俄勒冈华人联盟服务团队/OCC Service Teams
 
 >短期房租救助团队：HRSN项目介绍，有偿社工招募  
 戒烟宣传：发放戒烟糖，提供适合华人戒烟资源  
 [自然灾害应急准备](https://pdxchinese.org/resources/disaster/resilience/)：4/26活动介绍，CERT培训  
 
-[15] 全国精神健康联盟(NAMI)[华盛顿县分部](https://www.washconami.org/)
+[13] 全国精神健康联盟(NAMI)[华盛顿县分部](https://www.washconami.org/)
 
 >本地华人认证志愿者为您服务  
 介绍NAMI救助电话  
 宣传全美988自杀危机热线  
 本地互助小组  
 
-[16] [Brave Hope Counseling](https://www.bravehopecounseling.com/asian-mental-health-program)
+[14] [Brave Hope Counseling](https://www.bravehopecounseling.com/asian-mental-health-program)
 
 >我们提供个人咨询、家庭咨询和伴侣咨询服务。  
 服务语言包括英语、普通话和粤语。  
 提供线下面谈和线上预约两种方式。  
 我们接受多种保险计划，包括 Care Oregon。  
 
-[17] [CareOregon](https://www.careoregon.org/) 医疗保险公司
+[15] [CareOregon](https://www.careoregon.org/) 医疗保险公司
 
 >协助寻找医生  
 帮助回答日趋复杂的保险覆盖服务的各种问题  
 为有需要的人提供去看医生所需的交通（[Ride to Care](https://ridetocare.com/)）  
 Care Oregon Advantage CareCard
 
-[18] 您的Medicare指南/[Your Medicare Guide](https://yourmediguide.org/)
+[16] 您的Medicare指南/[Your Medicare Guide](https://yourmediguide.org/)
 
 >帮助选择 Medicare，回答有关问题。  
 中文团队  
 没有任何费用  
 
-[19] 波特兰都会交通局/[TriMet](https://trimet.org/)
+[17] 波特兰都会交通局/[TriMet](https://trimet.org/)
 
 >老年和低收入优惠  
 出行安排  
 如何使用和充值 Hop Cards  
 
-[20] 普罗维登斯安康长者中心/[Providence ElderPlace Oregon](https://www.providence.org/services/pace-and-adult-day-programs/elderplace-in-oregon)
+[18] 普罗维登斯安康长者中心/[Providence ElderPlace Oregon](https://www.providence.org/services/pace-and-adult-day-programs/elderplace-in-oregon)
 
 >适用于 55 岁及以上、在日常生活中需要帮助的成年人，例如如厕、行动、认知或记忆方面的支持。  
 社区环境（包括家庭住宅或辅助护理环境，但不包括护理机构）。  
 
-[21] OHSU雷顿衰老和阿茨海默病中心/[Layton Aging and Alzheimer’s Disease Center](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
+[19] OHSU雷顿衰老和阿茨海默病中心/[Layton Aging and Alzheimer’s Disease Center](https://www.ohsu.edu/brain-institute/alzheimers-disease-and-aging?utm_source=gmb&utm_medium=organic&utm_content=e310eed9-bfff-505f-97ab-952710fa206d)  
 
 >脑退化症中文资讯  
 失智症预防知识咨询  
 
-[22] 州政府老年人及残障人士项目/[ODHS Aging and People with Disabilities](https://www.oregon.gov/odhs/agency/pages/apd.aspx)
+[20] 州政府老年人及残障人士项目/[ODHS Aging and People with Disabilities](https://www.oregon.gov/odhs/agency/pages/apd.aspx)
 
 >APD展位将介绍长期照护服务，包括居家服务，服务计划/个案管理，以及OPI（俄勒冈独立生活项目）等社区支持。现场将由District 15提供会讲普通话或粤语的工作人员进行咨询，帮助居民了解可选服务与下一步申请方式。
 
-[23] 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)  
+[21] 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)  
 
 >社区灾害应急准备  
 征召Asian Food Pantry义工  
 公益性售卖专为长者开发食谱  
 TriMet HOP passes  
 
-[24] [Housecall Providers](https://housecallproviders.org/)
+[22] [Housecall Providers](https://housecallproviders.org/)
 
 >登门问诊/Primary Care  
 重大疾病协调医疗资源/Advanced Illness Care  
 临终关怀/Hospice Care  
 现场测量血压  
 
-[25] 导盲犬知识和申请/Guide Dog Handler  
+[23] 导盲犬知识和申请/Guide Dog Handler  
 
 >by Melissa Mei, 9th grader @ Lake Oswego High School  
 
 
-[26] 州政府自立支持项目/[ODHS Self-Sufficiency Programs](https://www.oregon.gov/odhs/agency/pages/ssp.aspx)
+[24] 州政府自立支持项目/[ODHS Self-Sufficiency Programs](https://www.oregon.gov/odhs/agency/pages/ssp.aspx)
 
 >将提供SNAP(食品补助)，TANF(现金援助)，ERDC(托儿补助)等项目的介绍与申请指导，并解答资格条件，所需材料及如何申请/更新福利。
 
-[27] PGE低收入折扣计划/[Income-Qualified Bill Discount (IQBD)](https://portlandgeneral.com/income-qualified-bill-discount)
+[25] PGE低收入折扣计划/[Income-Qualified Bill Discount (IQBD)](https://portlandgeneral.com/income-qualified-bill-discount)
 
 >介绍符合计划的资格，包括收入和健康状况
 折扣幅度可高达80%
 
-[28] 社区能源计划/[Community Energy Project(CEP)](https://www.communityenergyproject.org/)
+[26] 社区能源计划/[Community Energy Project(CEP)](https://www.communityenergyproject.org/)
 
 >"社区能源项目提供以安全、健康和能源效率为重点的免费家庭服务。我们还提供免费的社区教育和相关物资，以及直接的家庭能源升级和维修服务。"
 
-[29] 华盛顿县WIC项目/[Women, Infants & Children (WIC)](https://www.washingtoncountyor.gov/wic)
+[27] 华盛顿县WIC项目/[Women, Infants & Children (WIC)](https://www.washingtoncountyor.gov/wic)
 
 >提供年轻父母各种支持，包括每个月购买相关食物的补贴。
 
-[30] 流动送餐车/[Meals on Wheels](https://www.mowp.org/)
+[28] 流动送餐车/[Meals on Wheels](https://www.mowp.org/)
 
 >接受老年人食物申请  
 招募送食物开车义工  
 征求社区对东方食品开发反馈  
 
-[31] [Bayberry Clinic](https://www.bayberryclinic.com/)
+[29] [Bayberry Clinic](https://www.bayberryclinic.com/)
 
 >以direct primary care (DPC)为模式的家庭医生服务  
 提供普通话和英语双语服务  
@@ -199,11 +199,24 @@ TriMet HOP passes
 无需保险结算，仅收取固定月费  
 透明且便捷的化验与药品定价  
 
-[32] 王鑫医生/Dr. Xin Wang
+[30] 王鑫医生/Dr. Xin Wang
 
 >移民体检咨询  
 现场测量血糖  
 体重管理咨询  
+
+[31-32] [Pacific Vision Care](https://pacific-visioncare.com/)
+
+以下是我们团队在健康展会上可以提供的一些服务内容：  
+>视力筛查服务，包括基础屈光筛查，用于初步识别近视、远视或散光等问题。  
+为老年人提供白内障风险筛查，并介绍常见的与年龄相关的眼部疾病。  
+为儿童和青少年提供近视风险筛查，并提供有关预防和控制进行性近视的信息。  
+一般眼健康咨询，社区成员可以就视力保健、眼部疾病及预防策略等问题进行咨询。  
+
+在社区教育与宣传方面，我们还会准备相关的纸质宣传资料，内容包括：  
+>老年人常见眼病风险  
+白内障知识普及  
+儿童和青少年近视的预防与管理  
 
 [33-34] 社区华人医生健康宣传/Chinese Doctors Health Promotion
 
