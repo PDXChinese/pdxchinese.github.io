@@ -195,6 +195,7 @@ By bringing together students enrolled in Chinese language classes and programs 
 *Listed Alphabetically*  
 
 [Chess A2Z](https://chessa2z.org/)  
+[Chinese Faith Baptist Church](https://chinesefaith.org/home-%E4%B8%BB%E9%A0%81-1)  
 [CISV Portland](https://portland.cisvusa.org/)  
 [Red Robe Tea House & Cafe](redrobeteahouse.com)  
 [Lulu Guzheng](https://luluguzheng.com)  
@@ -207,6 +208,7 @@ By bringing together students enrolled in Chinese language classes and programs 
 [US Wushu Center](https://uswushu.com/)  
 [Winnie Chinese Dance](https://www.winniechinesedance.com/)  
 [YZ Dance Studio](https://www.yzdance.com/)  
+[Chinese Faith Baptist Church (CFBC)](https://chinesefaith.org/home-%E4%B8%BB%E9%A0%81-1)  
 *more to join...*  
 
 # 社区中文作业辅导计划 / Community Mandarin Tutor Program
