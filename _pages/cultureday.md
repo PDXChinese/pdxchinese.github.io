@@ -230,3 +230,14 @@ Having district and school leaders together for an open conversation would be in
 [2025 Return of Dragon](https://pdxchinese.org/dragon/) ([Video](https://www.youtube.com/watch?v=VAnXMMKF-Vg))  
 [2024 Culture Day](https://pdxchinese.org/cultureday_2024/) ([Photo Album](https://pdxchinese.org/culture_day_2024/))  
 [2023 Culture Day](https://pdxchinese.org/cultureday_2023/) ([Photo Album](https://pdxchinese.org/culture_day_2023/))  
+
+# 大馈赠 / Giveaways
+
+Starts from 6:30pm  
+A LOT of free stuff to give away to the families  
+
+>Metallic Chinese cultural bookmarks  
+Agility ladders  
+Craft fabric  
+Sweaters for you to keep or donate  
+many more...  
