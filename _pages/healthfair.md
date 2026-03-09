@@ -24,6 +24,7 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/bayberry_logo1
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/jasminedental1
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pacificvision
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/littlelogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/211logo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/CascadeLifeAllianceLogo2
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/asqlonglogo
@@ -207,34 +208,37 @@ TriMet HOP passes
 
 [31-32] [Pacific Vision Care](https://pacific-visioncare.com/)
 
-以下是我们团队在健康展会上可以提供的一些服务内容：  
->视力筛查服务，包括基础屈光筛查，用于初步识别近视、远视或散光等问题。  
-为老年人提供白内障风险筛查，并介绍常见的与年龄相关的眼部疾病。  
-为儿童和青少年提供近视风险筛查，并提供有关预防和控制进行性近视的信息。  
-一般眼健康咨询，社区成员可以就视力保健、眼部疾病及预防策略等问题进行咨询。  
+>视力检测/Visual acuity testing  
+屈光筛查（自动验光仪）/Refractive screening (autorefractor)  
+眼压筛查/Intraocular pressure screening  
+眼前节健康检查/Anterior segment health screening  
+根据年龄进行相应的风险筛查，包括老年人的白内障筛查，以及根据参与者年龄和需要提供青光眼筛查或近视风险筛查  
 
-在社区教育与宣传方面，我们还会准备相关的纸质宣传资料，内容包括：  
->老年人常见眼病风险  
-白内障知识普及  
-儿童和青少年近视的预防与管理  
+预计每位参与者完成筛查并接受简要咨询大约需要5–10分钟
 
-[33-34] 社区华人医生健康宣传/Chinese Doctors Health Promotion
+[33] [Little Island Pediatrics](https://www.littleislandpediatrics.com/)  
+
+>儿童专科 -- 照护年龄从出生到大学毕业  
+健儿门诊、疫苗接种、急性病症就诊、慢性病追踪、心理健康服务  
+大波特兰地区唯一流利使用中文的儿科医生  
+
+[34-35] 社区华人医生健康宣传/Chinese Doctors Health Promotion
 
 >**Mini Zhang, MD**，儿童与青少年和成年人精神科医生 (11am-1pm)，ADHD（注意力缺陷多动症）、躁郁症、抑郁症、强迫症、创伤后应激障碍（PTSD）、焦虑/恐惧/恐慌症、认知行为疗法、药物管理  
 **贾太平**，中医师 (11am-1pm)  
 **[Xi Zheng, MD, PhD](https://www.tvc.org/clinician/emily-xi-zheng-md-phd/)**, 内科和预防医学 (1-3pm)  
 **[Kun Ding, M.D.](https://www.ehnpc.com/eye-doctor-portland/kun-ding-m-d/)**，眼科医生，专长青光眼白内障眼疾（1-3pm）  
 
-[35] OHSU俄勒冈毒物中心/[Oregon Poison Center](https://www.ohsu.edu/oregon-poison-center)
+[36] OHSU俄勒冈毒物中心/[Oregon Poison Center](https://www.ohsu.edu/oregon-poison-center)
 
 >为什么说毒物随处可见  
 每12秒就会有一个人打电话到毒物中心，自己能做什么？  
 
-[36] [Cascade Life Alliance](https://cascadelifealliance.org/)
+[37] [Cascade Life Alliance](https://cascadelifealliance.org/)
 
 >器官捐赠教育和登记
 
-[37-38] TeaChat
+[38-39] TeaChat
 
 >提供六大茶类保健知识介绍  
 现场冲泡品鉴  
