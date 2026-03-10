@@ -146,53 +146,61 @@ Care Oregon Advantage CareCard
 >脑退化症中文资讯  
 失智症预防知识咨询  
 
-[20] 州政府老年人及残障人士项目/[ODHS Aging and People with Disabilities](https://www.oregon.gov/odhs/agency/pages/apd.aspx)
-
->APD展位将介绍长期照护服务，包括居家服务，服务计划/个案管理，以及OPI（俄勒冈独立生活项目）等社区支持。现场将由District 15提供会讲普通话或粤语的工作人员进行咨询，帮助居民了解可选服务与下一步申请方式。
-
-[21] 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)  
+[20] 积极老龄化社区(好莱坞老人中心)/[Community for Positive Aging](https://communityfpa.org/)  
 
 >社区灾害应急准备  
 征召Asian Food Pantry义工  
 公益性售卖专为长者开发食谱  
 TriMet HOP passes  
 
-[22] [Housecall Providers](https://housecallproviders.org/)
+[21] [Housecall Providers](https://housecallproviders.org/)
 
 >登门问诊/Primary Care  
 重大疾病协调医疗资源/Advanced Illness Care  
 临终关怀/Hospice Care  
 现场测量血压  
 
-[23] 导盲犬知识和申请/Guide Dog Handler  
+[22] 导盲犬知识和申请/Guide Dog Handler  
 
 >by Melissa Mei, 9th grader @ Lake Oswego High School  
 
+[23] 州政府在Clackamas County老年人及残障人士项目/[ODHS Aging and People with Disabilities](https://www.oregon.gov/odhs/agency/pages/apd.aspx)
 
-[24] 州政府自立支持项目/[ODHS Self-Sufficiency Programs](https://www.oregon.gov/odhs/agency/pages/ssp.aspx)
+>APD展位将介绍长期照护服务，包括居家服务，服务计划/个案管理，以及OPI（俄勒冈独立生活项目）等社区支持。现场将由District 15提供会讲普通话或粤语的工作人员进行咨询，帮助居民了解可选服务与下一步申请方式。
+
+[24] 州政府在Multnomah County办事处
+
+>介绍长期照护服务  
+SNAP(食品补助)  
+
+[25] 州政府在Clackamas County自立支持项目/[ODHS Self-Sufficiency Programs](https://www.oregon.gov/odhs/agency/pages/ssp.aspx)
 
 >将提供SNAP(食品补助)，TANF(现金援助)，ERDC(托儿补助)等项目的介绍与申请指导，并解答资格条件，所需材料及如何申请/更新福利。
 
-[25] PGE低收入折扣计划/[Income-Qualified Bill Discount (IQBD)](https://portlandgeneral.com/income-qualified-bill-discount)
+[26] PGE低收入折扣计划/[Income-Qualified Bill Discount (IQBD)](https://portlandgeneral.com/income-qualified-bill-discount)
 
 >介绍符合计划的资格，包括收入和健康状况
 折扣幅度可高达80%
 
-[26] 社区能源计划/[Community Energy Project(CEP)](https://www.communityenergyproject.org/)
+[27] 社区能源计划/[Community Energy Project(CEP)](https://www.communityenergyproject.org/)
 
 >"社区能源项目提供以安全、健康和能源效率为重点的免费家庭服务。我们还提供免费的社区教育和相关物资，以及直接的家庭能源升级和维修服务。"
 
-[27] 华盛顿县WIC项目/[Women, Infants & Children (WIC)](https://www.washingtoncountyor.gov/wic)
+[28] 华盛顿县妇孺支持(WIC)项目/[Women, Infants & Children (WIC)](https://www.washingtoncountyor.gov/wic)
 
 >提供年轻父母各种支持，包括每个月购买相关食物的补贴。
 
-[28] 流动送餐车/[Meals on Wheels](https://www.mowp.org/)
+[29] 华盛顿县妇孺与家庭事务部/[Maternal Child & Family Program](https://www.washingtoncountyor.gov/wic)
+
+>提供年轻父母各种支持，包括每个月购买相关食物的补贴。
+
+[30] 流动送餐车/[Meals on Wheels](https://www.mowp.org/)
 
 >接受老年人食物申请  
 招募送食物开车义工  
 征求社区对东方食品开发反馈  
 
-[29] [Bayberry Clinic](https://www.bayberryclinic.com/)
+[31] [Bayberry Clinic](https://www.bayberryclinic.com/)
 
 >以direct primary care (DPC)为模式的家庭医生服务  
 提供普通话和英语双语服务  
@@ -200,13 +208,13 @@ TriMet HOP passes
 无需保险结算，仅收取固定月费  
 透明且便捷的化验与药品定价  
 
-[30] 王鑫医生/Dr. Xin Wang
+[32] 王鑫医生/Dr. Xin Wang
 
 >移民体检咨询  
-现场测量血糖  
+皮肤健康测试  
 体重管理咨询  
 
-[31-32] [Pacific Vision Care](https://pacific-visioncare.com/)
+[33-34] [Pacific Vision Care](https://pacific-visioncare.com/)
 
 >视力检测/Visual acuity testing  
 屈光筛查（自动验光仪）/Refractive screening (autorefractor)  
@@ -216,47 +224,53 @@ TriMet HOP passes
 
 预计每位参与者完成筛查并接受简要咨询大约需要5–10分钟
 
-[33] [Little Island Pediatrics](https://www.littleislandpediatrics.com/)  
+[35] [Little Island Pediatrics](https://www.littleislandpediatrics.com/)  
 
 >儿童专科 -- 照护年龄从出生到大学毕业  
 健儿门诊、疫苗接种、急性病症就诊、慢性病追踪、心理健康服务  
 大波特兰地区唯一流利使用中文的儿科医生  
 
-[34-35] 社区华人医生健康宣传/Chinese Doctors Health Promotion
+[36-37] 社区华人医生健康宣传/Chinese Doctors Health Promotion
 
 >**Mini Zhang, MD**，儿童与青少年和成年人精神科医生 (11am-1pm)，ADHD（注意力缺陷多动症）、躁郁症、抑郁症、强迫症、创伤后应激障碍（PTSD）、焦虑/恐惧/恐慌症、认知行为疗法、药物管理  
 **贾太平**，中医师 (11am-1pm)  
 **[Xi Zheng, MD, PhD](https://www.tvc.org/clinician/emily-xi-zheng-md-phd/)**, 内科和预防医学 (1-3pm)  
 **[Kun Ding, M.D.](https://www.ehnpc.com/eye-doctor-portland/kun-ding-m-d/)**，眼科医生，专长青光眼白内障眼疾（1-3pm）  
 
-[36] OHSU俄勒冈毒物中心/[Oregon Poison Center](https://www.ohsu.edu/oregon-poison-center)
+[38] OHSU俄勒冈毒物中心/[Oregon Poison Center](https://www.ohsu.edu/oregon-poison-center)
 
 >为什么说毒物随处可见  
 每12秒就会有一个人打电话到毒物中心，自己能做什么？  
 
-[37] [Cascade Life Alliance](https://cascadelifealliance.org/)
+[39] [Cascade Life Alliance](https://cascadelifealliance.org/)
 
 >器官捐赠教育和登记
 
-[38] 211 热线电话/[211 Info Hotline](https://www.211info.org/)  
+[40] 211 热线电话/[211 Info Hotline](https://www.211info.org/)  
 
 >这是州政府几乎所有福利和资源集中在一起的门户  
 参加活动的职员讲一口流利中文，他欢迎大家通过他了解211热线电话运作和服务内容  
 
-[39] TeaChat
+[41] TeaChat
 
 >提供六大茶类保健知识介绍  
 现场冲泡品鉴  
 现煮养生茶  
 
+[42] Calligraphy Demo
+
+>名字贴  
+马年扇子  
+即兴对联  
+
 ### 中场休息演出 / Halftime Break Performance (12:45pm-1:15pm)
 
-Chinese Drumming by Mulan Drum Team  
-21st Street Senior Qipao Performance  
-Oregon Hope Chinese School Dance Group   
-12th Street Senior Dancing Group  
-21st Street Senior Singing Group  
-Portland Chinese Dance Troupe  
+OCC木兰鼓队  
+22街老年旗袍秀  
+俄勒冈中文学校成人舞蹈  
+12街老年人舞队
+21街老年合唱队
+波特兰中国舞队
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
