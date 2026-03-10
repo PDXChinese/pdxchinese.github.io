@@ -187,7 +187,6 @@ By bringing together students enrolled in Chinese language classes and programs 
 [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (Beaverton)  
 [Palisades World Language School](https://pal.losdschools.org/) (Lake Oswego)  
 [Portland Waldorf School](https://www.portlandwaldorfhighschool.org/) (Milwaukie)  
-[Willamette Chinese School](https://www.willamettechinese.org/) (Corvallis)  
 [Worldplus Learning Center 世加学习中心](https://www.worldplus-intl.org/) (Beaverrton)  
 *more to join...*  
 
@@ -199,14 +198,12 @@ By bringing together students enrolled in Chinese language classes and programs 
 [CISV Portland](https://portland.cisvusa.org/)  
 [Red Robe Tea House & Cafe](redrobeteahouse.com)  
 [Lulu Guzheng](https://luluguzheng.com)  
-[Music Mandarin School](https://www.musicmandarinschool.com/about-us)  
 [OCC Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
 [OHCS Guzheng Class](http://oregon-hope.org/)  
 [OHCS Wushu Class/Team](http://oregon-hope.org/)  
 [Overcharged Robotics](https://overchargedrobotics.org/)  
 [SODA Chinese Dance Academy](https://www.sodadance.com/)  
 [US Wushu Center](https://uswushu.com/)  
-[Winnie Chinese Dance](https://www.winniechinesedance.com/)  
 [YZ Dance Studio](https://www.yzdance.com/)  
 [Chinese Faith Baptist Church (CFBC)](https://chinesefaith.org/home-%E4%B8%BB%E9%A0%81-1)  
 *more to join...*  

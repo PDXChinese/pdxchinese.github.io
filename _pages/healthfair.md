@@ -255,8 +255,8 @@ Chinese Drumming by Mulan Drum Team
 21st Street Senior Qipao Performance  
 Oregon Hope Chinese School Dance Group   
 12th Street Senior Dancing Group  
-Portland Chinese Dance Troupe  
 21st Street Senior Singing Group  
+Portland Chinese Dance Troupe  
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
