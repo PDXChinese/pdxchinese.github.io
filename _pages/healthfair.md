@@ -252,9 +252,9 @@ TriMet HOP passes
 ### 中场休息演出 / Halftime Break Performance (12:45pm-1:15pm)
 
 Chinese Drumming by Mulan Drum Team  
-12th Street Senior Dancing Group  
-Oregon Hope Chinese School Dance Group   
 21st Street Senior Qipao Performance  
+Oregon Hope Chinese School Dance Group   
+12th Street Senior Dancing Group  
 Portland Chinese Dance Troupe  
 21st Street Senior Singing Group  
 
