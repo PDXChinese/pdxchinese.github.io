@@ -26,6 +26,7 @@ feature_row1:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pacificvision
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/littlelogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/211logo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/res_services_logo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/CascadeLifeAllianceLogo2
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/asqlonglogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/teachat_logo
@@ -251,13 +252,18 @@ SNAP(食品补助)
 >这是州政府几乎所有福利和资源集中在一起的门户  
 参加活动的职员讲一口流利中文，他欢迎大家通过他了解211热线电话运作和服务内容  
 
-[41] TeaChat
+[41] 克拉克默斯县调解服务/[Clackamas County Resolution Services](https://www.clackamas.us/ccrs)
+
+>家庭矛盾调解  
+调解员认证培训  
+
+[42] TeaChat
 
 >提供六大茶类保健知识介绍  
 现场冲泡品鉴  
 现煮养生茶  
 
-[42] Calligraphy Demo
+[43] Calligraphy Demo
 
 >名字贴  
 马年扇子  
