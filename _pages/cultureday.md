@@ -90,7 +90,7 @@ Culture Day is a perfect anchor for language, identity, and community.
 >[Sign up](https://docs.google.com/forms/d/e/1FAIpQLSeowOX9XphfUxII1tyVp3jBqOpdLJy2-SSAlLhjywypuYXo8g/viewform?usp=sf_link) to be a 课后作业辅导/Chinese homework helper (The information will not be posted online. It will only be available in print at Culture Day or shared upon request by Chinese teachers afterward.)
 
 >[各项活动义工/表演/摊位报名表 / Activity Volunteer/Performance/Tabling Signup Form](https://docs.google.com/forms/d/e/1FAIpQLScAU37jBbljeucZe6bcCARnvf6lywgza_FB95UZZvPlMkOj5w/viewform?usp=sf_link)  
-[现场摊位位置图 / Site Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/culturedaymap2026b)  
+[现场摊位位置图 / Site Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/culturedaymap2026d)  
 有意参加请联系 / Interested to Participate: [info@pdxchinese.org](mailto:info@pdxchinese.org)  
 [体验问卷调查 / Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSeWAOnd-RhTkOqCQ8C6prrxwIH7d8324SUvOtcD3A7rYerh7Q/viewform?usp=header)  
 
@@ -186,6 +186,7 @@ By bringing together students enrolled in Chinese language classes and programs 
 [German International School of Portland](https://www.gspdx.org/) (Beaverton)  
 [Goodtime Chinese School 好时光中文学校](https://goodtimechineseschool.org/) (Beaverton)  
 [Hope Chinese Charter School](https://hopeccs.org/) (Beaverton)  
+[International School of Beaverton (ISB)](https://isb.beaverton.k12.or.us/) (Beaverton)  
 [Jacob Wismer Elementary School](https://www.beaverton.k12.or.us/dual-language-elementary-school-programs) (Beaverton)  
 [Oregon Hope Chinese School 俄勒冈希望中文学校](http://oregon-hope.org/) (Beaverton)  
 [Palisades World Language School](https://pal.losdschools.org/) (Lake Oswego)  
@@ -197,8 +198,9 @@ By bringing together students enrolled in Chinese language classes and programs 
 *Listed Alphabetically*  
 
 [Chess A2Z](https://chessa2z.org/)  
-[Chinese Faith Baptist Church](https://chinesefaith.org/home-%E4%B8%BB%E9%A0%81-1)  
+[Chinese Faith Baptist Church (CFBC)](https://chinesefaith.org/home-%E4%B8%BB%E9%A0%81-1)  
 [CISV Portland](https://portland.cisvusa.org/)  
+Face Painting by Derica Theobald, [Lincoln High School](https://lincoln.pps.net/)  
 [Red Robe Tea House & Cafe](redrobeteahouse.com)  
 [Lulu Guzheng](https://luluguzheng.com)  
 [OCC Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
@@ -207,8 +209,8 @@ By bringing together students enrolled in Chinese language classes and programs 
 [Overcharged Robotics](https://overchargedrobotics.org/)  
 [SODA Chinese Dance Academy](https://www.sodadance.com/)  
 [US Wushu Center](https://uswushu.com/)  
+[Yanan Arts Studio](https://www.yanan-dai.org/)  
 [YZ Dance Studio](https://www.yzdance.com/)  
-[Chinese Faith Baptist Church (CFBC)](https://chinesefaith.org/home-%E4%B8%BB%E9%A0%81-1)  
 *more to join...*  
 
 # 社区中文作业辅导计划 / Community Mandarin Tutor Program
