@@ -281,7 +281,7 @@ OCC木兰鼓队
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
 > [Volunteer Signup](https://docs.google.com/forms/d/e/1FAIpQLSeJYipa3OUz_8UzsMEo-RfszI24rih7jmD1PnEORJGSVjjlKQ/viewform?usp=sf_link)  
-> [Tabling Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2026) (to be updated)  
+> [Tabling Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthfairmap2026)  
 > To request a booth, please contact info@pdxchinese.org.  
 > [Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSeWAOnd-RhTkOqCQ8C6prrxwIH7d8324SUvOtcD3A7rYerh7Q/viewform?usp=header)  
 
