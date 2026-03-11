@@ -272,11 +272,11 @@ SNAP(食品补助)
 ### 中场休息演出 / Halftime Break Performance (12:45pm-1:15pm)
 
 OCC木兰鼓队  
-22街老年旗袍秀  
+21街老年旗袍秀  
 俄勒冈中文学校成人舞蹈  
-12街老年人舞队
-21街老年合唱队
-波特兰中国舞队
+12街老年人舞队  
+21街老年合唱队  
+波特兰中国舞队  
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
 
