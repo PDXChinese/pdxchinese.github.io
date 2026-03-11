@@ -87,9 +87,12 @@ Culture Day is a perfect anchor for language, identity, and community.
 **Purpose:** To promote culture, the arts, and academic endeavor  
 **Participants:** Chinese program students, families and educators  
 
-[Sign up](https://docs.google.com/forms/d/e/1FAIpQLSeowOX9XphfUxII1tyVp3jBqOpdLJy2-SSAlLhjywypuYXo8g/viewform?usp=sf_link) to be a 课后作业辅导/Chinese homework helper (The information will not be posted online. It will only be available in print at Culture Day or shared upon request by Chinese teachers afterward.)
+>[Sign up](https://docs.google.com/forms/d/e/1FAIpQLSeowOX9XphfUxII1tyVp3jBqOpdLJy2-SSAlLhjywypuYXo8g/viewform?usp=sf_link) to be a 课后作业辅导/Chinese homework helper (The information will not be posted online. It will only be available in print at Culture Day or shared upon request by Chinese teachers afterward.)
 
 >[各项活动义工/表演/摊位报名表 / Activity Volunteer/Performance/Tabling Signup Form](https://docs.google.com/forms/d/e/1FAIpQLScAU37jBbljeucZe6bcCARnvf6lywgza_FB95UZZvPlMkOj5w/viewform?usp=sf_link)  
+[现场摊位位置图 / Site Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/cultureday2026)  
+有意参加请联系 / Interested to Participate: [info@pdxchinese.org](mailto:info@pdxchinese.org)  
+[体验问卷调查 / Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSeWAOnd-RhTkOqCQ8C6prrxwIH7d8324SUvOtcD3A7rYerh7Q/viewform?usp=header)  
 
 We are continually inspired by the enthusiasm of individuals who embrace cultures from around the world. We firmly believe that education is essential to fostering understanding across diverse cultures and communities. We also recognize that learning a new language can be challenging, especially when access to supportive learning environments is limited. In response, the local Chinese American community is eager to offer its support.
 
