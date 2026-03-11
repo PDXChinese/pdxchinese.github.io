@@ -232,7 +232,6 @@ Having district and school leaders together for an open conversation would be in
 
 # 大馈赠 / Giveaways
 
-Starts from 6:30pm  
 A LOT of free stuff to give away to the families  
 
 >Metallic Chinese cultural bookmarks  
