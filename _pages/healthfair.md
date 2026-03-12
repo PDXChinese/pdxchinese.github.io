@@ -169,14 +169,14 @@ TriMet HOP passes
 
 >APD展位将介绍长期照护服务，包括居家服务，服务计划/个案管理，以及OPI（俄勒冈独立生活项目）等社区支持。现场将由District 15提供会讲普通话或粤语的工作人员进行咨询，帮助居民了解可选服务与下一步申请方式。
 
-[24] 州政府在Multnomah County办事处
+[24] 州政府在Clackamas County自立支持项目/[ODHS Self-Sufficiency Programs](https://www.oregon.gov/odhs/agency/pages/ssp.aspx)
+
+>将提供SNAP(食品补助)，TANF(现金援助)，ERDC(托儿补助)等项目的介绍与申请指导，并解答资格条件，所需材料及如何申请/更新福利。
+
+[25] 州政府在Multnomah County办事处
 
 >介绍长期照护服务  
 SNAP(食品补助)  
-
-[25] 州政府在Clackamas County自立支持项目/[ODHS Self-Sufficiency Programs](https://www.oregon.gov/odhs/agency/pages/ssp.aspx)
-
->将提供SNAP(食品补助)，TANF(现金援助)，ERDC(托儿补助)等项目的介绍与申请指导，并解答资格条件，所需材料及如何申请/更新福利。
 
 [26] PGE低收入折扣计划/[Income-Qualified Bill Discount (IQBD)](https://portlandgeneral.com/income-qualified-bill-discount)
 
