@@ -218,6 +218,7 @@ Face Painting by Derica Theobald from [Lincoln High School](https://lincoln.pps.
 Opening Violin by Erin Qiu  
 Dragon Dance and Group Dance by [Hope Chinese Charter School](https://hopeccs.org/)  
 Solo Dance and Gymnastic Dance by [SODA Chinese Dance Academy](https://www.sodadance.com/)  
+Dance and Singing by [Palisades World Language School](https://pal.losdschools.org/)  
 
 ### 4:30pm-5pm  
 Group Singing and Guzheng by [Oregon Hope Chinese School](http://oregon-hope.org/)  
@@ -227,7 +228,6 @@ Individual and Group Wushu by [US Wushu Center](https://uswushu.com/)
 Dance and Chinese Poem by Lilly  
 Group Guzheng by [Lulu Guzheng](https://luluguzheng.com)  
 Performances by Kindergarteners and 1st Graders from [Bolton Primary School](https://www.wlwv.k12.or.us/bolps)  
-Dance and Singing by [Palisades World Language School](https://pal.losdschools.org/)  
 
 ### 5:30pm-6pm  
 Group Singing, Chinese Poems and Dance by [Goodtime Chinese School](https://goodtimechineseschool.org/)  
