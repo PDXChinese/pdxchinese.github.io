@@ -212,7 +212,7 @@ Face Painting by Derica Theobald from [Lincoln High School](https://lincoln.pps.
 [Yanan Arts Studio](https://www.yanan-dai.org/)  
 [YZ Dance Studio](https://www.yzdance.com/)  
 
-# On-Stage Performances
+# On-Stage (32'x16'x2') Performances
 
 ### 4pm-4:30pm  
 Opening Violin by Erin Qiu  
