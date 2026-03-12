@@ -235,12 +235,12 @@ Solo Dance by [YZ Dance Studio](https://www.yzdance.com/)
 Group Singing, Chinese Poems and Wushu by [German International School of Portland](https://www.gspdx.org/)  
 
 ### 6pm-6:30pm  
-Vocal Duet by [Portland Harmonics](https://pdxchinese.org/youthsinging/)
+Vocal Duet by [Portland Harmonics](https://pdxchinese.org/youthsinging/)  
 Hanfu Performance by [Phoenix Hanfu Society](https://pdxchinese.org/hanfu/)  
 Yo-Yo Performance by [Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
 
 ### 6:30pm-7pm  
-Stage Opens to Everyone!
+Stage Opens to Everyone  
 
 # 社区中文作业辅导计划 / Community Mandarin Tutor Program
 
