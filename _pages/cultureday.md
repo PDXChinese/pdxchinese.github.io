@@ -213,40 +213,33 @@ Face Painting by Derica Theobald from [Lincoln High School](https://lincoln.pps.
 [YZ Dance Studio](https://www.yzdance.com/)  
 
 # On-Stage Performances
-*Listed by Time*  
 
-4pm-4:30pm
-
+### 4pm-4:30pm  
 Opening Violin by Erin Qiu  
 Dragon Dance and Group Dance by [Hope Chinese Charter School](https://hopeccs.org/)  
 Solo Dance and Gymnastic Dance by [SODA Chinese Dance Academy](https://www.sodadance.com/)  
 
-4:30pm-5pm
-
+### 4:30pm-5pm  
 Group Singing and Guzheng by [Oregon Hope Chinese School](http://oregon-hope.org/)  
 Individual and Group Wushu by [US Wushu Center](https://uswushu.com/)  
 
-5pm-5:30pm
-
+### 5pm-5:30pm  
 Dance and Chinese Poem by Lilly  
 Group Guzheng by [Lulu Guzheng](https://luluguzheng.com)  
 Performances by Kindergarteners and 1st Graders from [Bolton Primary School](https://www.wlwv.k12.or.us/bolps)  
 Dance and Singing by [Palisades World Language School](https://pal.losdschools.org/)  
 
-5:30pm-6pm
-
+### 5:30pm-6pm  
 Group Singing, Chinese Poems and Dance by [Goodtime Chinese School](https://goodtimechineseschool.org/)  
 Solo Dance by [YZ Dance Studio](https://www.yzdance.com/)  
 Group Singing, Chinese Poems and Wushu by [German International School of Portland](https://www.gspdx.org/)  
 
-6pm-6:30pm
-
+### 6pm-6:30pm  
 Vocal Duet by [Portland Harmonics](https://pdxchinese.org/youthsinging/)
 Hanfu Performance by [Phoenix Hanfu Society](https://pdxchinese.org/hanfu/)  
 Yo-Yo Performance by [Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
 
-6:30pm-7pm
-
+### 6:30pm-7pm  
 Stage Opens to Everyone!
 
 # 社区中文作业辅导计划 / Community Mandarin Tutor Program
