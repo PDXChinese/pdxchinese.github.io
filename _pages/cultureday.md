@@ -197,16 +197,17 @@ By bringing together students enrolled in Chinese language classes and programs 
 # 文化活动摊位 / Cultural Activities
 *Listed Alphabetically*  
 
+Calligraphy Demo by Xing Wang  
 [Chess A2Z](https://chessa2z.org/)  
 [Chinese Faith Baptist Church (CFBC)](https://chinesefaith.org/home-%E4%B8%BB%E9%A0%81-1)  
 [CISV Portland](https://portland.cisvusa.org/)  
 Face Painting by Derica Theobald, [Lincoln High School](https://lincoln.pps.net/)  
-[Red Robe Tea House & Cafe](redrobeteahouse.com)  
 [Lulu Guzheng](https://luluguzheng.com)  
 [OCC Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
 [OHCS Guzheng Class](http://oregon-hope.org/)  
 [OHCS Wushu Class/Team](http://oregon-hope.org/)  
 [Overcharged Robotics](https://overchargedrobotics.org/)  
+[Red Robe Tea House & Cafe](redrobeteahouse.com)  
 [SODA Chinese Dance Academy](https://www.sodadance.com/)  
 [US Wushu Center](https://uswushu.com/)  
 [Yanan Arts Studio](https://www.yanan-dai.org/)  
