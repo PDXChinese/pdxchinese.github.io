@@ -42,6 +42,7 @@ feature_row2:
 feature_row3:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ohsulogo
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/careoregonlogo
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/healthshare
 ---
 
 ### 健康博览会回顾 / Revisit Health Fairs
