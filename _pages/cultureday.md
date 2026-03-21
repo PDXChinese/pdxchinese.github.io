@@ -92,7 +92,7 @@ Culture Day is a perfect anchor for language, identity, and community.
 >[各项活动义工/表演/摊位报名表 / Activity Volunteer/Performance/Tabling Signup Form](https://docs.google.com/forms/d/e/1FAIpQLScAU37jBbljeucZe6bcCARnvf6lywgza_FB95UZZvPlMkOj5w/viewform?usp=sf_link)  
 [现场摊位位置图 / Site Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/culturedaymap2026e)  
 有意参加请联系 / Interested to Participate: [info@pdxchinese.org](mailto:info@pdxchinese.org)  
-[体验问卷调查 / Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSeWAOnd-RhTkOqCQ8C6prrxwIH7d8324SUvOtcD3A7rYerh7Q/viewform?usp=header)  
+[体验问卷调查 / Feedback Form](https://forms.gle/1GxBF9rjF2AucS4n8)  
 
 We are continually inspired by the enthusiasm of individuals who embrace cultures from around the world. We firmly believe that education is essential to fostering understanding across diverse cultures and communities. We also recognize that learning a new language can be challenging, especially when access to supportive learning environments is limited. In response, the local Chinese American community is eager to offer its support.
 
