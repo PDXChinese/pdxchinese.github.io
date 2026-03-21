@@ -9,9 +9,9 @@ date: "2026-03-15"
 
 针对带着具体问题而来的朋友，OCC团队直接引导他们对接相关专家，确保获得准确信息。
 
-而全场最惊艳的，莫过于三组来自老人公寓的长者表演。在现场采访中，叔叔阿姨们展现出的精神面貌令人赞叹，他们中不少已是85至90岁的高龄，却依然神采奕奕。他们用亲身经历证明：积极健康的生活方式会直接回馈在身心状态上，这也在很大程度上彰显了华裔文化与传统在现代健康管理中的独特价值。
+而全场最惊艳的，莫过于三组来自老人公寓的[长者表演](https://youtu.be/kYGxqD0EBcI)。在现场采访中，叔叔阿姨们展现出的精神面貌令人赞叹，他们中不少已是85至90岁的高龄，却依然神采奕奕。他们用亲身经历证明：积极健康的生活方式会直接回馈在身心状态上，这也在很大程度上彰显了华裔文化与传统在现代健康管理中的独特价值。
 
-请到场参加活动的群友积极提供反馈：[https://forms.gle/91Va7JXLeBLyfbvG6](https://forms.gle/91Va7JXLeBLyfbvG6)。虽然筹备工作繁重且辛苦，甚至偶尔有过放弃的念头，但每次看到社区成员能从中获益，接触到如此丰富的健康资源，我们便备受鼓舞。大家的参与和收获，让我们觉得一切努力都是值得的。
+请到场参加活动的群友积极提供反馈：[https://forms.gle/91Va7JXLeBLyfbvG6](https://forms.gle/91Va7JXLeBLyfbvG6)。虽然筹备工作繁重且辛苦，甚至偶尔有过放弃的念头，但每次看到社区成员能从中获益，接触到如此丰富的健康资源，让我们觉得一切努力都是值得的。
 
 The success of the 2026 Community Health Fair was reflected not only in the record number of vendors, but also in their meaningful engagement with community members. This was driven by the hands-on services offered at many booths, as well as the availability of Mandarin- and Cantonese-speaking staff.
 
