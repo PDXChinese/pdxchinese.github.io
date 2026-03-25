@@ -11,22 +11,6 @@ permalink: /updates/
 
 # <code style="color:brown">年度活动/Annual Events</code>
 
-### January-February
-
-Chinese/Lunar New Year Celebrations
-
-### March
-
-### [2026 健康博览会/Health Fair](https://pdxchinese.org/healthfair/)
-
-Date: March 15, 2026 Sunday, 11am-3pm  
-Place: Embassy Suite, Hilton Hotel at Washington Square  
-
-### [2026 文化日/Culture Day](https://pdxchinese.org/cultureday/)
-
-Date: March 15, 2026 Sunday, 4pm-7pm  
-Place: Embassy Suite, Hilton Hotel at Washington Square  
-
 ### May
 
 ### [社区画展/Community Art Show](https://pdxchinese.org/artexhibit/)
@@ -84,6 +68,22 @@ Please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc946VK4VMu2ZZK_
 
 Submission Date: January 26, 2026  
 [Offcial Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfmrDrWiKU144aH_rX42MJTeL0JuTmpozwz8D57UKt17yAIRg/viewform?usp=sf_link)  
+
+### January-February
+
+Chinese/Lunar New Year Celebrations
+
+### March
+
+### [2026 健康博览会/Health Fair](https://pdxchinese.org/healthfair/)
+
+Date: March 15, 2026 Sunday, 11am-3pm  
+Place: Embassy Suite, Hilton Hotel at Washington Square  
+
+### [2026 文化日/Culture Day](https://pdxchinese.org/cultureday/)
+
+Date: March 15, 2026 Sunday, 4pm-7pm  
+Place: Embassy Suite, Hilton Hotel at Washington Square  
 
 
 ### External: [阿炳樱桃迎新年活动/Bing in the New Year](https://binginthenewyear.com/)
