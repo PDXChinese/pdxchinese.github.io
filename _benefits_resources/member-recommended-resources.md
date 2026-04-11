@@ -6,6 +6,13 @@ title: "生活商务医疗创业资料汇总"
 
 *Disclaimer: The views and opinions expressed in the articles and on the websites are those of the authors and/or owners and do not necessarily reflect the official position or recommendation of the OCC.*
 
+# 了解美国社会
+
+[Federal, State, and Local Government: Who pays for What? | Just the Facts](https://www.youtube.com/watch?v=YFzfmJNqrgk)，by Steve Ballmer  
+使用中文字幕：Settings - Subtitles/CC - Auto-translate - Chinese (Simplified) or Chinese (Traditional)  
+
+# 了解美国政治
+
 # 简历格式资料库
 
 “We recently launched our career development and resume design hub, providing the internet’s largest database of resume templates in MS Word and Google Docs formats. This toolset is offered for free, with no signup requirements, to communities across the US. Our belief is that a well-designed template that can help people showcase their work experience and value to land a job should not be behind a paywall.
