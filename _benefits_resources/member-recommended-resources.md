@@ -8,7 +8,7 @@ title: "生活商务医疗创业资料汇总"
 
 # 了解美国社会政治经济
 
-[Federal, State, and Local Government: Who pays for What? | Just the Facts](https://www.youtube.com/watch?v=YFzfmJNqrgk)，by Steve Ballmer from [USA Facts](https://usafacts.org/)  
+[Federal, State, and Local Government: Who pays for What? Just the Facts](https://www.youtube.com/watch?v=YFzfmJNqrgk)，by Steve Ballmer from [USA Facts](https://usafacts.org/)  
 
 使用中文字幕：Settings - Subtitles/CC - Auto-translate - Chinese (Simplified) or Chinese (Traditional)  
 
