@@ -1,5 +1,5 @@
 ---
-title: "第八届社区青少年圆桌会采用新模式"
+title: "青少年圆桌会已经成为社区的一个传统活动"
 author: XiBei Zhao
 excerpt: "第九届青少年圆桌会已经成为社区的一个signature活动，这个活动的定位就是希望创造一个环境，让我们的青少年能够在没有大人在现场的情况下直接相互交流。有一位大学生主动报名希望有机会和同伴们交流AI带来的挑战，可以想象，我们的孩子们来自全美各地，学习着不同专业，他们在各种问题上的perspective肯定也会是非常的不一样，这也正是交流学习极好机会。"
 date: "2025-12-28"
@@ -20,7 +20,7 @@ date: "2025-12-28"
 
 圆桌会会通过分组让大家轮流和不同的人交流，涉猎的话题会更广泛，也会让每个与会的学生都会有机会就自己更关心的问题提问。这里我们尤其感谢过来参加活动的大学生和毕业生们，我们会在开始的一个半小时只为他们提供一个交流空间，并会提供简单的午餐。
 
-Today’s Youth Roundtable, combined with the CVSA award ceremony, truly became a platform for youth to engage in meaningful dialogue with one another. The feedback from both college students and middle and high school students was very positive and encouraging. 
+Today’s Youth Roundtable, combined with the CVSA award ceremony, truly became a platform for youth to engage in meaningful dialogue with one another. The feedback from both college students and middle and high school students was very positive and encouraging.
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/605831487_856601847004899_4047905425759591857_n.jpg)
 
