@@ -11,6 +11,7 @@ feature_row:
 
 ### Blogs
 
+Replacing Red Lanterns in Chinatown ([10.05.2025](https://pdxchinese.org/chinatown/newyear/2025-10-07-replacing_lanterns_in_chinatown_2025/))  
 Replacing Red Lanterns in Chinatown ([11.18.2023](https://pdxchinese.org/chinatown/newyear/2023-11-18-replacing_lanterns_in_chinatown_2023/))  
 Replacing Red Lanterns in Chinatown ([11.13.2022](https://pdxchinese.org/chinatown/newyear/2022-11-13-replacing_lanterns_in_chinatown_2022/))  
 Mid-Autumn Festival in Chinatown ([09.16.2021-09.19.2021](https://pdxchinese.org/mid-autumn_celebration_2021/))  

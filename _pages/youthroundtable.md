@@ -52,6 +52,7 @@ With the potential impact of AI on job markets for new college graduates, parent
 
 ## Archive
 
+2025 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2025.pdf) | [Recap](http://pdxchinese.org/youth_roundtable_2025-recap/)  
 2024 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2024.pdf) | [Recap](http://pdxchinese.org/youth_roundtable_2024-recap/)  
 2023 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2023.pdf) | [Recap](http://pdxchinese.org/youth_roundtable_2023-recap/)  
 2022 Youth Roundtable [Agenda](/assets/pdf/youth-roundtable-2022.pdf) | [Recap](http://pdxchinese.org/youth_roundtable_2022-recap/)  
