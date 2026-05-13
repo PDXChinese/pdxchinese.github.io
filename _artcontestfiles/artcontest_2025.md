@@ -44,7 +44,7 @@ feature_row4:
 
 ### Best in Show - Jinyao Zhu from Sunset High School
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2025_grp1_1st_large)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/artcontest/2025_grp1_1st)
 
 ### Winners, Grade 10-12
 
