@@ -260,7 +260,7 @@ Having district and school leaders together for an open conversation would be in
 
 # 活动回顾 / Revisit Past Events
 
-[2026 Culture Day](https://pdxchinese.org/cultureday/) ([Photo Album](https://pdxchinese.org/culture_day_2025/))  
+[2026 Culture Day](https://pdxchinese.org/cultureday/) ([Photo Album](https://pdxchinese.org/culture_day_2026/))  
 [2025 Return of Dragon](https://pdxchinese.org/dragon/) ([Video](https://www.youtube.com/watch?v=VAnXMMKF-Vg))  
 [2024 Culture Day](https://pdxchinese.org/cultureday_2024/) ([Photo Album](https://pdxchinese.org/culture_day_2024/))  
 [2023 Culture Day](https://pdxchinese.org/cultureday_2023/) ([Photo Album](https://pdxchinese.org/culture_day_2023/))  
