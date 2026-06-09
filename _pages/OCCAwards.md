@@ -136,7 +136,7 @@ feature_row2:
 
 Each year at [Chinese Festival](https://pdxchinese.org/chinesefestival/), we will announce one (1) recipient of Victoria Ren Scholarship, up to three (3) recipients of Voice of Civic Engagement Award, and up to three (3) recipients of Youth Empowerment Award.
 
-**Victoria Ren Scholarship** -- To let Victoria’s sweetest smile brighten other children in the community who need assistance emotionally and/or financially.
+**[Victoria Ren Scholarship](https://pdxchinese.org/donate/)** -- To let [Victoria](https://pdxchinese.org/victoria-ren/)’s sweetest smile brighten other children in the community who need assistance emotionally and/or financially.
 
 **Voice of Civic Engagement Award** -- To encourage more youth to take a stand in public hearings or on any community platforms.
 
