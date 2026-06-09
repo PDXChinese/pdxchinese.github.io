@@ -142,9 +142,7 @@ Each year at [Chinese Festival](https://pdxchinese.org/chinesefestival/), we wil
 
 **Youth Empowerment Award** -- To acknowledge those who step out to bring others to grow and excel with them.
 
-The deadline is July 1st each year. The results will be announced at Chinese Festival on the first Saturday in August.
-
-To apply, please fill out the online [form](https://docs.google.com/forms/d/e/1FAIpQLSfQRyJHdDFVPnelnzQpe8xVH2n0A8AsvoNi7VqHrCHFtCS4vg/viewform?usp=header)
+To apply, please fill out the online [form](https://docs.google.com/forms/d/e/1FAIpQLSfQRyJHdDFVPnelnzQpe8xVH2n0A8AsvoNi7VqHrCHFtCS4vg/viewform?usp=header) by July 1st. 
 
 ## ==2025==
 
