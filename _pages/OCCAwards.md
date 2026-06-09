@@ -134,7 +134,7 @@ feature_row2:
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Leo_Zhao/'>Leo Zhao, Camas High School (Bronze Award)</a></p>"
 ---
 
-Each year at [Chinese Festival](https://pdxchinese.org/chinesefestival/), we will announce 1 recipient of Victoria Ren Scholarship, up to 3 recipients of Voice of Civic Engagement Award, and up to 3 recipients of Youth Empowerment Award.
+Each year at [Chinese Festival](https://pdxchinese.org/chinesefestival/), we will announce one (1) recipient of Victoria Ren Scholarship, up to three (3) recipients of Voice of Civic Engagement Award, and up to three (3) recipients of Youth Empowerment Award.
 
 **Victoria Ren Scholarship** -- To let Victoria’s sweetest smile brighten other children in the community who need assistance emotionally and/or financially.
 
@@ -144,7 +144,9 @@ Each year at [Chinese Festival](https://pdxchinese.org/chinesefestival/), we wil
 
 The deadline is July 1st each year. The results will be announced at Chinese Festival on the first Saturday in August.
 
-## 2025
+To apply, please fill out the online [form](https://docs.google.com/forms/d/e/1FAIpQLSfQRyJHdDFVPnelnzQpe8xVH2n0A8AsvoNi7VqHrCHFtCS4vg/viewform?usp=header)
+
+## ==2025==
 
 ### Voice of Civic Engagement Award  
 Lily Yao, South Eugene High School  
@@ -155,7 +157,7 @@ Emily Jiang, Camas High School
 Qinglu Xu, Lake Oswego High School  
 Raymond Lee, Westview High School  
 
-## 2024
+## ==2024==
 
 ### Voice of Civic Engagement Award  
 Meilan Xu, Westview High School  
@@ -167,7 +169,7 @@ Sirena Chen, Lincoln High School
 Emma Di, Crescent Valley High School  
 Helen Wang, Sunset High School  
 
-## 2023
+## ==2023==
 
 ### Voice of Civic Engagement Award  
 Brian Barker, Sunset High School  
@@ -179,7 +181,7 @@ Claire Cao, Jesuit High School
 Derica Theobald, Whitford Middle School  
 Ethan Zhang, Westview High School  
 
-## 2022
+## ==2022==
 
 ### Voice of Civic Engagement Award  
 Alexander Pi, Meadows Park Middle School  
@@ -194,9 +196,7 @@ Victor Li, Jesuit High School
 Vivian Lu, Camas High School  
 Ziyue Wang, International School of Beaverton  
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
-
-## 2021
+## ==2021==
 
 ### Voice of Civic Engagement Award  
 Jenny Duan, Jesuit High School  
@@ -212,9 +212,7 @@ Erika Leung, Lincoln High School
 Julia Lin, Sunset High Scvhool  
 Project Lotus, Nonprofit Organization  
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
-
-## 2020
+## ==2020==
 
 ### Voice of Civic Engagement Award  
 Edward Sun, Rising 8th Grader at West Sylvan Middle School  
@@ -224,9 +222,7 @@ Jiaqi (Jackie) Zhang, Rising Junior at Sunset High School
 Danica Leung, Rising Junior at Lincoln High School  
 Qiyue (Cheery) Zhang, Rising Sophomore at Westview High School  
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
-
-## 2019
+## ==2019==
 
 ### Voice of Civic Engagement Award  
 Jenell Theobld, Whitford Middle School  
@@ -235,9 +231,7 @@ Jenell Theobld, Whitford Middle School
 Marshal Xu, Junior at Lincoln High School  
 Beats of Bethany, Volunteering project of young musicians, founded in 2017.    
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/divider)
-
-## 2018
+## ==2018==
 
 ### Voice of Civic Engagement Award  
 Aaron Sha, Jesuit High School, Class 2018  
