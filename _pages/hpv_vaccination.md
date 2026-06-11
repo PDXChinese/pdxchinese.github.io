@@ -6,6 +6,8 @@ feature_row1:
     excerpt: "Dr. Janice Lee, (家庭科医生）穆尔特诺玛县卫生中心"
 ---
 
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/hpv_flyer)
+
 ### HPV疫苗接种可以预防癌症：
 
 - 每年约有一千三百万人感染人乳头瘤病毒（HPV），包括青少年。  
@@ -72,4 +74,4 @@ feature_row1:
 ，有一种疫苗可以预防HPV——它是唯一能帮助预防这些癌症的疫苗。它安全、有效，并
 且推荐给所有人。请向您的医生咨询HPV疫苗——保护健康从预防开始。”
 
-<iframe width="391" height="695" src="https://www.youtube.com/embed/dfG52qyHiq8" title="跟我 起去打 HPV 疫苗吧！#hpv #chinese" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="441" height="783" src="https://www.youtube.com/embed/YjmxE838rNA" title="Come with me to get my HPV vaccine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
