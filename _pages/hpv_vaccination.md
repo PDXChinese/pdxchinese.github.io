@@ -6,7 +6,7 @@ feature_row1:
     excerpt: "Dr. Janice Lee, (家庭科医生）穆尔特诺玛县卫生中心"
 ---
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/hpv_flyer)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/hpv_flyer)
 
 ### HPV疫苗接种可以预防癌症：
 
