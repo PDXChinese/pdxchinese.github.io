@@ -135,44 +135,36 @@ Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 
 >[Artful Lacquer Fan / 随艺手工](https://youtube.com/shorts/JuamKCSM0Lo), by Junchao & Carolina   
 Calligraphy Demo and Artworks available for Purchase, by Weili  
-[Custom Mugs](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/festival_mug) - Personalized for You, by SPT Global Inc  
+Chinese crafts and gifts Brandzy Studio  
 [Lan Su Chinese Garden](https://lansugarden.org/)  
 [OCC Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
-[Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/)  
-[Winnie Chinese Dance](https://www.winniechinesedance.com/)  
-[YZ Dance Studio](https://www.yzdance.com/)  
-[The Zhang Clan Odyssey](https://www.mychinaroots.com/samples/zhang-odyssey/#1), by Raymond Chong   
+[Oregon International Ballet Academy](https://www.oiballet.org/)  
 
 *some may only accept cash payment*
 
 ## Public Health Outreach and Education
 
->[Lines for Life](https://www.linesforlife.org/)  
-[Multnomah County Public Health](https://www.multco.us/health)  
-[OCC Emergency Preparedness](https://pdxchinese.org/resources/disaster/resilience/)  
+>[OCC Emergency Preparedness](https://pdxchinese.org/resources/disaster/resilience/)  
 [OCC HPV Vaccination Survey](https://docs.google.com/forms/d/e/1FAIpQLSfBLNIl1qobNfjZtJB1fpB5U7LdaQBUdCqqsAEL_jjHpd1inA/viewform)  
 [OCC No Smoking No Vaping Pledge Campaign](https://docs.google.com/forms/d/e/1FAIpQLSeXi9pIxzAE7655rQRaq849D0swRK_nWTkQnPOKDZjSnbdrQA/viewform)  
+OHSU Hepatitis B Education and Awareness  
 
 ## Community Partner Tabling
 
 >[Energy Trust](https://www.energytrust.org/)  
 [Multnomah County Library, Chinese Language Dept](https://multcolib.org/)  
-[Northwest Chinese Alliance](https://nwchinesealliance.org/)  
 [Portland Winterhawks](https://chl.ca/whl-winterhawks/)  
 
 ## Festival Sponsors
 
->### Silver Sponsors  
-[Multnomah County Public Health](https://www.multco.us/health)  
+>### Gold Sponsors  
+[Prosper Portland](https://prosperportland.us/)  
+### Silver Sponsors  
 [Portland Winterhawks](https://chl.ca/whl-winterhawks/)  
 ### Community Sponsors  
-[Prosper Portland](https://prosperportland.us/)  
-[Trimet](https://trimet.org/home/)  
 [NW Natural](https://www.nwnatural.com/)  
-[Portland General Electric, PGE](https://portlandgeneral.com/)  
 [Energy Trust](https://www.energytrust.org/)  
 ### Friend of Festival  
-[Oregon Department of Transportation](https://www.oregon.gov/ODOT/)  
 [Pioneer Courthouse Square](https://www.thesquarepdx.org/)  
 
 ## Giveaways
@@ -191,6 +183,10 @@ Calligraphy Demo and Artworks available for Purchase, by Weili
 **2022:** [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2022/), [KOIN Coverage](https://youtu.be/2Ye39CXroww), [KATU Coverage](https://katu.com/news/local/chinese-festival-brings-hundreds-to-portlands-pioneer-courthouse-square?fbclid=IwAR2vlrDy2OkK4xHz1Y27Xjzy8vLDp40a8eTkUzVPlR3vZ1dpOOfgHvB2AII), [Photo Album](https://pdxchinese.org/chinese-festival-2022/)  
 **2021:** [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2021/), [KOIN Interview](https://youtu.be/oPKL9vPTH3c), [Photo Album](https://pdxchinese.org/chinese-festival-2021/)  
 **2019:** [Programs](http://pdxchinese.org/chinesefestival/chinesefestival_2019/), [KGW Interview](https://www.kgw.com/video/life/first-ever-pdx-chinese-festival-on-the-square/283-21872975-6fee-4122-83d1-a83449b083f5), [Photo Album](http://pdxchinese.org/chinese-festival-2019/), [Festival Slides](https://youtu.be/hOMUih0WrLQ)  
+
+<iframe width="1897" height="1067" src="https://www.youtube.com/embed/E2MzcgY7T4A" title="Chinese Festival 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
 
 <iframe width="1707" height="960" src="https://www.youtube.com/embed/DNZdWrj3-e8" title="2025 Chinese Festival: Memorable Moments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
