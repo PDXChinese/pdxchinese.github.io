@@ -30,10 +30,7 @@ feature_row1a:
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/festival_2026)
 
->We are committed to downtown Portland for our biggest cultural event in the Chinese American community. Just as we will not give up on Chinatown with its rich heritage, we will be here when Portland needs us the most to help restore the vibrant life we were once proud of. We invite you to read [The Oregonian’s feature](https://www.oregonlive.com/living/2025/08/how-portlands-chinatown-history-shaped-the-oregon-chinese-festival-which-returns-to-pioneer-courthouse-square-saturday.html
-) on the evolution of the Chinese Festival and its growing significance in our community.
-
-The Chinese Festival was proudly [recognized](https://youtu.be/0Jg3yi45R9c?t=780) as one of the major summer events in downtown Portland. The Chinese American community continues to lead efforts to enhance downtown life and the local economy, while also [revitalizing Chinatown](https://pdxchinese.org/dragon/) and preserving our rich cultural heritage.
+The Chinese Festival was proudly [recognized](https://youtu.be/0Jg3yi45R9c?t=780) as one of the major summer events in downtown Portland. The Chinese American community continues to lead efforts to enhance downtown life and the local economy, while also revitalizing Chinatown and preserving our rich cultural heritage.
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/kick_off_2025)
 
@@ -88,9 +85,9 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 | Name | Category |
 | [Home Tastes 家乡味](https://www.hometaste.org/) | Braised Pork Rice 卤肉饭，Spam Musubi, Spinrg Rolls |
 | Little Beijing 北京小馆 | JianBing 煎饼果子，BingFen 冰粉，Cold Noodle |
-| LoLo S San Xiang 十三乡 | Pot Stickers, Jian Bao, Lam Skewers, Buba Tea |
+| Beijing Bro 北京兄弟 | Pot Stickers, Jian Bao, Lam Skewers, Buba Tea |
 | [Mandarin House 京华楼](https://www.mandarinhouse97204.com/) | Barbecued Pork Buns, Steamed Dumplings, Spring Rolls |
-| Noodle Point | Barbecue Grill and Griddle |
+| Dragon Wok | Dumpling and Fried Chicken |
 | [Red Robe Tea House & Cafe 大红袍](https://www.redrobeteahouse.com/) | Sichuan Noodle, Chicken Wings, Spring Rolls, Bubble Tea, Tea |
 | [TeaCha.T](https://teachatpdx.square.site/) | Immersing in Tea Culture and Savoring Artisanal Brews |
 
