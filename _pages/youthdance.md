@@ -24,6 +24,10 @@ Please follow them on Instagram @jade_danceteam
 
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/pJ8NmP8XBeQ" title="Group Drumming & Dancing: Rigorous Splendor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### They perform in Las Vegas
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/641334705_902391195759297_4997396469884221660_n)
+
 ### They perform in the multicultural celebration events at schools
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/345207376_157519157280310_5308032708509650109_n)

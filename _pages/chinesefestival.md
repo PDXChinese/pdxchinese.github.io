@@ -89,6 +89,7 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 | [Mandarin House 京华楼](https://www.mandarinhouse97204.com/) | Barbecued Pork Buns, Steamed Dumplings, Spring Rolls |
 | Dragon Wok | Dumpling and Fried Chicken |
 | [Red Robe Tea House & Cafe 大红袍](https://www.redrobeteahouse.com/) | Sichuan Noodle, Chicken Wings, Spring Rolls, Bubble Tea, Tea |
+| [Let Peer Up](https://letspeerup.godaddysites.com/) | Taiwanese Purple Rice Rolls, Chinese Egg Crepes, Korean Cold Noodles (Naengmyeon), Bingfen (Chinese Ice Jelly Dessert), Traditional Chinese Sour Plum Drink|
 | [TeaCha.T](https://teachatpdx.square.site/) | Immersing in Tea Culture and Savoring Artisanal Brews |
 
 
@@ -137,6 +138,7 @@ Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 Calligraphy Demo and Artworks available for Purchase, by Weili  
 Chinese crafts and gifts Brandzy Studio  
 [Lan Su Chinese Garden](https://lansugarden.org/)  
+[Let Peer Up](https://letspeerup.godaddysites.com/)  
 [OCC Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
 [Oregon International Ballet Academy](https://www.oiballet.org/)  
 
