@@ -34,6 +34,8 @@ extra:
         url: /hrsn/
       - title: "Meal Provider"
         url: /mealprovider/
+      - title: "Neighborhood Meeting"
+        url: /neighborhoodmtg/
       - title: "Oral History"
         url: /oralhistory/
       - title: "Ride with Seniors"
