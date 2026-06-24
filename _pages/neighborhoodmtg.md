@@ -11,7 +11,7 @@ feature_row2:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/ohsulogo
 ---
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/neighborhoodmtg_2026)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/neighborhoodmtg_2026b)
 
 ### 为什么要组织社区邻里座谈会
 
