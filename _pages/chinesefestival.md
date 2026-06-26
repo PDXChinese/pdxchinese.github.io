@@ -11,17 +11,13 @@ feature_row03:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/energytrust
 feature_row04:    
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pcs-logo-s
-feature_row1c:
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Noah_Von_Dem_Bruch
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Noah_Von_Dem_Bruch/'>Noah Von Dem Bruch</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Allison_Hu2
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Allison_Hu/'>Allison Hu</a></p>"
-feature_row1b:
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Emily_Jiang
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Emily_Jiang/'>Emily Jiang</a></p>"
 feature_row1a:
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Zhi_Qu
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Noah_Von_Dem_Bruch/'>Jane Qu</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Daisy_Conway
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Daisy_Conway/'>Daisy Conway</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Jorie_Liang
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Jorie_Liang/'>Jorie Liang</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Lucas_Zhang
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Lucas_Zhang/'>Lucas Zhang</a></p>"
 ---
 # See you on August 1, 2026  
 *Held annually on the first Saturday of August*
@@ -68,7 +64,7 @@ Parking: [Fox Tower $8](https://maps.app.goo.gl/FtZk9VDZJcV8j6er6) and [SmartPar
 
 ## Masters of Ceremony
 
-*coming soon...*
+{% include feature_row id="feature_row1a"%}  
 
 ## Stage Performances  
 
