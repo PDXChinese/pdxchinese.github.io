@@ -80,7 +80,7 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 | [Home Tastes 家乡味](https://www.hometaste.org/) | Braised Pork Rice 卤肉饭，Spam Musubi, Spring Rolls |
 | Little Beijing 北京小馆 | Tanghulu (Candied Fruit Skewers) |
 | Beijing Bro 北京兄弟 | Pot Stickers, Jian Bao, Lam Skewers, Buba Tea |
-| [Mandarin House 京华楼](https://www.mandarinhouse97204.com/) | Barbecued Pork Buns, Steamed Dumplings, Spring Rolls |
+| [Mandarin House 京华楼](https://www.mandarinhouse97204.com/) | Barbecued Pork Buns, Steamed Dumplings |
 | Dragon Wok | Dumpling and Fried Chicken |
 | [Red Robe Tea House & Cafe 大红袍](https://www.redrobeteahouse.com/) | Sichuan Noodle, Chicken Wings, Spring Rolls, Bubble Tea, Tea |
 | [Let Peer Up](https://letspeerup.godaddysites.com/) | Taiwanese Purple Rice Rolls, Chinese Egg Crepes, Korean Cold Noodles (Naengmyeon), Bingfen (Chinese Ice Jelly Dessert), Traditional Chinese Sour Plum Drink|
