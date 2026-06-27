@@ -146,8 +146,9 @@ Chinese crafts and gifts from Brandzy Studio
 OHSU Hepatitis B Education and Awareness  
 
 ## Display of Chinese Railroad Workers in North America
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/SPICE)
 
-Between 1865 and 1869, thousands of Chinese migrants toiled at a grueling pace and in perilous working conditions to help construct America’s first Transcontinental Railroad. The Chinese Railroad Workers in North America Project at Stanford University seeks to give a voice to the Chinese migrants whose labor on the Transcontinental Railroad helped to shape the physical and social landscape of the American West. 
+Between 1865 and 1869, thousands of Chinese migrants toiled at a grueling pace and in perilous working conditions to help construct America’s first Transcontinental Railroad. The Chinese Railroad Workers in North America Project at Stanford University seeks to give a voice to the Chinese migrants whose labor on the Transcontinental Railroad helped to shape the physical and social landscape of the American West.
 
 *located on the sidewalk along SW 6th Ave*
 
