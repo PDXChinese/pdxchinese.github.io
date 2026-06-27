@@ -136,7 +136,7 @@ Chinese crafts and gifts from Brandzy Studio
 [Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/)  
 [YZ Dance Studio](https://www.yzdance.com/)  
 
-*some may only accept cash payment*
+*Some may only accept cash payment*
 
 ## Public Health Outreach and Education
 
@@ -150,7 +150,7 @@ OHSU Hepatitis B Education and Awareness
 
 Between 1865 and 1869, thousands of Chinese migrants toiled at a grueling pace and in perilous working conditions to help construct America’s first Transcontinental Railroad. The Chinese Railroad Workers in North America Project at Stanford University seeks to give a voice to the Chinese migrants whose labor on the Transcontinental Railroad helped to shape the physical and social landscape of the American West.
 
-*located on the sidewalk along SW 6th Ave*
+*Located on the sidewalk bordering SW 6th Avenue*
 
 ## Community Partner Tabling
 
