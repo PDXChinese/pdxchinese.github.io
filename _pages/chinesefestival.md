@@ -19,9 +19,6 @@ feature_row1a:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Lucas_Zhang
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Lucas_Zhang/'>Lucas Zhang</a></p>"
 ---
-# See you on August 1, 2026  
-*Held annually on the first Saturday of August*
-
 ### [FOR IMMEDIATE RELEASE](/assets/pdf/Press_Release_for_2025_Chinese_Festival.pdf)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/festival_2026)
@@ -80,7 +77,7 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 
 | Name | Category |
 | [Home Tastes 家乡味](https://www.hometaste.org/) | Braised Pork Rice 卤肉饭，Spam Musubi, Spring Rolls |
-| Little Beijing 北京小馆 | JianBing 煎饼果子，BingFen 冰粉，Cold Noodle |
+| Little Beijing 北京小馆 | Tanghulu (Candied Fruit Skewers) |
 | Beijing Bro 北京兄弟 | Pot Stickers, Jian Bao, Lam Skewers, Buba Tea |
 | [Mandarin House 京华楼](https://www.mandarinhouse97204.com/) | Barbecued Pork Buns, Steamed Dumplings, Spring Rolls |
 | Dragon Wok | Dumpling and Fried Chicken |
@@ -122,7 +119,7 @@ Chest box for Chinese immigrants in the late 1800s
 
 ## Hanfu (Traditional Chinese Clothing) Booth
 
-Observe makeup, hairstyling, and hanfu dressing  
+>Observe makeup, hairstyling, and hanfu dressing  
 Costume Photo Booth/古装拍照  
 Showcase the beauty of hanfu: [past event 1 ](https://youtu.be/R3EwAN2hVAA), [past event 2](https://youtu.be/vdbt8NTPiXM), [past event 3](https://youtu.be/QPhAENEzZ5I)  
 
@@ -130,7 +127,7 @@ Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 
 ## Cultural Arts & Crafts Vendors
 
->[Artful Lacquer Fan / 随艺手工](https://youtube.com/shorts/JuamKCSM0Lo) and Sugar Painting / 糖画, by Junchao & Carolina   
+>[Artful Lacquer Fan](https://youtube.com/shorts/JuamKCSM0Lo) and Sugar Painting, by Junchao & Carolina   
 Calligraphy Demo and Artworks, by Weili  
 Chinese crafts and gifts from Brandzy Studio  
 [Lan Su Chinese Garden](https://lansugarden.org/)  
