@@ -70,6 +70,7 @@ Parking: [Fox Tower $8](https://maps.app.goo.gl/FtZk9VDZJcV8j6er6) and [SmartPar
 ## Stage Performances  
 
 **Performance Groups and Individuals**
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/stageperformance)
 
 They not only shine on stage, but also serve as cultural ambassadors, sharing Chinese culture and heritage with the broader community. By the time of this year's Chinese Festival, the number of cultural events that OCC alone had organized, coordinated, or participated in throughout the broader community had exceeded 40.
 
@@ -135,6 +136,7 @@ Costume Photo Booth/古装拍照
 Showcase the beauty of hanfu: [past event 1](https://youtu.be/R3EwAN2hVAA), [past event 2](https://youtu.be/vdbt8NTPiXM), [past event 3](https://youtu.be/QPhAENEzZ5I)  
 
 ## Cultural Arts & Crafts Vendors
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/artvendor)
 
 >[Artful Lacquer Fan](https://youtube.com/shorts/JuamKCSM0Lo) and Sugar Painting, by Junchao & Carolina   
 Calligraphy Demo and Artworks, by Weili  
