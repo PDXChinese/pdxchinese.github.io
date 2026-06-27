@@ -122,15 +122,15 @@ Chest box for Chinese immigrants in the late 1800s
 
 ## Hanfu (Traditional Chinese Clothing) Booth
 
->Observe makeup, hairstyling, and hanfu dressing  
+Observe makeup, hairstyling, and hanfu dressing  
 Costume Photo Booth/古装拍照  
-Showcase the beauty of hanfu: [past event 1 ](https://youtu.be/R3EwAN2hVAA), [past event 2](https://youtu.be/vdbt8NTPiXM)  
+Showcase the beauty of hanfu: [past event 1 ](https://youtu.be/R3EwAN2hVAA), [past event 2](https://youtu.be/vdbt8NTPiXM), [past event 3](https://youtu.be/QPhAENEzZ5I)  
 
 Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/forms/d/e/1FAIpQLScNIqSmssHqhImF418NzsPW9pkB6LgZCFcqTLncuInSuZ38CA/viewform)  
 
 ## Cultural Arts & Crafts Vendors
 
-[Artful Lacquer Fan / 随艺手工](https://youtube.com/shorts/JuamKCSM0Lo) and Sugar Painting / 糖画, by Junchao & Carolina   
+>[Artful Lacquer Fan / 随艺手工](https://youtube.com/shorts/JuamKCSM0Lo) and Sugar Painting / 糖画, by Junchao & Carolina   
 Calligraphy Demo and Artworks, by Weili  
 Chinese crafts and gifts from Brandzy Studio  
 [Lan Su Chinese Garden](https://lansugarden.org/)  
