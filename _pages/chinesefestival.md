@@ -27,6 +27,11 @@ The Chinese Festival was proudly [recognized](https://youtu.be/0Jg3yi45R9c?t=780
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/kick_off_2025)
 
+<br>
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/festival)
+
+
 ## Proud Festival Sponsors
 
 ### Goldr Sponsors
@@ -77,7 +82,7 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 ## Food Vendor Lineup
 
 | Name | Category |
-| [Home Tastes 家乡味](https://www.hometaste.org/) | Braised Pork Rice 卤肉饭，Spam Musubi, Spring Rolls |
+| [Home Taste 家香味](https://www.hometaste.org/) | Braised Pork Rice 卤肉饭，Spam Musubi, Spring Rolls |
 | Little Beijing 北京小馆 | Tanghulu (Candied Fruit Skewers) |
 | Beijing Bro 北京兄弟 | Pot Stickers, Jian Bao, Lam Skewers, Buba Tea |
 | [Mandarin House 京华楼](https://www.mandarinhouse97204.com/) | Barbecued Pork Buns, Steamed Dumplings |
