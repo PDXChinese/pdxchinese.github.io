@@ -81,6 +81,7 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 *About 500 performers on stage. Schedule is subject to change*  
 
 ## Food Vendor Lineup
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/foodvendor)
 
 | Name | Category |
 | [Home Taste 家香味](https://www.hometaste.org/) | Braised Pork Rice 卤肉饭，Spam Musubi, Spring Rolls |
