@@ -136,8 +136,9 @@ Chinese crafts and gifts from Brandzy Studio
 [Lan Su Chinese Garden](https://lansugarden.org/)  
 [Let Peer Up](https://letspeerup.godaddysites.com/)  
 [OCC Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
-[YZ Dance Studio](https://www.yzdance.com/)  
 [Oregon International Ballet Academy](https://www.oiballet.org/)  
+[Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/)  
+[YZ Dance Studio](https://www.yzdance.com/)  
 
 *some may only accept cash payment*
 
