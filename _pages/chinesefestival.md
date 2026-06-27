@@ -131,11 +131,12 @@ Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/form
 ## Cultural Arts & Crafts Vendors
 
 >[Artful Lacquer Fan / 随艺手工](https://youtube.com/shorts/JuamKCSM0Lo), by Junchao & Carolina   
-Calligraphy Demo and Artworks available for Purchase, by Weili  
-Chinese crafts and gifts Brandzy Studio  
+Calligraphy Demo and Artworks, by Weili  
+Chinese crafts and gifts from Brandzy Studio  
 [Lan Su Chinese Garden](https://lansugarden.org/)  
 [Let Peer Up](https://letspeerup.godaddysites.com/)  
 [OCC Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
+[YZ Dance Studio](https://www.yzdance.com/)  
 [Oregon International Ballet Academy](https://www.oiballet.org/)  
 
 *some may only accept cash payment*
