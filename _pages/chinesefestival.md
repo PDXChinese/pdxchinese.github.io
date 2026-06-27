@@ -54,7 +54,6 @@ The Chinese Festival was proudly [recognized](https://youtu.be/0Jg3yi45R9c?t=780
 We need your help to make our events successful! If you're interested in volunteering, please sign up using the link below. Your support is crucial, and we have a variety of roles available to fit your skills and interests.
 
 How you can volunteer: [Volunteer Sign-Up / 义工报名表](https://signup.com/go/esOvNSC)  
-Hanfu models wanted for Chinese Festival: [Sign-Up / 汉服模特报名表](https://docs.google.com/forms/d/e/1FAIpQLScNIqSmssHqhImF418NzsPW9pkB6LgZCFcqTLncuInSuZ38CA/viewform)  
 
 [Site Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/sitemap2025c)  
 Parking: [Fox Tower $8](https://maps.app.goo.gl/FtZk9VDZJcV8j6er6) and [SmartPark, $7](https://maps.app.goo.gl/dyb8kUbNjYwgFjy38)  
