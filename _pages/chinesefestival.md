@@ -122,9 +122,7 @@ Chest box for Chinese immigrants in the late 1800s
 
 >Observe makeup, hairstyling, and hanfu dressing  
 Costume Photo Booth/古装拍照  
-Showcase the beauty of hanfu: [past event 1 ](https://youtu.be/R3EwAN2hVAA), [past event 2](https://youtu.be/vdbt8NTPiXM), [past event 3](https://youtu.be/QPhAENEzZ5I)  
-
-Hanfu models wanted for Chinese Festival: [Sign-Up](https://docs.google.com/forms/d/e/1FAIpQLScNIqSmssHqhImF418NzsPW9pkB6LgZCFcqTLncuInSuZ38CA/viewform)  
+Showcase the beauty of hanfu: [past event 1](https://youtu.be/R3EwAN2hVAA), [past event 2](https://youtu.be/vdbt8NTPiXM), [past event 3](https://youtu.be/QPhAENEzZ5I)  
 
 ## Cultural Arts & Crafts Vendors
 
@@ -146,6 +144,12 @@ Chinese crafts and gifts from Brandzy Studio
 [OCC HPV Vaccination Survey](https://docs.google.com/forms/d/e/1FAIpQLSfBLNIl1qobNfjZtJB1fpB5U7LdaQBUdCqqsAEL_jjHpd1inA/viewform)  
 [OCC No Smoking No Vaping Pledge Campaign](https://docs.google.com/forms/d/e/1FAIpQLSeXi9pIxzAE7655rQRaq849D0swRK_nWTkQnPOKDZjSnbdrQA/viewform)  
 OHSU Hepatitis B Education and Awareness  
+
+## Display of Chinese Railroad Workers in North America
+
+Between 1865 and 1869, thousands of Chinese migrants toiled at a grueling pace and in perilous working conditions to help construct America’s first Transcontinental Railroad. The Chinese Railroad Workers in North America Project at Stanford University seeks to give a voice to the Chinese migrants whose labor on the Transcontinental Railroad helped to shape the physical and social landscape of the American West. 
+
+*located on the sidewalk along SW 6th Ave*
 
 ## Community Partner Tabling
 
