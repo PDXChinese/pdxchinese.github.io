@@ -105,6 +105,11 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 [DIY Painting/Drawing on Fans/手工绘扇子](https://www.youtube.com/shorts/Ewr7OicZLuc?feature=share)  
 [DIY Bookmarks/漆画书签](https://www.youtube.com/shorts/VE-X2QW30-s?feature=share)  
 
+## Artist Booth
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/artist)
+
+Visiting artist Shirakawa brings traditional Chinese brush painting to Portland with colorful and captivating Kunqu opera-themed pieces broughrt directly from his collection in our sister city, Suzhou.
+
 ## Chinese Artisans & Antiquities
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/artisans_exhibit)
 
@@ -116,7 +121,7 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 Treasures Unearthed from China / 出土文物  
 Chest box for Chinese immigrants in the late 1800s  
 
-*located inside Hanfu Booth*
+*Located inside Hanfu Booth*
 
 ## Hanfu (Traditional Chinese Clothing) Booth
 
