@@ -68,8 +68,6 @@ Parking: [Fox Tower $8](https://maps.app.goo.gl/FtZk9VDZJcV8j6er6) and [SmartPar
 {% include feature_row id="feature_row1a"%}  
 
 ## Stage Performances  
-
-**Performance Groups and Individuals**
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/stageperformance)
 
 They not only shine on stage, but also serve as cultural ambassadors, sharing Chinese culture and heritage with the broader community. By the time of this year's Chinese Festival, the number of cultural events that OCC alone had organized, coordinated, or participated in throughout the broader community had exceeded 40.
