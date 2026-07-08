@@ -34,7 +34,7 @@ The Chinese Festival was proudly [recognized](https://youtu.be/0Jg3yi45R9c?t=780
 
 ## Proud Festival Sponsors
 
-### Goldr Sponsors
+### Gold Sponsors
 
 {% include feature_row id="feature_row00"%}
 
@@ -58,7 +58,7 @@ The Chinese Festival was proudly [recognized](https://youtu.be/0Jg3yi45R9c?t=780
 
 We need your help to make our events successful! If you're interested in volunteering, please sign up using the link below. Your support is crucial, and we have a variety of roles available to fit your skills and interests.
 
-How you can volunteer: [Volunteer Sign-Up / 义工报名表](https://signup.com/go/esOvNSC)  
+How you can volunteer: [Volunteer Sign-Up / 义工报名表](https://signup.com/go/drapzqv)  
 
 [Site Map](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/sitemap2025c)  
 Parking: [Fox Tower $8](https://maps.app.goo.gl/FtZk9VDZJcV8j6er6) and [SmartPark, $7](https://maps.app.goo.gl/dyb8kUbNjYwgFjy38)  
@@ -75,7 +75,7 @@ They not only shine on stage, but also serve as cultural ambassadors, sharing Ch
 | Program | Presented By |
 | --- | ---: |
 
-Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms/d/e/1FAIpQLSc5yos8Fu1drLx8Tnq-Sq1241tdPUXUqjjb9Uc2BA-5MLdXQQ/viewform?vc=0&c=0&w=1&flr=0)  
+Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms/d/e/1FAIpQLSdQwhXtEDLaEHRfP--73_yh651tsTeuBLhWf8tCxhHjXc5uTw/viewform?usp=dialog)  
 *About 500 performers on stage. Schedule is subject to change*  
 
 ## Food Vendor Lineup
