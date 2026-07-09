@@ -143,6 +143,7 @@ Calligraphy Demo and Artworks, by Weili
 Chinese crafts and gifts from Brandzy Studio  
 [Lan Su Chinese Garden](https://lansugarden.org/)  
 [Let Peer Up](https://letspeerup.godaddysites.com/)  
+[National University of Natural Medicine](https://nunm.edu/)  
 [OCC Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
 [Oregon International Ballet Academy](https://www.oiballet.org/)  
 [Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/)  
