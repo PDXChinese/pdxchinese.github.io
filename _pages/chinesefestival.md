@@ -170,6 +170,7 @@ Between 1865 and 1869, thousands of Chinese migrants toiled at a grueling pace a
 [NW Natural](https://www.nwnatural.com/)  
 [Multnomah County Library, Chinese Language Dept](https://multcolib.org/)  
 [Portland Winterhawks](https://chl.ca/whl-winterhawks/)  
+[Trimet](https://trimet.org/home/)  
 
 ## Festival Sponsors
 
