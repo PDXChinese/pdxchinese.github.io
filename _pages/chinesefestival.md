@@ -141,10 +141,7 @@ Showcase the beauty of hanfu: [past event 1](https://youtu.be/R3EwAN2hVAA), [pas
 >[Artful Lacquer Fan](https://youtube.com/shorts/JuamKCSM0Lo) and Sugar Painting, by Junchao & Carolina   
 Calligraphy Demo and Artworks, by Weili  
 Chinese crafts and gifts from Brandzy Studio  
-[Lan Su Chinese Garden](https://lansugarden.org/)  
 [Let Peer Up](https://letspeerup.godaddysites.com/)  
-[National University of Natural Medicine](https://nunm.edu/)  
-[OCC Dragonfly Diabolo Team](https://pdxchinese.org/yoyo/)  
 [Oregon International Ballet Academy](https://www.oiballet.org/)  
 [Project Cloud 9](https://www.facebook.com/ProjectCloud9SG/)  
 [YZ Dance Studio](https://www.yzdance.com/)  
@@ -169,6 +166,10 @@ Between 1865 and 1869, thousands of Chinese migrants toiled at a grueling pace a
 ## Community Partner Tabling
 
 >[Energy Trust](https://www.energytrust.org/)  
+[Lan Su Chinese Garden](https://lansugarden.org/)  
+[NMDP](https://www.nmdp.org/)  
+[National University of Natural Medicine](https://nunm.edu/)  
+[NW Natural](https://www.nwnatural.com/)  
 [Multnomah County Library, Chinese Language Dept](https://multcolib.org/)  
 [Portland Winterhawks](https://chl.ca/whl-winterhawks/)  
 
