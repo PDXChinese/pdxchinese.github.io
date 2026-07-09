@@ -134,7 +134,7 @@ Costume Photo Booth/古装拍照
 Showcase the beauty of hanfu: [past event 1](https://youtu.be/R3EwAN2hVAA), [past event 2](https://youtu.be/vdbt8NTPiXM), [past event 3](https://youtu.be/QPhAENEzZ5I)  
 
 ## Cultural Arts & Crafts Vendors
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/artvendor)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/artvendor1)
 
 >[Artful Lacquer Fan](https://youtube.com/shorts/JuamKCSM0Lo) and Sugar Painting, by Junchao & Carolina   
 Calligraphy Demo and Artworks, by Weili  
@@ -165,8 +165,8 @@ Between 1865 and 1869, thousands of Chinese migrants toiled at a grueling pace a
 
 >[Energy Trust](https://www.energytrust.org/)  
 [Lan Su Chinese Garden](https://lansugarden.org/)  
+[National University of Natural Medicine, NUNM](https://nunm.edu/)  
 [NMDP](https://www.nmdp.org/)  
-[National University of Natural Medicine](https://nunm.edu/)  
 [NW Natural](https://www.nwnatural.com/)  
 [Multnomah County Library, Chinese Language Dept](https://multcolib.org/)  
 [Portland Winterhawks](https://chl.ca/whl-winterhawks/)  
