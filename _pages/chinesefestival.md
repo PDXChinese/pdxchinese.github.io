@@ -19,7 +19,7 @@ feature_row1a:
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Lucas_Zhang
     excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Lucas_Zhang/'>Lucas Zhang</a></p>"
 ---
-### [FOR IMMEDIATE RELEASE](/assets/pdf/Press_Release_for_2025_Chinese_Festival.pdf)
+### [FOR IMMEDIATE RELEASE](/assets/pdf/Press_Release_for_2026_Chinese_Festival.pdf)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/festival_2026)
 
