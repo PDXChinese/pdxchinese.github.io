@@ -127,7 +127,7 @@ Chest box for Chinese immigrants in the late 1800s
 *Located inside Hanfu Booth*
 
 ## Hanfu (Traditional Chinese Clothing) Booth
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/hanfu)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/hanfu1)
 
 >Observe makeup, hairstyling, and hanfu dressing  
 Costume Photo Booth/古装拍照  
