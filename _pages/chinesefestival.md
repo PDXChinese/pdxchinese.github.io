@@ -84,7 +84,6 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 | Little Beijing 北京小馆 | Tanghulu (Candied Fruit Skewers) |
 | Beijing Bro 北京兄弟 | Pot Stickers, Jian Bao, Lam Skewers, Buba Tea |
 | [Mandarin House 京华楼](https://www.mandarinhouse97204.com/) | Barbecued Pork Buns, Steamed Dumplings |
-| Dragon Wok | Dumpling and Fried Chicken |
 | [Red Robe Tea House & Cafe 大红袍](https://www.redrobeteahouse.com/) | Sichuan Noodle, Chicken Wings, Spring Rolls, Bubble Tea, Tea |
 | [Let Peer Up](https://letspeerup.godaddysites.com/) | Taiwanese Purple Rice Rolls, Chinese Egg Crepes, Korean Cold Noodles (Naengmyeon), Bingfen (Chinese Ice Jelly Dessert), Traditional Chinese Sour Plum Drink|
 | [TeaCha.T](https://teachatpdx.square.site/) | Immersing in Tea Culture and Savoring Artisanal Brews |
@@ -169,6 +168,7 @@ Between 1865 and 1869, thousands of Chinese migrants toiled at a grueling pace a
 [NMDP](https://www.nmdp.org/)  
 [NW Natural](https://www.nwnatural.com/)  
 [Multnomah County Library, Chinese Language Dept](https://multcolib.org/)  
+[Oregon Metro](https://www.oregonmetro.gov/)  
 [Portland Winterhawks](https://chl.ca/whl-winterhawks/)  
 [Trimet](https://trimet.org/home/)  
 
