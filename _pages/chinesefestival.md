@@ -85,7 +85,7 @@ They not only shine on stage, but also serve as cultural ambassadors, sharing Ch
 | Group Dance: Lantern Shadows of the Song Charm / 宋韵灯影 | Vancouver Jasmine Dance Troupe / 温哥华苿莉花舞队 |
 | Group Singing：When Will the Bright Moon Appear / 明月几时有 | [Portland Harmonics / 波特兰和声小组](https://pdxchinese.org/youthsinging/) |
 | Children Group Dance: Lanterns Bloom Across the City / 花灯开满城 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
-| Fan Dance: 天边的月亮 | Rose Home Senior Dance Group / 玫瑰屋老年舞蹈队 |
+| Fan Dance: The Moon on the Horizon / 天边的月亮 | Rose Home Senior Dance Group / 玫瑰屋老年舞蹈队 |
 | Chinese Dance: Cai Wei / 采薇 | [OCC Jade Dance Team / 青玉舞蹈队](https://pdxchinese.org/youthdance/) |
 | Fan Dance: Walking in the Rain / 踏雨 | Salem New Moon Dance Team |
 | Solo Cello: Humoresque / 幽默曲 | Haocheng Li |
