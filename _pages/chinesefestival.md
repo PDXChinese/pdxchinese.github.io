@@ -74,7 +74,7 @@ They not only shine on stage, but also serve as cultural ambassadors, sharing Ch
 | --- | ---: |
 | **Section One: 11:00am-1pm** | |
 | Welcome Speech | MC |
-| Group Chinese Drumming: 普天同庆 & 男儿当自强 | [OCC HuaMuLan Drum Team / 木兰鼓团](https://pdxchinese.org/mulandrum/) |
+| Group Chinese Drumming: 1.Universal Celebration 2.Strive for Strength / 1.普天同庆 2.男儿当自强 | [OCC HuaMuLan Drum Team / 木兰鼓团](https://pdxchinese.org/mulandrum/) |
 | Traditional Chinese Dance: Awakening of the Tang Figurines / 唐印 | [OCC Jade Dance Team / 青玉舞蹈队](https://pdxchinese.org/youthdance/) |
 | Sign Language Dance: We Are Family / 相亲相爱一家人 | Northwest Singing Group / 西北歌友会 |
 | Children Dance: Zootopia / 疯狂动物城 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
