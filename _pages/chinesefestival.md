@@ -72,6 +72,69 @@ They not only shine on stage, but also serve as cultural ambassadors, sharing Ch
 
 | Program | Presented By |
 | --- | ---: |
+| **Section One: 11:00am-1pm** | |
+| Welcome Speech | MC |
+| Group Chinese Drumming: 普天同庆 & 男儿当自强 | [OCC HuaMuLan Drum Team / 木兰鼓团](https://pdxchinese.org/mulandrum/) |
+| Traditional Chinese Dance: Awakening of the Tang Figurines / 唐印 | [OCC Jade Dance Team / 青玉舞蹈队](https://pdxchinese.org/youthdance/) |
+| Sign Language Dance: We Are Family / 相亲相爱一家人 | Northwest Singing Group / 西北歌友会 |
+| Children Dance: Zootopia / 疯狂动物城 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
+| Senior Qipao Show / 老年旗袍秀 | 21st Street Senior Apt Qipao Group / 21街老年旗袍秀 |
+| Chinese Dulcimer: Poetic Paintings of the Tianshan Mountains / 天山诗画 | Seline Dai |
+| Yang Style Taiji / 杨氏太极拳 | Taiji Group / 太极拳团队 |
+| Classical Poem & Dance: Timeless Elegance / 诗韵四季 | Lily Song |
+| Group Dance: Lantern Shadows of the Song Charm / 宋韵灯影 | Vancouver Jasmine Dance Troupe / 温哥华苿莉花舞队 |
+| Group Singing：When Will the Bright Moon Appear / 明月几时有 | [Portland Harmonics / 波特兰和声小组](https://pdxchinese.org/youthsinging/) |
+| Children Group Dance: Lanterns Bloom Across the City / 花灯开满城 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
+| Fan Dance: 天边的月亮 | Rose Home Senior Dance Group / 玫瑰屋老年舞蹈队 |
+| Chinese Dance: Cai Wei / 采薇 | [OCC Jade Dance Team / 青玉舞蹈队](https://pdxchinese.org/youthdance/) |
+| Fan Dance: Walking in the Rain / 踏雨 | Salem New Moon Dance Team |
+| Solo Cello: Humoresque / 幽默曲 | Haocheng Li |
+| Children Group Dance: Koi of Good Fortune / 锦鲤 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
+| Group Dance: Tales of the Opera / 戏文说 | Vancouver Jasmine Dance Troupe / 温哥华苿莉花舞队 |
+| Stage Play: Homeland / 故乡 | Northwest Singing Group / 西北歌友会 |
+| **Section Two: 1pm-3pm** | |
+| Group Dance: Dream of the Lotus / 荷之梦丝 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
+| Classical Duet Dance: The Butterfly Lovers / 古典双人舞《梁祝》 | Salem New Moon Dance Team |
+| Children's Choir: Spring Dawn / 春晓 | [Willamette Primary](https://willamette.wlwv.k12.or.us/) Mandarin Immersion Students |
+| Dai Ethnic Dance: Spirit of Water / 傣族舞蹈《水之灵》 | [East Dream Dance Troupe 东方舞艺术团](http://www.eastdreamdance.org/index.html) |
+| Solo Yi Ethnic Dance: Soma Flower / 彝族舞蹈 《索玛花》 | [SODA Chinese Dance Academy](https://www.sodadance.com/) |
+| Solo Vocal: How Many Regrets Have I Had in This Life / 这一生有多少遗憾 | Chunxiang Singing Group / 李春香歌唱班 |
+| Children Group Dance: Miao Girls / 苗家小姑娘 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
+| Drum Dance: Xianghe Song / 踏鼓舞《相和歌》 | [NWCA Huayun Art Club](https://nwchinesealliance.org/) / NWCA华韵艺术社 |
+| Guzheng: Small Town Story / 小城故事 | [Lulu Guzheng Studio](https://luluguzheng.com/) |
+| Fan Dance: Elegant Beauty / 扇子舞《秀色》 | Salem New Moon Dance Team |
+| Group Dance: Tambourine Dance / 铃鼓舞 | [SODA Chinese Dance Academy](https://www.sodadance.com/) |
+| Group Singing：We Are the Family / 我们是一家人 | [Portland Harmonics / 波特兰和声小组](https://pdxchinese.org/youthsinging/) |
+| Group Dance: Fan Shadows and Butterfly Dreams / 扇影蝶梦 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
+| Group Dance: Homeland / 故乡 | [East Dream Dance Troupe 东方舞艺术团](http://www.eastdreamdance.org/index.html) |
+| Baduanjin Qigong: The San Feng Tradition / 三丰 八段锦 | Weming Lin / 太极林 |
+| Tibetan Dance: Tsering Lasso / 次仁拉索 | [SODA Chinese Dance Academy](https://www.sodadance.com/) |
+| Violin: 1.Harvest Fishermen's Song 2.Summer / 1.丰收渔歌 2.夏季 | [WE Youth String Ensemble](https://www.thewaveelements.org/we-youth-string-ensemble) |
+| Children Group Dance: A Dance Within the Painting / 般般入画 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
+| Group Rhythmic Gymnastics Performance | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
+| Northeastern Yangko Dance: Charming / 东北秧歌《俏》 | [NWCA Huayun Art Club](https://nwchinesealliance.org/) / NWCA华韵艺术社 |
+| **Section Three: 3pm-6pm** | |
+| Family Performance with Suona Solo: The Road Ahead Is Wide and Open / 通天大道宽又阔 | Community Family & Friend Group / 社区家庭亲友团 |
+| Group Dance: South of the Colorful Clouds / 彩云之南 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
+| Solo Dance: Eternal Love / 醉了千古爱 | Catherine / 凯瑟琳  |
+| Classical Ballet: Le Corsaire / 海盗 | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
+| Hanfu Show Featuring the Main Theme by David Byrne / 汉服秀 | [OCC Phoenix Hanfu Society](https://pdxchinese.org/hanfu/) |
+| Children Group Dance: The Butterfly Lovers / 梁祝 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
+| Group Dance: Hidden Dragon / 隐龙 | Bluebell Dance Team |
+| Guzheng Solo：Battling the Typhoon / 战台风 | Daisy Wu |
+| Mini Dance Drama: Dream of the Red Chamber / 微舞剧《红楼梦》 | Portland Chinese Dance Troupe / 波特兰中国舞蹈团 |
+| Group Dance: Joyful Celebration / 喜上眉梢 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
+| Cello Ensemble: The Moon Represents My Heart / 大提琴重奏《月亮代表我的心》 | [Musication LLC](https://www.quinnliumusic.com/musication) |
+| Korean Ethnic Dance: Land of Blooming Azaleas / 金达莱盛开的地方 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
+| Yue Opera Excerpt / 越剧选段《红楼梦》,《梁山伯与祝英台》 | [NWCA Huayun Art Club](https://nwchinesealliance.org/) / NWCA华韵艺术社 |
+| Chinese Opera Dance: Feathered Grace / 戏曲舞蹈《羽韵》 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
+| Group Dance: Waiting for You, My Girl / 姑娘姑娘我等你 | Bluebell Dance Team |
+| Singing Duet: What the World Has Given Me / 世界赐予我的 | [Musication LLC](https://www.quinnliumusic.com/musication) |
+| Mini Dance Drama: My Homeland, Forever in My Dreams / 微舞剧《海萦梦乡》 | Portland Chinese Dance Troupe / 波特兰中国舞蹈团 |
+| Hanfu Show: RedRed by Cortis / 汉服秀 | Team 3xpassion |
+| Saxphone and Piano Duet: 1: Yes or No; 2: On the Sunny Side of the Street | Wang Lee Jazz Duo |
+| Singing with Dance: Red Dust / 滚滚红尘 | [NWCA Huayun Art Club](https://nwchinesealliance.org/) / NWCA华韵艺术社 |
+| Children Group Dance: Dunhuang: The Silk Road Legacy / 敦煌 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
 
 Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms/d/e/1FAIpQLSdQwhXtEDLaEHRfP--73_yh651tsTeuBLhWf8tCxhHjXc5uTw/viewform?usp=dialog)  
 *About 500 performers on stage. Schedule is subject to change*  
@@ -120,6 +183,8 @@ Visiting artist Shirakawa brings traditional Chinese brush painting to Portland 
 [Cloisonné / 景泰蓝](https://www.youtube.com/shorts/hYLI_IgKMMo?feature=share)  
 [Cork Picture / 软木画](https://youtu.be/VOP0McKbI9s)  
 [Blue-and-White Porcelain / 青花瓷](https://youtu.be/YjPFKjSfqk4)  
+[Chinese Diabolo / 空竹](https://youtu.be/3eemBulZjm4)  
+[Clay Figure / 泥人](https://youtu.be/-2TJVpYSUhU)  
 Treasures Unearthed from China / 出土文物  
 Chest box for Chinese immigrants in the late 1800s  
 
@@ -164,10 +229,10 @@ Between 1865 and 1869, thousands of Chinese migrants toiled at a grueling pace a
 
 >[Energy Trust](https://www.energytrust.org/)  
 [Lan Su Chinese Garden](https://lansugarden.org/)  
+[Multnomah County Library, Chinese Language Dept](https://multcolib.org/)  
 [National University of Natural Medicine, NUNM](https://nunm.edu/)  
 [NMDP](https://www.nmdp.org/)  
 [NW Natural](https://www.nwnatural.com/)  
-[Oregon Metro](https://www.oregonmetro.gov/)  
 [Portland Winterhawks](https://chl.ca/whl-winterhawks/)  
 [Trimet](https://trimet.org/home/)  
 
