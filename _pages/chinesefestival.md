@@ -109,7 +109,7 @@ They not only shine on stage, but also serve as cultural ambassadors, sharing Ch
 | Group Dance: Homeland / 故乡 | [East Dream Dance Troupe 东方舞艺术团](http://www.eastdreamdance.org/index.html) |
 | Baduanjin Qigong: The San Feng Tradition / 三丰 八段锦 | Weming Lin / 太极林 |
 | Tibetan Dance: Tsering Lasso / 次仁拉索 | [SODA Chinese Dance Academy](https://www.sodadance.com/) |
-| Violin: 1.Harvest Fishermen's Song 2.Summer / 1.丰收渔歌 2.夏季 | [WE Youth String Ensemble](https://www.thewaveelements.org/we-youth-string-ensemble) |
+| Violin: 1.Fishermen’s Harvest Song 2.Summer / 1.丰收渔歌 2.夏季 | [WE Youth String Ensemble](https://www.thewaveelements.org/) |
 | Children Group Dance: A Dance Within the Painting / 般般入画 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
 | Group Rhythmic Gymnastics Performance | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
 | Northeastern Yangko Dance: Charming / 东北秧歌《俏》 | [NWCA Huayun Art Club](https://nwchinesealliance.org/) / NWCA华韵艺术社 |
