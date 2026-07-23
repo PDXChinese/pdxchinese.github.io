@@ -100,7 +100,7 @@ They not only shine on stage, but also serve as cultural ambassadors, sharing Ch
 | Solo Yi Ethnic Dance: Soma Flower / 彝族舞蹈 《索玛花》 | [SODA Chinese Dance Academy](https://www.sodadance.com/) |
 | Solo Vocal: How Many Regrets Have I Had in This Life / 这一生有多少遗憾 | Chunxiang Singing Group / 李春香歌唱班 |
 | Children Group Dance: Miao Girls / 苗家小姑娘 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
-| Drum Dance: Xianghe Song / 踏鼓舞《相和歌》 | [NWCA Huayun Art Club](https://nwchinesealliance.org/) / NWCA华韵艺术社 |
+| Drum Dance: Xianghe Song / 踏鼓舞《相和歌》 | [NWCA Huayun Arts Group](https://nwchinesealliance.org/) / NWCA华韵艺术团 |
 | Guzheng: Small Town Story / 小城故事 | [Lulu Guzheng Studio](https://luluguzheng.com/) |
 | Fan Dance: Elegant Beauty / 扇子舞《秀色》 | Salem New Moon Dance Team |
 | Group Dance: Tambourine Dance / 铃鼓舞 | [SODA Chinese Dance Academy](https://www.sodadance.com/) |
@@ -112,7 +112,7 @@ They not only shine on stage, but also serve as cultural ambassadors, sharing Ch
 | Violin: 1.Fishermen’s Harvest Song 2.Summer / 1.丰收渔歌 2.夏季 | [WE Youth String Ensemble](https://www.thewaveelements.org/) |
 | Children Group Dance: A Dance Within the Painting / 般般入画 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
 | Group Rhythmic Gymnastics Performance | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
-| Northeastern Yangko Dance: Charming / 东北秧歌《俏》 | [NWCA Huayun Art Club](https://nwchinesealliance.org/) / NWCA华韵艺术社 |
+| Northeastern Yangko Dance: Charming / 东北秧歌《俏》 | [NWCA Huayun Arts Group](https://nwchinesealliance.org/) / NWCA华韵艺术团 |
 | **Section Three: 3pm-6pm** | |
 | Family Performance with Suona Solo: The Road Ahead Is Wide and Open / 通天大道宽又阔 | Community Family & Friend Group / 社区家庭亲友团 |
 | Group Dance: South of the Colorful Clouds / 彩云之南 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
@@ -126,13 +126,13 @@ They not only shine on stage, but also serve as cultural ambassadors, sharing Ch
 | Group Dance: Joyful Celebration / 喜上眉梢 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
 | Cello Ensemble: The Moon Represents My Heart / 大提琴重奏《月亮代表我的心》 | [Musication LLC](https://www.quinnliumusic.com/musication) |
 | Korean Ethnic Dance: Land of Blooming Azaleas / 金达莱盛开的地方 | [Oregon Hope Chinese School](http://www.oregon-hope.org) |
-| Yue Opera Excerpt / 越剧选段《红楼梦》,《梁山伯与祝英台》 | [NWCA Huayun Art Club](https://nwchinesealliance.org/) / NWCA华韵艺术社 |
+| Yue Opera Excerpt / 越剧选段《红楼梦》,《梁山伯与祝英台》 | [NWCA Huayun Arts Group](https://nwchinesealliance.org/) / NWCA华韵艺术团 |
 | Chinese Opera Dance: Feathered Grace / 戏曲舞蹈《羽韵》 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
 | Group Dance: Waiting for You, My Girl / 姑娘姑娘我等你 | Bluebell Dance Team |
 | Singing Duet: What the World Has Given Me / 世界赐予我的 | [Musication LLC](https://www.quinnliumusic.com/musication) |
 | Mini Dance Drama: My Homeland, Forever in My Dreams / 微舞剧《海萦梦乡》 | Portland Chinese Dance Troupe / 波特兰中国舞蹈团 |
 | Hanfu Show: RedRed by Cortis / 汉服秀 | Team 3xpassion |
-| Singing with Dance: Red Dust / 滚滚红尘 | [NWCA Huayun Art Club](https://nwchinesealliance.org/) / NWCA华韵艺术社 |
+| Singing with Dance: Red Dust / 滚滚红尘 | [NWCA Huayun Arts Group](https://nwchinesealliance.org/) / NWCA华韵艺术团 |
 | Festival Finale Performance - Group of 50 Youth Dancers: Dunhuang-The Silk Road Legacy / 敦煌 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
 
 Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms/d/e/1FAIpQLSdQwhXtEDLaEHRfP--73_yh651tsTeuBLhWf8tCxhHjXc5uTw/viewform?usp=dialog)  
