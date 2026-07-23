@@ -232,6 +232,7 @@ Between 1865 and 1869, thousands of Chinese migrants toiled at a grueling pace a
 [National University of Natural Medicine, NUNM](https://nunm.edu/)  
 [NMDP](https://www.nmdp.org/)  
 [NW Natural](https://www.nwnatural.com/)  
+[Portland Police Bureau](https://www.portland.gov/police)  
 [Portland Winterhawks](https://chl.ca/whl-winterhawks/)  
 [Trimet](https://trimet.org/home/)  
 
