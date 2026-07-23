@@ -87,7 +87,7 @@ They not only shine on stage, but also serve as cultural ambassadors, sharing Ch
 | Children Group Dance: Lanterns Bloom Across the City / 花灯开满城 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
 | Fan Dance: The Moon on the Horizon / 天边的月亮 | Rose Home Senior Dance Group / 玫瑰屋老年舞蹈队 |
 | Chinese Dance: Cai Wei / 采薇 | [OCC Jade Dance Team / 青玉舞蹈队](https://pdxchinese.org/youthdance/) |
-| Fan Dance: Walking in the Rain / 踏雨 | Salem New Moon Dance Team |
+| Umbrella Dance: Walking in the Rain / 踏雨 | Salem New Moon Dance Team |
 | Solo Cello: Humoresque / 幽默曲 | Haocheng Li |
 | Children Group Dance: Koi of Good Fortune / 锦鲤 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
 | Group Dance: Tales of the Opera / 戏文说 | Vancouver Jasmine Dance Troupe / 温哥华苿莉花舞队 |
@@ -132,9 +132,8 @@ They not only shine on stage, but also serve as cultural ambassadors, sharing Ch
 | Singing Duet: What the World Has Given Me / 世界赐予我的 | [Musication LLC](https://www.quinnliumusic.com/musication) |
 | Mini Dance Drama: My Homeland, Forever in My Dreams / 微舞剧《海萦梦乡》 | Portland Chinese Dance Troupe / 波特兰中国舞蹈团 |
 | Hanfu Show: RedRed by Cortis / 汉服秀 | Team 3xpassion |
-| Saxphone and Piano Duet: 1: Yes or No; 2: On the Sunny Side of the Street | Wang Lee Jazz Duo |
 | Singing with Dance: Red Dust / 滚滚红尘 | [NWCA Huayun Art Club](https://nwchinesealliance.org/) / NWCA华韵艺术社 |
-| Children Group Dance: Dunhuang: The Silk Road Legacy / 敦煌 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
+| Festival Finale Performance - Group of 50 Youth Dancers: Dunhuang-The Silk Road Legacy / 敦煌 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
 
 Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms/d/e/1FAIpQLSdQwhXtEDLaEHRfP--73_yh651tsTeuBLhWf8tCxhHjXc5uTw/viewform?usp=dialog)  
 *About 500 performers on stage. Schedule is subject to change*  
