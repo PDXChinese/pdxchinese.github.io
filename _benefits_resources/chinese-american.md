@@ -14,9 +14,9 @@ UC Berkeley: [link](https://bancroft.berkeley.edu/collections/chinese-immigratio
 
 Gordon H. Chang, Stanford University: [link](https://pdxscholar.library.pdx.edu/foh_events/5/)
 
-### The Chinese Exclusion Act DVD
+### The Chinese Exclusion Act
 
-PBS Online Bookstore: [link](https://shop.pbs.org/WB0102.html)
+National Archives: [link](https://www.archives.gov/milestone-documents/chinese-exclusion-act)
 
 ### Chinese Americans in Oregon
 
