@@ -12,12 +12,12 @@ feature_row03:
 feature_row04:    
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/pcs-logo-s
 feature_row1a:
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Daisy_Conway
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Daisy_Conway/'>Daisy Conway</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2024_Jorie_Liang
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Jorie_Liang/'>Jorie Liang</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2024_Jorie_Liang/'>Jorie Liang (Section I)</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Daisy_Conway
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Daisy_Conway/'>Daisy Conway (Section II)</a></p>"
   - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pvsa/2025_Lucas_Zhang
-    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Lucas_Zhang/'>Lucas Zhang</a></p>"
+    excerpt: "<p><a href='http://pdxchinese.org/pvsafiles/2025_Lucas_Zhang/'>Lucas Zhang (Section III)</a></p>"
 ---
 ### [FOR IMMEDIATE RELEASE](/assets/pdf/Press_Release_for_2026_Chinese_Festival.pdf)
 
@@ -74,16 +74,17 @@ They not only shine on stage, but also serve as cultural ambassadors, sharing Ch
 | --- | ---: |
 | **Section One: 11:00am-1pm** | |
 | Welcome Speech | MC |
+| National Anthem | Tingting Hou |
 | Group Chinese Drumming: 1.Universal Celebration 2.Strive for Strength / 1.普天同庆 2.男儿当自强 | [OCC HuaMuLan Drum Team / 木兰鼓团](https://pdxchinese.org/mulandrum/) |
 | Traditional Chinese Dance: Awakening of the Tang Figurines / 唐印 | [OCC Jade Dance Team / 青玉舞蹈队](https://pdxchinese.org/youthdance/) |
-| Sign Language Dance: We Are Family / 相亲相爱一家人 | Northwest Singing Group / 西北歌友会 |
+| Group Singing：May We All Be Blessed with Longevity / 但愿人长久 | [Portland Harmonics / 波特兰和声小组](https://pdxchinese.org/youthsinging/) |
 | Children Dance: Zootopia / 疯狂动物城 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
-| Senior Qipao Show / 老年旗袍秀 | 21st Street Senior Apt Qipao Group / 21街老年旗袍秀 |
+| Senior Qipao Show: Gazing at the Moon / 望月 | 21st Street Senior Apt Qipao Group / 21街老年旗袍秀 |
 | Chinese Dulcimer: Poetic Paintings of the Tianshan Mountains / 天山诗画 | Seline Dai |
 | Yang Style Taiji / 杨氏太极拳 | Taiji Group / 太极拳团队 |
 | Classical Poem & Dance: Timeless Elegance / 诗韵四季 | Lily Song |
 | Group Dance: Lantern Shadows of the Song Charm / 宋韵灯影 | Vancouver Jasmine Dance Troupe / 温哥华苿莉花舞队 |
-| Group Singing：When Will the Bright Moon Appear / 明月几时有 | [Portland Harmonics / 波特兰和声小组](https://pdxchinese.org/youthsinging/) |
+| Group Singing：We Are the World / 天下一家 | [Portland Harmonics / 波特兰和声小组](https://pdxchinese.org/youthsinging/) |
 | Children Group Dance: Lanterns Bloom Across the City / 花灯开满城 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
 | Fan Dance: The Moon on the Horizon / 天边的月亮 | Rose Home Senior Dance Group / 玫瑰屋老年舞蹈队 |
 | Chinese Dance: Cai Wei / 采薇 | [OCC Jade Dance Team / 青玉舞蹈队](https://pdxchinese.org/youthdance/) |
@@ -104,7 +105,7 @@ They not only shine on stage, but also serve as cultural ambassadors, sharing Ch
 | Guzheng: Small Town Story / 小城故事 | [Lulu Guzheng Studio](https://luluguzheng.com/) |
 | Fan Dance: Elegant Beauty / 扇子舞《秀色》 | Salem New Moon Dance Team |
 | Group Dance: Tambourine Dance / 铃鼓舞 | [SODA Chinese Dance Academy](https://www.sodadance.com/) |
-| Group Singing：We Are the Family / 我们是一家人 | [Portland Harmonics / 波特兰和声小组](https://pdxchinese.org/youthsinging/) |
+| Sign Language Dance: We Are Family / 相亲相爱一家人 | Northwest Singing Group / 西北歌友会 |
 | Group Dance: Fan Shadows and Butterfly Dreams / 扇影蝶梦 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
 | Group Dance: Homeland / 故乡 | [East Dream Dance Troupe 东方舞艺术团](http://www.eastdreamdance.org/index.html) |
 | Baduanjin Qigong: The San Feng Tradition / 三丰 八段锦 | Weming Lin / 太极林 |
@@ -131,7 +132,7 @@ They not only shine on stage, but also serve as cultural ambassadors, sharing Ch
 | Group Dance: Waiting for You, My Girl / 姑娘姑娘我等你 | Bluebell Dance Team |
 | Singing Duet: What the World Has Given Me / 世界赐予我的 | [Musication LLC](https://www.quinnliumusic.com/musication) |
 | Mini Dance Drama: My Homeland, Forever in My Dreams / 微舞剧《海萦梦乡》 | Portland Chinese Dance Troupe / 波特兰中国舞蹈团 |
-| Hanfu Show: RedRed by Cortis / 汉服秀 | Team 3xpassion |
+| Dance: RedRed by Cortis | Team 3xpassion |
 | Singing with Dance: Red Dust / 滚滚红尘 | [NWCA Huayun Arts Group](https://nwchinesealliance.org/) / NWCA华韵艺术团 |
 | Festival Finale Performance - Group of 50 Youth Dancers: Dunhuang-The Silk Road Legacy / 敦煌 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
 
@@ -142,7 +143,7 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/foodvendor)
 
 | Name | Category |
-| [Home Taste 家香味](https://www.hometaste.org/) | Braised Pork Rice 卤肉饭，Spam Musubi, Spring Rolls |
+| [Home Taste 家香味](https://www.hometaste.org/) | Spam Musubi, Scallion Pancake Crab Puff, Sesame Ball, Veg Spring Roll |
 | Little Beijing 北京小馆 | Tanghulu (Candied Fruit Skewers) |
 | Beijing Bro 北京兄弟 | Pot Stickers, Jian Bao, Lam Skewers, Buba Tea |
 | [Mandarin House 京华楼](https://www.mandarinhouse97204.com/) | Barbecued Pork Buns, Steamed Dumplings |
