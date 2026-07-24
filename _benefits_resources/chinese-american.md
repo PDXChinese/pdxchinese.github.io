@@ -40,6 +40,8 @@ How to take a Chinese history tour of Oregon: [link](https://www.oregonlive.com/
 
 Secret tunnels, not-so-secret gambling, great food: Old Town Chinatown pics capture dramatic history: [link](https://www.oregonlive.com/life_and_culture/erry-2018/06/56edacc4732759/secret_tunnels_moresecret_gamb.html)
 
+Chinese Underground, a historic site below McMinnville's 3rd Street: [link](https://www.facebook.com/share/v/1DJszCy4Uz/)
+
 Mass murderer honored in courthouse monument: [link](https://www.offbeatoregon.com/1204b-monument-mass-murderer-chinese-miners.html)
 
 More Than Hatchetmen: Chinese Exclusion and Tong Wars in Portland, Oregon: [link](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=8804&context=etd)
