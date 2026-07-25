@@ -221,7 +221,7 @@ OHSU Hepatitis B Education and Awareness
 ## Display of Chinese Railroad Workers in North America
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/SPICE)
 
-Between 1865 and 1869, thousands of Chinese migrants toiled at a grueling pace and in perilous working conditions to help construct America’s first Transcontinental Railroad. The [Chinese Railroad Workers in North America Project](https://spice.fsi.stanford.edu/multimedia/chinese-railroad-workers-north-america-project) at Stanford University seeks to give a voice to the Chinese migrants whose labor on the Transcontinental Railroad helped to shape the physical and social landscape of the American West.
+Between 1865 and 1869, thousands of Chinese migrants toiled at a grueling pace and in perilous working conditions to help construct America’s first Transcontinental Railroad. The [Chinese Railroad Workers in North America Project](https://spice.fsi.stanford.edu/multimedia/chinese-railroad-workers-north-america-project) at Stanford University seeks to give a voice to the Chinese migrants whose labor on the Transcontinental Railroad helped to shape the physical and social landscape of the American West. ([Timeline of Chinese Immigration to the United States](https://web.archive.org/web/20220803230830/https://bancroft.berkeley.edu/collections/chinese-immigration-to-the-united-states-1884-1944/timeline.html))
 
 *Located on the sidewalk bordering SW 6th Avenue*
 
@@ -251,9 +251,8 @@ Between 1865 and 1869, thousands of Chinese migrants toiled at a grueling pace a
 
 ## Giveaways
 
->1.[Columbia employee store pass](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/columbia_pass1) thanks to the generosity of [Columbia Sportswear Company](https://www.columbia.com/)  
-2.Happy Birthday Yard Letters with Stakes ([sample image](https://imprint.com/shop/products/pre-packaged-happy-birthday-yard-letters?cHadre2r=HU6uspaH&gsc=Green)) for those whose birthdays fall into that week (8/2-8/9).  
-3.Chinese literature
+1.Happy Birthday Yard Letters with Stakes ([sample image](https://imprint.com/shop/products/pre-packaged-happy-birthday-yard-letters?cHadre2r=HU6uspaH&gsc=Green)) for those whose birthdays fall into that week (8/1-8/2).  
+2.Chinese literature
 
 *While supplies last*
 
