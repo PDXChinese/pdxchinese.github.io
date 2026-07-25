@@ -8,7 +8,7 @@ feature_row1:
 
 ### Timeline of Chinese Immigration to the United States
 
-UC Berkeley: [link](https://bancroft.berkeley.edu/collections/chinese-immigration-to-the-united-states-1884-1944/timeline.html)
+UC Berkeley: [link](https://web.archive.org/web/20230204072334/https:/bancroft.berkeley.edu/collections/chinese-immigration-to-the-united-states-1884-1944/timeline.html), [pdf copy](/assets/pdf/ChineseAmericanTimeline.pdf)
 
 ### Ghosts of Gold Mountain: Chinese Building the Transcontinental Railroad
 
