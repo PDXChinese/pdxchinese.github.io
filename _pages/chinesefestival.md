@@ -74,7 +74,7 @@ They not only shine on stage, but also serve as cultural ambassadors, sharing Ch
 | --- | ---: |
 | **Section One: 11:00am-1pm** | |
 | Welcome Speech | MC |
-| National Anthem | Tingting Hou |
+| The Star-Spangled Banner | Tingting Hou |
 | Group Chinese Drumming: 1.Universal Celebration 2.Strive for Strength / 1.普天同庆 2.男儿当自强 | [OCC HuaMuLan Drum Team / 木兰鼓团](https://pdxchinese.org/mulandrum/) |
 | Traditional Chinese Dance: Awakening of the Tang Figurines / 唐印 | [OCC Jade Dance Team / 青玉舞蹈队](https://pdxchinese.org/youthdance/) |
 | Group Singing：May We All Be Blessed with Longevity / 但愿人长久 | [Portland Harmonics / 波特兰和声小组](https://pdxchinese.org/youthsinging/) |
