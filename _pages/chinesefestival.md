@@ -23,9 +23,7 @@ feature_row1a:
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/festival_2026)
 
-The Chinese Festival was proudly [recognized](https://youtu.be/0Jg3yi45R9c?t=780) as one of the major summer events in downtown Portland. The Chinese American community continues to lead efforts to enhance downtown life and the local economy, while also revitalizing Chinatown and preserving our rich cultural heritage.
-
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/kick_off_2025)
+As we celebrate America's 250th anniversary, it is also a wonderful opportunity to reflect on the history and contributions of Chinese Americans. ([to read the whole story...](/assets/pdf/MCOpeningSpeech.pdf))
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/festival)
 
