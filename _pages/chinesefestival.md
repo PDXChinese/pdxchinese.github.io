@@ -71,8 +71,8 @@ They not only shine on stage, but also serve as cultural ambassadors, sharing Ch
 | Program | Presented By |
 | --- | ---: |
 | **Section One: 11:00am-1pm** | |
-| Welcome Speech | MC |
 | The Star-Spangled Banner | Tingting Hou |
+| Welcome Speech | MC |
 | Group Chinese Drumming: 1.Universal Celebration 2.Strive for Strength / 1.普天同庆 2.男儿当自强 | [OCC HuaMuLan Drum Team / 木兰鼓团](https://pdxchinese.org/mulandrum/) |
 | Traditional Chinese Dance: Awakening of the Tang Figurines / 唐印 | [OCC Jade Dance Team / 青玉舞蹈队](https://pdxchinese.org/youthdance/) |
 | Group Singing：May We All Be Blessed with Longevity / 但愿人长久 | [Portland Harmonics / 波特兰和声小组](https://pdxchinese.org/youthsinging/) |
@@ -92,7 +92,7 @@ They not only shine on stage, but also serve as cultural ambassadors, sharing Ch
 | Group Dance: Tales of the Opera / 戏文说 | Vancouver Jasmine Dance Troupe / 温哥华苿莉花舞队 |
 | Stage Play: Homeland / 故乡 | Northwest Singing Group / 西北歌友会 |
 | **Section Two: 1pm-3pm** | |
-| Group Dance: Dream of the Lotus / 荷之梦丝 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
+| Group Dance: South of the Colorful Clouds / 彩云之南 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
 | Classical Duet Dance: The Butterfly Lovers / 古典双人舞《梁祝》 | Salem New Moon Dance Team |
 | Children's Choir: Spring Dawn / 春晓 | [Willamette Primary](https://willamette.wlwv.k12.or.us/) Mandarin Immersion Students |
 | Dai Ethnic Dance: Spirit of Water / 傣族舞蹈《水之灵》 | [East Dream Dance Troupe 东方舞艺术团](http://www.eastdreamdance.org/index.html) |
@@ -113,8 +113,9 @@ They not only shine on stage, but also serve as cultural ambassadors, sharing Ch
 | Group Rhythmic Gymnastics Performance | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
 | Northeastern Yangko Dance: Charming / 东北秧歌《俏》 | [NWCA Huayun Arts Group](https://nwchinesealliance.org/) / NWCA华韵艺术团 |
 | **Section Three: 3pm-6pm** | |
-| Family Performance with Suona Solo: The Road Ahead Is Wide and Open / 通天大道宽又阔 | Community Family & Friend Group / 社区家庭亲友团 |
-| Group Dance: South of the Colorful Clouds / 彩云之南 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
+| Suona Solo: Celebration / 欢庆 | Tanya Li |
+| Family Performance: The Road Ahead Is Wide and Open / 通天大道宽又阔 | Community Family & Friend Group / 社区家庭亲友团 |
+| Group Dance: Dream of the Lotus / 荷之梦丝 | [YZ Dance Studio](https://www.yzdance.com/) / 悦姿舞蹈工作室 |
 | Solo Dance: Eternal Love / 醉了千古爱 | Catherine / 凯瑟琳  |
 | Classical Ballet: Le Corsaire / 海盗 | [Oregon Rhythmic Gymnastics & Dance Academy](https://www.orgdacademy.com/)  |
 | Hanfu Show Featuring the Main Theme by David Byrne / 汉服秀 | [OCC Phoenix Hanfu Society](https://pdxchinese.org/hanfu/) |
@@ -141,14 +142,13 @@ Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/foodvendor)
 
 | Name | Category |
-| [Home Taste 家香味](https://www.hometaste.org/) | Spam Musubi, Scallion Pancake Crab Puff, Sesame Ball, Veg Spring Roll |
-| Little Beijing 北京小馆 | Tanghulu (Candied Fruit Skewers) |
 | [Beijing Bro 北京兄弟](https://www.facebook.com/p/Beijing-Bro-61582424584956/) | Pot Stickers, Jian Bao, Lam Skewers, Buba Tea |
+| [Home Taste 家香味](https://www.hometaste.org/) | Spam Musubi, Scallion Pancake Crab Puff, Sesame Ball, Veg Spring Roll |
+| [Let Peer Up](https://letspeerup.godaddysites.com/) | Taiwanese Purple Rice Rolls, Chinese Egg Crepes, Korean Cold Noodles (Naengmyeon), Bingfen (Chinese Ice Jelly Dessert), Traditional Chinese Sour Plum Drink|
+| Little Beijing 北京小馆 | Tanghulu (Candied Fruit Skewers) |
 | [Mandarin House 京华楼](https://www.mandarinhouse97204.com/) | Barbecued Pork Buns, Steamed Dumplings |
 | [Red Robe Tea House & Cafe 大红袍](https://www.redrobeteahouse.com/) | Sichuan Noodle, Chicken Wings, Spring Rolls, Bubble Tea, Tea |
-| [Let Peer Up](https://letspeerup.godaddysites.com/) | Taiwanese Purple Rice Rolls, Chinese Egg Crepes, Korean Cold Noodles (Naengmyeon), Bingfen (Chinese Ice Jelly Dessert), Traditional Chinese Sour Plum Drink|
 | [TeaCha.T](https://teachatpdx.square.site/) | Immersing in Tea Culture and Savoring Artisanal Brews |
-
 
 ## Hands-on Traditional Crafts
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/festival/crafts_activity)
