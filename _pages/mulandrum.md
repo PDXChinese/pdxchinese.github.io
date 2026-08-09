@@ -29,19 +29,25 @@ To have us perform in your events, please [contact us](http://pdxchinese.org/con
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/WeChat_Image_20260211220524)
 
-### Performance in Vancouver Lunar New Year Gala
+### Performance in 2026 Chinese Festival
+
+Pioneer Courthouse Square, August 1, 2026
+
+<iframe width="1707" height="960" src="https://www.youtube.com/embed/ZYwY74mecTg" title="2026 Chinese Festival: Mulan Drum Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Performance in 2026 Lunar New Year Gala
 
 Skyview High School, Feburary 15, 2026
 
 <iframe width="1707" height="960" src="https://www.youtube.com/embed/iaxLw2uOyIM" title="男儿当自强 by Mulan Drum Team" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Performance in Chinese Festival
+### Performance in 2025 Chinese Festival
 
 Pioneer Courthouse Square, August 2, 2025
 
 <iframe width="1707" height="960" src="https://www.youtube.com/embed/JMWXDGtnBFs" title="2025 Chinese Festival: The Dragon Boat Race by Mulan Drum Team" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Performance in Vancouver Lunar New Year Gala
+### Performance in 2025 Lunar New Year Gala
 
 Skyview High School, Feburary 16, 2025
 
@@ -53,13 +59,13 @@ April 21, 2024
 
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/0XjQssKM-N0" title="Mulan Drum Team in University of Oregon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Performance in Vancouver Lunar New Year Gala
+### Performance in 2024 Lunar New Year Gala
 
 Skyview High School, Feburary 18, 2024
 
 <iframe width="2277" height="1280" src="https://www.youtube.com/embed/2sPLax95vcU" title="Mulan Drum Team at VCA LNY Gala" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Performance in Chinese Festival
+### Performance in 2023 Chinese Festival
 
 Pioneer Courthouse Square, August 5, 2023
 
