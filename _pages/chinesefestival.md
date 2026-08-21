@@ -133,7 +133,7 @@ They not only shine on stage, but also serve as cultural ambassadors, sharing Ch
 | Mini Dance Drama: My Homeland, Forever in My Dreams / 微舞剧《海萦梦乡》 | Portland Chinese Dance Troupe / 波特兰中国舞蹈团 |
 | Dance: RedRed by Cortis | Team 3xpassion |
 | Singing with Dance: Red Dust / 滚滚红尘 | [NWCA Huayun Arts Group](https://nwchinesealliance.org/) / NWCA华韵艺术团 |
-| Festival Finale Performance - Group of 50 Youth Dancers: Dunhuang-The Silk Road Legacy / 敦煌 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
+| Group Dance: Dunhuang-The Silk Road Legacy / 敦煌 | [Winnie Chinese Dance](https://www.winniechinesedance.com/) |
 
 Stage Performance [Sign-Up Link / 节目报名表](https://docs.google.com/forms/d/e/1FAIpQLSdQwhXtEDLaEHRfP--73_yh651tsTeuBLhWf8tCxhHjXc5uTw/viewform?usp=dialog)  
 *About 500 performers on stage. Schedule is subject to change*  
