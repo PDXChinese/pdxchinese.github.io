@@ -5,13 +5,11 @@ excerpt: "今年恰逢美国建国250周年，我们的文化节也特意定位�
 date: "2026-08-21"
 ---
 
-拖了三个星期，终于把文化节的照片整理好了。尽管老张早已将数千张照片分享给了参与活动的团体和个人，但重新整理这些照片的过程，也让我再次回顾了那个充满活力、意义非凡的日子。
-
 今年恰逢美国建国250周年，我们的文化节也特意定位在这样一个具有历史意义的时刻，带大家一起回顾华人在美国两百多年的奋斗历程，以及他们为这个国家所作出的重要贡献。
 
-文化节在[侯婷婷高唱美国国歌中拉开序幕，随后由首位主持人Jorie梁同学致开幕词](https://youtu.be/wbNhmXzasfI)，带领大家回顾华人的移民历史。现场特别设置了华工修建铁路历史展板，出土文物展览以及华人历史专刊，也进一步丰富和凸显了今年文化节的主题。
+文化节在[侯婷婷高唱美国国歌](https://youtu.be/wbNhmXzasfI)中拉开序幕，随后由首位主持人Jorie梁同学[致开幕词](https://youtu.be/wbNhmXzasfI?t=136)，带领大家回顾华人的移民历史。现场特别设置了华工修建铁路历史展板，出土文物展览以及华人历史专刊，也进一步丰富和凸显了今年文化节的主题。
 
-更加难能可贵的是，波特兰舞蹈队和 OCC 西北歌友群不约而同地推出了原创短剧《[故乡](https://youtu.be/bWE34VhLZko)》，通过不同的艺术形式讲述华人移民的故事，展现了他们从漂泊异乡到扎根美国、逐渐把异乡变成家园的历史变迁。
+更加难能可贵的是，波特兰舞蹈队和OCC西北歌友群不约而同地推出了原创短剧《[故乡](https://youtu.be/bWE34VhLZko)》，通过不同的艺术形式讲述华人移民的故事，展现了他们从漂泊异乡到扎根美国、逐渐把异乡变成家园的历史变迁。
 
 这些节目和展览让今年的文化节不只是一场文化展示，更成为一次对华人历史、身份与贡献的回望。我们在庆祝中华文化的同时，也在讲述属于华人自己的美国故事。
 
@@ -19,7 +17,7 @@ Beginning with the national anthem, the Chinese Festival carried a powerful mess
 
 With the support of the entire community, the festival brought Chinese culture, heritage, and traditions to the stage and shared them with thousands of people that day. But the impact goes far beyond a single day. It helps build understanding, strengthen connections, and remind us that our culture and heritage are an important part of the diverse fabric of America.
 
-<br>
+## 舞台上的风采
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/775633541_1043096538355428_4223949975599721327_n.jpg)
 
@@ -180,6 +178,169 @@ With the support of the entire community, the festival brought Chinese culture, 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/775127628_1043097731688642_2403562388161412582_n.jpg)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/778318715_1043096931688722_5371544649403598225_n.jpg)
+
+## 广场上的精彩瞬间
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/778957707_1043152588349823_2021587521636432630_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/774667121_1043152578349824_6938824646282092612_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/776985197_1043148708350211_8510485117914955597_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/775233459_1043151148349967_3783881537199590946_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/776324100_1043150768350005_848024560075022442_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/775336095_1043149291683486_4038454444441277084_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/773342223_1043149365016812_1994722717420101601_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/776324748_1043149421683473_5309493020300854951_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/774667129_1043148781683537_6516771221832768152_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/776658605_1043148578350224_5013597518039227662_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/774595793_1043150011683414_4717525745201984904_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/772725926_1043150201683395_4951475637801254695_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/768615236_1043150125016736_1637741005017796183_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/775260578_1043148518350230_6726421522115014386_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/778972226_1043148391683576_5441299941374628197_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/777665638_1043148761683539_1219503198933812727_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/775442160_1043148641683551_8788827255318407639_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/768398738_1043148985016850_7889030093120359492_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/773342223_1043148945016854_5898219959190167215_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/777867251_1043150758350006_8490161296054666747_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/770831413_1043149458350136_8054272580413883810_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/775307661_1043150161683399_4133270462333926383_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/776714794_1043149765016772_465552147394913209_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/776100833_1043149251683490_5713374667163425799_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/777824771_1043150281683387_7095024994903360539_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/775869006_1043150798350002_4530126250450616337_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/778972438_1043151145016634_3977517821058085379_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/773454942_1043149761683439_1604228032066361395_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/775425547_1043151228349959_5624352154814279756_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/770919146_1043150235016725_6516915427981588557_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/774904823_1043151638349918_7847155407114442731_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/775425576_1043150238350058_4291424237741942298_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/774575390_1043149338350148_5150449554779553431_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/768372678_1043151541683261_3962658961756561393_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/770774855_1043149521683463_4229544024047510400_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/778915749_1043151625016586_3056656920083296409_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/775376573_1043151755016573_6059960834711217300_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/773995560_1043151941683221_889349970445986474_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/770919145_1043149708350111_880986936719772792_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/778984966_1043149781683437_6962144911039150254_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/775260572_1043149808350101_5188671455457113975_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/778985369_1043151971683218_562706888162917446_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/778915744_1043152095016539_6732336633447118860_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/773192860_1043150165016732_6999263403760559170_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/770700942_1043152211683194_7027456313252511950_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/777548616_1043150361683379_1252668638929753690_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/773509184_1043152271683188_475897131733702480_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/774267819_1043152268349855_5018532469105929115_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/775376341_1043152321683183_9193147662508121517_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/772818236_1043150358350046_8333768759564669775_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/774042668_1043150591683356_5050649125194870966_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/768615236_1043150658350016_8710513542136354649_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/778486113_1043152441683171_792140296741282816_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/775283757_1043152445016504_5593794938368613576_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/775321986_1043152481683167_3437790894906482016_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/777327863_1043148885016860_6337198878634607115_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/770774653_1043149621683453_6658630119293512530_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/776200541_1043150488350033_6675279385047542969_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/774099644_1043150668350015_5296867556591364550_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/775379553_1043149038350178_111885239673237376_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/775799042_1043150715016677_7315540701235151232_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/777824858_1043150891683326_3939545644461936729_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/775524165_1043151108349971_7057562700345821692_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/774868535_1043151185016630_3392631756689234113_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/771012852_1043152655016483_1604643496821958408_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/775281764_1043151218349960_3622440797014336355_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/776825565_1043151445016604_966674979596113028_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/775243687_1043151581683257_9178043108421464042_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/773531426_1043151608349921_4225783237918831293_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/778156956_1043151678349914_9010817862095594922_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/776222560_1043148891683526_3241349263058902769_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/775259849_1043151921683223_2655539378383263292_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/777570588_1043148838350198_983985388620706111_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/774777611_1043148485016900_5344987416500966219_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/778957715_1043149001683515_4486898325363470742_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/773191264_1043151991683216_1284115678894476703_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/775261033_1043152098349872_1085599359591108860_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/777508186_1043149791683436_8547677218664118338_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/772818234_1043152205016528_4744607986233998117_n.jpg)
+
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/776370746_1043149778350104_2092542650679761699_n.jpg)
+
 
 【2026.06.09】距离今年[华人文化节](https://pdxchinese.org/chinesefestival/)只剩下三个星期，活动已经进入最后冲刺阶段，现在正是落实每一个细节的时候。
 
