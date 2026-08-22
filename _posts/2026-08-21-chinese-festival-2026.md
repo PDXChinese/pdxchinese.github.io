@@ -11,7 +11,7 @@ date: "2026-08-21"
 
 更加难能可贵的是，波特兰舞蹈队和OCC西北歌友群不约而同地推出了原创短剧《[故乡](https://youtu.be/bWE34VhLZko)》，通过不同的艺术形式讲述华人移民的故事，展现了他们从漂泊异乡到扎根美国、逐渐把异乡变成家园的历史变迁。
 
-这些节目和展览让今年的文化节不只是一场文化展示，更成为一次对华人历史、身份与贡献的回望。我们在庆祝中华文化的同时，也在讲述属于华人自己的美国故事。
+这些节目和展览让今年的文化节不只是一场文化展示，更成为一次对华人历史、身份与贡献的回望。我们可以很有信心地说，在大家的共同努力下，今年的文化节在庆祝中华文化的同时，也精彩地讲述了属于华人自己的美国故事。
 
 Beginning with the national anthem, the Chinese Festival carried a powerful message throughout the day: Chinese Americans are an important part of this great nation.
 
