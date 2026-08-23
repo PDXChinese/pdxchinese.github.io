@@ -18,5 +18,6 @@ To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxc
 <iframe width="1692" height="622" src="https://www.youtube.com/embed/vc3dLGCmPzY" title="2026 Chinese Festival: Portland Harmonics - We Are the World 天下一家" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 2026 Boeing Family Day
+*from 00:18:18*
 
 <iframe width="1692" height="622" src="https://www.youtube.com/embed/6gFHeM7_6Fs?t=1118" title="Six OCC Teams Performed at Boeing Family Day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
