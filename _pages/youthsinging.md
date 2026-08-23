@@ -11,6 +11,10 @@ To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxc
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/423167218801984008)
 
+### 2026 Ukrainian Festival
+
+<iframe width="1692" height="622" src="https://www.youtube.com/embed/_Hl64SrjWFM" title="Girls&#39; Duet: Four Seasons by Portland Harmonics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 2026 Chinese Festival
 
 <iframe width="1692" height="622" src="https://www.youtube.com/embed/J7bCX9J-jXw" title="2026 Chinese Festival: Portland Harmonics - May We All Be Blessed with Longevity 但愿人长久" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
