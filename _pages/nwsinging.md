@@ -19,8 +19,6 @@ To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxc
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/718099212_985299080801841_1354266095782315813_n)
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/689008552_959592236705859_7661561130477066046_n)
-
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/572767473_812429874755430_2127675892164954709_n)
 
 
