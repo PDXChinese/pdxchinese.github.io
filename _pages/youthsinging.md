@@ -21,6 +21,8 @@ To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxc
 
 <iframe width="1692" height="622" src="https://www.youtube.com/embed/J7bCX9J-jXw" title="2026 Chinese Festival: Portland Harmonics - May We All Be Blessed with Longevity 但愿人长久" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<br>
+
 <iframe width="1692" height="622" src="https://www.youtube.com/embed/vc3dLGCmPzY" title="2026 Chinese Festival: Portland Harmonics - We Are the World 天下一家" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 2026 Boeing Family Day  
@@ -31,5 +33,7 @@ To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxc
 ## 2024 Bing in the New Year
 
 <iframe width="1692" height="622" src="https://www.youtube.com/embed/j-GGyhcYXsM" title="Auld Lang Syne by Ria, Emily, Irene, Lucas, Melvin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
 
 To watch [more videos](https://www.youtube.com/playlist?list=PLNTkaSr9k1Ng)
