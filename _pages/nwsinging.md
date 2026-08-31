@@ -27,3 +27,7 @@ To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxc
 <br>
 
 <iframe width="1707" height="960" src="https://www.youtube.com/embed/Ma12b9a3zw4" title="2026 Chinese Festival: Sign Language Dance: We Are Family 相亲相爱一家人" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### 2025 Return of Dragon Festival
+
+<iframe width="1692" height="622" src="https://www.youtube.com/embed/3_vdAg_CvRA?list=PLtlf7tf23O9WkqprbTcH7JH_7He4lKFV9" title="手语舞：我们是一家人（主机位）" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
