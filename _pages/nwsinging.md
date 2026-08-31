@@ -17,8 +17,6 @@ To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxc
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/572767473_812429874755430_2127675892164954709_n)
 
-
-743811626_1014830244515391_8216069045877619708_n
 ### 2026 Chinese Festival
 
 <iframe width="1707" height="960" src="https://www.youtube.com/embed/bWE34VhLZko" title="2026 Chinese Festival: Homeland 故乡" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
