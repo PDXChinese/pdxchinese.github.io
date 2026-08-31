@@ -9,7 +9,7 @@ Since its founding, the group has created two original productions: the sign-lan
 
 To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxchinese.org). They will love to show off their culture in the community events.
 
-![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/WeChat_Image_20260830175931)
+![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/WeChat_Image_20260830175952)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/743811626_1014830244515391_8216069045877619708_n)
 
