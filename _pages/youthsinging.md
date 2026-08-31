@@ -31,3 +31,5 @@ To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxc
 ## 2024 Bing in the New Year
 
 <iframe width="1692" height="622" src="https://www.youtube.com/embed/j-GGyhcYXsM" title="Auld Lang Syne by Ria, Emily, Irene, Lucas, Melvin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+To watch [more videos](https://www.youtube.com/playlist?list=PLNTkaSr9k1Ng)

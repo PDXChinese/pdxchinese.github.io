@@ -31,3 +31,5 @@ To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxc
 ### 2025 Return of Dragon Festival
 
 <iframe width="1692" height="622" src="https://www.youtube.com/embed/3_vdAg_CvRA?list=PLtlf7tf23O9WkqprbTcH7JH_7He4lKFV9" title="手语舞：我们是一家人（主机位）" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+To watch [more videos](https://www.youtube.com/playlist?list=PLtlf7tf23O9WkqprbTcH7JH_7He4lKFV9)
