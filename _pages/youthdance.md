@@ -7,7 +7,7 @@ The Jade Dance Team was originally founded by a group of high school students an
 
 To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxchinese.org). They will love to show off their culture in the community events.
 
-Please follow them on Instagram @jade_danceteam
+Please follow them on Instagram @jade_danceteam and the team's [website](https://sites.google.com/view/jade-dance-team/home)
 
 **Captain:** Emily Jiang  
 **Founders:** Claire Cao, Amy Kang, Sophia Alicata  
