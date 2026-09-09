@@ -15,7 +15,7 @@ To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxc
 
 ### 2026 Ukrainian Festival
 
-<iframe width="1692" height="622" src="https://www.youtube.com/embed/_Hl64SrjWFM" title="Girls&#39; Duet: Four Seasons by Portland Harmonics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1707" height="960" src="https://www.youtube.com/embed/VpfGF_p6MQg" title="Emily &amp; Ria, Oregon Chinese Coalition | Український День Ukrainian Day Festival | Westmoreland Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 2026 Chinese Festival
 
