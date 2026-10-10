@@ -9,7 +9,8 @@ To book their performance, please contact [info@pdxchinese.org](mailto:info@pdxc
 
 Please follow them on Instagram @jade_danceteam and the team's [website](https://sites.google.com/view/jade-dance-team/home)
 
-**Captain:** Emily Jiang  
+**Co-Captain:** Lydia Wang and Audrey  
+**Past Captains:** Claire Cao, Emily Jiang  
 **Founders:** Claire Cao, Amy Kang, Sophia Alicata  
 
 ### They perform in Lunar New Year Gala

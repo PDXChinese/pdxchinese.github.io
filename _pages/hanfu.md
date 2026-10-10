@@ -25,6 +25,10 @@ To have us perform in your events, please [contact us](http://pdxchinese.org/con
 <iframe width="2135" height="1200" src="https://www.youtube.com/embed/gCNAFyfIdLI" title="穿越时空 梦幻兰苏" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
 
+**Captain:** Ashley Fong  
+**Past Captain:** Meilan Xu  
+**Founder:** Meilan Xu  
+
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/329321684_3581841848712864_9140941873964539826_n)
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/307968021_1782837955422097_4040306634259809925_n)
