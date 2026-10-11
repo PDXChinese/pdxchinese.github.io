@@ -54,8 +54,6 @@ feature_row4:
 >Award Winning Artworks: [2021](http://pdxchinese.org/artcontestfiles/artcontest_2021/), [2022](http://pdxchinese.org/artcontestfiles/artcontest_2022/), [2023](http://pdxchinese.org/artcontestfiles/artcontest_2023/), [2024](http://pdxchinese.org/artcontestfiles/artcontest_2024/), [2025](http://pdxchinese.org/artcontestfiles/artcontest_2025/)  
 >Award Ceremony at Refuge: [2021](https://pdxchinese.org/chinatown_window_gallery_gathering/), [2022](https://pdxchinese.org/winners_youth_art_contest_2022/), [2023](https://pdxchinese.org/winners_youth_art_contest_2023/), [2024](https://pdxchinese.org/winners_youth_art_contest_2024/), [2025](https://pdxchinese.org/winners_youth_art_contest_2025/)  
 
-> **Announcement**: The award ceremony at the refuge will be on February 21 at 10am.
-
 ### Program Overview:
 
 The Oregon Chinese Coalition (OCC) aims to provide an Art Contest for the community in collaboration with the [Friends of Tualatin River NWRC](https://fotr.wildapricot.org/) (Friends) and the [Tualatin River NWRC](https://www.fws.gov/refuge/Tualatin_River/) (Refuge). The goals of the program are intended to assist in the following ways:
@@ -67,7 +65,7 @@ The Oregon Chinese Coalition (OCC) aims to provide an Art Contest for the commun
 
 ### Contest Eligibility:
 
--	This is the third year of the Youth Art Contest with planning occurring directly with the OCC, the Friends of Tualatin River National Wildlife Refuge and the Refuge. This year’s competition will be solely for youth within the Oregon Chinese Coalition community.  
+-	This is the sixth year of the Youth Art Contest with planning occurring directly with the OCC, the Friends of Tualatin River National Wildlife Refuge and the Refuge. This year’s competition will be solely for youth within the Oregon Chinese Coalition community.  
 -	This contest will be open to youth from K-12 grade  
 -	Only one entry per participant will be allowed  
 
