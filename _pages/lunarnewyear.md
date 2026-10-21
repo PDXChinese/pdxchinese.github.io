@@ -3,6 +3,14 @@ title: ""
 permalink: /lunarnewyear/
 ---
 
+# 2026 Winterhawks Chinese Lunar New Year Celebration
+
+[https://www.instagram.com/reel/DVKPk9ggQfd/?utm_source=ig_web_button_share_sheet](https://www.instagram.com/reel/DVKPk9ggQfd/?utm_source=ig_web_button_share_sheet)
+
+# 2024 Pre-Game Performance at Moda Center 
+
+<iframe width="1707" height="960" src="https://www.youtube.com/embed/DXzfZeFfKo8" title="OCC NBA Pre-Game Performance at the Moda Center" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # 2023【常回家看看】社区春节联欢活动
 
 ![](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/cny2023)
