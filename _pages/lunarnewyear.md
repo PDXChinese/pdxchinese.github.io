@@ -7,9 +7,11 @@ permalink: /lunarnewyear/
 
 [https://www.instagram.com/reel/DVKPk9ggQfd/?utm_source=ig_web_button_share_sheet](https://www.instagram.com/reel/DVKPk9ggQfd/?utm_source=ig_web_button_share_sheet)
 
-# 2024 Pre-Game Performance at Moda Center 
+# 2024 Pre-Game Performance at Moda Center
 
 <iframe width="1707" height="960" src="https://www.youtube.com/embed/DXzfZeFfKo8" title="OCC NBA Pre-Game Performance at the Moda Center" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
 
 # 2023【常回家看看】社区春节联欢活动
 
@@ -34,6 +36,8 @@ permalink: /lunarnewyear/
 演出：大人孩子演出个人和团体皆欢迎，因为场地限制，节目如需动作较大，同时上场人数建议在8人之内。有换衣服的地方，地面是地毯。欢迎和老人们互动。参加演出的人员也鼓励参加帮老人清洗厨房等其他活动。
 
 <iframe width="1094" height="619" src="https://www.youtube.com/embed/nHPlP_ZLX6o" title="苏州民族管弦乐团彭家鹏指挥给波特兰华人拜年" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
 
 # 2021 Lifting Hope -- Celebrating Chinese New Year
 
