@@ -23,8 +23,8 @@ feature_row:
 
 <p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/winter_drive_banner"></p>  
 
-# 2025 Community Winter Drive  
-**Date:** November 23, 2025 Sunday, 1:00 pm - 4:00 pm  
+# 2026 Community Winter Drive  
+**Date:** November 22, 2026 Sunday, 1:00 pm - 4:00 pm  
 **Place:** Multiple locations across State of Oregon  
 **Register** To join, please **[register here](https://docs.google.com/forms/d/e/1FAIpQLSdrA8gtPEE5_7kHLy67J5aQJpBaAxnMR-nlSZLc9KiupzaE_A/viewform?usp=sf_link)**.  
 
@@ -33,74 +33,28 @@ feature_row:
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DDGcnMkl_hOzU-W7GuZiZ8RI-FF91bFS" width="640" height="480"></iframe>
 <br>
 
-{% include feature_row id="feature_row"%}
-
-## 2025 Student Volunteers
+## 2026 Student Volunteers
 
 | Name/Drop Off Location | School/Organization |
 | --- | --- |
 | :two: [West Sylvan Neighborhood and Bridlemile Elementary School](https://maps.app.goo.gl/NLPxXUjbMk2g4cFW9) | |
-| Glisan Xu | Bridlemile Elementary School |
-| Jasper Xu | Bridlemile Elementary School |
-| Oscar Xu | West Sylvan Middle School |
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
-| Haruki Kato | Mountainside High School |
-| Lucas Wang  | International School of Beaverton |
-| Owen Wang | Springville Elementary School |
-| Benjamin Zhang | Westview High School |
-| Catherine Zhou | Stoller Middle School |
-| Sophia Zhou | Westview High School |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
-| Zhi Qu | OES |
-| Zong Qu | Catlin Gabel School |
-| Derica Theobald | Lincoln High School |
-| Justin Wu | West Sylvan Middle School |
-| Max Wu | Lincoln High School |
-| Andy Xiong | Willamette Valley Academy |  
-| Lucas Zhang | Catlin Gabel School |
-| Jerry Zhou | OES |
-| Xinye Zhu | Lincoln High School |
 | :six: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
-| Austin Yuan | Camas High School |
-| Lindsay Zheng | Camas High School |
 | :seven: [Alberta Rider Elementary School](https://maps.app.goo.gl/qf6LT5CBoRZkLgBw8) | |
-| Arianna Hong | BASE |
-| Brianna Hong | BASE |
-| Zhengyan Li | Southridge High School |
 | :eight: [Stoller Middle School](https://maps.app.goo.gl/wxTME1DdkaMWnYRPA) | |
-| Emily Liu | Springville Elementary School |
-| Merrick Liu | Stoller Middle School |
-| Brady Zhang | Findley Elementary School |
-| Bryan Zhang | Westview High School |
-| Raymond Zhao | Springville Elementary School |
 | :nine: [West Lake Park](https://maps.app.goo.gl/g5gY3CnStRQs5Js99), Lake Oswego | |
-| Aria Chen | Rosemont Ridge Middle School |
-| Brianna Chen | West Linn High School |
-| Ella Chen | Rosemont Ridge Middle School |
-| Sean Jiang | Lake Oswego High School |
-| Owen Ni | Lake Oswego High School |
-| Tony Tu | Lake Oswego High School |
-| Haoxiang Zhu | Jesuit High School |
 | :one::zero: [Hosford Middle School](https://maps.app.goo.gl/At83LKkLWWBcQF8K7), SE Portland | |
-| Mandy Du | David Douglas High School |
-| Ashley Fong | Hosford Middle School |
-| Samantha Nyah | Hosford Middle School |
-| Jozlyn Wallace | Hosford Middle School |
-| Ryan Wu | Happy Valley Middle School |
-| Vivian Wu | Verne Duncan Elementary |
 | :one::one: [Chepenafa Springs Park](https://maps.app.goo.gl/e83tVuCVe18LgVMw7), Corvallis | |
-| Jodie He | Crescent Valley High School |
-| Aiden Li | Cresent Valley High School |
-| Alena Li | Cresent Valley High School |
-| Sophia Qiu | Cresent Valley High School |
-| Julia Wang | Cresent Valley High School |
-| Mark Yeh | Cresent Valley High School |
 | :one::two: Willamette Chinese School, Corvallis | |
-| Theodore Di | Cresent Valley High School |
-| Joanna Lin | Franklin School |
-| Yuhao Lin | Franklin School |
 
 ## Donation Items
+
+### Toys in collabration with ODHS at Beaverton Office
+
+Toys for ages 0–12 years, like Legos, STEM toys, action figures, dolls, Paw Patrol, Marvel, Barbie, craft and activity sets, and culturally diverse toys.
+
+Gift cards for teens for the mall, Zumiez, Target, Kohl’s, Walmart, and Ulta.
 
 ### Clothing -- What people need most in winter is warm clothes.
 
@@ -126,12 +80,12 @@ Holiday gifts and gift cards for children living in our alcohol- and drug-free f
 
 Soap, shampoo, tooth brush, tooth paste, feminine hygiene items, toilet paper, etc.
 
-**[2025 OCC Donation Receipt](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pdf/occ_donation_receipt_2025.pdf)**
+**[2026 OCC Donation Receipt](https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/pdf/occ_donation_receipt_2026.pdf)**
 
 ## Agencies to Receive our Donations
 
 [Transition Projects](https://www.tprojects.org/)  
-[Clay Street Table](https://claystreettable.org/)  
+[Oregon Department of Human Services](https://www.oregon.gov/odhs/Pages/default.aspx)  
 [Vina Moses Center](https://www.vinamoses.org/)  
 [South Corvallis Food Bank](https://www.southcorvallisfoodbank.org/)  
 
