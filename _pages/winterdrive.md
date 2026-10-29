@@ -37,13 +37,20 @@ feature_row:
 
 | Name/Drop Off Location | School/Organization |
 | --- | --- |
+| :one: [Gresham High School](https://maps.app.goo.gl/HUFrmP1Pdazu5qn17) | |
+| Alejandro Pacheco | Gresham High School |
 | :two: [West Sylvan Neighborhood and Bridlemile Elementary School](https://maps.app.goo.gl/NLPxXUjbMk2g4cFW9) | |
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
+| Andy Xiong | Jesuit High School |
 | :six: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
+| Kenneth Tan | Floyd Light Middle School |
 | :seven: [Alberta Rider Elementary School](https://maps.app.goo.gl/qf6LT5CBoRZkLgBw8) | |
 | :eight: [Stoller Middle School](https://maps.app.goo.gl/wxTME1DdkaMWnYRPA) | |
+| Chloe Chu | Willamette Valley Academy |
 | :nine: [West Lake Park](https://maps.app.goo.gl/g5gY3CnStRQs5Js99), Lake Oswego | |
+| Kimberly Hu | Lake Oswego High School |
+| Isaac Zhong | German International School |
 | :one::zero: [Hosford Middle School](https://maps.app.goo.gl/At83LKkLWWBcQF8K7), SE Portland | |
 | :one::one: [Chepenafa Springs Park](https://maps.app.goo.gl/e83tVuCVe18LgVMw7), Corvallis | |
 | :one::two: Willamette Chinese School, Corvallis | |
