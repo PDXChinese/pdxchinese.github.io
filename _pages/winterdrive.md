@@ -51,6 +51,8 @@ feature_row:
 | :seven: [Alberta Rider Elementary School](https://maps.app.goo.gl/qf6LT5CBoRZkLgBw8) | |
 | Arianna Hong | Beaverton Academy of Science and Engineering |
 | Brianna Hong | Beaverton Academy of Science and Engineering |
+| Doris Hong | Lake Oswego High School |
+| Caelyn Hong | Lake Oswego Middle School |
 | :eight: [Stoller Middle School](https://maps.app.goo.gl/wxTME1DdkaMWnYRPA) | |
 | Chloe Chu | Willamette Valley Academy |
 | :nine: [West Lake Park](https://maps.app.goo.gl/g5gY3CnStRQs5Js99), Lake Oswego | |
