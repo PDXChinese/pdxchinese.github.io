@@ -37,10 +37,10 @@ feature_row:
 
 | Name/Drop Off Location | School/Organization |
 | --- | --- |
-| :one: [Gresham High School](https://maps.app.goo.gl/HUFrmP1Pdazu5qn17) | |
+| :one: [Gresham High School](https://maps.app.goo.gl/HUFrmP1Pdazu5qn17), Gresham | |
 | Alejandro Pacheco | Gresham High School |
 | :two: [West Sylvan Neighborhood and Bridlemile Elementary School](https://maps.app.goo.gl/NLPxXUjbMk2g4cFW9) | |
-| :three: [Gilbert park elementary](https://maps.app.goo.gl/wy8Um2BTo9SV7NMe6) | |
+| :three: [Gilbert Park Elementary](https://maps.app.goo.gl/wy8Um2BTo9SV7NMe6) | |
 | Paige Dotson | Gilbert Park Elementary |
 | Peyton Dotson | Gilbert Park Elementary |
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
@@ -51,16 +51,23 @@ feature_row:
 | :seven: [Alberta Rider Elementary School](https://maps.app.goo.gl/qf6LT5CBoRZkLgBw8) | |
 | Arianna Hong | Beaverton Academy of Science and Engineering |
 | Brianna Hong | Beaverton Academy of Science and Engineering |
-| Doris Hong | Lake Oswego High School |
 | Caelyn Hong | Lake Oswego Middle School |
+| Doris Hong | Lake Oswego High School |
 | :eight: [Stoller Middle School](https://maps.app.goo.gl/wxTME1DdkaMWnYRPA) | |
 | Chloe Chu | Willamette Valley Academy |
+| Mikayla Peng | Jesuit High School |
+| Erin Qiu | Westview High School |
 | :nine: [West Lake Park](https://maps.app.goo.gl/g5gY3CnStRQs5Js99), Lake Oswego | |
 | Kimberly Hu | Lake Oswego High School |
 | Isaac Zhong | German International School |
 | :one::zero: [Hosford Middle School](https://maps.app.goo.gl/At83LKkLWWBcQF8K7), SE Portland | |
 | :one::one: [Chepenafa Springs Park](https://maps.app.goo.gl/e83tVuCVe18LgVMw7), Corvallis | |
+| Alena Li | Crescent Valley High School |
 | :one::two: Willamette Chinese School, Corvallis | |
+| :one::three: [Sunset High School](https://maps.app.goo.gl/8goZGrXFXpu52AzF7), Beaverton | |
+| Sophia Lee | Sunset High School |
+| :one::four: Vancouver, WA (specific location to be determined) | |
+| Ian Mason | Roosevelt Elementary |
 
 ## Donation Items
 
