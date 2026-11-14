@@ -44,9 +44,13 @@ feature_row:
 | Paige Dotson | Gilbert Park Elementary |
 | Peyton Dotson | Gilbert Park Elementary |
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
+| Benjamin Zhang | Westview High School |
+| Bryan Zhang | Westview High School |
+| Brady Zhang | Westview High School |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | Andy Xiong | Jesuit High School |
 | :six: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
+| Ethan Chen | Happy Valley Day Care and PreSchool |
 | Kenneth Tan | Floyd Light Middle School |
 | :seven: [Alberta Rider Elementary School](https://maps.app.goo.gl/qf6LT5CBoRZkLgBw8) | |
 | Arianna Hong | Beaverton Academy of Science and Engineering |
@@ -58,8 +62,12 @@ feature_row:
 | Mikayla Peng | Jesuit High School |
 | Erin Qiu | Westview High School |
 | :nine: [West Lake Park](https://maps.app.goo.gl/g5gY3CnStRQs5Js99), Lake Oswego | |
+| Aria Chen | Rosemont Ridge Middle School |
+| Brianna Chen | West Linn High School |
+| Ella Chen | West Linn High School |
 | Kimberly Hu | Lake Oswego High School |
 | Isaac Zhong | German International School |
+| Haoxiang Zhu | Jesuit High School |
 | :one::zero: [Hosford Middle School](https://maps.app.goo.gl/At83LKkLWWBcQF8K7), SE Portland | |
 | :one::one: [Chepenafa Springs Park](https://maps.app.goo.gl/e83tVuCVe18LgVMw7), Corvallis | |
 | Alena Li | Crescent Valley High School |
