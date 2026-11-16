@@ -49,6 +49,7 @@ feature_row:
 | Brady Zhang | Westview High School |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
 | Andy Xiong | Jesuit High School |
+| Jerry Zhou | OES |
 | :six: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
 | Ethan Chen | Happy Valley Day Care and PreSchool |
 | Kenneth Tan | Floyd Light Middle School |
@@ -75,6 +76,7 @@ feature_row:
 | :one::three: [Sunset High School](https://maps.app.goo.gl/8goZGrXFXpu52AzF7), Beaverton | |
 | Sophia Lee | Sunset High School |
 | :one::four: Vancouver, WA (specific location to be determined) | |
+| Marissa Martinez | Columbia River High School |
 | Ian Mason | Roosevelt Elementary |
 
 ## Donation Items
