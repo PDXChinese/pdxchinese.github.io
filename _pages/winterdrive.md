@@ -39,6 +39,7 @@ feature_row:
 | --- | --- |
 | :one: [Gresham High School](https://maps.app.goo.gl/HUFrmP1Pdazu5qn17), Gresham | |
 | Alejandro Pacheco | Gresham High School |
+| KoraMay Whitfield | Parkrose Sacramento Elementary |
 | :two: [West Sylvan Neighborhood and Bridlemile Elementary School](https://maps.app.goo.gl/NLPxXUjbMk2g4cFW9) | |
 | :three: [Gilbert Park Elementary](https://maps.app.goo.gl/wy8Um2BTo9SV7NMe6) | |
 | Paige Dotson | Gilbert Park Elementary |
