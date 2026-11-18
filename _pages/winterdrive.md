@@ -2,23 +2,12 @@
 title: " "
 permalink: /winterdrive/
 feature_row:
-
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_alberta
-    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_alberta'>Alberta Rider Elementary School</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_bridlemile
-    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_bridlemile'>West Sylvan Neighborhood and Bridlemile Elementary School</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_fp
-    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_fp'>Forest Park Elementary</a></p>"  
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_corvallis
-    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_corvallis'>Willamette Chinese School, Corvallis</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_lo
-    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_lo'>West Lake Park, Lake Oswego</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_corvallis2
-    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_corvallis2'>Chepenafa Springs Park, Corvallis</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_stoller
-    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_stoller'>Stoller Middle School</a></p>"
-  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_westview_jhpea5
-    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2025_winter_drive_westview_jhpea5'>Westview High School</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2026_winter_drive_alberta
+    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2026_winter_drive_alberta'>Alberta Rider Elementary School</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2026_winter_drive_chepenafa
+    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2026_winter_drive_chepenafa'>Chepenafa Springs Park</a></p>"
+  - image_path: https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2026_winter_drive_westview
+    excerpt: "<p><a href='https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/2026_winter_drive_westview'>Westview High School</a></p>"
 ---
 
 <p><img src="https://res.cloudinary.com/dhngj18do/image/upload/f_auto,q_auto/v1/images/activities/winter_drive_banner"></p>  
@@ -33,6 +22,8 @@ feature_row:
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DDGcnMkl_hOzU-W7GuZiZ8RI-FF91bFS" width="640" height="480"></iframe>
 <br>
 
+{% include feature_row id="feature_row"%}
+
 ## 2026 Student Volunteers
 
 | Name/Drop Off Location | School/Organization |
@@ -40,7 +31,6 @@ feature_row:
 | :one: [Gresham High School](https://maps.app.goo.gl/HUFrmP1Pdazu5qn17), Gresham | |
 | Alejandro Pacheco | Gresham High School |
 | KoraMay Whitfield | Parkrose Sacramento Elementary |
-| :two: [West Sylvan Neighborhood and Bridlemile Elementary School](https://maps.app.goo.gl/NLPxXUjbMk2g4cFW9) | |
 | :three: [Gilbert Park Elementary](https://maps.app.goo.gl/wy8Um2BTo9SV7NMe6) | |
 | Paige Dotson | Gilbert Park Elementary |
 | Peyton Dotson | Gilbert Park Elementary |
@@ -70,10 +60,8 @@ feature_row:
 | Kimberly Hu | Lake Oswego High School |
 | Isaac Zhong | German International School |
 | Haoxiang Zhu | Jesuit High School |
-| :one::zero: [Hosford Middle School](https://maps.app.goo.gl/At83LKkLWWBcQF8K7), SE Portland | |
 | :one::one: [Chepenafa Springs Park](https://maps.app.goo.gl/e83tVuCVe18LgVMw7), Corvallis | |
 | Alena Li | Crescent Valley High School |
-| :one::two: Willamette Chinese School, Corvallis | |
 | :one::three: [Sunset High School](https://maps.app.goo.gl/8goZGrXFXpu52AzF7), Beaverton | |
 | Sophia Lee | Sunset High School |
 | :one::four: Vancouver, WA (specific location to be determined) | |
