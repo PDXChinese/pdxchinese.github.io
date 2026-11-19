@@ -62,6 +62,7 @@ feature_row:
 | Haoxiang Zhu | Jesuit High School |
 | :one::one: [Chepenafa Springs Park](https://maps.app.goo.gl/e83tVuCVe18LgVMw7), Corvallis | |
 | Alena Li | Crescent Valley High School |
+| Sophia Qiu | Crescent Valley High School |
 | :one::three: [Sunset High School](https://maps.app.goo.gl/8goZGrXFXpu52AzF7), Beaverton | |
 | Sophia Lee | Sunset High School |
 | :one::four: Vancouver, WA (specific location to be determined) | |
