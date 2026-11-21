@@ -36,9 +36,13 @@ feature_row:
 | Peyton Dotson | Gilbert Park Elementary |
 | :four: [Westview High School](https://maps.app.goo.gl/qUu6Fu2SF2QcNxsd7) | |
 | Benjamin Zhang | Westview High School |
+| Naomi Lin | Westview High School |
+| Sonia Yang | Westview High School |
 | Bryan Zhang | Westview High School |
 | Brady Zhang | Westview High School |
 | :five: [Forest Park Elementary School](https://maps.app.goo.gl/oc1mhAQxLiBdwBiEA) | |
+| Justin Wu | West Sylvan Middle Schoool |
+| Max Wu | Lincoln High School |
 | Andy Xiong | Jesuit High School |
 | Jerry Zhou | OES |
 | :six: [Chang Fa Supermarket 祥发超市 in SE 82nd Ave](https://maps.app.goo.gl/ZDuvTDEfnCti7cYV7) | |
@@ -58,11 +62,14 @@ feature_row:
 | Brianna Chen | West Linn High School |
 | Ella Chen | West Linn High School |
 | Kimberly Hu | Lake Oswego High School |
+| Isaac Lu | Catlin Gable School |
 | Isaac Zhong | German International School |
 | Haoxiang Zhu | Jesuit High School |
 | :one::one: [Chepenafa Springs Park](https://maps.app.goo.gl/e83tVuCVe18LgVMw7), Corvallis | |
 | Alena Li | Crescent Valley High School |
 | Sophia Qiu | Crescent Valley High School |
+| Mark Yeh | Crescent Valley High School |
+| Samuel Zhu | Crescent Valley High School |
 | :one::three: [Sunset High School](https://maps.app.goo.gl/8goZGrXFXpu52AzF7), Beaverton | |
 | Sophia Lee | Sunset High School |
 | :one::four: Vancouver, WA (specific location to be determined) | |
